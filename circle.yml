@@ -1,0 +1,11 @@
+
+machine:
+  ruby:
+    version:
+      2.3.1
+  node:
+    version: 6.1.0
+
+test:
+  override:
+    - bundle exec htmlproofer _site --disable-external --allow-hash-href --empty-alt-ignore
