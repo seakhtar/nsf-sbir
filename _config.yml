@@ -7,3 +7,7 @@ styles:
 scripts:
   - src: /assets/uswds/js/uswds.min.js
     async: true
+
+jekyll_get:
+  - data: awards
+    json: 'http://api.nsf.gov/services/v1/awards.json?agency=nsf'
