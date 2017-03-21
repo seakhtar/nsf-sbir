@@ -10,20 +10,26 @@
 #   links: primary
 #
 primary:
-  - text: Documentation
+  - text: Left navigation page
     href: /docs/
-  - text: Navigation section
-    links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-  - text: Referenced section
-    links: footer
+  - text: Demo dropdown
+    links: docs
+  - text: Awards
+    href: /awards/
 
 secondary: []
+
+docs:
+  - text: Left navigation page
+    href: /docs/
+  - text: Additional item
+    href: #
+
+awards:
+  - text: Awards
+    href: /awards/
+  - text: Additional item
+    href: #
 
 footer:
   - text: Documentation
@@ -32,13 +38,3 @@ footer:
     href: /one/
   - text: Demo link two
     href: /two/
-
-docs:
-  - text: Documentation
-    href: /docs/
-  - text: Installation
-    href: /docs/install/
-  - text: Upgrading
-    href: /docs/upgrade/
-  - text: Help
-    href: /docs/help/

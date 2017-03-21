@@ -5,9 +5,9 @@ permalink: /docs/
 layout: docs
 sidenav: docs
 subnav:
-  - text: Section one
+  - text: Sublink one
     href: '#section-one'
-  - text: Section two
+  - text: Sublink two
     href: '#section-two'
 ---
 
