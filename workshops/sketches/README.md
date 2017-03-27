@@ -126,13 +126,64 @@ Notes:
 - Contact us
 
 # corepage_1316.JPG	
-comments here
+## How to apply page
+Notes:
+### Business goals
+- Share timeline
+- Show steps - before / during / after
+- Determine fit
+- Executive summary
+- Fastlane Guide
+
+### Inward paths
+- Search
+- Homepage
+
+### User tasks
+n/a
+
+### Core content
+n/a
+
+### Forward paths
+n/a
 
 # corepage_1317.JPG	
-comments here
+## Success stories page
 
 # corepage_1318.JPG	
-comments here
+## Success stories page
+Notes:
+### Business goals
+- Gain understanding of program
+- Inspire potential submitters
+- Reach underrepresented groups
+- Justify program to congress and tax payers
+
+### Inward paths
+- SBIR homepage
+- Tweets
+- Quarterly update
+- OLPA 
+
+### User tasks
+- Learn who / what we fund
+- Become inspired / submit
+- Understand "payoff"
+
+### Core content
+- Videos
+- Tweets
+- Highlights
+- Company websites
+- Testimonials
+- Press Releases 
+
+### Forward paths
+- How to apply
+- Contact us
+- Call congress!
+- Company website
 
 # corepage_1319.JPG	
 comments here
