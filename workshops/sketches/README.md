@@ -186,7 +186,36 @@ Notes:
 - Company website
 
 # corepage_1319.JPG	
-comments here
+## How to apply page
+Notes:
+### Business goals
+- Receive proposals
+- Provide clear instruction
+
+### Inward paths
+- NSF/SBIR 
+- Google
+- Email
+- Quarterly update
+
+### User tasks
+- Learn how to submit
+- Access our help guides
+- Access info/links to registration
+
+### Core content
+- Solicitations
+- Fastlane guide
+- Sample budget
+- Other resources (webinars)
+- Registrations links
+- FAQs
+
+### Forward paths
+- Fastlane
+- Registrations / SAM / DUNS
+- Wbinars / FAQs
+- About us page
 
 # corepage_1320.JPG	
 comments here
