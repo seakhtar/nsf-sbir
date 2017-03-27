@@ -57,7 +57,40 @@ Notes:
 
 
 # corepage_1313.JPG	
-comments here
+## Why / benfits of SBIR
+Notes: 
+### Business goals
+- Pitch for program / persuade
+- Mission for NSF / govt 
+- Serve our country & community
+
+### Inward paths
+- Organic search
+- NSF.gov search
+- Social media
+- Press
+- About us
+
+### User tasks
+- Learn / understand program
+- Identify with program
+- Determine philosophical fit
+
+### Core content
+- Success stories
+- News / articles
+- Good stats
+- Mentoring
+- Network
+- Prestige / opens doors
+- No equity $
+
+### Forward paths
+- Who we are / about us
+- Am I a good fit?
+- How to apply?
+- Success stories
+
 
 # corepage_1314.JPG	
 comments here
