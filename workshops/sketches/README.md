@@ -91,7 +91,6 @@ Notes:
 - How to apply?
 - Success stories
 
-
 # corepage_1314.JPG	
 ## Why page
 
@@ -218,10 +217,66 @@ Notes:
 - About us page
 
 # corepage_1320.JPG	
-comments here
+## About us page
+Notes:
+### Business goals
+- Program philosophy
+- Who we are
+- What we do
+- How we do it
+- Attract women and undereprisented minorities
+
+### Inward paths
+- SBIR 
+- NSF
+- Google
+- iip home page
+- www.nsf.gov/sbir
+
+### User tasks
+- Getting to know us
+- Decide if good fit
+- Learn about benefits of program
+
+### Core content
+- Program blurb
+- Program philosophy
+ - Technical risk
+ - Innovation / creativity
+ - Team
+
+### Forward paths
+- Visualize program start to finish
+- Executive summary topics
+- How to apply
+- Events / outreach / webinars / help
 
 # corepage_1321.JPG	
-comments here
+## Contact us page
+Notes: 
+### Business goals
+- Provide easy access to PDs
+- Introduce staff (PDs)
+
+### Inward paths
+- About us
+- How to apply
+- SBIR home page
+- IIP home page
+
+### User tasks
+- Getting to know us
+
+### Core content
+- PD headshots
+ - Bios
+ - Contact info
+ - Topic areas
+- Link to webinar page
+
+### Forward paths
+- Ececutive summary
+- Webinars
 
 # corepage_1322.JPG
 comments here
