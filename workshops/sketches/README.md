@@ -28,28 +28,28 @@ Notes:
 # corepage_1312.JPG	
 ## Who we are / About us
 Notes:
-Business goals:
+### Business goals
 - Mission for NSF Govt
 - Feel welcome / increase trust
 - Personalize with photos and bios
 - Make NSF feel credible to visitors
 - Who and how to contact
-Inward paths:
+### Inward paths
 - Why, benefits, other nsf pages
 - Am i a good fit?
 - Webinars and outreach activities
 - Search (Person)
-User tasks:
+### User tasks
 - Believe I can trust the program
 - Learn who can help me
 - Determine fit
-Core content:
+### Core content
 - Photos, short relevant bios
 - Contact info, areas of expertiese and other media
 - The NSF program philosophy
 - Goals of the program
 - Success stories and good stats
-Forward paths:
+### Forward paths
 - To technology topics
 - Why / benefits of SBIR
 - Email / phone conversation
