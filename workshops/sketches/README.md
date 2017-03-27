@@ -93,10 +93,37 @@ Notes:
 
 
 # corepage_1314.JPG	
-comments here
+## Why page
 
 # corepage_1315.JPG
-comments here
+## About us page
+Notes:
+### Business goals
+- Who we are - get to know PDS - photos and bios
+- Criteria for review - fit
+- Team topic areas / portfolio companies
+
+### Inward paths
+- NSF SBIR Homepage
+- NSF
+- Google
+- Ads
+
+### User tasks
+- Learn more
+- See who we funded + if they fit
+
+### Core content
+- Mission goals
+- Philosophy
+- Tech topic areas
+- Examples
+
+### Forward paths
+- Portfolio companies
+- Why page
+- How to apply
+- Contact us
 
 # corepage_1316.JPG	
 comments here
