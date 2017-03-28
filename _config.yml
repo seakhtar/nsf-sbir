@@ -12,7 +12,7 @@ scripts:
 
 collections:
   apply:
-    permalink: /how-to-apply/:path
+    permalink: /how-to-apply/:path/
     output: true
 
 defaults:
