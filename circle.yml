@@ -6,6 +6,10 @@ machine:
   node:
     version: 6.1.0
 
+dependencies:
+  pre:
+    - gem install bundler
+
 test:
   override:
     - bundle exec htmlproofer _site --disable-external --allow-hash-href --empty-alt-ignore
