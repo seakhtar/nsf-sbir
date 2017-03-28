@@ -1,9 +1,22 @@
 title: NSF SBIR
 theme: jekyll-uswds
 
+baseurl: ""
+
 styles:
   - /assets/uswds/css/uswds.min.css
 
 scripts:
   - src: /assets/uswds/js/uswds.min.js
     async: true
+
+collections:
+  apply:
+    permalink: /how-to-apply/:path
+    output: true
+
+defaults:
+  - scope:
+      path: "_apply"
+    values:
+      layout: docs
