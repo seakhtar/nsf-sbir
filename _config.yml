@@ -5,7 +5,7 @@ baseurl: ""
 permalink: pretty
 
 styles:
-  - /assets/uswds/css/uswds.min.css
+  - /assets/css/uswds-overrides.css
 
 scripts:
   - src: /assets/uswds/js/uswds.min.js

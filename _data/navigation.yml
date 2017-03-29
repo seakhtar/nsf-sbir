@@ -14,10 +14,14 @@ primary:
     href: /about/
   - text: Apply
     links:
+      - text: Application timeline
+        href: /how-to-apply/timeline
       - text: How to apply
         href: /how-to-apply/
       - text: Merit review
         href: /how-to-apply/merit-review
+  - text: Events
+    href: /events/
   - text: Contact
     href: /contact/
 
