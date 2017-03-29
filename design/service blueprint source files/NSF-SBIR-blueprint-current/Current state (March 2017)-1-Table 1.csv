@@ -1,73 +1,59 @@
 Phase,Customer Actions,Touchpoints & Devices,Other Actions,Systems & Processes,Other Actions,"Infrastructure, Partners & Networks",Notes,Customer Value,NSF Value
-> 90 days prior to deadline,Follow NSF SBIR on social media,,,,,,,,
-,See ads,,,,,,,Discovery: Learns about funding (?) opportunity. What do we want the viewer to learn from the ads?,Customer development
-,(Think about starting a company),"Fax, Mail or Online: https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers-eins ",Apply for Employer Identification Number (EIN),IRS,,,(1) What is the motivation for someone to start a company? (2) What other actions do they need to take in order to become a company? (3) How much time/$ does it take to obtain an EIN? ,,
-,Pursue post-doc studies,,,,,,,Education,
-,Attend events for fundraising.,SBA road tour: http://www.sbirroadtour.com/,,,,,,Interaction / networking with industry,
-,,VC Summit and similar investor events,,,,,,Assess opportunity cost of pursuing one funding path vs. another,
-,,Local Transfer of Technology (ToT) or Development of Technology Transfer office,,,,,,,
-,,"Tradeshows and conferences (e.g., CES, SXSW)",,,,,,,
-,,"Funding webinars (e.g., CIT.org — Center for Innovation Technology: http://www.cit.org/service-lines/cit-entrepreneur-webinars/ )",,,,,,,
-– 90 days,Speak to NSF Staff,Business card (exchanged from event),,,,,,,
-,,NSF SBIR website,,,,,,,
-,Sign up for newsletter (listserv),NSF SBIR website,,,,,,Learn about upcoming announcements. (Quarterly updates),
-,Research and figure out other awardees,NSF SBIR awards search ,,,,,,,
-,,Reaching out to network to see if they know NSF SBIR,,,,,,,
-,,Word-of-mouth,,,,,,,
-,,Crunchbase,,,,,,,
-,,LinkedIn,,,,,,,
-,Watch videos,NSF SBIR website / YouTube,,,,,,,
-,Read technology topic areas,NSF SBIR website,,,,,,,
-,Submit Executive Summary,Emails (PD contact info obtained from website),,,,,Some email different PDs and get different answers from each. 10-12% of executive summaries fall through the cracks and are left unanswered. (This is sensitive; a known problem),Receive feedback that can be valuable in shaping their proposal for submission and potentially improve their chance of receiving an award.,
-,,Program Director receives an unsolicited email; prompts them for a summary. ,,,,,,,
-,,Cold call email,,,,,,,
-– 60-30 days ,Read solicitation.,NSF SBIR website,,,,,Each solicitation only active ~60 days each year.,,
-,Attend webinar.,NSF SBIR website,,WebEx,,,NSF SBIR is not allowed to conduct these until the solicitation has been posted.,,
-,,Email signature,,,,,,,
-,,Social media,,,,,,,
-,,Listserv,,,,,,,
-,Read FAQs.,NSF SBIR website: https://www.nsf.gov/pubs/2017/nsf17029/nsf17029.jsp,,,,,FAQs need to undergo legal review,,
-,Apply for a DUNS number (requires EIN tax number),Online: https://fedgov.dnb.com/webform,,Dun & Bradstreet,,IRS,(1) Takes 30 days for a free DUNS number or 5 days for a $50 fee.,,
-,Register entity with SAM.gov,Online: https://www.sam.gov/portal/SAM/,,System for Award Management (SAM),??,,(1) How long does this process take if you’re starting from scratch?,,
-,"Register firm with SBIR.gov (requires EIN, DUNS)",Online: https://www.sbir.gov/registration ,,SBIR,Check EIN and/or DUNS number.,IRS and/or D&B,(1) May take 2-6 weeks turnaround.,,
-,"Register firm with NSF Fastlane (requires EIN, DUNS)",Online: https://www.fastlane.nsf.gov/a0/about/registration.htm,,FastLane,,??,(1) Takes 1-2 days turnaround. (2) Need to identify Principal Investigator (PI) ,,
-,Begin to gather letters of support.,??,,n/a,Third-party contacts provide letters of support in writing.,,"(1) Is there a template or a set of guidelines for this? (2) How is this currently submitted? (3) Can they submit soft copies? (4) Do the letters need to be notarized? I.e., how do you verify/authenticate?",,
-– 30 days,,,,,Solicitation posted,,,,
-– 4-2 weeks,Enter information into FastLane,FastLane,Outline of proposal (structured),,,,,,
-,,,Financials / Budget (structured); Refer to  Department of Labor/Bureau of Labor Statistics for salary ranges,,,,,,
-,,,Project Summary (structured),,,,,,
-,,,Personnel (structured),,,,,,
-,,,Resumes / CVs (unstructured),,,,,,
-,,,Cover Sheet (structured),,,,,,
-,,,Letters of Support (unstructured),,,,,,
-,,,Business Model (unstructured),,,,,,
-,,,Commercialization history / SBA Certification form (unstructured),,,,,,
-,,,PI and Administrator certification,,,,,,
-,,,A lot of PDFs,,,,This is a known pain point as the applicant has to create another account to submit as a research administrator. Applications wind up being disqualified because they are deemed incomplete.,,
-,Call help desk,,,,,,(1) Help Desk receives hundreds of calls during peak period,,
-– 4-2 days,Submit proposal,FastLane,,,,,,,
+> 90 days,Pursue post-doc studies,,,,,,,,
+,Think about starting a company,"Fax, Mail or Online: https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers-eins ",Apply for Employer Identification Number (EIN),IRS,,,"Starting a company needs to be unpacked a bit. (1) What prompted them to start a company? (2) Have they done some level of (a) market validation/customer development (b) product validation at this point? (3) Assumption that starting a company = getting EIN; (4) What other actions do they need to take in order to become a company?
+ ",+,
+,See NSF SBIR ads,,,,,,"Under what context would they see the ad? What do we want them to do with the ads? What are the conversion metrics?
+",/,/
+,Follow NSF SBIR on social media,,,,,,How would your target audience learn about NSF SBIR at this stage? Solely through ads?,/,/
+,Attend events for fundraising.,SBA road tour: http://www.sbirroadtour.com/,,,,,"(1) There are no events or other time-based content on the site. (Even the submission deadlines tend to be buried.) (2) No system for managing contacts 
+",+,+
+,,VC Summit and similar investor events,,,,,,+,+
+,,Local Transfer of Technology (ToT) or Development of Technology Transfer office,,,,,,+,+
+,,"Tradeshows and conferences (e.g., CES, SXSW)",,,,,,+,+
+,,"Funding webinars (e.g., CIT.org — Center for Innovation Technology: http://www.cit.org/service-lines/cit-entrepreneur-webinars/ )",,,,,,+,+
+– 90 days,,,,,Solicitation posted,,,/,/
+,Speak to NSF Staff,Business card (exchanged from event),,,,,,/,/
+,,NSF SBIR website,,,,,,+,+
+,Sign up for newsletter (listserv),NSF SBIR website,,,,,"Unable to segment subscribers or collect any data-based insight. Only collects email addresses. Low frequency broadcast channel. Primary channel for notifying new solicitation/application deadline.
+",/,/
+,Research and figure out other awardees,NSF SBIR awards search ,,,,,Users did not find the search listings or the available data on the companies very helpful.,–,/
+,,Reaching out to network to see if they know NSF SBIR,,,,,,–,/
+,,Word-of-mouth,,,,,,+,+
+,,Crunchbase,,,,,,+,–
+,,LinkedIn,,,,,,+,–
+,Watch videos,NSF SBIR website / YouTube,,,,,,+,+
+,Read technology topic areas,NSF SBIR website,,,,,,+,+
+,Submit Executive Summary,Emails (PD contact info obtained from website),,,,,Some email different PDs and get different answers from each. 10-12% of executive summaries fall through the cracks and are left unanswered. (This is sensitive; a known problem),+,+
+,,Program Director receives an unsolicited email; prompts them for a summary. ,,,,,,+,+
+– 60-30 days ,Read solicitation.,NSF SBIR website,,,,,Each solicitation only active ~60 days each year.,/,+
+,Attend webinar.,"NSF SBIR website (Discover through site, email signature, social media, listserv)",,WebEx,,,NSF SBIR is not allowed to conduct these until the solicitation has been posted. Registration captures email.,+,+
+,Read FAQs.,NSF SBIR website: https://www.nsf.gov/pubs/2017/nsf17029/nsf17029.jsp,,,,,FAQs need to undergo legal review,+,+
+,Apply for a DUNS number (requires EIN tax number),Online: https://fedgov.dnb.com/webform,,Dun & Bradstreet,,IRS,(1) Takes 30 days for a free DUNS number or 5 days for a $50 fee.,–,/
+,Register entity with SAM.gov,Online: https://www.sam.gov/portal/SAM/,,System for Award Management (SAM),??,,(1) How long does this process take if you’re starting from scratch?,–,/
+,"Register firm with SBIR.gov (requires EIN, DUNS)",Online: https://www.sbir.gov/registration ,,SBIR,Check EIN and/or DUNS number.,IRS and/or D&B,(1) May take 2-6 weeks turnaround.,–,/
+,"Register firm with NSF Fastlane (requires EIN, DUNS)",Online: https://www.fastlane.nsf.gov/a0/about/registration.htm,,FastLane,,??,(1) Takes 1-2 days turnaround. (2) Need to identify Principal Investigator (PI) ,/,/
+,Begin to gather letters of support.,??,,n/a,Third-party contacts provide letters of support in writing.,,"(1) Is there a template or a set of guidelines for this? (2) How is this currently submitted? (3) Can they submit soft copies? (4) Do the letters need to be notarized? I.e., how do you verify/authenticate?",/,+
+– 4-2 weeks,Enter information into FastLane,FastLane,,,,,Info includes: Outline of proposal (structured); Financials / Budget (structured); Refer to  Department of Labor/Bureau of Labor Statistics for salary ranges; Project Summary (structured); Personnel (structured); Resumes / CVs (unstructured); Cover Sheet (structured); Letters of Support (unstructured); Business Model (unstructured); Commercialization history / SBA Certification form (unstructured),/,+
+,PI and Administrator certification,FastLane,,,,,(This is a known pain point as the applicant has to create another account to submit as a research administrator. Applications wind up being disqualified because they are deemed incomplete.),/,+
+,Call help desk,Phone,,,,,(1) Help Desk receives hundreds of calls during peak period,+,/
+– 4-2 days,Submit proposal,FastLane,,FastLane,,,,/,/
 Deadline,,,,Submission deadline,,,,,
-,,,,,NSF screens proposals,,Usually takes about 1 week,,
-,,,,Proposals that do not meet basic specifications are returned without review (RWR),,,"Reasons for RWR: (1) Projects which were submitted late (most of these would not have been able to submit, but some who checked the “exception” box may have to be RWR’ed)
-(2) Projects with project descriptions > 15 pages (if the extra pages have no significant content, we will usually let them go to panel, but if it looks like it’s too much to have put on 15 pages, they will be returned)
-(3) Projects asking for significantly more than $225,000 (we will make sure that the request is consistent in multiple places in the proposal; if some areas request $225k and other request more, we’ll make a judgement call as to whether it was a typo or intentional)
-(4) Some projects which are completely missing a commercial discussion will get flagged by the staff and returned.  If the commercial discussion exists in a weird format, it’ll generally be allowed to go to panel (with the PD consulted in some edge cases)",,
-,,,,"FastLane sends an email that sounds like an acceptance, but it isn’t.",,,,,
-,,,,Applicant can see when proposal is assigned to reviewers (but receives no notification). Managed via e-jacket.,,,Applicant has to proactively log in to check status.,,
-,,,,Applicant can see when proposal has been assigned for panel review. Managed via e-jacket.,,,,,
-,,,,,"Emails are answered, standard process, etc. ",,,,
-,,,,PI notified by email / status update whether proposal is recommended or rejected. Managed via e-jacket.,,,Decisions are final. No protests — but are allowed to submit another Phase I proposal. (1) Do applicants receive additional feedback on why they were rejected?,,
-,,,,Managed via e-jacket.,"Proposals that have been recommended undergo multiple reviews from PD to Division Director, then 30 days to financial office.",,,,
-,PI receives award letter.,,,Award letter sent to PI via e-jacket.,,,,,
-,Register for Awards Cash Management System.,,,,,,,,
-,Awardee can pull down funding.,,Ask questions about drawing down funds.,SAM,,,20% of the money is withheld until the very end of the Phase I period upon receipt of the final report.,,
-,,,,,Program directors send out email ,,,,
-,Awardees attend Phase I grantee workshop.,,,,,,,,
-,,,Email from Program Director,,,,,,
-,,,Email from Amanda,,,,,,
-,,,Email from Selda,,,,,,
-,,,Email from Comms (Kelly),,,,,,
-,"Provide updates via program director office hours, monthly phone calls, and/or written reports",,,,,,,,
-,"At the end of the Phase I period, submit final report. ",NSF SBIR: https://www.nsf.gov/eng/iip/sbir/reporting.jsp,Log in and submit through Research.gov: https://identity.research.gov/sso/UI/Login,,research.gov approval process,,,,
-,Customer able to access remaining funding,,Approved final report,SAM,Remaining funds released to customer.,,,,
+3 weeks after,Waiting,,Applicant has to proactively log in to check status. Receives no notification.,,NSF screens proposals. Proposals that do not meet basic specifications are returned without review (RWR),,"Usually takes about 1 week. Reasons for RWR: (1) Projects which were submitted late (2) Projects with project descriptions > 15 pages (if the extra pages have no significant content, we will usually let them go to panel, but if it looks like it’s too much to have put on 15 pages, they will be returned) (3) Projects asking for significantly more than $225,000 (4) Some projects which are completely missing a commercial discussion will get flagged by the staff and returned.",/,+
+,Waiting,,Applicant has to proactively log in to check status. Receives no notification.,"FastLane sends an email that sounds like an acceptance, but it isn’t.",,,,–,/
+,Waiting,,Applicant has to proactively log in to check status. Receives no notification.,Managed via e-jacket.,Sorting to panels completed.,,,–,/
+4-6 weeks after,Waiting,,Applicant has to proactively log in to check status. Receives no notification.,Managed via e-jacket.,External merit review begins.,,,–,/
+3-4 months after,Respond to email(s).,Email,,Managed via e-jacket,"Some applicants may get requests for additional information. Long lead-time items not already completed (e.g. human or animal subjects approvals, cooperative research agreements, etc.) should be expedited. ",,,+,+
+4-6 months after,PI receives recommend or reject email.,Email,,PI notified by email / status update whether proposal is recommended or rejected. Managed via e-jacket.,,,Decisions are final. No protests — but are allowed to submit another Phase I proposal. (1) Do applicants receive additional feedback on why they were rejected?,/,+
+,Waiting,,Applicant has to proactively log in to check status. Receives no notification.,"Proposals that have been recommended undergo multiple reviews from PD to Division Director, then 30 days to financial office. Managed via e-jacket.",,,,/,/
+6 months after,PI receives award letter.,Email,,Award letter sent to PI via e-jacket.,,,,+,/
+,Register for Awards Cash Management System.,Award Cash Management $ervice (ACM$),,,,,,/,/
+,Awardee can pull down funding.,,Ask questions about drawing down funds.,,,,20% of the money is withheld until the very end of the Phase I period upon receipt of the final report.,+,/
+,Awardees attend Phase I grantee workshop.,,,,,,,??,/
+,,,,,Email from Program Director,,,??,??
+,,,,,Email from Amanda,,,??,??
+,,,,,Email from Selda,,,??,??
+,,,,,Email from Comms (Kelly),,,??,??
+,"Provide updates via program director office hours, monthly phone calls, and/or written reports",Email and/or phone,,,,,,+,+
+,"At the end of the Phase I period, submit final report. ",NSF SBIR: https://www.nsf.gov/eng/iip/sbir/reporting.jsp,Log in and submit through Research.gov: https://identity.research.gov/sso/UI/Login,,research.gov approval process,,,+,+
+,Customer able to access remaining funding,Award Cash Management $ervice (ACM$),Approved final report,Award Cash Management $ervice (ACM$),Remaining funds released to customer.,,,+,+
 ,Apply for Phase II,,,,,,,,
