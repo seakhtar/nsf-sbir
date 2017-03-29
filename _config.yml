@@ -2,6 +2,7 @@ title: NSF SBIR
 theme: jekyll-uswds
 
 baseurl: ""
+permalink: pretty
 
 styles:
   - /assets/uswds/css/uswds.min.css
