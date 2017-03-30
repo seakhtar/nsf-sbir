@@ -5,7 +5,7 @@ permalink: /
 layout: landing
 
 hero:
-  image: /assets/img/hero.png
+  image: /assets/img/hero-2.png
   callout:
     alt: "NSF Seed Fund"
     text: Zero-equity funding to help startups transform innovative ideas into products and services.
