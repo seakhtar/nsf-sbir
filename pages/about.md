@@ -1,8 +1,8 @@
 ---
-title: Events
-permalink: /events/
+title: About
+permalink: /about/
 
 layout: docs
 ---
 
-# Events
+# About

@@ -11,7 +11,6 @@
         {{ hero.callout.text | default: hero.callout }}
       </h2>
       {% endif %}
-
       {% if hero.link %}
       <a class="usa-hero-link" href="{{ hero.link.href | relative_url }}">
         {{ hero.link.text }}
@@ -25,6 +24,9 @@
         href="{{ hero.button.href | relative_url }}">
         {{ hero.button.text }}
       </a>
+      {% endif %}
+      {% if hero.callout.subtext %}
+        <span class="usa-hero-callout-subtext">{{ hero.callout.subtext }}</span>
       {% endif %}
     </div>
   </div>

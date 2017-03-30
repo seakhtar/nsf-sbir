@@ -28,12 +28,12 @@ primary:
 secondary: []
 
 footer:
-  - text: Documentation
-    href: /docs/
-  - text: Demo link one
+  - text: Contact
+    href: /contact/
+  - text: Check application status
     href: /one/
-  - text: Demo link two
-    href: /two/
+  - text: Events
+    href: /events/
 
 docs:
   - text: Documentation
