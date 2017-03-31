@@ -12,38 +12,22 @@ hero:
     subtext: Deadline is June 14th, 2017
   button:
     href: /how-to-apply/
-    text: Start your application now
+    text: We've helped [Company], [Company], and [Company] get started. Apply for funding now.
 
 ---
-## What is SBIR?
-We work with early-stage startups with the potential to make big technological innovations. Our zero-equity funding will give you resources for research and development, and our team of experts can offer valuable guidance — now and in the future.
+## Our philosophy
 
-## Are you a good fit?  
+Since 1977, the NSF seed fund (powered by SBIR/STTR) has helped startups develop their idea and bring them to market. We work with seed-stage companies across all tech sectors — IoT, smart health, robotics, and many more — whose work promises to make a notable social impact.
 
-We’re looking for innovative, high-risk work that needs a bit more research and development. We also look for the potential for commercial and social impact — your technology needs to have a good market fit and benefit society.
+Inclusivity is central to our philosophy. We seek to fund companies outside of tech hotbeds, and we promote the innovations of women, people of color, and other folks from marginalized groups. 
 
-Sound like you? Submit an executive summary of your work to one of our Program Directors to get more insight on whether your company is a good fit.
+We offer up to $225k in funding for proof of concept projects and up to $750k in funding for projects that warrant further development; between 2007 and 2016 alone, we funded more than 4,000 proposals. What’s more, we provide the mentorship and event access that sets our founders on the path to success.
 
-## Our story
-The NSF seed fund, powered by SBIR/STTR, helps startups commercialize and join the national R&D arena. We promote tech innovation across the country and help the United States meet its research needs. Our support of tech innovation strengthens the national economy.
+## Are you a good fit?
 
-**We have four goals that support our mission:**
+We’re always seeking to support innovative, high-risk work that needs a bit more research and development. We also consider your potential for commercial and social impact — your technology needs to have a good market fit and benefit society.
 
-- Promote technological innovation.
-- Meet federal research and development needs.
-- Help socially and economically disadvantaged people become entrepreneurs and develop innovative technologies.
-- Increase private-sector commercialization of federally funded innovations.
-
-
-## Top FAQs
-### What types of projects get funded?
-
-We fund projects from broad technology sectors — IoT, smart health, robotics, edtech, and more. We’re more interested in the level of innovation your work offers than the sector you fall into.
-
-### How do I know if I’m a good fit?
-
-Wondering if you’d be a strong contender? Check out of portfolio of recently funded companies; it will give you a sense of the types of innovations we’re seeking. In generally, we’re looking to help companies with highly innovative, high-risk, and marketable ideas — work that’s never been done before and has the potential for big social impact.
-
+Sound like you? Check out our portfolio, then submit an executive summary of your work to one of our Program Directors. We’ll provide more insight on whether now is the right time to apply.
 
 ## Curious about the status of your application?
 
