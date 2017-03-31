@@ -32,14 +32,14 @@ Besides providing funding to help you get your ideas off the ground, the NSF see
 ## Meet our team
 Our Program Directors are domain experts from diverse fields — get to know them here. 
 
-[Henry Ahn](hahn@nsf.gov): Biomedical technologies. 
-[Peter Atherton](patherto@nsf.gov): Information technologies. 
-[Anna  Brady-Estevez](abrady@nsf.gov): Chemical & environmental technologies. 
-[Glenn H. Larsen](glarsen@nsf.gov): Educational technologies & applications. 
-[Debasis Majumdar](dmajumda@nsf.gov): Advanced materials & instrumentation. 
-[Rajesh Mehta](rmehta@nsf.gov): Advanced manufacturing & nanotechnology. 
-[Muralidharan S. Nair](mnair@nsf.gov): Electronic hardware, robotics & wireless technologies.
-[Ben Schrag](bschrag@nsf.gov): General topics. 
-[Rick Schwerdtferger](rschwerd@nsf.gov): Internet of things; Semiconductors & photonic devices and materials.
-[Ruth M. Shuman](rshuman@nsf.gov): Biological technologies. 
-[Jesus V. Soriano](jsoriano@nsf.gov): Smart health.
+- [Henry Ahn](hahn@nsf.gov): Biomedical technologies. 
+- [Peter Atherton](patherto@nsf.gov): Information technologies. 
+- [Anna  Brady-Estevez](abrady@nsf.gov): Chemical & environmental technologies. 
+- [Glenn H. Larsen](glarsen@nsf.gov): Educational technologies & applications. 
+- [Debasis Majumdar](dmajumda@nsf.gov): Advanced materials & instrumentation. 
+- [Rajesh Mehta](rmehta@nsf.gov): Advanced manufacturing & nanotechnology. 
+- [Muralidharan S. Nair](mnair@nsf.gov): Electronic hardware, robotics & wireless technologies.
+- [Ben Schrag](bschrag@nsf.gov): General topics. 
+- [Rick Schwerdtferger](rschwerd@nsf.gov): Internet of things; Semiconductors & photonic devices and materials.
+- [Ruth M. Shuman](rshuman@nsf.gov): Biological technologies. 
+- [Jesus V. Soriano](jsoriano@nsf.gov): Smart health.
