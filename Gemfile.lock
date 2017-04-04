@@ -1,8 +1,8 @@
 GIT
-  remote: https://github.com/18F/jekyll-uswds.git
-  revision: d98f8da4cd7530957b24aa88d398281323719f8c
+  remote: https://github.com/18F/uswds-jekyll.git
+  revision: 0cdb819e6f49854ecb11acb4a5fb8a57b11b3937
   specs:
-    jekyll-uswds (0.1.1)
+    uswds-jekyll (1.0.0)
       jekyll (~> 3.4)
 
 GEM
@@ -33,7 +33,7 @@ GEM
       typhoeus (~> 0.7)
       yell (~> 2.0)
     i18n (0.8.1)
-    jekyll (3.4.1)
+    jekyll (3.4.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -87,9 +87,9 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
-  jekyll-uswds!
   pry
   rb-readline
+  uswds-jekyll!
 
 RUBY VERSION
    ruby 2.3.1p112
