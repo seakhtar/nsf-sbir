@@ -1,8 +1,8 @@
 GIT
-  remote: https://github.com/18F/jekyll-uswds.git
-  revision: d98f8da4cd7530957b24aa88d398281323719f8c
+  remote: https://github.com/18F/uswds-jekyll.git
+  revision: 0cdb819e6f49854ecb11acb4a5fb8a57b11b3937
   specs:
-    jekyll-uswds (0.1.1)
+    uswds-jekyll (1.0.0)
       jekyll (~> 3.4)
 
 GEM
@@ -15,6 +15,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
+    coderay (1.1.1)
     colorator (1.1.0)
     colored (1.2)
     concurrent-ruby (1.0.5)
@@ -34,7 +35,7 @@ GEM
       typhoeus (~> 0.7)
       yell (~> 2.0)
     i18n (0.8.1)
-    jekyll (3.4.1)
+    jekyll (3.4.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -56,6 +57,7 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    method_source (0.8.2)
     mini_portile2 (2.1.0)
     minitest (5.10.1)
     nokogiri (1.7.0.1)
@@ -63,13 +65,19 @@ GEM
     parallel (1.11.1)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
+    pry (0.10.4)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
     public_suffix (2.0.5)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.8)
       ffi (>= 0.5.0)
+    rb-readline (0.5.4)
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.23)
+    slop (3.6.0)
     thread_safe (0.3.6)
     typhoeus (0.8.0)
       ethon (>= 0.8.0)
@@ -84,8 +92,10 @@ DEPENDENCIES
   hash-joiner
   html-proofer
   jekyll
-  jekyll-uswds!
   json
+  pry
+  rb-readline
+  uswds-jekyll!
 
 RUBY VERSION
    ruby 2.3.1p112

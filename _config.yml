@@ -1,9 +1,12 @@
-title: NSF SBIR Training
-theme: jekyll-uswds
+title: NSF SBIR
+theme: uswds-jekyll
+
+baseurl: ""
+permalink: pretty
+deadline: June 14th, 2017
 
 styles:
   - /assets/css/uswds-overrides.css
-
 
 scripts:
   - src: /assets/uswds/js/uswds.min.js
@@ -12,3 +15,14 @@ scripts:
 jekyll_get:
   - data: awards
     json: 'http://api.nsf.gov/services/v1/awards.json?agency=nsf'
+
+collections:
+  apply:
+    permalink: /how-to-apply/:path/
+    output: true
+
+defaults:
+  - scope:
+      path: "_apply"
+    values:
+      layout: docs

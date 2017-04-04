@@ -10,6 +10,7 @@
 #   links: primary
 #
 primary:
+<<<<<<< HEAD
   - text: Left navigation page
     href: /docs/
   - text: Demo dropdown
@@ -38,3 +39,39 @@ footer:
     href: /one/
   - text: Demo link two
     href: /two/
+=======
+  - text: About
+    href: /about/
+  - text: Apply
+    links:
+      - text: Application timeline
+        href: /how-to-apply/timeline
+      - text: How to apply
+        href: /how-to-apply/
+      - text: Merit review
+        href: /how-to-apply/merit-review
+  - text: Events
+    href: /events/
+  - text: Contact
+    href: /contact/
+
+secondary: []
+
+footer:
+  - text: Contact
+    href: /contact/
+  - text: Check application status
+    href: /one/
+  - text: Events
+    href: /events/
+
+docs:
+  - text: Documentation
+    href: /docs/
+  - text: Installation
+    href: /docs/install/
+  - text: Upgrading
+    href: /docs/upgrade/
+  - text: Help
+    href: /docs/help/
+>>>>>>> dev

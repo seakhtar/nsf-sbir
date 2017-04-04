@@ -8,7 +8,8 @@ top: true
 links: footer
 
 # The optional heading for the footer.
-heading: Name of agency
+heading: NSF-SBIR
+
 
 # An array of agency logos to show, side by side, in the lower left
 # of the footer on large screens.

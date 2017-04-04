@@ -4,7 +4,47 @@ $color-primary: #313b52;
 $color-primary-alt: #85d0cb;
 $color-secondary: #c64b00;
 
-$font-path: '/uswds/fonts';
-$img-path: '/uswds/img';
+$font-path: '../uswds/fonts';
+$image-path: '../uswds/img';
 
 @import 'uswds/all';
+
+
+.usa-hero-callout {
+  max-width: 40rem;
+
+  h2 {
+    font-family: $font-sans;
+    font-weight: 500;
+  }
+
+  .usa-hero-callout-alt {
+    font-family: $font-serif;
+    font-weight: 700;
+  }
+
+  .usa-button {
+    font-size: inherit;
+    margin-top: 2rem;
+
+  }
+
+}
+
+.usa-footer-logo-img {
+  max-width: 5rem;
+}
+
+.usa-footer-secondary_section {
+  background-color: $color-primary;
+  color: $color-white;
+
+  a {
+    color: $color-white;
+  }
+
+}
+
+.usa-hero-callout-subtext {
+  display: block;
+}
