@@ -10,36 +10,6 @@
 #   links: primary
 #
 primary:
-<<<<<<< HEAD
-  - text: Left navigation page
-    href: /docs/
-  - text: Demo dropdown
-    links: docs
-  - text: Awards
-    href: /awards/
-
-secondary: []
-
-docs:
-  - text: Left navigation page
-    href: /docs/
-  - text: Additional item
-    href: #
-
-awards:
-  - text: Awards
-    href: /awards/
-  - text: Additional item
-    href: #
-
-footer:
-  - text: Documentation
-    href: /docs/
-  - text: Demo link one
-    href: /one/
-  - text: Demo link two
-    href: /two/
-=======
   - text: About
     href: /about/
   - text: Apply
@@ -54,6 +24,8 @@ footer:
     href: /events/
   - text: Contact
     href: /contact/
+  - text: Demo
+    href: /demo/
 
 secondary: []
 
@@ -74,4 +46,3 @@ docs:
     href: /docs/upgrade/
   - text: Help
     href: /docs/help/
->>>>>>> dev
