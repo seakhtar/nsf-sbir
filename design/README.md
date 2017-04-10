@@ -2,7 +2,7 @@
 
 
 ## Service Blueprint Workshop
-* v1 [Service Blueprint of the current NSF SBIR awards process](https://github.com/18F/nsf-sbir/blob/design/design/service%20blueprint%20source%20files/NSF-SBIR-blueprint-current/blueprint-current-v1.pdf)  
+* v1 [Service Blueprint of the current NSF SBIR awards process](https://github.com/18F/nsf-sbir/blob/design/design/service%20blueprint/blueprint-current-v1.pdf)  
 
 Reference files:
   * [Photos from the Workshop](https://github.com/18F/nsf-sbir/tree/design/design/service%20blueprint%20source%20files/blueprint%20workshop%20photos)
