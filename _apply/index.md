@@ -21,14 +21,36 @@ permalink: /how-to-apply/
 - The tech lead needs to commit to at least one month (173 hours) of work on a funded project.
 - Finally, you can designate a university faculty member as your tech lead only if they can commit to the 50% employment requirement.
 
-Before starting your application, you’ll want to figure out whether your company is a good fit for the NSF seed fund.
+To see if your company is a good fit, review our evaluation criteria and consider submitting an executive summary to get feedback from our program directors.
 
-The best way to do this is to send an executive summary to one of our program directors; they’ll schedule a chat with you to discuss your work and offer feedback. You can also check out [our portfolio](link to portfolio page) of companies we’ve recently funded.
+**Criteria**
 
-- **Seed stage:** Early-stage company in the research or prototyping phase
-- **Pre-traction:** Has validated the market and undertaken customer development efforts but has not yet reached product-market fit
-- **High-risk:** Product is based on unproven technology for which the funding will be used to validate
-- **Scale:** If validated, the product could have massive societal impact and/or venture scale
+Here are the criteria we use to determine which companies to fund:
+
+- **Seed stage:** Early-stage company that’s conducting research or prototyping (or both).
+- **Pre-traction:** Has identified the market for their product and made customer development efforts, but hasn’t yet created the minimum viable product to solve their target market’s need.
+- **High-risk:** The product is based on unproven technology that needs further testing (and funding for that testing).
+- **Scale:** If the product is found to be successful, it could have a major social impact and/or venture scale.
+
+**Portfolio**
+
+You can check out our [portfolio](#) to see what companies we’ve recently funded.
+
+**Technology topic areas**
+
+Content here
+
+**Get pre-submission feedback**
+
+You can send an executive summary to one of our program directors to discuss your work and get feedback. Download our [executive summary form](#) (PDF) and return your completed form to the program director whose topic area best reflects your product’s focus.
+
+**STTR**
+
+If you’re applying for funding for academic research (STTR program), you must partner with an academic, non-profit, or federally funded research institution. If you’re funded through STTR, 30% of your funding must go to your research partner and 40% must go to your company.
+
+**SBIR**
+
+If you’re not applying for funding for academic research (SBIR program), at least 2/3 of the funding you receive must go to your company.
 
 
 </div>
@@ -45,16 +67,20 @@ The best way to do this is to send an executive summary to one of our program di
       Register your company<span class="step-description" >You'll need to register your company with 4 different systems.</span>
     </button>
         <div id="a3" class="usa-accordion-content"  markdown="1">
-- Dun and Bradstreet (DUNS number) (link) (up to five business days)
+**[Dun and Bradstreet (DUNS number)](#)**<br>
+Processing time: Up to five business days<br>
 A DUNS number is a unique, nine-digit number that identifies each physical location of your company. You’ll need one in order to receive government funding. Because you’re applying for a DUNS number for government funding, processing time should take about five business days.
 
-- [FastLane](#) (NSF seed fund’s electronic submission system) (link) (Up to 48 hours)<br>
+**[FastLane (NSF’s electronic submission system)](#)**<br>
+Processing time: Up to 48 hours<br>
 Before applying, you need to register your principal investigator and company in FastLane. Within 48 hours, you’ll get a confirmation email with login instructions. We recommend you explore FastLane before submitting your application.
 
-- System for Award Management (SAM) (link) (Up to three weeks)
+
+**[System for Award Management (SAM)](#)**<br>
+Processing time: Up to three weeks<br>
 Any company that does business with the government needs a SAM account. When you register, you’ll have to share EFT information.
 
-- SBIR Company Registry (link)
+**[SBIR Company Registry](#)**<br>
 Finally, you need to register with the SBIR Company Registry (operated by the Small Business Administration). Post-registration, you’ll receive a Business Concern Control ID (SBC ID), which you’ll need to include in your FastLane application.
 
 </div>
@@ -64,8 +90,9 @@ Finally, you need to register with the SBIR Company Registry (operated by the Sm
   Review the solicitation<span class="step-description" > Read the solicitation, which features everything you need to know about applying for fundung.</span>
 </button>
 <div id="a4" class="usa-accordion-content"  markdown="1">
-The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly
-describing the place to be searched, and the persons or things to be seized.
+The solicitation has information on the seed fund program, awards (number available and award amounts), program directors, tips for preparing your proposal, and more.
+
+If you're looking to fund academic research to review the STTR solicitation. Otherwise, view the SBIR solicitation.
 </div>
 </li>
 <li value="4" class="step">
@@ -73,9 +100,11 @@ describing the place to be searched, and the persons or things to be seized.
       Start your application<span class="step-description" >Once you've reviewed the solicitation, start peparing your application in FastLane.</span>
     </button>
 <div id="a5" class="usa-accordion-content"  markdown="1">
-No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public
-danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due
-process of law; nor shall private property be taken for public use, without just compensation.
+**[Start your application in FastLane](#)**
+
+Please note that you can only submit your application between May 17 and June 17, 2017.
+
+[Download our FastLane guide](#) for detailed steps on how to submit your application and [watch our video on how to apply](#).
 
 </div>
 </li>
@@ -88,7 +117,7 @@ process of law; nor shall private property be taken for public use, without just
   </li>
   <li class="step-deadline">
     <span class="time">Deadline<br> {{ site.deadline }}</span>
-    <span class="time-description">Applications due by 5:00 PM local time.</span>
+    <span class="time-description">Applications due by 5:00 PM in your local time zone. <small>Note: Your time zone is based on your company's address as you listed it in your application.</small></span>
   </li>
   <li>
     <span class="time">1-3 months after<br> the deadline</span>
