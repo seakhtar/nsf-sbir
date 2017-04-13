@@ -11,7 +11,7 @@ permalink: /how-to-apply/
         <ol class="usa-accordion">
         <li value="1" class="step">
         <button class="usa-accordion-button" aria-expanded="false" aria-controls="a1">
-      Determine eligibility<span>Make sure your company is incorporated and meets these work requirements</span>
+      Determine eligibility<span class="step-description" >Make sure your company is incorporated and meets these work requirements</span>
     </button>
         <div id="a1" class="usa-accordion-content" markdown="1">
 
@@ -42,15 +42,26 @@ The best way to do this is to send an executive summary to one of our program di
 <ol class="usa-accordion">
 <li value="2" class="step">
         <button class="usa-accordion-button" aria-expanded="" aria-controls="a3">
-      Register your company
+      Register your company<span class="step-description" >You'll need to register your company with 4 different systems.</span>
     </button>
         <div id="a3" class="usa-accordion-content"  markdown="1">
-No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.
+- Dun and Bradstreet (DUNS number) (link) (up to five business days)
+A DUNS number is a unique, nine-digit number that identifies each physical location of your company. You’ll need one in order to receive government funding. Because you’re applying for a DUNS number for government funding, processing time should take about five business days.
+
+- [FastLane](#) (NSF seed fund’s electronic submission system) (link) (Up to 48 hours)<br>
+Before applying, you need to register your principal investigator and company in FastLane. Within 48 hours, you’ll get a confirmation email with login instructions. We recommend you explore FastLane before submitting your application.
+
+- System for Award Management (SAM) (link) (Up to three weeks)
+Any company that does business with the government needs a SAM account. When you register, you’ll have to share EFT information.
+
+- SBIR Company Registry (link)
+Finally, you need to register with the SBIR Company Registry (operated by the Small Business Administration). Post-registration, you’ll receive a Business Concern Control ID (SBC ID), which you’ll need to include in your FastLane application.
+
 </div>
 </li>
 <li value="3" class="step">
     <button class="usa-accordion-button" aria-expanded="" aria-controls="a4">
-  Review the solicitation
+  Review the solicitation<span class="step-description" > Read the solicitation, which features everything you need to know about applying for fundung.</span>
 </button>
 <div id="a4" class="usa-accordion-content"  markdown="1">
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly
@@ -59,7 +70,7 @@ describing the place to be searched, and the persons or things to be seized.
 </li>
 <li value="4" class="step">
         <button class="usa-accordion-button" aria-expanded="" aria-controls="a5">
-      Submit your application
+      Start your application<span class="step-description" >Once you've reviewed the solicitation, start peparing your application in FastLane.</span>
     </button>
 <div id="a5" class="usa-accordion-content"  markdown="1">
 No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public

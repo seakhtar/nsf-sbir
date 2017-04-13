@@ -67,7 +67,10 @@ $image-path: '../uswds/img';
   position: absolute;
   height: 100%;
   left: 25%; }
-
+  .timeline > li {
+    padding: 0 0 4rem 0;
+    color:#666;
+  }
 .timeline > li:after {
   content: "";
   display: inline-block;
@@ -76,7 +79,7 @@ $image-path: '../uswds/img';
   height: 15px;
   border: 3px solid #c5c5c5;
   position: absolute;
-  top: 0;
+  top: 1.5rem;
   left: 25%;
   background-color: #999;
   margin-left: -5px;
@@ -87,27 +90,26 @@ $image-path: '../uswds/img';
   display: inline-block;
   padding-top: 0;
   text-align: right;
-  /* position: relative; */ }
+  padding-right:5rem;
+ }
 
 .time-description {
   display: inline-block;
   vertical-align: top;
   padding-top: 1rem;
-  /* padding-left: 8rem; */
+  padding-left: 5rem;
   position: relative;
   }
 
 .timeline .usa-accordion {
   list-style: none;
-  padding-left: calc(25% + 35px);
+  padding-left: calc(25% + 5rem);
   }
 
 .timeline .usa-accordion li {
   counter-increment: li;
   margin: 0.25rem;
   position: relative;
-  /* width: 100%; */
-  /* padding-left: 100px; */
   }
 
 .timeline .usa-accordion ul li {
@@ -131,5 +133,16 @@ $image-path: '../uswds/img';
   margin-right: 0.5rem;
   border: 4px solid green;
   position: absolute;
-  left: -53px;
+  left: -6.8rem;
+  }
+  .timeline .step button {
+    font-size:2rem;font-weight:400;
+    color:green;
+  }
+
+  .timeline .step .step-description {
+    color:#333;
+    display:block;
+    margin-top:1.5rem;
+    font-size:initial;
   }
