@@ -2,7 +2,7 @@
 ---
 $color-primary: #313b52;
 $color-primary-alt: #85d0cb;
-$color-secondary: #c64b00;
+$color-secondary: green;
 
 $font-path: '../uswds/fonts';
 $image-path: '../uswds/img';
@@ -47,6 +47,10 @@ $image-path: '../uswds/img';
 
 .usa-hero-callout-subtext {
   display: block;
+}
+.usa-hero {
+  background-image: none;
+  background-color: #f1f1f1;
 }
 
 /* -- */

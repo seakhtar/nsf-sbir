@@ -5,15 +5,17 @@ permalink: /
 layout: landing
 
 hero:
-  image: /assets/img/hero-2.png
+  image:
   callout:
     alt:
     text: Equity-free seed funding to help transform your innovative idea into a scalable product or service.
-    subtext: Deadline is
+    subtext: Deadline
   button:
     href: /how-to-apply/
-    text: Apply now
-
+    text: Start your application
+  content:   <p><a href="#">About the seed fund</a></p>
+    <p><a href="#">How to apply</a></p>
+    <small>Already submitted your application? <a href="#">Check for updates on FastLane</a>.</small>
 ---
 
 
