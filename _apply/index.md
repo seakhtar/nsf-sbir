@@ -86,7 +86,7 @@ process of law; nor shall private property be taken for public use, without just
     <span class="time">30 days before<br> the deadline</span>
     <span class="time-description">Applicants may begin submitting applications info Fastlane.</span>
   </li>
-  <li>
+  <li class="step-deadline">
     <span class="time">Deadline<br> {{ site.deadline }}</span>
     <span class="time-description">Applications due by 5:00 PM local time.</span>
   </li>
