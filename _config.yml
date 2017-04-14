@@ -18,6 +18,8 @@ collections:
   apply:
     permalink: /how-to-apply/:path/
     output: true
+  events:
+    output: false
 
 defaults:
   - scope:
