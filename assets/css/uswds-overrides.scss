@@ -1,5 +1,6 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css?family=Overpass+Mono|Work+Sans');
 $font-serif: 'Work Sans', sans-serif;
 
 $color-primary: #313b52;
@@ -11,13 +12,16 @@ $image-path: '../uswds/img';
 
 @import 'uswds/all';
 
+h2,h3,h4,h5,h6 {
+  font-weight:300;
+}
 
 .usa-hero-callout {
   max-width: 40rem;
 
   h2 {
     font-family: $font-sans;
-    font-weight: 500;
+    font-weight: 300;
   }
 
   .usa-hero-callout-alt {
@@ -50,123 +54,155 @@ $image-path: '../uswds/img';
 .usa-hero-callout-subtext {
   display: block;
 }
+
 .usa-hero {
-  background-image: none;
   background-color: #f1f1f1;
+  background-image: none;
 }
 
-/* -- */
-.timeline {
-  list-style: none;
-  counter-reset: count; }
 
-.timeline li {
-  list-style-type: none;
-  margin: 0;
-  position: relative; }
-
-.timeline > li:before {
-  content: " ";
-  width: 4px;
-  background-color: #f1f1f1;
-  display: block;
-  position: absolute;
-  height: 100%;
-  left: 25%; }
-  .timeline > li {
-    padding: 0 0 4rem 0;
-    color:#666;
-  }
-.timeline > li:after {
-  content: "";
-  display: inline-block;
-  border-radius: 25px;
-  width: 14px;
-  height: 14px;
-  border: 2px solid #999;
-  position: absolute;
-  top: 1.5rem;
-  left: 25%;
-  background-color: #fff;
-  margin-left: -5px;
-  }
-  .step-deadline {
-      font-weight: 600;
-      small {display:block;
-      font-weight: normal;}
-  }
-  .step-deadline:after {
-      border-color: red !important;
-
-  }
-
-.time {
-  width: 25%;
-  display: inline-block;
-  padding-top: 0;
-  text-align: right;
-  padding-right:5rem;
- }
-
-.time-description {
-  display: inline-block;
-  vertical-align: top;
-  padding-top: 1rem;
-  padding-left: 5rem;
-  position: relative;
-  }
-
-.timeline .usa-accordion {
-  list-style: none;
-  padding-left: calc(25% + 5rem);
-  }
-
+.time br {display:none;}
+.time-description {display:block;}
 .timeline .usa-accordion li {
-  counter-increment: li;
-  margin: 0.25rem;
-  position: relative;
-  }
-
-.timeline .usa-accordion ul li {
-  list-style-type: initial; }
-
+    counter-increment: li;
+}
 .timeline .usa-accordion ul li:before {
-  display: none; }
-
-.timeline .usa-accordion li:before {
-  /* Display the counter */
-  content: counter(count) "";
-  counter-increment: count;
-  background: white;
-  width: 35px;
-  height: 35px;
-  border-radius: 50%;
-  display: inline-block;
-  line-height: 2.7rem;
-  color: green;
-  text-align: center;
-  margin-right: 0.5rem;
-  border: 3px solid green;
-  position: absolute;
-  left: -6.8rem;
-  top:1.9rem;
+  display: none;
+}
+.timeline .usa-accordion ul li {
+  list-style-type: initial;
+}
+  .timeline {
+    counter-reset: count;
+    list-style: none;
+    padding-left:0;
   }
-  .timeline .step button {
-    font-size:2rem;font-weight:400;
-    color:green;
-  }
-
-  .timeline .step .step-description {
-    color:#333;
-    display:block;
-    margin-top:1.5rem;
-    font-size:initial;
-  }
+  // setup accordion arrow
   .timeline .usa-accordion button[aria-expanded=false] {
     background-image: url(../uswds/img/arrow-right.svg);
   }
+  // setup accordion arrow
   .timeline .usa-accordion button {
     background-image: url(../uswds/img/arrow-down.svg);
     background-position: left 2.25rem top 2.9rem;
     padding:2.5rem 5.5rem 2.5rem 5.5rem;
   }
+  // building the step number dots
+  .timeline .usa-accordion li:before {
+    /* Display the counter */
+    content: counter(count) "";
+    counter-increment: count;
+    background: white;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    display: inline-block;
+    line-height: 2.7rem;
+    color: green;
+    text-align: center;
+    border: 3px solid green;
+    position: absolute;
+    left: -50px;
+    top: 1.9rem;
+    }
+      .timeline .step button {
+        font-size: 2rem;font-weight:400;
+        color: green;
+      }
+
+      .timeline .step .step-description {
+        color: #333;
+        display: block;
+        margin-top: 1.5rem;
+        font-size: initial;
+      }
+      .timeline .usa-accordion {
+        padding-left:50px;
+        margin-top: 2rem;
+          .step {
+            margin: .25rem .25rem 1rem;
+          }
+      }
+
+.timeline li {
+  list-style-type: none;
+  margin: 0;
+  position: relative;
+}
+.timeline > li {
+  color:#666;
+  padding: 0 0 4rem;
+  }
+
+
+
+@include media($medium-screen) {
+.time br {display:initial;}
+  // building the step number dots
+  .timeline .usa-accordion li:before {
+    left: -6.8rem;
+    }
+
+// building the vertical line for the timeline
+  .timeline > li:before {
+    background-color: #f1f1f1;
+    content: " ";
+    display: block;
+    height: 100%;
+    left: 25%;
+    position: absolute;
+    width: 4px;
+  }
+// building the dot at each timeline
+  .timeline > li:after {
+    content: "";
+    display: inline-block;
+    border-radius: 25px;
+    width: 14px;
+    height: 14px;
+    border: 2px solid #999;
+    position: absolute;
+    top: 1.5rem;
+    left: 25%;
+    background-color: #fff;
+    margin-left: -5px;
+    }
+    .step-deadline {
+        font-weight: 600;
+        small {display:block;
+        font-weight: normal;}
+    }
+    .step-deadline:after {
+        border-color: red !important;
+
+    }
+
+  .time {
+    width: 25%;
+    display: inline-block;
+    padding-top: 0;
+    text-align: right;
+    padding-right:5rem;
+   }
+
+  .time-description {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 1rem;
+    padding-left: 5rem;
+    position: relative;
+    width: 75%;
+float: right;
+    }
+
+  .timeline .usa-accordion {
+    list-style: none;
+    padding-left: calc(25% + 5rem);
+    }
+
+  .timeline .usa-accordion li {
+    margin: 0.25rem;
+    position: relative;
+    }
+
+}
