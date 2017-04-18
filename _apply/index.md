@@ -2,49 +2,48 @@
 title: Apply
 permalink: /how-to-apply/
 layout: docs
+timeline:
+  - title: 90 days before<br> the deadline
+    description: Call for proposals (solicitation) officially released.
+    steps:
+      - step-1
+  - title: 60 days before<br>  the deadline
+    steps:
+      - step-2
+      - step-3
+      - step-4
+  - title: 30 days before<br> the deadline
+    description: Applicants may begin submitting applications info Fastlane.
+  - title: "Deadline<br> {{ site.deadline }}"
+    description: "Applications due by 5:00 PM in your local time zone."
+    note: "Note: Your time zone is based on your company's address as you listed it in your application."
+    deadline: true
+  - title: 1-3 months after<br> the deadline
+    description: Applications undergo panel reviews.
+  - title: 4-6 months after<br> the deadline
+    description: We'll notify you weather your proposal is accepted or declined for funding.
 ---
 # How to apply
 
 <ol class="timeline">
-  <li>
-    <span class="time">90 days before<br> the deadline</span>
-    <span class="time-description">Call for proposals (solicitation) officially released.</span>
-    <ol class="usa-accordion">
-      <li value="1" class="step">
-        {% include components/accordion-item.html slug="step-1" %}
-      </li>
-    </ol>
-  </li>
-  <li>
-    <span class="time">60 days before<br>  the deadline</span>
-    <ol class="usa-accordion">
-      <li value="2" class="step">
-        {% include components/accordion-item.html slug="step-2" %}
-      </li>
-      <li value="3" class="step">
-        {% include components/accordion-item.html slug="step-3" %}
-      </li>
-      <li value="4" class="step">
-        {% include components/accordion-item.html slug="step-4" %}
-      </li>
-    </ol>
-  </li>
-  <li>
-    <span class="time">30 days before<br> the deadline</span>
-    <span class="time-description">Applicants may begin submitting applications info Fastlane.</span>
-  </li>
-  <li class="step-deadline">
-    <span class="time">Deadline<br> {{ site.deadline }}</span>
-    <span class="time-description">Applications due by 5:00 PM in your local time zone.
-      <small>Note: Your time zone is based on your company's address as you listed it in your application.</small>
+{% assign step_counter = 1 %}
+{% for milestone in page.timeline %}
+  <li {% if milestone.deadline %} class="step-deadline"{% endif %}>
+    <span class="time">{{ milestone.title | liquify }}</span>
+    <span class="time-description">
+      {{ milestone.description }}
+      {% if milestone.note %}<small>{{ milestone.note }}</small>{% endif %}
     </span>
+    {% if milestone.steps %}
+    <ol class="usa-accordion">
+      {% for step in milestone.steps %}
+      <li value="{{ step_counter }}" class="step">
+        {% include components/accordion-item.html slug=step %}
+      </li>
+      {% assign step_counter = step_counter | plus: 1 %}
+      {% endfor %}
+    </ol>
+    {% endif %}
   </li>
-  <li>
-    <span class="time">1-3 months after<br> the deadline</span>
-    <span class="time-description">Applications undergo panel reviews.</span>
-  </li>
-  <li>
-    <span class="time">4-6 months after<br> the deadline</span>
-    <span class="time-description">We'll notify you weather your proposal is accepted or declined for funding.</span>
-  </li>
+{% endfor %}
 </ol>
