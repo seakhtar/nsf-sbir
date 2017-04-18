@@ -1,0 +1,7 @@
+<ul>
+{% for program-director in site.data.program-directors %}
+  <li>
+    <a href="mailto:{{ program-director.email }}">{{ program-director.name }}</a> - {{ program-director.topic }}
+  </li>
+{% endfor %}
+</ul>

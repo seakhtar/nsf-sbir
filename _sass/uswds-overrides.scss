@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass+Mono|Work+Sans');
+$font-serif: 'Work Sans', sans-serif;
+
+$color-primary: #313b52;
+$color-primary-alt: #85d0cb;
+$color-secondary: green;
+
+$font-path: '../uswds/fonts';
+$image-path: '../uswds/img';
+
+@import 'uswds/all';
+
+h2,h3,h4,h5,h6 {
+  font-weight:300;
+}
+
+.usa-hero-callout {
+  max-width: 40rem;
+
+  h2 {
+    font-family: $font-sans;
+    font-weight: 300;
+  }
+
+  .usa-hero-callout-alt {
+    font-family: $font-serif;
+    font-weight: 700;
+  }
+
+  .usa-button {
+    font-size: inherit;
+    margin-top: 2rem;
+
+  }
+
+}
+
+.usa-footer-logo-img {
+  max-width: 5rem;
+}
+
+.usa-footer-secondary_section {
+  background-color: $color-primary;
+  color: $color-white;
+
+  a {
+    color: $color-white;
+  }
+
+}
+
+.usa-hero-callout-subtext {
+  display: block;
+}
+
+.usa-hero {
+  background-color: #f1f1f1;
+  background-image: none;
+}
