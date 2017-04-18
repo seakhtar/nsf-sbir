@@ -20,6 +20,8 @@ collections:
     output: true
   events:
     output: false
+  timeline:
+    output: false
 
 defaults:
   - scope:

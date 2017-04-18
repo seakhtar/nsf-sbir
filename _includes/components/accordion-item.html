@@ -1,0 +1,11 @@
+{% assign timeline_item = site.timeline | where:"slug", include.slug %}
+{% if timeline_item.size > 0 %}
+  <button class="usa-accordion-button" aria-expanded="false" aria-controls="{{ timeline_item[0].title | slugify }}">
+    {{ timeline_item[0].title | default: "" }}{% if timeline_item[0].description %}
+    <span class="step-description" >{{ timeline_item[0].description }}</span>{% endif %}
+  </button>
+  <div id="{{ timeline_item[0].title | slugify }}" class="usa-accordion-content">
+  {{ timeline_item[0].content | markdownify }}
+  </div>
+{% else %}
+{% endif %}
