@@ -1,10 +1,17 @@
+$timeline-line-width: 4px;
+$timeline-node-diameter: 14px;
+$timeline-node-width: 2px;
+$timeline-left: 25%;
+$timeline-right: 75%;
+$timeline-right-padding: 5rem;
+
 .timeline {
   counter-reset: count;
   list-style: none;
   padding-left: 0;
 
   & > li {
-    color: #666;
+    color: $color-gray;
     padding: 0 0 4rem;
   }
 
@@ -14,11 +21,9 @@
     position: relative;
    }
 
-  .time {
-    br {
-      display: none;
+  .time br {
+    display: none;
   }
-}
 
   .time-description {
     display: block;
@@ -28,30 +33,30 @@
     margin: .25rem .25rem 1rem;
 
     .step-description {
-      color: #333;
+      color: $color-gray-dark;
       display: block;
       font-size: initial;
-      margin-top: 1.5rem;
+      margin-top: $site-margins-mobile;
     }
   }
-  .step-deadline {
-    font-weight: 600;
-  }
-  .usa-accordion {
-    margin-top: 2rem;
 
+  .step-deadline {
+    font-weight: $font-bold;
+  }
+
+  .usa-accordion {
+    margin-top: $site-margins;
 
     li {
       counter-increment: li;
-
 
       // building the step number dots
       &::before {
         // Display the counter
         background-color: white;
-        border: 3px solid green;
+        border: 3px solid $color-green;
         border-radius: 50%;
-        color: green;
+        color: $color-green;
         content: counter(count) '';
         counter-increment: count;
         display: inline-block;
@@ -63,16 +68,15 @@
         top: 1.9rem;
         width: 35px;
       }
-
-  }
+    }
 
     // setup accordion arrow
     button {
       background-image: url('../uswds/img/arrow-down.svg');
       background-position: right 2.25rem top 2.9rem;
-      color: green;
+      color: $color-green;
       font-size: 2rem;
-      font-weight: 400;
+      font-weight: $font-normal;
       padding: 2.5rem 5.5rem;
 
       &[aria-expanded='false'] {
@@ -96,54 +100,59 @@
   .timeline {
     > li {
       &::before {
-      background-color: #f1f1f1;
-      content: '';
-      display: block;
-      height: 100%;
-      left: 25%;
-      position: absolute;
-      width: 4px;
+        background-color: $color-gray-light;
+        content: '';
+        display: block;
+        height: 100%;
+        left: $timeline-left;
+        position: absolute;
+        width: $timeline-line-width;
+      }
+
+      &::after {
+        content: '';
+        display: inline-block;
+        border-radius: 25px;
+        width: $timeline-node-diameter;
+        height: $timeline-node-diameter;
+        border: $timeline-node-width solid $color-gray;
+        position: absolute;
+        top: 1.5rem;
+        left: $timeline-left;
+        background-color: $color-white;
+        margin-left: -5px;
+      }
     }
-    &::after {
-      content: '';
-      display: inline-block;
-      border-radius: 25px;
-      width: 14px;
-      height: 14px;
-      border: 2px solid #999;
-      position: absolute;
-      top: 1.5rem;
-      left: 25%;
-      background-color: #fff;
-      margin-left: -5px;
-    }
-  }
 
     .time {
-      width: 25%;
+      width: $timeline-left;
       display: inline-block;
       padding-top: 0;
       text-align: right;
-      padding-right: 5rem;
+      padding-right: $timeline-right-padding;
+
       br {
         display: initial;
       }
     }
+
     .time-description {
       display: inline-block;
       vertical-align: top;
       padding-top: 1rem;
-      padding-left: 5rem;
+      padding-left: $timeline-right-padding;
       position: relative;
-      width: 75%;
+      width: $timeline-right;
       float: right;
     }
+
     .usa-accordion {
       list-style: none;
-      padding-left: calc(25% + 5rem);
+      padding-left: calc(#{$timeline-left} + #{$timeline-right-padding});
 
       li {
-          position: relative;
+        position: relative;
+
         &::before {
           left: 1rem;
         }
@@ -153,12 +162,12 @@
 
   .step-deadline {
     &::after {
-      border-color: red !important;
+      border-color: $color-red !important;
     }
 
     small {
       display: block;
-      font-weight: normal;
+      font-weight: $font-normal;
     }
   }
 }
