@@ -1,0 +1,258 @@
+- topic: Advanced Manufacturing and Nanotechnology (MN)
+  programDirector:
+    - name: Rajesh Mehta
+      email: rmehta@nsf.gov
+  subtopics:
+    - Personalized Manufacturing (M1)
+    - Maker Manufacturing (M2)
+    - Maker-to-Manufacturer (M3)
+    - Additive Manufacturing (M4)
+    - Modeling & Simulation (M5)
+    - Machines and Equipment (M6)
+    - Transportation Technologies (M7)
+    - Rare Earths and Critical Materials Processing Technology (M8)
+    - Manufacturing Technologies (M9)
+    - Bio-Inspired Manufacturing (M10)
+    - People-Centered Industrial Technologies (M11)
+    - Manufacturing for Emerging Markets (M12)
+    - Sustainable Manufacturing Technology (M13)
+    - Nanomaterials (N1)
+    - Nanomanufacturing (N2)
+    - Nanotechnology Based Solutions to Grand Challenges (N3)
+  companies:
+    - company 1
+    - company 2
+    - company 3
+    - company 4
+    - company 5
+
+- topic: Advanced Materials and Instrumentation (MI)
+  programDirector:
+    - name: Debasis Majumdar
+      email: dmajumda@nsf.gov
+  subtopics:
+    - Metals and Ceramics (MI1)
+    - Structural and Infrastructural Materials (MI2)
+    - Coatings and Surface Modifications (MI3)
+    - Multiferroics and Specialized Functional Materials (MI4)
+    - Materials for Sustainability (MI5)
+    - Other Materials (MI6)
+    - Instrumentation for Characterization and Imaging (MI7)
+    - Instrumentation for Detection, Actuation, Control, and Manipulation (MI8)
+    -  Other Instrumentation (MI9)
+  companies:
+    - company 1
+    - company 2
+    - company 3
+    - company 4
+    - company 5
+
+- topic: Biological Technologies (BT)
+  programDirector:
+    - name: Ruth Shulman
+      email: rshuman@nsf.gov
+  subtopics:
+    - Agricultural and Food Safety Biotechnology (BT1)
+    - Biosensors (BT2)
+    - Life Sciences Research Tools (BT3)
+    - Bioinstrumentation (BT4)
+    - Synthetic Biology and Metabolic Engineering (BT5)
+    - Fermentation and Cell Culture Technologies (BT6)
+    - Computational Biology and Bioinformatics (BT7)
+    - Advanced Biomanufacturing (BT8)
+    - Advanced technologies for functional genomics in organismal systems (BT9)
+    - Tissue Engineering and Regenerative Medicine (BT10; formerly BM3)
+  companies:
+    - company 1
+    - company 2
+    - company 3
+    - company 4
+    - company 5
+
+- topic: Biomedical Technologies (BM)
+  programDirector:
+    - name: Henry Ahn
+      email: hahn@nsf.gov
+    - name: Jesus V. Soriano
+      email: jsoriano@nsf.gov
+  subtopics:
+    - Pharmaceutical Manufacturing (BM1)
+    - Materials for Biomedical Applications (BM2)
+    - Biomedical Engineering (BM3)
+    - Noninvasive Imaging of Brain Function (BM4)
+    - Medical Imaging Technologies (BM5)
+    - Diagnostic Assays and Platforms (BM6)
+    - Drug Delivery (BM7)
+  companies:
+    - company 1
+    - company 2
+    - company 3
+    - company 4
+    - company 5
+
+- topic: Chemical and Environmental Technologies (CT)
+  programDirector:
+    - name: Anna Brady-Estevez
+      email: abrady@nsf.gov
+  subtopics:
+    - Biobased Chemicals and Biochemical Processes (CT1)
+    - Chemicals, Polymers, Plastics and Derivatives (CT2)
+    - Novel Catalysts and Processes (CT3)
+    - Chemicals from Carbon Dioxide and Methane (CT4)
+    - Food Technology (CT5)
+    - Energy Efficiency, Capture, Storage and Use (CT6)
+    - Energy Generation, Bioenergy, Renewable Fuel Technology (CT7)
+    - Separation Technology (CT8)
+    - Resource and Water Conservation, Treatment and Reuse, Waste Minimization and Environmental Sustainability (CT9)
+    - Environmental Sensing, Environmental Pollution Control and Mitigation (CT10)
+    - Plant-Based Products and Sustainable Agricultural Innovations (CT11)
+    - Chemical Production Efficiency and Productivity (CT12)
+    - Sustainable Chemistry and Green Engineering Technology (CT13)
+    - Emerging Technologies and Applications (CT14)
+  companies:
+    - company 1
+    - company 2
+    - company 3
+    - company 4
+    - company 5
+
+- topic: Educational Technologies and Applications (EA)
+  programDirector:
+    - name: Glenn H. Larsen
+      email: glarsen@nsf.gov
+  subtopics:
+    - Pre K-12 Education (EA1)
+    - Global, Distance, and Higher Education (EA2)
+    - Simulations and Gaming Technologies (EA3)
+    - Entrepreneurial, Informal, and Maker Education (EA4)
+    - Information, Computer Science, and Engineering (EA5)
+  companies:
+    - company 1
+    - company 2
+    - company 3
+    - company 4
+    - company 5
+
+- topic: Electronic Hardware, Robotics and Wireless Technologies (EW)
+  programDirector:
+    - name: Muralidharan S. Nair
+      email: mnair@nsf.gov
+  subtopics:
+    - Wireless Technologies (WT)
+    - Systems and Devices (WT1)
+    - Wireless Devices and Components (WT2)
+    - Energy and Power Management (EP)
+    - Electronic Devices, Boards and Interfaces (EP1)
+    - Device and System Level (EP2)
+    - Smart Grids and Infrastructure (EP3)
+    - Power Management (EP4)
+    - Robotics and Human Assistive Technologies (RH)
+    - Learning, Intelligence and Motion (RH1)
+    - Robotic Applications (RH2)
+    - Robotics in Agile Manufacturing (RH3)
+    - Co-Robots (RH4)
+    - Human-Machine Interfaces and Control/Architecture (RH5)
+    - Human Assistive Technologies and Bio-related Robotics (RH6)
+    - Micro-electronics Packaging, Thermal Management & Systems Integration (MT)
+  companies:
+    - company 1
+    - company 2
+    - company 3
+    - company 4
+    - company 5
+
+- topic: Information Technologies(IT)
+  programDirector:
+  - name: Peter Atherton
+    email: patherto@nsf.gov
+  subtopics:
+  - Artificial Intelligence; Machine Learning; Natural Language Processing (IT1)
+  - Image and Video (IT2)
+  - Quantum Information Technologies (IT3)
+  - Cybersecurity; Authentication; Privacy (IT4)
+  - Cybersecurity for the Internet of Things (IT5)
+  - Networking Technology (IT6)
+  - Mobile Computing; Internet of Things (IT7)
+  - Cloud Computing; High-Performance Computing (IT8)
+  - Cloud-based IT Services (IT9)
+  - Big Data; Advanced Data Analytics (IT10)
+  - Human-Computer Interaction; Virtual Reality; Augmented Reality (IT11)
+  - Social Media; Collaborative Networking (IT12)
+  - Software (IT13)
+  - Other (IT14)
+  companies:
+    - company 1
+    - company 2
+    - company 3
+    - company 4
+    - company 5
+
+- topic: Internet of Things (I)
+  programDirector:
+    - name: Rick Schwerdtferger
+      email: rschwerd@nsf.gov
+  subtopics:
+    - IoT Sensors and Actuators (IoT1)
+    - IoT Energy and Power Systems (IoT2)
+    - IoT Communications (IoT3)
+    - IoT Integrated Systems (IoT4)
+    - IoT IT; Cloud, Big Data and Security and Privacy (also see IT portfolio topics)
+  companies:
+    - company 1
+    - company 2
+    - company 3
+    - company 4
+    - company 5
+
+- topic: Semiconductors (S) and Photonic Devices and Materials (PH)
+  programDirector:
+    - name: Rick Schwerdtferger
+      email: rschwerd@nsf.gov
+  subtopics:
+    - Semiconductors (S) / Photonic Devices and Materials (PH)
+    - Photonics (PH)
+    - Lighting and Displays (PH1)
+    - Communications, Information, and Data Storage (PH2)
+    - Energy (PH3)
+    - Advanced Metrology and Sensors (PH4)
+    - Advanced Optical Components and Systems (PH5)
+    - Semiconductors (S)
+    - Electronic Materials (S1)
+    - Electronic Devices (S2)
+    - Processing and Metrology Technology (S3)
+    - Integrated Circuit Design (S4)
+  companies:
+    - company 1
+    - company 2
+    - company 3
+    - company 4
+    - company 5
+
+- topic: Smart Health (SH)
+  programDirector:
+    - name: Jesus V. Soriano
+      email: jsoriano@nsf.gov
+  subtopics:
+    - Business Models for User-Centered Healthcare (SH1)
+    - Digital Health Information Infrastructure (SH2)
+    - From Data to Decisions (SH3)
+    - Interoperability of Health Record Systems, Medical Sensors, Devices and Robotics (SH4)
+  companies:
+    - company 1
+    - company 2
+    - company 3
+    - company 4
+    - company 5
+
+- topic: Other Topics (OT)
+  programDirector:
+    - name: Ben Schrag
+      email: bschrag@nsf.gov
+  subtopics:
+    - is intended to be a home to any proposed project which does not seem to fit into one of the other technology topic areas, but still seems to meet our goals of supporting research and development of innovative, risky, unproven technology, with commercial viability and the potential to benefit society.
+  companies:
+    - company 1
+    - company 2
+    - company 3
+    - company 4
+    - company 5

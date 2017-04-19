@@ -1,0 +1,33 @@
+{% for topic in site.data.tech-topics %}
+  <h2>{{ topic.topic }}</h2>
+  <div class="usa-grid">
+  <div class="usa-width-one-third">
+<h3>Program director</h3>
+    {% for programDirector in topic.programDirector %}
+      <a href="mailto:{{ programDirector.email }}">
+          {{ programDirector.name }}
+      </a>
+      {% endfor %}
+
+  </div>
+  <div class="usa-width-two-thirds">
+    <h3>Featured companies</h3>
+    <ul class="featured-companies">
+    {% for company in topic.companies %}
+      <li>
+          {{ company }}
+      </li>
+      {% endfor %}
+    </ul>
+    <h4>{{ topic.topic }}</h4>
+    <ul class="subtopics">
+    {% for subtopic in topic.subtopics %}
+      <li>
+          {{ subtopic }}
+      </li>
+      {% endfor %}
+    </ul>
+    </div>
+</div>
+
+  {% endfor %}
