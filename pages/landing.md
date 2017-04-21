@@ -23,17 +23,17 @@ hero:
 <div class="usa-grid">
 <div class="usa-width-one-third" markdown="1">
 ## Up to $225,000 for early-stage product development
-- We offer seed-stage companies with the funding they need to commercialize — up to $225k for proof-of-concept product development or research.
-- We take no equity in exchange for funding. You retain full control over your team, the direction of your work, and your intellectual property.
-- You’ll get access to year-round events and join a prestigious network of tech innovators and founders.
-
+- We offer seed-stage companies funding for proof-of-concept product development or research and take no equity in your company — you retain full control over your team, the direction of your work, and your intellectual property.
 </div>
 <div class="usa-width-one-third" markdown="1">
 ## Access to our network
+Attend dozens of annual events — conferences, road shows, and more — to build lasting bonds with industry leaders.
 </div>
 <div class="usa-width-one-third" markdown="1">
 ## A diverse portfolio
-</div></div></section>
+We offer much more than academic research grants. In fact, we fund startups from diverse technology sectors, including IoT, edtech, smart health, robotics, and much more.
+</div>
+</div></section>
 
 <section class="usa-section usa-content">
 <div class="usa-grid">
