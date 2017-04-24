@@ -13,7 +13,7 @@ hero:
   button:
     href: /how-to-apply/
     text: Start your application
-  content:   <p><a href="#">About America's seed fund (powered by NSF)</a></p>
+  content:   <p><a href="#">About America's Seed Fund (powered by NSF)</a></p>
     <p><a href="#">How to apply</a></p>
     <small>Already submitted your application? <a href="#">Check for updates on FastLane</a>.</small>
 ---
@@ -31,7 +31,7 @@ Attend dozens of annual events — conferences, road shows, and more — to bui
 </div>
 <div class="usa-width-one-third" markdown="1">
 ## A diverse portfolio
-We offer much more than academic research grants. In fact, we fund startups from diverse technology sectors, including IoT, edtech, smart health, robotics, and much more.
+We offer much more than academic research grants. In fact, we fund startups from varied technology sectors, including IoT, edtech, smart health, robotics, and much more.
 </div>
 </div></section>
 
@@ -42,7 +42,7 @@ We offer much more than academic research grants. In fact, we fund startups from
 <a href="#" class="usa-lead">Our portfolio</a>
 </div>
 <div class="usa-width-one-half" markdown="1">
-Since 1977, America's seed fund (powered by SBIR/STTR) has helped startups develop their ideas and bring them to market. We support tech innovation — not just in traditional scientific fields — but [across all tech sectors](#), including edtech, IoT, big data, smart health, hardware, even social networks. Between 2007 and 2016 alone, we funded roughly 400 companies each year.
+Since 1977, America's Seed Fund (powered by SBIR/STTR) has helped startups develop their ideas and bring them to market. We support tech innovation — not just in traditional scientific fields — but [across all tech sectors](#), including edtech, IoT, big data, smart health, hardware, even social networks. Between 2007 and 2016 alone, we funded roughly 400 companies each year.
 
 ### We value diversity 
 
