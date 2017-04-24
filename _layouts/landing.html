@@ -21,12 +21,6 @@ layout: base
 {% endcapture %}
 {% if page.graphics_position != 'after' %}{{ _graphics }}{% endif %}
 
-<section class="usa-section">
-  <div class="usa-grid">
-    <div class="usa-width-one-whole">
     {{ content }}
-    </div>
-  </div>
-</section>
 
 {% if page.graphics_position == 'after' %}{{ _graphics }}{% endif %}
