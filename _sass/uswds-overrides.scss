@@ -7,8 +7,16 @@ $image-path: '../uswds/img';
 
 html,
 body {
-  font-family: 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial', sans-serif;
+  font-family: $font-sans;
 }
+
+p,
+ol,
+ul ,
+tr {
+  font-size: 1.5rem;
+}
+
 
 h2,
 h3,
