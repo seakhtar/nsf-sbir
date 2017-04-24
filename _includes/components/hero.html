@@ -4,7 +4,7 @@
   <div class="usa-grid">
       {% if hero.callout %}
       <div class="usa-width-two-thirds">
-        <h2>
+        <h2 class="large-header">
           {% if hero.callout.alt %}
           <span class="usa-hero-callout-alt">{{ hero.callout.alt }}</span>
           {% endif %}
@@ -26,7 +26,7 @@
         href="{{ hero.button.href | relative_url }}">
         {{ hero.button.text }}
         {% if hero.callout.subtext %}
-          <span class="usa-hero-callout-subtext">{{ hero.callout.subtext }}: {{ site.deadline }}</span>
+          <small class="usa-hero-callout-subtext">{{ hero.callout.subtext }}: {{ site.deadline }}</small>
         {% endif %}
       </a>
       {% endif %}
