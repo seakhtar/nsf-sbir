@@ -11,7 +11,7 @@ layout: docs
 
 Have a general question or concern? Call our help line at 703-292-8050 or email us at [sbir@nsf.gov](mailto:sbir@nsf.gov).
 
-Need to contact a program director? View our [program director listing here](link to Team page). 
+Need to contact a program director? View our [program director listing here]({{ sitebase.url }}/about/#meet-our-program-directors). 
 
 If you’re concerned about fraud or abuse with any award, contact the NSF Office of the Inspector General at 703-292-7100 (business hours) or 703-244-4443 (to speak to the duty officer).
 
