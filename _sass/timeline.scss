@@ -18,6 +18,7 @@ $timeline-right-padding: 5rem;
   li {
     list-style-type: none;
     margin: 0;
+    max-width: 100%;
     position: relative;
    }
 
@@ -88,6 +89,7 @@ $timeline-right-padding: 5rem;
   .usa-accordion-content {
     li {
       list-style-type: initial;
+      max-width: $text-max-width;
 
       &::before {
         display: none;
