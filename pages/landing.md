@@ -18,6 +18,6 @@ hero:
     <small>Already submitted your application? <a href="#">Check for updates on FastLane</a>.</small>
 ---
 <div style="text-align:center;">
-<img src="/assets/img/nsf-logo.gif"/><br>
+<img src="{{site.baseurl}}/assets/img/nsf-logo.gif"/><br>
 <h1>Seedfund.nsf.gov coming soon...</h1>
 </div>
