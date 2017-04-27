@@ -19,5 +19,5 @@ hero:
 ---
 <div style="text-align:center;">
 <img src="{{site.baseurl}}/assets/img/nsf-logo.gif"/><br>
-<h1>Seedfund.nsf.gov coming soon...</h1>
+<h1>seedfund.nsf.gov coming soon...</h1>
 </div>
