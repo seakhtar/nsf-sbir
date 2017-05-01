@@ -26,6 +26,9 @@ h6 {
   font-weight: 600;
 }
 
+.usa-banner-header {
+  font-family: $font-sans-alt;
+}
 
 .small-header {
   font-size: 1.7rem;
@@ -37,6 +40,12 @@ h6 {
 
 .usa-footer-logo-img {
   max-width: 5rem;
+}
+
+.usa-content {
+  li {
+    max-width: $text-max-width;
+  }
 }
 
 .usa-footer-secondary_section {

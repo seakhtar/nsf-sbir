@@ -19,7 +19,7 @@ hero:
 ---
 
 
-<section class="usa-section">
+<section class="usa-section usa-content">
 <div class="usa-grid">
 <div class="usa-width-one-third" markdown="1">
 <h2 class="small-header">Up to $225,000 for early-stage product development</h2>
@@ -55,7 +55,7 @@ Great ideas aren’t limited by geography, and we seek to fund companies both in
 
 
 
-<section class="usa-section usa-section-alt-bg">
+<section class="usa-section usa-section-alt-bg usa-content">
   <div class="usa-grid">
     <div class="usa-width-one-half usa-content" markdown="1">
 <h2 class="large-header">Are you a good fit?</h2>
