@@ -7,7 +7,7 @@ layout: docs
 
 # Events
 
-<p class="usa-font-lead">Our onsite and online events will help you learn about our program and connect with program staff and other founders.</p>
+<p class="usa-font-lead">Our onsite and online events will help you learn about our program and connect with program staff.</p>
 
 <table class="usa-table-borderless event-listing">
     <thead>
