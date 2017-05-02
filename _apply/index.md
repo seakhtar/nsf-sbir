@@ -4,7 +4,7 @@ permalink: /how-to-apply/
 layout: docs
 timeline:
   - title: 90 days before<br> the deadline
-    description: Call for proposals (solicitation) officially released.
+    description: Call for proposals (solicitation) released.
     steps:
       - step-1
   - title: 60 days before<br>  the deadline
@@ -19,9 +19,9 @@ timeline:
     note: "Note: Your time zone is based on your company's address as you listed it in your application."
     deadline: true
   - title: 1-3 months after<br> the deadline
-    description: Applications undergo panel reviews.
+    description: Applications undergo panel and merit reviews.
   - title: 4-6 months after<br> the deadline
-    description: We'll notify you whether your proposal is accepted or declined for funding.
+    description: We'll notify you weather your proposal is accepted or declined.
 ---
 # How to apply
 
