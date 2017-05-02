@@ -1,6 +1,6 @@
 ---
 title: Determine eligibility
-description: Make sure your company is incorporated and meets these work requirements
+description: Make sure your company is incorporated and meets these eligibility requirements
 ---
 
 - Your company must be a legal entity at the time you apply for funding.
