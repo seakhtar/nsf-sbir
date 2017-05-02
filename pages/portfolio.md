@@ -1,6 +1,7 @@
 ---
 title: Portfolio
 permalink: /portfolio/
+featuredCompanies:
 
 layout: docs
 ---
@@ -10,20 +11,7 @@ layout: docs
 </p>
 
 ## Featured alumni and exits
-<ul class="flex-list flex-list-4-col">
-  <li>Company 1</li>
-  <li>Company 1</li>
-  <li>Company 1</li>
-  <li>Company 1</li>
-  <li>Company 1</li>
-  <li>Company 1</li>
-  <li>Company 1</li>
-  <li>Company 1</li>
-  <li>Company 1</li>
-  <li>Company 1</li>
-  <li>Company 1</li>
-  <li>Company 1</li>
-</ul>
+{% include featured-companies.html %}
 
 <p class="usa-font-lead"><b>We’re technology agnostic.</b><br>  Each year, we fund roughly 400 companies across nearly all technology and market sectors.</p>
 
