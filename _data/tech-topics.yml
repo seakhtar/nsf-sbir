@@ -20,11 +20,15 @@
     - Nanomanufacturing (N2)
     - Nanotechnology Based Solutions to Grand Challenges (N3)
   companies:
-    - company 1 has a really long name... beacause why not?
-    - company 2
-    - company 3
-    - company 4
-    - company 5
+    - TAG Optics, Inc.
+    - Keystone Tower Systems
+    - ThermoAura Inc.
+    - Branch Technology LLC
+    - Lite Enterprises Inc
+    - ZoomEssence
+    - Coulometrics
+    - Persimmon Technologies
+    - Levant Power (now Clear Motion)
 
 - topic: Advanced Materials and Instrumentation (MI)
   programDirector:
@@ -41,15 +45,19 @@
     - Instrumentation for Detection, Actuation, Control, and Manipulation (MI8)
     -  Other Instrumentation (MI9)
   companies:
-    - company 1
-    - company 2
-    - company 3
-    - company 4
-    - company 5
+    - DropWise Technologies Corp.
+    - bioMASON Inc.
+    - Molecular Vista, Inc.
+    - Mallinda, LLC
+    - Chirp Microsystems
+    - Construction Robotics, LLC
+    - Spheryx, Inc
+    - Altaeros Energies, Inc.
+    - Neuvokas Corporation
 
 - topic: Biological Technologies (BT)
   programDirector:
-    - name: Ruth Shulman
+    - name: Ruth Shuman
       email: rshuman@nsf.gov
   subtopics:
     - Agricultural and Food Safety Biotechnology (BT1)
@@ -63,18 +71,19 @@
     - Advanced technologies for functional genomics in organismal systems (BT9)
     - Tissue Engineering and Regenerative Medicine (BT10; formerly BM3)
   companies:
-    - company 1
-    - company 2
-    - company 3
-    - company 4
-    - company 5
+    - Ginkgo BioWorks
+    - Triton Animal Products
+    - SQZ Biotechnologies Company
+    - Glauconix Inc.
+    - Ocular Dynamics
+    - Data2Discovery Inc
+    - Knudra Diagnostics
+    - Miromatrix Medical Inc.
 
 - topic: Biomedical Technologies (BM)
   programDirector:
     - name: Henry Ahn
       email: hahn@nsf.gov
-    - name: Jesus V. Soriano
-      email: jsoriano@nsf.gov
   subtopics:
     - Pharmaceutical Manufacturing (BM1)
     - Materials for Biomedical Applications (BM2)
@@ -84,11 +93,15 @@
     - Diagnostic Assays and Platforms (BM6)
     - Drug Delivery (BM7)
   companies:
-    - company 1
-    - company 2
-    - company 3
-    - company 4
-    - company 5
+    - Protein Dynamic Solutions, LLC
+    - Camras Vision, Inc.
+    - Arytha Biosciences, LLC
+    - CytoVale, Inc
+    - OneBreath, Inc.
+    - Rochal Industries LLC
+    - Elidah, Inc.
+    - Vaxess Technologies, Inc.
+    - LambdaVision, Inc.
 
 - topic: Chemical and Environmental Technologies (CT)
   programDirector:
@@ -110,11 +123,16 @@
     - Sustainable Chemistry and Green Engineering Technology (CT13)
     - Emerging Technologies and Applications (CT14)
   companies:
-    - company 1
-    - company 2
-    - company 3
-    - company 4
-    - company 5
+    - Flodesign Sonics Inc.
+    - Modular Genetics, Inc.
+    - Renuvix
+    - Ground Fluor Pharmaceuticals, Inc.
+    - ZYMtronix Catalytic Systems Inc.
+    - Ubiquitous Energy, Inc
+    - Vaporsens Inc.
+    - Precision Polyolefins, LLC
+    - Cycladex
+    - Cambrian Innovation Inc
 
 - topic: Educational Technologies and Applications (EA)
   programDirector:
@@ -127,11 +145,20 @@
     - Entrepreneurial, Informal, and Maker Education (EA4)
     - Information, Computer Science, and Engineering (EA5)
   companies:
-    - company 1
-    - company 2
-    - company 3
-    - company 4
-    - company 5
+    - Mgenuity Corporation
+    - LaunchPad Central Inc.
+    - Modular Robotics Incorporated
+    - Zyante Inc
+    - VoiceVibes, Inc.
+    - KinderLab Robotics, Inc.
+    - Killer Snails, LLC
+    - Teachley, LLC.
+    - Second Avenue Software, Inc.
+    - Simbulus Inc
+    - Workplace Technologies Research Inc.
+    - Edify Technologies, Inc.
+    - Triad Interactive Media
+    - starMobile, Inc.
 
 - topic: Electronic Hardware, Robotics and Wireless Technologies (EW)
   programDirector:
@@ -155,11 +182,15 @@
     - Human Assistive Technologies and Bio-related Robotics (RH6)
     - Micro-electronics Packaging, Thermal Management & Systems Integration (MT)
   companies:
-    - company 1
-    - company 2
-    - company 3
-    - company 4
-    - company 5
+    - TACTAI
+    - Blue River Technology Inc
+    - Artaic LLC
+    - VECARIUS
+    - Imprint Energy, Inc.
+    - GridBridge, Inc
+    - nView medical Inc.
+    - Leonardo Innovations Inc.
+    - RightHand Robotics, LLC
 
 - topic: Information Technologies(IT)
   programDirector:
@@ -181,11 +212,16 @@
   - Software (IT13)
   - Other (IT14)
   companies:
-    - company 1
-    - company 2
-    - company 3
-    - company 4
-    - company 5
+    - Geospatial Data Analysis Corporation
+    - Waltz Networks, Inc.
+    - VOCALID INC
+    - Whova
+    - Lumenous Co.
+    - Mental Canvas, LLC
+    - InsightFinder Inc.
+    - NGD Systems, Inc.
+    - AppScale Systems, Inc.
+    - Bay Labs, Inc.
 
 - topic: Internet of Things (I)
   programDirector:
@@ -198,11 +234,11 @@
     - IoT Integrated Systems (IoT4)
     - IoT IT; Cloud, Big Data and Security and Privacy (also see IT portfolio topics)
   companies:
-    - company 1
-    - company 2
-    - company 3
-    - company 4
-    - company 5
+    - Runtime Verification, Inc.
+    - SensorHound, Inc.
+    - Arable Labs, Inc.
+    - One Million Metrics Corp
+    - IOTAS, Inc.
 
 - topic: Semiconductors (S) and Photonic Devices and Materials (PH)
   programDirector:
@@ -222,11 +258,11 @@
     - Processing and Metrology Technology (S3)
     - Integrated Circuit Design (S4)
   companies:
-    - company 1
-    - company 2
-    - company 3
-    - company 4
-    - company 5
+    - Endectra, LLC
+    - NGCodec Inc.
+    - TexasLDPC Inc., dba Symbyon Systems
+    - Multicore Photonics, Inc.
+    - Uniqarta, Inc.
 
 - topic: Smart Health (SH)
   programDirector:
@@ -238,11 +274,15 @@
     - From Data to Decisions (SH3)
     - Interoperability of Health Record Systems, Medical Sensors, Devices and Robotics (SH4)
   companies:
-    - company 1
-    - company 2
-    - company 3
-    - company 4
-    - company 5
+    - TAO Connect, Inc.
+    - Neural Analytics
+    - Care Progress, LLC
+    - Roundtable Analytics, Inc.
+    - HealthMyne, Inc.
+    - Aperiomics, Inc.
+    - ConsortiEX, Inc
+    - Guiding Technologies Corporation
+    - Radial Analytics, Inc.
 
 - topic: Other Topics (OT)
   programDirector:
@@ -251,8 +291,3 @@
   subtopics:
     - is intended to be a home to any proposed project which does not seem to fit into one of the other technology topic areas, but still seems to meet our goals of supporting research and development of innovative, risky, unproven technology, with commercial viability and the potential to benefit society.
   companies:
-    - company 1
-    - company 2
-    - company 3
-    - company 4
-    - company 5
