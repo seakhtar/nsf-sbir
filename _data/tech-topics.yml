@@ -57,7 +57,7 @@
 
 - topic: Biological Technologies (BT)
   programDirector:
-    - name: Ruth Shulman
+    - name: Ruth Shuman
       email: rshuman@nsf.gov
   subtopics:
     - Agricultural and Food Safety Biotechnology (BT1)
@@ -84,8 +84,6 @@
   programDirector:
     - name: Henry Ahn
       email: hahn@nsf.gov
-    - name: Jesus V. Soriano
-      email: jsoriano@nsf.gov
   subtopics:
     - Pharmaceutical Manufacturing (BM1)
     - Materials for Biomedical Applications (BM2)
@@ -293,8 +291,3 @@
   subtopics:
     - is intended to be a home to any proposed project which does not seem to fit into one of the other technology topic areas, but still seems to meet our goals of supporting research and development of innovative, risky, unproven technology, with commercial viability and the potential to benefit society.
   companies:
-    - company 1
-    - company 2
-    - company 3
-    - company 4
-    - company 5
