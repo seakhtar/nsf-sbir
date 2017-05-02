@@ -13,7 +13,7 @@ timeline:
       - step-3
       - step-4
   - title: 30 days before<br> the deadline
-    description: Applicants may begin submitting applications info Fastlane.
+    description: Applicants may begin submitting applications info FastLane.
   - title: "Deadline<br> {{ site.deadline }}"
     description: "Applications due by 5:00 PM in your local time zone."
     note: "Note: Your time zone is based on your company's address as you listed it in your application."
@@ -21,7 +21,7 @@ timeline:
   - title: 1-3 months after<br> the deadline
     description: Applications undergo panel reviews.
   - title: 4-6 months after<br> the deadline
-    description: We'll notify you weather your proposal is accepted or declined for funding.
+    description: We'll notify you whether your proposal is accepted or declined for funding.
 ---
 # How to apply
 
