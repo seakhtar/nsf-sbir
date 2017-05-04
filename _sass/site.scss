@@ -1,8 +1,9 @@
+
 .section-about {
   background: $color-teal;
 }
 .section-goodfit {
-  background-image: url('/assets/img/bg-crowd.jpg');
+  background-image: url('../img/bg-crowd.jpg');
   background-size: cover;
   color:$color-white;
    a {
@@ -10,6 +11,6 @@
    }
 }
 .section-intro {
-  background-image: url('/assets/img/bg-presentation.jpg');
+  background-image: url('../img/bg-presentation.jpg');
   background-size: cover;
 }
