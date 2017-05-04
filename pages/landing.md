@@ -12,7 +12,7 @@ hero:
     subtext: Transform your innovative idea into a scalable product or service.
   button:
     href: /how-to-apply/
-    text: Start your application (Deadline: June 14, 2017)
+    text: "Start your application (Deadline: June 14, 2017)"
   content:   <p><a href="#" class="mono">About America's Seed Fund (powered by NSF)</a></p>
     <p><a href="#" class="mono">How to apply</a></p>
     <small>Already submitted your application? <a href="#">Check for updates on FastLane</a>.</small>
