@@ -19,7 +19,7 @@ timeline:
   - title: 1-3 months after<br> the deadline
     description: Applications undergo panel and merit reviews.
   - title: 4-6 months after<br> the deadline
-    description: We'll notify you weather your proposal is accepted or declined.
+    description: We'll notify you whether your proposal is accepted or declined.
   - title: 5-6 months after<br> the deadline
     description: If your proposal is accepted, you'll receive funding of up to $225,000.
 ---
