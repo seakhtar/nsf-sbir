@@ -1,6 +1,8 @@
 ---
 title: Start your application
+becomes_dormant: true
 description: Once you've reviewed the solicitation, start peparing your application in FastLane.
+dormant_description: We're not currently accepting proposal applications.
 ---
 
 **[Start your application in FastLane](#)**
