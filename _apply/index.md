@@ -15,9 +15,9 @@ timeline:
       - step-4
   - title: "Deadline<br> {{ site.deadline }}"
     description: "Applications due by 5:00 PM in your local time zone."
-    dormant_description: "Application submission has expired."
+    inactive_description: "Application submission has expired."
     note: "Note: Your time zone is based on your company's address as you listed it in your application."
-    dormant_note:
+    inactive_note:
     deadline: true
   - title: 1-3 months after<br> the deadline
     description: Applications undergo panel and merit reviews.
@@ -37,8 +37,8 @@ timeline:
       {% assign milestone_description = milestone.description %}
       {% assign milestone_note = milestone.note %}
     {% else %}
-      {% assign milestone_description = milestone.dormant_description | default: milestone.description %}
-      {% assign milestone_note = milestone.dormant_note %}
+      {% assign milestone_description = milestone.inactive_description | default: milestone.description %}
+      {% assign milestone_note = milestone.inactive_note %}
     {% endif %}
 
     <span class="time">{{ milestone.title | liquify }}</span>

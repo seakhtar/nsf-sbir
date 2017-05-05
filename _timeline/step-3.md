@@ -1,6 +1,6 @@
 ---
 title: Review the solicitation
-becomes_dormant: true
+becomes_inactive: true
 description: Read the solicitation, which includes everything you need to know about applying for funding.
 ---
 
