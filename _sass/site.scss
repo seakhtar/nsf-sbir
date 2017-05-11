@@ -1,0 +1,16 @@
+
+.section-about {
+  background: $color-teal;
+}
+.section-goodfit {
+  background-image: url('../img/bg-crowd.jpg');
+  background-size: cover;
+  color:$color-white;
+   a {
+     color:$color-white;
+   }
+}
+.section-intro {
+  background-image: url('../img/bg-presentation.jpg');
+  background-size: cover;
+}

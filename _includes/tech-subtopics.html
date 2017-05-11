@@ -1,0 +1,42 @@
+<section>
+  <ul class="flex-list">
+    {% for topic in site.data.tech-topics %}
+      <li><a href="#{{ topic.topic | slugify }}">{{ topic.topic }}</a></li>
+    {% endfor %}
+  </ul>
+</section>
+
+{% for topic in site.data.tech-topics %}
+<section id="{{ topic.topic | slugify }}" class="tech-topics">
+  <h2>{{ topic.topic }}</h2>
+  <div class="usa-grid">
+  <div class="usa-width-one-third">
+<h3>Program director</h3>
+    {% for programDirector in topic.programDirector %}
+      <a href="mailto:{{ programDirector.email }}">
+          {{ programDirector.name }}
+      </a>
+      {% endfor %}
+  </div>
+  <div class="usa-width-two-thirds">
+    {% if topic.companies %}  <h3>Featured companies</h3>
+    <ul class="flex-list flex-list-3-col">
+    {% for company in topic.companies %}
+      <li>
+          {{ company }}
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    <h4>{{ topic.topic }}</h4>
+    <ul class="tech-subtopics">
+    {% for subtopic in topic.subtopics %}
+      <li>
+          {{ subtopic }}
+      </li>
+      {% endfor %}
+    </ul>
+    </div>
+</div>
+</section>
+  {% endfor %}

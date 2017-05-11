@@ -5,30 +5,62 @@ permalink: /
 layout: landing
 
 hero:
-  image: /assets/img/hero-2.png
+  image:
   callout:
-    alt: "NSF Seed Fund"
-    text: Zero-equity funding to help startups transform innovative ideas into products and services.
-    subtext: Deadline is
+    alt:
+    text: Unlock your potential with equity-free funding.
+    subtext: Transform your innovative idea into a scalable product or service.
   button:
     href: /how-to-apply/
-    text: We've helped [Company], [Company], and [Company] get started. Apply for funding now.
-
+    text: "Start your application (Deadline: June 14, 2017)"
+  content:   <p><a href="#" class="mono">About America's Seed Fund (powered by NSF)</a></p>
+    <p><a href="#" class="mono">How to apply</a></p>
+    <small>Already submitted your application? <a href="#">Check for updates on FastLane</a>.</small>
 ---
-## Our philosophy
 
-Since 1977, the NSF seed fund (powered by SBIR/STTR) has helped startups develop their idea and bring them to market. We work with seed-stage companies across all tech sectors — IoT, smart health, robotics, and many more — whose work promises to make a notable social impact.
 
-Inclusivity is central to our philosophy. We seek to fund companies outside of tech hotbeds, and we promote the innovations of women, people of color, and other folks from marginalized groups.
+<section class="usa-section usa-content section-intro">
+<div class="usa-grid">
+<div class="usa-width-one-third" markdown="1">
+<h2 class="small-header">Up to $225,000 for early-stage product development</h2>
 
-We offer up to $225k in funding for proof of concept projects and up to $750k in funding for projects that warrant further development; between 2007 and 2016 alone, we funded more than 4,000 proposals. What’s more, we provide the mentorship and event access that sets our founders on the path to success.
+</div>
+<div class="usa-width-two-thirds" markdown="1">
+We offer funding for proof-of-concept product development or research and take no equity in your company — you retain full control over your team, the direction of your work, and your intellectual property.
+<h2 class="small-header">A diverse portfolio</h2>
+We offer much more than academic research grants. In fact, we fund startups from varied technology sectors, including IoT, edtech, smart health, robotics, and much more.
+<h2 class="small-header"> Access to our network</h2>
+You'll get access to  year-round events and join a prestigious network of technology innovators and founders.
+</div>
+</div></section>
 
-## Are you a good fit?
+<section class="usa-section usa-section-alt-bg usa-content section-goodfit">
+  <div class="usa-grid">
+    <div class="usa-width-one-third usa-content" markdown="1">
+<h2 class="large-header">What we look for</h2>
+</div>
+<div class="usa-width-two-thirds usa-content" markdown="1">
+We’re always looking to support innovative, technically risky work that still needs more research and development. As we review applications, we consider your company’s innovativeness, commercial plan, and possible social impact. Your technology needs to have a good market fit and the potential to meaningfully benefit society.
 
-We’re always seeking to support innovative, high-risk work that needs a bit more research and development. We also consider your potential for commercial and social impact — your technology needs to have a good market fit and benefit society.
+<h3 class="small-header">We embrace diversity</h3>
 
-Sound like you? Check out our portfolio, then submit an executive summary of your work to one of our Program Directors. We’ll provide more insight on whether now is the right time to apply.
+Great ideas aren’t limited by geography, and we seek to fund companies both inside and outside of the major tech hotbeds. We encourage the work of socially and economically disadvantaged people, first-time entrepreneurs, and folks who are traditionally underrepresented in tech.
 
-## Curious about the status of your application?
+[Am I a good fit?](#)
+</div></div></section>
 
-<button>Check your application status now</button>
+
+<section class="usa-section usa-content section-about">
+<div class="usa-grid">
+<div class="usa-width-one-third" markdown="1">
+&nbsp;
+</div>
+<div class="usa-width-two-thirds" markdown="1">
+<h2 class="large-header">About the National Science Foundation's Small Business Programs</h2>
+Since 1977, America's Seed Fund (powered by SBIR/STTR) has helped startups develop their ideas and bring them to market. We support tech innovation not just in traditional scientific fields, but [across all tech sectors](#), including edtech, IoT, big data, smart health, hardware, even social networks. Between 2007 and 2016 alone, we funded roughly 400 companies each year.
+
+<a href="#" class="usa-lead">Check out our portfolio</a>
+
+</div>
+</div>
+</section>

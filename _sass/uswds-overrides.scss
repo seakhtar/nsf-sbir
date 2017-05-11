@@ -1,0 +1,59 @@
+
+
+$font-path: '../uswds/fonts';
+$image-path: '../uswds/img';
+
+@import 'uswds/all';
+
+html,
+body {
+  font-family: $font-sans;
+}
+
+p,
+ol,
+ul ,
+tr {
+  font-size: 1.5rem;
+}
+
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+}
+
+.usa-banner-header {
+  font-family: $font-sans-alt;
+}
+
+.small-header {
+  font-size: 1.7rem;
+}
+
+.large-header {
+  font-size: 2.5rem;
+}
+
+.usa-footer-logo-img {
+  max-width: 5rem;
+}
+
+.usa-content {
+  li {
+    max-width: $text-max-width;
+  }
+}
+
+.usa-footer-secondary_section {
+  background-color: $color-primary;
+  color: $color-white;
+
+  a {
+    color: $color-white;
+  }
+
+}

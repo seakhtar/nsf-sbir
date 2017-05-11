@@ -2,24 +2,26 @@
 <section class="usa-hero"{% if hero.image %}
   style="background-image: url('{{ hero.image | relative_url }}')"{% endif %}>
   <div class="usa-grid">
-    <div class="usa-hero-callout usa-section-dark">
       {% if hero.callout %}
-      <h2>
-        {% if hero.callout.alt %}
-        <span class="usa-hero-callout-alt">{{ hero.callout.alt }}</span>
+      <div class="usa-width-two-thirds">
+        <h2 class="large-header">
+          {% if hero.callout.alt %}
+          <span class="usa-hero-callout-alt">{{ hero.callout.alt }}</span>
+          {% endif %}
+          {{ hero.callout.text | default: hero.callout }}
+        </h2>
         {% endif %}
-        {{ hero.callout.text | default: hero.callout }}
-      </h2>
-      {% endif %}
-
-
-      {% if hero.link %}
-      <a class="usa-hero-link" href="{{ hero.link.href | relative_url }}">
-        {{ hero.link.text }}
-      </a>
-      {% endif %}
-
-      {{ hero.content | markdownify }}
+        {% if hero.callout.subtext %}
+          <p class="usa-hero-callout-subtext">{{ hero.callout.subtext }}</p>
+        {% endif %}
+        {% if hero.link %}
+        <a class="usa-hero-link" href="{{ hero.link.href | relative_url }}">
+          {{ hero.link.text }}
+        </a>
+        {% endif %}
+        {{ hero.content | markdownify }}
+</div>
+    <div class="usa-width-one-third">
 
       {% if hero.button %}
       <a class="usa-button usa-button-big usa-button-secondary"
@@ -27,11 +29,6 @@
         {{ hero.button.text }}
       </a>
       {% endif %}
-
-      {% if hero.callout.subtext %}
-        <span class="usa-hero-callout-subtext">{{ hero.callout.subtext }} {{ site.deadline }}</span>
-      {% endif %}
-
     </div>
   </div>
 </section>

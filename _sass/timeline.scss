@@ -1,0 +1,175 @@
+$timeline-line-width: 4px;
+$timeline-node-diameter: 14px;
+$timeline-node-width: 2px;
+$timeline-left: 25%;
+$timeline-right: 75%;
+$timeline-right-padding: 5rem;
+
+.timeline {
+  counter-reset: count;
+  list-style: none;
+  padding-left: 0;
+
+  & > li {
+    color: $color-gray;
+    padding: 0 0 4rem;
+  }
+
+  li {
+    list-style-type: none;
+    margin: 0;
+    max-width: 100%;
+    position: relative;
+   }
+
+  .time br {
+    display: none;
+  }
+
+  .time-description {
+    display: block;
+  }
+
+  .step {
+    margin: .25rem .25rem 1rem;
+
+    .step-description {
+      color: $color-gray-dark;
+      display: block;
+      font-size: initial;
+      margin-top: $site-margins-mobile;
+    }
+  }
+
+  .step-deadline {
+    font-weight: $font-bold;
+  }
+
+  .usa-accordion {
+    margin-top: $site-margins;
+
+    li {
+      counter-increment: li;
+
+      // building the step number dots
+      &::before {
+        // Display the counter
+        background-color: white;
+        border: 3px solid $color-green;
+        border-radius: 50%;
+        color: $color-green;
+        content: counter(count) '';
+        counter-increment: count;
+        display: inline-block;
+        height: 35px;
+        left: 1rem;
+        line-height: 2.7rem;
+        position: absolute;
+        text-align: center;
+        top: 1.9rem;
+        width: 35px;
+      }
+    }
+
+    // setup accordion arrow
+    button {
+      background-image: url('../uswds/img/arrow-down.svg');
+      background-position: right 2.25rem top 2.9rem;
+      color: $color-green;
+      font-size: 2rem;
+      font-weight: $font-normal;
+      padding: 2.5rem 5.5rem;
+
+      &[aria-expanded='false'] {
+        background-image: url('../uswds/img/arrow-right.svg');
+    }
+  }
+}
+
+  .usa-accordion-content {
+    li {
+      list-style-type: initial;
+      max-width: $text-max-width;
+
+      &::before {
+        display: none;
+    }
+  }
+}
+}
+
+@include media($medium-screen) {
+  .timeline {
+    > li {
+      &::before {
+        background-color: $color-gray-light;
+        content: '';
+        display: block;
+        height: 100%;
+        left: $timeline-left;
+        position: absolute;
+        width: $timeline-line-width;
+      }
+
+      &::after {
+        content: '';
+        display: inline-block;
+        border-radius: 25px;
+        width: $timeline-node-diameter;
+        height: $timeline-node-diameter;
+        border: $timeline-node-width solid $color-gray;
+        position: absolute;
+        top: 1.5rem;
+        left: $timeline-left;
+        background-color: $color-white;
+        margin-left: -5px;
+      }
+    }
+
+    .time {
+      width: $timeline-left;
+      display: inline-block;
+      padding-top: 0;
+      text-align: right;
+      padding-right: $timeline-right-padding;
+
+      br {
+        display: initial;
+      }
+    }
+
+    .time-description {
+      display: inline-block;
+      vertical-align: top;
+      padding-top: 1rem;
+      padding-left: $timeline-right-padding;
+      position: relative;
+      width: $timeline-right;
+      float: right;
+    }
+
+    .usa-accordion {
+      list-style: none;
+      padding-left: calc(#{$timeline-left} + #{$timeline-right-padding});
+
+      li {
+        position: relative;
+
+        &::before {
+          left: 1rem;
+        }
+      }
+    }
+  }
+
+  .step-deadline {
+    &::after {
+      border-color: $color-red !important;
+    }
+
+    small {
+      display: block;
+      font-weight: $font-normal;
+    }
+  }
+}

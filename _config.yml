@@ -6,7 +6,9 @@ permalink: pretty
 deadline: June 14th, 2017
 
 styles:
-  - /assets/css/uswds-overrides.css
+  - /assets/css/styles.css
+sass:
+  style: compressed
 
 scripts:
   - src: /assets/uswds/js/uswds.min.js
@@ -20,6 +22,10 @@ collections:
   apply:
     permalink: /how-to-apply/:path/
     output: true
+  events:
+    output: false
+  timeline:
+    output: false
 
 defaults:
   - scope:
