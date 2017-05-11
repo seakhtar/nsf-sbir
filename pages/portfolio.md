@@ -3,7 +3,7 @@ title: Portfolio
 permalink: /portfolio/
 featuredCompanies:
 
-layout: docs
+layout: secondary
 ---
 
 # Portfolio

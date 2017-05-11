@@ -1,8 +1,7 @@
 ---
 title: About
 permalink: /about/
-
-layout: docs
+layout: secondary
 ---
 
 # About
