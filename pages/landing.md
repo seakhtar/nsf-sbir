@@ -8,8 +8,7 @@ hero:
   image:
   callout:
     alt:
-    text: Unlock your potential with equity-free funding.
-    subtext: Transform your innovative idea into a scalable product or service.
+    text: Equity-free funding to transform your innovative idea into a scalable product or service.
   button:
     href: /how-to-apply/
     text: "Start your application (Deadline: June 14, 2017)"
@@ -26,11 +25,11 @@ hero:
 
 </div>
 <div class="usa-width-two-thirds" markdown="1">
-We offer funding for proof-of-concept product development or research and take no equity in your company — you retain full control over your team, the direction of your work, and your intellectual property.
+We offer funding for proof-of-concept product development or research and take no equity in your company. You retain full control over your team, the direction of your work, and your intellectual property.
 <h2 class="small-header">A diverse portfolio</h2>
-We offer much more than academic research grants. In fact, we fund startups from varied technology sectors, including IoT, edtech, smart health, robotics, and much more.
+We offer much more than research grants. In fact, we fund startups from varied technology sectors, including IoT, edtech, smart health, robotics, and much more.
 <h2 class="small-header"> Access to our network</h2>
-You'll get access to  year-round events and join a prestigious network of technology innovators and founders.
+You'll get access to year-round events and join a prestigious network of tech innovators and founders.
 </div>
 </div></section>
 
