@@ -1,7 +1,7 @@
 ---
 title: Apply
 permalink: /how-to-apply/
-layout: docs
+layout: secondary
 timeline_active: true
 timeline:
   - title: 90 days before<br> the deadline
@@ -28,10 +28,10 @@ timeline:
 ---
 # How to apply
 
-<ol class="timeline">
+<ol class="timeline {% if page.timeline_active == false %} timeline-inactive {% endif %}">
 {% assign step_counter = 1 %}
 {% for milestone in page.timeline %}
-  <li {% if milestone.deadline %} class="step-deadline"{% endif %}>
+  <li class="timeline-step{% if milestone.deadline %} timeline-step-deadline{% endif %}">
 
     {% if page.timeline_active == true %}
       {% assign milestone_description = milestone.description %}
@@ -50,7 +50,8 @@ timeline:
     {% if milestone.steps %}
     <ol class="usa-accordion">
       {% for step in milestone.steps %}
-      <li value="{{ step_counter }}" class="step">
+      {% assign timeline_item_ = site.timeline | where:"slug", step %}
+      <li value="{{ step_counter }}" class="step {{ step }} {% if page.timeline_active == false and timeline_item_[0].becomes_inactive == true %} step-inactive {% endif %}">
         {% include components/accordion-item.html slug=step %}
       </li>
       {% assign step_counter = step_counter | plus: 1 %}

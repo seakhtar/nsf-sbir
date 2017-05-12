@@ -1,8 +1,5 @@
-
-
 $font-path: '../uswds/fonts';
 $image-path: '../uswds/img';
-
 @import 'uswds/all';
 
 html,
@@ -28,14 +25,6 @@ h6 {
 
 .usa-banner-header {
   font-family: $font-sans-alt;
-}
-
-.small-header {
-  font-size: 1.7rem;
-}
-
-.large-header {
-  font-size: 2.5rem;
 }
 
 .usa-footer-logo-img {

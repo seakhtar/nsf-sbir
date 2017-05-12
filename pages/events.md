@@ -2,7 +2,7 @@
 title: Events
 permalink: /events/
 
-layout: docs
+layout: secondary
 ---
 
 # Events

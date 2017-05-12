@@ -1,17 +1,18 @@
-.tech-topics {
-  .tech-subtopics {
-    list-style: none;
-    padding-left: 0;
-    li {
-      display: inline;
-      &::after {
-        content:" ";
-        background-color:$color-gray-light;
-        display:inline-block;
-        width:40px;
-        height:4px;
-       margin-bottom:3px;
+
+.tech-subtopics {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    display: inline;
+
+    &::after {
+      background-color: $color-gray-light;
+      content: '';
+      display: inline-block;
+      height: 4px;
+      margin-bottom: 3px;
+      width: 40px;
     }
   }
-}
 }
