@@ -25,7 +25,9 @@ primary:
   - text: Demo
     href: /demo/
 
-secondary: []
+secondary:
+  - text: new link
+    href: /new-page/
 
 footer:
   - text: Contact
