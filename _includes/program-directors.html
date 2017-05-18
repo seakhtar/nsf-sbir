@@ -2,6 +2,9 @@
 {% for topic in site.data.tech-topics %}
   {% for programDirector in topic.programDirector %}
     <li>
+       {% for programDirector.photo %}
+        <img src="/assets/img/pd/{{ programDirector.photo }}">
+       {% endfor %}
       <a href="mailto:{{ programDirector.email }}">{{ programDirector.name }}</a> - {{ topic.topic }}
     </li>
   {% endfor %}
