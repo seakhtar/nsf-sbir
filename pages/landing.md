@@ -56,7 +56,7 @@ Great ideas aren’t limited by geography, and we seek to fund companies both in
 </div>
 <div class="usa-width-two-thirds" markdown="1">
 <h2 class="large-header">About the National Science Foundation's Small Business Programs</h2>
-Since 1977, America's Seed Fund (powered by SBIR/STTR) has helped startups develop their ideas and bring them to market. We support tech innovation not just in traditional scientific fields, but [across all tech sectors](#), including edtech, IoT, big data, smart health, hardware, even social networks. Between 2007 and 2016 alone, we funded roughly 400 companies each year.
+Since 1977, America's Seed Fund (powered by NSF) has helped startups develop their ideas and bring them to market. We support tech innovation not just in traditional scientific fields, but [across all tech sectors](#). Between 2007 and 2016 alone, we funded roughly 400 companies each year.
 
 <a href="#" class="usa-lead">Check out our portfolio</a>
 
