@@ -12,6 +12,8 @@
 primary:
   - text: About
     href: /about/
+  - text: Scott
+    href: /scott/
   - text: Apply
     href: /how-to-apply/
   - text: Portfolio
