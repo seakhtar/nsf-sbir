@@ -7,7 +7,7 @@ layout: docs
 
 # Section one
 
-This is some content.
+This is some content. *Can we add pictures?*
 
 # Section two
 
