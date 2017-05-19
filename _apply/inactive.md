@@ -1,8 +1,8 @@
 ---
 title: Apply
-permalink: /how-to-apply-inactive/
+permalink: /how-to-apply/
 layout: secondary
-timeline_active: false
+timeline_active: true
 timeline:
   - title: 90 days before<br> the deadline
     description: Call for proposals (solicitation) released.
