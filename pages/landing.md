@@ -8,7 +8,7 @@ hero:
   image:
   callout:
     alt:
-    text: Equity-free funding to transform your innovative idea into a scalable product or service.
+    text: UP TO $225,000 SEED FUNDING. 0% EQUITY.
   button:
     href: /how-to-apply/
     text: "Start your application (Deadline: June 14, 2017)"
@@ -21,15 +21,15 @@ hero:
 <section class="usa-section usa-content section-intro">
 <div class="usa-grid">
 <div class="usa-width-one-third" markdown="1">
-<h2 class="small-header">Up to $225,000 for early-stage product development</h2>
+<h2 class="small-header">Seed capital for early-stage product development</h2>
 
 </div>
 <div class="usa-width-two-thirds" markdown="1">
-We offer funding for proof-of-concept product development or research and take no equity in your company. You retain full control over your team, the direction of your work, and your intellectual property.
+We offer funding for early-stage R&D and take no equity in your company. You retain full control over your team, the direction of your work, and your intellectual property.
+<h2 class="small-header">Access to our network</h2>
+Attend dozens of annual events — road shows, conferences, and more — to build lasting bonds with entrepreneurs and innovators.
 <h2 class="small-header">A diverse portfolio</h2>
-We offer much more than research grants. In fact, we fund startups from varied technology sectors, including IoT, edtech, smart health, robotics, and much more.
-<h2 class="small-header"> Access to our network</h2>
-You'll get access to year-round events and join a prestigious network of tech innovators and founders.
+We offer much more than academic research grants. In fact, we fund startups from nearly all tech sectors, including IoT, edtech, smart health, and much more.
 </div>
 </div></section>
 
@@ -39,11 +39,11 @@ You'll get access to year-round events and join a prestigious network of tech in
 <h2 class="large-header">What we look for</h2>
 </div>
 <div class="usa-width-two-thirds usa-content" markdown="1">
-We’re always looking to support innovative, technically risky work that still needs more research and development. As we review applications, we consider your company’s innovativeness, commercial plan, and possible social impact. Your technology needs to have a good market fit and the potential to meaningfully benefit society.
+We’re looking to support groundbreaking, technically risky work that needs more research and development. As we review applications, we consider your company’s innovativeness, commercial plan, and possible social impact.
 
 <h3 class="small-header">We embrace diversity</h3>
 
-Great ideas aren’t limited by geography, and we seek to fund companies both inside and outside of the major tech hotbeds. We encourage the work of socially and economically disadvantaged people, first-time entrepreneurs, and folks who are traditionally underrepresented in tech.
+Great ideas aren’t limited by geography, and we seek to fund companies both inside and outside the major tech hotbeds. We encourage the work of socially and economically disadvantaged people, first-time entrepreneurs, and folks who are traditionally underrepresented in tech.
 
 [Am I a good fit?](#)
 </div></div></section>
@@ -56,7 +56,7 @@ Great ideas aren’t limited by geography, and we seek to fund companies both in
 </div>
 <div class="usa-width-two-thirds" markdown="1">
 <h2 class="large-header">About the National Science Foundation's Small Business Programs</h2>
-Since 1977, America's Seed Fund (powered by SBIR/STTR) has helped startups develop their ideas and bring them to market. We support tech innovation not just in traditional scientific fields, but [across all tech sectors](#), including edtech, IoT, big data, smart health, hardware, even social networks. Between 2007 and 2016 alone, we funded roughly 400 companies each year.
+Since 1977, America's Seed Fund (powered by NSF) has helped startups develop their ideas and bring them to market. We support tech innovation not just in traditional scientific fields, but [across all tech sectors](#). Between 2007 and 2016 alone, we funded roughly 400 companies each year.
 
 <a href="#" class="usa-lead">Check out our portfolio</a>
 
