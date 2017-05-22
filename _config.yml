@@ -14,10 +14,6 @@ scripts:
   - src: /assets/uswds/js/uswds.min.js
     async: true
 
-jekyll_get:
-  - data: awards
-    json: 'http://api.nsf.gov/services/v1/awards.json?agency=nsf'
-
 collections:
   apply:
     permalink: /how-to-apply/:path/
@@ -32,3 +28,10 @@ defaults:
       path: "_apply"
     values:
       layout: docs
+
+awards_api:
+  date_start: '06/01/2016'
+  date_end: '12/31/2016'
+  active_date_start: '11/30/2016'
+  update_to_current_time: false
+  reset_date: false
