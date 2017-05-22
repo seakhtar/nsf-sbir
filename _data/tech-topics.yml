@@ -35,6 +35,7 @@
   programDirector:
     - name: Debasis Majumdar
       email: dmajumda@nsf.gov
+      photo: debasis.png
   subtopics:
     - Metals and Ceramics (MI1)
     - Structural and Infrastructural Materials (MI2)
@@ -60,6 +61,7 @@
   programDirector:
     - name: Ruth Shuman
       email: rshuman@nsf.gov
+      photo: ruth.png
   subtopics:
     - Agricultural and Food Safety Biotechnology (BT1)
     - Biosensors (BT2)
@@ -85,6 +87,7 @@
   programDirector:
     - name: Henry Ahn
       email: hahn@nsf.gov
+      photo: henry.png
   subtopics:
     - Pharmaceutical Manufacturing (BM1)
     - Materials for Biomedical Applications (BM2)
@@ -108,6 +111,7 @@
   programDirector:
     - name: Anna Brady-Estevez
       email: abrady@nsf.gov
+      photo: anna.png
   subtopics:
     - Biobased Chemicals and Biochemical Processes (CT1)
     - Chemicals, Polymers, Plastics and Derivatives (CT2)
@@ -139,6 +143,7 @@
   programDirector:
     - name: Glenn H. Larsen
       email: glarsen@nsf.gov
+      photo: glenn.png
   subtopics:
     - Pre K-12 Education (EA1)
     - Global, Distance, and Higher Education (EA2)
@@ -165,6 +170,7 @@
   programDirector:
     - name: Muralidharan S. Nair
       email: mnair@nsf.gov
+      photo: murali.png
   subtopics:
     - Wireless Technologies (WT)
     - Systems and Devices (WT1)
@@ -197,6 +203,7 @@
   programDirector:
   - name: Peter Atherton
     email: patherto@nsf.gov
+    photo: peter.png
   subtopics:
   - Artificial Intelligence; Machine Learning; Natural Language Processing (IT1)
   - Image and Video (IT2)
@@ -228,6 +235,7 @@
   programDirector:
     - name: Rick Schwerdtferger
       email: rschwerd@nsf.gov
+      photo: rick.png
   subtopics:
     - IoT Sensors and Actuators (IoT1)
     - IoT Energy and Power Systems (IoT2)
@@ -245,6 +253,7 @@
   programDirector:
     - name: Rick Schwerdtferger
       email: rschwerd@nsf.gov
+      photo: rick.png
   subtopics:
     - Semiconductors (S) / Photonic Devices and Materials (PH)
     - Photonics (PH)
@@ -269,6 +278,7 @@
   programDirector:
     - name: Jesus V. Soriano
       email: jsoriano@nsf.gov
+      photo: jesus.png
   subtopics:
     - Business Models for User-Centered Healthcare (SH1)
     - Digital Health Information Infrastructure (SH2)
@@ -289,6 +299,7 @@
   programDirector:
     - name: Ben Schrag
       email: bschrag@nsf.gov
+      photo: ben.png
   subtopics:
     - is intended to be a home to any proposed project which does not seem to fit into one of the other technology topic areas, but still seems to meet our goals of supporting research and development of innovative, risky, unproven technology, with commercial viability and the potential to benefit society.
   companies:
