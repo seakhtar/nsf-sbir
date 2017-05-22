@@ -1,0 +1,5152 @@
+---
+funding_total: 3064558934.0
+funding_per_company: 2381164.67
+companies_total: 1287
+applications_total: 8500
+active_date_start_string: 11/30/2016
+applications_active:
+- agency: NSF
+  awardeeCity: Fort MYERS
+  awardeeName: Florida Gulf Coast University
+  awardeeStateCode: FL
+  fundsObligatedAmt: '34391'
+  id: '1717543'
+  piFirstName: Erik
+  piLastName: Insko
+  publicAccessMandate: '1'
+  date: 12/30/2016
+  title: Underrepresented Students in Topology and Algebra Research Symposium
+- agency: NSF
+  awardeeCity: Chattanooga
+  awardeeName: University of Tennessee Chattanooga
+  awardeeStateCode: TN
+  fundsObligatedAmt: '153334'
+  id: '1663105'
+  piFirstName: Li
+  piLastName: Yang
+  publicAccessMandate: '1'
+  date: 12/30/2016
+  title: 'Collaborative Research: SFS Program: Strengthening the National Cyber Security
+    Workforce'
+- agency: NSF
+  awardeeCity: Statesboro
+  awardeeName: Georgia Southern University Research and Service Foundation, Inc
+  awardeeStateCode: GA
+  fundsObligatedAmt: '34000'
+  id: '1700153'
+  piFirstName: Alexander
+  piLastName: Stokolos
+  publicAccessMandate: '1'
+  date: 12/30/2016
+  title: International Conference in Approximation Theory
+- agency: NSF
+  awardeeCity: West Lafayette
+  awardeeName: Purdue University
+  awardeeStateCode: IN
+  fundsObligatedAmt: '15000'
+  id: '1722535'
+  piFirstName: Jie
+  piLastName: Shen
+  publicAccessMandate: '1'
+  date: 12/30/2016
+  title: International Conference on Current Trends and Challenges in Numerical Solution
+    of Partial Differential Equations
+- agency: NSF
+  awardeeCity: Los Angeles
+  awardeeName: University of Southern California
+  awardeeStateCode: CA
+  fundsObligatedAmt: '15000'
+  id: '1719635'
+  piFirstName: Jong-Shi
+  piLastName: Pang
+  publicAccessMandate: '1'
+  date: 12/30/2016
+  title: Conference on Nonconvex Statistical Learning, University of Southern California,
+    May 26-27, 2017
+- agency: NSF
+  awardeeCity: Wooster
+  awardeeName: College of Wooster
+  awardeeStateCode: OH
+  fundsObligatedAmt: '23965'
+  id: '1700356'
+  piFirstName: Pamela
+  piLastName: Pierce
+  publicAccessMandate: '1'
+  date: 12/30/2016
+  title: Summer Symposium in Real Analysis XLI
+- agency: NSF
+  awardeeCity: Santa Clara
+  awardeeName: International Society of Service Innovation Profes
+  awardeeStateCode: CA
+  fundsObligatedAmt: '49930'
+  id: '1655029'
+  piFirstName: Yasaman
+  piLastName: Moghaddam
+  publicAccessMandate: '1'
+  date: 12/29/2016
+  title: 'Workshop: Industry-Academe research partnerships to enable the human-technology
+    frontier for next generation smarter service systems'
+- agency: NSF
+  awardeeCity: Nashville
+  awardeeName: Vanderbilt University
+  awardeeStateCode: TN
+  fundsObligatedAmt: '12000'
+  id: '1710557'
+  piFirstName: AnnaMarie
+  piLastName: Bohmann
+  publicAccessMandate: '1'
+  date: 12/29/2016
+  title: Shanks Workshop on Homotopy Theory
+- agency: NSF
+  awardeeCity: La Jolla
+  awardeeName: University of California-San Diego
+  awardeeStateCode: CA
+  fundsObligatedAmt: '20000'
+  id: '1719298'
+  piFirstName: Yingxiao
+  piLastName: Wang
+  publicAccessMandate: '1'
+  date: 12/29/2016
+  title: Support for Students, Postdoctoral Fellows, and Young Investigators For The
+    Cellular and Molecular Bioengineering (CMBE) Conference; Waimea, Hawaii; January
+    3-7, 2017
+- agency: NSF
+  awardeeCity: East Lansing
+  awardeeName: Michigan State University
+  awardeeStateCode: MI
+  fundsObligatedAmt: '25000'
+  id: '1700026'
+  piFirstName: Jeffrey
+  piLastName: Schenker
+  publicAccessMandate: '1'
+  date: 12/29/2016
+  title: The 2017 Great Lakes Mathematical Physics Meeting
+- agency: NSF
+  awardeeCity: Albuquerque
+  awardeeName: University of New Mexico
+  awardeeStateCode: NM
+  fundsObligatedAmt: '15130'
+  id: '1700755'
+  piFirstName: Janet
+  piLastName: Vassilev
+  publicAccessMandate: '1'
+  date: 12/28/2016
+  title: Southwest Local Algebra Meeting 2017
+- agency: NSF
+  awardeeCity: Columbus
+  awardeeName: Ohio State University
+  awardeeStateCode: OH
+  fundsObligatedAmt: '49620'
+  id: '1659999'
+  piFirstName: Erich
+  piLastName: Grotewold
+  publicAccessMandate: '1'
+  date: 12/28/2016
+  title: 'Meeting: 59th Annual Maize Genetics Conference St. Louis, Missouri March
+    9-12, 2017'
+- agency: NSF
+  awardeeCity: Columbus
+  awardeeName: Ohio State University
+  awardeeStateCode: OH
+  fundsObligatedAmt: '163529'
+  id: '1700753'
+  piFirstName: Mrinal
+  piLastName: Kumar
+  publicAccessMandate: '0'
+  date: 12/28/2016
+  title: 'CAREER: An Integrated Hybrid Forecasting Framework for Increased Wind Power
+    Penetration'
+- agency: NSF
+  awardeeCity: Cambridge
+  awardeeName: Massachusetts Institute of Technology
+  awardeeStateCode: MA
+  fundsObligatedAmt: '399999'
+  id: '1723344'
+  piFirstName: David
+  piLastName: Sontag
+  publicAccessMandate: '1'
+  date: 12/28/2016
+  title: 'AitF: Collaborative Research: Algorithms for Probabilistic Inference in
+    the Real World'
+- agency: NSF
+  awardeeCity: Milwaukee
+  awardeeName: Marquette University
+  awardeeStateCode: WI
+  fundsObligatedAmt: '49928'
+  id: '1700604'
+  piFirstName: Brooke
+  piLastName: Mayer
+  publicAccessMandate: '1'
+  date: 12/28/2016
+  title: 'RAPID:   Waterborne Elizabethkingia disinfection studies in response to
+    ongoing U.S. outbreak'
+- agency: NSF
+  awardeeCity: CLAREMONT
+  awardeeName: Harvey Mudd College
+  awardeeStateCode: CA
+  fundsObligatedAmt: '353571'
+  id: '1659805'
+  piFirstName: Zachary
+  piLastName: Dodds
+  publicAccessMandate: '1'
+  date: 12/28/2016
+  title: 'REU Site: Harvey Mudd REU Site in Computer Systems'
+- agency: NSF
+  awardeeCity: Irvine
+  awardeeName: University of California-Irvine
+  awardeeStateCode: CA
+  fundsObligatedAmt: '393625'
+  id: '1648332'
+  piFirstName: Sharnnia
+  piLastName: Artis
+  publicAccessMandate: '1'
+  date: 12/28/2016
+  title: 'Collaborative Research: The Niela Project: A Qualitative Investigation of
+    the Experiences of Black Women in Pursuit of Doctorates and Postdoctorates in
+    Engineering and Computing'
+- agency: NSF
+  awardeeCity: BOCA RATON
+  awardeeName: Florida Atlantic University
+  awardeeStateCode: FL
+  fundsObligatedAmt: '339984'
+  id: '1659484'
+  piFirstName: Jason
+  piLastName: Hallstrom
+  publicAccessMandate: '1'
+  date: 12/28/2016
+  title: 'REU Site: Sensing and Smart Systems'
+- agency: NSF
+  awardeeCity: Minneapolis
+  awardeeName: University of Minnesota-Twin Cities
+  awardeeStateCode: MN
+  fundsObligatedAmt: '500000'
+  id: '1651577'
+  piFirstName: Dominik
+  piLastName: Schillinger
+  publicAccessMandate: '1'
+  date: 12/28/2016
+  title: 'CAREER: Bridging Geometric Design and Aerodynamic Simulation of Turbomachinery:
+    An Integrative Design-Through-Analysis Framework Enabled by Embedded Domain Methods'
+- agency: NSF
+  awardeeCity: Tampa
+  awardeeName: University of South Florida
+  awardeeStateCode: FL
+  fundsObligatedAmt: '29838'
+  id: '1664561'
+  piFirstName: Wenxiu
+  piLastName: Ma
+  publicAccessMandate: '1'
+  date: 12/28/2016
+  title: Nonlinear and Modern Mathematical Physics
+- agency: NSF
+  awardeeCity: Tiffin
+  awardeeName: Heidelberg College
+  awardeeStateCode: OH
+  fundsObligatedAmt: '120000'
+  id: '1647986'
+  piFirstName: Marjorie
+  piLastName: Shavers
+  publicAccessMandate: '1'
+  date: 12/28/2016
+  title: 'Collaborative Research: The Niela Project: A Qualitative Investigation of
+    the Experiences of Black Women in Pursuit of Doctorates and Postdoctorates in
+    Engineering and Computing'
+- agency: NSF
+  awardeeCity: Houston
+  awardeeName: University of Houston
+  awardeeStateCode: TX
+  fundsObligatedAmt: '35000'
+  id: '1700316'
+  piFirstName: Mark
+  piLastName: Tomforde
+  publicAccessMandate: '1'
+  date: 12/28/2016
+  title: Applications of Model Theory to Operator Algebras
+- agency: NSF
+  awardeeCity: ANCHORAGE
+  awardeeName: University of Alaska Anchorage Campus
+  awardeeStateCode: AK
+  fundsObligatedAmt: '490739'
+  id: '1719404'
+  piFirstName: Jordan
+  piLastName: Lewis
+  publicAccessMandate: '0'
+  date: 12/27/2016
+  title: Investigating the Health and Wellbeing of Alaska Native Elderly in Northwest
+    Alaska through Community Participatory Based Research Methods
+- agency: NSF
+  awardeeCity: Birmingham
+  awardeeName: University of Alabama at Birmingham
+  awardeeStateCode: AL
+  fundsObligatedAmt: '33672'
+  id: '1719675'
+  piFirstName: Dustin
+  piLastName: Kemp
+  publicAccessMandate: '0'
+  date: 12/23/2016
+  title: 'Collaborative Research:  The physiology and ecology of widespread ''stress
+    tolerant'' coral endosymbionts: coral ''saviors'' or opportunistic invaders?'
+- agency: NSF
+  awardeeCity: Atlanta
+  awardeeName: Georgia Tech Research Corporation
+  awardeeStateCode: GA
+  fundsObligatedAmt: '552574'
+  id: '1723293'
+  piFirstName: Matthew
+  piLastName: Herron
+  publicAccessMandate: '0'
+  date: 12/23/2016
+  title: 'Collaborative Research: De Novo Evolution of Multicellularity in a Unicellular
+    Volvocine Alga'
+- agency: NSF
+  awardeeCity: CHAMPAIGN
+  awardeeName: University of Illinois at Urbana-Champaign
+  awardeeStateCode: IL
+  fundsObligatedAmt: '359997'
+  id: '1659702'
+  piFirstName: Daniel
+  piLastName: Katz
+  publicAccessMandate: '1'
+  date: 12/23/2016
+  title: 'REU Site: INCLUSION - Incubating a New Community of Leaders Using Software,
+    Inclusion, Innovation, Interdisciplinary and OpeN-Science'
+- agency: NSF
+  awardeeCity: Merced
+  awardeeName: University of California - Merced
+  awardeeStateCode: CA
+  fundsObligatedAmt: '422460'
+  id: '1659210'
+  piFirstName: Suzanne
+  piLastName: Sindi
+  publicAccessMandate: '1'
+  date: 12/23/2016
+  title: 'CC* Networking Infrastructure: Building a Science DMZ Network for University
+    of California Merced'
+- agency: NSF
+  awardeeCity: Columbus
+  awardeeName: Ohio State University
+  awardeeStateCode: OH
+  fundsObligatedAmt: '500000'
+  id: '1650449'
+  piFirstName: Yuejie
+  piLastName: Chi
+  publicAccessMandate: '1'
+  date: 12/23/2016
+  title: 'CAREER: Robust Methods for High-Dimensional Signal Processing under Geometric
+    Constraints'
+- agency: NSF
+  awardeeCity: Richardson
+  awardeeName: University of Texas at Dallas
+  awardeeStateCode: TX
+  fundsObligatedAmt: '286724'
+  id: '1723198'
+  piFirstName: Tien
+  piLastName: Nguyen
+  publicAccessMandate: '0'
+  date: 12/23/2016
+  title: 'TWC: Small: Detection and Prevention of Prior Known Software Security Vulnerabilities'
+- agency: NSF
+  awardeeCity: CHAMPAIGN
+  awardeeName: University of Illinois at Urbana-Champaign
+  awardeeStateCode: IL
+  fundsObligatedAmt: '25020'
+  id: '1719307'
+  piFirstName: Wai-Tat
+  piLastName: Fu
+  publicAccessMandate: '1'
+  date: 12/23/2016
+  title: Support for Student Participation in the 2017 ACM Intelligent User Interfaces
+    Conference
+- agency: NSF
+  awardeeCity: COLUMBIA
+  awardeeName: University of Missouri-Columbia
+  awardeeStateCode: MO
+  fundsObligatedAmt: '1229567'
+  id: '1712560'
+  piFirstName: Susan
+  piLastName: Empson
+  publicAccessMandate: '0'
+  date: 12/23/2016
+  title: Theorizing and Advancing Teachers' Responsive Decision Making in the Domain
+    of Rational Numbers
+- agency: NSF
+  awardeeCity: Waco
+  awardeeName: Baylor University
+  awardeeStateCode: TX
+  fundsObligatedAmt: '132418'
+  id: '1707049'
+  piFirstName: Seunghyun
+  piLastName: Kim
+  publicAccessMandate: '0'
+  date: 12/23/2016
+  title: 'Collaborative Research: A self-contained microfluidic optical cavity biosensing
+    platform for multiplex label-free molecular diagnostics'
+- agency: NSF
+  awardeeCity: Tuskegee Institute
+  awardeeName: Tuskegee University
+  awardeeStateCode: AL
+  fundsObligatedAmt: '185952'
+  id: '1663350'
+  piFirstName: Fan
+  piLastName: Wu
+  publicAccessMandate: '1'
+  date: 12/23/2016
+  title: 'Collaborative Research: SFS Program: Strengthening the National Cyber Security
+    Workforce'
+- agency: NSF
+  awardeeCity: Arlington
+  awardeeName: University of Texas at Arlington
+  awardeeStateCode: TX
+  fundsObligatedAmt: '667107'
+  id: '1724342'
+  piFirstName: Pelagia
+  piLastName: Gouma
+  publicAccessMandate: '0'
+  date: 12/22/2016
+  title: 'SNM: High-Throughput Electrospinning of Photocatalytic Mats for Energy Harvesting'
+- agency: NSF
+  awardeeCity: CHARLOTTESVILLE
+  awardeeName: University of Virginia Main Campus
+  awardeeStateCode: VA
+  fundsObligatedAmt: '95461'
+  id: '1723353'
+  piFirstName: Mona
+  piLastName: Zebarjadi
+  publicAccessMandate: '0'
+  date: 12/22/2016
+  title: 'Collaborative Research: Hybrid Organic-Inorganic Thermoelectric Materials'
+- agency: NSF
+  awardeeCity: NORMAN
+  awardeeName: University of Oklahoma Norman Campus
+  awardeeStateCode: OK
+  fundsObligatedAmt: '90995'
+  id: '1720370'
+  piFirstName: Keisha
+  piLastName: Walters
+  publicAccessMandate: '0'
+  date: 12/22/2016
+  title: Electricity Generation and Enhanced Heat Transfer via Pulsating Ferro-Nanofluid
+- agency: NSF
+  awardeeCity: East Lansing
+  awardeeName: Michigan State University
+  awardeeStateCode: MI
+  fundsObligatedAmt: '243726'
+  id: '1700785'
+  piFirstName: Qi
+  piLastName: Fan
+  publicAccessMandate: '0'
+  date: 12/22/2016
+  title: High-density Plasma for Efficient Manufacturing of Electronic Devices
+- agency: NSF
+  awardeeCity: RALEIGH
+  awardeeName: North Carolina State University
+  awardeeStateCode: NC
+  fundsObligatedAmt: '218651'
+  id: '1708327'
+  piFirstName: Jessica
+  piLastName: Hunt
+  publicAccessMandate: '0'
+  date: 12/22/2016
+  title: 'CAREER:  Fraction Activities and Assessments for Conceptual Teaching (FAACT)
+    for Students with Learning Disabilities'
+- agency: NSF
+  awardeeCity: Princeton
+  awardeeName: Princeton University
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '49500'
+  id: '1712346'
+  piFirstName: Chung
+  piLastName: Law
+  publicAccessMandate: '1'
+  date: 12/22/2016
+  title: 2017 Princeton Summer School on Combustion
+- agency: NSF
+  awardeeCity: Chicago
+  awardeeName: University of Illinois at Chicago
+  awardeeStateCode: IL
+  fundsObligatedAmt: '499745'
+  id: '1659255'
+  piFirstName: Farzad
+  piLastName: Mashayek
+  publicAccessMandate: '1'
+  date: 12/22/2016
+  title: 'CC* Networking Infrastructure: Building HPRNet (High-Performance Research
+    Network) for Advancement of Data Intensive Research and Collaboration'
+- agency: NSF
+  awardeeCity: Los Angeles
+  awardeeName: University of Southern California
+  awardeeStateCode: CA
+  fundsObligatedAmt: '4223'
+  id: '1723393'
+  piFirstName: Bora
+  piLastName: Gencturk
+  publicAccessMandate: '0'
+  date: 12/22/2016
+  title: 'BRIGE: Damage Evaluation and Life-Cycle Assessment of Reinforced HPFRC Beam-Column
+    Joints under Multi-Axial Loading'
+- agency: NSF
+  awardeeCity: Ann Arbor
+  awardeeName: University of Michigan Ann Arbor
+  awardeeStateCode: MI
+  fundsObligatedAmt: '397948'
+  id: '1665117'
+  piFirstName: Erin
+  piLastName: Cech
+  publicAccessMandate: '0'
+  date: 12/22/2016
+  title: 'Collaborative Research: A Study of Interactional, Organizational and Professional
+    Mechanisms of Disadvantage in the Underrepresented and Marginalized STEM Workforce'
+- agency: NSF
+  awardeeCity: Fairbanks
+  awardeeName: University of Alaska Fairbanks Campus
+  awardeeStateCode: AK
+  fundsObligatedAmt: '3977310'
+  id: '1623461'
+  piFirstName: Marion
+  piLastName: Bret-Harte
+  publicAccessMandate: '0'
+  date: 12/22/2016
+  title: Toolik Field Station Base Funding
+- agency: NSF
+  awardeeCity: MANHATTAN
+  awardeeName: Kansas State University
+  awardeeStateCode: KS
+  fundsObligatedAmt: '23128'
+  id: '1707520'
+  piFirstName: Natalia
+  piLastName: Rojkovskaia
+  publicAccessMandate: '1'
+  date: 12/22/2016
+  title: International Conference Representation Theory at the Crossroads of Modern
+    Mathematics
+- agency: NSF
+  awardeeCity: BERKELEY
+  awardeeName: University of California-Berkeley
+  awardeeStateCode: CA
+  fundsObligatedAmt: '195805'
+  id: '1723812'
+  piFirstName: Mariana
+  piLastName: Olvera-Cravioto
+  publicAccessMandate: '0'
+  date: 12/22/2016
+  title: Queues in Cloud Computing
+- agency: NSF
+  awardeeCity: Mobile
+  awardeeName: University of South Alabama
+  awardeeStateCode: AL
+  fundsObligatedAmt: '10000'
+  id: '1702001'
+  piFirstName: Cornelius
+  piLastName: Pillen
+  publicAccessMandate: '1'
+  date: 12/22/2016
+  title: 'Southern Regional Algebra Conference 2017:   Computational Methods in Algebra
+    and Representation Theory'
+- agency: NSF
+  awardeeCity: Cambridge
+  awardeeName: Massachusetts Institute of Technology
+  awardeeStateCode: MA
+  fundsObligatedAmt: '17800'
+  id: '1700582'
+  piFirstName: Anuradha
+  piLastName: Annaswamy
+  publicAccessMandate: '1'
+  date: 12/22/2016
+  title: International Federation of Automatic Control (IFAC) Conference on Cyber-Physical
+    & Human-Systems (CPHS 2016)
+- agency: NSF
+  awardeeCity: Brooklyn
+  awardeeName: Pratt Institute
+  awardeeStateCode: NY
+  fundsObligatedAmt: '938029'
+  id: '1612719'
+  piFirstName: Mark
+  piLastName: Rosin
+  publicAccessMandate: '0'
+  date: 12/21/2016
+  title: Research and Development on Understanding STEM Identity Using Live Cultural
+    Experiences
+- agency: NSF
+  awardeeCity: DENTON
+  awardeeName: University of North Texas
+  awardeeStateCode: TX
+  fundsObligatedAmt: '186490'
+  id: '1709100'
+  piFirstName: Stephanie
+  piLastName: Ludi
+  publicAccessMandate: '0'
+  date: 12/21/2016
+  title: 'BP: Collaborative Research: I-ECS: Inclusive Exploring CS Curriculum Enhancement
+    as Face-to-Face and Online Support for Visually Impaired, High School Students'
+- agency: NSF
+  awardeeCity: Akron
+  awardeeName: Biena Tech LLC
+  awardeeStateCode: OH
+  fundsObligatedAmt: '225000'
+  id: '1648922'
+  piFirstName: Ruby
+  piLastName: Chakraborty
+  publicAccessMandate: '1'
+  date: 12/21/2016
+  title: 'STTR Phase I:  Multi-functional, epoxy based, low cost nanocomposite coatings
+    for corrosion protection'
+- agency: NSF
+  awardeeCity: Waterville
+  awardeeName: Colby College
+  awardeeStateCode: ME
+  fundsObligatedAmt: '380246'
+  id: '1659142'
+  piFirstName: Bruce
+  piLastName: Maxwell
+  publicAccessMandate: '1'
+  date: 12/21/2016
+  title: 'CC* Network Design: Network Infrastructure to Support Computational Biology,
+    Computational Science, and Computing Across the Curriculum'
+- agency: NSF
+  awardeeCity: UNIVERSITY PARK
+  awardeeName: Pennsylvania State Univ University Park
+  awardeeStateCode: PA
+  fundsObligatedAmt: '22600'
+  id: '1720407'
+  piFirstName: Mark
+  piLastName: Ballora
+  publicAccessMandate: '1'
+  date: 12/21/2016
+  title: 'WORKSHOP: ThinkTank (Doctoral Consortium) at ICAD 2017'
+- agency: NSF
+  awardeeCity: LOS ANGELES
+  awardeeName: University of California-Los Angeles
+  awardeeStateCode: CA
+  fundsObligatedAmt: '14000'
+  id: '1700600'
+  piFirstName: Itay
+  piLastName: Neeman
+  publicAccessMandate: '1'
+  date: 12/21/2016
+  title: Logic meeting at UCLA
+- agency: NSF
+  awardeeCity: Chicago
+  awardeeName: Illinois Institute of Technology
+  awardeeStateCode: IL
+  fundsObligatedAmt: '342798'
+  id: '1659421'
+  piFirstName: Ophir
+  piLastName: Trigalo
+  publicAccessMandate: '1'
+  date: 12/21/2016
+  title: 'CC* Networking Infrastructure: Expanding STEM Research on Chicago''s South
+    Side'
+- agency: NSF
+  awardeeCity: LAWRENCE
+  awardeeName: University of Kansas Center for Research Inc
+  awardeeStateCode: KS
+  fundsObligatedAmt: '498961'
+  id: '1659427'
+  piFirstName: Dan
+  piLastName: Voss
+  publicAccessMandate: '1'
+  date: 12/21/2016
+  title: 'CC* Networking Infrastructure: A Science DMZ to Enable Friction-Free Scientific
+    Data Workflows'
+- agency: NSF
+  awardeeCity: CHARLOTTESVILLE
+  awardeeName: University of Virginia Main Campus
+  awardeeStateCode: VA
+  fundsObligatedAmt: '432383'
+  id: '1659331'
+  piFirstName: Ronald
+  piLastName: Hutchins
+  publicAccessMandate: '1'
+  date: 12/21/2016
+  title: 'CC*Networking Infrastructure:  Scalable Secure Science DMZ for Academic
+    and Clinical Research at the University of Virginia'
+- agency: NSF
+  awardeeCity: SAINT LOUIS
+  awardeeName: Washington University
+  awardeeStateCode: MO
+  fundsObligatedAmt: '45000'
+  id: '1701934'
+  piFirstName: Xiang
+  piLastName: Tang
+  publicAccessMandate: '1'
+  date: 12/21/2016
+  title: 'Conference: A Noncommutative Geometry Festival in Shanghai'
+- agency: NSF
+  awardeeCity: New Haven
+  awardeeName: Yale University
+  awardeeStateCode: CT
+  fundsObligatedAmt: '152264'
+  id: '1701754'
+  piFirstName: Minlan
+  piLastName: Yu
+  publicAccessMandate: '0'
+  date: 12/21/2016
+  title: 'CAREER: A Programmable Measurement Architecture for Network Operations'
+- agency: NSF
+  awardeeCity: College Station
+  awardeeName: Texas A&M Engineering Experiment Station
+  awardeeStateCode: TX
+  fundsObligatedAmt: '50000'
+  id: '1700072'
+  piFirstName: James
+  piLastName: Brumbelow
+  publicAccessMandate: '1'
+  date: 12/21/2016
+  title: 'I-Corps: Personalized Water Conservation and Cost Savings Platform'
+- agency: NSF
+  awardeeCity: SYRACUSE
+  awardeeName: Syracuse University
+  awardeeStateCode: NY
+  fundsObligatedAmt: '27840'
+  id: '1713738'
+  piFirstName: Kevin
+  piLastName: Crowston
+  publicAccessMandate: '1'
+  date: 12/21/2016
+  title: 'WORKSHOP: The iConference 2017 Doctoral Colloquium'
+- agency: NSF
+  awardeeCity: Fort Worth
+  awardeeName: Texas Christian University
+  awardeeStateCode: TX
+  fundsObligatedAmt: '50000'
+  id: '1700164'
+  piFirstName: Jose
+  piLastName: Carrion Muniz
+  publicAccessMandate: '1'
+  date: 12/21/2016
+  title: The 2017 Great Plains Operator Theory Symposium
+- agency: NSF
+  awardeeCity: Ithaca
+  awardeeName: Cornell University
+  awardeeStateCode: NY
+  fundsObligatedAmt: '376714'
+  id: '1659088'
+  piFirstName: David
+  piLastName: Lifka
+  publicAccessMandate: '1'
+  date: 12/21/2016
+  title: 'CC* Networking Infrastructure: Enabling Data Intensive Science at Cornell
+    University'
+- agency: NSF
+  awardeeCity: NEW YORK
+  awardeeName: Columbia University
+  awardeeStateCode: NY
+  fundsObligatedAmt: '170680'
+  id: '1657507'
+  piFirstName: Lorenzo
+  piLastName: Sironi
+  publicAccessMandate: '1'
+  date: 12/21/2016
+  title: 'CRII: ACI: Unveiling the Origin of the Highest Energy Particles in the Universe
+    with Large-Scale First-Principle Fully-Kinetic Simulations'
+- agency: NSF
+  awardeeCity: Detroit
+  awardeeName: Wayne State University
+  awardeeStateCode: MI
+  fundsObligatedAmt: '174969'
+  id: '1657364'
+  piFirstName: Zichun
+  piLastName: Zhong
+  publicAccessMandate: '1'
+  date: 12/21/2016
+  title: 'CRII: ACI: 4D Dynamic Anisotropic Meshing and Applications'
+- agency: NSF
+  awardeeCity: East Boothbay
+  awardeeName: Bigelow Laboratory for Ocean Sciences
+  awardeeStateCode: ME
+  fundsObligatedAmt: '39379'
+  id: '1715106'
+  piFirstName: James
+  piLastName: McManus
+  publicAccessMandate: '0'
+  date: 12/20/2016
+  title: 'Expedition Objective Research (IODP Expedition 340): Diagenesis in tephra-rich
+    marine sediments and the impact of reactive iron on enhanced carbon burial'
+- agency: NSF
+  awardeeCity: ATHENS
+  awardeeName: University of Georgia Research Foundation Inc
+  awardeeStateCode: GA
+  fundsObligatedAmt: '50481'
+  id: '1723016'
+  piFirstName: Georgios
+  piLastName: Petridis
+  publicAccessMandate: '0'
+  date: 12/20/2016
+  title: Direct and Inverse Problems for Cardinality Questions in Additive Combinatorics
+- agency: NSF
+  awardeeCity: DENTON
+  awardeeName: University of North Texas
+  awardeeStateCode: TX
+  fundsObligatedAmt: '136098'
+  id: '1709244'
+  piFirstName: Stephanie
+  piLastName: Ludi
+  publicAccessMandate: '0'
+  date: 12/20/2016
+  title: 'Collaborative Research: LEGO-Based Active Learning Activities for Software
+    Engineering Education'
+- agency: NSF
+  awardeeCity: Tucson
+  awardeeName: University of Arizona
+  awardeeStateCode: AZ
+  fundsObligatedAmt: '22793'
+  id: '1665525'
+  piFirstName: Vance
+  piLastName: Holliday
+  publicAccessMandate: '1'
+  date: 12/20/2016
+  title: 'Doctoral Dissertation Improvement Award: The Interaction of Long Term Canal
+    Irrigation and Wetland Development'
+- agency: NSF
+  awardeeCity: Louisville
+  awardeeName: University of Louisville Research Foundation Inc
+  awardeeStateCode: KY
+  fundsObligatedAmt: '17780'
+  id: '1655127'
+  piFirstName: Michael
+  piLastName: Perlin
+  publicAccessMandate: '1'
+  date: 12/20/2016
+  title: 'Meeting: First US-Sponsored Ustilago maydis Conference, Asilomar, California,
+    March 13-14, 2017'
+- agency: NSF
+  awardeeCity: FAYETTEVILLE
+  awardeeName: University of Arkansas
+  awardeeStateCode: AR
+  fundsObligatedAmt: '406287'
+  id: '1654553'
+  piFirstName: Stefan
+  piLastName: Kilyanek
+  publicAccessMandate: '1'
+  date: 12/20/2016
+  title: 'CAREER: SusChEM : Electrochemically Driven Deoxydehydration of Polyols'
+- agency: NSF
+  awardeeCity: NEW YORK
+  awardeeName: New York University
+  awardeeStateCode: NY
+  fundsObligatedAmt: '420000'
+  id: '1654483'
+  piFirstName: Tianning
+  piLastName: Diao
+  publicAccessMandate: '1'
+  date: 12/20/2016
+  title: 'CAREER: Bimolecular Mechanisms for Nickel-Mediated Bond Formation'
+- agency: NSF
+  awardeeCity: Logan
+  awardeeName: Utah State University
+  awardeeStateCode: UT
+  fundsObligatedAmt: '348236'
+  id: '1653978'
+  piFirstName: Yujie
+  piLastName: Sun
+  publicAccessMandate: '1'
+  date: 12/20/2016
+  title: 'CAREER: SusChEM: Electrocatalytic Valorization of Biomass Intermediates
+    via 1st-Row Transition Metal Electrocatalysts'
+- agency: NSF
+  awardeeCity: Tallahassee
+  awardeeName: Florida Agricultural and Mechanical University
+  awardeeStateCode: FL
+  fundsObligatedAmt: '958673'
+  id: '1646897'
+  piFirstName: Tarik
+  piLastName: Dickens
+  publicAccessMandate: '1'
+  date: 12/20/2016
+  title: 'RISE: High-Performance Additive Manufacturing of Composite Structures via
+    Development of Reconfigurable Cyber-Physical Robotic (CPR) Systems'
+- agency: NSF
+  awardeeCity: ORLANDO
+  awardeeName: University of Central Florida
+  awardeeStateCode: FL
+  fundsObligatedAmt: '35000'
+  id: '1645479'
+  piFirstName: Sudipta
+  piLastName: Seal
+  publicAccessMandate: '1'
+  date: 12/20/2016
+  title: 'Workshop: Towards the development of Sustainable Nanotechnology:   A conference
+    to bring Interdisciplinary discussion'
+- agency: NSF
+  awardeeCity: Ashland
+  awardeeName: Ashland University
+  awardeeStateCode: OH
+  fundsObligatedAmt: '650000'
+  id: '1643489'
+  piFirstName: Perry
+  piLastName: Corbin
+  publicAccessMandate: '1'
+  date: 12/20/2016
+  title: 'Science Scholars Program:  Opening the Science Career Pipeline Through Enhanced
+    Engagement and Support'
+- agency: NSF
+  awardeeCity: Irvine
+  awardeeName: University of California-Irvine
+  awardeeStateCode: CA
+  fundsObligatedAmt: '150835'
+  id: '1708802'
+  piFirstName: Isaac
+  piLastName: Goldbring
+  publicAccessMandate: '0'
+  date: 12/20/2016
+  title: 'CAREER: Model Theory and Operator Algebras'
+- agency: NSF
+  awardeeCity: Tucson
+  awardeeName: University of Arizona
+  awardeeStateCode: AZ
+  fundsObligatedAmt: '14403'
+  id: '1700734'
+  piFirstName: Daniela
+  piLastName: Triadan
+  publicAccessMandate: '1'
+  date: 12/20/2016
+  title: 'Doctoral Dissertation Improvement Award: The Role Of Spatial Clustering
+    In Group Organization'
+- agency: NSF
+  awardeeCity: RIVERSIDE
+  awardeeName: University of California-Riverside
+  awardeeStateCode: CA
+  fundsObligatedAmt: '166063'
+  id: '1654794'
+  piFirstName: Ruoxue
+  piLastName: Yan
+  publicAccessMandate: '1'
+  date: 12/20/2016
+  title: 'CAREER: Development of Novel-scheme Nano-optical Chemical Imaging Spectroscopy'
+- agency: NSF
+  awardeeCity: TEMPE
+  awardeeName: Arizona State University
+  awardeeStateCode: AZ
+  fundsObligatedAmt: '225787'
+  id: '1654584'
+  piFirstName: Christy
+  piLastName: Till
+  publicAccessMandate: '1'
+  date: 12/20/2016
+  title: 'CAREER: Triggering Eruptions: Determination of Pressure-Temperature-Composition-time
+    Histories for Magma Bodies Preceding Eruption'
+- agency: NSF
+  awardeeCity: Los Angeles
+  awardeeName: University of Southern California
+  awardeeStateCode: CA
+  fundsObligatedAmt: '420000'
+  id: '1722710'
+  piFirstName: Chao
+  piLastName: Wang
+  publicAccessMandate: '0'
+  date: 12/20/2016
+  title: 'SHF: Small: Program Analysis-based Makeover for HPC Application Resilience'
+- agency: NSF
+  awardeeCity: Davis
+  awardeeName: University of California-Davis
+  awardeeStateCode: CA
+  fundsObligatedAmt: '40500'
+  id: '1700416'
+  piFirstName: Steve
+  piLastName: Shkoller
+  publicAccessMandate: '1'
+  date: 12/20/2016
+  title: 'Summer School and Workshop: Mathematical Analysis of Water Waves and Related
+    Models'
+- agency: NSF
+  awardeeCity: Philadelphia
+  awardeeName: University of Pennsylvania
+  awardeeStateCode: PA
+  fundsObligatedAmt: '862492'
+  id: '1665216'
+  piFirstName: Ryan
+  piLastName: Baker
+  publicAccessMandate: '0'
+  date: 12/20/2016
+  title: 'Collaborative Research: Using Data Mining and Observation to derive an enhanced
+    theory of SRL in Science learning environments'
+- agency: NSF
+  awardeeCity: LOS ANGELES
+  awardeeName: University of California-Los Angeles
+  awardeeStateCode: CA
+  fundsObligatedAmt: '151359'
+  id: '1641960'
+  piFirstName: Steven
+  piLastName: Margulis
+  publicAccessMandate: '1'
+  date: 12/20/2016
+  title: Transformative insights into the high-elevation climatology and dynamics
+    of Andean hydrology using a new snow reanalysis dataset
+- agency: NSF
+  awardeeCity: Miami
+  awardeeName: Florida International University
+  awardeeStateCode: FL
+  fundsObligatedAmt: '200000'
+  id: '1638990'
+  piFirstName: Julio
+  piLastName: Ibarra
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'IRNC: Backbone: Americas Africa Research and eduCation Lightpaths (AARCLight)'
+- agency: NSF
+  awardeeCity: Rochester
+  awardeeName: Oakland University
+  awardeeStateCode: MI
+  fundsObligatedAmt: '143306'
+  id: '1723707'
+  piFirstName: Anyi
+  piLastName: Liu
+  publicAccessMandate: '0'
+  date: 12/19/2016
+  title: 'Collaborative Research: Building Cybersecurity Capacity in Pervasive Computing'
+- agency: NSF
+  awardeeCity: Ithaca
+  awardeeName: Cornell University
+  awardeeStateCode: NY
+  fundsObligatedAmt: '30000'
+  id: '1700187'
+  piFirstName: Robert
+  piLastName: Strichartz
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: Sixth Cornell Conference on Analysis, Probability, and Mathematical Physics
+    on Fractals
+- agency: NSF
+  awardeeCity: Seattle
+  awardeeName: University of Washington
+  awardeeStateCode: WA
+  fundsObligatedAmt: '30128'
+  id: '1719622'
+  piFirstName: Alison
+  piLastName: Duvall
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'RAPID: Testing the erosion signature of coseismic landslides using cosmogenic
+    catchment wide erosion rates - a case study of the 2016 Kaikoura Earthquake, New
+    Zealand'
+- agency: NSF
+  awardeeCity: Potsdam
+  awardeeName: Potsdam Sensors LLC
+  awardeeStateCode: NY
+  fundsObligatedAmt: '225000'
+  id: '1648756'
+  piFirstName: Tyler
+  piLastName: Bershad
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'STTR Phase I:  Novel real-time particulate matter (PM) sensor for air quality
+    measurements'
+- agency: NSF
+  awardeeCity: Austin
+  awardeeName: University of Texas at Austin
+  awardeeStateCode: TX
+  fundsObligatedAmt: '150485'
+  id: '1719204'
+  piFirstName: Thorsten
+  piLastName: Becker
+  publicAccessMandate: '0'
+  date: 12/19/2016
+  title: 'Collaborative Research: Shear-wave Splitting and Mantle Dynamics of the
+    North American Plate'
+- agency: NSF
+  awardeeCity: Provo
+  awardeeName: Brigham Young University
+  awardeeStateCode: UT
+  fundsObligatedAmt: '17875'
+  id: '1700560'
+  piFirstName: Jared
+  piLastName: Whitehead
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: Rocky Mountain Partial Differential Equations Conference
+- agency: NSF
+  awardeeCity: BERKELEY
+  awardeeName: University of California-Berkeley
+  awardeeStateCode: CA
+  fundsObligatedAmt: '107874'
+  id: '1644128'
+  piFirstName: Kees
+  piLastName: Welten
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'Collaborative Research: Synchronizing the WAIS Divide and Greenland Ice
+    Cores from 30-65 ka BP Using High-resolution 10Be Measurements'
+- agency: NSF
+  awardeeCity: Seattle
+  awardeeName: University of Washington
+  awardeeStateCode: WA
+  fundsObligatedAmt: '26874'
+  id: '1643355'
+  piFirstName: Eric
+  piLastName: Steig
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'Collaborative Research: The Timing and Spatial Expression of the Bipolar
+    Seesaw in Antarctica from Synchronized Ice Cores'
+- agency: NSF
+  awardeeCity: NEW YORK
+  awardeeName: Columbia University
+  awardeeStateCode: NY
+  fundsObligatedAmt: '166381'
+  id: '1643970'
+  piFirstName: Timothy
+  piLastName: Creyts
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: Understanding the Integrity of Deep Ice in East Antarctica from Geophysical
+    Data Sets and Physical Models
+- agency: NSF
+  awardeeCity: Corvallis
+  awardeeName: Oregon State University
+  awardeeStateCode: OR
+  fundsObligatedAmt: '105933'
+  id: '1643722'
+  piFirstName: Edward
+  piLastName: Brook
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: A High Resolution Atmospheric Methane Record from the South Pole Ice Core
+- agency: NSF
+  awardeeCity: West Lafayette
+  awardeeName: Purdue University
+  awardeeStateCode: IN
+  fundsObligatedAmt: '143019'
+  id: '1644094'
+  piFirstName: Marc
+  piLastName: Caffee
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'Collaborative Research: Synchronizing the WAIS Divide and Greenland Ice
+    Cores from 30-65 ka BP Using High-resolution 10Be Measurements'
+- agency: NSF
+  awardeeCity: Corvallis
+  awardeeName: Oregon State University
+  awardeeStateCode: OR
+  fundsObligatedAmt: '70270'
+  id: '1643394'
+  piFirstName: Christo
+  piLastName: Buizert
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'Collaborative Research: The Timing and Spatial Expression of the Bipolar
+    Seesaw in Antarctica from Synchronized Ice Cores'
+- agency: NSF
+  awardeeCity: Honolulu
+  awardeeName: Adnoviv LLC
+  awardeeStateCode: HI
+  fundsObligatedAmt: '224999'
+  id: '1648945'
+  piFirstName: Ehsan
+  piLastName: Yavari
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'STTR Phase I:  Occupancy Estimation and Energy Savings with True Presence
+    Sensors'
+- agency: NSF
+  awardeeCity: FAIRFAX
+  awardeeName: George Mason University
+  awardeeStateCode: VA
+  fundsObligatedAmt: '20000'
+  id: '1713756'
+  piFirstName: Changwoo
+  piLastName: Ahn
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: Symposium on Interdisciplinary Collaboration Among Ecological Engineering,
+    EcoScience, and Eco-Art to Enhance Ecological Restoration Research
+- agency: NSF
+  awardeeCity: MANHATTAN
+  awardeeName: Kansas State University
+  awardeeStateCode: KS
+  fundsObligatedAmt: '49000'
+  id: '1719294'
+  piFirstName: Bradley
+  piLastName: Kramer
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'Workshop:  2017 NSF CAREER Proposal Writing Workshop; Portland, Oregon;
+    April 3-4, 2017'
+- agency: NSF
+  awardeeCity: Atlanta
+  awardeeName: Georgia Tech Research Corporation
+  awardeeStateCode: GA
+  fundsObligatedAmt: '27020'
+  id: '1713763'
+  piFirstName: Doron
+  piLastName: Lubinsky
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 2017 Computational Methods and Function Theory Conference
+- agency: NSF
+  awardeeCity: Logan
+  awardeeName: Utah State University
+  awardeeStateCode: UT
+  fundsObligatedAmt: '168448'
+  id: '1654628'
+  piFirstName: Alexis
+  piLastName: Ault
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'CAREER: Thermochronometric and textural signatures of fault damage zones
+    and stimulating middle school student interest in earthquake science'
+- agency: NSF
+  awardeeCity: Waco
+  awardeeName: Baylor University
+  awardeeStateCode: TX
+  fundsObligatedAmt: '15000'
+  id: '1700320'
+  piFirstName: Tao
+  piLastName: Mei
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: Brazos Analysis Seminar
+- agency: NSF
+  awardeeCity: CLEVELAND
+  awardeeName: Case Western Reserve University
+  awardeeStateCode: OH
+  fundsObligatedAmt: '45200'
+  id: '1700168'
+  piFirstName: Stanislaw
+  piLastName: Szarek
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: Travel support for US participants in the trimester "Analysis in Quantum
+    Information Theory" at the Institute Henri Poincare
+- agency: NSF
+  awardeeCity: Nashville
+  awardeeName: Vanderbilt University
+  awardeeStateCode: TN
+  fundsObligatedAmt: '20000'
+  id: '1665434'
+  piFirstName: Vaughan
+  piLastName: Jones
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'Quantum Symmetries: Subfactors and Planar Algebras Conference 2017'
+- agency: NSF
+  awardeeCity: MANHATTAN
+  awardeeName: Kansas State University
+  awardeeStateCode: KS
+  fundsObligatedAmt: '49000'
+  id: '1719294'
+  piFirstName: Bradley
+  piLastName: Kramer
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'Workshop:  2017 NSF CAREER Proposal Writing Workshop; Portland, Oregon;
+    April 3-4, 2017'
+- agency: NSF
+  awardeeCity: Atlanta
+  awardeeName: Georgia Tech Research Corporation
+  awardeeStateCode: GA
+  fundsObligatedAmt: '27020'
+  id: '1713763'
+  piFirstName: Doron
+  piLastName: Lubinsky
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 2017 Computational Methods and Function Theory Conference
+- agency: NSF
+  awardeeCity: San Francisco
+  awardeeName: University of San Francisco
+  awardeeStateCode: CA
+  fundsObligatedAmt: '50000'
+  id: '1704236'
+  piFirstName: Deneb
+  piLastName: Karentz
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'Group Travel Award: XIIth SCAR International Biology Symposium'
+- agency: NSF
+  awardeeCity: BOCA RATON
+  awardeeName: Florida Atlantic University
+  awardeeStateCode: FL
+  fundsObligatedAmt: '9743'
+  id: '1700874'
+  piFirstName: Erik
+  piLastName: Lundberg
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: Travel funds for the conference "Complex functions, operators, partial differential
+    equations, and applications in mathematical physics."
+- agency: NSF
+  awardeeCity: West Lafayette
+  awardeeName: Purdue University
+  awardeeStateCode: IN
+  fundsObligatedAmt: '32000'
+  id: '1700269'
+  piFirstName: Antonio
+  piLastName: Sa Barreto
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: Third Symposium on Spectral and Scattering Theory
+- agency: NSF
+  awardeeCity: KNOXVILLE
+  awardeeName: University of Tennessee Knoxville
+  awardeeStateCode: TN
+  fundsObligatedAmt: '23920'
+  id: '1700229'
+  piFirstName: Stefan
+  piLastName: Richter
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: Southeastern Analysis Meeting 2017
+- agency: NSF
+  awardeeCity: Cambridge
+  awardeeName: Massachusetts Institute of Technology
+  awardeeStateCode: MA
+  fundsObligatedAmt: '14352'
+  id: '1655089'
+  piFirstName: David
+  piLastName: Kaiser
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'Doctoral Dissertation Research: Mathematics, Aesthetics, and Modernism in
+    America'
+- agency: NSF
+  awardeeCity: BOSTON
+  awardeeName: Northeastern University
+  awardeeStateCode: MA
+  fundsObligatedAmt: '292562'
+  id: '1635423'
+  piFirstName: Kathleen
+  piLastName: Lotterhos
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'Collaborative Research: Does ocean acidification induce a methylation response
+    that affects the fitness of the next generation in oysters?'
+- agency: NSF
+  awardeeCity: Newark
+  awardeeName: Rutgers University Newark
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '18960'
+  id: '1712761'
+  piFirstName: Kristina
+  piLastName: Keating
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: '2017 AGU-SEG Hydrogeophysics Conference: Imaging the Critical Zone'
+- agency: NSF
+  awardeeCity: Atlanta
+  awardeeName: Georgia Tech Research Corporation
+  awardeeStateCode: GA
+  fundsObligatedAmt: '20000'
+  id: '1655376'
+  piFirstName: Robert
+  piLastName: Guldberg
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 2017 Regenerative Medicine Workshop at Hilton Head, SC
+- agency: NSF
+  awardeeCity: Seattle
+  awardeeName: University of Washington
+  awardeeStateCode: WA
+  fundsObligatedAmt: '388841'
+  id: '1634167'
+  piFirstName: Steven
+  piLastName: Roberts
+  publicAccessMandate: '1'
+  date: 12/19/2016
+  title: 'Collaborative Research: Does ocean acidification induce a methylation response
+    that affects the fitness of the next generation in oysters?'
+- agency: NSF
+  awardeeCity: Durham
+  awardeeName: Duke University
+  awardeeStateCode: NC
+  fundsObligatedAmt: '480000'
+  id: '1658794'
+  piFirstName: Cynthia
+  piLastName: Rudin
+  publicAccessMandate: '0'
+  date: 12/16/2016
+  title: 'CAREER: New Approaches for Ranking in Machine Learning'
+- agency: NSF
+  awardeeCity: Berkeley
+  awardeeName: NestSense, Inc.
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1648753'
+  piFirstName: George
+  piLastName: Netscher
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'STTR Phase I:  Development of a Safety System for Individuals with Alzheimer''s
+    Disease and Related Dementias'
+- agency: NSF
+  awardeeCity: Mountain View
+  awardeeName: QC Ware Corp.
+  awardeeStateCode: CA
+  fundsObligatedAmt: '224258'
+  id: '1648832'
+  piFirstName: Asier
+  piLastName: Ozaeta
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'STTR Phase I:  A Cloud-Based Development Framework and Tool Suite for an
+    Adiabatic Quantum Computer'
+- agency: NSF
+  awardeeCity: Albany
+  awardeeName: SUNY at Albany
+  awardeeStateCode: NY
+  fundsObligatedAmt: '50000'
+  id: '1708151'
+  piFirstName: Qilong
+  piLastName: Min
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'I-Corps: A solar radiation and sky condition monitoring system'
+- agency: NSF
+  awardeeCity: CLEMSON
+  awardeeName: Clemson University
+  awardeeStateCode: SC
+  fundsObligatedAmt: '53844'
+  id: '1705448'
+  piFirstName: Xian
+  piLastName: Lu
+  publicAccessMandate: '0'
+  date: 12/16/2016
+  title: 'CEDAR:  Exploration of Lower-atmosphere Wave Forcing, Vertical Wave Coupling
+    and Their Impacts on the Ionosphere and Thermosphere Variability Using WAM, Lidar
+    and ISR'
+- agency: NSF
+  awardeeCity: SALT LAKE CITY
+  awardeeName: University of Utah
+  awardeeStateCode: UT
+  fundsObligatedAmt: '110743'
+  id: '1702722'
+  piFirstName: Ganesh
+  piLastName: Gopalakrishnan
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 2017 Software Infrastructure for Sustained Innovation (SI2) Principal Investigator
+    Workshop
+- agency: NSF
+  awardeeCity: UNIVERSITY PARK
+  awardeeName: Pennsylvania State Univ University Park
+  awardeeStateCode: PA
+  fundsObligatedAmt: '102076'
+  id: '1664377'
+  piFirstName: Jingjing
+  piLastName: Li
+  publicAccessMandate: '0'
+  date: 12/16/2016
+  title: Friction Stir Blind Riveting for Dissimilar Materials
+- agency: NSF
+  awardeeCity: NOTRE DAME
+  awardeeName: University of Notre Dame
+  awardeeStateCode: IN
+  fundsObligatedAmt: '24983'
+  id: '1709357'
+  piFirstName: Tracy
+  piLastName: Kijewski-Correa
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'RAPID:   Multi-Hazard Performance of Load Bearing Wall Systems: A Case Study
+    in Haiti following the January 2010 Earthquake and October 2016 Hurricane Matthew'
+- agency: NSF
+  awardeeCity: Rolla
+  awardeeName: Smart Health Beacons, LLC
+  awardeeStateCode: MO
+  fundsObligatedAmt: '225000'
+  id: '1648907'
+  piFirstName: Debraj
+  piLastName: De
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'STTR Phase I:  Advanced and Remote Screening, Monitoring and Rehabilitation
+    of Cognitive Health'
+- agency: NSF
+  awardeeCity: Martin
+  awardeeName: Secure Food Solutions
+  awardeeStateCode: TN
+  fundsObligatedAmt: '225000'
+  id: '1648769'
+  piFirstName: Chris
+  piLastName: Ramezanpour
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'STTR Phase I: Specialized high resolution imaging system for rapid batch
+    screening of aflatoxin in corn'
+- agency: NSF
+  awardeeCity: New York
+  awardeeName: Icahn School of Medicine at Mount Sinai
+  awardeeStateCode: NY
+  fundsObligatedAmt: '50000'
+  id: '1712576'
+  piFirstName: Ravi
+  piLastName: Sachidanandam
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'I-Corps: A novel method to isolate and sequence mitochondrial DNA'
+- agency: NSF
+  awardeeCity: Irvine
+  awardeeName: University of California-Irvine
+  awardeeStateCode: CA
+  fundsObligatedAmt: '200000'
+  id: '1709746'
+  piFirstName: Haithem
+  piLastName: Taha
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'EAGER: Revisiting Vibrational Control Theory'
+- agency: NSF
+  awardeeCity: Atlanta
+  awardeeName: Georgia Tech Research Corporation
+  awardeeStateCode: GA
+  fundsObligatedAmt: '500000'
+  id: '1651273'
+  piFirstName: Alenka
+  piLastName: Zajic
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'CAREER: Propagation Modeling and Measurements for THz Wireless Chip-to-Chip
+    Communications'
+- agency: NSF
+  awardeeCity: St. Louis
+  awardeeName: APSE, Inc
+  awardeeStateCode: MO
+  fundsObligatedAmt: '225000'
+  id: '1647751'
+  piFirstName: Juan
+  piLastName: Arhancet
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'SBIR Phase I:  Development of Broadly Efficacious Ribonucleic Acid Interference
+    Triggers for Pesticides'
+- agency: NSF
+  awardeeCity: Piscataway
+  awardeeName: Rutgers, The State University of New Jersey-RBHS-Robert Wood
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '50000'
+  id: '1664261'
+  piFirstName: Federico
+  piLastName: Sesti
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'I-Corps: A C. elegans model using human genes for high-throughput screening'
+- agency: NSF
+  awardeeCity: Cambridge
+  awardeeName: Massachusetts Institute of Technology
+  awardeeStateCode: MA
+  fundsObligatedAmt: '500000'
+  id: '1653553'
+  piFirstName: Luqiao
+  piLastName: Liu
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'CAREER: Spin-Orbit Interaction based Spintronics with Superconductors'
+- agency: NSF
+  awardeeCity: AMES
+  awardeeName: Iowa State University
+  awardeeStateCode: IA
+  fundsObligatedAmt: '9994'
+  id: '1707092'
+  piFirstName: Andrew
+  piLastName: Miner
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: Midwest Verification Day 2016
+- agency: NSF
+  awardeeCity: Santa Barbara
+  awardeeName: University of California-Santa Barbara
+  awardeeStateCode: CA
+  fundsObligatedAmt: '500000'
+  id: '1652910'
+  piFirstName: Otger
+  piLastName: Campas
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'CAREER: Decoding the Mechanical Control of Tissue Growth'
+- agency: NSF
+  awardeeCity: Philadelphia
+  awardeeName: Paradigm Surgical LLC
+  awardeeStateCode: PA
+  fundsObligatedAmt: '225000'
+  id: '1648854'
+  piFirstName: Marc-Alan
+  piLastName: Levine
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'STTR Phase I:  Development and Validation of the SafeClose Mesh Augmentation
+    System for Hernia Prevention'
+- agency: NSF
+  awardeeCity: Indianapolis
+  awardeeName: Green Fortress Engineering, Inc
+  awardeeStateCode: IN
+  fundsObligatedAmt: '225000'
+  id: '1648748'
+  piFirstName: Robert
+  piLastName: Rosenstein
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'STTR Phase I:  Hydrogen Storage in Catalytically-modified Porous Silicon'
+- agency: NSF
+  awardeeCity: San Diego
+  awardeeName: San Diego State University Foundation
+  awardeeStateCode: CA
+  fundsObligatedAmt: '10000'
+  id: '1658989'
+  piFirstName: Joaquin
+  piLastName: Camacho
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: International Travel Support for Chemistry and Diagnostics for Clean Combustion
+    International Bunsen Discussion Meeting
+- agency: NSF
+  awardeeCity: Piscataway
+  awardeeName: Rutgers University New Brunswick
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '500000'
+  id: '1653584'
+  piFirstName: Aaron
+  piLastName: Mazzeo
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'CAREER: Papertronic Sensors for Concurrent Bioelectrical and Sweat-based
+    Diagnostics'
+- agency: NSF
+  awardeeCity: Columbus
+  awardeeName: LiveFocus LLC
+  awardeeStateCode: OH
+  fundsObligatedAmt: '225000'
+  id: '1648888'
+  piFirstName: Hanyang
+  piLastName: Huang
+  publicAccessMandate: '1'
+  date: 12/16/2016
+  title: 'STTR Phase I:  Smartphone-based Slide Scanner for Mobile Digital Pathology'
+- agency: NSF
+  awardeeCity: RICHMOND
+  awardeeName: Virginia Commonwealth University
+  awardeeStateCode: VA
+  fundsObligatedAmt: '139729'
+  id: '1723158'
+  piFirstName: Montserrat
+  piLastName: Fuentes
+  publicAccessMandate: '0'
+  date: 12/15/2016
+  title: Spatial-temporal models and methods for big nonstationary multivariate
+- agency: NSF
+  awardeeCity: CHAMPAIGN
+  awardeeName: University of Illinois at Urbana-Champaign
+  awardeeStateCode: IL
+  fundsObligatedAmt: '508000'
+  id: '1652871'
+  piFirstName: Can
+  piLastName: Bayram
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'CAREER: Cubic Phase Green Light Emitting Diodes for Advanced Solid State
+    Lighting'
+- agency: NSF
+  awardeeCity: Nashville
+  awardeeName: Vanderbilt University
+  awardeeStateCode: TN
+  fundsObligatedAmt: '206450'
+  id: '1719674'
+  piFirstName: Padma
+  piLastName: Raghavan
+  publicAccessMandate: '0'
+  date: 12/15/2016
+  title: 'SHF: Small: Embedded Graph Software-Hardware Models and Maps for Scalable
+    Sparse Computations'
+- agency: NSF
+  awardeeCity: Reno
+  awardeeName: Board of Regents, NSHE, obo University of Nevada, Reno
+  awardeeStateCode: NV
+  fundsObligatedAmt: '120020'
+  id: '1719687'
+  piFirstName: Philipp
+  piLastName: Ruprecht
+  publicAccessMandate: '0'
+  date: 12/15/2016
+  title: 'Mantle Signals in Arcs: Transport Models From Geochemistry and Seismicity'
+- agency: NSF
+  awardeeCity: Ann Arbor
+  awardeeName: University of Michigan Ann Arbor
+  awardeeStateCode: MI
+  fundsObligatedAmt: '50000'
+  id: '1707232'
+  piFirstName: Kira
+  piLastName: Barton
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'I-Corps: 3D Printing of carbon fiber reinforced polymer on contoured surfaces'
+- agency: NSF
+  awardeeCity: ORLANDO
+  awardeeName: University of Central Florida
+  awardeeStateCode: FL
+  fundsObligatedAmt: '50000'
+  id: '1707306'
+  piFirstName: Xun
+  piLastName: Gong
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'I-Corps: High-Temperature Sensors for Turbine Industry'
+- agency: NSF
+  awardeeCity: Philadelphia
+  awardeeName: Drexel University
+  awardeeStateCode: PA
+  fundsObligatedAmt: '205759'
+  id: '1719918'
+  piFirstName: Ezra
+  piLastName: Wood
+  publicAccessMandate: '0'
+  date: 12/15/2016
+  title: Development and Deployment of a Novel Peroxy Radical Detector
+- agency: NSF
+  awardeeCity: UNIVERSITY PARK
+  awardeeName: Pennsylvania State Univ University Park
+  awardeeStateCode: PA
+  fundsObligatedAmt: '629120'
+  id: '1658209'
+  piFirstName: Scott
+  piLastName: Yabiku
+  publicAccessMandate: '0'
+  date: 12/15/2016
+  title: 'CNH:   Feedbacks Between Human Community Dynamics and Socioecological Vulnerability
+    in a Biodiversity Hotspot'
+- agency: NSF
+  awardeeCity: Kansas City
+  awardeeName: University of Missouri-Kansas City
+  awardeeStateCode: MO
+  fundsObligatedAmt: '12000'
+  id: '1719195'
+  piFirstName: Brian
+  piLastName: Frehner
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'Workshop:   Collaborative Research:   The Great Plains: An Environmental
+    History'
+- agency: NSF
+  awardeeCity: Miami
+  awardeeName: Florida International University
+  awardeeStateCode: FL
+  fundsObligatedAmt: '801290'
+  id: '1663051'
+  piFirstName: A. Selcuk
+  piLastName: Uluagac
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'Collaborative Research: SURPASS: NSF SFS Unique Scholarship Program in Hardware
+    and Systems Security'
+- agency: NSF
+  awardeeCity: GAINESVILLE
+  awardeeName: University of Florida
+  awardeeStateCode: FL
+  fundsObligatedAmt: '1033362'
+  id: '1662976'
+  piFirstName: Swarup
+  piLastName: Bhunia
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'Collaborative Research: SURPASS: NSF SFS Unique Scholarship Program in Hardware
+    and Systems Security'
+- agency: NSF
+  awardeeCity: Fairbanks
+  awardeeName: University of Alaska Fairbanks Campus
+  awardeeStateCode: AK
+  fundsObligatedAmt: '60000'
+  id: '1702328'
+  piFirstName: Christopher
+  piLastName: Fallen
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'RAPID: Spatiotemporal Evolution of Radio-induced Aurora at the University
+    of Alaska Fairbanks (UAF) High-frequency Active Auroral Research Program (HAARP)
+    Observatory'
+- agency: NSF
+  awardeeCity: Fairbanks
+  awardeeName: University of Alaska Fairbanks Campus
+  awardeeStateCode: AK
+  fundsObligatedAmt: '60000'
+  id: '1702328'
+  piFirstName: Christopher
+  piLastName: Fallen
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'RAPID: Spatiotemporal Evolution of Radio-induced Aurora at the University
+    of Alaska Fairbanks (UAF) High-frequency Active Auroral Research Program (HAARP)
+    Observatory'
+- agency: NSF
+  awardeeCity: Austin
+  awardeeName: University of Texas at Austin
+  awardeeStateCode: TX
+  fundsObligatedAmt: '85972'
+  id: '1720839'
+  piFirstName: Thorsten
+  piLastName: Becker
+  publicAccessMandate: '0'
+  date: 12/15/2016
+  title: Estimating global subduction mass transport
+- agency: NSF
+  awardeeCity: Conway
+  awardeeName: Coastal Carolina University
+  awardeeStateCode: SC
+  fundsObligatedAmt: '99672'
+  id: '1714015'
+  piFirstName: Shaowu
+  piLastName: Bao
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'RAPID: Mobile Infrastructure for Monitoring, Modeling, and Forecasting of
+    Coastal Weather Events'
+- agency: NSF
+  awardeeCity: Boulder
+  awardeeName: Geological Society of America Today
+  awardeeStateCode: CO
+  fundsObligatedAmt: '32037'
+  id: '1713930'
+  piFirstName: Tahlia
+  piLastName: Bear
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: Unity of Purpose for Equitable Representation in Geosciences Workshop
+- agency: NSF
+  awardeeCity: Washington
+  awardeeName: Georgetown University
+  awardeeStateCode: DC
+  fundsObligatedAmt: '1675749'
+  id: '1663060'
+  piFirstName: Thomas
+  piLastName: Shields
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'Cybersecurity Fellows: The Scholarship for Service Program at Georgetown
+    University'
+- agency: NSF
+  awardeeCity: UNIVERSITY PARK
+  awardeeName: Pennsylvania State Univ University Park
+  awardeeStateCode: PA
+  fundsObligatedAmt: '228918'
+  id: '1660707'
+  piFirstName: Christopher
+  piLastName: Cameron
+  publicAccessMandate: '0'
+  date: 12/15/2016
+  title: 'Expanding the Limits of Compassion: A Motivated Emotion Regulation Account
+    of Compassion Collapse'
+- agency: NSF
+  awardeeCity: UNIVERSITY PARK
+  awardeeName: Pennsylvania State Univ University Park
+  awardeeStateCode: PA
+  fundsObligatedAmt: '11957'
+  id: '1656187'
+  piFirstName: Matthew
+  piLastName: Restall
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'Doctoral Dissertation Research: Volcanoes and Lakes in the Science and Culture
+    of the Spanish Empire'
+- agency: NSF
+  awardeeCity: NEW YORK
+  awardeeName: New York University
+  awardeeStateCode: NY
+  fundsObligatedAmt: '98000'
+  id: '1646337'
+  piFirstName: Georg
+  piLastName: Stadler
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'Collaborative Research: Forward and inverse models of global plate motions
+    and plate interactions'
+- agency: NSF
+  awardeeCity: Birmingham
+  awardeeName: University of Alabama at Birmingham
+  awardeeStateCode: AL
+  fundsObligatedAmt: '805549'
+  id: '1662762'
+  piFirstName: Nitesh
+  piLastName: Saxena
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'Justice Science Meets Computer Science: Preparing an SFS Workforce Ready
+    to Face Cyber-Crime Challenges'
+- agency: NSF
+  awardeeCity: HONOLULU
+  awardeeName: University of Hawaii
+  awardeeStateCode: HI
+  fundsObligatedAmt: '1536221'
+  id: '1662487'
+  piFirstName: Yingfei
+  piLastName: Dong
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: Establishing Scholarship for Service Program at University of Hawaii at Manoa
+- agency: NSF
+  awardeeCity: Ithaca
+  awardeeName: Cornell University
+  awardeeStateCode: NY
+  fundsObligatedAmt: '14257'
+  id: '1655753'
+  piFirstName: Michael
+  piLastName: Lynch
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'Doctoral Dissertation Research: The Practice of Registering Indian Citizens
+    Using Biometric Information'
+- agency: NSF
+  awardeeCity: Rolla
+  awardeeName: Missouri University of Science and Technology
+  awardeeStateCode: MO
+  fundsObligatedAmt: '500011'
+  id: '1653032'
+  piFirstName: Jie
+  piLastName: Gao
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'CAREER: Flat Singular Optics: Generation and Detection of Optical Vortex
+    Beams with Plasmonic Metasurfaces in Linear and Nonlinear Regimes'
+- agency: NSF
+  awardeeCity: Worcester
+  awardeeName: College of the Holy Cross
+  awardeeStateCode: MA
+  fundsObligatedAmt: '134511'
+  id: '1652013'
+  piFirstName: Geoffrey
+  piLastName: Findlay
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'CAREER: Functional and evolutionary analysis of de novo evolved genes in
+    Drosophila male reproduction'
+- agency: NSF
+  awardeeCity: KINGSTON
+  awardeeName: University of Rhode Island
+  awardeeStateCode: RI
+  fundsObligatedAmt: '29511'
+  id: '1719821'
+  piFirstName: Colleen
+  piLastName: Mouw
+  publicAccessMandate: '0'
+  date: 12/15/2016
+  title: 'Collaborative Research:   Continuation and Enhancement of MPOWIR'
+- agency: NSF
+  awardeeCity: Cambridge
+  awardeeName: Massachusetts Institute of Technology
+  awardeeStateCode: MA
+  fundsObligatedAmt: '15424'
+  id: '1655605'
+  piFirstName: Harriet
+  piLastName: Ritvo
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'Doctoral Dissertation Research: A Portrayal of the Pedagogy and Practice
+    of Field Schools in American Anthropology as Anthropological Laboratories'
+- agency: NSF
+  awardeeCity: Princeton
+  awardeeName: Princeton University
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '500000'
+  id: '1652448'
+  piFirstName: Ning
+  piLastName: Lin
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'CAREER: Understanding and Designing Structures for Hurricane Wind and Surge
+    Hazards under Changing Climate Conditions'
+- agency: NSF
+  awardeeCity: COLUMBIA
+  awardeeName: University of Missouri-Columbia
+  awardeeStateCode: MO
+  fundsObligatedAmt: '204015'
+  id: '1651153'
+  piFirstName: Nianbo
+  piLastName: Dong
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'CAREER: Design of Multisite Moderation Studies to Examine the Factors that
+    Explain Treatment Effect Variation on Student Mathematics Achievement in Teacher
+    Professional Development'
+- agency: NSF
+  awardeeCity: PASADENA
+  awardeeName: California Institute of Technology
+  awardeeStateCode: CA
+  fundsObligatedAmt: '130000'
+  id: '1645775'
+  piFirstName: Michael
+  piLastName: Gurnis
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'Collaborative Research: Forward and inverse models of global plate motions
+    and plate interactions'
+- agency: NSF
+  awardeeCity: Fairbanks
+  awardeeName: University of Alaska Fairbanks Campus
+  awardeeStateCode: AK
+  fundsObligatedAmt: '33612'
+  id: '1640812'
+  piFirstName: Gary
+  piLastName: Holton
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'DDRIG: Illiamna Yup''ik Geographic Knowledge and Sense of Place in Southwest
+    Alaska'
+- agency: NSF
+  awardeeCity: LA JOLLA
+  awardeeName: University of California-San Diego Scripps Inst of Oceanography
+  awardeeStateCode: CA
+  fundsObligatedAmt: '42000'
+  id: '1719246'
+  piFirstName: Jeffrey
+  piLastName: Severinghaus
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: Rapid Access Ice Drill (RAID) Science Workshop
+- agency: NSF
+  awardeeCity: Arlington
+  awardeeName: University of Texas at Arlington
+  awardeeStateCode: TX
+  fundsObligatedAmt: '150553'
+  id: '1714519'
+  piFirstName: Yan
+  piLastName: Wan
+  publicAccessMandate: '0'
+  date: 12/15/2016
+  title: 'CAREER: Co-Design of Networking and Decentralized Control to Enable Aerial
+    Networks in an Uncertain Airspace'
+- agency: NSF
+  awardeeCity: BOCA RATON
+  awardeeName: Florida Atlantic University
+  awardeeStateCode: FL
+  fundsObligatedAmt: '98868'
+  id: '1713922'
+  piFirstName: Jason
+  piLastName: Hallstrom
+  publicAccessMandate: '1'
+  date: 12/15/2016
+  title: 'RAPID: Mobile Infrastructure for Monitoring, Modeling, and Forecasting of
+    Coastal Weather Events'
+- agency: NSF
+  awardeeCity: Houston
+  awardeeName: University of Houston
+  awardeeStateCode: TX
+  fundsObligatedAmt: '50000'
+  id: '1712605'
+  piFirstName: Mequanint
+  piLastName: Moges
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'I-Corps: Automatic Data Capture System using Machine Learning'
+- agency: NSF
+  awardeeCity: Irvine
+  awardeeName: Summit Technology Laboratory
+  awardeeStateCode: CA
+  fundsObligatedAmt: '224956'
+  id: '1648504'
+  piFirstName: Mehdi
+  piLastName: Rahimzadeh
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I:  Illuminate and Interact with Multi-Projector Displays'
+- agency: NSF
+  awardeeCity: Louisville
+  awardeeName: University of Louisville Research Foundation Inc
+  awardeeStateCode: KY
+  fundsObligatedAmt: '50000'
+  id: '1713741'
+  piFirstName: Dan
+  piLastName: Popa
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'I-Corps: Multi-modal Robot Skins for Adaptive Human-Machine Interfaces'
+- agency: NSF
+  awardeeCity: Lafayette
+  awardeeName: Walters                 Wendell        W
+  awardeeStateCode: IN
+  fundsObligatedAmt: '86000'
+  id: '1624618'
+  piFirstName: Wendell
+  piLastName: Walters
+  publicAccessMandate: '0'
+  date: 12/14/2016
+  title: 'AGS-PRF: Constraining Ammonia Emission Sources in Urban Areas Utilizing
+    Nitrogen Stable Isotopes'
+- agency: NSF
+  awardeeCity: Atlanta
+  awardeeName: Georgia Tech Research Corporation
+  awardeeStateCode: GA
+  fundsObligatedAmt: '50000'
+  id: '1712613'
+  piFirstName: Iris
+  piLastName: Tien
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'I-Corps Teams:  Software for Optimized Infrastructure Asset Management,
+    Repair, and Recovery'
+- agency: NSF
+  awardeeCity: Belcourt
+  awardeeName: Tribal Nations Research Group
+  awardeeStateCode: ND
+  fundsObligatedAmt: '178311'
+  id: '1637000'
+  piFirstName: Paul
+  piLastName: Dauphinais
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: A design for a study that will determine whether an outreach project that
+    has been supported by NSF TCUP has impacted math learning among Native Americans
+- agency: NSF
+  awardeeCity: Rochester
+  awardeeName: Apri Health
+  awardeeStateCode: MN
+  fundsObligatedAmt: '224414'
+  id: '1648233'
+  piFirstName: Mark
+  piLastName: Ereth
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I:  Hyper-Personalized Clinical Evidence-based Blood Transfusion
+    Decision Support Tool to Drive Value-Based Care'
+- agency: NSF
+  awardeeCity: Bakersfield
+  awardeeName: Qubitekk, Inc.
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1648508'
+  piFirstName: Dennis
+  piLastName: Earl
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I:  On-Demand Single Photon Source for Quantum Networks'
+- agency: NSF
+  awardeeCity: Sunnyvale
+  awardeeName: Atomnaut Inc.
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1647712'
+  piFirstName: Peter
+  piLastName: Liddicoat
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I:  Providing Microscopy at the Ultimate Resolution: Position,
+    Identity, of Every Atom, in 3D'
+- agency: NSF
+  awardeeCity: Charlottesville
+  awardeeName: Cerillo, LLC
+  awardeeStateCode: VA
+  fundsObligatedAmt: '225000'
+  id: '1647768'
+  piFirstName: Kevin
+  piLastName: Seitter
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I:  Development of a Miniaturized Multiwell Plate Reader'
+- agency: NSF
+  awardeeCity: Philadelphia
+  awardeeName: Expresso Logic, LLC
+  awardeeStateCode: PA
+  fundsObligatedAmt: '224924'
+  id: '1648320'
+  piFirstName: Rahul
+  piLastName: Mangharam
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I:  A Data-driven Demand Response Recommendation System'
+- agency: NSF
+  awardeeCity: Galesville
+  awardeeName: PlayPosit, Inc.
+  awardeeStateCode: MD
+  fundsObligatedAmt: '225000'
+  id: '1648237'
+  piFirstName: Benjamin
+  piLastName: Levy
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I:  Increasing Student Engagement through Adaptive Instructional
+    Video Delivery'
+- agency: NSF
+  awardeeCity: Scottsdale
+  awardeeName: BioSyntagma, LLC
+  awardeeStateCode: AZ
+  fundsObligatedAmt: '213904'
+  id: '1647818'
+  piFirstName: Dmitry
+  piLastName: Derkach
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I:  High multiplex visual mapping of heterogeneity in FFPE biospecimen'
+- agency: NSF
+  awardeeCity: Ojai
+  awardeeName: INFOCODING LABS INC
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1647559'
+  piFirstName: Tejaswi
+  piLastName: Nanjundaswamy
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I: Low-latency polyphonic coding for interactive immersive applications'
+- agency: NSF
+  awardeeCity: Naperville
+  awardeeName: Navipoint Genomics, LLC
+  awardeeStateCode: IL
+  fundsObligatedAmt: '225000'
+  id: '1648937'
+  piFirstName: Dinanath
+  piLastName: Sulakhe
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'STTR Phase I:  Development of a high-performance clinical genomics analysis
+    platform to support precision medicine'
+- agency: NSF
+  awardeeCity: Little Compton
+  awardeeName: Computational Textiles, Inc.
+  awardeeStateCode: RI
+  fundsObligatedAmt: '224998'
+  id: '1648254'
+  piFirstName: Bill
+  piLastName: Foulkes
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I: Weft: Simulation Software for Textile Design and Manufacturing'
+- agency: NSF
+  awardeeCity: West Lafayette
+  awardeeName: SmartGait LLC
+  awardeeStateCode: IN
+  fundsObligatedAmt: '225000'
+  id: '1647752'
+  piFirstName: Manuel
+  piLastName: Ochoa
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I:  Validation and optimization of balance and gait assessment
+    technology in order to identify fall-risk in older adults'
+- agency: NSF
+  awardeeCity: Pullman
+  awardeeName: Klar Scientific
+  awardeeStateCode: WA
+  fundsObligatedAmt: '210370'
+  id: '1646677'
+  piFirstName: Richard
+  piLastName: Lytel
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I:  Spectroscopy and imaging of irregular surfaces using confocal
+    microscopy'
+- agency: NSF
+  awardeeCity: New York
+  awardeeName: Touro College
+  awardeeStateCode: NY
+  fundsObligatedAmt: '224278'
+  id: '1719743'
+  piFirstName: Andrea
+  piLastName: Taylor
+  publicAccessMandate: '0'
+  date: 12/14/2016
+  title: Function and Evolution of Jaw-Muscle Fiber Type in Primates
+- agency: NSF
+  awardeeCity: West Lafayette
+  awardeeName: Purdue University
+  awardeeStateCode: IN
+  fundsObligatedAmt: '50000'
+  id: '1713953'
+  piFirstName: You-Yeon
+  piLastName: Won
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'I-Corps: Polymer Lung Surfactants for Neonatal Respiratory Distress Syndrome'
+- agency: NSF
+  awardeeCity: Newark
+  awardeeName: New Jersey Institute of Technology
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '50000'
+  id: '1713688'
+  piFirstName: Michael
+  piLastName: Ehrlich
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'I-Corps: Glycosaminoglycan mimics for wound healing'
+- agency: NSF
+  awardeeCity: New Orleans
+  awardeeName: Louisiana State University Health Sciences Center
+  awardeeStateCode: LA
+  fundsObligatedAmt: '50000'
+  id: '1713220'
+  piFirstName: Sunyoung
+  piLastName: Kim
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'I-Corps: Clinical diagnostics for bowel disease'
+- agency: NSF
+  awardeeCity: Austin
+  awardeeName: University of Texas at Austin
+  awardeeStateCode: TX
+  fundsObligatedAmt: '50000'
+  id: '1712622'
+  piFirstName: Dragan
+  piLastName: Djurdjanovic
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'I-Corps: Method and Tool for Time-Domain Processing of Densely Sampled Signals'
+- agency: NSF
+  awardeeCity: COLLEGE PARK
+  awardeeName: University of Maryland College Park
+  awardeeStateCode: MD
+  fundsObligatedAmt: '50000'
+  id: '1706634'
+  piFirstName: Peter
+  piLastName: Zavalij
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'I-Corps: X-ray Diffraction based analyzer for pharmaceutical crystallization
+    process'
+- agency: NSF
+  awardeeCity: Houghton
+  awardeeName: Michigan Technological University
+  awardeeStateCode: MI
+  fundsObligatedAmt: '168789'
+  id: '1651307'
+  piFirstName: Xiaohu
+  piLastName: Xia
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'CAREER: Engineering Bimetallic Nanostructures as Peroxidase Mimics for Diagnostic
+    Applications'
+- agency: NSF
+  awardeeCity: San Diego
+  awardeeName: Planck Aerosystems Inc
+  awardeeStateCode: CA
+  fundsObligatedAmt: '224912'
+  id: '1648563'
+  piFirstName: Gaemus
+  piLastName: Collins
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'STTR Phase I:  Autonomous Landing of sUAS onto Moving Platforms'
+- agency: NSF
+  awardeeCity: Virginia Beach
+  awardeeName: Wise Case Technologies, LLC
+  awardeeStateCode: VA
+  fundsObligatedAmt: '225000'
+  id: '1648357'
+  piFirstName: Charles
+  piLastName: Kirkpatrick
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I:  Case-Based Home Improvement Market Enabler (CHIME)'
+- agency: NSF
+  awardeeCity: Los Angeles
+  awardeeName: University of Southern California
+  awardeeStateCode: CA
+  fundsObligatedAmt: '50000'
+  id: '1713762'
+  piFirstName: Mark
+  piLastName: Thompson
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'I-Corps: Thermally-Responsive Hydrogels for Ocular Drug Delivery'
+- agency: NSF
+  awardeeCity: MELBOURNE
+  awardeeName: Florida Institute of Technology
+  awardeeStateCode: FL
+  fundsObligatedAmt: '50000'
+  id: '1707563'
+  piFirstName: Hector
+  piLastName: Gutierrez
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'I-Corps: Mesh-Free Monte Carlo Methods for Integrated Simulation of Multi-Scale
+    Systems'
+- agency: NSF
+  awardeeCity: Gainesville
+  awardeeName: ifire bio, LLC
+  awardeeStateCode: FL
+  fundsObligatedAmt: '225000'
+  id: '1648329'
+  piFirstName: Kan
+  piLastName: Li
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I:  Touch-free Voice Trigger for Power Constrained Systems'
+- agency: NSF
+  awardeeCity: Atlanta
+  awardeeName: Spelman College
+  awardeeStateCode: GA
+  fundsObligatedAmt: '160215'
+  id: '1721834'
+  piFirstName: Brandeis
+  piLastName: Marshall
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: Computer Science For All Workshop in Atlanta
+- agency: NSF
+  awardeeCity: BINGHAMTON
+  awardeeName: SUNY at Binghamton
+  awardeeStateCode: NY
+  fundsObligatedAmt: '50000'
+  id: '1713700'
+  piFirstName: Omowunmi
+  piLastName: Sadik
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'I-Corps: Nanosensors for rapid detection of food pathogens'
+- agency: NSF
+  awardeeCity: BERKELEY
+  awardeeName: University of California-Berkeley
+  awardeeStateCode: CA
+  fundsObligatedAmt: '50000'
+  id: '1712773'
+  piFirstName: Ana
+  piLastName: Arias
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'I-Corps: Printed receive coils for Magnetic Resonance Imaging'
+- agency: NSF
+  awardeeCity: TEMPE
+  awardeeName: Arizona State University
+  awardeeStateCode: AZ
+  fundsObligatedAmt: '404880'
+  id: '1653982'
+  piFirstName: Gary
+  piLastName: Moore
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'CAREER: SUNCROPS (Solar-Fuels Using Nanoscale Catalysts Reacting on Polymer-modified
+    Surfaces)'
+- agency: NSF
+  awardeeCity: Atlanta
+  awardeeName: Camerad Technologies, LLC
+  awardeeStateCode: GA
+  fundsObligatedAmt: '225000'
+  id: '1647687'
+  piFirstName: Carson
+  piLastName: Wick
+  publicAccessMandate: '1'
+  date: 12/14/2016
+  title: 'SBIR Phase I:  Integrating Patient Photographs with Medical Imaging Examinations
+    to Reduce Medical Errors'
+- agency: NSF
+  awardeeCity: MADISON
+  awardeeName: University of Wisconsin-Madison
+  awardeeStateCode: WI
+  fundsObligatedAmt: '139757'
+  id: '1558044'
+  piFirstName: Hannah
+  piLastName: Carey
+  publicAccessMandate: '0'
+  date: 12/14/2016
+  title: Building the Microbiome into the Hibernator Metabolic Phenotype
+- agency: NSF
+  awardeeCity: Logan
+  awardeeName: Utah State University
+  awardeeStateCode: UT
+  fundsObligatedAmt: '625649'
+  id: '1653140'
+  piFirstName: Idalis
+  piLastName: Villanueva
+  publicAccessMandate: '1'
+  date: 12/13/2016
+  title: 'CAREER: Advocating for Engineering through Hidden Curricula: A Multi-Institutional
+    Mixed Method Approach'
+- agency: NSF
+  awardeeCity: Austin
+  awardeeName: Emoters, Inc.
+  awardeeStateCode: TX
+  fundsObligatedAmt: '225000'
+  id: '1648466'
+  piFirstName: William
+  piLastName: Knox
+  publicAccessMandate: '1'
+  date: 12/13/2016
+  title: 'SBIR Phase I: Design, deployment, and algorithmic optimization of zoomorphic,
+    interactive robot companions'
+- agency: NSF
+  awardeeCity: Santa Cruz
+  awardeeName: MAVRIC Semiconductor Inc
+  awardeeStateCode: CA
+  fundsObligatedAmt: '229421'
+  id: '1647978'
+  piFirstName: Suma
+  piLastName: George
+  publicAccessMandate: '1'
+  date: 12/13/2016
+  title: 'SBIR Phase I:  Ultra Power-Efficient Analog and Bio-inspired Integrated
+    Circuits for Wearable Computing'
+- agency: NSF
+  awardeeCity: Bridgewater
+  awardeeName: NanoSepex Inc.
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '225000'
+  id: '1647820'
+  piFirstName: Sagar
+  piLastName: Roy
+  publicAccessMandate: '1'
+  date: 12/13/2016
+  title: 'SBIR Phase I:  Carbon Nanotube Enhanced Membrane Distillation for  Sea and
+    Brackish Water Desalination, and the Treatment of Saline Waste Water'
+- agency: NSF
+  awardeeCity: Richardson
+  awardeeName: University of Texas at Dallas
+  awardeeStateCode: TX
+  fundsObligatedAmt: '119551'
+  id: '1663763'
+  piFirstName: William
+  piLastName: Coley
+  publicAccessMandate: '1'
+  date: 12/13/2016
+  title: 'RAPID: Improving DMSP SSIES-3 data to level-2 quality'
+- agency: NSF
+  awardeeCity: Beltmont
+  awardeeName: Bioxytech Retina
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1647279'
+  piFirstName: Ali
+  piLastName: Basiri
+  publicAccessMandate: '1'
+  date: 12/13/2016
+  title: 'SBIR Phase I:  Non-Invasive Retinal Oximetry for Detecting Diabetic Retinopathy
+    prior to Structural Damage'
+- agency: NSF
+  awardeeCity: San Mateo
+  awardeeName: San Mateo County Community College District
+  awardeeStateCode: CA
+  fundsObligatedAmt: '648488'
+  id: '1643840'
+  piFirstName: Stephen
+  piLastName: Fredricks
+  publicAccessMandate: '1'
+  date: 12/13/2016
+  title: Scholarships for Success
+- agency: NSF
+  awardeeCity: CHAMPAIGN
+  awardeeName: University of Illinois at Urbana-Champaign
+  awardeeStateCode: IL
+  fundsObligatedAmt: '40000'
+  id: '1643027'
+  piFirstName: Rinat
+  piLastName: Kedem
+  publicAccessMandate: '1'
+  date: 12/13/2016
+  title: IHP trimester program on Combinatorics and Interactions
+- agency: NSF
+  awardeeCity: Grinnell
+  awardeeName: Grinnell College
+  awardeeStateCode: IA
+  fundsObligatedAmt: '116309'
+  id: '1620390'
+  piFirstName: Jeffrey
+  piLastName: Blanchard
+  publicAccessMandate: '0'
+  date: 12/13/2016
+  title: 'RUI:  Efficient Algorithms for Compressed Sensing and Matrix Completion'
+- agency: NSF
+  awardeeCity: San Diego
+  awardeeName: Electronic Bio Sciences
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1648790'
+  piFirstName: Anna
+  piLastName: Schibel
+  publicAccessMandate: '1'
+  date: 12/13/2016
+  title: 'STTR Phase I: Multipass Sensing for Ultrahigh Resolution Particle Characterization'
+- agency: NSF
+  awardeeCity: Fort Collins
+  awardeeName: Colorado State University
+  awardeeStateCode: CO
+  fundsObligatedAmt: '104000'
+  id: '1653863'
+  piFirstName: James
+  piLastName: Neilson
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'CAREER: Towards a Paradigm of Molecular-Level Control of Solid-State Chemistry'
+- agency: NSF
+  awardeeCity: BOSTON
+  awardeeName: Northeastern University
+  awardeeStateCode: MA
+  fundsObligatedAmt: '265954'
+  id: '1664445'
+  piFirstName: Abhi
+  piLastName: Shelat
+  publicAccessMandate: '0'
+  date: 12/12/2016
+  title: 'TWC: Small: Collaborative: An Iterative Approach to Secure Computation'
+- agency: NSF
+  awardeeCity: Somerset
+  awardeeName: MirTech, inc
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '224928'
+  id: '1647153'
+  piFirstName: Nazir
+  piLastName: Mir
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I:  Functional nano-adsorbent embedded packaging film for control
+    and delivery of ethylene and other volatiles to extend fruit quality in bananas'
+- agency: NSF
+  awardeeCity: Gorham
+  awardeeName: The Montalvo Corporation
+  awardeeStateCode: ME
+  fundsObligatedAmt: '225000'
+  id: '1647835'
+  piFirstName: Chris
+  piLastName: Osgood
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I:  Modular Tensioning Cartridge'
+- agency: NSF
+  awardeeCity: Fort Collins
+  awardeeName: Living Ink Technologies, LLC
+  awardeeStateCode: CO
+  fundsObligatedAmt: '225000'
+  id: '1648499'
+  piFirstName: Scott
+  piLastName: Fulbright
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I:  Engineering novel pigmented cyanobacteria for the use in
+    the ink, printing and colorant industries'
+- agency: NSF
+  awardeeCity: Bethesda
+  awardeeName: Dig-iT Games LLC
+  awardeeStateCode: MD
+  fundsObligatedAmt: '224923'
+  id: '1647935'
+  piFirstName: Suzanne
+  piLastName: Wilczynski
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I:  Real-Time Learning Outcome Reporting'
+- agency: NSF
+  awardeeCity: TEMPE
+  awardeeName: Arizona State University
+  awardeeStateCode: AZ
+  fundsObligatedAmt: '95242'
+  id: '1648817'
+  piFirstName: Edward
+  piLastName: Garnero
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'Collaborative Research: Improving lower mantle seismic sampling and model
+    resolution using multi-bounce and diffracted waves'
+- agency: NSF
+  awardeeCity: Grinnell
+  awardeeName: Grinnell College
+  awardeeStateCode: IA
+  fundsObligatedAmt: '116309'
+  id: '1620390'
+  piFirstName: Jeffrey
+  piLastName: Blanchard
+  publicAccessMandate: '0'
+  date: 12/13/2016
+  title: 'RUI:  Efficient Algorithms for Compressed Sensing and Matrix Completion'
+- agency: NSF
+  awardeeCity: San Diego
+  awardeeName: Electronic Bio Sciences
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1648790'
+  piFirstName: Anna
+  piLastName: Schibel
+  publicAccessMandate: '1'
+  date: 12/13/2016
+  title: 'STTR Phase I: Multipass Sensing for Ultrahigh Resolution Particle Characterization'
+- agency: NSF
+  awardeeCity: Fort Collins
+  awardeeName: Colorado State University
+  awardeeStateCode: CO
+  fundsObligatedAmt: '104000'
+  id: '1653863'
+  piFirstName: James
+  piLastName: Neilson
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'CAREER: Towards a Paradigm of Molecular-Level Control of Solid-State Chemistry'
+- agency: NSF
+  awardeeCity: BOSTON
+  awardeeName: Northeastern University
+  awardeeStateCode: MA
+  fundsObligatedAmt: '265954'
+  id: '1664445'
+  piFirstName: Abhi
+  piLastName: Shelat
+  publicAccessMandate: '0'
+  date: 12/12/2016
+  title: 'TWC: Small: Collaborative: An Iterative Approach to Secure Computation'
+- agency: NSF
+  awardeeCity: Somerset
+  awardeeName: MirTech, inc
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '224928'
+  id: '1647153'
+  piFirstName: Nazir
+  piLastName: Mir
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I:  Functional nano-adsorbent embedded packaging film for control
+    and delivery of ethylene and other volatiles to extend fruit quality in bananas'
+- agency: NSF
+  awardeeCity: Gorham
+  awardeeName: The Montalvo Corporation
+  awardeeStateCode: ME
+  fundsObligatedAmt: '225000'
+  id: '1647835'
+  piFirstName: Chris
+  piLastName: Osgood
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I:  Modular Tensioning Cartridge'
+- agency: NSF
+  awardeeCity: Fort Collins
+  awardeeName: Living Ink Technologies, LLC
+  awardeeStateCode: CO
+  fundsObligatedAmt: '225000'
+  id: '1648499'
+  piFirstName: Scott
+  piLastName: Fulbright
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I:  Engineering novel pigmented cyanobacteria for the use in
+    the ink, printing and colorant industries'
+- agency: NSF
+  awardeeCity: Bethesda
+  awardeeName: Dig-iT Games LLC
+  awardeeStateCode: MD
+  fundsObligatedAmt: '224923'
+  id: '1647935'
+  piFirstName: Suzanne
+  piLastName: Wilczynski
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I:  Real-Time Learning Outcome Reporting'
+- agency: NSF
+  awardeeCity: TEMPE
+  awardeeName: Arizona State University
+  awardeeStateCode: AZ
+  fundsObligatedAmt: '95242'
+  id: '1648817'
+  piFirstName: Edward
+  piLastName: Garnero
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'Collaborative Research: Improving lower mantle seismic sampling and model
+    resolution using multi-bounce and diffracted waves'
+- agency: NSF
+  awardeeCity: La Jolla
+  awardeeName: University of California-San Diego
+  awardeeStateCode: CA
+  fundsObligatedAmt: '494066'
+  id: '1659104'
+  piFirstName: Ronald
+  piLastName: Hawkins
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'CC* Compute: BioBurst'
+- agency: NSF
+  awardeeCity: Buffalo
+  awardeeName: Abcombi Biosciences, Inc.
+  awardeeStateCode: NY
+  fundsObligatedAmt: '225000'
+  id: '1647451'
+  piFirstName: Charles
+  piLastName: Jones
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I: Treatment technology for recovery of valuable metals from
+    industrial wastewater'
+- agency: NSF
+  awardeeCity: Auburn Hills
+  awardeeName: Grid Logic Incorporated
+  awardeeStateCode: MI
+  fundsObligatedAmt: '218205'
+  id: '1647943'
+  piFirstName: Matthew
+  piLastName: Holcomb
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I:  Nanostructured High-Strength Magnet for Automotive Applications'
+- agency: NSF
+  awardeeCity: El Paso
+  awardeeName: Atlas Regeneration Technologies, LLC
+  awardeeStateCode: TX
+  fundsObligatedAmt: '224470'
+  id: '1648977'
+  piFirstName: Malynda
+  piLastName: Cappelle
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'STTR Phase I: Hardness Sensor Using Cation-Exchange Fibers'
+- agency: NSF
+  awardeeCity: Boulder
+  awardeeName: FAST Ceramics LLC
+  awardeeStateCode: CO
+  fundsObligatedAmt: '220014'
+  id: '1647045'
+  piFirstName: Hector
+  piLastName: Macpherson
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I: Improving Surface Properties of Stainless Steel for Li-ion
+    Battery Current Collectors'
+- agency: NSF
+  awardeeCity: West Lafayette
+  awardeeName: Vibronix, Inc.
+  awardeeStateCode: IN
+  fundsObligatedAmt: '225000'
+  id: '1646909'
+  piFirstName: Pu
+  piLastName: Wang
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I:  Locating a breast tumor with sub-millimeter accuracy to improve
+    the precision of surgery'
+- agency: NSF
+  awardeeCity: Carrboro
+  awardeeName: Shopagon, LLC
+  awardeeStateCode: NC
+  fundsObligatedAmt: '225000'
+  id: '1647419'
+  piFirstName: Tamara
+  piLastName: Berg
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I:  Personalizing Online Clothing Shopping'
+- agency: NSF
+  awardeeCity: Redwood City
+  awardeeName: Temblor, Inc.
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1648595'
+  piFirstName: Ross
+  piLastName: Stein
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I:  Temblor--an innovative, mobile source of seismic risk understanding
+    and solutions for the public and providers'
+- agency: NSF
+  awardeeCity: Ithaca
+  awardeeName: Wicked Device LLC
+  awardeeStateCode: NY
+  fundsObligatedAmt: '225000'
+  id: '1647974'
+  piFirstName: Dirk
+  piLastName: Swart
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'SBIR Phase I:  A STEM toolkit enabling global air quality experiments'
+- agency: NSF
+  awardeeCity: West Kingston
+  awardeeName: Gordon Research Conferences
+  awardeeStateCode: RI
+  fundsObligatedAmt: '49900'
+  id: '1657056'
+  piFirstName: Susan
+  piLastName: Elrod
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'GRC on Undergraduate Biology Education Research: Improving Diversity, Equity,
+    and Learning'
+- agency: NSF
+  awardeeCity: New Haven
+  awardeeName: Yale University
+  awardeeStateCode: CT
+  fundsObligatedAmt: '379042'
+  id: '1653793'
+  piFirstName: Timothy
+  piLastName: Newhouse
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'CAREER: Palladium-Catalyzed Dehydrogenation of Carbonyl Compounds'
+- agency: NSF
+  awardeeCity: Golden
+  awardeeName: Colorado School of Mines
+  awardeeStateCode: CO
+  fundsObligatedAmt: '649628'
+  id: '1644198'
+  piFirstName: Tracy
+  piLastName: Camp
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: Path Ambassadors To High Success
+- agency: NSF
+  awardeeCity: New Orleans
+  awardeeName: Louisiana State University Health Sciences Center
+  awardeeStateCode: LA
+  fundsObligatedAmt: '499640'
+  id: '1657895'
+  piFirstName: Mohamad
+  piLastName: Qayoom
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'CC* Networking Infrastructure: Science DMZ and Research Network Upgrade
+    for Louisiana State University Health Sciences Center New Orleans'
+- agency: NSF
+  awardeeCity: RIVERSIDE
+  awardeeName: University of California-Riverside
+  awardeeStateCode: CA
+  fundsObligatedAmt: '82943'
+  id: '1654746'
+  piFirstName: Ming
+  piLastName: Liu
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'CAREER: Advanced Optical and Electrical Characterization of Novel Van der
+    Waals Heterostructure Materials'
+- agency: NSF
+  awardeeCity: Tucson
+  awardeeName: University of Arizona
+  awardeeStateCode: AZ
+  fundsObligatedAmt: '790330'
+  id: '1653228'
+  piFirstName: Daniel
+  piLastName: Marrone
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'CAREER: Mapping the Fuel for Star Formation Across Cosmic History'
+- agency: NSF
+  awardeeCity: Haverford
+  awardeeName: Haverford College
+  awardeeStateCode: PA
+  fundsObligatedAmt: '560681'
+  id: '1652424'
+  piFirstName: Louise
+  piLastName: Charkoudian
+  publicAccessMandate: '1'
+  date: 12/12/2016
+  title: 'CAREER:  Accessing Chemical Diversity through the Characterization and Redesign
+    of Natural Product Synthases'
+- agency: NSF
+  awardeeCity: Cambridge
+  awardeeName: Enevolv, Inc.
+  awardeeStateCode: MA
+  fundsObligatedAmt: '225000'
+  id: '1648176'
+  piFirstName: Noah
+  piLastName: Taylor
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Programmable Intracellular Sensors for Direct In Vivo Screening
+    of Target Molecule Production in Yeast'
+- agency: NSF
+  awardeeCity: Arlington
+  awardeeName: Quantified Habits Inc.
+  awardeeStateCode: VA
+  fundsObligatedAmt: '225000'
+  id: '1648331'
+  piFirstName: Naganand
+  piLastName: Murty
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Digital Health Coaching Using Context-sensitive Data'
+- agency: NSF
+  awardeeCity: San Diego
+  awardeeName: 2W iTech LLC
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1647637'
+  piFirstName: Qingwu
+  piLastName: Wang
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  High Flux Thin Film Nanocomposite Reverse Osmosis Membrane'
+- agency: NSF
+  awardeeCity: Bayside
+  awardeeName: SIPPA Solutions LLC
+  awardeeStateCode: NY
+  fundsObligatedAmt: '225000'
+  id: '1648780'
+  piFirstName: Michael
+  piLastName: Van der Gaag
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'STTR Phase I: Improving Patient Engagement in Self-Health Management through
+    a Mobile Informatics Platform'
+- agency: NSF
+  awardeeCity: Mill Creek
+  awardeeName: Emissol LLC
+  awardeeStateCode: WA
+  fundsObligatedAmt: '223273'
+  id: '1648964'
+  piFirstName: Mansour
+  piLastName: Masoudi
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'STTR Phase I: Novel Urea Mixer to Enable Low Temperature Reduction of Diesel
+    Exhaust Nitrogen Compounds Emissions.'
+- agency: NSF
+  awardeeCity: State College
+  awardeeName: Atoptix, Inc.
+  awardeeStateCode: PA
+  fundsObligatedAmt: '225000'
+  id: '1648892'
+  piFirstName: Perry
+  piLastName: Edwards
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'STTR Phase I:  Smartphone Sensor for Crop Health Assessment and Reduction
+    of Environmental Contamination'
+- agency: NSF
+  awardeeCity: Irvine
+  awardeeName: Anticipant Speech, Inc.
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1648502'
+  piFirstName: David
+  piLastName: DeVault
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  A Platform for Commercial Dialogue Systems with Fluid Turn-Taking
+    Skills'
+- agency: NSF
+  awardeeCity: Saint Paul
+  awardeeName: Sironix Renewables
+  awardeeStateCode: MN
+  fundsObligatedAmt: '224999'
+  id: '1648148'
+  piFirstName: Christoph
+  piLastName: Krumm
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Bi-functional Surfactants Platform from Biomass-Derived Feedstocks'
+- agency: NSF
+  awardeeCity: Berkeley
+  awardeeName: Saratoga Energy Research Partners LLC
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1647601'
+  piFirstName: Benjamin
+  piLastName: Rush
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I: Supercritical Carbon Dioxide Assisted Purification of Electrolytically
+    Synthesized Graphite'
+- agency: NSF
+  awardeeCity: SeaTac
+  awardeeName: Beta Hatch Inc
+  awardeeStateCode: WA
+  fundsObligatedAmt: '225000'
+  id: '1648559'
+  piFirstName: Virginia
+  piLastName: Emery
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Production of mealworm biomass and recovery of resources
+    from plastic wastes'
+- agency: NSF
+  awardeeCity: New York
+  awardeeName: Vidrovr Inc.
+  awardeeStateCode: NY
+  fundsObligatedAmt: '225000'
+  id: '1647799'
+  piFirstName: Joe
+  piLastName: Ellis
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Automatically Generating Domain Specific Structured Ontologies
+    for Video'
+- agency: NSF
+  awardeeCity: Champaign
+  awardeeName: Xerion Advanced Battery Corp
+  awardeeStateCode: IL
+  fundsObligatedAmt: '224925'
+  id: '1648481'
+  piFirstName: Hailong
+  piLastName: Ning
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I: High-performance flexible batteries for electronic wearables'
+- agency: NSF
+  awardeeCity: Oregon City
+  awardeeName: NeuraMedica LLC
+  awardeeStateCode: OR
+  fundsObligatedAmt: '225000'
+  id: '1648203'
+  piFirstName: Rachel
+  piLastName: Dreilinger
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Development of a novel bioabsorbable clip and applicator
+    for rapid closure of the dura mater during open and minimally invasive spine surgery'
+- agency: NSF
+  awardeeCity: Saint Paul
+  awardeeName: Dynation L. L. C.
+  awardeeStateCode: MN
+  fundsObligatedAmt: '225000'
+  id: '1647292'
+  piFirstName: Eric
+  piLastName: Morrison
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Lipoleosomes as Carriers for Topical Ibuprofen'
+- agency: NSF
+  awardeeCity: Englewood Cliffs
+  awardeeName: Innovative Elements, LLC
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '225000'
+  id: '1648039'
+  piFirstName: James Yongxing
+  piLastName: Liu
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Arthroscopy Delivered Scaffolds to Repair and Regenerate
+    Meniscus for Aging Patients'
+- agency: NSF
+  awardeeCity: Ann Arbor
+  awardeeName: ParaBricks LLC
+  awardeeStateCode: MI
+  fundsObligatedAmt: '225000'
+  id: '1647990'
+  piFirstName: Mehrzad
+  piLastName: Samadiarakhshbahar
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Whole Genome Sequencing Data to Insight in One Hour'
+- agency: NSF
+  awardeeCity: CONCORD
+  awardeeName: BrainStem Biometrics
+  awardeeStateCode: MA
+  fundsObligatedAmt: '225000'
+  id: '1648567'
+  piFirstName: Mike
+  piLastName: Baltay
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Development and Testing of a Mini Wearable Device that Doctors
+    Can use to Know if it is too Soon or Not to Send A premature Baby Home'
+- agency: NSF
+  awardeeCity: Ann Arbor
+  awardeeName: Workit Health
+  awardeeStateCode: MI
+  fundsObligatedAmt: '225000'
+  id: '1648034'
+  piFirstName: Lisa
+  piLastName: McLaughlin
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  An Automated Tool to Measure and Predict Substance Use Recovery'
+- agency: NSF
+  awardeeCity: Akron
+  awardeeName: O2 RegenTech LLC
+  awardeeStateCode: OH
+  fundsObligatedAmt: '225000'
+  id: '1647555'
+  piFirstName: Andreas
+  piLastName: Inmann
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I: Tunable Oxygenating Biopolymer Hydrogel Dressings for Chronic
+    Wound Care'
+- agency: NSF
+  awardeeCity: Portland
+  awardeeName: Sympano, Inc.
+  awardeeStateCode: OR
+  fundsObligatedAmt: '225000'
+  id: '1647661'
+  piFirstName: Thomas
+  piLastName: Barrett
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Nanotechnology enabled point of care diagnosis for pneumonia
+    and sepsis'
+- agency: NSF
+  awardeeCity: San Diego
+  awardeeName: Biomed Simulation, Inc.
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1647785'
+  piFirstName: Richard
+  piLastName: Tallman
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Advancing Simulations with Clinical Scenarios to Enhance
+    Biomedical Training'
+- agency: NSF
+  awardeeCity: La Jolla
+  awardeeName: QELZAL CORPORATION
+  awardeeStateCode: CA
+  fundsObligatedAmt: '224950'
+  id: '1648560'
+  piFirstName: Olivier
+  piLastName: Coenen
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  High Performance Sense and Avoid'
+- agency: NSF
+  awardeeCity: Prospect
+  awardeeName: Breath Diagnostics, Inc.
+  awardeeStateCode: KY
+  fundsObligatedAmt: '225000'
+  id: '1648115'
+  piFirstName: Sadakatali
+  piLastName: Gori
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  A Chemoselective Microreactor for Breath Analysis'
+- agency: NSF
+  awardeeCity: Irvine
+  awardeeName: Inscent, Inc
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1648530'
+  piFirstName: Daniel
+  piLastName: Woods
+  publicAccessMandate: '1'
+  date: 12/10/2016
+  title: 'SBIR Phase I:  A Paradigm Shift in Vector Control: Targeted Larvicides'
+- agency: NSF
+  awardeeCity: Atlanta
+  awardeeName: Ipsum Nano, LLC
+  awardeeStateCode: GA
+  fundsObligatedAmt: '225000'
+  id: '1648323'
+  piFirstName: Michael
+  piLastName: Mangarella
+  publicAccessMandate: '1'
+  date: 12/10/2016
+  title: 'SBIR Phase I:  Carbide-derived Carbon Adsorbents for Ammonia Filtration'
+- agency: NSF
+  awardeeCity: Saint Paul
+  awardeeName: Dynation L. L. C.
+  awardeeStateCode: MN
+  fundsObligatedAmt: '225000'
+  id: '1647292'
+  piFirstName: Eric
+  piLastName: Morrison
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Lipoleosomes as Carriers for Topical Ibuprofen'
+- agency: NSF
+  awardeeCity: Englewood Cliffs
+  awardeeName: Innovative Elements, LLC
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '225000'
+  id: '1648039'
+  piFirstName: James Yongxing
+  piLastName: Liu
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Arthroscopy Delivered Scaffolds to Repair and Regenerate
+    Meniscus for Aging Patients'
+- agency: NSF
+  awardeeCity: Ann Arbor
+  awardeeName: ParaBricks LLC
+  awardeeStateCode: MI
+  fundsObligatedAmt: '225000'
+  id: '1647990'
+  piFirstName: Mehrzad
+  piLastName: Samadiarakhshbahar
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Whole Genome Sequencing Data to Insight in One Hour'
+- agency: NSF
+  awardeeCity: CONCORD
+  awardeeName: BrainStem Biometrics
+  awardeeStateCode: MA
+  fundsObligatedAmt: '225000'
+  id: '1648567'
+  piFirstName: Mike
+  piLastName: Baltay
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Development and Testing of a Mini Wearable Device that Doctors
+    Can use to Know if it is too Soon or Not to Send A premature Baby Home'
+- agency: NSF
+  awardeeCity: Ann Arbor
+  awardeeName: Workit Health
+  awardeeStateCode: MI
+  fundsObligatedAmt: '225000'
+  id: '1648034'
+  piFirstName: Lisa
+  piLastName: McLaughlin
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  An Automated Tool to Measure and Predict Substance Use Recovery'
+- agency: NSF
+  awardeeCity: Akron
+  awardeeName: O2 RegenTech LLC
+  awardeeStateCode: OH
+  fundsObligatedAmt: '225000'
+  id: '1647555'
+  piFirstName: Andreas
+  piLastName: Inmann
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I: Tunable Oxygenating Biopolymer Hydrogel Dressings for Chronic
+    Wound Care'
+- agency: NSF
+  awardeeCity: Madison
+  awardeeName: Varigen Biosciences Corp.
+  awardeeStateCode: WI
+  fundsObligatedAmt: '225000'
+  id: '1647958'
+  piFirstName: David
+  piLastName: Mead
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Novel Products for 100 Kb DNA Amplification'
+- agency: NSF
+  awardeeCity: Portland
+  awardeeName: Sympano, Inc.
+  awardeeStateCode: OR
+  fundsObligatedAmt: '225000'
+  id: '1647661'
+  piFirstName: Thomas
+  piLastName: Barrett
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Nanotechnology enabled point of care diagnosis for pneumonia
+    and sepsis'
+- agency: NSF
+  awardeeCity: San Diego
+  awardeeName: Biomed Simulation, Inc.
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1647785'
+  piFirstName: Richard
+  piLastName: Tallman
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  Advancing Simulations with Clinical Scenarios to Enhance
+    Biomedical Training'
+- agency: NSF
+  awardeeCity: La Jolla
+  awardeeName: QELZAL CORPORATION
+  awardeeStateCode: CA
+  fundsObligatedAmt: '224950'
+  id: '1648560'
+  piFirstName: Olivier
+  piLastName: Coenen
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  High Performance Sense and Avoid'
+- agency: NSF
+  awardeeCity: Prospect
+  awardeeName: Breath Diagnostics, Inc.
+  awardeeStateCode: KY
+  fundsObligatedAmt: '225000'
+  id: '1648115'
+  piFirstName: Sadakatali
+  piLastName: Gori
+  publicAccessMandate: '1'
+  date: 12/11/2016
+  title: 'SBIR Phase I:  A Chemoselective Microreactor for Breath Analysis'
+- agency: NSF
+  awardeeCity: Irvine
+  awardeeName: Inscent, Inc
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1648530'
+  piFirstName: Daniel
+  piLastName: Woods
+  publicAccessMandate: '1'
+  date: 12/10/2016
+  title: 'SBIR Phase I:  A Paradigm Shift in Vector Control: Targeted Larvicides'
+- agency: NSF
+  awardeeCity: Atlanta
+  awardeeName: Ipsum Nano, LLC
+  awardeeStateCode: GA
+  fundsObligatedAmt: '225000'
+  id: '1648323'
+  piFirstName: Michael
+  piLastName: Mangarella
+  publicAccessMandate: '1'
+  date: 12/10/2016
+  title: 'SBIR Phase I:  Carbide-derived Carbon Adsorbents for Ammonia Filtration'
+- agency: NSF
+  awardeeCity: Natick
+  awardeeName: INFINIUM, Inc.
+  awardeeStateCode: MA
+  fundsObligatedAmt: '225000'
+  id: '1648081'
+  piFirstName: Adam
+  piLastName: Powell
+  publicAccessMandate: '1'
+  date: 12/10/2016
+  title: 'SBIR Phase I:  Closed-Loop Lithium Reduction of Pure Scandium Metal'
+- agency: NSF
+  awardeeCity: Thousand Oaks
+  awardeeName: Spero Energy, Inc.
+  awardeeStateCode: CA
+  fundsObligatedAmt: '224992'
+  id: '1647923'
+  piFirstName: Ian
+  piLastName: Klein
+  publicAccessMandate: '1'
+  date: 12/10/2016
+  title: 'SBIR Phase I:  Manufacturing of Natural Isoeugenol and Ferulate from non-food
+    biomass as a precursor to biobased vanillin.'
+- agency: NSF
+  awardeeCity: Belleville
+  awardeeName: Integrated Construction Ent., Inc.
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '224999'
+  id: '1648288'
+  piFirstName: Sreenivas (Sid)
+  piLastName: Raman
+  publicAccessMandate: '1'
+  date: 12/10/2016
+  title: 'SBIR Phase I:  Painting and Overspray Capture System'
+- agency: NSF
+  awardeeCity: Madison
+  awardeeName: IDP Interactive  Degree Planner LLC
+  awardeeStateCode: WI
+  fundsObligatedAmt: '225000'
+  id: '1647478'
+  piFirstName: Robert
+  piLastName: Meyer
+  publicAccessMandate: '1'
+  date: 12/10/2016
+  title: 'SBIR Phase I:  Interest-Aligned College Degree Planning within an Optimized
+    Multiplan Framework'
+- agency: NSF
+  awardeeCity: Thibodaux
+  awardeeName: Bioinfoexperts, LLC
+  awardeeStateCode: LA
+  fundsObligatedAmt: '225000'
+  id: '1648053'
+  piFirstName: Susanna
+  piLastName: Lamers
+  publicAccessMandate: '1'
+  date: 12/10/2016
+  title: 'SBIR Phase I:  A Bioinformatics Software Application for Visualizing and
+    Evaluating Evolutionary Networks of Next-Generation Sequences'
+- agency: NSF
+  awardeeCity: Superior
+  awardeeName: Sudhin Biopharma Company
+  awardeeStateCode: CO
+  fundsObligatedAmt: '225000'
+  id: '1648370'
+  piFirstName: Dhinakar
+  piLastName: Kompala
+  publicAccessMandate: '1'
+  date: 12/10/2016
+  title: 'SBIR Phase I:  Novel compact cell settlers for high cell density perfusion
+    cultures of mammalian cells'
+- agency: NSF
+  awardeeCity: Raleigh
+  awardeeName: APPLIED LIFESCIENCES & SYSTEMS, LLC
+  awardeeStateCode: NC
+  fundsObligatedAmt: '225000'
+  id: '1647492'
+  piFirstName: Ramin
+  piLastName: Karimpour
+  publicAccessMandate: '1'
+  date: 12/10/2016
+  title: 'SBIR Phase I:  Innovative High Throughput Automated System for Individualized
+    Poultry Vaccination and Recognition and Removal of Unhealthy Chicks'
+- agency: NSF
+  awardeeCity: Pittsburgh
+  awardeeName: University of Pittsburgh
+  awardeeStateCode: PA
+  fundsObligatedAmt: '110861'
+  id: '1645246'
+  piFirstName: Andrew
+  piLastName: Bunger
+  publicAccessMandate: '1'
+  date: 12/09/2016
+  title: Self-Organization Mechanisms within Magma-Driven Dyke and Hydraulic Fracture
+    Swarms
+- agency: NSF
+  awardeeCity: BOZEMAN
+  awardeeName: Montana State University
+  awardeeStateCode: MT
+  fundsObligatedAmt: '20000'
+  id: '1660493'
+  piFirstName: Ross
+  piLastName: Carlson
+  publicAccessMandate: '1'
+  date: 12/09/2016
+  title: Metabolic Pathway Analysis 2017 Conference Proposal; Bozeman, Montana; June
+    24-28, 2017
+- agency: NSF
+  awardeeCity: Boulder
+  awardeeName: University of Colorado at Boulder
+  awardeeStateCode: CO
+  fundsObligatedAmt: '72603'
+  id: '1629698'
+  piFirstName: Joseph
+  piLastName: Ryan
+  publicAccessMandate: '0'
+  date: 12/09/2016
+  title: 'Collaborative Research: Investigation of the Effects of Organic Matter and
+    Sulfur in the Environmental Fate of Mercury'
+- agency: NSF
+  awardeeCity: MADISON
+  awardeeName: University of Wisconsin-Madison
+  awardeeStateCode: WI
+  fundsObligatedAmt: '29806'
+  id: '1643123'
+  piFirstName: Lucas
+  piLastName: Zoet
+  publicAccessMandate: '1'
+  date: 12/09/2016
+  title: 'NSFGEO-NERC: Collaborative Research: Two-Phase Dynamics of Temperate Ice'
+- agency: NSF
+  awardeeCity: AMES
+  awardeeName: Iowa State University
+  awardeeStateCode: IA
+  fundsObligatedAmt: '133106'
+  id: '1643120'
+  piFirstName: Neal
+  piLastName: Iverson
+  publicAccessMandate: '1'
+  date: 12/09/2016
+  title: 'NSFGEO-NERC: Collaborative Research: Two-Phase Dynamics of Temperate Ice'
+- agency: NSF
+  awardeeCity: Daly City
+  awardeeName: Novome Biotechnologies, Inc.
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1648230'
+  piFirstName: Weston
+  piLastName: Whitaker
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'SBIR Phase I:  Establishing a Synthetic Niche to Reliably Colonize the Human
+    Gut with Engineered Bacterial Therapeutics'
+- agency: NSF
+  awardeeCity: TEMPE
+  awardeeName: Arizona State University
+  awardeeStateCode: AZ
+  fundsObligatedAmt: '376107'
+  id: '1719537'
+  piFirstName: Steve
+  piLastName: Presse
+  publicAccessMandate: '0'
+  date: 12/08/2016
+  title: 'CAREER: Data-Driven Models for Biological Dynamics'
+- agency: NSF
+  awardeeCity: Boulder
+  awardeeName: University of Colorado at Boulder
+  awardeeStateCode: CO
+  fundsObligatedAmt: '6166'
+  id: '1719524'
+  piFirstName: Michael
+  piLastName: Willis
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'RAPID Collaborative research: Topographic change and cascading hazards following
+    the November 13th Mw7.8 Kaikoura (New Zealand) earthquake'
+- agency: NSF
+  awardeeCity: Ann Arbor
+  awardeeName: University of Michigan Ann Arbor
+  awardeeStateCode: MI
+  fundsObligatedAmt: '46517'
+  id: '1719496'
+  piFirstName: Marin
+  piLastName: Clark
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'RAPID: Collaborative Research: Topographic Change and Cascading Hazards
+    Following the Mw7.8 Kaikoura (New Zealand) Earthquake'
+- agency: NSF
+  awardeeCity: Cambridge
+  awardeeName: Massachusetts Institute of Technology
+  awardeeStateCode: MA
+  fundsObligatedAmt: '5000'
+  id: '1707700'
+  piFirstName: Janet
+  piLastName: Conrad
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: Support for the "Table Top Experiments with Skyscraper Reach" Workshop
+- agency: NSF
+  awardeeCity: Santa Barbara
+  awardeeName: University of California-Santa Barbara
+  awardeeStateCode: CA
+  fundsObligatedAmt: '51971'
+  id: '1704393'
+  piFirstName: Xin
+  piLastName: Zhou
+  publicAccessMandate: '0'
+  date: 12/08/2016
+  title: Investigation on Differential Geometry and General Relativity
+- agency: NSF
+  awardeeCity: San Jose
+  awardeeName: San Jose State University Foundation
+  awardeeStateCode: CA
+  fundsObligatedAmt: '162417'
+  id: '1703664'
+  piFirstName: Colleen
+  piLastName: Durkin
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'Collaborative Research: EAGER: Particle-specific DNA sequencing to directly
+    observe ecological mechanisms of the biological pump'
+- agency: NSF
+  awardeeCity: NOTRE DAME
+  awardeeName: University of Notre Dame
+  awardeeStateCode: IN
+  fundsObligatedAmt: '17820'
+  id: '1700379'
+  piFirstName: Matthew
+  piLastName: Gursky
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: Nonlinear Analysis in Rome
+- agency: NSF
+  awardeeCity: Raymond
+  awardeeName: Hinds Community College-Utica
+  awardeeStateCode: MS
+  fundsObligatedAmt: '1198965'
+  id: '1657174'
+  piFirstName: Mitchell
+  piLastName: Shears
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: Rural Girls Engaged in Math and Science Plus Technology
+- agency: NSF
+  awardeeCity: Ann Arbor
+  awardeeName: University of Michigan Ann Arbor
+  awardeeStateCode: MI
+  fundsObligatedAmt: '409259'
+  id: '1654223'
+  piFirstName: Corinna
+  piLastName: Schindler
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'CAREER: Enabling New Methodologies for the Synthesis of Polycyclic, Complex
+    Molecules'
+- agency: NSF
+  awardeeCity: Salt Lake City
+  awardeeName: Applied Biosensors, LLC
+  awardeeStateCode: UT
+  fundsObligatedAmt: '224979'
+  id: '1648079'
+  piFirstName: Prashant
+  piLastName: Tathireddy
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'SBIR Phase I:  In-line sensor for monitoring monoclonal antibody production
+    based on hydrogels containing peptide aptamers'
+- agency: NSF
+  awardeeCity: Saratoga Springs
+  awardeeName: Skidmore College
+  awardeeStateCode: NY
+  fundsObligatedAmt: '76915'
+  id: '1703422'
+  piFirstName: Margaret
+  piLastName: Estapa
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'Collaborative Research: EAGER: Particle-specific DNA sequencing to directly
+    observe ecological mechanisms of the biological pump'
+- agency: NSF
+  awardeeCity: NEW YORK
+  awardeeName: Columbia University
+  awardeeStateCode: NY
+  fundsObligatedAmt: '97000'
+  id: '1659528'
+  piFirstName: John
+  piLastName: Parsons
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'REU Site:   Nevis Labs, Columbia University for Summers 2017-2019'
+- agency: NSF
+  awardeeCity: Houston
+  awardeeName: William Marsh Rice University
+  awardeeStateCode: TX
+  fundsObligatedAmt: '499646'
+  id: '1659348'
+  piFirstName: Klara
+  piLastName: Jelinkova
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'CC* Networking Infrastructure: Improving Network Infrastructure to Enable
+    Large Scale Scientific Data Flows and Collaboration'
+- agency: NSF
+  awardeeCity: Kansas City
+  awardeeName: PatientsVoices, LLC
+  awardeeStateCode: MO
+  fundsObligatedAmt: '225000'
+  id: '1647616'
+  piFirstName: MaryKay
+  piLastName: O'Connor
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'SBIR Phase I:  Software for Developing Consumer-Driven Health Care Solutions'
+- agency: NSF
+  awardeeCity: KINGSTON
+  awardeeName: University of Rhode Island
+  awardeeStateCode: RI
+  fundsObligatedAmt: '59710'
+  id: '1703336'
+  piFirstName: Melissa
+  piLastName: Omand
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'Collaborative Research: EAGER: Particle-specific DNA sequencing to directly
+    observe ecological mechanisms of the biological pump'
+- agency: NSF
+  awardeeCity: MANHATTAN
+  awardeeName: Kansas State University
+  awardeeStateCode: KS
+  fundsObligatedAmt: '271772'
+  id: '1654793'
+  piFirstName: Emily
+  piLastName: McLaurin
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'CAREER: Microwave-Assisted Ionic Liquid Etching of Colloidal III-V Semiconductor
+    Nanocrystals'
+- agency: NSF
+  awardeeCity: West Kingston
+  awardeeName: Gordon Research Conferences
+  awardeeStateCode: RI
+  fundsObligatedAmt: '9600'
+  id: '1644770'
+  piFirstName: Evelyn
+  piLastName: Wang
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: '2017 Micro and Nanoscale Phase Change Heat Transfer: Fundamental Mechanisms
+    to Applications of Phase Change Heat Transfer GRC; Galveston, Texas; January 8-13,2017'
+- agency: NSF
+  awardeeCity: Old westbury
+  awardeeName: New York Institute of Technology
+  awardeeStateCode: NY
+  fundsObligatedAmt: '219346'
+  id: '1719432'
+  piFirstName: Nathan
+  piLastName: Thompson
+  publicAccessMandate: '0'
+  date: 12/07/2016
+  title: The Biomechanics of Specific Locomotion used by Our Closest Living Primate
+    Relatives
+- agency: NSF
+  awardeeCity: Columbus
+  awardeeName: Ohio State University
+  awardeeStateCode: OH
+  fundsObligatedAmt: '209321'
+  id: '1653300'
+  piFirstName: Adam
+  piLastName: Leroy
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'CAREER: Observing the Physics of Star Formation in Galaxies'
+- agency: NSF
+  awardeeCity: ORLANDO
+  awardeeName: University of Central Florida
+  awardeeStateCode: FL
+  fundsObligatedAmt: '190434'
+  id: '1663764'
+  piFirstName: Murat
+  piLastName: Yuksel
+  publicAccessMandate: '0'
+  date: 12/07/2016
+  title: 'NeTS: Small: Collaborative Research: Multi-Element Illuminication for Mobile
+    Free-Space-Optical Networks'
+- agency: NSF
+  awardeeCity: Dedham
+  awardeeName: ThinkIncubate, Inc.
+  awardeeStateCode: MA
+  fundsObligatedAmt: '0'
+  id: '1645623'
+  piFirstName: Shomeek
+  piLastName: Mukhopadhyay
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'SBIR Phase I:  Affordable On-Demand Additive Manufacturing'
+- agency: NSF
+  awardeeCity: Birmingham
+  awardeeName: University of Alabama at Birmingham
+  awardeeStateCode: AL
+  fundsObligatedAmt: '124458'
+  id: '1719684'
+  piFirstName: Dustin
+  piLastName: Kemp
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'Collaborative Research: Stability, flexibility, and functionality of thermally
+    tolerant coral symbioses'
+- agency: NSF
+  awardeeCity: Palo Alto
+  awardeeName: Stanford University
+  awardeeStateCode: CA
+  fundsObligatedAmt: '169265'
+  id: '1642184'
+  piFirstName: Carlos
+  piLastName: Bustamante
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'EAGER:  Establishing the genetic basis of hibernation by building and utilizing
+    a next-generation genomics resource for the model hibernator, the thirteen-lined
+    ground squirrel'
+- agency: NSF
+  awardeeCity: Pittsburgh
+  awardeeName: University of Pittsburgh
+  awardeeStateCode: PA
+  fundsObligatedAmt: '97164'
+  id: '1649557'
+  piFirstName: Thomas
+  piLastName: Nelson
+  publicAccessMandate: '0'
+  date: 12/07/2016
+  title: 'Collaborative Research: Engaging Introductory Astronomy Students in Authentic
+    Research through Citizen Science'
+- agency: NSF
+  awardeeCity: Santa Barbara
+  awardeeName: University of California-Santa Barbara
+  awardeeStateCode: CA
+  fundsObligatedAmt: '51971'
+  id: '1704393'
+  piFirstName: Xin
+  piLastName: Zhou
+  publicAccessMandate: '0'
+  date: 12/08/2016
+  title: Investigation on Differential Geometry and General Relativity
+- agency: NSF
+  awardeeCity: San Jose
+  awardeeName: San Jose State University Foundation
+  awardeeStateCode: CA
+  fundsObligatedAmt: '162417'
+  id: '1703664'
+  piFirstName: Colleen
+  piLastName: Durkin
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'Collaborative Research: EAGER: Particle-specific DNA sequencing to directly
+    observe ecological mechanisms of the biological pump'
+- agency: NSF
+  awardeeCity: NOTRE DAME
+  awardeeName: University of Notre Dame
+  awardeeStateCode: IN
+  fundsObligatedAmt: '17820'
+  id: '1700379'
+  piFirstName: Matthew
+  piLastName: Gursky
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: Nonlinear Analysis in Rome
+- agency: NSF
+  awardeeCity: Raymond
+  awardeeName: Hinds Community College-Utica
+  awardeeStateCode: MS
+  fundsObligatedAmt: '1198965'
+  id: '1657174'
+  piFirstName: Mitchell
+  piLastName: Shears
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: Rural Girls Engaged in Math and Science Plus Technology
+- agency: NSF
+  awardeeCity: Ann Arbor
+  awardeeName: University of Michigan Ann Arbor
+  awardeeStateCode: MI
+  fundsObligatedAmt: '409259'
+  id: '1654223'
+  piFirstName: Corinna
+  piLastName: Schindler
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'CAREER: Enabling New Methodologies for the Synthesis of Polycyclic, Complex
+    Molecules'
+- agency: NSF
+  awardeeCity: Salt Lake City
+  awardeeName: Applied Biosensors, LLC
+  awardeeStateCode: UT
+  fundsObligatedAmt: '224979'
+  id: '1648079'
+  piFirstName: Prashant
+  piLastName: Tathireddy
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'SBIR Phase I:  In-line sensor for monitoring monoclonal antibody production
+    based on hydrogels containing peptide aptamers'
+- agency: NSF
+  awardeeCity: Saratoga Springs
+  awardeeName: Skidmore College
+  awardeeStateCode: NY
+  fundsObligatedAmt: '76915'
+  id: '1703422'
+  piFirstName: Margaret
+  piLastName: Estapa
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'Collaborative Research: EAGER: Particle-specific DNA sequencing to directly
+    observe ecological mechanisms of the biological pump'
+- agency: NSF
+  awardeeCity: NEW YORK
+  awardeeName: Columbia University
+  awardeeStateCode: NY
+  fundsObligatedAmt: '97000'
+  id: '1659528'
+  piFirstName: John
+  piLastName: Parsons
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'REU Site:   Nevis Labs, Columbia University for Summers 2017-2019'
+- agency: NSF
+  awardeeCity: Houston
+  awardeeName: William Marsh Rice University
+  awardeeStateCode: TX
+  fundsObligatedAmt: '499646'
+  id: '1659348'
+  piFirstName: Klara
+  piLastName: Jelinkova
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'CC* Networking Infrastructure: Improving Network Infrastructure to Enable
+    Large Scale Scientific Data Flows and Collaboration'
+- agency: NSF
+  awardeeCity: Kansas City
+  awardeeName: PatientsVoices, LLC
+  awardeeStateCode: MO
+  fundsObligatedAmt: '225000'
+  id: '1647616'
+  piFirstName: MaryKay
+  piLastName: O'Connor
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'SBIR Phase I:  Software for Developing Consumer-Driven Health Care Solutions'
+- agency: NSF
+  awardeeCity: KINGSTON
+  awardeeName: University of Rhode Island
+  awardeeStateCode: RI
+  fundsObligatedAmt: '59710'
+  id: '1703336'
+  piFirstName: Melissa
+  piLastName: Omand
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'Collaborative Research: EAGER: Particle-specific DNA sequencing to directly
+    observe ecological mechanisms of the biological pump'
+- agency: NSF
+  awardeeCity: MANHATTAN
+  awardeeName: Kansas State University
+  awardeeStateCode: KS
+  fundsObligatedAmt: '271772'
+  id: '1654793'
+  piFirstName: Emily
+  piLastName: McLaurin
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: 'CAREER: Microwave-Assisted Ionic Liquid Etching of Colloidal III-V Semiconductor
+    Nanocrystals'
+- agency: NSF
+  awardeeCity: West Kingston
+  awardeeName: Gordon Research Conferences
+  awardeeStateCode: RI
+  fundsObligatedAmt: '9600'
+  id: '1644770'
+  piFirstName: Evelyn
+  piLastName: Wang
+  publicAccessMandate: '1'
+  date: 12/08/2016
+  title: '2017 Micro and Nanoscale Phase Change Heat Transfer: Fundamental Mechanisms
+    to Applications of Phase Change Heat Transfer GRC; Galveston, Texas; January 8-13,2017'
+- agency: NSF
+  awardeeCity: Old westbury
+  awardeeName: New York Institute of Technology
+  awardeeStateCode: NY
+  fundsObligatedAmt: '219346'
+  id: '1719432'
+  piFirstName: Nathan
+  piLastName: Thompson
+  publicAccessMandate: '0'
+  date: 12/07/2016
+  title: The Biomechanics of Specific Locomotion used by Our Closest Living Primate
+    Relatives
+- agency: NSF
+  awardeeCity: Columbus
+  awardeeName: Ohio State University
+  awardeeStateCode: OH
+  fundsObligatedAmt: '209321'
+  id: '1653300'
+  piFirstName: Adam
+  piLastName: Leroy
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'CAREER: Observing the Physics of Star Formation in Galaxies'
+- agency: NSF
+  awardeeCity: ORLANDO
+  awardeeName: University of Central Florida
+  awardeeStateCode: FL
+  fundsObligatedAmt: '190434'
+  id: '1663764'
+  piFirstName: Murat
+  piLastName: Yuksel
+  publicAccessMandate: '0'
+  date: 12/07/2016
+  title: 'NeTS: Small: Collaborative Research: Multi-Element Illuminication for Mobile
+    Free-Space-Optical Networks'
+- agency: NSF
+  awardeeCity: Dedham
+  awardeeName: ThinkIncubate, Inc.
+  awardeeStateCode: MA
+  fundsObligatedAmt: '0'
+  id: '1645623'
+  piFirstName: Shomeek
+  piLastName: Mukhopadhyay
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'SBIR Phase I:  Affordable On-Demand Additive Manufacturing'
+- agency: NSF
+  awardeeCity: Birmingham
+  awardeeName: University of Alabama at Birmingham
+  awardeeStateCode: AL
+  fundsObligatedAmt: '124458'
+  id: '1719684'
+  piFirstName: Dustin
+  piLastName: Kemp
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'Collaborative Research: Stability, flexibility, and functionality of thermally
+    tolerant coral symbioses'
+- agency: NSF
+  awardeeCity: Palo Alto
+  awardeeName: Stanford University
+  awardeeStateCode: CA
+  fundsObligatedAmt: '169265'
+  id: '1642184'
+  piFirstName: Carlos
+  piLastName: Bustamante
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'EAGER:  Establishing the genetic basis of hibernation by building and utilizing
+    a next-generation genomics resource for the model hibernator, the thirteen-lined
+    ground squirrel'
+- agency: NSF
+  awardeeCity: Pittsburgh
+  awardeeName: University of Pittsburgh
+  awardeeStateCode: PA
+  fundsObligatedAmt: '97164'
+  id: '1649557'
+  piFirstName: Thomas
+  piLastName: Nelson
+  publicAccessMandate: '0'
+  date: 12/07/2016
+  title: 'Collaborative Research: Engaging Introductory Astronomy Students in Authentic
+    Research through Citizen Science'
+- agency: NSF
+  awardeeCity: Fairbanks
+  awardeeName: University of Alaska Fairbanks Campus
+  awardeeStateCode: AK
+  fundsObligatedAmt: '325402'
+  id: '1650185'
+  piFirstName: Jessica
+  piLastName: Larsen
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'Experimental Constraints on Gas Permeability Development in Hydrous Intermediate
+    Magmas: Implications for Explosive Versus Effusive Eruption Styles'
+- agency: NSF
+  awardeeCity: Berkeley
+  awardeeName: MonoLets, Inc.
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1646925'
+  piFirstName: Osama
+  piLastName: Khan
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'SBIR Phase I:  Batteryless Single Chip Mote'
+- agency: NSF
+  awardeeCity: Oakland
+  awardeeName: Abricate Inc
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1647819'
+  piFirstName: Marc
+  piLastName: Roth
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'SBIR Phase I:  Maker Manufactured Platform'
+- agency: NSF
+  awardeeCity: Summit
+  awardeeName: Concurrent Wireless Inc.
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '221206'
+  id: '1647850'
+  piFirstName: Jianxun
+  piLastName: Zhu
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'SBIR Phase I:  Frequency-Translational Quadrature-Hybrid Transceivers for
+    Small-Cell Wireless Infrastructure'
+- agency: NSF
+  awardeeCity: Wilmette
+  awardeeName: StarSight Inc.
+  awardeeStateCode: IL
+  fundsObligatedAmt: '224844'
+  id: '1647888'
+  piFirstName: John
+  piLastName: Kohoutek
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'SBIR Phase I:  GHz Time-of-Flight Depth Sensing for Robotic Bin Picking'
+- agency: NSF
+  awardeeCity: New Berlin
+  awardeeName: Imagen Energy, LLC
+  awardeeStateCode: WI
+  fundsObligatedAmt: '224906'
+  id: '1648083'
+  piFirstName: Jason
+  piLastName: Katcha
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'SBIR Phase I:  Extremely Compact, High Efficiency, Integrated Converter
+    and Energy Storage System'
+- agency: NSF
+  awardeeCity: Fairfield
+  awardeeName: Ironic Chemicals LLC
+  awardeeStateCode: CT
+  fundsObligatedAmt: '225000'
+  id: '1648889'
+  piFirstName: Timothy
+  piLastName: Kernan
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'STTR Phase I:  Using mining waste as a feedstock for the production of chemicals
+    from CO2 with genetically engineered Acidithiobacillus ferrooxidans'
+- agency: NSF
+  awardeeCity: CHAMPAIGN
+  awardeeName: University of Illinois at Urbana-Champaign
+  awardeeStateCode: IL
+  fundsObligatedAmt: '352135'
+  id: '1713068'
+  piFirstName: Minjoo
+  piLastName: Lee
+  publicAccessMandate: '0'
+  date: 12/07/2016
+  title: Growth of Tensile Germanium  Nanowires Embedded in a III-V Matrix
+- agency: NSF
+  awardeeCity: Newark
+  awardeeName: University of Delaware
+  awardeeStateCode: DE
+  fundsObligatedAmt: '39742'
+  id: '1700994'
+  piFirstName: Dionisios
+  piLastName: Vlachos
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: Modular Manufacturing Workshop; Arlington, VA; January 17-18, 2017
+- agency: NSF
+  awardeeCity: TEMPE
+  awardeeName: Arizona State University
+  awardeeStateCode: AZ
+  fundsObligatedAmt: '52569'
+  id: '1650411'
+  piFirstName: Matthijs
+  piLastName: Van Soest
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: The Proterozoic Missing Link? Deposition, Volcanism, and Deformation between
+    1.6 and 1.45 Ga in the McDowell Mountains, south-central Arizona.
+- agency: NSF
+  awardeeCity: TEMPE
+  awardeeName: Arizona State University
+  awardeeStateCode: AZ
+  fundsObligatedAmt: '1127000'
+  id: '1637590'
+  piFirstName: Daniel
+  piLastName: Childers
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'LTER: CAP IV: Design with Nature: A Framework for Exploring Urban Ecology
+    and Sustainability'
+- agency: NSF
+  awardeeCity: Columbia
+  awardeeName: ThermoFlow Labs LLC.
+  awardeeStateCode: MO
+  fundsObligatedAmt: '225000'
+  id: '1648003'
+  piFirstName: Hsiu-hung
+  piLastName: Chen
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'SBIR Phase I:  Smart Window Film for Ultra-high Thermal and Acoustic Insulation'
+- agency: NSF
+  awardeeCity: Coralville
+  awardeeName: Innovas Technologies LLC
+  awardeeStateCode: IA
+  fundsObligatedAmt: '225000'
+  id: '1647586'
+  piFirstName: Michael
+  piLastName: Crocker
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'SBIR Phase I: Smart Diagnostic Cleaning/Sensor Balls for Use in Heat-Exchanger
+    Monitoring and Maintenance'
+- agency: NSF
+  awardeeCity: College Station
+  awardeeName: Texas A&M University Main Campus
+  awardeeStateCode: TX
+  fundsObligatedAmt: '445603'
+  id: '1713677'
+  piFirstName: Jessica
+  piLastName: Fitzsimmons
+  publicAccessMandate: '0'
+  date: 12/07/2016
+  title: 'GEOTRACES Arctic section: Dissolved micronutrient trace metal distributions
+    and size partitioning'
+- agency: NSF
+  awardeeCity: New Haven
+  awardeeName: Yale University
+  awardeeStateCode: CT
+  fundsObligatedAmt: '152650'
+  id: '1701923'
+  piFirstName: Minlan
+  piLastName: Yu
+  publicAccessMandate: '0'
+  date: 12/07/2016
+  title: 'NeTS: Small: Collaborative Research: Distributed Approximate Packet Classification'
+- agency: NSF
+  awardeeCity: Piscataway
+  awardeeName: Rutgers University New Brunswick
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '499412'
+  id: '1659232'
+  piFirstName: Michele
+  piLastName: Norin
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'CC* Networking Infrastructure: CICNet - The One-Rutgers Next Generation
+    Data Driven Research Network'
+- agency: NSF
+  awardeeCity: Cambridge
+  awardeeName: NewGrid, Inc
+  awardeeStateCode: MA
+  fundsObligatedAmt: '225000'
+  id: '1648071'
+  piFirstName: Stanton
+  piLastName: Cady
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'SBIR Phase I:  Agile Model Reduction for Topology Optimization Software'
+- agency: NSF
+  awardeeCity: Washington
+  awardeeName: Athena's Compass
+  awardeeStateCode: NC
+  fundsObligatedAmt: '225000'
+  id: '1648087'
+  piFirstName: Hunter
+  piLastName: Moore
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'SBIR Phase I:  Game-Based Chemistry'
+- agency: NSF
+  awardeeCity: Plant City
+  awardeeName: Harvest CROO, LLC
+  awardeeStateCode: FL
+  fundsObligatedAmt: '225000'
+  id: '1647566'
+  piFirstName: Robert
+  piLastName: Pitzer
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'SBIR Phase I: Orchestration of Multiple Robotic Subsystems into a Commercially
+    Viable Robotic Strawberry Harvesting System'
+- agency: NSF
+  awardeeCity: ORONO
+  awardeeName: University of Maine
+  awardeeStateCode: ME
+  fundsObligatedAmt: '49720'
+  id: '1704200'
+  piFirstName: Ivan
+  piLastName: Fernandez
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'RAPID:  Experimental Recovery at the Bear Brook Watershed in Maine'
+- agency: NSF
+  awardeeCity: New Haven
+  awardeeName: Yale University
+  awardeeStateCode: CT
+  fundsObligatedAmt: '321347'
+  id: '1650329'
+  piFirstName: Jay
+  piLastName: Ague
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: The Fate of Subducted Carbon Dioxide During Metamorphism, Syros and Tinos
+    Islands, Greece
+- agency: NSF
+  awardeeCity: Los Altos Hills
+  awardeeName: Colytix, Inc
+  awardeeStateCode: CA
+  fundsObligatedAmt: '224145'
+  id: '1646964'
+  piFirstName: Lori
+  piLastName: Silverman
+  publicAccessMandate: '1'
+  date: 12/07/2016
+  title: 'SBIR Phase I:  Mobile Platform for Student Goal-Setting & Engagement'
+- agency: NSF
+  awardeeCity: Tucson
+  awardeeName: University of Arizona
+  awardeeStateCode: AZ
+  fundsObligatedAmt: '136628'
+  id: '1720247'
+  piFirstName: Todd
+  piLastName: Schlenke
+  publicAccessMandate: '0'
+  date: 12/06/2016
+  title: 'Evolution Of Behavioral Immune Responses In Fruit Flies: Tradeoffs, Mechanisms,
+    And Genetics'
+- agency: NSF
+  awardeeCity: North Kingstown
+  awardeeName: Aquanis, Inc.
+  awardeeStateCode: RI
+  fundsObligatedAmt: '224969'
+  id: '1647597'
+  piFirstName: Neal
+  piLastName: Fine
+  publicAccessMandate: '1'
+  date: 12/06/2016
+  title: 'SBIR Phase I: Novel Plasma Actuator for Improved Wind Turbine Performance'
+- agency: NSF
+  awardeeCity: CHAPEL HILL
+  awardeeName: University of North Carolina at Chapel Hill
+  awardeeStateCode: NC
+  fundsObligatedAmt: '448458'
+  id: '1600506'
+  piFirstName: Kathleen
+  piLastName: Gray
+  publicAccessMandate: '0'
+  date: 12/06/2016
+  title: 'GP-IMPACT: Increasing Diversity and Enhancing Academia (IDEA-2.0): Institutionalizing
+    a framework for broadening participation in geosciences'
+- agency: NSF
+  awardeeCity: West Kingston
+  awardeeName: Gordon Research Conferences
+  awardeeStateCode: RI
+  fundsObligatedAmt: '6975'
+  id: '1653700'
+  piFirstName: Heather
+  piLastName: Hundley
+  publicAccessMandate: '1'
+  date: 12/06/2016
+  title: 'RNA Editing: Biology and Mechanisms of RNA and DNA Modification'
+- agency: NSF
+  awardeeCity: Fountain Valley
+  awardeeName: Pacific Advanced Civil Engineering, Inc.
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1648495'
+  piFirstName: Keisuke
+  piLastName: Ikehata
+  publicAccessMandate: '1'
+  date: 12/06/2016
+  title: 'SBIR Phase I: A Novel Photobiological Water Treatment Process for More Efficient
+    Water Recovery in Advanced Water Reclamation and Brackish Groundwater Desalination
+    Facilities'
+- agency: NSF
+  awardeeCity: Albuquerque
+  awardeeName: University of New Mexico
+  awardeeStateCode: NM
+  fundsObligatedAmt: '15050'
+  id: '1712077'
+  piFirstName: Brandon
+  piLastName: Schmandt
+  publicAccessMandate: '1'
+  date: 12/06/2016
+  title: From process to signal, a workshop to advance environmental seismology
+- agency: NSF
+  awardeeCity: Chicago
+  awardeeName: Influit Energy LLC
+  awardeeStateCode: IL
+  fundsObligatedAmt: '225000'
+  id: '1648092'
+  piFirstName: Elena
+  piLastName: Timofeeva
+  publicAccessMandate: '1'
+  date: 12/06/2016
+  title: 'SBIR Phase I:  High energy density, low cost, nano-enabled aqueous flow
+    battery suitable for transportation applications'
+- agency: NSF
+  awardeeCity: BERKELEY
+  awardeeName: University of California-Berkeley
+  awardeeStateCode: CA
+  fundsObligatedAmt: '500000'
+  id: '1700696'
+  piFirstName: Sergey
+  piLastName: Levine
+  publicAccessMandate: '1'
+  date: 12/06/2016
+  title: 'NRI: Collaborative Research: Learning Deep Sensorimotor Policies for Shared
+    Autonomy'
+- agency: NSF
+  awardeeCity: Dublin
+  awardeeName: The Samraksh Company
+  awardeeStateCode: OH
+  fundsObligatedAmt: '224963'
+  id: '1648337'
+  piFirstName: Kenneth
+  piLastName: Parker
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  Virtual Fences for Sustainable Protection'
+- agency: NSF
+  awardeeCity: Falmouth
+  awardeeName: Woods Hole Research Center
+  awardeeStateCode: MA
+  fundsObligatedAmt: '339691'
+  id: '1719621'
+  piFirstName: Linda
+  piLastName: Deegan
+  publicAccessMandate: '0'
+  date: 12/04/2016
+  title: 'Collaborative Research:  Ecosystem Evolution and Sustainability of Nutrient
+    Enriched Coastal Saltmarshes'
+- agency: NSF
+  awardeeCity: Seattle
+  awardeeName: Strange Loop Games Inc
+  awardeeStateCode: WA
+  fundsObligatedAmt: '225000'
+  id: '1648572'
+  piFirstName: John
+  piLastName: Krajewski
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  A Virtual-World Game for Augmenting the Classroom with Interdisciplinary,
+    Collaborative STEM Learning'
+- agency: NSF
+  awardeeCity: Leander
+  awardeeName: Silicon6, LLC
+  awardeeStateCode: TX
+  fundsObligatedAmt: '223996'
+  id: '1648347'
+  piFirstName: Keiwan
+  piLastName: Liang
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  Energy and Space Efficient Power Management Integrated Circuits
+    for Mobile Devices'
+- agency: NSF
+  awardeeCity: Corvallis
+  awardeeName: KW Associates LLC
+  awardeeStateCode: OR
+  fundsObligatedAmt: '225000'
+  id: '1647655'
+  piFirstName: Paul
+  piLastName: King
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  Vacuum Arc Control using Arc Position Sensing and Induced
+    Magnetic Fields'
+- agency: NSF
+  awardeeCity: Annapolis
+  awardeeName: SimQuest International LLC
+  awardeeStateCode: MD
+  fundsObligatedAmt: '224800'
+  id: '1647843'
+  piFirstName: Paul
+  piLastName: Novotny
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  Enhancing STEM Education via Virtual Reality Medical Simulation'
+- agency: NSF
+  awardeeCity: San Jose
+  awardeeName: DeepScale, Inc
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1648576'
+  piFirstName: Forrest
+  piLastName: Iandola
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  Energy-Efficient Perception for Autonomous Road Vehicles'
+- agency: NSF
+  awardeeCity: Santa Cruz
+  awardeeName: Joylabz LLC
+  awardeeStateCode: CA
+  fundsObligatedAmt: '224999'
+  id: '1648234'
+  piFirstName: Jay
+  piLastName: Silver
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  Making Makers-  Developing Multiple Pathways to Invention
+    through a Low Cost Maker Device'
+- agency: NSF
+  awardeeCity: Cambridge
+  awardeeName: Massachusetts Institute of Technology
+  awardeeStateCode: MA
+  fundsObligatedAmt: '124756'
+  id: '1646976'
+  piFirstName: Justin
+  piLastName: Reich
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'EAGER: Collaborative Research: Framing Learning for MOOC Student Success:
+    Using Pre-Course Survey Interventions to Support Student Persistence and Performance
+    in MOOCs'
+- agency: NSF
+  awardeeCity: Atlanta
+  awardeeName: Georgia Tech Research Corporation
+  awardeeStateCode: GA
+  fundsObligatedAmt: '201848'
+  id: '1661374'
+  piFirstName: Devi
+  piLastName: Parikh
+  publicAccessMandate: '0'
+  date: 12/02/2016
+  title: 'CAREER: Visual Question Answering (VQA)'
+- agency: NSF
+  awardeeCity: Santa Cruz
+  awardeeName: University of California-Santa Cruz
+  awardeeStateCode: CA
+  fundsObligatedAmt: '28742'
+  id: '1712790'
+  piFirstName: Francois
+  piLastName: Monard
+  publicAccessMandate: '0'
+  date: 12/02/2016
+  title: Coupled-physics imaging methods and geodesic X-ray transforms
+- agency: NSF
+  awardeeCity: Melbourne Beach
+  awardeeName: Codecraft Works, LLC
+  awardeeStateCode: FL
+  fundsObligatedAmt: '225000'
+  id: '1648069'
+  piFirstName: Rahul
+  piLastName: Thawal
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I: A Co-creation, Cross-curricular, Standard Aligned Computer
+    Science, Engineering, and Cybersecurity Education Technology Platform'
+- agency: NSF
+  awardeeCity: Beverly Hills
+  awardeeName: Vault Nano Inc
+  awardeeStateCode: CA
+  fundsObligatedAmt: '224931'
+  id: '1647632'
+  piFirstName: Oliver
+  piLastName: Foellmer
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I:  Development of a Large-scale Process for Production of Vault-Stabilized
+    Enzymes for Industrial Uses and Environmental Cleanup'
+- agency: NSF
+  awardeeCity: Cambridge
+  awardeeName: Harvard University
+  awardeeStateCode: MA
+  fundsObligatedAmt: '175243'
+  id: '1646978'
+  piFirstName: Dustin
+  piLastName: Tingley
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'EAGER: Collaborative Research: Framing Learning for MOOC Student Success:
+    Using Pre-Course Survey Interventions to Support Student Persistence and Performance
+    in MOOCs'
+- agency: NSF
+  awardeeCity: BOSTON
+  awardeeName: Northeastern University
+  awardeeStateCode: MA
+  fundsObligatedAmt: '46864'
+  id: '1719418'
+  piFirstName: Jennifer
+  piLastName: Bowen
+  publicAccessMandate: '0'
+  date: 12/02/2016
+  title: 'Collaborative Research:   Ecosystem Evolution and Sustainability of Nutrient
+    Enriched Coastal Saltmarshes'
+- agency: NSF
+  awardeeCity: Berkeley
+  awardeeName: California Wave Power Technologies, LLC
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1648834'
+  piFirstName: Marcus
+  piLastName: Lehmann
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'STTR Phase I: Wave Carpet Ocean Demonstration'
+- agency: NSF
+  awardeeCity: Baton Rouge
+  awardeeName: Louisiana Multi-Functional-Materials Group LLC
+  awardeeStateCode: LA
+  fundsObligatedAmt: '225000'
+  id: '1647650'
+  piFirstName: Lu
+  piLastName: Lu
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I:  Smart Two-Way Shape Memory Polymer Based Sealant'
+- agency: NSF
+  awardeeCity: Los Altos
+  awardeeName: EPIImaging, LLC
+  awardeeStateCode: CA
+  fundsObligatedAmt: '224900'
+  id: '1648388'
+  piFirstName: Henry
+  piLastName: Baker
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I:  Fingertip Ranging with Micro Light-Field Cameras'
+- agency: NSF
+  awardeeCity: Plainfield
+  awardeeName: Alcorix Co.
+  awardeeStateCode: IL
+  fundsObligatedAmt: '224938'
+  id: '1648219'
+  piFirstName: Nicolaie
+  piLastName: Moldovan
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I:  X-Ray Focusing Device for 20-100 keV Photon Energies'
+- agency: NSF
+  awardeeCity: Los Angeles
+  awardeeName: Niche Biomedical LLC
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1647917'
+  piFirstName: Yi-Kai
+  piLastName: Lo
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I:  Gastrointestinal Therapeutic Device for Alleviating Postoperative
+    Ileus'
+- agency: NSF
+  awardeeCity: Madison
+  awardeeName: Filament Games, LLC
+  awardeeStateCode: WI
+  fundsObligatedAmt: '225000'
+  id: '1648416'
+  piFirstName: Daniel
+  piLastName: White
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I:  STEM Finest Hour'
+- agency: NSF
+  awardeeCity: Arlington
+  awardeeName: University of Texas at Arlington
+  awardeeStateCode: TX
+  fundsObligatedAmt: '118776'
+  id: '1714826'
+  piFirstName: Yan
+  piLastName: Wan
+  publicAccessMandate: '0'
+  date: 12/02/2016
+  title: 'CPS: TTP Option: Synergy: Collaborative Research: Threat-Assessment Tools
+    for Management-Coupled Cyber- and Physical- Infrastructure'
+- agency: NSF
+  awardeeCity: TALLAHASSEE
+  awardeeName: Florida State University
+  awardeeStateCode: FL
+  fundsObligatedAmt: '185564'
+  id: '1704712'
+  piFirstName: Wan Kyu
+  piLastName: Park
+  publicAccessMandate: '0'
+  date: 12/02/2016
+  title: Quasiparticle Scattering and Tunneling Spectroscopic Studies on Kondo Lattices,
+    Topological Insulators and Superconductors
+- agency: NSF
+  awardeeCity: Austin
+  awardeeName: University of Texas at Austin
+  awardeeStateCode: TX
+  fundsObligatedAmt: '71970'
+  id: '1711858'
+  piFirstName: Daniel
+  piLastName: Wasserman
+  publicAccessMandate: '0'
+  date: 12/02/2016
+  title: 'CAREER:  Mid-Infrared Quantum Dot Cascade Lasers'
+- agency: NSF
+  awardeeCity: West Lafayette
+  awardeeName: PC Krause and Associates, Inc.
+  awardeeStateCode: IN
+  fundsObligatedAmt: '224999'
+  id: '1648007'
+  piFirstName: Alex
+  piLastName: Heltzel
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I:  Passive Radiative Composite Material'
+- agency: NSF
+  awardeeCity: San Diego
+  awardeeName: eGrove Education, LLC
+  awardeeStateCode: CA
+  fundsObligatedAmt: '224938'
+  id: '1648534'
+  piFirstName: Nathan
+  piLastName: Delson
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  Spatial Visualization Training with Touchscreens'
+- agency: NSF
+  awardeeCity: Dublin
+  awardeeName: The Samraksh Company
+  awardeeStateCode: OH
+  fundsObligatedAmt: '224963'
+  id: '1648337'
+  piFirstName: Kenneth
+  piLastName: Parker
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  Virtual Fences for Sustainable Protection'
+- agency: NSF
+  awardeeCity: Falmouth
+  awardeeName: Woods Hole Research Center
+  awardeeStateCode: MA
+  fundsObligatedAmt: '339691'
+  id: '1719621'
+  piFirstName: Linda
+  piLastName: Deegan
+  publicAccessMandate: '0'
+  date: 12/04/2016
+  title: 'Collaborative Research:  Ecosystem Evolution and Sustainability of Nutrient
+    Enriched Coastal Saltmarshes'
+- agency: NSF
+  awardeeCity: Seattle
+  awardeeName: Strange Loop Games Inc
+  awardeeStateCode: WA
+  fundsObligatedAmt: '225000'
+  id: '1648572'
+  piFirstName: John
+  piLastName: Krajewski
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  A Virtual-World Game for Augmenting the Classroom with Interdisciplinary,
+    Collaborative STEM Learning'
+- agency: NSF
+  awardeeCity: Leander
+  awardeeName: Silicon6, LLC
+  awardeeStateCode: TX
+  fundsObligatedAmt: '223996'
+  id: '1648347'
+  piFirstName: Keiwan
+  piLastName: Liang
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  Energy and Space Efficient Power Management Integrated Circuits
+    for Mobile Devices'
+- agency: NSF
+  awardeeCity: Corvallis
+  awardeeName: KW Associates LLC
+  awardeeStateCode: OR
+  fundsObligatedAmt: '225000'
+  id: '1647655'
+  piFirstName: Paul
+  piLastName: King
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  Vacuum Arc Control using Arc Position Sensing and Induced
+    Magnetic Fields'
+- agency: NSF
+  awardeeCity: PULLMAN
+  awardeeName: Washington State University
+  awardeeStateCode: WA
+  fundsObligatedAmt: '79127'
+  id: '1700482'
+  piFirstName: Hongfei
+  piLastName: Lin
+  publicAccessMandate: '0'
+  date: 12/04/2016
+  title: Sustainable Biofuels Production from Drought-tolerant Bioenergy Crops in
+    Marginal Environment
+- agency: NSF
+  awardeeCity: Annapolis
+  awardeeName: SimQuest International LLC
+  awardeeStateCode: MD
+  fundsObligatedAmt: '224800'
+  id: '1647843'
+  piFirstName: Paul
+  piLastName: Novotny
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  Enhancing STEM Education via Virtual Reality Medical Simulation'
+- agency: NSF
+  awardeeCity: San Jose
+  awardeeName: DeepScale, Inc
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1648576'
+  piFirstName: Forrest
+  piLastName: Iandola
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  Energy-Efficient Perception for Autonomous Road Vehicles'
+- agency: NSF
+  awardeeCity: Santa Cruz
+  awardeeName: Joylabz LLC
+  awardeeStateCode: CA
+  fundsObligatedAmt: '224999'
+  id: '1648234'
+  piFirstName: Jay
+  piLastName: Silver
+  publicAccessMandate: '1'
+  date: 12/04/2016
+  title: 'SBIR Phase I:  Making Makers-  Developing Multiple Pathways to Invention
+    through a Low Cost Maker Device'
+- agency: NSF
+  awardeeCity: Cambridge
+  awardeeName: Massachusetts Institute of Technology
+  awardeeStateCode: MA
+  fundsObligatedAmt: '124756'
+  id: '1646976'
+  piFirstName: Justin
+  piLastName: Reich
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'EAGER: Collaborative Research: Framing Learning for MOOC Student Success:
+    Using Pre-Course Survey Interventions to Support Student Persistence and Performance
+    in MOOCs'
+- agency: NSF
+  awardeeCity: Atlanta
+  awardeeName: Georgia Tech Research Corporation
+  awardeeStateCode: GA
+  fundsObligatedAmt: '201848'
+  id: '1661374'
+  piFirstName: Devi
+  piLastName: Parikh
+  publicAccessMandate: '0'
+  date: 12/02/2016
+  title: 'CAREER: Visual Question Answering (VQA)'
+- agency: NSF
+  awardeeCity: Santa Cruz
+  awardeeName: University of California-Santa Cruz
+  awardeeStateCode: CA
+  fundsObligatedAmt: '28742'
+  id: '1712790'
+  piFirstName: Francois
+  piLastName: Monard
+  publicAccessMandate: '0'
+  date: 12/02/2016
+  title: Coupled-physics imaging methods and geodesic X-ray transforms
+- agency: NSF
+  awardeeCity: Melbourne Beach
+  awardeeName: Codecraft Works, LLC
+  awardeeStateCode: FL
+  fundsObligatedAmt: '225000'
+  id: '1648069'
+  piFirstName: Rahul
+  piLastName: Thawal
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I: A Co-creation, Cross-curricular, Standard Aligned Computer
+    Science, Engineering, and Cybersecurity Education Technology Platform'
+- agency: NSF
+  awardeeCity: Beverly Hills
+  awardeeName: Vault Nano Inc
+  awardeeStateCode: CA
+  fundsObligatedAmt: '224931'
+  id: '1647632'
+  piFirstName: Oliver
+  piLastName: Foellmer
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I:  Development of a Large-scale Process for Production of Vault-Stabilized
+    Enzymes for Industrial Uses and Environmental Cleanup'
+- agency: NSF
+  awardeeCity: Cambridge
+  awardeeName: Harvard University
+  awardeeStateCode: MA
+  fundsObligatedAmt: '175243'
+  id: '1646978'
+  piFirstName: Dustin
+  piLastName: Tingley
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'EAGER: Collaborative Research: Framing Learning for MOOC Student Success:
+    Using Pre-Course Survey Interventions to Support Student Persistence and Performance
+    in MOOCs'
+- agency: NSF
+  awardeeCity: Berkeley
+  awardeeName: California Wave Power Technologies, LLC
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1648834'
+  piFirstName: Marcus
+  piLastName: Lehmann
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'STTR Phase I: Wave Carpet Ocean Demonstration'
+- agency: NSF
+  awardeeCity: BOSTON
+  awardeeName: Northeastern University
+  awardeeStateCode: MA
+  fundsObligatedAmt: '46864'
+  id: '1719418'
+  piFirstName: Jennifer
+  piLastName: Bowen
+  publicAccessMandate: '0'
+  date: 12/02/2016
+  title: 'Collaborative Research:   Ecosystem Evolution and Sustainability of Nutrient
+    Enriched Coastal Saltmarshes'
+- agency: NSF
+  awardeeCity: Baton Rouge
+  awardeeName: Louisiana Multi-Functional-Materials Group LLC
+  awardeeStateCode: LA
+  fundsObligatedAmt: '225000'
+  id: '1647650'
+  piFirstName: Lu
+  piLastName: Lu
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I:  Smart Two-Way Shape Memory Polymer Based Sealant'
+- agency: NSF
+  awardeeCity: Los Altos
+  awardeeName: EPIImaging, LLC
+  awardeeStateCode: CA
+  fundsObligatedAmt: '224900'
+  id: '1648388'
+  piFirstName: Henry
+  piLastName: Baker
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I:  Fingertip Ranging with Micro Light-Field Cameras'
+- agency: NSF
+  awardeeCity: Plainfield
+  awardeeName: Alcorix Co.
+  awardeeStateCode: IL
+  fundsObligatedAmt: '224938'
+  id: '1648219'
+  piFirstName: Nicolaie
+  piLastName: Moldovan
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I:  X-Ray Focusing Device for 20-100 keV Photon Energies'
+- agency: NSF
+  awardeeCity: Los Angeles
+  awardeeName: Niche Biomedical LLC
+  awardeeStateCode: CA
+  fundsObligatedAmt: '225000'
+  id: '1647917'
+  piFirstName: Yi-Kai
+  piLastName: Lo
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I:  Gastrointestinal Therapeutic Device for Alleviating Postoperative
+    Ileus'
+- agency: NSF
+  awardeeCity: Madison
+  awardeeName: Filament Games, LLC
+  awardeeStateCode: WI
+  fundsObligatedAmt: '225000'
+  id: '1648416'
+  piFirstName: Daniel
+  piLastName: White
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: 'SBIR Phase I:  STEM Finest Hour'
+- agency: NSF
+  awardeeCity: CLEMSON
+  awardeeName: Clemson University
+  awardeeStateCode: SC
+  fundsObligatedAmt: '71869'
+  id: '1719461'
+  piFirstName: Fei
+  piLastName: Xue
+  publicAccessMandate: '0'
+  date: 12/02/2016
+  title: Fast algorithms for large-scale nonlinear algebraic eigenproblems
+- agency: NSF
+  awardeeCity: Boston
+  awardeeName: Bunker Hill Community College
+  awardeeStateCode: MA
+  fundsObligatedAmt: '649894'
+  id: '1644008'
+  piFirstName: JoDe
+  piLastName: Lavine
+  publicAccessMandate: '1'
+  date: 12/02/2016
+  title: Rewarding Excellence For Leaders in Engineering, Computer Science, Technology,
+    and Science
+- agency: NSF
+  awardeeCity: CHARLOTTESVILLE
+  awardeeName: University of Virginia Main Campus
+  awardeeStateCode: VA
+  fundsObligatedAmt: '200000'
+  id: '1610936'
+  piFirstName: Leonid
+  piLastName: Zhigilei
+  publicAccessMandate: '0'
+  date: 12/01/2016
+  title: Multiscale Modeling of Laser-Induced Surface Nanostructuring of Metals
+- agency: NSF
+  awardeeCity: Palo Alto
+  awardeeName: Stanford University
+  awardeeStateCode: CA
+  fundsObligatedAmt: '130000'
+  id: '1608055'
+  piFirstName: Steven
+  piLastName: Kivelson
+  publicAccessMandate: '0'
+  date: 12/01/2016
+  title: Theory of order and fluctuations in quantum materials
+- agency: NSF
+  awardeeCity: East Lansing
+  awardeeName: Michigan State University
+  awardeeStateCode: MI
+  fundsObligatedAmt: '15000'
+  id: '1714144'
+  piFirstName: Michael
+  piLastName: Murillo
+  publicAccessMandate: '0'
+  date: 12/01/2016
+  title: 'Collaborative Research: Plasma Physics At Small Coulomb Logarithms'
+- agency: NSF
+  awardeeCity: BERKELEY
+  awardeeName: University of California-Berkeley
+  awardeeStateCode: CA
+  fundsObligatedAmt: '23388'
+  id: '1700869'
+  piFirstName: Darcy
+  piLastName: Barron
+  publicAccessMandate: '1'
+  date: 12/01/2016
+  title: Fifteenth Annual Symposium of the NSF Astronomy and Astrophysics Postdoctoral
+    Fellows
+- agency: NSF
+  awardeeCity: Ithaca
+  awardeeName: Cornell University
+  awardeeStateCode: NY
+  fundsObligatedAmt: '24405'
+  id: '1660568'
+  piFirstName: Timothy
+  piLastName: Riley
+  publicAccessMandate: '1'
+  date: 12/01/2016
+  title: Young Geometric Group Theory Meeting VI
+- agency: NSF
+  awardeeCity: West Lafayette
+  awardeeName: Purdue University
+  awardeeStateCode: IN
+  fundsObligatedAmt: '86758'
+  id: '1654676'
+  piFirstName: Zubin
+  piLastName: Jacob
+  publicAccessMandate: '1'
+  date: 12/01/2016
+  title: 'CAREER: Controlling Single Photon Interactions with K-Surface Engineered
+    Nanomaterials'
+- agency: NSF
+  awardeeCity: Stony Brook
+  awardeeName: SUNY at Stony Brook
+  awardeeStateCode: NY
+  fundsObligatedAmt: '180000'
+  id: '1606591'
+  piFirstName: Alexander
+  piLastName: Abanov
+  publicAccessMandate: '0'
+  date: 12/01/2016
+  title: Nonlinear and geometric effects in quantum condensed matter systems
+- agency: NSF
+  awardeeCity: Chicago
+  awardeeName: Read, Ask, Chat, Ltd.
+  awardeeStateCode: IL
+  fundsObligatedAmt: '225000'
+  id: '1646962'
+  piFirstName: Alice
+  piLastName: Letvin
+  publicAccessMandate: '1'
+  date: 12/01/2016
+  title: 'SBIR Phase I: Testing and Optimizing Digital Tools Aimed at Promoting Parent/Caregiver-Mediated
+    Dialogic Reading from Infancy to Kindergarten Entry'
+- agency: NSF
+  awardeeCity: Washington
+  awardeeName: George Washington University
+  awardeeStateCode: DC
+  fundsObligatedAmt: '31740'
+  id: '1712583'
+  piFirstName: Suresh
+  piLastName: Subramaniam
+  publicAccessMandate: '1'
+  date: 12/01/2016
+  title: JUNO 2016 PI Meeting
+- agency: NSF
+  awardeeCity: Minneapolis
+  awardeeName: University of Minnesota-Twin Cities
+  awardeeStateCode: MN
+  fundsObligatedAmt: '26000'
+  id: '1665006'
+  piFirstName: Vladimir
+  piLastName: Sverak
+  publicAccessMandate: '1'
+  date: 12/01/2016
+  title: The Twentieth Riviere-Fabes Symposium
+- agency: NSF
+  awardeeCity: CHAMPAIGN
+  awardeeName: University of Illinois at Urbana-Champaign
+  awardeeStateCode: IL
+  fundsObligatedAmt: '126133'
+  id: '1654065'
+  piFirstName: Robert
+  piLastName: Maass
+  publicAccessMandate: '1'
+  date: 12/01/2016
+  title: 'CAREER:  Spatiotemporal Avalanche Kinetics in Size-Dependent Crystal Plasticity'
+- agency: NSF
+  awardeeCity: Brockport
+  awardeeName: SUNY College at Brockport
+  awardeeStateCode: NY
+  fundsObligatedAmt: '26385'
+  id: '1645272'
+  piFirstName: Gabriel
+  piLastName: Prajitura
+  publicAccessMandate: '1'
+  date: 12/01/2016
+  title: Northeastern Analysis Meeting (NEAM) 2016
+- agency: NSF
+  awardeeCity: CHARLOTTESVILLE
+  awardeeName: University of Virginia Main Campus
+  awardeeStateCode: VA
+  fundsObligatedAmt: '200000'
+  id: '1610936'
+  piFirstName: Leonid
+  piLastName: Zhigilei
+  publicAccessMandate: '0'
+  date: 12/01/2016
+  title: Multiscale Modeling of Laser-Induced Surface Nanostructuring of Metals
+- agency: NSF
+  awardeeCity: Palo Alto
+  awardeeName: Stanford University
+  awardeeStateCode: CA
+  fundsObligatedAmt: '130000'
+  id: '1608055'
+  piFirstName: Steven
+  piLastName: Kivelson
+  publicAccessMandate: '0'
+  date: 12/01/2016
+  title: Theory of order and fluctuations in quantum materials
+funding_applications_active_total: 96964016.0
+funding_per_active_application: 220874.75
+applications_active_total: 439
+states_total: 53
+states:
+- AK
+- AL
+- AR
+- AZ
+- CA
+- CO
+- CT
+- DC
+- DE
+- FL
+- GA
+- HI
+- IA
+- ID
+- IL
+- IN
+- KS
+- KY
+- LA
+- MA
+- MD
+- ME
+- MI
+- MN
+- MO
+- MS
+- MT
+- NC
+- ND
+- NE
+- NH
+- NJ
+- NM
+- NV
+- NY
+- OH
+- OK
+- OR
+- PA
+- PR
+- RI
+- SC
+- SD
+- TN
+- TX
+- UT
+- VA
+- VI
+- VT
+- WA
+- WI
+- WV
+- WY
+active_date_range: 11/30/2016 – Now
+---
+
