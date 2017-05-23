@@ -1,9 +1,9 @@
-<ul>
+<ul class="pd-list">
 {% for topic in site.data.tech-topics %}
   {% for programDirector in topic.programDirector %}
     <li>
        {% if programDirector.photo %}
-        <img src="/assets/img/pd/{{ programDirector.photo }}">
+        <img src="{{ site.baseurl }}/assets/img/pd/{{ programDirector.photo }}">
        {% endif %}
       <a href="mailto:{{ programDirector.email }}">{{ programDirector.name }}</a> - {{ topic.topic }}
     </li>
