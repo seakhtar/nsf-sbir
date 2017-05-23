@@ -30,8 +30,16 @@ h6 {
 .usa-footer-logo-img {
   max-width: 5rem;
 }
-.usa-logo  img{
-  height: 40px;
+
+.usa-logo {
+
+  img {
+    height: 40px;
+  }
+
+  a {
+    display: block;
+  }
 }
 
 .usa-content {
