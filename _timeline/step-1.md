@@ -8,8 +8,6 @@ description: Make sure your company is incorporated and meets these eligibility 
 - The project’s tech lead (Principal Investigator) must be legally employed at least 20 hours a week by the company seeking funding. The tech lead doesn’t need any advanced degrees.
 - The tech lead needs to commit to at least one month (173 hours) of work on a funded project per six months of project duration.
 
-To see if your company is a good fit, review our evaluation criteria and consider submitting an executive summary to get feedback from our program directors.
-
 **Criteria**
 
 Here are the criteria we use to determine which companies to fund:
