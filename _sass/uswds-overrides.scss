@@ -34,6 +34,16 @@ h6 {
 .usa-grid-center, .usa-grid-center:last-child {
   float: none;
   margin: 0 auto;
+
+.usa-logo {
+
+  img {
+    height: 40px;
+  }
+
+  a {
+    display: block;
+  }
 }
 
 .usa-content {
