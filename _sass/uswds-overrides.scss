@@ -31,6 +31,17 @@ h6 {
   max-width: 5rem;
 }
 
+.usa-logo {
+
+  img {
+    height: 40px;
+  }
+
+  a {
+    display: block;
+  }
+}
+
 .usa-content {
   li {
     max-width: $text-max-width;
