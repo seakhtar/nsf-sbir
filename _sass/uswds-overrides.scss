@@ -31,6 +31,11 @@ h6 {
   max-width: 5rem;
 }
 
+.usa-grid-center, .usa-grid-center:last-child {
+  float: none;
+  margin: 0 auto;
+}
+
 .usa-logo {
 
   img {
