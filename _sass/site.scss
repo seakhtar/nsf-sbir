@@ -1,8 +1,6 @@
 
 .section-goodfit {
   background-color: $goodfit-bg-color;
-  color: $color-primary-darker;
-
   a {
     color: $color-white;
   }
@@ -11,13 +9,23 @@
   background-color: $about-bg-color;
 }
 .section-intro {
-  background-color: $intro-bg-color
+  background-color: $intro-bg-color;
+  p {
+    font-size: $font-size-s;
+  }
 }
 
-.small-header {
-  font-size: 1.7rem;
-}
+.divider,
+.divider:first-child {
+  border: 0;
+  border-top: 1px solid $color-white;
+  display: block;
+  margin-bottom: 5rem;
+  margin-top: 5rem;
+  text-align: center;
+  width: 10%;
 
-.large-header {
-  font-size: 2.5rem;
+  &.divider-left {
+    display: inline-block;
+  }
 }
