@@ -5,7 +5,10 @@
        {% if programDirector.photo %}
         <img src="{{ site.baseurl }}/assets/img/pd/{{ programDirector.photo }}">
        {% endif %}
-      <a href="mailto:{{ programDirector.email }}">{{ programDirector.name }}</a> - {{ topic.topic }}
+       <span class="pd-list-content">
+      <h3 class="pd-name"><a href="mailto:{{ programDirector.email }}">{{ programDirector.name }}</a></h3>
+      <span class="pd-tech-topic add-arrow">{{ topic.topic }}</span>
+    </span>
     </li>
   {% endfor %}
 {% endfor %}
