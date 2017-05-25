@@ -8,11 +8,11 @@ hero:
   image:
   callout:
     alt:
-    text: UP TO $225,000 SEED FUNDING.<span class="subtext">0% EQUITY.</span>
+    text: Up to $225,000 seed funding.<span class="subtext">0% equity.</span>
   button:
     href: /how-to-apply/
-    text: "&rarr; Start your application"
-    subtext: "(Deadline: June 14, 2017)"
+    text: "Start your application"
+    subtext: "Deadline:"
 ---
 
 
@@ -20,26 +20,51 @@ hero:
 <div class="usa-grid">
 <div class="usa-width-one-third" markdown="1">
 <h2 class="small-header">Seed capital for early-stage product development</h2>
-We offer funding for early-stage R&D and take no equity in your company. You retain full control over your team, the direction of your work, and your intellectual property.
+
+We offer funding for early-stage R&D and take no equity in your company — you retain full control over your team, the direction of your work, and your intellectual property.
+
+<a class="usa-button usa-button-primary button-arrow" href="#">
+Learn more
+</a>
+
 </div>
 <div class="usa-width-one-third" markdown="1">
-<h2 class="small-header">Access to our network</h2>
-Attend dozens of annual events — road shows, conferences, and more — to build lasting bonds with entrepreneurs and innovators.
+<h2 class="small-header">Access to our network of innovators and industry experts</h2>
+
+Attend dozens of annual events — conferences, road shows, and more — and build lasting bonds with industry leaders.
+
+<a class="usa-button usa-button-primary button-arrow" href="#">
+View events
+</a>
+
 </div>
 <div class="usa-width-one-third" markdown="1">
 <h2 class="small-header">A diverse portfolio</h2>
-We offer much more than academic research grants. In fact, we fund startups from nearly all tech sectors, including IoT, edtech, smart health, and much more.
+
+We offer much more than academic research grants. In fact, we fund startups from varied technology sectors, including IoT, edtech, smart health, robotics, and much more.
+
+<a class="usa-button usa-button-primary button-arrow" href="#">
+View our portfolio
+</a>
+
 </div>
 </div>
 </section>
 
 <section class="usa-section usa-section-alt-bg usa-content section-goodfit">
-<div class="usa-grid">
-<div class="usa-width-two-thirds usa-grid-center usa-content" markdown="1">
-<h2 class="large-header">What we look for</h2>
-We’re looking to support groundbreaking, technically risky work that needs more research and development. As we review applications, we consider your company’s innovativeness, commercial plan, and possible social impact.
+<div class="usa-grid" markdown="1">
+**America's Seed Fund**<br>
+The National Science Foundation<br>
+SBIR &#124; STTR
 
-[Am I a good fit?](#)
+<div class="usa-width-two-thirds usa-grid-center usa-content" markdown="1">
+<hr class="divider divider-left">
+<p class="lead">We’re looking to support research and development of groundbreaking, high-risk technology. As we review applications, we consider your technology’s innovativeness, commercial plan, and possible social impact.</p>
+
+<a class="usa-button usa-button-secondary usa-button-big button-arrow" href="#">
+View recent awardees
+</a>
+
 </div>
 </div>
 </section>
@@ -48,14 +73,23 @@ We’re looking to support groundbreaking, technically risky work that needs mor
 <section class="usa-section usa-content section-about">
 <div class="usa-grid">
 <div class="usa-width-one-half" markdown="1">
-<h2 class="large-header">About America's Seed Fund</h2>
-Since 1977, America's Seed Fund (formerly known as NSF SBIR/STTR) has helped startups develop their ideas and bring them to market. Between 2007 and 2016 alone, we funded roughly 400 companies each year.
+<h2 class="large-header">We are America's Seed Fund</h2>
 
-<a href="#" class="usa-lead">Check out our portfolio</a>
+Since 1977, America’s Seed Fund (formerly known as NSF SBIR/STTR) has helped startups develop their ideas and bring them to market. From 2007 and 2016 alone, we funded roughly 400 companies each year.
+
+<a class="usa-button usa-button-primary button-arrow" href="#">
+Learn about our impact
+</a>
+
 </div>
 <div class="usa-width-one-half" markdown="1">
-<h2 class="large-header">We embrace diversity</h2>
+<h2 class="large-header">We value diversity</h2>
 
 Great ideas aren’t limited by geography, and we seek to fund companies both inside and outside the major tech hotbeds. We encourage the work of socially and economically disadvantaged people, first-time entrepreneurs, and folks who are traditionally underrepresented in tech.
+
+<a class="usa-button usa-button-primary button-arrow" href="#">
+What we look for
+</a>
+
 </div></div>
 </section>

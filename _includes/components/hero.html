@@ -21,10 +21,10 @@
         {% endif %}
         {{ hero.content | markdownify }}
         {% if hero.button %}
-        <a class="usa-button usa-button-big usa-button-secondary"
+        <a class="usa-button usa-button-big usa-button-secondary button-arrow"
           href="{{ hero.button.href | relative_url }}">
           {{ hero.button.text }}
-          <span class="subtext">{{ hero.button.subtext }}</span>
+          <span class="subtext">{{ hero.button.subtext }} {{site.deadline}}</span>
         </a>
         {% endif %}
 </div>
