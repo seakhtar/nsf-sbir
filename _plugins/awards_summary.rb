@@ -56,20 +56,23 @@ module SiteData
       @awards.length
     end
 
-    def active_date_start
-      @util.to_date(@site_config['active_date_start'])
+    def active_start_date
+      @util.to_date(@site_config['active_start_date'])
     end
 
-    def active_date_start_string
-      @util.to_date_string(active_date_start)
+    def active_start_date_string
+      @util.to_date_string(active_start_date)
     end
 
     def active_date_range
-      "#{active_date_start_string} – Now"
+      "#{active_start_date_string} – Now"
     end
 
     def applications_active
-      @awards.select { |a| @util.to_date(a['date']) > active_date_start }
+      @awards.select do |a|
+        expDate = a['expDate'] || a['date']
+        @util.to_date(expDate) > active_start_date
+      end
     end
 
     def funding_applications_active_total
@@ -95,7 +98,7 @@ module SiteData
       @awards_summary['funding_per_company'] = funding_per_company
       @awards_summary['applications_total'] = applications_total
       @awards_summary['applications_active'] = applications_active
-      @awards_summary['active_date_start_string'] = active_date_start_string
+      @awards_summary['active_start_date_string'] = active_start_date_string
       @awards_summary['active_date_range'] = active_date_range
       @awards_summary['funding_applications_active_total'] = funding_applications_active_total
       @awards_summary['funding_per_active_application'] = funding_per_active_application

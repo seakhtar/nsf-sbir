@@ -70,11 +70,11 @@ module SiteData
         puts "the awards config is unchanged"
         @awards
       else
-        awards = configs.map do | config |
+        awards = configs.map do |config|
           SiteData::AwardsApi.new.get(config)
         end
 
-        if !awards.empty?
+        if !awards.empty? && config_params['reset'] != true
           last = awards.pop
           awards << @awards
           awards << last

@@ -49,3 +49,16 @@ api_awards:
 <p>Funds Received: {{ release.fundsObligatedAmt | round | intcomma_dollar }}</p>
 <hr>
 {% endfor %}
+
+# Topics
+
+{% for topic in site.data.tech-topics %}
+  <h3>{{ topic.topic }}</h3>
+  {% assign po_name = topic.programDirector[0].name %}
+
+  {% assign matching_awards = site.data.awards | where:'poName', po_name %}
+  <p>{{ po_name }}</p>
+  {% for matching in matching_awards %}
+    <p>{{ matching.awardeeName }}</p>
+  {% endfor %}
+{% endfor %}
