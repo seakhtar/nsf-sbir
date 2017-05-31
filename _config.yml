@@ -22,12 +22,20 @@ collections:
     output: false
   timeline:
     output: false
+  styleguide:
+    output: true
+    permalink: /styleguide/:path/
 
 defaults:
   - scope:
       path: "_apply"
     values:
       layout: docs
+  - scope:
+      path: "_styleguide"
+    values:
+      layout: styleguide
+      include_subnav: true
 
 awards_api:
   date_start: '06/01/2016'
