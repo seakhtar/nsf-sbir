@@ -20,7 +20,6 @@
     {% else %}
       {% assign is_matching = page.url | matches_url: item.permalink %}
     {% endif %}
-
     <a href="{{ item_link }}" {% if is_matching %}class="usa-current"{% endif %}>{{ item.text }}</a>
     {% if item.children and is_matching %}
       <ul class="usa-sidenav-sub_list">

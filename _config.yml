@@ -1,6 +1,7 @@
 title: NSF SBIR
 theme: uswds-jekyll
 
+url: https://seedfund.nsf.gov
 baseurl: ""
 permalink: pretty
 deadline: June 14th, 2017
