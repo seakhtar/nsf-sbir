@@ -1,18 +1,32 @@
+.section-header {
+  background-color: $light-blue-bg-color;
+  p {
+    font-size: $font-size-m;
+    line-height: 1.5;
+  }
+}
 
 .section-goodfit {
-  background-color: $goodfit-bg-color;
+  background-color: $bold-bg-color;
+
   a {
     color: $color-white;
   }
 }
-.section-about {
-  background-color: $about-bg-color;
+
+.section-about-asf {
+  background-color: $light-blue-bg-color;
 }
+
 .section-intro {
-  background-color: $intro-bg-color;
+  background-color: $light-blue-bg-color;
   p {
-    font-size: $font-size-s;
+    font-size: $font-size-xs;
   }
+}
+
+.section-program-directors {
+  background: $light-gray-bg-color;
 }
 
 .divider,
@@ -27,5 +41,17 @@
 
   &.divider-left {
     display: inline-block;
+  }
+}
+
+
+#main-content {
+  a {
+    text-decoration: none;
+    border-bottom: 1px dotted $color-primary;
+    color: $color-primary;
+  }
+  &:visited {
+    
   }
 }
