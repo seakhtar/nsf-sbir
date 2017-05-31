@@ -34,6 +34,7 @@ $margins-width: $sliding-panel-width + (2 * $site-margins);
   position: fixed;
   width: 100%;
   z-index: 10;
+  background-color: #fff;
 
   a {
     align-items: center;
