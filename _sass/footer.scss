@@ -15,16 +15,24 @@
   h6 {
     font-size: $font-size-xs;
   }
+  a {
+    color: $color-primary;
+  }
 }
 
 .usa-footer-nav {
   li {
     margin: 0;
+    padding-right: $space-xs;
   }
   .usa-footer-primary-link {
     font-weight: normal;
-    padding-bottom: .5rem;
-    padding-top: .5rem;
+    padding-bottom: $space-xs;
+    padding-top: $space-xs;
     font-size: $font-size-xxs;
+    color: $color-primary;
+    &:hover {
+      text-decoration: none;
+    }
   }
 }

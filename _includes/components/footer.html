@@ -47,7 +47,7 @@
             </nav>
         {% endif %}
       </div>
-      <div class="usa-footer-contact-links usa-width-one-third">
+      <div class="usa-width-one-third">
 
         {% assign contact_links = site.data.navigation[footer.contact.links] | default: footer.contact.links %}
         {% for _link in contact_links %}
@@ -62,10 +62,10 @@
           {{ footer.contact.content | markdownify }}
         {% endif %}
         {% if footer.social.Twitter_url %}
-          <a href="{{ footer.social.Twitter_url }}">Twitter</a>
+          <a href="{{ footer.social.Twitter_url }}" class="social-link"><img src="{{site.baseurl}}/assets/uswds/img/social-icons/svg/twitter16.svg"></a>
         {% endif %}
         {% if footer.social.Youtube_url %}
-          <a href="{{ footer.social.Youtube_url }}">YouTube</a>
+          <a href="{{ footer.social.Youtube_url }}" class="social-link"><img src="{{site.baseurl}}/assets/uswds/img/social-icons/svg/youtube15.svg"></a>
         {% endif %}
 
       </div>
