@@ -9,27 +9,30 @@ permalink: /styleguide/typography/
   <section class="usa-grid-full">
     <div class="usa-width-two-thirds usa-section">
       <div class="box-base-wrapper">
-        <span class="intro-font">$font-sans: Helvetica Neue (Helvetica, Arial, sans serif)</span>
-        <div class="h5">$color-base: #000000</div>
+      $font-serif: 'Work Sans', sans-serif;<br>
+      $font-mono: 'Overpass Mono', monospace;<br>
+      $font-sans: 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', Arial, sans-serif;<br>
       </div>
       <div class="box-rem-wrapper" style="">
         <div class="box-rem"></div><span>1rem = 10px</span>
       </div>
     </div>
   </section>
-  <div class="usa-width-one-half">
-    <p>Helvetica Neue, Regular</p>
+  <div class="usa-width-one-half font-sans">
+    <p>Work Sans</p>
     <div class="text-huge"> Aa </div>
     <p>A B C D E F G H I J K L M N O P Q R S T U V W Z Y Z</p>
     <p>a b c d e f g h i j k l m n o p q r s t u v w x y z</p>
     <p>0 1 2 3 4 5 6 7 8 9</p>
+    <a href="https://fonts.google.com/specimen/Work+Sans">More information</a>
   </div>
-  <div class="usa-width-one-half p-bold">
-    <p>Helvetica Neue, Bold</p>
+  <div class="usa-width-one-half font-mono">
+    <p>Overpass Mono</p>
     <div class="text-huge"> Aa </div>
     <p>A B C D E F G H I J K L M N O P Q R S T U V W Z Y Z</p>
     <p>a b c d e f g h i j k l m n o p q r s t u v w x y z</p>
     <p>0 1 2 3 4 5 6 7 8 9</p>
+    <a href="https://fonts.google.com/specimen/Overpass+Mono">More information</a>
   </div>
 </section>
 
