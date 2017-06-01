@@ -2,8 +2,7 @@
 title: Portfolio
 permalink: /portfolio/
 featuredCompanies:
-
-layout: secondary
+layout: secondary-narrow
 ---
 
 # Portfolio
@@ -16,3 +15,4 @@ layout: secondary
 <p class="usa-font-lead"><b>We’re technology agnostic.</b><br>  Each year, we fund roughly 400 companies across nearly all technology and market sectors.</p>
 
 {% include tech-subtopics.html %}
+</div>

@@ -27,7 +27,7 @@ defaults:
   - scope:
       path: "_apply"
     values:
-      layout: docs
+      layout: secondary-narrow
 
 awards_api:
   date_start: '06/01/2016'
