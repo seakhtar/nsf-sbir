@@ -119,3 +119,30 @@ h6 {
   display: inline-block;
   font-family: $font-serif;
 }
+
+.usa-nav {
+  background: rgba(255,255,255,.8);
+  padding: 0;
+  margin-top: 3.8rem;
+      li {
+        margin: 0;
+      a {
+        color: $color-base;
+        font-family: $font-mono;
+        font-size: $font-size-xxs;
+        &:hover {
+          background-color: $color-secondary;
+          border: 0;
+          span {
+            border: 0;
+          }
+        }
+      }
+    }
+  }
+
+
+
+.usa-header {
+    border: 0;
+}

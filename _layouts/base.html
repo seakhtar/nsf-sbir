@@ -9,7 +9,11 @@
   <body class="{{ layout.class }} {{ page.class }}">
 
     {% include skipnav.html %}
-    {% include header.html %}
+    {% include banner.html %}
+    {% if page.layout == 'landing' %}
+    {% else %}
+      {% include header.html %}
+    {% endif %}
 
     <main id="main-content"{% for _attr in layout.main %} {{ _attr[0] }}="{{ _attr[1] }}"{% endfor %}>
     {{ content }}

@@ -2,7 +2,7 @@
   background-color: $hero-bg-color;
   background-image: none;
   padding-bottom: 6rem;
-  padding-top: 6rem;
+  padding-top: 0;
 
   h2 {
     color: $color-white;
@@ -42,5 +42,7 @@
       color: initial;
     }
     }
-
+.usa-header {
+  margin-bottom: 6rem;
+}
 }
