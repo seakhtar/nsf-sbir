@@ -160,23 +160,10 @@ $font-normal | `p-normal` (only needs to be used to be used to override another 
 
 {% capture codeblock %}{% raw %}
 <div class="styleguide-links-section">
-  <a>Link</a>
-  <a class="visited">Visited</a>
+  <a href="#">Active Link</a>
+  <a href="#" class="visited">Visited</a>
 </div>
-<div class="styleguide-links-section">
-  <a class="link-arrow-right">
-    Link
-    {% include svg/icons/arrow-right.svg %}
-  </a>
-  <a class="link-arrow-left">
-    {% include svg/icons/arrow-left.svg %}
-    Back
-  </a>
-  <a class="link-arrow-right visited">
-    Visited
-    {% include svg/icons/arrow-right.svg %}
-  </a>
-</div>
+
 {% endraw %}{% endcapture %}
 {% include /styleguide/details-code.html
    description='To use a link, specify the text, direction that the arrow is pointing, and reference the SVG file for the corresponding arrow.'
