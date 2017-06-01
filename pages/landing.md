@@ -8,7 +8,7 @@ hero:
   image:
   callout:
     alt:
-    text: Up to $225,000 seed funding.<span class="subtext">0% equity.</span>
+    text: Up to $1.5 Million seed funding.<span class="subtext">0% equity.</span>
   button:
     href: /how-to-apply/
     text: "Start your application"
