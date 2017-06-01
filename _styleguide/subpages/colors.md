@@ -1,6 +1,5 @@
 ---
-title: NSF SBIR UI style guide
-subpage: Colors
+title: Colors
 permalink: /styleguide/colors/
 ---
 

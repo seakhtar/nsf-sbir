@@ -1,6 +1,5 @@
 ---
-title: NSF SBIR UI style guide
-subpage: Layouts
+title: Layouts
 permalink: /styleguide/layouts/
 ---
 

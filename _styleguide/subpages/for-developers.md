@@ -1,6 +1,5 @@
 ---
-title: NSF SBIR UI style guide
-subpage: For developers
+title: For developers
 permalink: /styleguide/for-developers/
 ---
 

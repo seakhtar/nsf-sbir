@@ -1,7 +1,6 @@
 ---
-title: NSF SBIR UI style guide
+title: Overview
 permalink: /styleguide/
-subpage: Overview
 ---
 
 ### This is the user interface (UI) style guide for [seedfund.nsf.gov](https://seedfund.nsf.gov/).

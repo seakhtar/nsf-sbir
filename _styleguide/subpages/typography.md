@@ -1,6 +1,5 @@
 ---
-title: NSF SBIR UI style guide
-subpage: Typography
+title: Typography
 permalink: /styleguide/typography/
 ---
 

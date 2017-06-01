@@ -1,6 +1,5 @@
 ---
-title: NSF SBIR UI style guide
-subpage: Images
+title: Images
 permalink: /styleguide/images/
 image: /assets/img/page-feature/hire-us.jpg
 image_alt: Example of hero image

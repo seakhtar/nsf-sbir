@@ -1,6 +1,5 @@
 ---
-title: NSF SBIR UI style guide
-subpage: Components
+title: Components
 permalink: /styleguide/components/
 parent_permalink: /styleguide/
 subnav_items:
