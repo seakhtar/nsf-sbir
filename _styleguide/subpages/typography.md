@@ -44,13 +44,56 @@ permalink: /styleguide/typography/
 
 ### Typesetting
 
+#### Headings   
+<h1 class="page-title">Heading 1. Page Title</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+
+#### Alternate Headings
+
+<h2 class="header-top-bar">Heading bar</h2>
+<h2 class="header-light">Heading light</h2>
+
+
+#### Paragraphs
+<p class="text-large">
+<strong>P Large.</strong> Current grantees and alumni, learn how you can <a href="#">help spread the word about the NSF SBIR/STTR program</a>.
+</p>
+<p class="text-medium">
+<strong>P medium.</strong> Current grantees and alumni, learn how you can <a href="#">help spread the word about the NSF SBIR/STTR program</a>.
+</p>
+<p>
+<strong>P (default).</strong> Current grantees and alumni, learn how you can <a href="#">help spread the word about the NSF SBIR/STTR program</a>.
+</p>
+<p class="text-small">
+<strong>P small.</strong> Current grantees and alumni, learn how you can <a href="#">help spread the word about the NSF SBIR/STTR program</a>.
+</p>
+<p class="text-alt">
+<strong>P alt.</strong> Current grantees and alumni, learn how you can <a href="#">help spread the word about the NSF SBIR/STTR program</a>.
+</p>
+<p class="p-subhead">
+<strong>P subhead.</strong> Current grantees and alumni, learn how you can <a href="#">help spread the word about the NSF SBIR/STTR program</a>.
+</p>
+
+#### Lists
+
+<ul>
+<li>List item one</li>
+<li>List item one</li>
+<li>List item one</li>
+</ul>
+<ol>
+<li>List item one</li>
+<li>List item one</li>
+<li>List item one</li>
+</ol>
+
+
+
 {% capture codeblock %}{% raw %}
-<h1>h1 – 3.8rem, 38px</h1>
-<h2>h2 – 3.4rem, 34px</h2>
-<h3>h3 – 2.3rem, 23px</h3>
-<h4>h4 – 2.1rem, 21px</h4>
-<h5>h5 – 1.4rem, 14px</h5>
-<p>p – 1.8rem, 18px</p>
+
 {% endraw %}{% endcapture %}
 
 {% capture type_description %}

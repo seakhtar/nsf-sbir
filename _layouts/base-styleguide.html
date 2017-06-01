@@ -54,8 +54,16 @@
 
   <body class="{% if page.type == "tag"%}tag-{% endif %}page-{{ page.title | slugify }}
   {% if page.header_border == true or layout.header_border == true %}header_border{% endif %} {% if page.path contains '_posts' %}single-post{% endif %}">
-
-    <div class="main-content styleguide-main-content" id="main-content">
+  <section class="styleguide-header-wrapper">
+    <a href="{{ site.baseurl }}/styleguide/">
+      <img class="styleguide-logo" src="{{ site.baseurl }}/assets/img/logo/logo-2c.svg" alt="NSF SBIR logo" />
+      <h1 class="h2" id="{{ page.title | slugify }}">{{ page.title }}</h1>
+    </a>
+    <div class="menu-btn-styleguide-wrapper">
+      <button class="menu-btn-styleguide">Menu</button>
+    </div>
+  </section>
+    <div class="main-content styleguide-main-content">
       {{ content }}
     </div>
 

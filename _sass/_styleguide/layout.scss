@@ -66,20 +66,15 @@ $margins-width: $sliding-panel-width + (2 * $site-margins);
   padding-left: $site-margins;
   padding-right: $site-margins;
   width: 100%;
-
-  h2 + h3 {
-    margin-top: 0;
-    padding-top: $site-margins;
-  }
-
-  > h3:target,
-  hr + h3 {
-    margin-top: 0;
-    padding-top: $sg-header-height + $site-margins;
-  }
+  padding-top: $site-margins;
 
   hr {
-    margin-top: $sg-header-height + $site-margins;
+    margin-top: ($site-margins * 2);
+    margin-bottom: ($site-margins * 2);
+    border: none;
+    background: $color-gray-light;
+    height: 1px;
+
   }
 
   @include media($medium-screen + $nav-width-extra) {

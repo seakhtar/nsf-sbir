@@ -24,5 +24,5 @@ If you are updating or adding a new project page, go to [Layouts]({{ site.baseur
 While 18f.gsa.gov relies heavily on the U.S. Web Design standards, there are several instances where we have overridden styles with our own set of custom stylesheets. This is primarily to align ourselves more directly with the 18F brand set of fonts, colors, and logos. Additional overrides were made to create custom layouts or components to address user needs that are specific to the marketing of the 18F brand.
 
 <a href="{{ site.baseurl }}/styleguide/layouts/">
-  <button class="usa-button">Explore style guide</button>
+Explore style guide
 </a>
