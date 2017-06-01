@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet consecteteur duis autem. Quid nostrud nonnumy sed ad 
 </div>
 
 <div class="usa-width-two-thirds" markdown="1">
-- **$225,000 / 6 months.** Receive up to $225,000 in seed capital towards conducting product R&D over a six-month timeframe (up to 12 months depending on the circumstances). During this period, your company will be immersed in the NSF network where you'll receive training and mentorship in key business areas from associated resources.
+- **Up to 1.5M / 24 months.** Receive up to $225,000 in seed capital towards conducting product R&D over a six-month timeframe (up to 12 months depending on the circumstances). During this period, your company will be immersed in the NSF network where you'll receive training and mentorship in key business areas from associated resources.  A second round investment of $750,000 over 24 months may be available.  NSF may also match 50 cents on every $1 of qualifying revenues or third-party investment up to another $500,000.
 
 - **0% equity.** It's non-dilutive "free money" so you retain ownership of your company. It's not a loan so there's nothing to pay back.
 
