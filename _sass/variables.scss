@@ -59,11 +59,10 @@ $font-size-l: 3.6rem;
 $font-size-xl: 5rem;
 $font-size-xxl: 7rem;
 
--// Spacing
- -$space-xs: .5rem;
- -$space-s: 1rem;
- -$space-m: 1.5rem;
- -
+// Spacing
+ $space-xs: .5rem;
+ $space-s: 1rem;
+ $space-m: 1.5rem;
 
 // Setup of USWDS
 $font-path: '../uswds/fonts';
