@@ -1,0 +1,71 @@
+.section-header {
+  background-color: $light-blue-bg-color;
+  p {
+    font-size: $font-size-m;
+    line-height: 1.5;
+  }
+}
+
+.section-goodfit {
+  background-color: $bold-bg-color;
+
+  a {
+    color: $color-white;
+  }
+}
+
+.section-about-asf {
+  background-color: $light-blue-bg-color;
+}
+
+.section-intro {
+  background-color: $light-blue-bg-color;
+  p {
+    font-size: $font-size-xs;
+  }
+}
+
+.section-program-directors {
+  background: $light-gray-bg-color;
+}
+
+.divider,
+.divider:first-child {
+  border: 0;
+  border-top: 1px solid $color-white;
+  display: block;
+  margin-bottom: 5rem;
+  margin-top: 5rem;
+  text-align: center;
+  width: 10%;
+
+  &.divider-left {
+    display: inline-block;
+  }
+}
+
+.usa-footer .social-link {
+  border: none;
+  img {
+    width: 35px;
+    fill: $color-primary;
+  }
+  &:hover {
+    border: none;
+    text-decoration: none;
+  }
+}
+
+#main-content, .usa-footer {
+  a {
+    text-decoration: none;
+    border-bottom: 1px dotted $color-primary;
+    color: $color-primary;
+
+    &:hover {
+      border-bottom-style: solid;
+      text-decoration: none;
+    }
+  }
+
+}

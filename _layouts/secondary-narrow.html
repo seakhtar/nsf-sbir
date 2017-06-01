@@ -1,7 +1,7 @@
 ---
 layout: base
 main:
-  class: usa-grid usa-section usa-content usa-layout-docs
+  class: usa-layout-docs
 ---
 {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
 {% if sidenav %}
@@ -10,10 +10,14 @@ main:
 </aside>
 
 <div class="usa-width-three-fourths usa-layout-docs-main_content">
-  {{ content }}
+  <div class="usa-section usa-content usa-grid">
+    {{ content }}
+  </div>
 </div>
 {% else %}
 <div class="usa-layout-docs-main_content usa-content">
-  {{ content }}
+  <div class="usa-section usa-content usa-grid">
+    {{ content }}
+  </div>
 </div>
 {% endif %}

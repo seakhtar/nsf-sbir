@@ -14,6 +14,8 @@ primary:
     href: /about/
   - text: Apply
     href: /how-to-apply/
+  - text: Apply (inactive)
+    href: /how-to-apply-inactive/
   - text: Portfolio
     href: /portfolio/
   - text: Events
@@ -24,12 +26,19 @@ primary:
 secondary: []
 
 footer:
-  - text: Contact
-    href: /contact/
-  - text: Check application status
-    href: /one/
-  - text: Events
-    href: /events/
+  - text: About
+    href: /#
+  - text: Portfolio
+    href: /#
+  - text: Apply for funding
+    href: /#
+  - text: Resources
+    href: /#
+  - text: Press
+    href: /#
+  - text: Contact us
+    href: /#
+
 
 docs:
   - text: Documentation

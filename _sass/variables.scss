@@ -1,15 +1,49 @@
 // Colors
+
+
+
 $color-red: #ff0000;
 $color-green: #48A463;
 $color-green-dark: #2E8540;
 $bg-color: #F7F7F7;
+$hero-bg-color: #AAAAAA;
+
+
+
+// Backgrounds
+$light-bg-color: #F5FBFC;
+$light-blue-bg-color: #E0F3F8;
+$bold-bg-color: #9bdaf1;
+$light-gray-bg-color: #E4E2E0;
+
 // Color USWDS Overrides
-$color-primary: #313b52;
+$color-black: #212121;
+$color-primary: #0071BC;
+$color-primary-darker: #2C3E50;
+$color-button-border: #02bfe7;
 $color-primary-alt: #85d0cb;
-$color-secondary: #48A463;
-$color-secondary-dark: #2E8540;
+$color-secondary: #fff039;
+$color-secondary-dark: #FFFAC3;
+$color-gray-lighter: $color-primary-darker;
+$color-gray-lightest: #F7F7F7;
 // Typography
 $font-serif: 'Work Sans', sans-serif;
 $font-mono: 'Overpass Mono', monospace;
-$font-sans: 'Work Sans', 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', Arial, sans-serif;
-$font-sans-alt: 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', Arial, sans-serif;
+$font-sans: 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', Arial, sans-serif;
+$font-size-xxs: 1.2rem;
+$font-size-xs: 1.4rem;
+$font-size-s: 1.8rem;
+$font-size-m: 2.4rem;
+$font-size-l: 3.6rem;
+$font-size-xl: 5rem;
+$font-size-xxl: 7rem;
+
+// Spacing
+$space-xs: .5rem;
+$space-s: 1rem;
+$space-m: 1.5rem;
+
+// Setup of USWDS
+$font-path: '../uswds/fonts';
+$image-path: '../uswds/img';
+@import 'uswds/all';
