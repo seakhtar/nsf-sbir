@@ -2,7 +2,7 @@
 title: Awards
 permalink: /awards/
 
-layout: docs
+layout: secondary
 sidenav: awards
 subnav:
   - text: Sublink one

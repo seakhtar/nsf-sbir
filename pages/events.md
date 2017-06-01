@@ -1,8 +1,7 @@
 ---
 title: Events
 permalink: /events/
-
-layout: secondary
+layout: secondary-narrow
 ---
 
 # Events
