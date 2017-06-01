@@ -1,3 +1,107 @@
+.palette {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  padding-left: 0;
+
+}
+.palette .block {
+  width: 184px;
+  height: 50px;
+  display: block;
+  margin-bottom: 5px;
+}
+.palette li {
+  flex-direction: row;
+  padding-bottom: 15px;
+}
+.palette p {
+  font-size: initial;
+  margin: 0;
+}
+
+
+.background-primary {
+  background-color: $color-primary;
+}
+.background-primary-darker {
+  background-color: $color-primary-darker;
+}
+.background-primary-darkest {
+  background-color: $color-primary-darkest;
+}
+.background-base {
+  background-color: $color-base;
+}
+.background-gray-dark {
+  background-color: $color-gray-dark;
+}
+.background-gray-light {
+  background-color: $color-gray-light;
+}
+.background-white {
+  background-color: $color-white;
+}
+/* Secondary ****************/
+.background-primary-alt {
+  background-color: $color-primary-alt;
+}
+.background-primary-alt-darkest {
+  background-color: $color-primary-alt-darkest;
+}
+.background-primary-alt-dark {
+  background-color: $color-primary-alt-dark;
+}
+.background-primary-alt-light {
+  background-color: $color-primary-alt-light;
+}
+.background-primary-alt-lightest {
+  background-color: $color-primary-alt-lightest;
+}
+.background-secondary {
+  background-color: $color-secondary;
+}
+.background-secondary-darkest {
+  background-color: $color-secondary-darkest;
+}
+.background-secondary-dark {
+  background-color: $color-secondary-dark;
+}
+.background-secondary-light {
+  background-color: $color-secondary-light;
+}
+.background-secondary-lightest {
+  background-color: $color-secondary-lightest;
+}
+
+/* Background colors */
+.background-light-neutral {
+  background-color: $color-neutral-light;
+}
+.background-light-blue {
+  background-color: $color-blue-light;
+}
+.background-gray-warm-light {
+  background-color: $color-gray-warm-light;
+}
+/* Tertiary **********/
+.background-tertiary {
+  background-color: #e31c3d;
+}
+.background-tertiary-darkest {
+  background-color: #981b1e;
+}
+.background-tertiary-dark {
+  background-color: #cd2026;
+}
+.background-tertiary-light {
+  background-color: #e59393;
+}
+.background-tertiary-lightest {
+  background-color: #f9dede;
+}
+
+
 //color
 .color-box-group {
   margin-bottom: 2rem;

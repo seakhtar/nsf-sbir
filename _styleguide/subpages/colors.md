@@ -3,62 +3,245 @@ title: NSF SBIR UI style guide
 subpage: Colors
 permalink: /styleguide/colors/
 ---
-### Palette
-<section class="usa-grid-full">
-  <div class="usa-width-one-half">
-    <div class="color-box-group">
-      <div class="color-box cb-black"></div>
-      <strong>$color-black</strong> | #000000
-    </div>
-    <div class="color-box-group">
-      <div class="color-box cb-dark"></div>
-      <strong>$color-dark</strong> | #1c304a
-    </div>
-  </div>
-</section>
-<section class="usa-grid-full">
-  <div class="usa-width-one-half">
-    <div class="color-box-group">
-      <div class="color-box cb-medium"></div>
-      <strong>$color-medium</strong> | #046b99
-    </div>
-    <div class="color-box-group">
-      <div class="color-box cb-bright"></div>
-      <strong>$color-bright</strong> | #00cfff
-    </div>
-  </div>
-  <div class="usa-width-one-half">
-    <div class="color-box-group">
-      <div class="color-box cb-medium-hover"></div>
-      <strong>$color-medium-hover</strong> | #034c6d
-    </div>
-    <div class="color-box-group">
-      <div class="color-box cb-bright-hover"></div>
-      <strong>$color-bright-hover</strong> | #00a7ce
-    </div>
-  </div>
-</section>
 
-<section class="usa-grid-full">
-  <div class="usa-width-one-half">
-    <div class="color-box-group">
-      <div class="color-box cb-light"></div>
-      <strong>$color-light</strong> | #b3efff
-    </div>
-    <div class="color-box-group">
-      <div class="color-box cb-gray"></div>
-      <strong>$color-gray</strong> | #5b616b
-    </div>
-    <div class="color-box-group">
-      <div class="color-box cb-gray-lightest"></div>
-      <strong>$color-gray-lightest</strong> | #f1f1f1
-    </div>
-    <div class="color-box-group">
-      <div class="color-box cb-inverse"></div>
-      <strong>$color-inverse</strong> | #ffffff
-    </div>
-  </div>
-</section>
+### Primary colors
+
+<ul class="palette">
+  <li>
+    <span class="block background-primary"></span>
+    <p>
+      Primary
+    </p>
+    <p>
+      0071BC
+    </p>
+  </li>
+  <li>
+    <span class="block background-primary-darker"></span>
+    <p>
+      Primary darker
+    </p>
+    <p>
+      205493
+    </p>
+  </li>
+  <li>
+    <span class="block background-primary-darkest"></span>
+    <p>
+      Primary darkest
+    </p>
+    <p>
+      112E51
+    </p>
+  </li>
+  <li>
+    <span class="block background-base"></span>
+    <p>
+      Base
+    </p>
+    <p>
+      212121
+    </p>
+  </li>
+  <li>
+    <span class="block background-gray-dark"></span>
+    <p>
+      Gray dark
+    </p>
+    <p>
+      323A45
+    </p>
+  </li>
+  <li>
+    <span class="block background-gray-light"></span>
+    <p>
+      Gray light
+    </p>
+    <p>
+      AEB0B5
+    </p>
+  </li>
+  <li>
+    <span class="block background-white"></span>
+    <p>
+      White
+    </p>
+    <p>
+      FFFFFF
+    </p>
+  </li>
+</ul>
+### Secondary colors
+<ul class="palette">
+  <li>
+    <span class="block background-primary-alt"></span>
+    <p>
+      Primary alt
+    </p>
+    <p>
+      02BFE7
+    </p>
+  </li>
+  <li>
+    <span class="block background-primary-alt-darkest"></span>
+    <p>
+      Primary alt darkest
+    </p>
+    <p>
+      046B99
+    </p>
+  </li>
+  <li>
+    <span class="block background-primary-alt-dark"></span>
+    <p>
+      Primary alt dark
+    </p>
+    <p>
+      00A6D2
+    </p>
+  </li>
+  <li>
+    <span class="block background-primary-alt-light"></span>
+    <p>
+      Primary alt light
+    </p>
+    <p>
+      9BDAF1
+    </p>
+  </li>
+  <li>
+    <span class="block background-primary-alt-lightest"></span>
+    <p>
+      Primary alt lightest
+    </p>
+    <p>
+      E1F3F8
+    </p>
+  </li>
+  <li>
+    <span class="block background-secondary"></span>
+    <p>
+      Secondary
+    </p>
+    <p>
+      FFF039
+    </p>
+  </li>
+  <li>
+    <span class="block background-secondary-darkest"></span>
+    <p>
+      Secondary darkest
+    </p>
+    <p>
+      F1E235
+    </p>
+  </li>
+  <li>
+    <span class="block background-secondary-dark"></span>
+    <p>
+      Secondary dark
+    </p>
+    <p>
+      FFE61A
+    </p>
+  </li>
+  <li>
+    <span class="block background-secondary-light"></span>
+    <p>
+      Secondary light
+    </p>
+    <p>
+      FFF79C
+    </p>
+  </li>
+  <li>
+    <span class="block background-secondary-lightest"></span>
+    <p>
+      Secondary lightest
+    </p>
+    <p>
+      FFFAC3
+    </p>
+  </li>
+</ul>
+### Background colors
+<ul class="palette">
+  <li>
+    <span class="block background-light-neutral"></span>
+    <p>
+      Light neutral
+    </p>
+    <p>
+      F5FBFC
+    </p>
+  </li>
+  <li>
+    <span class="block background-light-blue"></span>
+    <p>
+      Light blue
+    </p>
+    <p>
+      E0F3F8
+    </p>
+  </li>
+  <li>
+    <span class="block background-gray-warm-light"></span>
+    <p>
+      Gray warm light
+    </p>
+    <p>
+      E4E2E0
+    </p>
+  </li>
+</ul>
+### Tertiary colors
+<ul class="palette">
+  <li>
+    <span class="block background-tertiary"></span>
+    <p>
+      Tertiary
+    </p>
+    <p>
+      E31C3D
+    </p>
+  </li>
+  <li>
+    <span class="block background-tertiary-darkest"></span>
+    <p>
+      Tertiary darkest
+    </p>
+    <p>
+      981B1E
+    </p>
+  </li>
+  <li>
+    <span class="block background-tertiary-dark"></span>
+    <p>
+      Tertiary dark
+    </p>
+    <p>
+      CD2026
+    </p>
+  </li>
+  <li>
+    <span class="block background-tertiary-light"></span>
+    <p>
+      Tertiary light
+    </p>
+    <p>
+      E59393
+    </p>
+  </li>
+  <li>
+    <span class="block background-tertiary-lightest"></span>
+    <p>
+      Tertiary lightest
+    </p>
+    <p>
+      F9DEDE
+    </p>
+  </li>
+</ul>
 
 {% capture colors_description %}
 We are primarily using [18F Brand colors](https://pages.18f.gov/brand/color-palette/).
