@@ -145,7 +145,7 @@ $timeline-right-padding: 5rem;
 
     .timeline-step-deadline {
       &::after {
-        border-color: $color-red;
+        border-color: $color-tertiary;
       }
 
       small {

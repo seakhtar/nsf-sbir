@@ -2,7 +2,7 @@
   background-color: $hero-bg-color;
   background-image: none;
   padding-bottom: 6rem;
-  padding-top: 6rem;
+  padding-top: 0;
 
   h2 {
     color: $color-base;
@@ -17,11 +17,6 @@
       display: block;
     }
   }
-
-  a {
-    color: $color-green-dark;
-    text-decoration: none;
-    }
 
   .usa-button {
     color: initial;
@@ -42,5 +37,7 @@
       color: initial;
     }
     }
-
+.usa-header {
+  margin-bottom: 6rem;
+}
 }

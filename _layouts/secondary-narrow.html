@@ -1,6 +1,6 @@
 ---
 layout: base
-class: secondary-layout
+class: secondary-narrow-layout
 main:
   class: usa-layout-docs
 ---
@@ -11,10 +11,14 @@ main:
 </aside>
 
 <div class="usa-width-three-fourths usa-layout-docs-main_content">
-  {{ content }}
+  <div class="usa-section usa-content usa-grid">
+    {{ content }}
+  </div>
 </div>
 {% else %}
 <div class="usa-layout-docs-main_content usa-content">
-  {{ content }}
+  <div class="usa-section usa-content usa-grid">
+    {{ content }}
+  </div>
 </div>
 {% endif %}

@@ -1,7 +1,7 @@
 ---
 title: Apply
 permalink: /how-to-apply-inactive/
-layout: secondary
+layout: secondary-narrow
 timeline_active: false
 timeline:
   - title: 90 days before<br> the deadline

@@ -31,7 +31,7 @@ defaults:
   - scope:
       path: "_apply"
     values:
-      layout: docs
+      layout: secondary-narrow
   - scope:
       path: "_styleguide"
     values:
