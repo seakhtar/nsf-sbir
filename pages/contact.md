@@ -1,8 +1,7 @@
 ---
 title: Contact
 permalink: /contact/
-
-layout: secondary
+layout: secondary-narrow
 ---
 
 # Contact
