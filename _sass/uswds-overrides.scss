@@ -53,11 +53,19 @@ h6 {
 
   img {
     height: 40px;
+    margin-top: 1.5rem;
+    max-width: none;
   }
 
   a {
     display: block;
+    &:hover {
+      border-bottom-style: none;
+    }
   }
+}
+.usa-menu-btn {
+  margin-top: 1.5rem;
 }
 
 .usa-content {
@@ -120,29 +128,58 @@ h6 {
   font-family: $font-serif;
 }
 
+.usa-nav-primary {
+  clear: both;
+}
+
 .usa-nav {
-  background: rgba(255,255,255,.8);
-  padding: 0;
-  margin-top: 3.8rem;
-      li {
-        margin: 0;
-      a {
-        color: $color-base;
-        font-family: $font-mono;
-        font-size: $font-size-xxs;
-        &:hover {
-          background-color: $color-secondary;
-          border: 0;
-          span {
-            border: 0;
-          }
-        }
+  padding: 2rem;
+  margin-top: 0;
+  li {
+  a {
+    color: $color-base;
+    font-family: $font-mono;
+    font-size: $font-size-xxs;
+    &:hover {
+      background-color: $color-secondary;
+      border: 0;
+      span {
+        border: 0;
       }
     }
   }
+}
+}
 
+@include media($nav-width) {
+  .usa-nav {
+    background: rgba(255,255,255,.8);
+    padding: 0;
+    margin-top: 3.8rem;
+  }
+}
+
+@include media($large-screen) {
+.usa-nav {
+
+
+      li {
+        margin: 0;
+    }
+  }
+}
 
 
 .usa-header {
     border: 0;
+}
+.usa-navbar {
+  height: auto;
+}
+
+@include media($nav-width) {
+.usa-navbar {
+  border-bottom: none;
+    height: 10.3rem;
+}
 }
