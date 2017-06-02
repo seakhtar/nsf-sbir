@@ -1,0 +1,46 @@
+---
+title: Awards
+permalink: /awards/details/
+
+layout: base
+---
+
+<div class="usa-section">
+  <div id="awards-details-list" class="usa-grid">
+    <h2>Awards (first 10, *can show more if we want)</h2>
+    <label>Search </label>
+    <input class="awards-details-search" \>
+    <ul class="list">
+    {% for release in site.data.awards %}
+
+    <li style="display: none;">
+      <h3 class="title">{{ release.title }}</h3>
+      <p class="date">Date: {{ release.date }}</p>
+      <h4 class="awardee">{{ release.awardeeName }}</h4>
+      <p class="city">{{ release.awardeeCity | titlecase }}, {{ release.awardeeStateCode }}</p>
+      <p class="piName">{{ release.piFirstName }} {{ release.piLastName }}</p>
+      <p class="amount">Funds Received: {{ release.fundsObligatedAmt | round | intcomma_dollar }}</p>
+      <p class="abstract">Abstract: 1: Whan that aprill with his shoures soote
+                2: The droghte of march hath perced to the roote,
+                3: And bathed every veyne in swich licour
+                4: Of which vertu engendred is the flour;
+                5: Whan zephirus eek with his sweete breeth
+                6: Inspired hath in every holt and heeth
+                7: Tendre croppes, and the yonge sonne
+                8: Hath in the ram his halve cours yronne,
+                9: And smale foweles maken melodye,
+                10: That slepen al the nyght with open ye
+                11: (so priketh hem nature in hir corages);
+                12: Thanne longen folk to goon on pilgrimages,
+                13: And palmeres for to seken straunge strondes,
+                14: To ferne halwes, kowthe in sondry londes;
+                15: And specially from every shires ende
+                16: Of engelond to caunterbury they wende,
+                17: The hooly blisful martir for to seke,
+                18: That hem hath holpen whan that they were seeke.</p>
+      <hr>
+    </li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>

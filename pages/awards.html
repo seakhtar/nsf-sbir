@@ -2,64 +2,81 @@
 title: Awards
 permalink: /awards/
 
-layout: content
-
-api_awards:
-  - awards_1
-  - awards_2
-  - awards_3
-  - awards_4
-  - awards_5
+layout: base
 ---
 
 {% assign awards_summary = site.data.awards_summary %}
 
-<h2>Awards Summary</h2>
+<div class="usa-section bg-blue-light">
+  <div class="usa-grid">
+    <h2>Current awardees <span class="color-primary">/ Phase 1</span></h2>
 
-<hr />
+    <hr />
 
-<h3>Applications since {{ site.data.awards_meta.date_start }}</h3>
-<p><strong>{{ awards_summary.applications_total | intcomma }}</strong> applications</p>
-<p><strong>{{ awards_summary.states_total }}</strong> states funded (including D.C., Puerto Rico, and the Virgin Islands</p>
-<p><strong>{{ awards_summary.funding_total | round | intcomma_dollar }}</strong> in total funding</p>
-<p><strong>{{ awards_summary.funding_per_company | round | intcomma_dollar }}</strong> per company</p>
-
-<hr />
-
-<h3>Applications (active) in date range: {{ site.data.awards_meta.active_date_range }}</h3>
-<p><strong>{{ awards_summary.applications_active_total | intcomma }}</strong> total active applications</p>
-<p><strong>{{ awards_summary.funding_applications_active_total | round | intcomma_dollar }}</strong> in total funding for active applications</p>
-<p><strong>{{ awards_summary.funding_per_active_company | round | intcomma_dollar }}</strong> per active application</p>
-
-<hr />
-
-<div class="usa-accordion">
-{% for topic in site.data.tech-topics %}
-  {% assign po_name = topic.programDirector[0].name %}
-  {% assign matching_awards = site.data.awards | where:'poName', po_name %}
-  {% if matching_awards.size > 0 %}
-    <button class="usa-accordion-button" aria-expanded="true" aria-controls="{{ topic.topic | slugify }}">
-      <span>{{ matching_awards | size }}</span>
-      <span>{{ topic.topic | default: "" }}</span>
-    </button>
-    <div id="{{ topic.topic | slugify }}" class="usa-accordion-content bg-blue-light">
-      <ul class="table monospace">
-        <li class="table-row table-header">
-          <div class="table-row-item">Company</div>
-          <div class="table-row-item">Location</div>
-          <div class="table-row-item narrow numeric">Award amount</div>
-          <div class="table-row-item narrow numeric">Award date</div>
-        </li>
-        {% for matching in matching_awards %}
-          <li class="table-row">
-            <div class="table-row-item" data-header="Company">{{ matching.awardeeName }}</div>
-            <div class="table-row-item" data-header="Location">{{ matching.awardeeStateCode }}</div>
-            <div class="table-row-item narrow numeric" data-header="Amard amount">{{ matching.fundsObligatedAmt | intcomma_dollar }}</div>
-            <div class="table-row-item narrow numeric" data-header="Award date">{{ matching.date }}</div>
-          </li>
-        {% endfor %}
-      </ul>
+    <div class="usa-width-one-third">
+      <strong class="color-primary">{{ awards_summary.funding_per_company | round | intcomma_dollar }}</strong>
+      <div>Average $ amount of funding awarded for each company</div>
     </div>
-  {% endif %}
-{% endfor %}
+    <div class="usa-width-one-third">
+      <strong class="color-primary">{{ awards_summary.states_total }}</strong>
+      <div>From {{ awards_summary.states_total }} states including D.C., Puerto Rico, and the Virgin Islands</div>
+    </div>
+    <div class="usa-width-one-third">
+      <strong class="color-primary">{{ awards_summary.applications_total | intcomma }}</strong>
+      <div>Total applications received {{ awards_summary.active_date_range }}</div>
+    </div>
+
+    {% comment %}
+    <h3>Applications since {{ site.data.awards_meta.date_start }}</h3>
+    <p><strong>{{ awards_summary.applications_total | intcomma }}</strong> applications</p>
+    <p><strong>{{ awards_summary.states_total }}</strong> states funded (including D.C., Puerto Rico, and the Virgin Islands</p>
+    <p><strong>{{ awards_summary.funding_total | round | intcomma_dollar }}</strong> in total funding</p>
+    <p><strong>{{ awards_summary.funding_per_company | round | intcomma_dollar }}</strong> per company</p>
+
+    <hr />
+
+    <h3>Applications (active) in date range: {{ site.data.awards_summary.active_date_range }}</h3>
+    <p><strong>{{ awards_summary.applications_active_total | intcomma }}</strong> total active applications</p>
+    <p><strong>{{ awards_summary.funding_applications_active_total | round | intcomma_dollar }}</strong> in total funding for active applications</p>
+    <p><strong>{{ awards_summary.funding_per_active_company | round | intcomma_dollar }}</strong> per active application</p>
+
+    {% endcomment %}
+  </div>
 </div>
+
+{% comment %}
+<div class="usa-section">
+  <div class="usa-grid">
+    <div class="usa-accordion">
+    {% for topic in site.data.tech-topics %}
+      {% assign po_name = topic.programDirector[0].name %}
+      {% assign matching_awards = site.data.awards | where:'poName', po_name %}
+      {% if matching_awards.size > 0 %}
+        <button class="usa-accordion-button" aria-expanded="false" aria-controls="{{ topic.topic | slugify }}">
+          <span>{{ matching_awards | size }}</span>
+          <span>{{ topic.topic | default: "" }}</span>
+        </button>
+        <div id="{{ topic.topic | slugify }}" class="usa-accordion-content bg-blue-light">
+          <ul class="table monospace">
+            <li class="table-row table-header">
+              <div class="table-row-item">Company</div>
+              <div class="table-row-item">Location</div>
+              <div class="table-row-item narrow numeric">Award amount</div>
+              <div class="table-row-item narrow numeric">Award date</div>
+            </li>
+            {% for matching in matching_awards %}
+              <li class="table-row">
+                <div class="table-row-item" data-header="Company">{{ matching.awardeeName }}</div>
+                <div class="table-row-item" data-header="Location">{{ matching.awardeeStateCode }}</div>
+                <div class="table-row-item narrow numeric" data-header="Amard amount">{{ matching.fundsObligatedAmt | intcomma_dollar }}</div>
+                <div class="table-row-item narrow numeric" data-header="Award date">{{ matching.date }}</div>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+    {% endfor %}
+    </div>
+  </div>
+</div>
+{% endcomment %}
