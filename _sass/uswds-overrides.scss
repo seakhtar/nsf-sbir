@@ -175,6 +175,7 @@ h6 {
 }
 .usa-navbar {
   height: auto;
+  border-bottom: none;
 }
 
 @include media($nav-width) {
