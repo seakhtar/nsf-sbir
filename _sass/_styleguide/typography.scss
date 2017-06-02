@@ -27,7 +27,8 @@
 }
 
 code {
-  background: $code-background;
+  background: $color-gray-lightest;
   color: $code-text-color;
   padding: .3rem;
+  font-size: 1.5rem;
 }

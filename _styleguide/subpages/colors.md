@@ -6,239 +6,166 @@ permalink: /styleguide/colors/
 ### Primary colors
 
 <ul class="palette">
-  <li>
-    <span class="block background-primary"></span>
-    <p>
-      Primary
-    </p>
-    <p>
-      0071BC
-    </p>
+  <li markdown="1">
+  <span class="block background-primary"></span>
+  `$color-primary`
+
+  #0071BC
   </li>
-  <li>
-    <span class="block background-primary-darker"></span>
-    <p>
-      Primary darker
-    </p>
-    <p>
-      205493
-    </p>
+  <li markdown="1">
+  <span class="block background-primary-darker"></span>
+  `$color-primary-darker`
+
+  #205493
   </li>
-  <li>
-    <span class="block background-primary-darkest"></span>
-    <p>
-      Primary darkest
-    </p>
-    <p>
-      112E51
-    </p>
+  <li markdown="1">
+  <span class="block background-primary-darkest"></span>
+  `$color-primary-darkest`
+
+  #112E51
   </li>
-  <li>
-    <span class="block background-base"></span>
-    <p>
-      Base
-    </p>
-    <p>
-      212121
-    </p>
+</ul>
+<ul class="palette">
+  <li markdown="1">
+  <span class="block background-base"></span>
+  `$color-base`
+
+  #212121
   </li>
-  <li>
-    <span class="block background-gray-dark"></span>
-    <p>
-      Gray dark
-    </p>
-    <p>
-      323A45
-    </p>
+  <li markdown="1">
+  <span class="block background-gray-dark"></span>
+  `$color-gray-dark`
+
+  #323A45
   </li>
-  <li>
-    <span class="block background-gray-light"></span>
-    <p>
-      Gray light
-    </p>
-    <p>
-      AEB0B5
-    </p>
+  <li markdown="1">
+  <span class="block background-gray-light"></span>
+  `$color-gray-light`
+
+  #AEB0B5
   </li>
-  <li>
-    <span class="block background-white"></span>
-    <p>
-      White
-    </p>
-    <p>
-      FFFFFF
-    </p>
+  <li markdown="1">
+  <span class="block background-white"></span>
+  `$color-white`
+
+  #FFFFFF
   </li>
 </ul>
 ### Secondary colors
 <ul class="palette">
-  <li>
-    <span class="block background-primary-alt"></span>
-    <p>
-      Primary alt
-    </p>
-    <p>
-      02BFE7
-    </p>
+  <li markdown="1">
+  <span class="block background-primary-alt"></span>
+  `$color-primary-alt`
+
+  #02BFE7
   </li>
-  <li>
-    <span class="block background-primary-alt-darkest"></span>
-    <p>
-      Primary alt darkest
-    </p>
-    <p>
-      046B99
-    </p>
+  <li markdown="1">
+  <span class="block background-primary-alt-darkest"></span>
+  `$color-primary-alt-darkest`
+
+  #046B99
   </li>
-  <li>
-    <span class="block background-primary-alt-dark"></span>
-    <p>
-      Primary alt dark
-    </p>
-    <p>
-      00A6D2
-    </p>
+  <li markdown="1">
+  <span class="block background-primary-alt-dark"></span>
+  `$color-primary-alt-dark`
+
+  #00A6D2
   </li>
-  <li>
-    <span class="block background-primary-alt-light"></span>
-    <p>
-      Primary alt light
-    </p>
-    <p>
-      9BDAF1
-    </p>
+  <li markdown="1">
+  <span class="block background-primary-alt-light"></span>
+  `$color-primary-alt-light`
+
+  #9BDAF1
   </li>
-  <li>
-    <span class="block background-primary-alt-lightest"></span>
-    <p>
-      Primary alt lightest
-    </p>
-    <p>
-      E1F3F8
-    </p>
+  <li markdown="1">
+  <span class="block background-primary-alt-lightest"></span>
+  `$color-primary-alt-lightest`
+
+  #E1F3F8
   </li>
-  <li>
-    <span class="block background-secondary"></span>
-    <p>
-      Secondary
-    </p>
-    <p>
-      FFF039
-    </p>
+  <li markdown="1">
+  <span class="block background-secondary"></span>
+  `$color-secondary`
+
+  #FFF039
   </li>
-  <li>
-    <span class="block background-secondary-darkest"></span>
-    <p>
-      Secondary darkest
-    </p>
-    <p>
-      F1E235
-    </p>
+  <li markdown="1">
+  <span class="block background-secondary-darkest"></span>
+  `$color-secondary-darkest`
+
+  #F1E235
   </li>
-  <li>
-    <span class="block background-secondary-dark"></span>
-    <p>
-      Secondary dark
-    </p>
-    <p>
-      FFE61A
-    </p>
+  <li markdown="1">
+  <span class="block background-secondary-dark"></span>
+  `$color-secondary-dark`
+
+  #FFE61A
   </li>
-  <li>
-    <span class="block background-secondary-light"></span>
-    <p>
-      Secondary light
-    </p>
-    <p>
-      FFF79C
-    </p>
+  <li markdown="1">
+  <span class="block background-secondary-light"></span>
+  `$color-secondary-light`
+
+  #FFF79C
   </li>
-  <li>
-    <span class="block background-secondary-lightest"></span>
-    <p>
-      Secondary lightest
-    </p>
-    <p>
-      FFFAC3
-    </p>
+  <li markdown="1">
+  <span class="block background-secondary-lightest"></span>
+  `$color-secondary-lightest`
+
+  #FFFAC3
   </li>
 </ul>
 ### Background colors
 <ul class="palette">
-  <li>
-    <span class="block background-light-neutral"></span>
-    <p>
-      Light neutral
-    </p>
-    <p>
-      F5FBFC
-    </p>
+  <li markdown="1">
+  <span class="block background-light-neutral"></span>
+  `$color-Light-neutral`
+
+  #F5FBFC
   </li>
-  <li>
-    <span class="block background-light-blue"></span>
-    <p>
-      Light blue
-    </p>
-    <p>
-      E0F3F8
-    </p>
+  <li markdown="1">
+  <span class="block background-light-blue"></span>
+  `$color-light-blue`
+
+  #E0F3F8
   </li>
-  <li>
-    <span class="block background-gray-warm-light"></span>
-    <p>
-      Gray warm light
-    </p>
-    <p>
-      E4E2E0
-    </p>
+  <li markdown="1">
+  <span class="block background-gray-warm-light"></span>
+  `$color-gray-warm-light`
+
+  #E4E2E0
   </li>
 </ul>
 ### Tertiary colors
 <ul class="palette">
-  <li>
-    <span class="block background-tertiary"></span>
-    <p>
-      Tertiary
-    </p>
-    <p>
-      E31C3D
-    </p>
+  <li markdown="1">
+  <span class="block background-tertiary"></span>
+  `$color-tertiary`
+
+  #E31C3D
   </li>
-  <li>
-    <span class="block background-tertiary-darkest"></span>
-    <p>
-      Tertiary darkest
-    </p>
-    <p>
-      981B1E
-    </p>
+  <li markdown="1">
+  <span class="block background-tertiary-darkest"></span>
+  `$color-tertiary-darkest`
+
+  #981B1E
   </li>
-  <li>
-    <span class="block background-tertiary-dark"></span>
-    <p>
-      Tertiary dark
-    </p>
-    <p>
-      CD2026
-    </p>
+  <li markdown="1">
+  <span class="block background-tertiary-dark"></span>
+  `$color-tertiary-dark`
+
+  #CD2026
   </li>
-  <li>
-    <span class="block background-tertiary-light"></span>
-    <p>
-      Tertiary light
-    </p>
-    <p>
-      E59393
-    </p>
+  <li markdown="1">
+  <span class="block background-tertiary-light"></span>
+  `$color-tertiary-light`
+
+  #E59393
   </li>
-  <li>
-    <span class="block background-tertiary-lightest"></span>
-    <p>
-      Tertiary lightest
-    </p>
-    <p>
-      F9DEDE
-    </p>
+  <li markdown="1">
+  <span class="block background-tertiary-lightest"></span>
+  `$color-tertiary-lightest`
+
+  #F9DEDE
   </li>
 </ul>
 
