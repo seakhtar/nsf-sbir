@@ -7,16 +7,25 @@ layout: secondary
 <div class="usa-section usa-content usa-grid" markdown="1">
 # About America's Seed Fund
 
-For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.  
+For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.
 
 When you join our elite group of innovators, you’ll help us:
 
-* Promote groundbreaking technologies developed by U.S. entrepreneurs. 
-* Help socially and economically disadvantaged entrepreneurs bring their ideas to life.
-* Give federal agencies access to research and products they can’t get elsewhere, helping them fulfill their missions.
-* Stimulate private-sector commercialization of technologies developed using federal funding.
+<div class="usa-width-one-fourth" markdown="1">
+Promote groundbreaking technologies developed by U.S. entrepreneurs.
+</div>
+<div class="usa-width-one-fourth" markdown="1">
+Help socially and economically disadvantaged entrepreneurs bring their ideas to life.
+</div>
+<div class="usa-width-one-fourth" markdown="1">
+Give federal agencies access to research and products they can’t get elsewhere, helping them fulfill their missions.
+</div>
+<div class="usa-width-one-fourth" markdown="1">
+Stimulate private-sector commercialization of technologies developed using federal funding.
+</div>
 </div>
 </section>
+
 <section class="section-about-asf">
 <div class="usa-section usa-content usa-grid" markdown="1">
 <div class="usa-width-one-third" markdown="1">
@@ -24,7 +33,7 @@ When you join our elite group of innovators, you’ll help us:
 </div>
 
 <div class="usa-width-two-thirds" markdown="1">
-America’s Seed Fund offers entrepreneurs these unique benefits: 
+America’s Seed Fund offers entrepreneurs these unique benefits:
 
 - **$225,000 in Phase I funding**: We award up to $225,000 in funding (over six to 12 months) for R&D work. We’ll also provide you with training and mentorship in key business areas.
 
@@ -48,7 +57,7 @@ America’s Seed Fund offers entrepreneurs these unique benefits:
 
 We offer two funding tracks: SBIR and STTR. If you’re partnering with another research institution, the STTR track is best for you. Otherwise, apply using the SBIR track.
 
-When you decide to apply for funding, you’ll submit a Phase I proposal for up to $225,000, which will cover at least six (and up to 12) months’ work. You’ll find out whether your proposal was accepted or declined within four to six months of the proposal deadline. 
+When you decide to apply for funding, you’ll submit a Phase I proposal for up to $225,000, which will cover at least six (and up to 12) months’ work. You’ll find out whether your proposal was accepted or declined within four to six months of the proposal deadline.
 
 If you’re awarded Phase I funding, you’ll be expected to:
 
@@ -56,11 +65,11 @@ If you’re awarded Phase I funding, you’ll be expected to:
 - Determine your technology’s feasibility
 - Design and test prototypes
 - Identify any relevant legal or regulatory issues
-- Develop a plan to scale your technology 
+- Develop a plan to scale your technology
 
 Applicants often ask whether they can update their research plan during the course of a project, and the answer is yes — with a few stipulations. While it’s OK for you to update your business model or R&D strategy a bit (this is bound to happen), you can’t entirely shift the focus of your work.
 
-ACTIVE STATE: For complete program information, check out our latest solicitation [link]. 
+ACTIVE STATE: For complete program information, check out our latest solicitation [link].
 EXPIRED STATE: For more program information, check out our last solicitation. Our next solicitation will be posted in [MONTH YEAR].
 
 ## We support small companies and new entrepreneurs
@@ -74,7 +83,6 @@ If your company is majority owned by a venture capital operating company, hedge 
 Our seed funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
 
 In selected cases, we support innovations to existing products, but these innovations must dramatically change the products’ commercial outcomes. We don’t fund work that simply improves existing products. Check out our portfolio to get a sense of our founders’ work.
-</div>
 </div>
 </section>
 <section class="section-about-nsf">
