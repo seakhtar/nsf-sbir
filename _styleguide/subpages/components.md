@@ -12,16 +12,16 @@ subnav_items:
 ### Buttons
 
 {% capture styleguide_buttons %}
-#### Style on white
+#### Primary button
 <section class="usa-grid">
   <button class="usa-button">Normal</button>
-  <button class="usa-button-hover">Hover</button>
-  <button class="usa-button-active">Active</button>
-  <button class="usa-button-focus">Focus</button>
-  <button class="usa-button-disabled">Disabled</button>
+  <button class="usa-button usa-button-hover">Hover</button>
+  <button class="usa-button usa-button-active">Active</button>
+  <button class="usa-button usa-button-focus">Focus</button>
+  <button class="usa-button usa-button-disabled">Disabled</button>
 </section>
 
-#### Style on dark
+#### Secondary button
 <section class="background-dark usa-grid">
   <button class="usa-button usa-button-secondary">Normal</button>
   <button class="usa-button-hover usa-button-secondary">Hover</button>
