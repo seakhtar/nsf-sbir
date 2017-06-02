@@ -25,3 +25,9 @@
 .text-huge {
   font-size: 80px;
 }
+
+code {
+  background: $code-background;
+  color: $code-text-color;
+  padding: .3rem;
+}

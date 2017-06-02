@@ -5,29 +5,30 @@ permalink: /styleguide/layouts/
 
 ### Landing page layout
 
-The layout on the site used for the landing page.
+Located at [_layouts/landing.html](https://github.com/18F/18f.gsa.gov/tree/master/_layouts/primary.html), this is the layout that is used for the landing page on seedfund.nsf.gov.
 
-Located at [`_layouts/primary.html`](https://github.com/18F/18f.gsa.gov/tree/master/_layouts/primary.html), this is the template that is most frequently used in 18f.gsa.gov. It is responsible for creating content pages like [/code-of-conduct/]({{ site.baseurl }}/code-of-conduct/) to guides-style pages such as [/join/]({{ site.baseurl }}/join/).
-
-
-#### Landing page front matter
+#### Landing page general front matter
 
 The primary template uses [Jekyll front matter](https://jekyllrb.com/docs/frontmatter/) heavily to account for variations within the site. Below are the the potential front matter attributes that you can use. Some are listed as _(optional)_. These can be used to alter the appearance of a page.
 
-Attribute | Type | What it does
---- | --- | ---
-`title` | String | Title for the page visible in blue banner at the top of the page
-`permalink` | String |Path that the page renders relative to the site's `baseurl`
-`layout` | String | Should be set to `primary`
-`lead` | String | _(optional)_ Large white text that renders on the top blue banner
-`banner_cta` | Boolean | _(optional)_ Set to `false` by default. Generates a light blue call to action banner when set to `true`.
-`subnav_items` | Object | _(optional)_ Navigation items object that contains a list of subnavigation items that contain a `permalink` and `text`. Renders a [sticky subnav]({{ site.baseurl }}/styleguide/components/#sticky-subnavigation) on the left side of the page.
-`subnav_title` | String| _(optional)_ Set if you want the subnav title or breadcumb text to differ from the page `title`.
-`hero` | Boolean | _(optional)_ Enables a hero image in the banner. Defaults to `true`, so set to `false` to hide the image
-`image` | String | _(optional)_ Path to hero image. This image will also display on blog post preview cards
-`image_alt` | String | _(optional)_ Accessibility text for the image
-`image_figcaption` | String | _(optional)_ A caption that will be displayed on top of the image
-`breadcrumb` | Boolean | _(optional)_ Set to `false` by default. Specify `true` to enable the breadcrumb. If set to `true`, set `subnav_title` if the breadcrumb text differs from the page `title`. [View breadcrumb component]({{ site.baseurl }}/styleguide/components/#breadcumbs)
+Attribute | Value | Type | What it does
+--- | --- | --- | ---
+`title` | `NSF SBIR` | String | Title for the page visible in blue banner at the top of the page
+`permalink` | `/` | String | Path that the page renders relative to the site's `baseurl`
+`layout` | `landing`  | String | Sets the page layout to `primary`
+
+
+
+#### Landing page hero front matter
+
+Attribute | Value | Type | What it does
+--- | --- | --- | ---
+`hero: image` | `/assets/img/hero-2.png` | String | Path to the image to used for the background of the hero
+`hero: callout: alt` | `Up to $225,000 seed funding.` | String |  Text to use in the hero title
+`hero: callout: text` | `0% equity.` | String |  Additional text to use in the hero title
+`hero: button: href` | `/how-to-apply/` | String |  URL where you want the button to go
+`hero: button: text` | `Start your application` | String | Main button text
+`hero: button: subtext` | `Deadline:` | String |  Additional supporting button text
 
 ---
 
@@ -35,26 +36,17 @@ Attribute | Type | What it does
 
 The most common layout on the site. Used for sub pages.
 
-Located at [`_layouts/project-page.html`](https://github.com/18F/18f.gsa.gov/tree/master/_layouts/project-page.html), this is the template for creating new project pages as well as [project cards]({{ site.baseurl }}/styleguide/components/#project-cards) that show up at [/what-we-deliver/]({{ site.baseurl }}/what-we-deliver/).
+Located at [_layouts/project-page.html](https://github.com/18F/18f.gsa.gov/tree/master/_layouts/project-page.html), this is the template for creating new project pages as well as [project cards]({{ site.baseurl }}/styleguide/components/#project-cards) that show up at [/what-we-deliver/]({{ site.baseurl }}/what-we-deliver/).
 
 #### Secondary page front matter
 
 The primary template uses [Jekyll front matter](https://jekyllrb.com/docs/frontmatter/) heavily to account for variations within the site. Below are the the potential front matter attributes that you can use. Some are listed as _(optional)_. These can be used to alter the appearance of a page.
 
-Attribute | Type | What it does
---- | --- | ---
-`title` | String | Title for the page visible in blue banner at the top of the page
-`permalink` | String |Path that the page renders relative to the site's `baseurl`
-`layout` | String | Should be set to `primary`
-`lead` | String | _(optional)_ Large white text that renders on the top blue banner
-`banner_cta` | Boolean | _(optional)_ Set to `false` by default. Generates a light blue call to action banner when set to `true`.
-`subnav_items` | Object | _(optional)_ Navigation items object that contains a list of subnavigation items that contain a `permalink` and `text`. Renders a [sticky subnav]({{ site.baseurl }}/styleguide/components/#sticky-subnavigation) on the left side of the page.
-`subnav_title` | String| _(optional)_ Set if you want the subnav title or breadcumb text to differ from the page `title`.
-`hero` | Boolean | _(optional)_ Enables a hero image in the banner. Defaults to `true`, so set to `false` to hide the image
-`image` | String | _(optional)_ Path to hero image. This image will also display on blog post preview cards
-`image_alt` | String | _(optional)_ Accessibility text for the image
-`image_figcaption` | String | _(optional)_ A caption that will be displayed on top of the image
-`breadcrumb` | Boolean | _(optional)_ Set to `false` by default. Specify `true` to enable the breadcrumb. If set to `true`, set `subnav_title` if the breadcrumb text differs from the page `title`. [View breadcrumb component]({{ site.baseurl }}/styleguide/components/#breadcumbs)
+Attribute | Value | Type | What it does
+--- | --- | --- | ---
+`title` | `NSF SBIR` | String | Title for the page visible in blue banner at the top of the page
+`permalink` | `/about/` | String | Path that the page renders relative to the site's `baseurl`
+`layout` | `secondary`  | String | Sets the page layout to `secondary`
 
 ---
 

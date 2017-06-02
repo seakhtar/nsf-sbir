@@ -1,18 +1,17 @@
 ---
 title: NSF SBIR
 permalink: /
-
 layout: landing
 
 hero:
-  image:
+  image: /assets/img/hero-2.png
   callout:
-    alt:
-    text: Up to $225,000 seed funding.<span class="subtext">0% equity.</span>
+    alt: Up to $225,000 seed funding.
+    text: 0% equity.
   button:
     href: /how-to-apply/
     text: "Start your application"
-    subtext: "Deadline:"
+    subtext: "Deadline: {{site.deadline}}"
 ---
 
 
