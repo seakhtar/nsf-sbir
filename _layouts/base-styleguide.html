@@ -52,8 +52,7 @@
   <link rel="stylesheet" href="{{ "/assets/css/styles.css" | prepend: site.baseurl }}" media="all" />
 
 
-  <body class="{% if page.type == "tag"%}tag-{% endif %}page-{{ page.title | slugify }}
-  {% if page.header_border == true or layout.header_border == true %}header_border{% endif %} {% if page.path contains '_posts' %}single-post{% endif %}">
+  <body class="styleguide-layout">
   <section class="styleguide-header-wrapper">
     <a href="{{ site.baseurl }}/styleguide/">
       <img class="styleguide-logo" src="{{ site.baseurl }}/assets/img/logo/logo-2c.svg" alt="NSF SBIR logo" />

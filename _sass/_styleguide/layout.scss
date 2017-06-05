@@ -41,6 +41,7 @@ $margins-width: $sliding-panel-width + (2 * $site-margins);
     display: flex;
     text-decoration: none;
     width: 100%;
+    border: 0;
   }
 
   > * {
@@ -67,6 +68,12 @@ $margins-width: $sliding-panel-width + (2 * $site-margins);
   padding-right: $site-margins;
   width: 100%;
   padding-top: $site-margins;
+
+  > h3:target,
+      hr + h3 {
+        margin-top: 0;
+        padding-top: $sg-header-height + $site-margins;
+      }
 
   hr {
     margin-top: ($site-margins * 2);

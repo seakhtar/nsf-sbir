@@ -1,12 +1,12 @@
-@import 'variables';
-@import 'mixins';
-
-@import 'nav-mobile';
-@import 'nav-accordion';
-
-@import 'layout';
-@import 'color-box';
-@import 'typography';
-@import 'nav';
-@import 'sticky';
-@import 'tables';
+.styleguide-layout {
+  @import 'variables';
+  @import 'mixins';
+  @import 'nav-mobile';
+  @import 'nav-accordion';
+  @import 'layout';
+  @import 'color-box';
+  @import 'typography';
+  @import 'nav';
+  @import 'sticky';
+  @import 'tables';
+}
