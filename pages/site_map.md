@@ -23,7 +23,7 @@
 - Apply page  
     |-- timeline  
  
-- Portfolio page
+- Portfolio page  
     |-- TTAs (in depth)  
     |-- Company profiles  
     |-- Awards search results  
