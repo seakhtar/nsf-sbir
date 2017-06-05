@@ -47,3 +47,9 @@
     |--  
     |--  
   
+  # Priority Pages (Sprint 7)
+About  
+Awardees  
+Impact  
+Events  
+Portfolio  
