@@ -21,15 +21,6 @@ ol {
    }
 }
 
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-weight: 600;
-  margin-top: 0;
-}
-
 .usa-banner {
   font-family: $font-sans;
 
@@ -74,9 +65,23 @@ h6 {
   }
 }
 
-.usa-button {
+.usa-footer-secondary_section {
+  background-color: $color-primary;
+  color: $color-white;
+
+  a {
+    color: $color-white;
+  }
+
+}
+button, .usa-button {
+
   border-radius: 0;
+  background-color: $color-primary-alt-lightest;
+  border: 1px solid $color-button-border;
   color: $color-black;
+  font-size: $font-size-xxs;
+  font-weight: 400;
   font-family: $font-mono;
 
   &.usa-button-primary {
@@ -86,7 +91,7 @@ h6 {
     font-size: $font-size-xxs;
     font-weight: 400;
 
-    &:hover {
+    &.usa-button-hover, &:hover {
       color: $color-black;
       background-color: $color-white;
       border-color: $color-button-border;

@@ -5,15 +5,15 @@
   padding-top: 0;
 
   h2 {
-    color: $color-white;
+    color: $color-base;
     font-size: $font-size-xxl;
     font-weight: 800;
     letter-spacing: .025rem;
     line-height: .8625;
     text-transform: uppercase;
 
-    .subtext {
-      color: initial;
+    .usa-hero-callout-alt {
+      color: $color-white;
       display: block;
     }
   }
@@ -37,7 +37,7 @@
       color: initial;
     }
     }
+  }
 .usa-header {
   margin-bottom: 6rem;
-}
 }
