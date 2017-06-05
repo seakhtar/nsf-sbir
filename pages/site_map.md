@@ -41,19 +41,19 @@
     |--   
     |--   
     
- - Footer / Bottom Navigation
+ - Footer / Bottom Navigation  
     |--   About    
-    |--   Apply
-    |--   Portfolio
-    |--   Resources
-    |--   Press
-    |--   Contact us
+    |--   Apply  
+    |--   Portfolio  
+    |--   Resources  
+    |--   Press  
+    |--   Contact us  
     
- - Secondary Bottom Navigation
-     |--   National Science Foundation
-     |--   Join our listserv
-     |--   Twitter
-     |--   YouTube
+ - Secondary Bottom Navigation  
+     |--   National Science Foundation  
+     |--   Join our listserv  
+     |--   Twitter  
+     |--   YouTube  
   
   # Priority Pages (Sprint 7)
 - About  
