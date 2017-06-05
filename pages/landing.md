@@ -4,7 +4,7 @@ permalink: /
 layout: landing
 
 hero:
-  image: /assets/img/hero-2.png
+  image: 
   callout:
     alt: Up to $225,000 seed funding.
     text: 0% equity.
