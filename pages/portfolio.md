@@ -24,11 +24,13 @@ Our current awardees pages feature information about Phase I and Phase II awarde
 </p>
 
 ### Current awardees / Phase I
-<p Up to $225,000 for 6-12 months of R&D </p>
+
+Up to $225,000 for 6-12 months of R&D
 
 ### Current awardees / Phase II
-<p Up to an additional $750,000 over two years for continued research. Some Phase II companies may also have received Phase IIB funding — up to $500,000 to speed up commercialization. </p>
+
+Up to an additional $750,000 over two years for continued research. Some Phase II companies may also have received Phase IIB funding — up to $500,000 to speed up commercialization.
 
 ### Recent awardees
-<p Our recent awardees received funding during the last solicitation period (December 2016).</p>
+Our recent awardees received funding during the last solicitation period (December 2016).
 </section>
