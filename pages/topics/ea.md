@@ -1,6 +1,6 @@
 ---
-title: Impact
-permalink: /impact/
+title: Educational Technologies and Applications
+permalink: /topics/ea/
 layout: secondary
 ---
 
