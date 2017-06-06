@@ -68,8 +68,6 @@ America’s Seed Fund offers entrepreneurs these unique benefits:
 <div class="usa-section usa-content usa-grid" markdown="1">
 ## Program basics
 
-We offer two funding tracks: SBIR and STTR. If you’re partnering with another research institution, the STTR track is best for you. Otherwise, apply using the SBIR track.
-
 When you decide to apply for funding, you’ll submit a Phase I proposal for up to $225,000, which will cover at least six (and up to 12) months’ work. You’ll find out whether your proposal was accepted or declined within four to six months of the proposal deadline.
 
 If you’re awarded Phase I funding, you’ll be expected to:
@@ -81,6 +79,10 @@ If you’re awarded Phase I funding, you’ll be expected to:
 - Develop a plan to scale your technology
 
 Applicants often ask whether they can update their research plan during the course of a project, and the answer is yes — with a few stipulations. While it’s OK for you to update your business model or R&D strategy a bit (this is bound to happen), you can’t entirely shift the focus of your work.
+
+If your technology needs more development — and if you’ve met all the Phase I requirements — you can apply for more funding. Phase II awardees receive up to $750,000 over two years. 
+
+Phase II awardees can apply for Phase IIB funding to speed up commercialization. To be considered for Phase IIB funding (up to $500,000), you need a third-party investment of at least $100K. Visit our [Supplemental funding page](https://www.nsf.gov/eng/iip/sbir/Supplement/) to learn more.
 
 ACTIVE STATE: For complete program information, check out our latest solicitation [link].
 EXPIRED STATE: For more program information, check out our last solicitation. Our next solicitation will be posted in [MONTH YEAR].
