@@ -1,6 +1,6 @@
 ---
 title: Chemical and Environmental Technologies
-permalink: /ct/
+permalink: /topics/ct/
 layout: secondary
 ---
 
