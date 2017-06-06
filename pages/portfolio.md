@@ -16,7 +16,7 @@ layout: secondary-narrow
 
 See featured companies from all of our technology topic areas:
 {% include tech-subtopics.html %}
-
+<section markdown="1">
 ## Current awardees
 <p class="usa-font-lead">Get the latest on the the funding trends related to our current and recent awardees.  
 
@@ -31,3 +31,4 @@ Our current awardees pages feature information about Phase I and Phase II awarde
 
 ### Recent awardees
 <p Our recent awardees received funding during the last solicitation period (December 2016).</p>
+</section>
