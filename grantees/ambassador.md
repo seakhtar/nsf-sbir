@@ -12,7 +12,7 @@ Preview icon showing the Ambassador Toolkit We also want to share your accomplis
 
 We also would appreciate your help promoting the NSF SBIR/STTR program. Tell others about the benefits of government funding for research and development by sharing your NSF SBIR story on social media or your website
 
-Find tips and tricks for using social media and promoting your NSF grant, on our [Ambassador Tool Kit]().
+Find tips and tricks for using social media and promoting your NSF grant, on our [Ambassador Tool Kit](/files/NSF_SBIR_Ambassador_Toolkit.pdf).
 
 # Quick Actions You Can Take Now
 
