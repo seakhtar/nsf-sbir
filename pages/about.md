@@ -2,15 +2,20 @@
 title: About
 permalink: /about/
 layout: secondary
+section_image: "/assets/img/bg/robotic-arm.jpg"
 ---
-<section class="section-header">
-<div class="usa-section usa-content usa-grid" markdown="1">
+<section class="section-header background-light-blue">
+<div class="usa-section usa-content usa-grid">
+<div class="usa-width-one-whole" markdown="1">
 # About America's Seed Fund
 
-For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.
+<p class="text-medium">For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.</p>
+<div class="usa-width-one-whole" markdown="1">
 
 When you join our elite group of innovators, you’ll help us:
 
+</div>
+</div>
 <div class="usa-width-one-fourth" markdown="1">
 Promote groundbreaking technologies developed by U.S. entrepreneurs.
 </div>
@@ -25,7 +30,13 @@ Stimulate private-sector commercialization of technologies developed using feder
 </div>
 </div>
 </section>
-
+<section class="section-background-image">
+  <div class="usa-grid">
+    <div class="usa-width-one-third">
+      <p class="caption">The first robotic printer used by <a href="#">Branch</a> in late 2014 to develop the initial proof of concept for CFAB® prior to SBIR Phase I research.</p>
+    </div>
+  </div>
+</section>
 <section class="section-about-asf">
 <div class="usa-section usa-content usa-grid" markdown="1">
 <div class="usa-width-one-third" markdown="1">
@@ -51,7 +62,7 @@ America’s Seed Fund offers entrepreneurs these unique benefits:
 </div>
 </div>
 </section>
-<section class="section-program-basics">
+<section class="background-white">
 <div class="usa-section usa-content usa-grid" markdown="1">
 ## Program basics
 
@@ -73,28 +84,33 @@ Phase II awardees can apply for Phase IIB funding to speed up commercialization.
 
 ACTIVE STATE: For complete program information, check out our latest solicitation [link].
 EXPIRED STATE: For more program information, check out our last solicitation. Our next solicitation will be posted in [MONTH YEAR].
-
-## We support small companies and new entrepreneurs
+</div>
+</section>
+<section class="background-light-neutral">
+<div class="usa-section usa-content usa-grid" >
+<div class="usa-width-one-half" markdown="1">
+#### We support small companies and new entrepreneurs
 
 We work with startups and small businesses, and we welcome proposals from newly formed companies — you don’t need a track record of commercialization to apply for funding. Please note that your company needs to be a legal entity before you apply.
 
 If your company is majority owned by a venture capital operating company, hedge fund, or private-equity firm, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf).
-
-## We support R&D with lots of technical risk
+</div>
+<div class="usa-width-one-half" markdown="1">
+#### We support R&D with lots of technical risk
 
 Our seed funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
 
 In selected cases, we support innovations to existing products, but these innovations must dramatically change the products’ commercial outcomes. We don’t fund work that simply improves existing products. Check out our portfolio to get a sense of our founders’ work.
 </div>
+</div>
 </section>
-<section class="section-about-nsf">
+<section class="background-light-blue">
 <div class="usa-section usa-content usa-grid" markdown="1">
 ## About NSF
 
 America's Seed Fund is a program within the [National Science Foundation](https://federalist.fr.cloud.gov/preview/18f/nsf-sbir/explore/about/index.html#). NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with a $7.5 billion budget.
 
 Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.
-
 </div>
 </section>
 
