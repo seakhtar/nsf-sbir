@@ -49,7 +49,7 @@ layout: base
     <div class="usa-accordion">
     {% for topic in site.data.tech-topics %}
       {% assign po_name = topic.programDirector[0].name %}
-      {% assign matching_awards = site.data.awards | where:'poName', po_name %}
+      {% assign matching_awards = site.data.awards | uniq | where:'poName', po_name %}
       {% if matching_awards.size > 0 %}
         <button class="usa-accordion-button" aria-expanded="false" aria-controls="{{ topic.topic | slugify }}">
           <span>{{ matching_awards | size }}</span>
@@ -68,8 +68,9 @@ layout: base
                 <div class="table-row-item" data-header="Company">
                   {% assign awardeeSlug = matching.awardeeName | slugify %}
                   <a href="{{ '/awardees/?company=' | append: awardeeSlug | relative_url }}" alt="{{ matching.awardeeName }}">
-                  <div>{{ matching.awardeeName }}</div>
+                  <span>{{ matching.awardeeName }}</span>
                   </a>
+                </div>
                 <div class="table-row-item" data-header="Location">{{ matching.awardeeStateCode }}</div>
                 <div class="table-row-item narrow numeric" data-header="Amard amount">{{ matching.fundsObligatedAmt | intcomma_dollar }}</div>
                 <div class="table-row-item narrow numeric" data-header="Award date">{{ matching.date }}</div>
