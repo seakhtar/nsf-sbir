@@ -1,6 +1,6 @@
 ---
 title: Biomedical Technologies
-permalink: /bm/
+permalink: /topics/bm/
 layout: secondary
 ---
 
