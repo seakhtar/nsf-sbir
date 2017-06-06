@@ -25,12 +25,12 @@ Our current awardees pages feature information about Phase I and Phase II awarde
 
 ### Current awardees / Phase I
 
-Up to $225,000 for 6-12 months of R&D
+Phase 1 funding (up to $225,000 over 6-12 months) covers R&D, including exploration of product-market fit, prototyping, and planning to scale your technology.
 
 ### Current awardees / Phase II
 
-Up to an additional $750,000 over two years for continued research. Some Phase II companies may also have received Phase IIB funding — up to $500,000 to speed up commercialization.
+Phase II funding (up to an additional $750,000 over two years) helps you continue the research you started in Phase I.
 
 ### Recent awardees
-Our recent awardees received funding during the last solicitation period (December 2016).
+Recent awardees received funding during the last solicitation period, which closed in (December 2016). These awards were announced in (February 2016).
 </section>
