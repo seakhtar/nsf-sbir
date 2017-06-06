@@ -1,6 +1,6 @@
 ---
 title: Biological Technologies
-permalink: /bt/
+permalink: /topics/bt/
 layout: secondary
 ---
 
