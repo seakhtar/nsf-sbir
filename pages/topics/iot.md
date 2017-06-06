@@ -28,5 +28,5 @@ Enabling ubiquitous connectivity and the aggregation of IoT data presents key da
 ### IoT4. IoT Integrated Systems
 Many of the benefits of IoT require the full integration of complex systems to enable developers to build innovative service delivery platforms. This subtopic includes (but is not limited to) new design and development platforms that facilitate widespread adoption of IoT; IoT systems with the flexibility to allow rapid development and deployment of new use cases and functionalities; and shared platforms designed for lean, power-constrained environments that enable the easy integration of sensors and actuators, communication technologies, and data processing to create new business models for IoT.
 
-### IoT IT. Cloud, Big Data and Security and Privacy (see IT portfolio topics)
+### IoT IT. Cloud, Big Data and Security and Privacy (see [IT portfolio]() topics)
 Data is rapidly emerging as the most important currency driving IoT. Offloading computation to the cloud, providing overall system security, and guaranteeing the privacy of users remain key challenges in IoT. Companies developing innovations in these spaces should refer to the IT topics of this SBIR/STTR solicitation.
