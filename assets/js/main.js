@@ -1,3 +1,25 @@
+---
+---
+
+window.awardsByCompany = [
+{% assign awards_by_company = site.data.awards | group_by: "awardeeName" | sort: 'name' %}
+{% for company in awards_by_company %}
+{% assign = forloop_last = forloop.last %}
+{% for award in company.items %}
+{
+"title": {{ award.awardeeName | title | jsonify }},
+"slug": "{{ award.awardeeName | slugify }}",
+"date": "{{ award.date }}",
+"awardee": "{{ award.awardeeName }}",
+"city": "{{ award.awardeeCity | titlecase }}, {{ award.awardeeStateCode }}",
+"piName": "{{ award.piFirstName }} {{ award.piLastName }}",
+"amount": "{{ award.fundsObligatedAmt | round | intcomma_dollar }}",
+"abstractText": "{{ award.abstractText | default: '' }}"
+}{% unless forloop_last and forloop.last %},{% endunless %}
+{% endfor %}
+{% endfor %}
+]
+
 $(function() {
 
 console.log('loaded')
@@ -9,8 +31,16 @@ console.log('loaded')
       'city',
       'piName',
       'amount',
-      'abstract'
-    ]
+      'slug',
+      'abstractText'
+    ],
+    item: "<li>" +
+      "<h3 class='title'></h3><p class='date'></p>" +
+      "<h4 class='awardee'></h4>" +
+      "<p class='city'></p>" +
+      "<p class='piName'></p>" +
+      "<p class='amount'></p>" +
+    "</li>"
   };
 
   var awardsDetailsList = new List('awards-details-list', options);
@@ -43,14 +73,13 @@ console.log('loaded')
     }
   }
 
-  var matching = awardsDetailsList.filter(function(item) {
-    return item._values['title'].slugify() == getQueryVariable('company');
-  });
-
-  matching.forEach(function(item) {
-    item.show();
+  window.awardsByCompany.forEach(function(company){
+    if (company.slug == getQueryVariable('company')) {
+      var newItem = awardsDetailsList.add(company)
+      $('.results-loading').hide()
+      $('.results').show();
+    }
   })
-
 
 });
 

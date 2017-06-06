@@ -13,8 +13,6 @@ sass:
 scripts:
   - src: /assets/uswds/js/uswds.min.js
     async: true
-  - src: /assets/js/main.js
-    async: true
 
 collections:
   apply:
@@ -49,3 +47,4 @@ awards_api:
     - poName
     - title
     - awardee
+    - abstractText

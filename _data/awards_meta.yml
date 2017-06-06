@@ -16,6 +16,7 @@ printFields:
 - poName
 - title
 - awardee
-last_updated: 06/02/2017
+- abstractText
+last_updated: 06/06/2017
 ---
 
