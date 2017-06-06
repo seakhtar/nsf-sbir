@@ -22,10 +22,14 @@ primary:
     href: /events/
   - text: Contact
     href: /contact/
-  - text: Awards
-    href: /awards/
-  - text: Awards details
-    href: /awards/details/
+  - text: Awardees
+    href: /awardees/
+  - text: Awardee details
+    href: /awardees/details/
+  - text: Awardees phase 1
+    href: /awardees/phase-1/
+  - text: Awardee phase 1 details
+    href: /awardees/phase-1/details
 
 secondary: []
 

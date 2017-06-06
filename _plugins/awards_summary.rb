@@ -13,6 +13,8 @@ module SiteData
       @path = File.join(@basepath, '_data', 'awards.yml')
       @meta_path = File.join(@basepath, '_data', 'awards_meta.yml')
       @awards_summary_path = File.join(@basepath, '_data', 'awards_summary.yml')
+      @awards_phase_1_path = File.join(@basepath, '_data', 'awards_phase_1.yml')
+
       @awards = nil
       @awards_data = nil
 
@@ -29,6 +31,14 @@ module SiteData
       else
         FileUtils.touch(@awards_summary_path)
         @awards_summary = YAML.load_file(@awards_summary_path)
+      end
+
+      if File.exists? @awards_summary_path
+        @awards_phase_1 = YAML.load_file(@awards_phase_1_path)
+
+      else
+        FileUtils.touch(@awards_phase_1_path)
+        @awards_phase_1 = YAML.load_file(@awards_phase_1_path)
       end
     end
 
@@ -48,13 +58,79 @@ module SiteData
       @awards.map { |a| a['awardeeStateCode'] }.uniq.sort_by(&:upcase).reject(&:empty?)
     end
 
-    def states_total
+    def states_count
       states.length.to_i
     end
 
     def applications_total
       @awards.length
     end
+
+    # Phase 2
+
+    def applications_phase_2
+      @awards.select do |a|
+        a['fundProgramName'].downcase.include?("phase i")
+      end
+    end
+
+    def applications_phase_2_count
+      applications_phase_2.size
+    end
+
+    def funding_phase_2
+      applications_phase_2.map { |a| a['fundsObligatedAmt'].to_f }.inject(0, :+).to_f.round(2)
+    end
+
+    def companies_phase_2
+      applications_phase_2.map { |a| a['awardeeName'] }.uniq.length.to_i
+    end
+
+    def funding_per_company_phase_2
+      (funding_phase_2 / companies_phase_2).round(2)
+    end
+
+    def states_phase_2
+      applications_phase_2.map { |a| a['awardeeStateCode'] }.uniq.sort_by(&:upcase).reject(&:empty?)
+    end
+
+    def states_phase_2_count
+      states_phase_2.length.to_i
+    end
+
+    #  Phase 1
+
+    def applications_phase_1
+      applications_phase_2.reject do |a|
+        a['fundProgramName'].downcase.include?("phase ii")
+      end
+    end
+
+    def applications_phase_1_count
+      applications_phase_1.size
+    end
+
+    def funding_phase_1
+      applications_phase_1.map { |a| a['fundsObligatedAmt'].to_f }.inject(0, :+).to_f.round(2)
+    end
+
+    def companies_phase_1
+      applications_phase_1.map { |a| a['awardeeName'] }.uniq.length.to_i
+    end
+
+    def funding_per_company_phase_1
+      (funding_phase_1 / companies_phase_1).round(2)
+    end
+
+    def states_phase_1
+      applications_phase_2.map { |a| a['awardeeStateCode'] }.uniq.sort_by(&:upcase).reject(&:empty?)
+    end
+
+    def states_phase_1_count
+      states_phase_1.length.to_i
+    end
+
+    # Active applications
 
     def active_start_date
       @util.to_date(@site_config['active_start_date'])
@@ -104,8 +180,26 @@ module SiteData
       @awards_summary['funding_per_active_application'] = funding_per_active_application
       @awards_summary['applications_active_total'] = applications_active_total
       @awards_summary['states'] = states
-      @awards_summary['states_total'] = states_total
+      @awards_summary['states_count'] = states_count
+
+      # Phase 2
+      # @awards_phase_1['applications_phase_2'] = applications_phase_2
+      @awards_summary['applications_phase_2_count'] = applications_phase_2_count
+      @awards_summary['funding_phase_2'] = funding_phase_2
+      @awards_summary['companies_phase_2'] = companies_phase_2
+      @awards_summary['funding_per_company_phase_2'] = funding_per_company_phase_2
+      @awards_summary['states_phase_2_count'] = states_phase_2_count
+      # Phase 1
+
+      @awards_phase_1 = applications_phase_1
+      @awards_summary['applications_phase_1_count'] = applications_phase_1_count
+      @awards_summary['funding_phase_1'] = funding_phase_1
+      @awards_summary['companies_phase_1'] = companies_phase_1
+      @awards_summary['funding_per_company_phase_1'] = funding_per_company_phase_1
+      @awards_summary['states_phase_1_count'] = states_phase_1_count
+
       @util.update_yaml(@awards_summary, @awards_summary_path)
+      @util.update_yaml(@awards_phase_1, @awards_phase_1_path)
     end
 
   end
