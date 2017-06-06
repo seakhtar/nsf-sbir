@@ -1,18 +1,61 @@
 
 .tech-subtopics {
-  list-style: none;
-  padding-left: 0;
+  .tech-subtopics-header {
+    display: inline;
+    font-size: $font-size-xxs;
+  }
+  ul {
+    display: inline;
+    list-style: none;
+    padding-left: 0;
+}
 
   li {
     display: inline;
+    font-size: $font-size-xxs;
 
     &::after {
       background-color: $color-gray-light;
       content: '';
       display: inline-block;
-      height: 4px;
+      height: 1px;
       margin-bottom: 3px;
-      width: 40px;
+      width: $space-l;
     }
   }
+}
+
+.featured-companies {
+  li {
+    padding: 0 $space-m 0 0;
+  }
+
+  a {
+    border-bottom: 0;
+    border-top: 1px dotted $color-primary-darkest;
+    color: $color-primary-darkest;
+    display: block;
+    font-size: $font-size-xxs;
+    font-weight: 700;
+    min-height: 4rem;
+    padding-top: $space-xs;
+
+    &:hover {
+      border-top-style: solid;
+    }
+  }
+
+}
+
+.list-tech-topics {
+  li {
+    padding: 0 $space-m 0 0;
+  }
+}
+
+.section-tech-topic {
+  clear: both;
+ .tech-topic-title {
+   margin-bottom: $space-xl;
+ }
 }

@@ -1,42 +1,42 @@
-<section>
-  <ul class="flex-list">
+<section class="usa-section">
+  <ul class="flex-list list-tech-topics">
     {% for topic in site.data.tech-topics %}
-      <li><a href="#{{ topic.topic | slugify }}">{{ topic.topic }}</a></li>
+      <li class="button-arrow-after button-arrow-down"><a href="#{{ topic.topic | slugify }}">{{ topic.topic }}</a></li>
     {% endfor %}
   </ul>
 </section>
 
 {% for topic in site.data.tech-topics %}
-<section id="{{ topic.topic | slugify }}" class="tech-topics">
-  <h2>{{ topic.topic }}</h2>
-  <div class="usa-grid">
-  <div class="usa-width-one-third">
-<h3>Program director</h3>
+<section id="{{ topic.topic | slugify }}" class="usa-section section-tech-topic">
+  <h2 class="text-medium header-top-bar tech-topic-title">{{ topic.topic }}</h2>
+  <div class="usa-width-one-fourth">
+<h3 class="subhead">Program director</h3>
     {% for programDirector in topic.programDirector %}
-      <a href="mailto:{{ programDirector.email }}">
+      <p class="button-arrow"><a href="mailto:{{ programDirector.email }}" >
           {{ programDirector.name }}
-      </a>
+      </a></p>
       {% endfor %}
   </div>
-  <div class="usa-width-two-thirds">
-    {% if topic.companies %}  <h3>Featured companies</h3>
-    <ul class="flex-list flex-list-3-col">
+  <div class="usa-width-three-fourths">
+    {% if topic.companies %}  <h3 class="subhead">Featured companies</h3>
+    <ul class="flex-list flex-list-3-col featured-companies">
     {% for company in topic.companies %}
       <li>
-          {{ company }}
+          <a href="#">{{ company }}</a>
       </li>
       {% endfor %}
     </ul>
     {% endif %}
-    <h4>{{ topic.topic }}</h4>
-    <ul class="tech-subtopics">
+    <div class="tech-subtopics">
+    <h4 class="tech-subtopics-header"><a href="">{{ topic.topic }}:</a></h4>
+    <ul>
     {% for subtopic in topic.subtopics %}
       <li>
           {{ subtopic }}
       </li>
       {% endfor %}
     </ul>
-    </div>
-</div>
+  </div>
+  </div>
 </section>
   {% endfor %}
