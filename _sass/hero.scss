@@ -1,19 +1,20 @@
 .usa-hero {
   background-color: $hero-bg-color;
+  background-attachment: fixed;
   background-image: none;
   padding-bottom: 6rem;
-  padding-top: 6rem;
+  padding-top: 0;
 
   h2 {
-    color: $color-white;
+    color: $color-base;
     font-size: $font-size-xxl;
     font-weight: 800;
     letter-spacing: .025rem;
     line-height: .8625;
     text-transform: uppercase;
 
-    .subtext {
-      color: initial;
+    .usa-hero-callout-alt {
+      color: $color-white;
       display: block;
     }
   }
@@ -38,4 +39,8 @@
     }
     }
 
-}
+  .usa-header {
+    background-color: transparent;
+    margin-bottom: 6rem;
+    }
+  }

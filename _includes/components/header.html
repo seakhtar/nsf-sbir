@@ -1,6 +1,5 @@
 {% if header %}
 <header class="usa-header usa-header-{{ header.type | default: 'extended' }}" role="banner">
-  {% include banner.html %}
 
   {% if header %}
   <div class="usa-nav-container">
@@ -8,7 +7,13 @@
     <button class="usa-menu-btn">Menu</button>
     <div class="usa-logo" id="logo">
       <em class="usa-logo-text">
-        <a href="{{ site.baseurl }}/" accesskey="1" title="Home" aria-label="Home"><img src="{{site.baseurl}}/assets/img/logo/logo-2c.svg" alt="{{ header.title | default: site.title }}"></a>
+        <a href="{{ site.baseurl }}/" accesskey="1" title="Home" aria-label="Home">
+            {% if page.layout == 'landing' %}
+              <img src="{{site.baseurl}}/assets/img/logo/logo-white.svg" alt="{{ header.title | default: site.title }}">
+            {% else %}
+              <img src="{{site.baseurl}}/assets/img/logo/logo-2c.svg" alt="{{ header.title | default: site.title }}">
+            {% endif %}
+          </a>
       </em>
     </div>
   </div>
