@@ -31,13 +31,11 @@ Stimulate private-sector commercialization of technologies developed using feder
 </div>
 </section>
 <section class="section-background-image">
-<div class="usa-grid">
-<div class="usa-width-one-third">
-<p class="caption">
-    The first robotic printer used by <a href="#">Branch</a> in late 2014 to develop the initial proof of concept for CFAB® prior to SBIR Phase I research.
-</p>
-</div>
-</div>
+  <div class="usa-grid">
+    <div class="usa-width-one-third">
+      <p class="caption">The first robotic printer used by <a href="#">Branch</a> in late 2014 to develop the initial proof of concept for CFAB® prior to SBIR Phase I research.</p>
+    </div>
+  </div>
 </section>
 <section class="section-about-asf">
 <div class="usa-section usa-content usa-grid" markdown="1">
