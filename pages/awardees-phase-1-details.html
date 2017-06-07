@@ -16,7 +16,7 @@ layout: base
   </div>
   <div id="awards-details-list" class="usa-grid">
     <ul class="list results" style="display: none;">
-    {% assign awards_by_company = site.data.awards_phase_1 | group_by: "awardeeName" | sort: 'name' %}
+    {% assign awards_by_company = site.data.awards_phase_1 | uniq | group_by: "awardeeName" | sort: 'name' %}
     {% for company in awards_by_company %}
     {% if company.name != blank %}
     {% for award in company.items %}

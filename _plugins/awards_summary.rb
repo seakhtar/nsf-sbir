@@ -14,6 +14,8 @@ module SiteData
       @meta_path = File.join(@basepath, '_data', 'awards_meta.yml')
       @awards_summary_path = File.join(@basepath, '_data', 'awards_summary.yml')
       @awards_phase_1_path = File.join(@basepath, '_data', 'awards_phase_1.yml')
+      @awards_phase_2_path = File.join(@basepath, '_data', 'awards_phase_2.yml')
+
 
       @awards = nil
       @awards_data = nil
@@ -39,6 +41,14 @@ module SiteData
       else
         FileUtils.touch(@awards_phase_1_path)
         @awards_phase_1 = YAML.load_file(@awards_phase_1_path)
+      end
+
+      if File.exists? @awards_summary_path
+        @awards_phase_2 = YAML.load_file(@awards_phase_2_path)
+
+      else
+        FileUtils.touch(@awards_phase_2_path)
+        @awards_phase_2 = YAML.load_file(@awards_phase_2_path)
       end
     end
 
@@ -84,6 +94,14 @@ module SiteData
 
     def companies_phase_2
       applications_phase_2.map { |a| a['awardeeName'] }.uniq.length.to_i
+    end
+
+    def companies_unique_phase_2_percent
+      (100 * companies_phase_2.to_f / companies_phase_2.to_f).round(2)
+    end
+
+    def funding_per_application_phase_2
+      (funding_phase_2 / applications_phase_2_count).round(2)
     end
 
     def funding_per_company_phase_2
@@ -191,11 +209,13 @@ module SiteData
       @awards_summary['states_count'] = states_count
 
       # Phase 2
-      # @awards_phase_1['applications_phase_2'] = applications_phase_2
+      @awards_phase_2 = applications_phase_2
       @awards_summary['applications_phase_2_count'] = applications_phase_2_count
       @awards_summary['funding_phase_2'] = funding_phase_2
       @awards_summary['companies_phase_2'] = companies_phase_2
+      @awards_summary['companies_unique_phase_2_percent'] = companies_unique_phase_2_percent
       @awards_summary['funding_per_company_phase_2'] = funding_per_company_phase_2
+      @awards_summary['funding_per_application_phase_2'] = funding_per_application_phase_2
       @awards_summary['states_phase_2_count'] = states_phase_2_count
       # Phase 1
 
@@ -210,6 +230,7 @@ module SiteData
 
       @util.update_yaml(@awards_summary, @awards_summary_path)
       @util.update_yaml(@awards_phase_1, @awards_phase_1_path)
+      @util.update_yaml(@awards_phase_2, @awards_phase_2_path)
     end
 
   end
