@@ -1,7 +1,7 @@
 ---
 title: 
 permalink: /grantees/ambassador/
-layout: secondary
+layout: secondary-narrow
 ---
 
 As a NSF SBIR/STTR recipient, you are the face of our program. We look to you to help us maximize public awareness of the NSF SBIR/STTR program and encourage other small businesses and startups with great ideas to apply. Your support of NSF SBIR/STTR is greatly appreciated.
