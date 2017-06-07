@@ -1,25 +1,102 @@
 @import url('https://fonts.googleapis.com/css?family=Overpass+Mono:400,700|Work+Sans:400,500,600,700,800');
 
-.small-header {
-  font-size: 1.8rem;
+.page-title {
+  font-size: $font-size-xl;
+  font-weight: 800;
+  letter-spacing: -.015em;
+  line-height: 1.2;
+  margin: 0;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: $font-size-l;
+}
+
+h3,
+h4 {
+  font-size: $font-size-m;
+}
+
+h5 {
+  font-size: $font-size-s;
+}
+
+.header-top-bar {
+  padding-top: 1.5rem;
+  position: relative;
+
+  &::before {
+    background-color: $color-base;
+    content: '';
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 60px;
+    }
+}
+
+.header-light {
+  font-weight: 500;
+}
+
+p {
+  font-size: $font-size-xs;
+
+  &.p-subhead {
+    font-family: $font-mono;
+    font-size: $font-size-xxs;
+    text-transform: uppercase;
+  }
+
+  &.text-large {
+    font-size: $font-size-m;
+  }
+
+  &.text-medium {
+    font-size: $font-size-s;
+}
+
+  &.text-small {
+    font-size: $font-size-xxs;
+  }
+
+  &.text-alt {
+    font-family: $font-mono;
+  }
+ }
+
+.larger-header {
+  font-size: 110%;
+  font-weight: 700;
+}
+
+.smaller-header {
+  font-size: $font-size-s;
   font-weight: 600;
   letter-spacing: -.02rem;
   line-height: 1.325;
 }
 
-.large-header {
-  font-size: 2rem;
-  font-weight: 700;
+.font-serif {
+  font-family: $font-serif;
 }
 
-.lead {
-  font-size: 2.8rem;
-  font-stretch: normal;
-  font-weight: 700;
-  letter-spacing: -.005em;
-  line-height: 1.625;
-  margin-bottom: 30px;
-  margin-top: 0;
+.font-mono {
+  font-family: $font-mono;
+}
+
+.font-sans {
+  font-family: $font-sans;
 }
 
 .monospace {
