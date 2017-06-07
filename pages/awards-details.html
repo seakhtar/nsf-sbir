@@ -16,7 +16,7 @@ layout: base
     </div>
     <ul class="list results" style="display: none;">
     {% assign awards_by_company = site.data.awards | group_by: "awardeeName" | sort: 'name' %}
-    {% for company in awards_by_company | limit: 2 %}
+    {% for company in awards_by_company %}
     <h3>{{ company.name }} ({{company.items | size }})</h3>
     <hr />
     {% for award in company.items %}

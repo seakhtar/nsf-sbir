@@ -76,50 +76,19 @@ module SiteData
       @awards.length
     end
 
-    # Phase 2
+    # Phase 1 and 2
 
-    def applications_phase_2
+    def applications_phase_1_and_2
       @awards.select do |a|
         a['fundProgramName'].downcase.include?("phase i")
       end.uniq
     end
 
-    def applications_phase_2_count
-      applications_phase_2.size
-    end
-
-    def funding_phase_2
-      applications_phase_2.map { |a| a['fundsObligatedAmt'].to_f }.inject(0, :+).to_f.round(2)
-    end
-
-    def companies_phase_2
-      applications_phase_2.map { |a| a['awardeeName'] }.uniq.length.to_i
-    end
-
-    def companies_unique_phase_2_percent
-      (100 * companies_phase_2.to_f / companies_phase_2.to_f).round(2)
-    end
-
-    def funding_per_application_phase_2
-      (funding_phase_2 / applications_phase_2_count).round(2)
-    end
-
-    def funding_per_company_phase_2
-      (funding_phase_2 / companies_phase_2).round(2)
-    end
-
-    def states_phase_2
-      applications_phase_2.map { |a| a['awardeeStateCode'] }.uniq.sort_by(&:upcase).reject(&:empty?)
-    end
-
-    def states_phase_2_count
-      states_phase_2.length.to_i
-    end
 
     #  Phase 1
 
     def applications_phase_1
-      applications_phase_2.reject do |a|
+      applications_phase_1_and_2.reject do |a|
         a['fundProgramName'].downcase.include?("phase ii")
       end.uniq
     end
@@ -155,6 +124,45 @@ module SiteData
     def states_phase_1_count
       states_phase_1.length.to_i
     end
+
+    #  Phase 2
+
+    def applications_phase_2
+      applications_phase_1_and_2 - applications_phase_1
+    end
+
+    def applications_phase_2_count
+      applications_phase_2.size
+    end
+
+    def funding_phase_2
+      applications_phase_2.map { |a| a['fundsObligatedAmt'].to_f }.inject(0, :+).to_f.round(2)
+    end
+
+    def companies_phase_2
+      applications_phase_2.map { |a| a['awardeeName'] }.uniq.length.to_i
+    end
+
+    def companies_unique_phase_2_percent
+      (100 * companies_phase_2.to_f / companies_phase_2.to_f).round(2)
+    end
+
+    def funding_per_application_phase_2
+      (funding_phase_2 / applications_phase_2_count).round(2)
+    end
+
+    def funding_per_company_phase_2
+      (funding_phase_2 / companies_phase_2).round(2)
+    end
+
+    def states_phase_2
+      applications_phase_2.map { |a| a['awardeeStateCode'] }.uniq.sort_by(&:upcase).reject(&:empty?)
+    end
+
+    def states_phase_2_count
+      states_phase_2.length.to_i
+    end
+
 
     # Active applications
 
@@ -210,6 +218,7 @@ module SiteData
 
       # Phase 2
       @awards_phase_2 = applications_phase_2
+      @awards_summary['applications_phase_2'] = nil
       @awards_summary['applications_phase_2_count'] = applications_phase_2_count
       @awards_summary['funding_phase_2'] = funding_phase_2
       @awards_summary['companies_phase_2'] = companies_phase_2
