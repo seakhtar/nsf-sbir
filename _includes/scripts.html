@@ -1,3 +1,10 @@
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+
+
 {% assign _scripts = '' | split: '' %}
 {% assign _async_marker = 'uswds_async=true' %}
 {% assign _site_scripts = site.scripts %}
@@ -26,6 +33,7 @@
   ga('send', 'pageview');
 
 </script>
+
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -2,7 +2,9 @@
 ---
 @import 'variables';
 @import 'uswds-overrides';
+@import 'box-model';
 @import 'typography';
+@import 'flexbox';
 @import 'hero';
 @import 'program-directors';
 @import 'flex-list';
@@ -11,4 +13,9 @@
 @import 'portfolio';
 @import 'footer';
 @import 'site';
+@import 'tables';
+@import 'backgrounds';
+@import 'colors';
+@import 'loader';
 @import '_styleguide/all';
+

@@ -1,0 +1,38 @@
+---
+title: Awardees phase 2 details
+permalink: /awardees/phase-2/details/
+scripts:
+  - src: /assets/js/awardees-static.js
+    async: true
+layout: base
+---
+<div class="usa-section usa-grid">
+  <h1>Phase 2 details</h1>
+</div>
+<div class="usa-section">
+  <div class="results-loading flex flex-center">
+    <div class="loader" aria-role="img"></div>
+    <h3 class="m0">Loading company results...</h3>
+  </div>
+  <div id="awards-details-list" class="usa-grid">
+    <ul class="list results" style="display: none;">
+    {% assign awards_by_company = site.data.awards_phase_2 | uniq | group_by: "awardeeName" | sort: 'name' %}
+    {% for company in awards_by_company %}
+    {% if company.name != blank %}
+    {% for award in company.items %}
+    <li>
+      <h3 class="title">{{ award.title }}</h3>
+      <p class="date">Date: {{ award.date }}</p>
+      <h4 class="awardeeName">{{ award.awardeeName }}</h4>
+      <p class="city">{{ award.awardeeCity | titlecase }}, {{ award.awardeeStateCode }}</p>
+      <p class="piName">{{ award.piFirstName }} {{ award.piLastName }}</p>
+      <p class="amount">Funds Received: {{ award.fundsObligatedAmt | round | intcomma_dollar }}</p>
+      <p class="abstractText">{{ award.abstractText }}</p>
+      <hr>
+    </li>
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
+</div>

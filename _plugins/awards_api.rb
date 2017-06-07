@@ -7,6 +7,7 @@ module SiteData
     def get(params)
       dateStart = params['date_start']
       dateEnd = params['date_end']
+      printFields = params['printFields']
       offset = 1
       successful_connection = true
       awards = []
@@ -16,9 +17,14 @@ module SiteData
 
       while successful_connection do
         puts "new awards: #{offset}"
-        params = { :agency => 'nsf', :dateStart => dateStart, :dateEnd => dateEnd, :offset => offset }
+        params = {
+          :agency => 'nsf',
+          :dateStart => dateStart,
+          :dateEnd => dateEnd,
+          :printFields => printFields.join(','),
+          :offset => offset
+        }
         uri.query = URI.encode_www_form(params)
-
         res = Net::HTTP.get_response(uri)
         awards_present = res.is_a?(Net::HTTPSuccess) && !JSON.parse(res.body)['response']['award'].empty?
         if awards_present
