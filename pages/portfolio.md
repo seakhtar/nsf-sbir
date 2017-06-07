@@ -24,10 +24,9 @@ layout: secondary
 {% include tech-subtopics.html %}
 </section>
 <section class="usa-section usa-content usa-grid" markdown="1">
-## Current awardees
-Get the latest on the the funding trends related to our current and recent awardees.  
+## Awardees pages
 
-Our current awardees pages feature information about Phase I and Phase II awardees who are actively using their funding, and our recent awardees pages highlight companies that received funding during the previous solicitation period.
+Our current awardees pages feature information about Phase I and Phase II awardees who are actively using their funding. Recent awardees pages highlight companies that received funding during the previous solicitation period.
 
 ### Current awardees / Phase I
 
