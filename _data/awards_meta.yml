@@ -1,9 +1,22 @@
 ---
 date_start: 06/01/2016
 date_end: 12/31/2016
-active_date_start: 11/30/2016
+active_start_date: 11/30/2016
 update_to_current_time: false
-reset_date: false
-last_updated: 06/01/2017
+reset: false
+printFields:
+- id
+- awardeeCity
+- awardeeName
+- awardeeStateCode
+- date
+- expDate
+- fundsObligatedAmt
+- fundProgramName
+- poName
+- title
+- awardee
+- abstractText
+last_updated: 06/07/2017
 ---
 
