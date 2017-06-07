@@ -45,7 +45,8 @@ Ask all your application-related questions during our Q&A webinars. Can’t make
     </tbody>
   </table>
   
-  ## Onsite events
+  
+ ## Onsite events
   
   Our mentors and staff attend events year round and across the country. Here are just a few events we’ll be visiting:
   
@@ -55,7 +56,7 @@ Ask all your application-related questions during our Q&A webinars. Can’t make
   
   Before you register, please double-check event dates and times with the sponsoring organizations.
   
-  ## FAQ
+## FAQ
   
 Still have questions? Visit our [FAQ](https://www.nsf.gov/pubs/2017/nsf17071/nsf17071.jsp), which covers the pre-application process to post-award reporting (and everything in between).
 
