@@ -7,7 +7,7 @@ layout: secondary-narrow
 Startups and small businesses that are funded through the National Science Foundation (NSF) Small Business Innovation Research (SBIR) Program can offer paid research experiences/partnerships with students, teachers, and schools.
 
 ## Program Flyers
-K-12 and Community College Teachers | High School Students
+[K-12 and Community College Teachers](/files/RET_Flyer.pdf) | [High School Students](/files/RAHSS_Flyer.pdf)
 
 ## Taryn's Story
 Read about Taryn Imamura's experience with Modular Genetics, Inc. and her award in the Clinton Ideas Matter Essay contest here.
@@ -20,14 +20,15 @@ The red dots on the map below represent Phase II NSF SBIR/STTR grantees. Large g
 [See this map on its own page.](https://www.google.com/fusiontables/data?docid=1eR5TPghK5so47xxeR_8vCdZcuhNWNyu1CEqw9MSM#map:id=3) | [See a searchable table with the same information.](https://www.google.com/fusiontables/data?docid=1eR5TPghK5so47xxeR_8vCdZcuhNWNyu1CEqw9MSM#rows:id=1)
 
 # How to Apply
-NSF lists opportunities on this page, but the application process is managed by the small companies themselves. **Please follow the instructions listed at the URL provided by the company, if there is one.** If there are no specific instructions, the next step is to contact the company with an email or a phone call. Click here for an email template!
+NSF lists opportunities on this page, but the application process is managed by the small companies themselves. **Please follow the instructions listed at the URL provided by the company, if there is one.** If there are no specific instructions, the next step is to contact the company with an email or a phone call. [Click here for an email template!](/flyer/Sample_ContactingNSFSBIRCompanies.docx)
 
 If you need assistance or have questions, you can contact us at SBIRresearchexp@nsf.gov:
-Video and Interviews:
+
+## Video and Interviews
 
 [Youtube Video Inset]
 
-# Research Experiences are Supported for the Following Participants:
+# Research Experiences are Supported for the Following Participants
 
 ## High School Students
 - Funding support for active research participation by high school students interested in science, technology, and mathematics.
