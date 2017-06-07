@@ -118,7 +118,7 @@ module SiteData
     end
 
     def states_phase_1
-      applications_phase_2.map { |a| a['awardeeStateCode'] }.uniq.sort_by(&:upcase).reject(&:empty?)
+      applications_phase_1.map { |a| a['awardeeStateCode'] }.uniq.sort_by(&:upcase).reject(&:empty?)
     end
 
     def states_phase_1_count
