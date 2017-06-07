@@ -19,10 +19,10 @@ module SiteData
       @awards_data = nil
 
       if File.exists? @path
-        @awards = YAML.load_file(@path)
+        @awards = YAML.load_file(@path).uniq
       else
         FileUtils.touch(@path)
-        @awards = YAML.load_file(@path)
+        @awards = YAML.load_file(@path).uniq
       end
 
       if File.exists? @awards_summary_path
@@ -71,7 +71,7 @@ module SiteData
     def applications_phase_2
       @awards.select do |a|
         a['fundProgramName'].downcase.include?("phase i")
-      end
+      end.uniq
     end
 
     def applications_phase_2_count
@@ -103,7 +103,7 @@ module SiteData
     def applications_phase_1
       applications_phase_2.reject do |a|
         a['fundProgramName'].downcase.include?("phase ii")
-      end
+      end.uniq
     end
 
     def applications_phase_1_count
@@ -111,11 +111,19 @@ module SiteData
     end
 
     def funding_phase_1
-      applications_phase_1.map { |a| a['fundsObligatedAmt'].to_f }.inject(0, :+).to_f.round(2)
+      applications_phase_1.uniq.map { |a| a['fundsObligatedAmt'].to_f }.inject(0, :+).to_f.round(2)
     end
 
     def companies_phase_1
-      applications_phase_1.map { |a| a['awardeeName'] }.uniq.length.to_i
+      applications_phase_1.uniq.map { |a| a['awardeeName'] }.uniq.length.to_i
+    end
+
+    def companies_unique_phase_1_percent
+      (100 * companies_phase_1.to_f / companies_phase_1.to_f).round(2)
+    end
+
+    def funding_per_application_phase_1
+      (funding_phase_1 / applications_phase_1_count).round(2)
     end
 
     def funding_per_company_phase_1
@@ -195,7 +203,9 @@ module SiteData
       @awards_summary['applications_phase_1_count'] = applications_phase_1_count
       @awards_summary['funding_phase_1'] = funding_phase_1
       @awards_summary['companies_phase_1'] = companies_phase_1
+      @awards_summary['companies_unique_phase_1_percent'] = companies_unique_phase_1_percent
       @awards_summary['funding_per_company_phase_1'] = funding_per_company_phase_1
+      @awards_summary['funding_per_application_phase_1'] = funding_per_application_phase_1
       @awards_summary['states_phase_1_count'] = states_phase_1_count
 
       @util.update_yaml(@awards_summary, @awards_summary_path)

@@ -14,7 +14,7 @@ layout: base
     <hr />
 
     <div class="usa-width-one-third">
-      <strong class="color-primary">{{ awards_summary.funding_per_company_phase_1 | round | intcomma_dollar }}</strong>
+      <strong class="color-primary">{{ awards_summary.funding_per_application_phase_1 | round | intcomma_dollar }}</strong>
       <div>Average $ amount of funding awarded for each company in phase 1</div>
     </div>
     <div class="usa-width-one-third">
@@ -22,8 +22,8 @@ layout: base
       <div>From {{ awards_summary.states_phase_1_count }} states including D.C., Puerto Rico, and the Virgin Islands</div>
     </div>
     <div class="usa-width-one-third">
-      <strong class="color-primary">{{ awards_summary.applications_phase_1_count | intcomma }}</strong>
-      <div>Total applications received {{ awards_summary.active_date_range }}</div>
+      <strong class="color-primary">{{ awards_summary.companies_unique_phase_1_percent }}%</strong>
+      <div>Unique companies that applied during {{ awards_summary.active_date_range }}</div>
     </div>
   </div>
 </div>
