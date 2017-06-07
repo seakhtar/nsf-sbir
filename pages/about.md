@@ -9,13 +9,18 @@ section_image: "/assets/img/bg/robotic-arm.jpg"
 <div class="usa-width-one-whole" markdown="1">
 # About America's Seed Fund
 
-<p class="text-medium">For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.</p>
+For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.
+</div>
+</div>
+</section>
+<section class="background-light-blue">
+<div class="usa-grid usa-section-tight-top">
 <div class="usa-width-one-whole" markdown="1">
 
 When you join our elite group of innovators, you’ll help us:
-
 </div>
 </div>
+<div class="usa-content usa-section usa-grid usa-section-tight-top">
 <div class="usa-width-one-fourth" markdown="1">
 Promote groundbreaking technologies developed by U.S. entrepreneurs.
 </div>
@@ -37,7 +42,7 @@ Stimulate private-sector commercialization of technologies developed using feder
     </div>
   </div>
 </section>
-<section class="section-about-asf">
+<section class="background-light-blue">
 <div class="usa-section usa-content usa-grid" markdown="1">
 <div class="usa-width-one-third" markdown="1">
 ### Funding for R&D with founder-friendly terms
@@ -78,7 +83,7 @@ If you’re awarded Phase I funding, you’ll be expected to:
 
 Applicants often ask whether they can update their research plan during the course of a project, and the answer is yes — with a few stipulations. While it’s OK for you to update your business model or R&D strategy a bit (this is bound to happen), you can’t entirely shift the focus of your work.
 
-If your technology needs more development — and if you’ve met all the Phase I requirements — you can apply for more funding. Phase II awardees receive up to $750,000 over two years. 
+If your technology needs more development — and if you’ve met all the Phase I requirements — you can apply for more funding. Phase II awardees receive up to $750,000 over two years.
 
 Phase II awardees can apply for Phase IIB funding to speed up commercialization. To be considered for Phase IIB funding (up to $500,000), you need a third-party investment of at least $100K. Visit our [Supplemental funding page](https://www.nsf.gov/eng/iip/sbir/Supplement/) to learn more.
 
@@ -114,7 +119,7 @@ Through the merit review process, NSF funds the most innovative ideas in science
 </div>
 </section>
 
-<section class="section-program-directors">
+<section class="background-white">
 <div class="usa-section usa-content usa-grid" markdown="1">
 ## Psrogram directors
 Our program directors are domain experts from diverse fields — get to know them here.

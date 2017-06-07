@@ -49,31 +49,37 @@ h5 {
   font-weight: 500;
 }
 
-p {
-  font-size: $font-size-xs;
+.usa-layout-docs {
 
-  &.p-subhead {
-    font-family: $font-mono;
-    font-size: $font-size-xxs;
-    text-transform: uppercase;
-  }
-
-  &.text-large {
+  .text-large {
     font-size: $font-size-m;
   }
 
-  &.text-medium {
+  .text-medium {
     font-size: $font-size-s;
 }
 
-  &.text-small {
+  .text-alt {
+    font-family: $font-mono;
+  }
+
+  .subhead {
+    font-family: $font-mono;
+    font-size: $font-size-xxs;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-bottom: $space-m;
+  }
+
+  .text-small {
     font-size: $font-size-xxs;
   }
 
-  &.text-alt {
-    font-family: $font-mono;
-  }
  }
+
+
+
+
 
 .larger-header {
   font-size: 110%;
