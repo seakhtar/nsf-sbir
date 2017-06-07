@@ -39,20 +39,24 @@
   }
 }
 
-
-
-.section-header {
-
-  .usa-width-one-fourth {
-
-  p {
-    font-size: $font-size-xxs;
-  }
+.landing-layout {
+  .section-header {
+    p {
+      font-size: $font-size-m;
+    }
   }
 }
 
-.section-about-asf {
-  background-color: $light-blue-bg-color;
+.secondary-layout {
+  .section-header {
+    p {
+      font-size: $font-size-s;
+    }
+  }
+}
+
+.usa-section-tight-top {
+ padding-top: 1rem;
 }
 
 .section-intro {
@@ -62,10 +66,6 @@
   p {
     font-size: $font-size-xs;
   }
-}
-
-.section-program-directors {
-  background: $light-gray-bg-color;
 }
 
 .divider,
