@@ -1,19 +1,22 @@
-ID,Name,Event Date,Time,Location,Description,Call to action,Display until
+Table 1,,,,,,,,
+ID,Name,Event Date,Time,Location,Description,Call to action,Call to action URL,Display until
 2,NSF Seed Fund Q&A Webinar,"Thu, May 4, 2017",2:00 PM - 3:30 PM ET,Online,"Program Director Ruth Shuman will host this Q&A. She will take questions from participants and answer questions about the NSF seed fund and what you need to apply for the upcoming deadline. 
-",Register,
+",Register,,
 3,NSF Seed Fund Q&A Webinar,"Fri, May 19, 2017",2:00 PM - 3:30 PM ET,Online,"Program Director Rajesh Mehta will answer your questions about the NSF seed fund and what you need to apply for the upcoming deadline. 
-",Register,
+",Register,,
 4,NSF Seed Fund Q&A Webinar,"Tue, May 30, 2017",2:00 PM - 3:30 PM ET,Online,"Program Director Jesus Soriano will host this Q&A. She will take questions from participants and answer questions about the NSF seed fund and what you need to apply for the upcoming deadline. 
-",Register,
+",Register,,
 5,"SBIR Road Tour: Boise, ID","Tue, May 2, 2017",,"Boise State University
 Hatch Ballroom
 1700 University Dr.
-Boise, ID 83725","SBIR Road Tour stop offers a chance to meet directly with NSF seed fund program managers who fund a wide spectrum of innovative ideas, while learning about your state sponsored innovation support infrastructure.",Event details,
+Boise, ID 83725","SBIR Road Tour stop offers a chance to meet directly with NSF seed fund program managers who fund a wide spectrum of innovative ideas, while learning about your state sponsored innovation support infrastructure.",Event details,,
 6,"SBIR Road Tour: Sandy, UT","Wed, May 3, 2017",,"Salt Lake Community College
 Miller Campus
 9750 South 300 West
-Sandy, UT 84070","SBIR Road Tour stop offers a chance to meet directly with NSF seed fund program managers who fund a wide spectrum of innovative ideas, while learning about your state sponsored innovation support infrastructure.",Event details,
+Sandy, UT 84070","SBIR Road Tour stop offers a chance to meet directly with NSF seed fund program managers who fund a wide spectrum of innovative ideas, while learning about your state sponsored innovation support infrastructure.",Event details,,
 7,"SBIR Road Tour: Minneapolis, MN","Mon, Jul 17, 2017",,"McNamara Alumni Center 
 University of Minnesota 
 200 SE Oak St. 
-Minneapolis, MN 55455","SBIR Road Tour stop offers a chance to meet directly with NSF seed fund program managers who fund a wide spectrum of innovative ideas, while learning about your state sponsored innovation support infrastructure.",Event details,
+Minneapolis, MN 55455","SBIR Road Tour stop offers a chance to meet directly with NSF seed fund program managers who fund a wide spectrum of innovative ideas, while learning about your state sponsored innovation support infrastructure.",Event details,,
+,,,,,,,,
+,,,,,,,,
