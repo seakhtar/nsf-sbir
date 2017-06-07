@@ -1,7 +1,7 @@
 ---
 title: Biomedical Technologies
 permalink: /topics/bm/
-layout: secondary
+layout: secondary-narrow
 ---
 
 # Biomedical (BM) Technologies

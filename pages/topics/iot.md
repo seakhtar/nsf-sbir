@@ -1,7 +1,7 @@
 ---
 title: Internet of Things
 permalink: /topics/iot/
-layout: secondary
+layout: secondary-narrow
 ---
 
 # Internet of Things (I)
@@ -16,11 +16,11 @@ IoT is expected to become ubiquitous, with implementations in the smart home - m
 
 Market verticals that are potentially impacted by innovations in this area include Connected Cities and Homes, Smart Transportation, Smart Agriculture, Industrial IoT, and Retail IoT. Proposals are encouraged that address key challenges across the full range of IoT applications
 
-### IoT1. IoT Sensors and Actuators 
+### IoT1. IoT Sensors and Actuators
 IoT is on track to connect 50 billion "smart" things by 2020, and one trillion sensors soon after. This subtopic includes (but is not limited to) innovations in device and materials technology to enable new sensor functionality, further sensor miniaturization, improved sensor performance or more efficient energy use; actuator technologies to enable new IoT functionalities; and device packaging innovations that enable further sensor or actuator miniaturization and embedding in a greater range of smart objects and devices.
 
 ### IoT2. IoT Energy and Power Systems
-Many of the components that enable IoT will have to operate in severely power constrained network edge environments, requiring improvements in energy efficiency in simple, low-cost systems. In many cases, the devices will not have a consistent power supply, and local energy harvesting will therefore be required. This subtopic includes (but is not limited to) novel power management integrated circuits aimed at miniaturizing devices and increasing energy efficiency; power management systems for energy harvesting to enable mobile or remote IoT devices and systems; and smart power protocols for IoT devices. This subtopic can also include broader categories of energy-efficient technologies to enable mobile IoT applications, such as displays, power efficient IC's, and innovative mobile battery solutions. 
+Many of the components that enable IoT will have to operate in severely power constrained network edge environments, requiring improvements in energy efficiency in simple, low-cost systems. In many cases, the devices will not have a consistent power supply, and local energy harvesting will therefore be required. This subtopic includes (but is not limited to) novel power management integrated circuits aimed at miniaturizing devices and increasing energy efficiency; power management systems for energy harvesting to enable mobile or remote IoT devices and systems; and smart power protocols for IoT devices. This subtopic can also include broader categories of energy-efficient technologies to enable mobile IoT applications, such as displays, power efficient IC's, and innovative mobile battery solutions.
 
 ### IoT3. IoT Communications
 Enabling ubiquitous connectivity and the aggregation of IoT data presents key data processing and communications challenges as the industry tries to simplify and define how "smart" things interact. A wide variety of communication solutions, both wired and wireless, will likely emerge. This subtopic includes (but is not limited to) innovations that will substantially improve the underlying technical performance, or extend the functionality, of IoT communication systems. Particular emphasis is placed on low-power and dataefficient communications schemes, as these are required to enable IoT in resource-constrained environments. Examples of relevant technical fields include (but are not limited to): short range and long distance transmission technologies - optical, RF, microwave or ultrasonic; communication signal sources and detectors - optical (lasers, LEDs, photodetectors), RF, microwave or ultrasonic; and electronic or optoelectronic signal processing technologies to facilitate efficient low-power data transmission or reception.

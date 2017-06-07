@@ -1,7 +1,7 @@
 ---
 title: Smart Health
 permalink: /topics/sh/
-layout: secondary
+layout: secondary-narrow
 ---
 
 # Smart Health (SH)

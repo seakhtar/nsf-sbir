@@ -1,7 +1,7 @@
 ---
 title: Advanced Materials and Instrumentation
 permalink: /topics/mi/
-layout: secondary
+layout: secondary-narrow
 ---
 
 # Advanced Materials and Instrumentation (MI)
@@ -10,12 +10,12 @@ You may communicate with the Program Director, Debasis Majumdar (dmajumda@nsf.go
 
 Click here for examples of recently funded Phase I projects in this portfolio.
 
-## Introduction 
+## Introduction
 The Advanced Materials and Instrumentation (MI) topic addresses the development of new and improved materials and instruments for a wide variety of commercial and industrial applications. Proposals in Advanced Materials may focus on the creation of innovative material systems and/or on critical fabrication, processing, or manufacturing challenges involved in the successful commercialization of materials. Proposals in Instrumentation may focus on new instruments for use in scientific, industrial, engineering, or manufacturing environments, among others. Types of instruments that will be considered include systems and tools designed for the purposes of detection, characterization, measurement, processing, control, and/or monitoring. A wide variety of applications areas will be considered as part of this topic.
 ### MI1. Metals and Ceramics
 Material innovations to improve the performance of and/or allow new functions in metallic and ceramic materials. This topic includes bulk materials (e.g. superalloys, ceramics, and composites) and coatings (e.g. thermal and environmental barrier coatings, and tribological coatings), as well as other morphologies (e.g. foams). This subtopic also includes composites of metallic and ceramic materials (metal-matrix and ceramicmatrix composites).
 
-### MI2. Structural and Infrastructural Materials 
+### MI2. Structural and Infrastructural Materials
 Material and process innovations to improve the performance of materials in structural applications. Includes (but is not limited to) materials for civil infrastructure (e.g. cement, concrete, structural panels, etc.) and polymer composites for various applications. Structural materials that are metallic or ceramic should be submitted under topic MI1.
 
 ### MI3. Coatings and Surface Modifications

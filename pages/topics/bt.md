@@ -1,7 +1,7 @@
 ---
 title: Biological Technologies
 permalink: /topics/bt/
-layout: secondary
+layout: secondary-narrow
 ---
 
 # Biological Technologies (BT)

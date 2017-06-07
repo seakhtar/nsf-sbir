@@ -1,7 +1,7 @@
 ---
 title: Other Topics
 permalink: /topics/ot/
-layout: secondary
+layout: secondary-narrow
 ---
 
 # Other Topics (OT)

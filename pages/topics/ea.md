@@ -1,7 +1,7 @@
 ---
 title: Educational Technologies and Applications
 permalink: /topics/ea/
-layout: secondary
+layout: secondary-narrow
 ---
 
 # Educational Technologies and Applications (EA)
