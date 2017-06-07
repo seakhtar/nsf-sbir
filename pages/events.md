@@ -43,10 +43,10 @@ Ask all your application-related questions during our Q&A webinars. Can’t make
       </tr>
       {% endfor %}
     </tbody>
-  </table>
+</table>
   
   
- ## Onsite events
+## Onsite events
   
   Our mentors and staff attend events year round and across the country. Here are just a few events we’ll be visiting:
   
