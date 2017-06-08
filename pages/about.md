@@ -9,18 +9,13 @@ section_image: "/assets/img/bg/robotic-arm.jpg"
 <div class="usa-width-one-whole" markdown="1">
 # About America's Seed Fund
 
-For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.
-</div>
-</div>
-</section>
-<section class="background-light-blue">
-<div class="usa-grid usa-section-tight-top">
+<p class="text-medium">For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.</p>
 <div class="usa-width-one-whole" markdown="1">
 
 When you join our elite group of innovators, you’ll help us:
+
 </div>
 </div>
-<div class="usa-content usa-section usa-grid usa-section-tight-top">
 <div class="usa-width-one-fourth" markdown="1">
 Promote groundbreaking technologies developed by U.S. entrepreneurs.
 </div>
@@ -42,14 +37,13 @@ Stimulate private-sector commercialization of technologies developed using feder
     </div>
   </div>
 </section>
-<section class="background-light-blue">
+<section class="section-about-asf">
 <div class="usa-section usa-content usa-grid" markdown="1">
 <div class="usa-width-one-third" markdown="1">
 ### Funding for R&D with founder-friendly terms
 </div>
 
 <div class="usa-width-two-thirds" markdown="1">
-America’s Seed Fund offers entrepreneurs these unique benefits:
 
 - **$225,000 in Phase I funding**: We award up to $225,000 in funding (over six to 12 months) for R&D work. We’ll also provide you with training and mentorship in key business areas.
 
@@ -63,7 +57,7 @@ America’s Seed Fund offers entrepreneurs these unique benefits:
 
 - **Less restricted spending**: You can use your funding on employees’ salaries and wages, fringe benefits, materials and supplies, and other R&D costs (though marketing and business developments costs aren’t covered).
 
-- **Possible follow-on funding**: Companies that complete Phase I may be eligible for more funding. If you’ve shown that your technology is feasible and needs more development, you could receive an additional $750,000 over two years. And, depending on your circumstances, you could be eligible for up to up to $500,000 in supplemental funding.
+- **Possible follow-on funding**: Companies that complete Phase I may be eligible for more funding. If you’ve shown that your technology is feasible and needs more development, you could receive an additional $750,000 over two years. And, depending on your circumstances, you could be eligible for up to $500,000 in supplemental funding.
 </div>
 </div>
 </section>
@@ -87,7 +81,7 @@ If your technology needs more development — and if you’ve met all the Phase 
 
 Phase II awardees can apply for Phase IIB funding to speed up commercialization. To be considered for Phase IIB funding (up to $500,000), you need a third-party investment of at least $100K. Visit our [Supplemental funding page](https://www.nsf.gov/eng/iip/sbir/Supplement/) to learn more.
 
-ACTIVE STATE: For complete program information, check out our latest solicitation [link].
+ACTIVE STATE: For complete program information, check out our latest solicitation [link]. (Internal note: there are two solicitations: one for SBIR and another for STTR. See [mockup](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/explore/about/index.html))
 EXPIRED STATE: For more program information, check out our last solicitation. Our next solicitation will be posted in [MONTH YEAR].
 </div>
 </section>
@@ -98,7 +92,7 @@ EXPIRED STATE: For more program information, check out our last solicitation. Ou
 
 We work with startups and small businesses, and we welcome proposals from newly formed companies — you don’t need a track record of commercialization to apply for funding. Please note that your company needs to be a legal entity before you apply.
 
-If your company is majority owned by a venture capital operating company, hedge fund, or private-equity firm, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf).
+If your company is majority owned by a venture capital operating company, hedge fund, or private-equity firm, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](#).
 </div>
 <div class="usa-width-one-half" markdown="1">
 #### We support R&D with lots of technical risk
@@ -113,13 +107,13 @@ In selected cases, we support innovations to existing products, but these innova
 <div class="usa-section usa-content usa-grid" markdown="1">
 ## About NSF
 
-America's Seed Fund is a program within the [National Science Foundation](https://federalist.fr.cloud.gov/preview/18f/nsf-sbir/explore/about/index.html#). NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with a $7.5 billion budget.
+America's Seed Fund is a program within the [National Science Foundation](https://www.nsf.gov/). NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with a $7.5 billion budget.
 
 Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.
 </div>
 </section>
-
-<section class="background-white">
+<!--
+<section class="section-program-directors">
 <div class="usa-section usa-content usa-grid" markdown="1">
 ## Psrogram directors
 Our program directors are domain experts from diverse fields — get to know them here.
@@ -127,3 +121,4 @@ Our program directors are domain experts from diverse fields — get to know the
 {% include program-directors.html %}
 </div>
 </section>
+-->
