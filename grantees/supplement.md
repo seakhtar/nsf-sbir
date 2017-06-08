@@ -1,5 +1,5 @@
 ---
-title: Supplement
+title: Supplement Instructions
 permalink: /grantees//
 layout: secondary-narrow
 ---
