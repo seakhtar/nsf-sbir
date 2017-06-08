@@ -1,5 +1,5 @@
 ---
-title: 
+title: Be an Ambassador
 permalink: /grantees/ambassador/
 layout: secondary-narrow
 ---
