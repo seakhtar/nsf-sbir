@@ -3,6 +3,8 @@ title: About
 permalink: /about/
 layout: secondary
 section_image: "/assets/img/bg/robotic-arm.jpg"
+section_image_caption: |
+  The first robotic printer used by [Branch](#) in late 2014 to develop the initial proof of concept for CFAB® prior to SBIR Phase I research.
 ---
 <section class="section-header background-light-blue">
 <div class="usa-section usa-content usa-grid">
@@ -33,7 +35,7 @@ Stimulate private-sector commercialization of technologies developed using feder
 <section class="section-background-image">
   <div class="usa-grid">
     <div class="usa-width-one-third">
-      <p class="caption">The first robotic printer used by <a href="#">Branch</a> in late 2014 to develop the initial proof of concept for CFAB® prior to SBIR Phase I research.</p>
+      <div class="caption">{{ page.section_image_caption | liquify | markdownify }}</div>
     </div>
   </div>
 </section>

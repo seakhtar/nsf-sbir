@@ -1,4 +1,6 @@
 - topic: Advanced Manufacturing and Nanotechnology (MN)
+  permalink: /topics/manufacturing-and-nanotechnology/
+  topic_code: mn
   programDirector:
     - name: Rajesh Mehta
       email: rmehta@nsf.gov
@@ -32,6 +34,8 @@
     - Levant Power (now Clear Motion)
 
 - topic: Advanced Materials and Instrumentation (MI)
+  permalink: /topics/materials-and-instrumentation/
+  topic_code: mi
   programDirector:
     - name: Debasis Majumdar
       email: dmajumda@nsf.gov
@@ -58,6 +62,8 @@
     - Neuvokas Corporation
 
 - topic: Biological Technologies (BT)
+  permalink: /topics/biological/
+  topic_code: bt
   programDirector:
     - name: Ruth Shuman
       email: rshuman@nsf.gov
@@ -84,6 +90,8 @@
     - Miromatrix Medical Inc.
 
 - topic: Biomedical Technologies (BM)
+  permalink: /topics/biomedical/
+  topic_code: bm
   programDirector:
     - name: Henry Ahn
       email: hahn@nsf.gov
@@ -108,6 +116,8 @@
     - LambdaVision, Inc.
 
 - topic: Chemical and Environmental Technologies (CT)
+  permalink: /topics/chemical-and-environmental/
+  topic_code: ct
   programDirector:
     - name: Anna Brady-Estevez
       email: abrady@nsf.gov
@@ -140,6 +150,8 @@
     - Cambrian Innovation Inc
 
 - topic: Educational Technologies and Applications (EA)
+  permalink: /topics/educational/
+  topic_code: ea
   programDirector:
     - name: Glenn H. Larsen
       email: glarsen@nsf.gov
@@ -167,6 +179,8 @@
     - starMobile, Inc.
 
 - topic: Electronic Hardware, Robotics and Wireless Technologies (EW)
+  permalink: /topics/electronic-hardware-robotics-and-wireless/
+  topic_code: ew
   programDirector:
     - name: Muralidharan S. Nair
       email: mnair@nsf.gov
@@ -199,7 +213,9 @@
     - Leonardo Innovations Inc.
     - RightHand Robotics, LLC
 
-- topic: Information Technologies(IT)
+- topic: Information Technologies (IT)
+  permalink: /topics/information-technologies/
+  topic_code: it
   programDirector:
   - name: Peter Atherton
     email: patherto@nsf.gov
@@ -232,6 +248,8 @@
     - Bay Labs, Inc.
 
 - topic: Internet of Things (I)
+  permalink: /topics/internet-of-things/
+  topic_code: iot
   programDirector:
     - name: Rick Schwerdtferger
       email: rschwerd@nsf.gov
@@ -250,6 +268,8 @@
     - IOTAS, Inc.
 
 - topic: Semiconductors (S) and Photonic Devices and Materials (PH)
+  permalink: /topics/semiconductors-and-photonic-devices/
+  topic_code: sp
   programDirector:
     - name: Rick Schwerdtferger
       email: rschwerd@nsf.gov
@@ -275,6 +295,8 @@
     - Uniqarta, Inc.
 
 - topic: Smart Health (SH)
+  permalink: /topics/smart-health/
+  topic_code: sh
   programDirector:
     - name: Jesus V. Soriano
       email: jsoriano@nsf.gov
@@ -296,6 +318,8 @@
     - Radial Analytics, Inc.
 
 - topic: Other Topics (OT)
+  permalink: /topics/other/
+  topic_code: ot
   programDirector:
     - name: Ben Schrag
       email: bschrag@nsf.gov
