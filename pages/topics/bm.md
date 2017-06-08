@@ -1,10 +1,13 @@
 ---
 title: Biomedical Technologies
 permalink: /topics/bm/
-layout: secondary-narrow
+layout: tech-topic
+code: bm
+section_image: "/assets/img/bg/robotic-arm.jpg"
+section_image_caption: |
+  The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
 ---
 
-# Biomedical (BM) Technologies
 ## Pre-Submission Feedback
 You may communicate with the Program Director, Henry Ahn (hahn@nsf.gov), to gauge if a project meets the program's intellectual merit and commercial impact criteria. Email a 1-2 page executive summary discussing the following aspects of the project: 1) the company and team; 2) the market opportunity, value proposition, and customers; 3) the technology/innovation; 4) the technical challenges to overcome; and 5) the competition. Please note that responsiveness will likely be limited in the 2 weeks leading up to the solicitation deadline.
 

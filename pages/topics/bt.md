@@ -1,10 +1,13 @@
 ---
 title: Biological Technologies
 permalink: /topics/bt/
-layout: secondary-narrow
+layout: tech-topic
+code: bt
+section_image: "/assets/img/bg/robotic-arm.jpg"
+section_image_caption: |
+  The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
 ---
 
-# Biological Technologies (BT)
 ## Pre-Submission Feedback
 You may communicate with the Program Director, Ruth Shuman (rshuman@nsf.gov), to gauge if a project meets the program's intellectual merit and commercial impact criteria. Send a 1-2 page executive summary by e-mail discussing the following aspects of the project: 1) the company and team; 2) the market opportunity, value proposition, and customers; 3) the technology/innovation; 4) the technical challenges to overcome; and 5) the competition. Please note that responsiveness will likely be limited in the 2 weeks leading up to the solicitation deadline.
 
