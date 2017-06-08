@@ -1,5 +1,5 @@
 ---
-title: 
+title: Principal Investigator \(PI\) Change
 permalink: /grantees/pi_change/
 layout: secondary-narrow
 ---
