@@ -1,8 +1,8 @@
 ---
 title: Educational Technologies and Applications
-permalink: /topics/ea/
+permalink: /topics/educational/
 layout: tech-topic
-code: ea
+topic_code: ea
 section_image: "/assets/img/bg/robotic-arm.jpg"
 section_image_caption: |
   The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.

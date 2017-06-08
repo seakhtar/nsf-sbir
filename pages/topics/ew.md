@@ -1,8 +1,8 @@
 ---
 title: Electronic Hardware Robotics and Wireless Technologies
-permalink: /topics/ew/
+permalink: /topics/electronic-hardware-robotics-and-wireless/
 layout: tech-topic
-code: ew
+topic_code: ew
 section_image: "/assets/img/bg/robotic-arm.jpg"
 section_image_caption: |
   The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.

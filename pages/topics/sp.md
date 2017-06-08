@@ -1,8 +1,8 @@
 ---
 title: Semiconductors and Photonic Devices and Materials
-permalink: /topics/sp/
+permalink: /topics/semiconductors-and-photonic-devices/
 layout: tech-topic
-code: sp
+topic_code: sp
 section_image: "/assets/img/bg/robotic-arm.jpg"
 section_image_caption: |
   The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.

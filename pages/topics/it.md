@@ -1,8 +1,8 @@
 ---
 title: Information Technologies
-permalink: /topics/it/
+permalink: /topics/information-technologies/
 layout: tech-topic
-code: it
+topic_code: it
 section_image: "/assets/img/bg/robotic-arm.jpg"
 section_image_caption: |
   The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.

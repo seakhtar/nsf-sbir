@@ -5,8 +5,7 @@ main:
   class: usa-layout-docs
 ---
 {% for topic in site.data.tech-topics %}
-{% if page.code == topic.url %}
-
+{% if page.topic_code == topic.topic_code %}
 <section class="section-background-image">
   <div class="usa-grid">
   <h1 class="text-large">{{ topic.topic }}</h1>

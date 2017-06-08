@@ -1,8 +1,8 @@
 ---
 title: Biological Technologies
-permalink: /topics/bt/
+permalink: /topics/biological/
 layout: tech-topic
-code: bt
+topic_code: bt
 section_image: "/assets/img/bg/robotic-arm.jpg"
 section_image_caption: |
   The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.

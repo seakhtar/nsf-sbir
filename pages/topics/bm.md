@@ -1,8 +1,8 @@
 ---
 title: Biomedical Technologies
-permalink: /topics/bm/
+permalink: /topics/biomedical/
 layout: tech-topic
-code: bm
+topic_code: bm
 section_image: "/assets/img/bg/robotic-arm.jpg"
 section_image_caption: |
   The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
