@@ -1,5 +1,5 @@
 ---
-title: 
+title: Novation-stub
 permalink: /grantees/novation/
 layout: secondary-narrow
 ---
