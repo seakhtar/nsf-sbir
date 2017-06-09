@@ -53,6 +53,7 @@ h5 {
 
   .text-large {
     font-size: $font-size-m;
+    letter-spacing: .015em;
   }
 
   .text-medium {
@@ -65,9 +66,10 @@ h5 {
 
   .subhead {
     font-family: $font-mono;
-    font-size: $font-size-xxs;
+    font-size: $font-size-xxxs;
     text-transform: uppercase;
     font-weight: 400;
+    letter-spacing: .05em;
     margin-bottom: $space-m;
   }
 

@@ -19,11 +19,12 @@ layout: secondary
 <section class="usa-section usa-content usa-grid usa-section-tight-top">
 <h2 class="text-large">We fund varied tech sectors.</h2>
 
- <p class="text-medium">Each year, we fund roughly 400 companies across nearly all technology and market sectors. See featured companies from all of our technology topic areas:</p>
+ <p class="text-medium">Each year, we fund roughly 400 companies across nearly all technology and market sectors.</p>
 
 {% include tech-subtopics.html %}
 </section>
 <section class="usa-section usa-content usa-grid" markdown="1">
+
 ## Awardees pages
 
 Our current awardees pages feature information about Phase I and Phase II awardees who are actively using their funding. Recent awardees pages highlight companies that received funding during the previous solicitation period.
