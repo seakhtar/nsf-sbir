@@ -47,7 +47,7 @@ Stimulate private-sector commercialization of technologies developed using feder
 
 <div class="usa-width-two-thirds" markdown="1">
 
-- **$225,000 in Phase I funding**: We award up to $225,000 in funding (over six to 12 months) for R&D work. We’ll also provide you with training and mentorship in key business areas.
+- **Up to $1.5M / 24 months.** Receive up to $225,000 in seed capital to conduct product R&D over six to 12 months. During this period, your company will be immersed in the NSF network and you'll receive training and mentorship in key business areas. A second-round investment of $750,000 over 24 months may be available. NSF may also match 50 cents on every $1 of qualifying revenue or third-party investment, up to another $500,000.
 
 - **0% equity**: You retain full ownership over your company and intellectual property. And because our awards aren’t loans, there’s nothing to pay back.
 
