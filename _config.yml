@@ -83,7 +83,7 @@ topics_api:
   date_end: '06/01/2017'
   active_start_date: '11/30/2016'
   update_to_current_time: true
-  reset: true
+  reset: false
   printFields:
     - id
     - awardeeCity

@@ -10,7 +10,7 @@
   }
 }
 
-@include media($medium-screen) {
+@include media($small-screen) {
   .flex-list {
     li {
       width: 50%;
@@ -18,7 +18,7 @@
   }
   }
 
-@include media($large-screen) {
+@include media($medium-screen) {
   .flex-list {
 
     &.flex-list-3-col {
