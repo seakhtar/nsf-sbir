@@ -24,6 +24,10 @@ $color-gray-lightest: #F7F7F7;
 $color-blue-light: #E0F3F8;
 $color-neutral-light: #F5FBFC;
 
+// Mobile first breakpoints
+$large-screen:  960px !default;
+$site-max-width: 960px !default;
+
 // Unique colors
 $color-tertiary: #E31C3D;
 $color-tertiary-darkest: #981B1E;
@@ -45,6 +49,7 @@ $hero-bg-color: #AAAAAA;
 $font-serif: 'Work Sans', sans-serif;
 $font-mono: 'Overpass Mono', monospace;
 $font-sans: 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', Arial, sans-serif;
+$font-size-xxxs: 1.1rem;
 $font-size-xxs: 1.2rem;
 $font-size-xs: 1.4rem;
 $font-size-s: 1.8rem;
