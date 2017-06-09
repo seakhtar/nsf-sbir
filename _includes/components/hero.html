@@ -25,7 +25,7 @@
         <a class="usa-button usa-button-big usa-button-secondary button-arrow"
           href="{{ hero.button.href | relative_url }}">
           {{ hero.button.text }}
-          <span class="subtext">{{ hero.button.subtext }} {{site.deadline}}</span>
+          <span class="subtext">{{ hero.button.subtext | liquify }}</span>
         </a>
         {% endif %}
 </div>

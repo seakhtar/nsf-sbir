@@ -4,9 +4,9 @@ permalink: /
 layout: landing
 
 hero:
-  image: 
+  image: /assets/img/hero-3.png
   callout:
-    alt: Up to $225,000 seed funding.
+    alt: Up to $1.5 million seed funding.
     text: 0% equity.
   button:
     href: /how-to-apply/
@@ -15,7 +15,7 @@ hero:
 ---
 
 
-<section class="usa-section usa-content section-intro">
+<section class="usa-section usa-content section-intro background-light-neutral">
 <div class="usa-grid">
 <div class="usa-width-one-third" markdown="1">
 <h2 class="text-medium">Seed capital for early-stage product development</h2>
@@ -50,7 +50,7 @@ View our portfolio
 </div>
 </section>
 
-<section class="usa-section usa-section-alt-bg usa-content section-goodfit">
+<section class="usa-section usa-section-alt-bg usa-content section-goodfit background-bold-blue">
 <div class="usa-grid" markdown="1">
 **America's Seed Fund**<br>
 The National Science Foundation<br>
@@ -69,7 +69,7 @@ View recent awardees
 </section>
 
 
-<section class="usa-section usa-content section-about">
+<section class="usa-section usa-content section-about background-light-blue">
 <div class="usa-grid">
 <div class="usa-width-one-half" markdown="1">
 <h2 class="text-large">We are America's Seed Fund</h2>

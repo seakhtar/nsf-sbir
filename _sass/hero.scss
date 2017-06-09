@@ -1,5 +1,6 @@
 .usa-hero {
   background-color: $hero-bg-color;
+  background-attachment: fixed;
   background-image: none;
   padding-bottom: 6rem;
   padding-top: 0;
@@ -37,7 +38,9 @@
       color: initial;
     }
     }
+
+  .usa-header {
+    background-color: transparent;
+    margin-bottom: 6rem;
+    }
   }
-.usa-header {
-  margin-bottom: 6rem;
-}

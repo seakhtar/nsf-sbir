@@ -34,45 +34,54 @@ h5 {
   padding-top: 1.5rem;
   position: relative;
 
-  &:before {
-    content: "";
+  &::before {
     background-color: $color-base;
+    content: '';
+    height: 2px;
+    left: 0;
     position: absolute;
     top: 0;
-    left: 0;
-    height: 2px;
     width: 60px;
     }
 }
+
 .header-light {
   font-weight: 500;
 }
 
-p {
-  font-size: $font-size-xs;
+.usa-layout-docs {
 
-  &.p-subhead {
-    font-family: $font-mono;
-    text-transform: uppercase;
-    font-size: $font-size-xxs;
-  }
- }
-
- .text-large {
-   font-size: $font-size-m;
+  .text-large {
+    font-size: $font-size-m;
+    letter-spacing: .015em;
   }
 
- .text-medium {
-   font-size: $font-size-s;
+  .text-medium {
+    font-size: $font-size-s;
 }
 
- .text-small {
-   font-size: $font-size-xxs;
+  .text-alt {
+    font-family: $font-mono;
   }
 
- .text-alt {
-   font-family: $font-mono;
-   }
+  .subhead {
+    font-family: $font-mono;
+    font-size: $font-size-xxxs;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: .05em;
+    margin-bottom: $space-m;
+  }
+
+  .text-small {
+    font-size: $font-size-xxs;
+  }
+
+ }
+
+
+
+
 
 .larger-header {
   font-size: 110%;
@@ -85,12 +94,19 @@ p {
   letter-spacing: -.02rem;
   line-height: 1.325;
 }
+
 .font-serif {
   font-family: $font-serif;
 }
+
 .font-mono {
   font-family: $font-mono;
 }
+
 .font-sans {
   font-family: $font-sans;
+}
+
+.monospace {
+  font-family: $font-mono;
 }

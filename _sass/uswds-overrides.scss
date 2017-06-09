@@ -1,7 +1,6 @@
-
-
 html,
 body {
+  background-color: $light-bg-color;
   font-family: $font-serif;
 }
 
@@ -12,12 +11,15 @@ tr {
   font-weight: 400;
   line-height: 1.625;
   margin-bottom: 1.5rem;
+  margin-top: 0;
 }
+
 ul,
 ol {
   margin-bottom: 3rem;
-   p {
-     margin: 0;
+
+  p {
+    margin: 0;
    }
 }
 
@@ -34,9 +36,11 @@ ol {
   max-width: 5rem;
 }
 
-.usa-grid-center, .usa-grid-center:last-child {
-  float: none;
-  margin: 0 auto;
+.usa-grid-center {
+  &:last-child {
+    float: none;
+    margin: 0 auto;
+  }
 }
 
 .usa-logo {
@@ -50,11 +54,13 @@ ol {
 
   a {
     display: block;
+
     &:hover {
       border-bottom-style: none;
     }
   }
 }
+
 .usa-menu-btn {
   margin-top: 1.5rem;
 }
@@ -65,40 +71,32 @@ ol {
   }
 }
 
-.usa-footer-secondary_section {
-  background-color: $color-primary;
-  color: $color-white;
-
-  a {
-    color: $color-white;
-  }
-
-}
-button, .usa-button {
-
-  border-radius: 0;
+button,
+.usa-button,
+button:visited,
+.usa-button:visited {
   background-color: $color-primary-alt-lightest;
-  border: 1px solid $color-button-border;
+  border: 1px solid $color-primary-alt;
+  border-radius: 0;
   color: $color-black;
+  font-family: $font-mono;
   font-size: $font-size-xxs;
   font-weight: 400;
-  font-family: $font-mono;
 
-  &.usa-button-primary {
-    background: transparent;
-    border: 1px solid $color-button-border;
+  &.usa-button-hover,
+  &:hover {
+    background-color: $color-white;
+    border: 1px solid $color-primary-alt;
     color: $color-black;
-    font-size: $font-size-xxs;
-    font-weight: 400;
-
-    &.usa-button-hover, &:hover {
-      color: $color-black;
-      background-color: $color-white;
-      border-color: $color-button-border;
-      }
+  }
+  &.usa-button-active,
+  &:active {
+    background-color: $color-primary-alt;
   }
 
+
   &.usa-button-secondary {
+    border: 0;
     color: $color-black;
 
     &:hover {
@@ -114,23 +112,43 @@ button, .usa-button {
 }
 
 .usa-layout-docs {
-   h1 {
+  h1 {
     font-size: $font-size-xl;
     font-weight: 800;
    }
-   h2 {
-     font-size: $font-size-l;
-     font-weight: 700;
+
+  h2 {
+    font-size: $font-size-l;
+    font-weight: 700;
    }
-   h3 {
-     font-weight: 700;
+
+  h3 {
+    font-weight: 700;
    }
 }
 
-.button-arrow::before {
-  content: "\2192";
-  display: inline-block;
-  font-family: $font-serif;
+.button-arrow {
+  &::before {
+    content: '\2192';
+    display: inline-block;
+    font-family: $font-serif;
+  }
+}
+.button-arrow-after {
+  &::after {
+    content: '\2192';
+    display: inline-block;
+    font-family: $font-serif;
+    padding-left: $space-s;
+  }
+  &.button-arrow-down {
+      &::after {
+    transform: rotate(90deg);
+    position: relative;
+    top: -15%;
+    color: $color-primary-alt;
+  }
+  }
 }
 
 .usa-nav-primary {
@@ -138,18 +156,21 @@ button, .usa-button {
 }
 
 .usa-nav {
-  padding: 2rem;
   margin-top: 0;
+  padding: 2rem;
+
   li {
-  a {
-    color: $color-base;
-    font-family: $font-mono;
-    font-size: $font-size-xxs;
-    &:hover {
-      background-color: $color-secondary;
-      border: 0;
-      span {
+    a {
+      color: $color-base;
+      font-family: $font-mono;
+      font-size: $font-size-xxs;
+
+      &:hover {
+        background-color: $color-secondary;
         border: 0;
+
+        span {
+          border: 0;
       }
     }
   }
@@ -158,34 +179,33 @@ button, .usa-button {
 
 @include media($nav-width) {
   .usa-nav {
-    background: rgba(255,255,255,.8);
-    padding: 0;
+    background-color: $color-white-transprent;
     margin-top: 3.8rem;
+    padding: 0;
   }
 }
 
 @include media($large-screen) {
-.usa-nav {
-
-
-      li {
-        margin: 0;
+  .usa-nav {
+    li {
+      margin: 0;
     }
   }
 }
 
-
 .usa-header {
-    border: 0;
+  background-color: $color-white;
+  border: 0;
 }
+
 .usa-navbar {
+  border-bottom: 0;
   height: auto;
-  border-bottom: none;
 }
 
 @include media($nav-width) {
-.usa-navbar {
-  border-bottom: none;
+  .usa-navbar {
+    border-bottom: none;
     height: 10.3rem;
-}
+  }
 }
