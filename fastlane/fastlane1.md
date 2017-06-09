@@ -1,6 +1,6 @@
 ---
 title: Fastlane Application Overview
-permalink: /fastlane//
+permalink: /fastlane/fastlane1/
 layout: secondary-narrow
 ---
 # Submitting a SBIR/STTR Phase I Proposal in FastLane
