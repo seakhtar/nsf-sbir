@@ -1,35 +1,55 @@
-// Colors
 
+// Color USWDS Overrides
+$color-primary: #0071BC;
+$color-primary-darkest: #112E51;
+$color-primary-darker: #205493;
 
+$color-gray-dark: #323A45;
+$color-gray-light: #AEB0B5;
 
-$color-red: #ff0000;
-$color-green: #48A463;
-$color-green-dark: #2E8540;
-$bg-color: #F7F7F7;
-$hero-bg-color: #AAAAAA;
+$color-primary-alt: #02BFE7;
+$color-primary-alt-darkest: #046B99;
+$color-primary-alt-dark: #00A6D2;
+$color-primary-alt-light: #9BDAF1;
+$color-primary-alt-lightest: #E1F3F8;
 
+$color-secondary: #fff039;
+$color-secondary-darkest: #F1E235;
+$color-secondary-dark: #FFE61A;
+$color-secondary-light: #FFF79C;
+$color-secondary-lightest: #FFFAC3;
 
+$color-gray-lighter: $color-primary-darker;
+$color-gray-lightest: #F7F7F7;
+$color-blue-light: #E0F3F8;
+$color-neutral-light: #F5FBFC;
+
+// Mobile first breakpoints
+$large-screen:  960px !default;
+$site-max-width: 960px !default;
+
+// Unique colors
+$color-tertiary: #E31C3D;
+$color-tertiary-darkest: #981B1E;
+$color-tertiary-dark: #CD2026;
+$color-tertiary-light: #E59393;
+$color-tertiary-lightest: #F9DEDE;
+$color-white-transprent: rgba(255,255,255,.9);
 
 // Backgrounds
 $light-bg-color: #F5FBFC;
 $light-blue-bg-color: #E0F3F8;
-$bold-bg-color: #9bdaf1;
-$light-gray-bg-color: #E4E2E0;
+$bold-blue-bg-color: #9bdaf1;
 
-// Color USWDS Overrides
-$color-black: #212121;
-$color-primary: #0071BC;
-$color-primary-darker: #2C3E50;
-$color-button-border: #02bfe7;
-$color-primary-alt: #85d0cb;
-$color-secondary: #fff039;
-$color-secondary-dark: #FFFAC3;
-$color-gray-lighter: $color-primary-darker;
-$color-gray-lightest: #F7F7F7;
+$bg-color: #F7F7F7;
+$hero-bg-color: #AAAAAA;
+// End Unique colors
+
 // Typography
 $font-serif: 'Work Sans', sans-serif;
 $font-mono: 'Overpass Mono', monospace;
 $font-sans: 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', Arial, sans-serif;
+$font-size-xxxs: 1.1rem;
 $font-size-xxs: 1.2rem;
 $font-size-xs: 1.4rem;
 $font-size-s: 1.8rem;
@@ -39,9 +59,11 @@ $font-size-xl: 5rem;
 $font-size-xxl: 7rem;
 
 // Spacing
-$space-xs: .5rem;
+$space-xs: 0.5rem;
 $space-s: 1rem;
 $space-m: 1.5rem;
+$space-l: 3rem;
+$space-xl: 6rem;
 
 // Setup of USWDS
 $font-path: '../uswds/fonts';

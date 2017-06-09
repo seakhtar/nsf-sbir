@@ -1,0 +1,48 @@
+---
+layout: base
+class: tech-topic-layout
+main:
+  class: usa-layout-docs
+---
+{% for topic in site.data.tech-topics %}
+{% if page.topic_code == topic.topic_code %}
+<section class="section-background-image">
+  <div class="usa-grid">
+  <h1 class="text-large">{{ topic.topic }}</h1>
+</div>
+<div class="usa-grid">
+    <div class="usa-width-one-third">
+      <div class="caption">{{ page.section_image_caption | liquify | markdownify }}</div>
+    </div>
+  </div>
+</section>
+<section class="background-light-blue">
+<div class="usa-section usa-content usa-grid">
+  <div class="usa-width-one-fourth">
+    <h3 class="subhead">Program director</h3>
+    {% for programDirector in topic.programDirector %}
+    {% if programDirector.photo %}
+      <img src="{{ site.baseurl }}/assets/img/pd/{{ programDirector.photo }}" class="program-dir-img">
+    {% endif %}
+      <p>
+        <a href="mailto:{{ programDirector.email }}">
+          {{ programDirector.name }}
+        </a>
+      </p>
+    {% endfor %}
+    <section class="usa-section usa-section-tight-top">
+      <h3 class="subhead">Pre-submission feedback</h3>
+      <p class="text-small">
+        Submit an <a href="https://goo.gl/forms/5EHaWtZaOXQsi5Ig1">Executive Summary</a> to gauge if a project meets the program's intellectual merit and commercial impact criteria. Please note that responsiveness will likely be limited in the 2 weeks leading up to the solicitation deadline.
+      </p>
+    </section>
+  </div>
+  <div class="usa-width-three-fourths usa-layout-docs-main_content">
+    <p class="subhead">Technology topic</p>
+    <h2 class="page-title">{{ topic.topic }}</h2>
+      {{ content }}
+  </div>
+</div>
+{% else %}
+{% endif %}
+{% endfor %}

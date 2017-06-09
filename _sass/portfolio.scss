@@ -1,18 +1,92 @@
 
 .tech-subtopics {
-  list-style: none;
-  padding-left: 0;
-
+  padding-bottom: $space-xl;
+  display: block;
+  .tech-subtopics-header {
+    display: inline;
+    font-size: $font-size-xxs;
+  }
+  ul {
+    display: inline;
+    list-style: none;
+    padding-left: 0;
+}
+li:last-child {
+  &::after {
+    width: 0;
+  }
+}
   li {
     display: inline;
+    font-size: $font-size-xxs;
 
     &::after {
       background-color: $color-gray-light;
       content: '';
       display: inline-block;
-      height: 4px;
+      height: 1px;
       margin-bottom: 3px;
-      width: 40px;
+      width: $space-m;
     }
   }
+}
+
+.featured-companies {
+  li {
+    padding: 0 $space-m 0 0;
+  }
+
+  a {
+    border-bottom: 0;
+    border-top: 1px dotted $color-primary-darkest;
+    color: $color-primary-darkest;
+    display: block;
+    font-size: $font-size-xxs;
+    font-weight: 700;
+    min-height: 4rem;
+    padding-top: $space-xs;
+
+    &:hover {
+      border-top-style: solid;
+    }
+  }
+
+}
+
+.list-tech-topics {
+  padding-top: $space-s;
+  li {
+    padding: 0 $space-m 0 0;
+    margin-bottom: 5px;
+    a {
+      border-bottom: 1px dotted transparent;
+      color: $color-base;
+      display: inline-block;
+      font-size: $font-size-xxs;
+      width: calc(90% - $space-m);
+      &:hover {
+        border-color: $color-base;
+      }
+    }
+  }
+}
+
+h3.subhead {
+  margin-bottom: $space-m;
+}
+
+.section-tech-topic {
+  clear: both;
+ .tech-topic-title {
+   margin-bottom: $space-xl;
+ }
+}
+
+h2.text-medium.tech-topic-title {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.section-tech-topic .usa-width-one-fourth {
+  margin-bottom: $space-xl;
 }
