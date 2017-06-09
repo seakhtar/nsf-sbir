@@ -1,5 +1,5 @@
 <ul class="flex-list flex-list-4-col featured-companies">
-    {% for item in site.data.featured-companies %}
-      <li><a href="#">{{ item }}</a></li>
+    {% for company in site.data.featured-companies %}
+      <li><a href="{{ site.baseurl }}/portfolio/details/?company={{ company | slugify }}">{{ company }}</a></li>
     {% endfor %}
 </ul>
