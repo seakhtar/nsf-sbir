@@ -24,6 +24,10 @@ $color-gray-lightest: #F7F7F7;
 $color-blue-light: #E0F3F8;
 $color-neutral-light: #F5FBFC;
 
+// Mobile first breakpoints
+$large-screen:  960px !default;
+$site-max-width: 960px !default;
+
 // Unique colors
 $color-tertiary: #E31C3D;
 $color-tertiary-darkest: #981B1E;

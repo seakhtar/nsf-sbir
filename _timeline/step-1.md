@@ -5,8 +5,8 @@ description: Make sure your company is incorporated and meets these eligibility 
 
 - Your company must be a small business located in the United States.
 - At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents, and all funded work needs to take place in the United States (including work done by consultants and contractors).
-- The project’s tech lead (Principal Investigator) must be legally employed at least 20 hours a week by the company seeking funding. The tech lead doesn’t need any advanced degrees.
-- The tech lead needs to commit to at least one month (173 hours) of work on a funded project per six months of project duration.
+- The project’s Principal Investigator (tech lead) must be legally employed at least 20 hours a week by the company seeking funding. The PI doesn’t need any advanced degrees.
+- The PI needs to commit to at least one month (173 hours) of work on a funded project per six months of project duration.
 
 **Criteria**
 
@@ -14,7 +14,7 @@ Here are the criteria we use to determine which companies to fund:
 
 - **Seed stage:** Your small business is working on a new product or service enabled by innovative, early-stage technology.
 - **Pre-traction:** You have evidence that your product or service could meet an important, unmet need for your customers.
-- **High-risk:** The product is based on unproven technology that needs further testing (and funding for that testing).
+- **High-risk:** Your product is based on unproven technology that needs further testing (and funding for that testing).
 - **Scale:** If you successfully bring your product to market, it could form the foundation for a scalable business and make a large impact in your target market.
 
 **Portfolio**
