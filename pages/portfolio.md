@@ -19,7 +19,7 @@ layout: secondary
 </section>
 <section class="usa-section usa-content usa-grid usa-section-tight-top" markdown="1">
 <h2 class="subhead text-small">Active and recent awardees</h2>
-Our active awardees pages feature information about Phase I and Phase II awardees who are currently using their funding, and our Recent Phase I awardees page highlights companies that received funding during the previous solicitation period.
+Our Recent Phase I awardees page highlights companies whose proposals were approved during the most recently closed solicitation period (mm/dd). Our Active Awardees pages feature information about Phase I and Phase II awardees who are still in the process of completing the R&D terms of their proposals and who haven't yet submitted their final reports.
 
 - Phase I recent awardees
 - Phase I active awardees
