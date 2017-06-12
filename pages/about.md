@@ -39,7 +39,7 @@ Stimulate private-sector commercialization of technologies developed using feder
     </div>
   </div>
 </section>
-<section class="section-about-asf">
+<section class="background-light-blue">
 <div class="usa-section usa-content usa-grid" markdown="1">
 <div class="usa-width-one-third" markdown="1">
 ### Funding for R&D with founder-friendly terms
@@ -114,8 +114,10 @@ America's Seed Fund is a program within the [National Science Foundation](https:
 Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.
 </div>
 </section>
-<!--
-<section class="section-program-directors">
+{% if site.app_process == "active" %}
+ Active time!
+{% else %}
+<section class="section-program-directors background-white">
 <div class="usa-section usa-content usa-grid" markdown="1">
 ## Psrogram directors
 Our program directors are domain experts from diverse fields — get to know them here.
@@ -123,4 +125,4 @@ Our program directors are domain experts from diverse fields — get to know the
 {% include program-directors.html %}
 </div>
 </section>
--->
+{% endif %}
