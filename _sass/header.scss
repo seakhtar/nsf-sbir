@@ -1,0 +1,23 @@
+.usa-banner-header {
+  .usa-label {
+    font-size: inherit;
+  }
+
+  .banner-right {
+    float: right;
+  }
+
+  a {
+    border-bottom: 0;
+    text-decoration: underline;
+  }
+
+  img {
+    margin-top: 0;
+  }
+}
+
+.usa-header {
+  background-color: $color-white;
+  border: 0;
+}
