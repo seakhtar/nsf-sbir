@@ -25,8 +25,9 @@ contact:
 
   heading: Stay in touch
   content: |
-    Subscribe to our listserv to receive seed funding news and be notified of upcoming deadlines.
+    Subscribe to our listserv to receive seed funding news and be notified of upcoming deadlines.<br>
     <a href="#" class="usa-button usa-button-primary button-arrow">Join our listserv</a>
+
 
   address: |
     [The National Science Foundation](https://www.nsf.gov/)<br>
@@ -40,5 +41,5 @@ contact:
   TDD: (800) 281-8749
 
 social:
-  Twitter_url: /#
-  Youtube_url: /#
+  Twitter_url: https://twitter.com/NSFSBIR
+  Youtube_url: https://www.youtube.com/user/NSFInnovationIIP

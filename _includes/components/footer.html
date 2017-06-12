@@ -1,12 +1,12 @@
 {% if footer.top %}
-<div class="usa-grid usa-footer-return-to-top">
-  <a href="{{ footer.top.href | default: '#' }}">{{ footer.top.text | default: 'Return to top' }}</a>
-</div>
 {% endif %}
 {% if footer %}
 <footer class="usa-footer usa-footer-medium" role="contentinfo">
   {% if footer.contact %}
   <div class="usa-footer-secondary_section">
+    <div class="usa-grid usa-footer-return-to-top">
+      <a href="{{ footer.top.href | default: '#' }}">{{ footer.top.text | default: 'Return to top' }}</a>
+    </div>
     <div class="usa-grid">
       <div class="usa-footer-logo usa-width-one-third">
         {% for logo in footer.logos %}
@@ -35,9 +35,9 @@
           {% assign _size = _sizes[_size] | default: 'whole' %}
 
             <nav class="usa-footer-nav">
-              <ul class="usa-unstyled-list">
+              <ul class="usa-unstyled-list flex-list ">
                 {% for _link in footer_links %}
-                <li class="usa-width-one-half usa-footer-primary-content">
+                <li class="usa-footer-primary-content">
                   <a class="usa-footer-primary-link" href="{{ _link.href | relative_url }}">
                     {{ _link.text }}
                   </a>
