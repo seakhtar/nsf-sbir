@@ -12,24 +12,21 @@
 primary:
   - text: About
     href: /about/
-  - text: Apply
-    href: /how-to-apply/
-  - text: Apply (inactive)
-    href: /how-to-apply-inactive/
   - text: Portfolio
     href: /portfolio/
-  - text: Events
-    href: /events/
-  - text: Contact
-    href: /contact/
-  - text: Awardees
-    href: /awardees/
-  - text: Awardee details
-    href: /awardees/details/
-  - text: Awardees phase 1
-    href: /awardees/phase-1/
-  - text: Awardees phase 2
-    href: /awardees/phase-2/
+  - text: Current awardees
+    links:
+      - text: Awardees
+        href: /awardees/
+      - text: Awardee details
+        href: /awardees/details/
+      - text: Awardees phase 1
+        href: /awardees/phase-1/
+      - text: Awardees phase 2
+        href: /awardees/phase-2/
+  - text: Apply
+    href: /apply/
+
 
 secondary: []
 
