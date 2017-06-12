@@ -16,13 +16,11 @@ primary:
     href: /portfolio/
   - text: Current awardees
     links:
-      - text: Awardees
+      - text: Phase I recent (mm/yy) awardees
         href: /awardees/
-      - text: Awardee details
-        href: /awardees/details/
-      - text: Awardees phase 1
+      - text: Phase I - all active awardees
         href: /awardees/phase-1/
-      - text: Awardees phase 2
+      - text: Phase II - active awardees
         href: /awardees/phase-2/
   - text: Apply
     href: /apply/
