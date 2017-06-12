@@ -15,6 +15,15 @@ layout: secondary
 <section class="usa-section usa-content usa-grid usa-section-tight-top" markdown="1">
 <h2 class="subhead text-small">Featured alumni and exits</h2>
 {% include featured-companies.html %}
+</div>
+</section>
+<section class="usa-section usa-content usa-grid usa-section-tight-top" markdown="1">
+<h2 class="subhead text-small">Active and recent awardees</h2>
+Our active awardees pages feature information about Phase I and Phase II awardees who are currently using their funding, and our Recent Phase I awardees page highlights companies that received funding during the previous solicitation period.
+
+- Phase I recent awardees
+- Phase I active awardees
+- Phase II active awardees 
 </section>
 <section class="usa-section usa-content usa-grid usa-section-tight-top">
 <h2 class="text-large">We fund varied tech sectors.</h2>
