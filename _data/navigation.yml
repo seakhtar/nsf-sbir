@@ -33,17 +33,17 @@ secondary: []
 
 footer:
   - text: About
-    href: /#
+    href: /about/
   - text: Portfolio
-    href: /#
+    href: /portfolio/
   - text: Apply for funding
-    href: /#
+    href: /apply/
   - text: Resources
-    href: /#
+    href: /resources/
   - text: Press
-    href: /#
+    href: /press/
   - text: Contact us
-    href: /#
+    href: /contact/
 
 
 docs:
