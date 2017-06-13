@@ -25,11 +25,11 @@ You can check out our [portfolio](#) to see what companies we’ve recently fund
 
 **Technology topic areas**
 
-Content here
+{% include tech-topics.html %}
 
 **Get pre-submission feedback**
 
-You can send an executive summary to one of our program directors to discuss your work and get feedback. Complete our short [executive summary form](https://docs.google.com/a/gsa.gov/forms/d/17AgL8vPQpWzfZ9VH034oHzd_JK7-gS-MjPJNoGbKwkY/edit) — a program director will get back to you shortly. 
+You can send an executive summary to one of our program directors to discuss your work and get feedback. Complete our short [executive summary form](https://docs.google.com/a/gsa.gov/forms/d/17AgL8vPQpWzfZ9VH034oHzd_JK7-gS-MjPJNoGbKwkY/edit) — a program director will get back to you shortly.
 
 **STTR**
 
