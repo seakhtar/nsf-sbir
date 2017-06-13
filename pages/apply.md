@@ -13,7 +13,7 @@ timeline:
       - step-3
       - step-4
   - title: "Deadline<br> {{ site.deadline }}"
-    description: "Applications due by 5:00 PM in your local time zone."
+    description: "Applications due by 5:00 p.m. in your local time zone."
     inactive_description: "Application submission has expired."
     note: "Note: Your time zone is based on your company's address as you listed it in your application."
     inactive_note:
