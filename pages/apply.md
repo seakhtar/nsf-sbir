@@ -1,6 +1,6 @@
 ---
 title: Apply
-permalink: /how-to-apply/
+permalink: /apply/
 layout: secondary-narrow
 timeline:
   - title: 90 days before<br> the deadline
