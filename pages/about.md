@@ -11,13 +11,20 @@ section_image_caption: |
 <div class="usa-width-one-whole" markdown="1">
 # About America's Seed Fund
 
-<p class="text-medium">For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.</p>
+For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.
+
+</div>
+</div>
+</section>
+<section class="usa-section-tight-top background-light-blue">
+<div class="usa-content usa-grid">
 <div class="usa-width-one-whole" markdown="1">
 
-When you join our elite group of innovators, you’ll help us:
+<strong>When you join our elite group of innovators, you’ll help us:<strong>
 
 </div>
 </div>
+<div class="usa-section usa-section-tight-top usa-content usa-grid">
 <div class="usa-width-one-fourth" markdown="1">
 Promote groundbreaking technologies developed by U.S. entrepreneurs.
 </div>
@@ -114,15 +121,11 @@ America's Seed Fund is a program within the [National Science Foundation](https:
 Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.
 </div>
 </section>
-{% if site.app_process == "active" %}
- Active time!
-{% else %}
-<section class="section-program-directors background-white">
+<section class="background-white">
 <div class="usa-section usa-content usa-grid" markdown="1">
-## Psrogram directors
+## Program directors
 Our program directors are domain experts from diverse fields — get to know them here.
 
 {% include program-directors.html %}
 </div>
 </section>
-{% endif %}
