@@ -49,11 +49,16 @@ console.log('loaded')
   window.getQueryVariable = getQueryVariable
 
   awardsDetailsList.filter(function(company){
-    return slugify(company.values().awardeeName) == getQueryVariable('company');
+    var isMatching = slugify(company.values().awardeeName) == getQueryVariable('company');
+    if (isMatching) {
+      $('.results-company-title').text(company.values().awardeeName);
+      $('.results-company-title').show();
+    }
+
+    return isMatching;
   })
 
   $('.results-loading').hide()
   $('.results').show();
 
 });
-

@@ -34,7 +34,7 @@ $smidge: 0.1em;
 .loader:before {
   width: $loader-radius-cover;
   height: $loader-cover;
-  background: $color-white;
+  background: $color-neutral-light;
   border-radius: $loader-cover 0 0 $loader-cover;
   top: -$smidge;
   left: -$smidge;
@@ -46,7 +46,7 @@ $smidge: 0.1em;
 .loader:after {
   width: $loader-radius-cover;
   height: $loader-cover;
-  background: $color-white;
+  background: $color-neutral-light;
   border-radius: 0 $loader-cover $loader-cover 0;
   top: -$smidge;
   left: $loader-cover-half;
