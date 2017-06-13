@@ -39,7 +39,11 @@ layout: secondary
 
 {% include tech-subtopics.html %}
 </section>
-<section class="usa-section usa-content usa-grid" markdown="1">
+
+ <section class="usa-section usa-content usa-grid usa-section-tight-top" markdown="1">
+ <h2 class="subhead text-small">Current awardees</h2>
+
+**View our current awardees,** who are still completing the research outlined in their proposals and who haven't yet reached the estimated ends of their award terms. [View current Phase I awardees](), [Current Phase II awardees](), or our [most recent (12/16) Phase I awardees]().
 
 <!--
 ## Awardees pages
