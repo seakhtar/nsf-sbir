@@ -50,6 +50,13 @@ module Jekyll
       end
     end
 
+    def zip_code(code)
+      code = "#{code[0..4]}–#{code[5..-1]}"
+    end
+
+    def phone(code)
+      code = "#{code[0..2]}–#{code[3..5]}–#{code[6..-1]}"
+    end
   end
 end
 
