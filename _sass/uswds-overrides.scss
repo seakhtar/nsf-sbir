@@ -32,9 +32,7 @@ ol {
    }
 }
 
-.usa-footer-logo-img {
-  max-width: 5rem;
-}
+
 
 .usa-grid-center {
   &:last-child {
@@ -128,10 +126,13 @@ button:visited,
 }
 
 .button-arrow {
+
+
   &::before {
     content: '\2192';
     display: inline-block;
     font-family: $font-serif;
+    padding-right: $space-s;
   }
 }
 .button-arrow-after {
@@ -140,6 +141,7 @@ button:visited,
     display: inline-block;
     font-family: $font-serif;
     padding-left: $space-s;
+
   }
   &.button-arrow-down {
       &::after {
