@@ -1,0 +1,69 @@
+---
+title: Awardees phase 1
+permalink: /awardees/phase-1-recent/
+
+layout: base
+---
+
+{% assign awards_summary = site.data.awards_summary %}
+
+<div class="usa-section bg-blue-light">
+  <div class="usa-grid">
+    <h2>Current awardees <span class="color-primary">/ Phase 1</span></h2>
+
+    <hr />
+
+    <div class="usa-width-one-third">
+      <strong class="color-primary">{{ awards_summary.funding_per_application_phase_1_recent | round | intcomma_dollar }}</strong>
+      <div>Average $ amount of funding awarded for each company in phase 1</div>
+    </div>
+    <div class="usa-width-one-third">
+      <strong class="color-primary">{{ awards_summary.states_phase_1_recent_count }}</strong>
+      <div>From {{ awards_summary.states_phase_1_recent_count }} states including D.C., Puerto Rico, and the Virgin Islands</div>
+    </div>
+    <div class="usa-width-one-third">
+      <strong class="color-primary">{{ awards_summary.companies_unique_phase_1_recent_percent }}%</strong>
+      <div>Unique companies that applied during {{ awards_summary.active_date_range }}</div>
+    </div>
+  </div>
+</div>
+
+<div class="usa-section">
+  <div class="usa-grid">
+    <div class="usa-accordion">
+    {% for topic in site.data.tech-topics %}
+      {% assign po_name = topic.programDirector[0].name %}
+      {% assign matching_awards = site.data.awards_phase_1_recent | uniq | where:'poName', po_name %}
+      {% if matching_awards.size > 0 %}
+        <button class="usa-accordion-button" aria-expanded="false" aria-controls="{{ topic.topic | slugify }}">
+          <span>{{ matching_awards | size }}</span>
+          <span>{{ topic.topic | default: "" }}</span>
+        </button>
+        <div id="{{ topic.topic | slugify }}" class="usa-accordion-content bg-blue-light">
+          <ul class="table monospace">
+            <li class="table-row table-header">
+              <div class="table-row-item">Company</div>
+              <div class="table-row-item">Location</div>
+              <div class="table-row-item narrow numeric">Award amount</div>
+              <div class="table-row-item narrow numeric">Award date</div>
+            </li>
+            {% for matching in matching_awards %}
+              <li class="table-row">
+                <div class="table-row-item" data-header="Company">
+                  {% assign awardeeSlug = matching.awardeeName | slugify %}
+                  <a href="{{ '/awardees/phase-1-recent/details/?company=' | append: awardeeSlug | relative_url }}" alt="{{ matching.awardeeName }}">
+                  <span>{{ matching.awardeeName }}</span>
+                  </a>
+                </div>
+                <div class="table-row-item" data-header="Location">{{ matching.awardeeStateCode }}</div>
+                <div class="table-row-item narrow numeric" data-header="Amard amount">{{ matching.fundsObligatedAmt | intcomma_dollar }}</div>
+                <div class="table-row-item narrow numeric" data-header="Award date">{{ matching.date }}</div>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+    {% endfor %}
+    </div>
+  </div>
+</div>

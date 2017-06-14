@@ -42,11 +42,11 @@ defaults:
       include_subnav: true
 
 awards_api:
-  date_start: '06/01/2016'
-  date_end: '12/31/2016'
-  active_start_date: '11/30/2016'
-  update_to_current_time: false
+  active_date_is_now: true
+  active_date: '06/13/2017'
+  fundProgramName: phase
   reset: false
+  recent_date: '06/01/2016'
   printFields:
     - id
     - awardeeName
@@ -61,7 +61,6 @@ awards_api:
     - endDate
     - awardeeCity
     - awardeeCountryCode
-    - awardeeCounty
     - awardeeStateCode
     - awardeeZipCode
     - awardeeAddress
@@ -92,7 +91,6 @@ portfolio_api:
     - endDate
     - awardeeCity
     - awardeeCountryCode
-    - awardeeCounty
     - awardeeStateCode
     - awardeeZipCode
     - awardeeAddress
@@ -108,6 +106,7 @@ topics_api:
   date_end: '06/01/2017'
   active_start_date: '11/30/2016'
   update_to_current_time: true
+  fundProgramName: phase
   reset: false
   printFields:
     - id
@@ -123,7 +122,6 @@ topics_api:
     - endDate
     - awardeeCity
     - awardeeCountryCode
-    - awardeeCounty
     - awardeeStateCode
     - awardeeZipCode
     - awardeeAddress

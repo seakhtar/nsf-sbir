@@ -1,6 +1,6 @@
 Jekyll::Hooks.register :site, :after_init do |site|
   puts "--------------------"
-  puts "starting awards updates"
+  puts "starting awards updates".yellow
   awards_data = SiteData::AwardsData.new(site)
   awards_params = awards_data.create_params
 
@@ -19,7 +19,7 @@ Jekyll::Hooks.register :site, :after_init do |site|
 
   # Duplicate above, but for topics
   puts "--------------------"
-  puts "starting topics updates"
+  puts "starting topics updates".yellow
   topics_data = SiteData::TopicsData.new(site)
   topics_params = topics_data.create_params
 
@@ -27,7 +27,7 @@ Jekyll::Hooks.register :site, :after_init do |site|
   topics_data.update(topics_params, new_topics_data)
 
   puts "--------------------"
-  puts "starting awards summary updates"
+  puts "starting awards summary updates".yellow
   awards_summary = SiteData::AwardsSummary.new(site)
   awards_summary.generate
 end
