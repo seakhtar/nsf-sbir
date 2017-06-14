@@ -1,0 +1,34 @@
+.big-number {
+  float: left;
+}
+
+.big-number-description {
+  float: left;
+  margin-left: $space-l;
+  margin-top: $space-xl;
+  span {
+    display: block;
+  }
+}
+
+.awardees-top-header {
+  border-bottom: 2px solid $color-gray-light;
+  margin-bottom: $space-l;
+}
+
+.awardees-bottom-header {
+  .flex-list {
+    li {
+      border-right: 2px solid $color-gray-light;
+      padding: $space-l $space-l 0;
+
+      &:last-child {
+        border: 0;
+      }
+
+      span {
+        display: block;
+      }
+    }
+  }
+}

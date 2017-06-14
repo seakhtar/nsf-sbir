@@ -7,27 +7,44 @@ layout: base
 
 {% assign awards_summary = site.data.awards_summary %}
 
-<div class="usa-section bg-blue-light">
-  <div class="usa-grid">
-    <h2>Current awardees</h2>
-    Our current awardees pages feature information about Phase I and Phase II awardees who are actively using their funding, and our recent awardees pages highlight companies that received funding during the previous solicitation period.
-
-
-    <hr />
-
-    <div class="usa-width-one-third">
-      <strong class="color-primary">{{ awards_summary.funding_per_company | round | intcomma_dollar }}</strong>
-      <div>Average $ amount of funding awarded for each company</div>
+<section class="usa-section background-light-neutral">
+  <div class="usa-grid awardees-top-header">
+    <div class="usa-width-one-whole">
+      <h2 class="text-medium">Current awardees</h2>
+      <div class="usa-accordion accordion-dropdown ">
+            <button class="usa-accordion-button text-xxl" aria-expanded="false" aria-controls="awardees-nav">
+          Phase I: all active awardees
+          </button>
+            <div id="awardees-nav" class="usa-accordion-content">
+              <ul>
+                <li>Phase I: all active awardees</li>
+                <li>Phase I: recent 12/2016 awardees</li>
+                <li>Phase II awardees</li>
+              </ul>
+            </div>
+      </div>
     </div>
-    <div class="usa-width-one-third">
-      <strong class="color-primary">{{ awards_summary.states_total }}</strong>
-      <div>From {{ awards_summary.states_total }} states and territories including D.C., Puerto Rico, and the Virgin Islands</div>
+    <div class="usa-width-one-whole">
+      <span class="text-xxxxl font-bold big-number">329</span>
+      <p class="big-number-description"><span class="font-mono">Number of comapnies with active awards</span>
+      <span class="text-large font-bold">Phase I seed funding</span></p>
     </div>
-    <div class="usa-width-one-third">
-      <strong class="color-primary">{{ awards_summary.applications_total | intcomma }}</strong>
-      <div>Total applications received {{ awards_summary.active_date_range }}</div>
-    </div>
-
+  </div>
+  <div class="usa-grid awardees-bottom-header">
+    <ul class="flex-list flex-list-3-col">
+    <li>
+      <span class="text-xxl font-bold">{{ awards_summary.funding_per_company | round | intcomma_dollar }}</span>
+      <span class="font-mono">Average $ amount of funding awarded for each company</span>
+    </li>
+    <li>
+      <span class="text-xxl font-bold">{{ awards_summary.states_total }}</span>
+      <span class="font-mono">From {{ awards_summary.states_total }} states and territories including D.C., Puerto Rico, and the Virgin Islands</span>
+    </li>
+    <li>
+      <span class="text-xxl font-bold">{{ awards_summary.applications_total | intcomma }}</span>
+      <span class="font-mono">Total applications received {{ awards_summary.active_date_range }}</span>
+    </li>
+    </ul>
     {% comment %}
     <h3>Applications since {{ site.data.awards_meta.date_start }}</h3>
     <p><strong>{{ awards_summary.applications_total | intcomma }}</strong> applications</p>
@@ -44,9 +61,12 @@ layout: base
 
     {% endcomment %}
   </div>
-</div>
+</section>
 
-<div class="usa-section">
+<section class="usa-section background-white">
+    <div class="usa-grid">
+  <h2 class="text-medium">Current Phase I awardees</h2>
+</div>
   <div class="usa-grid">
     <div class="usa-accordion">
     {% for topic in site.data.tech-topics %}
@@ -84,4 +104,4 @@ layout: base
     {% endfor %}
     </div>
   </div>
-</div>
+</section>
