@@ -1,6 +1,6 @@
 ---
 title: Register your company
-description: You'll need to register your company with 4 different systems.
+description: You'll need to register your company with four different systems.
 ---
 **[Dun and Bradstreet (DUNS number)](#)**<br>
 Processing time: Up to five business days<br>

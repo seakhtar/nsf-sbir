@@ -1,21 +1,3 @@
-.background-light-blue {
-  background-color: $light-blue-bg-color;
-}
-
-.background-light-neutral {
-  background-color: $light-bg-color;
-}
-.background-white {
-  background-color: $color-white;
-}
-
-.background-light-warm-gray {
-  background-color: $light-gray-bg-color;
-}
-
-.background-bold-blue {
-  background-color: $bold-blue-bg-color;
-}
 .page-background {
   background-position: center top;
   background-attachment: fixed;
@@ -26,7 +8,7 @@
   background-color: transparent;
   padding-top: 300px;
 
-  .caption {
+  .caption p {
     background-color: $color-white-transprent;
     float: right;
     font-size: $font-size-xxs;
@@ -85,6 +67,7 @@
 
 .usa-footer .social-link {
   border: none;
+  display: inline-block;
   img {
     width: 35px;
     fill: $color-primary;

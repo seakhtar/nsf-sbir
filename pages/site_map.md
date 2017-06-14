@@ -8,20 +8,27 @@
     |-- Advantages  
     |-- About the NSF (+ link to Impact)
 
-- Impact page
+- Showcase (Impact page)
    
 - Resources and Events page  
     |-- FAQ link  
     |-- Videos  
     |-- Presentations  
-    |-- I-corps info     
+    |-- I-corps info (Not sure if we should be touting this here?)    
     |--  Webinars + onsite events  
     
-- Awardees page  
-    |-- Grant management pages  
+- Current awardees  
+    |-- Recent (mm/yy) Phase I awardees
+    |-- Phase I active awardees
+    |-- Phase II active awardees
     
-- Apply page  
-    |-- timeline  
+- Apply page (timeline) 
+    |-- FastLane guide
+    |-- Eligibility guide (off-site link mentioned in About page)
+    |-- FAQs (maintained by parent NSF)
+    |-- SBIR solicitation page (maintained by parent NSF)
+    |-- STTR solicitation page (maintained by parent NSF)
+
  
 - Portfolio page  
     |-- TTAs (in depth)  
@@ -46,6 +53,7 @@
     |--   Apply  
     |--   Portfolio  
     |--   Resources  
+    |--   Grant management
     |--   Press  
     |--   Contact us  
     

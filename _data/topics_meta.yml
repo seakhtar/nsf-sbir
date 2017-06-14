@@ -1,0 +1,32 @@
+---
+date_start: 06/01/2013
+date_end: 06/01/2017
+active_start_date: 11/30/2016
+update_to_current_time: true
+reset: false
+printFields:
+- id
+- awardeeName
+- date
+- expDate
+- fundsObligatedAmt
+- fundProgramName
+- poName
+- title
+- abstractText
+- startDate
+- endDate
+- awardeeCity
+- awardeeCountryCode
+- awardeeCounty
+- awardeeStateCode
+- awardeeZipCode
+- awardeeAddress
+- piFirstName
+- piMiddeInitial
+- piLastName
+- piPhone
+- piEmail
+last_updated: 06/13/2017
+---
+

@@ -6,17 +6,27 @@ update_to_current_time: false
 reset: false
 printFields:
 - id
-- awardeeCity
 - awardeeName
-- awardeeStateCode
 - date
 - expDate
 - fundsObligatedAmt
 - fundProgramName
 - poName
 - title
-- awardee
 - abstractText
-last_updated: 06/07/2017
+- startDate
+- endDate
+- awardeeCity
+- awardeeCountryCode
+- awardeeCounty
+- awardeeStateCode
+- awardeeZipCode
+- awardeeAddress
+- piFirstName
+- piMiddeInitial
+- piLastName
+- piPhone
+- piEmail
+last_updated: 06/13/2017
 ---
 
