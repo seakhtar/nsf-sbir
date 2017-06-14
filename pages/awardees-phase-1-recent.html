@@ -1,36 +1,26 @@
 ---
 title: Awardees phase 1
 permalink: /awardees/phase-1-recent/
-
-layout: base
+nav_title: Phase I &#58; all active awardees
+phase: Phase I
+layout: awardees
 ---
 
 {% assign awards_summary = site.data.awards_summary %}
 
-<div class="usa-section bg-blue-light">
-  <div class="usa-grid">
-    <h2>Current awardees <span class="color-primary">/ Phase 1</span></h2>
+Current awardees / Phase 1
 
-    <hr />
+{{ awards_summary.funding_per_application_phase_1_recent | round | intcomma_dollar }}
+Average $ amount of funding awarded for each company in phase 1
 
-    <div class="usa-width-one-third">
-      <strong class="color-primary">{{ awards_summary.funding_per_application_phase_1_recent | round | intcomma_dollar }}</strong>
-      <div>Average $ amount of funding awarded for each company in phase 1</div>
-    </div>
-    <div class="usa-width-one-third">
-      <strong class="color-primary">{{ awards_summary.states_phase_1_recent_count }}</strong>
-      <div>From {{ awards_summary.states_phase_1_recent_count }} states including D.C., Puerto Rico, and the Virgin Islands</div>
-    </div>
-    <div class="usa-width-one-third">
-      <strong class="color-primary">{{ awards_summary.companies_unique_phase_1_recent_percent }}%</strong>
-      <div>Unique companies that applied during {{ awards_summary.active_date_range }}</div>
-    </div>
-  </div>
-</div>
+{{ awards_summary.states_phase_1_recent_count }}
+From {{ awards_summary.states_phase_1_recent_count }} states including D.C., Puerto Rico, and the Virgin Islands
 
-<div class="usa-section">
-  <div class="usa-grid">
-    <div class="usa-accordion">
+{{ awards_summary.companies_unique_phase_1_recent_percent }}%
+Unique companies that applied during {{ awards_summary.active_date_range }}
+
+
+
     {% for topic in site.data.tech-topics %}
       {% assign po_name = topic.programDirector[0].name %}
       {% assign matching_awards = site.data.awards_phase_1_recent | uniq | where:'poName', po_name %}
@@ -64,6 +54,3 @@ layout: base
         </div>
       {% endif %}
     {% endfor %}
-    </div>
-  </div>
-</div>

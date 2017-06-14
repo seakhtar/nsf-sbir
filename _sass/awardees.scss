@@ -34,6 +34,10 @@
 }
 
 .awardees-details-accordion {
+  .usa-accordion-content {
+    padding-left: $space-s;
+    padding-right: $space-s;
+  }
   .usa-accordion-button {
     background-image: url('../uswds/img/arrow-down.svg');
     padding-left: $space-s;
