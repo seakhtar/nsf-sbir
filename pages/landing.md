@@ -9,7 +9,7 @@ hero:
     alt: Up to $1.5 million seed funding.
     text: 0% equity.
   button:
-    href: /how-to-apply/
+    href: /apply/
     text: "Start your application"
     subtext: "Deadline: {{site.deadline}}"
 ---
