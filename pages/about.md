@@ -11,13 +11,20 @@ section_image_caption: |
 <div class="usa-width-one-whole" markdown="1">
 # About America's Seed Fund
 
-<p class="text-medium">For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.</p>
+For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.
+
+</div>
+</div>
+</section>
+<section class="usa-section-tight-top background-light-blue">
+<div class="usa-content usa-grid">
 <div class="usa-width-one-whole" markdown="1">
 
-When you join our elite group of innovators, you’ll help us:
+<strong>When you join our elite group of innovators, you’ll help us:<strong>
 
 </div>
 </div>
+<div class="usa-section usa-section-tight-top usa-content usa-grid">
 <div class="usa-width-one-fourth" markdown="1">
 Promote groundbreaking technologies developed by U.S. entrepreneurs.
 </div>
@@ -39,7 +46,7 @@ Stimulate private-sector commercialization of technologies developed using feder
     </div>
   </div>
 </section>
-<section class="section-about-asf">
+<section class="background-light-blue">
 <div class="usa-section usa-content usa-grid" markdown="1">
 <div class="usa-width-one-third" markdown="1">
 ### Funding for R&D with founder-friendly terms
@@ -47,7 +54,7 @@ Stimulate private-sector commercialization of technologies developed using feder
 
 <div class="usa-width-two-thirds" markdown="1">
 
-- **$225,000 in Phase I funding**: We award up to $225,000 in funding (over six to 12 months) for R&D work. We’ll also provide you with training and mentorship in key business areas.
+- **Up to $1.5M / 24 months.** Receive up to $225,000 in seed capital to conduct product R&D over six to 12 months. During this period, your company will be immersed in the NSF network and you'll receive training and mentorship in key business areas. A second-round investment of $750,000 over 24 months may be available. NSF may also match 50 cents on every $1 of qualifying revenue or third-party investment, up to another $500,000.
 
 - **0% equity**: You retain full ownership over your company and intellectual property. And because our awards aren’t loans, there’s nothing to pay back.
 
@@ -94,7 +101,7 @@ EXPIRED STATE: For more program information, check out our last solicitation. Ou
 
 We work with startups and small businesses, and we welcome proposals from newly formed companies — you don’t need a track record of commercialization to apply for funding. Please note that your company needs to be a legal entity before you apply.
 
-If your company is majority owned by a venture capital operating company, hedge fund, or private-equity firm, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](#).
+If your company is majority owned by a venture capital operating company, hedge fund, or private-equity firm, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](https://www.sbir.gov/faqs/eligibility-requirements).
 </div>
 <div class="usa-width-one-half" markdown="1">
 #### We support R&D with lots of technical risk
@@ -114,13 +121,11 @@ America's Seed Fund is a program within the [National Science Foundation](https:
 Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.
 </div>
 </section>
-<!--
-<section class="section-program-directors">
+<section class="background-white">
 <div class="usa-section usa-content usa-grid" markdown="1">
-## Psrogram directors
+## Program directors
 Our program directors are domain experts from diverse fields — get to know them here.
 
 {% include program-directors.html %}
 </div>
 </section>
--->

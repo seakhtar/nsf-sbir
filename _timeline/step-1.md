@@ -5,8 +5,10 @@ description: Make sure your company is incorporated and meets these eligibility 
 
 - Your company must be a small business located in the United States.
 - At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents, and all funded work needs to take place in the United States (including work done by consultants and contractors).
-- The project’s tech lead (Principal Investigator) must be legally employed at least 20 hours a week by the company seeking funding. The tech lead doesn’t need any advanced degrees.
-- The tech lead needs to commit to at least one month (173 hours) of work on a funded project per six months of project duration.
+- The project’s principal investigator (tech lead) must be legally employed at least 20 hours a week by the company seeking funding. The PI doesn’t need any advanced degrees.
+- The PI needs to commit to at least one month (173 hours) of work on a funded project per six months of project duration.
+
+For more detailed information, check out our [Eligibility Guide](https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf).
 
 **Criteria**
 
@@ -14,7 +16,7 @@ Here are the criteria we use to determine which companies to fund:
 
 - **Seed stage:** Your small business is working on a new product or service enabled by innovative, early-stage technology.
 - **Pre-traction:** You have evidence that your product or service could meet an important, unmet need for your customers.
-- **High-risk:** The product is based on unproven technology that needs further testing (and funding for that testing).
+- **High-risk:** Your product is based on unproven technology that needs further testing (and funding for that testing).
 - **Scale:** If you successfully bring your product to market, it could form the foundation for a scalable business and make a large impact in your target market.
 
 **Portfolio**
@@ -23,11 +25,11 @@ You can check out our [portfolio](#) to see what companies we’ve recently fund
 
 **Technology topic areas**
 
-Content here
+{% include tech-topics.html %}
 
 **Get pre-submission feedback**
 
-You can send an executive summary to one of our program directors to discuss your work and get feedback. Download our [executive summary form](#) (PDF) and return your completed form to the program director whose topic area best reflects your product’s focus.
+You can send an executive summary to one of our program directors to discuss your work and get feedback. Complete our short [executive summary form](https://docs.google.com/a/gsa.gov/forms/d/17AgL8vPQpWzfZ9VH034oHzd_JK7-gS-MjPJNoGbKwkY/edit) — a program director will get back to you shortly.
 
 **STTR**
 

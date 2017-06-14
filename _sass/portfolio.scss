@@ -90,3 +90,34 @@ h2.text-medium.tech-topic-title {
 .section-tech-topic .usa-width-one-fourth {
   margin-bottom: $space-xl;
 }
+
+#search label {
+  display: block;
+  font-family: $font-serif;
+  font-size: $font-size-xxxs;
+  font-weight: 600;
+  line-height: 1.625;
+  padding: 0;
+  margin: 0;
+}
+#search input.form-control {
+  border: none;
+  border-bottom: 2px solid $color-primary-alt-dark;
+  background-color: $color-neutral-light;
+  color: $color-base;
+  font-family: $font-serif;
+  font-size: $font-size-xs;
+  line-height: 1.625;
+  margin-left: -32px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 32px;
+  width: 300px;
+}
+#search .btn.btn-default {
+  @include search-icon;
+  background-color: $color-neutral-light;
+  border: none;
+  color: $color-primary-alt-dark;
+  line-height: 1.625;
+}
