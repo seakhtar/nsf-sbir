@@ -104,7 +104,7 @@ For more program information, check out our last solicitation. Our next solicita
 
 We work with startups and small businesses, and we welcome proposals from newly formed companies — you don’t need a track record of commercialization to apply for funding. Please note that your company needs to be a legal entity before you apply.
 
-If your company is majority owned by a venture capital operating company, hedge fund, or private-equity firm, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](#).
+If your company is majority owned by a venture capital operating company, hedge fund, or private-equity firm, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](https://www.sbir.gov/faqs/eligibility-requirements).
 </div>
 <div class="usa-width-one-half" markdown="1">
 #### We support R&D with lots of technical risk

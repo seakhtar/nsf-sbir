@@ -56,19 +56,34 @@ h5 {
   font-weight: 500;
 }
 
-
-  .text-large {
-    font-size: $font-size-m;
-    letter-spacing: .015em;
-  }
-
-  .text-medium {
-    font-size: $font-size-s;
+.text-xxxxl {
+  font-size: $font-size-xxxl;
 }
 
-  .text-alt {
-    font-family: $font-mono;
-  }
+.text-xxxl {
+  font-size: $font-size-xxl;
+}
+
+.text-xxl {
+  font-size: $font-size-xl;
+}
+
+.text-xl {
+  font-size: $font-size-l;
+}
+
+.text-large {
+  font-size: $font-size-m;
+  letter-spacing: .015em;
+}
+
+.text-medium {
+  font-size: $font-size-s;
+}
+
+.text-alt {
+  font-family: $font-mono;
+}
 
 
 
@@ -76,7 +91,7 @@ h5 {
     font-size: $font-size-xxs;
   }
 
- 
+
 
 .subhead {
   font-family: $font-mono;
