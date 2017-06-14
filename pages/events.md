@@ -6,15 +6,13 @@ layout: secondary-narrow
 
 # Resources and events
 
-Advice from our program staff, event information, FAQ, and more.
+Helpful information for applicants and awardees.
 
-## America's Seed Fund on Medium
+## For applicants
 
-Get program updates and the latest from our staff on [Medium](https://medium.com/@NSFSBIR).
+### Q&A webinars
 
-## Q&A webinars
-
-Ask all your application-related questions during our Q&A webinars. Can’t make it to a webinar? Check out our videos covering [program basics](https://www.youtube.com/watch?v=1Tm_ToVRpqE) and [what you need to know before applying](https://www.youtube.com/watch?v=-0lhmfczIJ8&feature=youtu.be). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.)
+Thinking of applying for Phase I funding? Ask all your application-related questions during our Q&A webinars. Can’t make it to a webinar? Check out our videos covering [program basics](https://www.youtube.com/watch?v=1Tm_ToVRpqE) and [what you need to know before applying](https://www.youtube.com/watch?v=-0lhmfczIJ8&feature=youtu.be). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.)
 
 <table class="usa-table-borderless event-listing">
     <thead>
@@ -46,51 +44,65 @@ Ask all your application-related questions during our Q&A webinars. Can’t make
 </table>
   
   
-## Onsite events
+### Onsite events
   
-  Our mentors and staff attend events year round and across the country. Here are just a few events we’ll be visiting:
+Our mentors and staff attend events year round and across the country; attending these events is a great way to learn more about the program, our companies’ accomplishments, and the application process. Here are just a few events we’ll be visiting:
   
   - [SxSW](http://schedule.sxsw.com/2017/events/OE06311)
   - [CES](http://www.ces.tech/)
   - [SBIR Road Tour](http://www.sbirroadtour.com/)
   
   Before you register, please double-check event dates and times with the sponsoring organizations.
-  
-## FAQ
-  
-Still have questions? Visit our [FAQ](https://www.nsf.gov/pubs/2017/nsf17071/nsf17071.jsp), which covers the pre-application process to post-award reporting (and everything in between).
 
-## Awardee profile videos
+### Video profiles
 
 Get to know our awardees better — we’ve got [video profiles of funded startups and small businesses](https://www.youtube.com/playlist?list=PLGhBP1C7iCOkPp8yv2I3ZGk16LiMIiikb), along with [profiles of funded startup partnerships](https://www.youtube.com/playlist?list=PLGhBP1C7iCOkmWtgG1BKTZpfMMCDkYY61).
 
-## Forms for Phase I management
+## For Phase I awardees
 
-### [SBIR/STTR Funding Agreement Certification (PDF)](/files/SBIR_STTR_Funding_Agreement.pdf) 
-SBIR/STTR prospective grantees will be notified by NSF to provide this form to determine whether the business is eligible for a Small Business Innovation Research (SBIR) Program award. Certification will be used to ensure continued compliance during the life of the funding agreement.
+### Forms to manage Phase I funding
 
-### [Certificate of Current Cost or Pricing Data (Word doc)](/files/Certificate_of_Current_Cost.docx)
-Certification that cost and pricing data are accurate; used to ensure continued compliance during the life of the funding agreement.
+[SBIR/STTR Funding Agreement Certification (PDF)](https://github.com/18F/nsf-sbir/blob/dev/files/SBIR_STTR_Funding_Agreement.pdf)
+Prospective SBIR/STTR awardees need to complete and submit this form so that the NSF can determine whether they’re eligible for an award. The NSF will use this certification to determine your compliance during the funding term.
 
-### [SBIR/STTR Phase I Report Cover Page (PDF) ](/files/SBIR-STTR_Revised_Report_Cover.pdf)
-All SBIR/STTR Phase I and Phase II awardees must complete this certification at all times set forth in the funding agreement. This includes checking all of the boxes and having an authorized officer of the awardee sign and date the certification each time it is requested.
+[Certificate of Current Cost or Pricing Data (Word doc)](https://github.com/18F/nsf-sbir/blob/dev/files/Certificate_of_Current_Cost.docx)
+The NSF will use this form to certify that your cost and pricing data are accurate and that you’re compliant throughout your funding term.
 
-## Forms for Phase II application and management
+[SBIR/STTR Phase I Report Cover Page (PDF)](https://github.com/18F/nsf-sbir/blob/dev/files/SBIR-STTR_Revised_Report_Cover.pdf)
+Your Phase I funding agreement notes when you need to complete this form, and you’ll be expected to complete it at the times listed in your funding agreement. Completing the form involves checking all of the boxes and having your authorized officer sign and date the certification each time the NSF requests it.
 
-### [Company Commercialization History (XLS)](/files/CommercialHistoryTemplate.xls) 
-Phase II grantees need to submit this form if they have ever received an SBIR or STTR Phase II award from any agency, including NSF.
+## For Phase II applicants and awardees
 
-### [Blank Milestone Chart (XLSX) ](/files/Blank_Milestone_Chart.xlsx)
-Phase II grantees need to submit this form to show duration and expenditures of their current project.
+### Forms to apply for and manage Phase II funding
 
-### [SBIR/STTR Funding Agreement Certification (PDF)](/files/SBIR_STTR_Funding_Agreement.pdf) 
-SBIR/STTR prospective grantees will be notified by NSF to provide this form to determine whether the business is eligible for a Small Business Innovation Research (SBIR) Program award. Certification will be used to ensure continued compliance during the life of the funding agreement.
+[Company Commercialization History (XLS)](https://github.com/18F/nsf-sbir/blob/dev/files/CommercialHistoryTemplate.xls)
+If you’ve ever received a SBIR/STTR Phase II award from any agency (including the NSF), you’ll need to complete this form.
 
-### [Certificate of Current Cost or Pricing Data (Word doc)](/files/Certificate_of_Current_Cost.docx) 
-Certification that cost and pricing data are accurate; used to ensure continued compliance during the life of the funding agreement.
+[Blank Milestone Chart (XLSX)](https://github.com/18F/nsf-sbir/blob/dev/files/Blank_Milestone_Chart.xlsx)
+You need to submit this form to show the duration and expenditures of your current project.
 
-### [SBIR/STTR Phase II Report Cover Page (PDF) ](/files/SBIR-STTR_Revised_Report_Cover.pdf)
-All SBIR/STTR Phase I and Phase II awardees must complete this certification at all times set forth in the funding agreement. This includes checking all of the boxes and having an authorized officer of the awardee sign and date the certification each time it is requested.
+[SBIR/STTR Funding Agreement Certification (PDF)](https://github.com/18F/nsf-sbir/blob/dev/files/SBIR_STTR_Funding_Agreement.pdf)
+Prospective SBIR/STTR awardees need to complete and submit this form so that the NSF can determine whether they’re eligible for an award. The NSF will use this certification to determine your compliance during the funding term.
 
-### [SBIR/STTR Phase II Administrative and Financial Review video](https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv)
+[Certificate of Current Cost or Pricing Data (Word doc)](https://github.com/18F/nsf-sbir/blob/dev/files/Certificate_of_Current_Cost.docx)
+The NSF will use this form to certify that your cost and pricing data are accurate and that you’re compliant throughout your funding term.
+
+[SBIR/STTR Phase II Report Cover Page (PDF)](https://github.com/18F/nsf-sbir/blob/dev/files/SBIR-STTR_Revised_Report_Cover.pdf)
+Your Phase II funding agreement notes when you need to complete this form, and you’ll be expected to complete it at the times listed in your funding agreement. Completing the form involves checking all of the boxes and having your authorized officer sign and date the certification each time the NSF requests it.
+
+[SBIR/STTR Phase II Administrative and Financial Review video](https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv)
+
+## General resources
+
+### Spreading the word
+
+As an awardee or alum, you’re the face of our program, and we hope you’ll share news of your successes for years to come. Our [Ambassadors page](https://www.nsf.gov/eng/iip/sbir/ambassador.jsp) offers tips for doing just that.
+
+### Research experiences
+
+Are you a teacher or student who’s interested in research experiences and partnerships with Phase II awardees? Visit our [Research Experiences page](https://www.nsf.gov/eng/iip/sbir/portfolio/researchexp.jsp) to learn more about how you can partner with funded Phase II companies.
+  
+## FAQ
+  
+Have lingering questions? Visit our [FAQ](https://www.nsf.gov/pubs/2017/nsf17071/nsf17071.jsp), which covers the pre-application process to post-award reporting (and everything in between).
 
