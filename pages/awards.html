@@ -19,7 +19,7 @@ layout: base
     </div>
     <div class="usa-width-one-third">
       <strong class="color-primary">{{ awards_summary.states_total }}</strong>
-      <div>From {{ awards_summary.states_total }} states and territories including D.C., Puerto Rico, and the Virgin Islands</div>
+      <div>From {{ awards_summary.states_total }} states and territories</div>
     </div>
     <div class="usa-width-one-third">
       <strong class="color-primary">{{ awards_summary.applications_total | intcomma }}</strong>
@@ -29,7 +29,7 @@ layout: base
     {% comment %}
     <h3>Applications since {{ site.data.awards_meta.date_start }}</h3>
     <p><strong>{{ awards_summary.applications_total | intcomma }}</strong> applications</p>
-    <p><strong>{{ awards_summary.states_total }}</strong> states and territories funded (including D.C., Puerto Rico, and the Virgin Islands</p>
+    <p><strong>{{ awards_summary.states_total }}</strong> states and territories funded</p>
     <p><strong>{{ awards_summary.funding_total | round | intcomma_dollar }}</strong> in total funding</p>
     <p><strong>{{ awards_summary.funding_per_company | round | intcomma_dollar }}</strong> per company</p>
 
