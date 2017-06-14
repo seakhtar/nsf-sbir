@@ -90,8 +90,11 @@ If your technology needs more development — and if you’ve met all the Phase 
 
 Phase II awardees can apply for Phase IIB funding to speed up commercialization. To be considered for Phase IIB funding (up to $500,000), you need a third-party investment of at least $100K. Visit our [Supplemental funding page](https://www.nsf.gov/eng/iip/sbir/Supplement/) to learn more.
 
-ACTIVE STATE: For complete program information, check out our latest solicitation [link]. (Internal note: there are two solicitations: one for SBIR and another for STTR. See [mockup](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/explore/about/index.html))
-EXPIRED STATE: For more program information, check out our last solicitation. Our next solicitation will be posted in [MONTH YEAR].
+{% if site.app_process == "active" %}
+For complete program information, check out the latest [SBIR solicitation]() or [STTR solicitation]().
+{% else %}
+For more program information, check out our last solicitation. Our next solicitation will be posted in [MONTH YEAR].
+{% endif %}
 </div>
 </section>
 <section class="background-light-neutral">
