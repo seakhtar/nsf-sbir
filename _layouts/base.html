@@ -6,7 +6,7 @@
     {% include meta.html %}
     {% include styles.html %}
   </head>
-  <body class="{{ layout.class }} page-{{ page.title | slugify }} {{ page.class }}{% if page.section_image %} page-background {% endif%}" {% if page.section_image %} style="background-image: url( {{site.baseurl}}{{ page.section_image }} );" {% endif %} >
+  <body class="{{ layout.class }} page-{{ page.title | slugify }} {{ page.class }} {% if page.section_image %} page-background {% endif%}" {% if page.section_image %} style="background-image: url( {{site.baseurl}}{{ page.section_image }} );" {% endif %} >
 
     {% include skipnav.html %}
     {% include banner.html %}
