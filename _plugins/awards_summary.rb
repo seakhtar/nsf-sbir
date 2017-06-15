@@ -235,33 +235,36 @@ module SiteData
 
       # Phase 2
       @awards_phase_2 = applications_phase_2
-      @awards_summary['applications_phase_2_count'] = applications_phase_2_count
-      @awards_summary['funding_phase_2'] = funding_phase_2
-      @awards_summary['companies_phase_2'] = companies_phase_2
-      @awards_summary['companies_unique_phase_2_percent'] = companies_unique_phase_2_percent
-      @awards_summary['funding_per_company_phase_2'] = funding_per_company_phase_2
-      @awards_summary['funding_per_application_phase_2'] = funding_per_application_phase_2
-      @awards_summary['states_phase_2_count'] = states_phase_2_count
+      @awards_summary['awards_phase_2'] = {}
+      @awards_summary['awards_phase_2']['applications_count'] = applications_phase_2_count
+      @awards_summary['awards_phase_2']['funding'] = funding_phase_2
+      @awards_summary['awards_phase_2']['companies'] = companies_phase_2
+      @awards_summary['awards_phase_2']['companies_unique_percent'] = companies_unique_phase_2_percent
+      @awards_summary['awards_phase_2']['funding_per_company'] = funding_per_company_phase_2
+      @awards_summary['awards_phase_2']['funding_per_application'] = funding_per_application_phase_2
+      @awards_summary['awards_phase_2']['states_count'] = states_phase_2_count
 
       # Phase 1
       @awards_phase_1 = applications_phase_1
-      @awards_summary['applications_phase_1_count'] = applications_phase_1_count
-      @awards_summary['funding_phase_1'] = funding_phase_1
-      @awards_summary['companies_phase_1'] = companies_phase_1
-      @awards_summary['companies_unique_phase_1_percent'] = companies_unique_phase_1_percent
-      @awards_summary['funding_per_company_phase_1'] = funding_per_company_phase_1
-      @awards_summary['funding_per_application_phase_1'] = funding_per_application_phase_1
-      @awards_summary['states_phase_1_count'] = states_phase_1_count
+      @awards_summary['awards_phase_1'] = {}
+      @awards_summary['awards_phase_1']['applications_count'] = applications_phase_1_count
+      @awards_summary['awards_phase_1']['funding'] = funding_phase_1
+      @awards_summary['awards_phase_1']['companies'] = companies_phase_1
+      @awards_summary['awards_phase_1']['companies_unique_percent'] = companies_unique_phase_1_percent
+      @awards_summary['awards_phase_1']['funding_per_company'] = funding_per_company_phase_1
+      @awards_summary['awards_phase_1']['funding_per_application'] = funding_per_application_phase_1
+      @awards_summary['awards_phase_1']['states_count'] = states_phase_1_count
 
       # Phase 1 recent
       @awards_phase_1_recent = applications_phase_1_recent
-      @awards_summary['applications_phase_1_recent_count'] = applications_phase_1_recent_count
-      @awards_summary['funding_phase_1_recent'] = funding_phase_1_recent
-      @awards_summary['companies_phase_1_recent'] = companies_phase_1_recent
-      @awards_summary['companies_unique_phase_1_recent_percent'] = companies_unique_phase_1_recent_percent
-      @awards_summary['funding_per_company_phase_1_recent'] = funding_per_company_phase_1_recent
-      @awards_summary['funding_per_application_phase_1_recent'] = funding_per_application_phase_1_recent
-      @awards_summary['states_phase_1_recent_count'] = states_phase_1_recent_count
+      @awards_summary['awards_phase_1_recent'] = {}
+      @awards_summary['awards_phase_1_recent']['applications_count'] = applications_phase_1_recent_count
+      @awards_summary['awards_phase_1_recent']['funding'] = funding_phase_1_recent
+      @awards_summary['awards_phase_1_recent']['companies'] = companies_phase_1_recent
+      @awards_summary['awards_phase_1_recent']['companies_unique_percent'] = companies_unique_phase_1_recent_percent
+      @awards_summary['awards_phase_1_recent']['funding_per_company'] = funding_per_company_phase_1_recent
+      @awards_summary['awards_phase_1_recent']['funding_per_application'] = funding_per_application_phase_1_recent
+      @awards_summary['awards_phase_1_recent']['states_count'] = states_phase_1_recent_count
 
       if @site_config['reset'] == true
         @util.update_yaml(@awards_summary, @awards_summary_path)

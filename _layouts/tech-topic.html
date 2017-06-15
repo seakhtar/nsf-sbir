@@ -1,8 +1,6 @@
 ---
 layout: base
 class: tech-topic-layout
-main:
-  class: usa-layout-docs
 ---
 {% for topic in site.data.tech-topics %}
 {% if page.topic_code == topic.topic_code %}
@@ -37,7 +35,7 @@ main:
         </p>
       </section>
     </div>
-    <div class="usa-width-three-fourths usa-layout-docs-main_content">
+    <div class="usa-width-three-fourths">
       <p class="subhead">Technology topic</p>
       <h2 class="page-title">{{ topic.topic }}</h2>
         {{ content }}

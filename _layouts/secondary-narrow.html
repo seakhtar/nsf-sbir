@@ -1,8 +1,6 @@
 ---
 layout: base
 class: secondary-narrow-layout
-main:
-  class: usa-layout-docs
 ---
 {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
 {% if sidenav %}
@@ -10,7 +8,7 @@ main:
   {% include sidenav.html links=sidenav %}
 </aside>
 
-<div class="usa-width-three-fourths usa-layout-docs-main_content">
+<div class="usa-width-three-fourths">
   <div class="usa-section usa-content usa-grid">
     {{ content }}
   </div>
