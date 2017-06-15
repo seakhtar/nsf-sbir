@@ -33,15 +33,15 @@ module SiteData
     end
 
     def consolidate_params
-      after = @meta.clone
+      new_params = @meta.clone
 
-      if @meta['active_date_is_now'] == true
-        after['active_date'] = @util.to_date_string(@site.time)
+      if @config_params['active_date_is_now'] == true
+        new_params['exp_date_start'] = @util.to_date_string(@site.time)
       end
-      after
+      new_params
     end
 
-    # should return something like [ { before }, { current @meta }, { after }]
+    # should return something like [ { params } ]
     def create_params
       if @config_params['reset'] == true
         consolidate_params
@@ -58,7 +58,7 @@ module SiteData
     def generate(params)
       configs = [ params ].flatten.compact
       if configs.empty?
-        puts "the awards config is unchanged"
+        puts "the awards config is unchanged".yellow
         remove_old(@awards).uniq
       else
         awards = configs.map do |config|
