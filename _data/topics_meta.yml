@@ -3,12 +3,11 @@ date_start: 06/01/2013
 date_end: 06/01/2017
 active_start_date: 11/30/2016
 update_to_current_time: true
+fundProgramName: phase
 reset: false
 printFields:
 - id
-- awardeeCity
 - awardeeName
-- awardeeStateCode
 - date
 - expDate
 - fundsObligatedAmt
@@ -16,6 +15,18 @@ printFields:
 - poName
 - title
 - abstractText
-last_updated: 06/09/2017
+- startDate
+- endDate
+- awardeeCity
+- awardeeCountryCode
+- awardeeStateCode
+- awardeeZipCode
+- awardeeAddress
+- piFirstName
+- piMiddeInitial
+- piLastName
+- piPhone
+- piEmail
+last_updated: 06/15/2017
 ---
 

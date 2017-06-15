@@ -1,6 +1,6 @@
 ---
 title: Apply
-permalink: /how-to-apply/
+permalink: /apply/
 layout: secondary-narrow
 timeline:
   - title: 90 days before<br> the deadline
@@ -13,7 +13,7 @@ timeline:
       - step-3
       - step-4
   - title: "Deadline<br> {{ site.deadline }}"
-    description: "Applications due by 5:00 PM in your local time zone."
+    description: "Applications due by 5:00 p.m. in your local time zone."
     inactive_description: "Application submission has expired."
     note: "Note: Your time zone is based on your company's address as you listed it in your application."
     inactive_note:
@@ -25,7 +25,9 @@ timeline:
   - title: 5-6 months after<br> the deadline
     description: If your proposal is accepted, you'll receive funding of up to $225,000.
 ---
-# How to apply for Phase I funding
+# How to apply
+
+Learn more about our Phase I application timeline, preparing your proposal, and what to expect once you submit.
 
 <ol class="timeline {% if site.app_process == "inactive" %} timeline-inactive {% endif %}">
 {% assign step_counter = 1 %}

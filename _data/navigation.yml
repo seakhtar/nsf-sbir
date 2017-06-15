@@ -12,46 +12,23 @@
 primary:
   - text: About
     href: /about/
-  - text: Apply
-    href: /how-to-apply/
   - text: Portfolio
     href: /portfolio/
-  - text: Events
-    href: /events/
-  - text: Contact
-    href: /contact/
-  - text: Awardees
-    href: /awardees/
-  - text: Awardee details
-    href: /awardees/details/
-  - text: Awardees phase 1
-    href: /awardees/phase-1/
-  - text: Awardees phase 2
-    href: /awardees/phase-2/
+  - text: Apply for funding
+    href: /apply/
 
 secondary: []
 
 footer:
   - text: About
-    href: /#
+    href: /about/
   - text: Portfolio
-    href: /#
+    href: /portfolio/
   - text: Apply for funding
-    href: /#
+    href: /apply/
   - text: Resources
-    href: /#
+    href: /resources/
   - text: Press
-    href: /#
+    href: /press/
   - text: Contact us
-    href: /#
-
-
-docs:
-  - text: Documentation
-    href: /docs/
-  - text: Installation
-    href: /docs/install/
-  - text: Upgrading
-    href: /docs/upgrade/
-  - text: Help
-    href: /docs/help/
+    href: /contact/

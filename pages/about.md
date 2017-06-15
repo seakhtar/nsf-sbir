@@ -11,13 +11,20 @@ section_image_caption: |
 <div class="usa-width-one-whole" markdown="1">
 # About America's Seed Fund
 
-<p class="text-medium">For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.</p>
+For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.
+
+</div>
+</div>
+</section>
+<section class="usa-section-tight-top background-light-blue">
+<div class="usa-content usa-grid">
 <div class="usa-width-one-whole" markdown="1">
 
-When you join our elite group of innovators, you’ll help us:
+<strong>When you join our elite group of innovators, you’ll help us:<strong>
 
 </div>
 </div>
+<div class="usa-section usa-section-tight-top usa-content usa-grid">
 <div class="usa-width-one-fourth" markdown="1">
 Promote groundbreaking technologies developed by U.S. entrepreneurs.
 </div>
@@ -83,8 +90,11 @@ If your technology needs more development — and if you’ve met all the Phase 
 
 Phase II awardees can apply for Phase IIB funding to speed up commercialization. To be considered for Phase IIB funding (up to $500,000), you need a third-party investment of at least $100K. Visit our [Supplemental funding page](https://www.nsf.gov/eng/iip/sbir/Supplement/) to learn more.
 
-ACTIVE STATE: For complete program information, check out our latest solicitation [link]. (Internal note: there are two solicitations: one for SBIR and another for STTR. See [mockup](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/explore/about/index.html))
-EXPIRED STATE: For more program information, check out our last solicitation. Our next solicitation will be posted in [MONTH YEAR].
+{% if site.app_process == "active" %}
+For complete program information, check out the latest [SBIR solicitation]() or [STTR solicitation]().
+{% else %}
+For more program information, check out our last solicitation. Our next solicitation will be posted in [MONTH YEAR].
+{% endif %}
 </div>
 </section>
 <section class="background-light-neutral">
@@ -94,7 +104,7 @@ EXPIRED STATE: For more program information, check out our last solicitation. Ou
 
 We work with startups and small businesses, and we welcome proposals from newly formed companies — you don’t need a track record of commercialization to apply for funding. Please note that your company needs to be a legal entity before you apply.
 
-If your company is majority owned by a venture capital operating company, hedge fund, or private-equity firm, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](#).
+If your company is majority owned by a venture capital operating company, hedge fund, or private-equity firm, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](https://www.sbir.gov/faqs/eligibility-requirements).
 </div>
 <div class="usa-width-one-half" markdown="1">
 #### We support R&D with lots of technical risk
@@ -114,15 +124,11 @@ America's Seed Fund is a program within the [National Science Foundation](https:
 Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.
 </div>
 </section>
-{% if site.app_process == "active" %}
- Active time!
-{% else %}
-<section class="section-program-directors background-white">
+<section class="background-white">
 <div class="usa-section usa-content usa-grid" markdown="1">
-## Psrogram directors
+## Program directors
 Our program directors are domain experts from diverse fields — get to know them here.
 
 {% include program-directors.html %}
 </div>
 </section>
-{% endif %}

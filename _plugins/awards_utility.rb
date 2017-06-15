@@ -11,15 +11,16 @@ module SiteData
 
     def update_yaml(new_obj, path)
       new_yaml = YAML.dump(new_obj) << "---\n\n"
-      puts "updating file #{path}"
+      puts "updating file #{path}".green
       File.write(path, new_yaml) if File.exists? path
     end
 
     def to_date_string(date_obj)
-      DateTime.parse(date_obj.to_s).strftime('%m/%d/%Y')
+      DateTime.parse(date_obj.to_s).strftime('%m/%d/%Y') || '06/14/2017'
     end
 
     def to_date(date_string)
+      date_string ||= '06/14/2017'
       date_string = to_date_string(date_string) unless date_string.class == String
       DateTime.strptime(date_string, '%m/%d/%Y')
     end

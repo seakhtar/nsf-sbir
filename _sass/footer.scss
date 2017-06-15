@@ -1,7 +1,7 @@
 .usa-footer,
 .usa-footer-primary-section,
 .usa-footer-secondary_section {
-  background-color: $light-bg-color;
+  background-color: $color-neutral-light;
   font-size: $font-size-xxs;
 
   p {
@@ -17,10 +17,20 @@
   }
 }
 
+.usa-footer-logo-img {
+  max-width: 5rem;
+}
+
 .usa-footer-nav {
+  margin-bottom: $space-m;
   li {
     margin: 0;
-    padding-right: $space-xs;
+    padding: 0;
+    width: 48%;
+    display: inline-block;
+  }
+  .usa-footer-primary-content, .usa-footer-primary-content:last-child  {
+    border: 0;
   }
   .usa-footer-primary-link {
     font-weight: normal;

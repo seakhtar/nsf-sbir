@@ -19,7 +19,6 @@ $color-secondary-dark: #FFE61A;
 $color-secondary-light: #FFF79C;
 $color-secondary-lightest: #FFFAC3;
 
-$color-gray-lighter: $color-primary-darker;
 $color-gray-lightest: #F7F7F7;
 $color-blue-light: #E0F3F8;
 $color-neutral-light: #F5FBFC;
@@ -37,16 +36,14 @@ $color-tertiary-lightest: #F9DEDE;
 $color-white-transprent: rgba(255,255,255,.9);
 
 // Backgrounds
-$light-bg-color: #F5FBFC;
-$light-blue-bg-color: #E0F3F8;
-$bold-blue-bg-color: #9bdaf1;
+$color-bg-light: #F5FBFC;
 
 $bg-color: #F7F7F7;
 $hero-bg-color: #AAAAAA;
 // End Unique colors
 
 // Typography
-$font-serif: 'Work Sans', sans-serif;
+$font-serif: 'Work Sans', 'Helvetica Neue', 'Helvetica', Arial, sans-serif;;
 $font-mono: 'Overpass Mono', monospace;
 $font-sans: 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', Arial, sans-serif;
 $font-size-xxxs: 1.1rem;
@@ -57,6 +54,7 @@ $font-size-m: 2.4rem;
 $font-size-l: 3.6rem;
 $font-size-xl: 5rem;
 $font-size-xxl: 7rem;
+$font-size-xxxl: 12rem;
 
 // Spacing
 $space-xs: 0.5rem;

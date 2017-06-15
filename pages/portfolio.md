@@ -10,6 +10,22 @@ layout: secondary
 # Portfolio
 <p class="text-medium">Since 1977, we’ve awarded funding for high-risk R&D to more than 11,000 startups and small businesses.</p>
 
+<!-- start search -->
+<div class="pad-vtop-10 pad-vbottom-80">
+  <form id='search' name="searchForm" method="get" accept-charset="UTF-8" action="https://search.nsf.gov/search">
+    <div class="input-group-sm" id="searchbar">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="submit" name="search"><span class="sr-only">search</span><i class="fa fa-search fa-flip-horizontal" aria-hidden="true"></i></button>
+      </span>
+        <input type="text" class="form-control usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true" id="QueryText" placeholder="" name="query" title="search">
+        <input id="affiliate" name="affiliate" type="hidden" value="nsf" />
+
+    <label for="Search">Search America's Seed Fund awardees</label>
+    </div><!-- /input-group -->
+  </form>
+</div>
+<!-- end search -->
+
 </div>
 </section>
 <section class="usa-section usa-content usa-grid usa-section-tight-top" markdown="1">
@@ -31,7 +47,11 @@ Our Recent Phase I awardees page highlights companies whose proposals were appro
 
 {% include tech-subtopics.html %}
 </section>
-<section class="usa-section usa-content usa-grid" markdown="1">
+
+ <section class="usa-section usa-content usa-grid usa-section-tight-top" markdown="1">
+ <h2 class="subhead text-small">Current awardees</h2>
+
+**View our current awardees,** who are still completing the research outlined in their proposals and who haven't yet reached the estimated ends of their award terms. [View current Phase I awardees](), [Current Phase II awardees](), or our [most recent (12/16) Phase I awardees]().
 
 <!--
 ## Awardees pages
