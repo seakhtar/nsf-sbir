@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Overpass+Mono:400,700|Work+Sans:400,500,600,700,800');
 
-.page-title {
+.page-title,
+h1#how-to-apply {
   font-size: $font-size-xl;
   font-weight: 800;
   letter-spacing: -.015em;
@@ -74,7 +75,7 @@ h5 {
 
 .text-large {
   font-size: $font-size-m;
-  letter-spacing: .015em;
+  letter-spacing: -.015em;
 }
 
 .text-medium {

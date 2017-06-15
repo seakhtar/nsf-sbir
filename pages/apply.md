@@ -27,7 +27,9 @@ timeline:
 ---
 # How to apply
 
-Learn more about our Phase I application timeline, preparing your proposal, and what to expect once you submit.
+<p class="text-medium">
+Learn about our Phase I application timeline, preparing your proposal, and what to expect once you submit.
+</p>
 
 <ol class="timeline {% if site.app_process == "inactive" %} timeline-inactive {% endif %}">
 {% assign step_counter = 1 %}
