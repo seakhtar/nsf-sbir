@@ -7,11 +7,13 @@ $timeline-right-padding: 5rem;
 
 .page-apply {
   background-color: $color-blue-light;
+
+  h1 {
+    padding-bottom: $space-l;
+  }
 }
 
-h1#how-to-apply {
-  margin-bottom: $space-l;
-}
+
 
 .timeline {
   counter-reset: count;
