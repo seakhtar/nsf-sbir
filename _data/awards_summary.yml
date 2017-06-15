@@ -1,26 +1,9 @@
 ---
-funding_total: 394802990.0
-funding_per_company: 587504.45
-companies_total: 672
-applications_total: 683
-applications_phase_1_count: 314
-funding_phase_1: 71103059.0
-companies_phase_1: 312
-funding_per_company_phase_1: 227894.42
-states_count: 50
-states_phase_2_count: 46
-states_phase_1_count: 44
-funding_per_application_phase_1: 226442.86
-companies_unique_phase_1_percent: 100.0
-companies_unique_phase_2_percent: 100.0
-funding_per_application_phase_2: 877235.59
-applications_phase_1_recent_count: 288
-funding_phase_1_recent: 64882518.0
-companies_phase_1_recent: 286
-companies_unique_phase_1_recent_percent: 100.0
-funding_per_company_phase_1_recent: 226861.95
-funding_per_application_phase_1_recent: 225286.52
-states_phase_1_recent_count: 44
+funding_total: 357596303.0
+funding_per_company: 598988.78
+companies_total: 597
+applications_total: 606
+states_count: 48
 states:
 - AL
 - AR
@@ -32,20 +15,18 @@ states:
 - DE
 - FL
 - GA
-- HI
 - IA
 - ID
 - IL
 - IN
-- KS
 - KY
 - LA
 - MA
 - MD
 - ME
 - MI
-- MN
 - mn
+- MN
 - MO
 - MT
 - NC
@@ -72,9 +53,28 @@ states:
 - WA
 - WI
 - WY
-applications_phase_2_count: 369
-funding_phase_2: 323699931.0
-companies_phase_2: 364
-funding_per_company_phase_2: 889285.52
+awards_phase_1_recent:
+  applications_count: 256
+  funding: 57639489.0
+  companies: 254
+  companies_unique_percent: 100.0
+  funding_per_company: 226927.12
+  funding_per_application: 225154.25
+  states_count: 42
+awards_phase_2:
+  applications_count: 327
+  funding: 294536367.0
+  companies: 322
+  companies_unique_percent: 100.0
+  funding_per_company: 914709.21
+  funding_per_application: 900722.83
+  states_count: 45
+awards_phase_1:
+  applications_count: 279
+  funding: 63059936.0
+  companies: 277
+  companies_unique_percent: 100.0
+  funding_per_company: 227653.2
+  funding_per_application: 226021.28
+  states_count: 42
 ---
-
