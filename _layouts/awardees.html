@@ -3,8 +3,7 @@ layout: base
 class: awardees-layout
 ---
 
-{% assign awards_summary = site.data.awards_summary %}
-
+{% assign awards_summary = site.data.awards_summary[page.dataset] %}
 <section class="usa-section background-light-neutral">
   <div class="usa-grid awardees-top-header">
     <div class="usa-width-one-whole">
@@ -15,15 +14,15 @@ class: awardees-layout
           </button>
             <div id="awardees-nav" class="usa-accordion-content">
               <ul class="usa-unstyled-list">
-                <li><a href="#">Phase I - all active awardees</a></li>
-                <li><a href="#">Phase I - recent 12/2016 awardees</a></li>
-                <li><a href="#">Phase II awardees</a></li>
+                <li><a href="{{ site.baseurl }}/awardees/phase-1/">Phase I - all active awardees</a></li>
+                <li><a href="{{ site.baseurl }}/awardees/phase-1-recent/">Phase I - recent DATE awardees</a></li>
+                <li><a href="{{ site.baseurl }}/awardees/phase-2/">Phase II awardees</a></li>
               </ul>
             </div>
       </div>
     </div>
     <div class="usa-width-one-whole">
-      <span class="text-xxxxl font-bold big-number">NUMBER</span>
+      <span class="text-xxxxl font-bold big-number">{{ awards_summary.companies }}</span>
       <p class="big-number-description"><span class="font-mono">Number of companies with active awards</span>
       <span class="text-large font-bold">{{ page.phase }} seed funding</span></p>
     </div>
@@ -31,16 +30,16 @@ class: awardees-layout
   <div class="usa-grid awardees-bottom-header">
     <ul class="flex-list flex-list-3-col">
     <li>
-      <span class="text-xxl font-bold">NUMBER</span>
+      <span class="text-xxl font-bold">{{ awards_summary.funding_per_application | round | intcomma_dollar }}</span>
       <span class="text-small font-mono">Average $ amount of funding awarded for each company</span>
     </li>
     <li>
-      <span class="text-xxl font-bold">NUMBER</span>
-      <span class="text-small font-mono">From {{ awards_summary.states_total }} states and territories including D.C., Puerto Rico, and the Virgin Islands</span>
+      <span class="text-xxl font-bold">{{ awards_summary.states_count }}</span>
+      <span class="text-small font-mono">From {{ awards_summary.states_total }} states and territories</span>
     </li>
     <li>
-      <span class="text-xxl font-bold">NUMBER</span>
-      <span class="text-small font-mono">Total applications received {{ awards_summary.active_date_range }}</span>
+      <span class="text-xxl font-bold">{{ awards_summary.companies_unique_percent }}%</span>
+      <span class="text-small font-mono">Total applications received</span>
     </li>
     </ul>
     {% comment %}
@@ -71,10 +70,10 @@ class: awardees-layout
     <div class="usa-accordion awardees-details-accordion">
     {% for topic in site.data.tech-topics %}
       {% assign po_name = topic.programDirector[0].name %}
-      {% assign matching_awards = site.data.awards | uniq | where:'poName', po_name %}
+      {% assign matching_awards = site.data[page.dataset] | uniq | where:'poName', po_name %}
       {% if matching_awards.size > 0 %}
         <button class="usa-accordion-button" aria-expanded="false" aria-controls="{{ topic.topic | slugify }}">
-          <span class="accordion-number-of-awardees">NUMBER</span>
+          <span class="accordion-number-of-awardees">{{ matching_awards | size }}</span>
           <span class="accordion-tech-topic">{{ topic.topic | default: "" }}</span>
         </button>
         <div id="{{ topic.topic | slugify }}" class="usa-accordion-content">
@@ -89,13 +88,13 @@ class: awardees-layout
               <li class="table-row">
                 <div class="table-row-item" data-header="Company">
                   {% assign awardeeSlug = matching.awardeeName | slugify %}
-                  <a href="{{ '/awardees/details/?company=' | append: awardeeSlug | relative_url }}" alt="{{ matching.awardeeName }}">
-                  <span>awardeeName</span>
+                  <a href="{{ page.details_url | append: awardeeSlug | relative_url }}" alt="{{ matching.awardeeName }}">
+                  <span>{{ matching.awardeeName }}</span>
                   </a>
                 </div>
-                <div class="table-row-item" data-header="Location">awardeeStateCode</div>
-                <div class="table-row-item narrow numeric" data-header="Amard amount">fundsObligatedAmt | intcomma_dollar</div>
-                <div class="table-row-item narrow numeric" data-header="Award date">matching.date</div>
+                <div class="table-row-item" data-header="Location">{{ matching.awardeeStateCode }}</div>
+                <div class="table-row-item narrow numeric" data-header="Amard amount">{{ matching.fundsObligatedAmt | intcomma_dollar }}</div>
+                <div class="table-row-item narrow numeric" data-header="Award date">{{ matching.date }}</div>
               </li>
             {% endfor %}
           </ul>
