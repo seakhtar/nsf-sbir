@@ -146,17 +146,32 @@ h1#how-to-apply {
 
   .usa-accordion-content {
     padding-top: 0;
+    padding-bottom: $space-xl;
+    ul {
+      margin-bottom: 0;
 
-    li {
-      list-style-type: initial;
-      margin-bottom: 10px;
-      max-width: $text-max-width - 5rem;
+      li {
+        list-style-type: initial;
+        margin-bottom: $space-s;
+        max-width: $text-max-width - 5rem;
 
-      &::before {
-        display: none;
+        &::before {
+          display: none;
+
+        }
+      }
+    }
+
+    h3 {
+        font-size: $font-size-s;
+        font-weight: 700;
+        margin-top: $space-l;
+        margin-left: 2.8rem;
+    }
+    p {
+        margin-left: 2.8rem;
     }
   }
-}
 }
 
 @include media($medium-screen) {

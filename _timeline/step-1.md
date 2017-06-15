@@ -10,7 +10,7 @@ description: Make sure your company is incorporated and meets these eligibility 
 
 For more detailed information, check out our [Eligibility Guide](https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf).
 
-**Criteria**
+### Criteria
 
 Here are the criteria we use to determine which companies to fund:
 
@@ -19,22 +19,22 @@ Here are the criteria we use to determine which companies to fund:
 - **High-risk:** Your product is based on unproven technology that needs further testing (and funding for that testing).
 - **Scale:** If you successfully bring your product to market, it could form the foundation for a scalable business and make a large impact in your target market.
 
-**Portfolio**
+### Portfolio
 
 You can check out our [portfolio](#) to see what companies we’ve recently funded.
 
-**Technology topic areas**
+### Technology topic areas
 
 {% include tech-topics.html %}
 
-**Get pre-submission feedback**
+### Get pre-submission feedback
 
 You can send an executive summary to one of our program directors to discuss your work and get feedback. Complete our short [executive summary form](https://goo.gl/forms/49AdC0Nqj8tPegV13) — a program director will get back to you shortly.
 
-**STTR**
+### STTR
 
 If you’re applying for STTR funding, you must partner with an academic, non-profit, or federally funded research institution. If you’re funded through STTR, 30% of your funding must go to your research partner and 40% must go to your company.
 
-**SBIR**
+### SBIR
 
 If you’re applying for SBIR funding, at least 2/3 of the funding you receive must go to your company.
