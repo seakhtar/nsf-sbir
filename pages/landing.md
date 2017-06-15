@@ -22,7 +22,7 @@ hero:
 
 We offer funding for early-stage R&D and take no equity in your company — you retain full control over your team, the direction of your work, and your intellectual property.
 
-<a class="usa-button usa-button-primary button-arrow" href="about/">
+<a class="usa-button usa-button-primary button-arrow" href="/about/">
 Learn more
 </a>
 
@@ -42,7 +42,7 @@ View events
 
 We offer much more than academic research grants. In fact, we fund startups from varied technology sectors, including IoT, edtech, smart health, robotics, and much more.
 
-<a class="usa-button usa-button-primary button-arrow" href="portfolio/">
+<a class="usa-button usa-button-primary button-arrow" href="/portfolio/">
 View our portfolio
 </a>
 
@@ -60,7 +60,7 @@ SBIR &#124; STTR
 <hr class="divider divider-left">
 <p class="text-large"><strong>We’re looking to support research and development of groundbreaking, high-risk technology. As we review applications, we consider your technology’s innovativeness, commercial plan, and possible social impact.</strong></p>
 
-<a class="usa-button usa-button-secondary usa-button-big button-arrow" href="awardees/">
+<a class="usa-button usa-button-secondary usa-button-big button-arrow" href="/awardees/">
 View recent awardees
 </a>
 
