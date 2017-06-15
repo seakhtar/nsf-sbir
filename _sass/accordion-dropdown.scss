@@ -10,10 +10,15 @@
 
   .usa-accordion-button {
     background-image: url('../uswds/img/arrow-down.svg');
+    background-color: transparent;
     margin: 0;
     padding: 0 5rem 0 0;
     color: $color-primary;
-
+    border: 0;
+    &:hover {
+      border: 0;
+      background-color: transparent;
+    }
     &[aria-expanded='false'] {
       background-image: url('../uswds/img/arrow-right.svg');
      }
