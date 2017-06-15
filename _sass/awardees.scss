@@ -12,11 +12,13 @@
 }
 
 .awardees-top-header {
-  border-bottom: 2px solid $color-gray-light;
+
   margin-bottom: $space-l;
 }
 
 .awardees-bottom-header {
+  border-top: 2px solid $color-gray-light;
+  padding-top:  $space-l;
   .flex-list {
     li {
       border-right: 2px solid $color-gray-light;
@@ -34,6 +36,10 @@
 }
 
 .awardees-details-accordion {
+  .usa-accordion-content {
+    padding-left: $space-s;
+    padding-right: $space-s;
+  }
   .usa-accordion-button {
     background-image: url('../uswds/img/arrow-down.svg');
     padding-left: $space-s;
@@ -53,6 +59,10 @@
       display: inline-block;
       font-weight: $font-bold;
       font-size: $font-size-s;
+    }
+
+    &:last-of-type {
+      border-bottom: 1px solid $color-gray-light;
     }
   }
 }
