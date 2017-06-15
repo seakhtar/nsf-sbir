@@ -1,6 +1,6 @@
 ---
 title: Determine eligibility
-description: Make sure your company is incorporated and meets these eligibility requirements
+description: Make sure your company meets these eligibility requirements
 ---
 
 - Your company must be a small business located in the United States.
@@ -8,7 +8,7 @@ description: Make sure your company is incorporated and meets these eligibility 
 - The project’s principal investigator (tech lead) must be legally employed at least 20 hours a week by the company seeking funding. The PI doesn’t need any advanced degrees.
 - The PI needs to commit to at least one month (173 hours) of work on a funded project per six months of project duration.
 
-For more detailed information, check out our [Eligibility Guide](https://www.sbir.gov/sites/default/files/elig_size_compliance_guide.pdf).
+For more detailed information, check out our [Eligibility Guide](https://www.sbir.gov/faqs/eligibility-requirements).
 
 **Criteria**
 
@@ -17,13 +17,15 @@ Here are the criteria we use to determine which companies to fund:
 - **Seed stage:** Your small business is working on a new product or service enabled by innovative, early-stage technology.
 - **Pre-traction:** You have evidence that your product or service could meet an important, unmet need for your customers.
 - **High-risk:** Your product is based on unproven technology that needs further testing (and funding for that testing).
-- **Scale:** If you successfully bring your product to market, it could form the foundation for a scalable business and make a large impact in your target market.
+- **Scale:** If you successfully bring your product or service to market, it could form the foundation for a scalable business and make a large impact in your target market.
 
 **Portfolio**
 
-You can check out our [portfolio](#) to see what companies we’ve recently funded.
+Check out our [portfolio](#) to see what companies we’ve recently funded.
 
 **Technology topic areas**
+
+Review this list of technology topic areas (sectors we fund) to see which best aligns with your company's work. If none of the technology topic areas quite reflects your work, but you feel your company is otherwise a good fit, you can apply under the Other Topics (OT) category. 
 
 {% include tech-topics.html %}
 
