@@ -25,7 +25,7 @@ You can check out our [portfolio](#) to see what companies we’ve recently fund
 
 ### Technology topic areas
 
-{% include tech-topics.html %}
+{% include tech-topics-list.html %}
 
 ### Get pre-submission feedback
 
