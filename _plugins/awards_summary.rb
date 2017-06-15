@@ -37,7 +37,6 @@ module SiteData
 
       if File.exists? @awards_summary_path
         @awards_summary = YAML.load_file(@awards_summary_path)
-
       else
         FileUtils.touch(@awards_summary_path)
         @awards_summary = YAML.load_file(@awards_summary_path)
@@ -61,7 +60,6 @@ module SiteData
 
       if File.exists? @awards_phase_1_recent_path
         @awards_phase_1_recent = YAML.load_file(@awards_phase_1_recent_path)
-
       else
         FileUtils.touch(@awards_phase_1_recent_path)
         @awards_phase_1_recent = YAML.load_file(@awards_phase_1_recent_path)
