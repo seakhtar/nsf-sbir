@@ -1,6 +1,6 @@
 ---
-title: Awards
-permalink: /awards/
+title: Awardees phase 1
+permalink: /awardees/phase-1-recent/
 
 layout: base
 ---
@@ -14,33 +14,17 @@ layout: base
     <hr />
 
     <div class="usa-width-one-third">
-      <strong class="color-primary">{{ awards_summary.funding_per_company | round | intcomma_dollar }}</strong>
-      <div>Average amount of funding awarded to each company</div>
+      <strong class="color-primary">{{ awards_summary.funding_per_application_phase_1_recent | round | intcomma_dollar }}</strong>
+      <div>Average $ amount of funding awarded for each company in phase 1</div>
     </div>
     <div class="usa-width-one-third">
-      <strong class="color-primary">{{ awards_summary.states_total }}</strong>
-      <div>From {{ awards_summary.states_total }} states and territories</div>
+      <strong class="color-primary">{{ awards_summary.states_phase_1_recent_count }}</strong>
+      <div>From {{ awards_summary.states_phase_1_recent_count }} states including D.C., Puerto Rico, and the Virgin Islands</div>
     </div>
     <div class="usa-width-one-third">
-      <strong class="color-primary">{{ awards_summary.applications_total | intcomma }}</strong>
-      <div>Total applications received {{ awards_summary.active_date_range }}</div>
+      <strong class="color-primary">{{ awards_summary.companies_unique_phase_1_recent_percent }}%</strong>
+      <div>Unique companies that applied during {{ awards_summary.active_date_range }}</div>
     </div>
-
-    {% comment %}
-    <h3>Applications since {{ site.data.awards_meta.date_start }}</h3>
-    <p><strong>{{ awards_summary.applications_total | intcomma }}</strong> applications</p>
-    <p><strong>{{ awards_summary.states_total }}</strong> states and territories funded</p>
-    <p><strong>{{ awards_summary.funding_total | round | intcomma_dollar }}</strong> in total funding</p>
-    <p><strong>{{ awards_summary.funding_per_company | round | intcomma_dollar }}</strong> per company</p>
-
-    <hr />
-
-    <h3>Applications (active) in date range: {{ site.data.awards_summary.active_date_range }}</h3>
-    <p><strong>{{ awards_summary.applications_active_total | intcomma }}</strong> total active applications</p>
-    <p><strong>{{ awards_summary.funding_applications_active_total | round | intcomma_dollar }}</strong> in total funding for active applications</p>
-    <p><strong>{{ awards_summary.funding_per_active_company | round | intcomma_dollar }}</strong> per active application</p>
-
-    {% endcomment %}
   </div>
 </div>
 
@@ -49,7 +33,7 @@ layout: base
     <div class="usa-accordion">
     {% for topic in site.data.tech-topics %}
       {% assign po_name = topic.programDirector[0].name %}
-      {% assign matching_awards = site.data.awards | uniq | where:'poName', po_name %}
+      {% assign matching_awards = site.data.awards_phase_1_recent | uniq | where:'poName', po_name %}
       {% if matching_awards.size > 0 %}
         <button class="usa-accordion-button" aria-expanded="false" aria-controls="{{ topic.topic | slugify }}">
           <span>{{ matching_awards | size }}</span>
@@ -67,7 +51,7 @@ layout: base
               <li class="table-row">
                 <div class="table-row-item" data-header="Company">
                   {% assign awardeeSlug = matching.awardeeName | slugify %}
-                  <a href="{{ '/awardees/?company=' | append: awardeeSlug | relative_url }}" alt="{{ matching.awardeeName }}">
+                  <a href="{{ '/awardees/phase-1-recent/details/?company=' | append: awardeeSlug | relative_url }}" alt="{{ matching.awardeeName }}">
                   <span>{{ matching.awardeeName }}</span>
                   </a>
                 </div>
