@@ -1,71 +1,62 @@
 # Site navigation
 
-- Landing page 
+- Landing page  
+    |-- Highlighted events  
 
 - About page  
-    |--About the seed fund  
+    |-- About the seed fund  
     |-- Good fit  
     |-- Advantages  
-    |-- About the NSF (+ link to Impact)
-
-- Showcase (Impact page)
+    |-- About the NSF  
+    |-- Showcase (Impact page)  
    
-- Resources and Events page  
-    |-- FAQ link  
+- Resources page  
+    |-- FAQ link   
     |-- Videos  
     |-- Presentations  
     |-- I-corps info (Not sure if we should be touting this here?)    
-    |--  Webinars + onsite events  
+    |-- Webinars + onsite events (remove?)
     
-- Current awardees  
-    |-- Recent (mm/yy) Phase I awardees
-    |-- Phase I active awardees
-    |-- Phase II active awardees
-    
-- Apply page (timeline) 
-    |-- FastLane guide
-    |-- Eligibility guide (off-site link mentioned in About page)
-    |-- FAQs (maintained by parent NSF)
-    |-- SBIR solicitation page (maintained by parent NSF)
-    |-- STTR solicitation page (maintained by parent NSF)
-
+- Apply page (timeline)   
+    |-- FastLane guide  
+    |-- Eligibility guide (off-site link mentioned in About page)  
+    |-- FAQs (maintained by parent NSF)  
+    |-- SBIR solicitation page (maintained by parent NSF)  
+    |-- STTR solicitation page (maintained by parent NSF)  
  
 - Portfolio page  
-    |-- TTAs (in depth)  
-    |-- Company profiles  
-    |-- Awards search results  
+    |-- Search  
+    |-- Current awardees  
+      |-- Phase I recent (mm/yy) awardees  
+      |-- Phase I: all active awardees  
+      |-- Phase II: active awardees  
+    |-- TTAs (in depth)   
+    |-- Company profiles   
     
 - For reviewers page  
     |-- Everything under "review process", per sitemap  
     
-- Team / contact us page
-    |-- Program Officers
+- Team / contact us page  
+    |-- Program Officers  
     
- - Header / Top Navigation  
+ - Header / Top Navigation    
     |--   About    
-    |--   Apply
-    |--   Portfolio
-    |--   
-    |--   
+    |--   Apply  
+    |--   Portfolio  
     
  - Footer / Bottom Navigation  
     |--   About    
     |--   Apply  
     |--   Portfolio  
     |--   Resources  
-    |--   Grant management
-    |--   Press  
-    |--   Contact us  
+    |--   For awardees (fka Grant management)  
+    |--   ~Press~  
+    |--   Contact us    
+   *  |--  Report bugs  
+   *  |--  Submit issues  
     
  - Secondary Bottom Navigation  
      |--   National Science Foundation  
      |--   Join our listserv  
      |--   Twitter  
      |--   YouTube  
-  
-  # Priority Pages (Sprint 7)
-- About  
-- Awardees  
-- Impact  
-- Events  
-- Portfolio  
