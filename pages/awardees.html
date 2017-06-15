@@ -3,31 +3,49 @@ title: Awardees
 permalink: /awardees/
 
 layout: base
+published: true
 ---
 
 {% assign awards_summary = site.data.awards_summary %}
 
-<div class="usa-section bg-blue-light">
-  <div class="usa-grid">
-    <h2>Current awardees</h2>
-    Our current awardees pages feature information about Phase I and Phase II awardees who are actively using their funding, and our recent awardees pages highlight companies that received funding during the previous solicitation period.
-
-
-    <hr />
-
-    <div class="usa-width-one-third">
-      <strong class="color-primary">{{ awards_summary.funding_per_company | round | intcomma_dollar }}</strong>
-      <div>Average $ amount of funding awarded for each company</div>
+<section class="usa-section background-light-neutral">
+  <div class="usa-grid awardees-top-header">
+    <div class="usa-width-one-whole">
+      <h2 class="text-medium">Current awardees</h2>
+      <div class="usa-accordion accordion-dropdown ">
+            <button class="usa-accordion-button text-xxl" aria-expanded="false" aria-controls="awardees-nav">
+          Phase I: all active awardees
+          </button>
+            <div id="awardees-nav" class="usa-accordion-content">
+              <ul>
+                <li>Phase I: all active awardees</li>
+                <li>Phase I: recent 12/2016 awardees</li>
+                <li>Phase II awardees</li>
+              </ul>
+            </div>
+      </div>
     </div>
-    <div class="usa-width-one-third">
-      <strong class="color-primary">{{ awards_summary.states_total }}</strong>
-      <div>From {{ awards_summary.states_total }} states and territories including D.C., Puerto Rico, and the Virgin Islands</div>
+    <div class="usa-width-one-whole">
+      <span class="text-xxxxl font-bold big-number">329</span>
+      <p class="big-number-description"><span class="font-mono">Number of comapnies with active awards</span>
+      <span class="text-large font-bold">Phase I seed funding</span></p>
     </div>
-    <div class="usa-width-one-third">
-      <strong class="color-primary">{{ awards_summary.applications_total | intcomma }}</strong>
-      <div>Total applications received {{ awards_summary.active_date_range }}</div>
-    </div>
-
+  </div>
+  <div class="usa-grid awardees-bottom-header">
+    <ul class="flex-list flex-list-3-col">
+    <li>
+      <span class="text-xxl font-bold">{{ awards_summary.funding_per_company | round | intcomma_dollar }}</span>
+      <span class="text-small font-mono">Average $ amount of funding awarded for each company</span>
+    </li>
+    <li>
+      <span class="text-xxl font-bold">{{ awards_summary.states_total }}</span>
+      <span class="text-small font-mono">From {{ awards_summary.states_total }} states and territories including D.C., Puerto Rico, and the Virgin Islands</span>
+    </li>
+    <li>
+      <span class="text-xxl font-bold">{{ awards_summary.applications_total | intcomma }}</span>
+      <span class="text-small font-mono">Total applications received {{ awards_summary.active_date_range }}</span>
+    </li>
+    </ul>
     {% comment %}
     <h3>Applications since {{ site.data.awards_meta.date_start }}</h3>
     <p><strong>{{ awards_summary.applications_total | intcomma }}</strong> applications</p>
@@ -44,18 +62,23 @@ layout: base
 
     {% endcomment %}
   </div>
-</div>
+</section>
 
-<div class="usa-section">
+<section class="usa-section background-white">
+    <div class="usa-grid">
+  <h2 class="text-medium">Current Phase I awardees</h2>
+  <p class="subhead">Awardees</p>
+  <p class="subhead">Technology topic areas</p>
+</div>
   <div class="usa-grid">
-    <div class="usa-accordion">
+    <div class="usa-accordion awardees-details-accordion">
     {% for topic in site.data.tech-topics %}
       {% assign po_name = topic.programDirector[0].name %}
       {% assign matching_awards = site.data.awards | uniq | where:'poName', po_name %}
       {% if matching_awards.size > 0 %}
         <button class="usa-accordion-button" aria-expanded="false" aria-controls="{{ topic.topic | slugify }}">
-          <span>{{ matching_awards | size }}</span>
-          <span>{{ topic.topic | default: "" }}</span>
+          <span class="accordion-number-of-awardees">{{ matching_awards | size }}</span>
+          <span class="accordion-tech-topic">{{ topic.topic | default: "" }}</span>
         </button>
         <div id="{{ topic.topic | slugify }}" class="usa-accordion-content bg-blue-light">
           <ul class="table monospace">
@@ -84,4 +107,4 @@ layout: base
     {% endfor %}
     </div>
   </div>
-</div>
+</section>

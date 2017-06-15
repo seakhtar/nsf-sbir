@@ -15,6 +15,7 @@ module SiteData
       @awards_summary_path = File.join(@basepath, '_data', 'awards_summary.yml')
       @awards_phase_1_path = File.join(@basepath, '_data', 'awards_phase_1.yml')
       @awards_phase_2_path = File.join(@basepath, '_data', 'awards_phase_2.yml')
+      @awards_phase_1_recent_path = File.join(@basepath, '_data', 'awards_phase_1_recent.yml')
 
 
       @awards = nil
@@ -27,6 +28,13 @@ module SiteData
         @awards = YAML.load_file(@path).uniq
       end
 
+      if File.exists? @meta_path
+        @awards_meta = YAML.load_file(@meta_path)
+      else
+        FileUtils.touch(@meta_path)
+        @awards_meta = YAML.load_file(@meta_path)
+      end
+
       if File.exists? @awards_summary_path
         @awards_summary = YAML.load_file(@awards_summary_path)
 
@@ -35,7 +43,7 @@ module SiteData
         @awards_summary = YAML.load_file(@awards_summary_path)
       end
 
-      if File.exists? @awards_summary_path
+      if File.exists? @awards_phase_1_path
         @awards_phase_1 = YAML.load_file(@awards_phase_1_path)
 
       else
@@ -43,12 +51,20 @@ module SiteData
         @awards_phase_1 = YAML.load_file(@awards_phase_1_path)
       end
 
-      if File.exists? @awards_summary_path
+      if File.exists? @awards_phase_2_path
         @awards_phase_2 = YAML.load_file(@awards_phase_2_path)
 
       else
         FileUtils.touch(@awards_phase_2_path)
         @awards_phase_2 = YAML.load_file(@awards_phase_2_path)
+      end
+
+      if File.exists? @awards_phase_1_recent_path
+        @awards_phase_1_recent = YAML.load_file(@awards_phase_1_recent_path)
+
+      else
+        FileUtils.touch(@awards_phase_1_recent_path)
+        @awards_phase_1_recent = YAML.load_file(@awards_phase_1_recent_path)
       end
     end
 
@@ -164,42 +180,49 @@ module SiteData
     end
 
 
-    # Active applications
+    #  Phase 1 – recent
 
-    def active_start_date
-      @util.to_date(@site_config['active_start_date'])
-    end
-
-    def active_start_date_string
-      @util.to_date_string(active_start_date)
-    end
-
-    def active_date_range
-      "#{active_start_date_string} – Now"
-    end
-
-    def applications_active
-      @awards.select do |a|
-        expDate = a['expDate'] || a['date']
-        @util.to_date(expDate) > active_start_date
+    def applications_phase_1_recent
+      app = applications_phase_1.select do |application|
+        if application['startDate']
+          @util.to_date(application['startDate']) > @util.to_date(@site_config['recent_date'])
+        end
       end
+      app
     end
 
-    def funding_applications_active_total
-      applications_active.map { |a| a['fundsObligatedAmt'].to_f }.inject(0, :+).to_f.round(2)
+    def applications_phase_1_recent_count
+      applications_phase_1_recent.size
     end
 
-    def funding_applications_active_total
-      applications_active.map { |a| a['fundsObligatedAmt'].to_f }.inject(0, :+).to_f.round(2)
+    def funding_phase_1_recent
+      applications_phase_1_recent.map { |a| a['fundsObligatedAmt'].to_f }.inject(0, :+).to_f.round(2)
     end
 
-    def applications_active_total
-      applications_active.length
+    def companies_phase_1_recent
+      applications_phase_1_recent.map { |a| a['awardeeName'] }.uniq.length.to_i
     end
 
-    def funding_per_active_application
-      (funding_applications_active_total / applications_active_total).round(2)
+    def companies_unique_phase_1_recent_percent
+      (100 * companies_phase_1_recent.to_f / companies_phase_1_recent.to_f).round(2)
     end
+
+    def funding_per_application_phase_1_recent
+      (funding_phase_1_recent / applications_phase_1_recent_count).round(2)
+    end
+
+    def funding_per_company_phase_1_recent
+      (funding_phase_1_recent / companies_phase_1_recent).round(2)
+    end
+
+    def states_phase_1_recent
+      applications_phase_1_recent.map { |a| a['awardeeStateCode'] }.uniq.sort_by(&:upcase).reject(&:empty?)
+    end
+
+    def states_phase_1_recent_count
+      states_phase_1_recent.length.to_i
+    end
+
 
     # generates a summary of date based on _data/awards.yml
     def generate
@@ -207,18 +230,11 @@ module SiteData
       @awards_summary['funding_total'] = funding_total
       @awards_summary['funding_per_company'] = funding_per_company
       @awards_summary['applications_total'] = applications_total
-      @awards_summary['applications_active'] = applications_active
-      @awards_summary['active_start_date_string'] = active_start_date_string
-      @awards_summary['active_date_range'] = active_date_range
-      @awards_summary['funding_applications_active_total'] = funding_applications_active_total
-      @awards_summary['funding_per_active_application'] = funding_per_active_application
-      @awards_summary['applications_active_total'] = applications_active_total
       @awards_summary['states'] = states
       @awards_summary['states_count'] = states_count
 
       # Phase 2
       @awards_phase_2 = applications_phase_2
-      @awards_summary['applications_phase_2'] = nil
       @awards_summary['applications_phase_2_count'] = applications_phase_2_count
       @awards_summary['funding_phase_2'] = funding_phase_2
       @awards_summary['companies_phase_2'] = companies_phase_2
@@ -226,8 +242,8 @@ module SiteData
       @awards_summary['funding_per_company_phase_2'] = funding_per_company_phase_2
       @awards_summary['funding_per_application_phase_2'] = funding_per_application_phase_2
       @awards_summary['states_phase_2_count'] = states_phase_2_count
-      # Phase 1
 
+      # Phase 1
       @awards_phase_1 = applications_phase_1
       @awards_summary['applications_phase_1_count'] = applications_phase_1_count
       @awards_summary['funding_phase_1'] = funding_phase_1
@@ -237,9 +253,24 @@ module SiteData
       @awards_summary['funding_per_application_phase_1'] = funding_per_application_phase_1
       @awards_summary['states_phase_1_count'] = states_phase_1_count
 
-      @util.update_yaml(@awards_summary, @awards_summary_path)
-      @util.update_yaml(@awards_phase_1, @awards_phase_1_path)
-      @util.update_yaml(@awards_phase_2, @awards_phase_2_path)
+      # Phase 1 recent
+      @awards_phase_1_recent = applications_phase_1_recent
+      @awards_summary['applications_phase_1_recent_count'] = applications_phase_1_recent_count
+      @awards_summary['funding_phase_1_recent'] = funding_phase_1_recent
+      @awards_summary['companies_phase_1_recent'] = companies_phase_1_recent
+      @awards_summary['companies_unique_phase_1_recent_percent'] = companies_unique_phase_1_recent_percent
+      @awards_summary['funding_per_company_phase_1_recent'] = funding_per_company_phase_1_recent
+      @awards_summary['funding_per_application_phase_1_recent'] = funding_per_application_phase_1_recent
+      @awards_summary['states_phase_1_recent_count'] = states_phase_1_recent_count
+
+      if @site_config['reset'] == true
+        @util.update_yaml(@awards_summary, @awards_summary_path)
+        @util.update_yaml(@awards_phase_1, @awards_phase_1_path)
+        @util.update_yaml(@awards_phase_2, @awards_phase_2_path)
+        @util.update_yaml(@awards_phase_1_recent, @awards_phase_1_recent_path)
+      else
+        puts "skipping summary update. Set 'reset' to true to update.".yellow
+      end
     end
 
   end

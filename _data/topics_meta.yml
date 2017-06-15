@@ -3,6 +3,7 @@ date_start: 06/01/2013
 date_end: 06/01/2017
 active_start_date: 11/30/2016
 update_to_current_time: true
+fundProgramName: phase
 reset: false
 printFields:
 - id
@@ -18,7 +19,6 @@ printFields:
 - endDate
 - awardeeCity
 - awardeeCountryCode
-- awardeeCounty
 - awardeeStateCode
 - awardeeZipCode
 - awardeeAddress
@@ -27,6 +27,6 @@ printFields:
 - piLastName
 - piPhone
 - piEmail
-last_updated: 06/13/2017
+last_updated: 06/14/2017
 ---
 
