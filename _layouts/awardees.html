@@ -8,6 +8,7 @@ class: awardees-layout
   <div class="usa-grid awardees-top-header">
     <div class="usa-width-one-whole">
       <h2 class="text-medium">Current awardees</h2>
+      <p>Current (active) awardees are those who are still in the process of completing the R&amp;D terms of their proposals and who haven't yet submitted their final reports.</p>
       <div class="usa-accordion accordion-dropdown ">
             <button class="usa-accordion-button text-xxl" aria-expanded="false" aria-controls="awardees-nav">
           {{ page.nav_title }}
@@ -42,21 +43,6 @@ class: awardees-layout
       <span class="text-small font-mono">Total applications received</span>
     </li>
     </ul>
-    {% comment %}
-    <h3>Applications since {{ site.data.awards_meta.date_start }}</h3>
-    <p><strong>{{ awards_summary.applications_total | intcomma }}</strong> applications</p>
-    <p><strong>{{ awards_summary.states_total }}</strong> states and territories funded (including D.C., Puerto Rico, and the Virgin Islands</p>
-    <p><strong>{{ awards_summary.funding_total | round | intcomma_dollar }}</strong> in total funding</p>
-    <p><strong>{{ awards_summary.funding_per_company | round | intcomma_dollar }}</strong> per company</p>
-
-    <hr />
-
-    <h3>Applications (active) in date range: {{ site.data.awards_summary.active_date_range }}</h3>
-    <p><strong>{{ awards_summary.applications_active_total | intcomma }}</strong> total active applications</p>
-    <p><strong>{{ awards_summary.funding_applications_active_total | round | intcomma_dollar }}</strong> in total funding for active applications</p>
-    <p><strong>{{ awards_summary.funding_per_active_company | round | intcomma_dollar }}</strong> per active application</p>
-
-    {% endcomment %}
   </div>
 </section>
 
