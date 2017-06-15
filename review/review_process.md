@@ -1,8 +1,10 @@
 ---
-title: 
-permalink: /review//
+title: Review Process
+permalink: /review/
 layout: secondary-narrow
 ---
+
+# Review Process
 
 Proposals received by the NSF SBIR/STTR Program are assigned to appropriate topics where they will be reviewed if they meet NSF proposal preparation requirements and are in compliance with the program announcement, solicitation or Dear Colleague Letter (supplements).
 

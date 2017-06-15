@@ -1,8 +1,10 @@
 ---
-title: Peer Review 
+title: Peer Review
 permalink: /review/peer_review/
 layout: secondary-narrow
 ---
+
+# Peer Review
 
 The fundamental mission of NSF is to promote discoveries and to advance education across the frontiers of knowledge in science and engineering. Consistent with that mission, NSF encourages and supports a wide range of proposals from the research and education community and also from the private small business sector. These proposals are reviewed under the NSF merit review criteria, which covers both the quality of research (**intellectual or technical merit**) and its potential impact on society (**broader impacts**).
 
@@ -20,13 +22,13 @@ The NSF SBIR/STTR Program makes awards to small companies developing innovations
   - Having good product-market fit (as validated by customers);
   - Presenting barriers to entry for competition;
   - Offering potential for societal benefit (through commercialization under a sustainable business model).
-  
+
 ## Panelist Conflict of Interest (COI)
 The NSF Conflict-of-Interests and Confidentiality Statement for NSF Panelists must be read and signed. Please open and review the required [COI Form](/files/coiform.docx), you will be required to sign this form on the morning of the panel. For Mail Reviewers Only: Prior to receiving access to any proposal in FastLane, mail reviewers must sign the NSF Conflict-of-Interest (COI) and Confidentiality Statement for NSF Panelists. Please print and sign the [COI Form](/files/coiform.docx) and scan/email it to the NSF staff person that invited you to review. If necessary, you can fax the COI form to 703-292-9057. In the field "Panel Name" please clearly indicate the proposal number that you were invited to review.
 
 ## SBIR/STTR Merit Review Criteria
 
-### Criterion 1: What is the intellectual merit of the proposed activity? 
+### Criterion 1: What is the intellectual merit of the proposed activity?
 This criterion addresses the overall quality of the proposed activity to advance science and engineering through research and education.
 
 - Is the proposed plan a sound approach for establishing technical and commercial feasibility?
@@ -36,7 +38,7 @@ This criterion addresses the overall quality of the proposed activity to advance
 - Does the proposal reflect state-of-the-art in the major research activities proposed? (Are advancements in state-of-the-art likely?)
 - **For Phase II proposals only:** As a result of Phase I, did the firm succeed in providing a solid foundation for the proposed Phase II activity.
 
-### Criterion 2: What are the broader impacts of the proposed activity? 
+### Criterion 2: What are the broader impacts of the proposed activity?
 This criterion addresses the overall impact of the proposed activity.
 
 - What may be the commercial and societal benefits of the proposed activity?

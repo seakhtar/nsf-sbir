@@ -4,6 +4,8 @@ permalink: /review/travel/
 layout: secondary-narrow
 ---
 
+# Travel
+
 **Please note:** Policies on this page reflect those of the Division of Industrial Innovation and Partnerships, NOT the entire National Science Foundation.
 
 If you are selected and confirmed to serve on a panel for the Division of Industrial Innovation and Partnerships (ENG/IIP), you will be authorized to travel on behalf of NSF, a Federal Government agency. Please be aware NSF is operating in line with Executive Order 13589 and [OMB Memorandum 12-12](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-12.pdf), which require all Federal agencies to reduce costs for travel and conferences.
@@ -43,7 +45,7 @@ Under the existing travel regulations, federal employees and non-US Citizens/Per
 
 **Important Reimbursement Note:** Rental cars are not allowed and will **NOT** be reimbursed. Additionally, limousine and/or car services and airport parking fees must be advantageous to the government and cannot exceed the cost of roundtrip taxi fare. The traveler **MUST** supply a taxi fare quote to substantiate these claims.
 
-In an effort to support the U.S. Government wide cost reduction act and ensure integrity of panel outcomes, NSF expects all reviewers to **arrive in the Washington, DC metro area the evening prior to panel meeting start date.** Further, reviewers are expected to be in attendance for the duration of the panel meeting, and therefore, **departure times must be scheduled after 5:00 pm on the final panel day.** 
+In an effort to support the U.S. Government wide cost reduction act and ensure integrity of panel outcomes, NSF expects all reviewers to **arrive in the Washington, DC metro area the evening prior to panel meeting start date.** Further, reviewers are expected to be in attendance for the duration of the panel meeting, and therefore, **departure times must be scheduled after 5:00 pm on the final panel day.**
 
 Depending on your geographic point of origin and confirmed travel dates, you may request an additional travel day. Please send an email with your record locator or confirmation number to Sharlia Lee at shalee@associates.nsf.gov. Sharlia must confirm your actual dates of travel before approving additional travel compensation.
 
@@ -85,7 +87,7 @@ If the panel or travel is delayed or canceled for any reason, the traveler is re
 
 ## Electronic Funds Transfer (EFT) Payment Information
 
-### Travel Questions 
+### Travel Questions
 For specific travel questions involving participation in a Review Panel for the Division of Industrial Innovation and Partnership, Please contact:
 
 Sharlia Lee
