@@ -20,25 +20,25 @@ Submitting a proposal to NSF involves two steps in the Research Administration p
 
 1. To begin the submission process, return to the Proposal Actions screen; select and highlight the proposal you wish to submit and click on the button **"Allow SPO Access".**
 
-![Allow SRO Access screen with selection box of proposals](/images/44-proposal-action-screen.jpg)
+![Allow SRO Access screen with selection box of proposals]({{ site.baseurl}}/fastlane/images/44-proposal-action-screen.jpg)
 
 In step 2. At this point, FastLane may notify you of some warnings and/or errors related to the proposal. "Errors" will prevent you from submitting the proposal until they are remedied. You will receive an "error" if modules or required documents are missing that must be included per NSF policy. _Proposers are strongly encouraged to submit their proposal early (days, not hours) to ensure adequate time is afforded to troubleshoot any errors that will prevent submission at this stage. FastLane will not accept any proposals after 5:00 pm (submitter's time zone as registered in FastLane)._
 
-![Proposal Errors/Warnings screen showing list of errors in red](/images/45-proposal-errors.jpg)
+![Proposal Errors/Warnings screen showing list of errors in red]({{ site.baseurl}}/fastlane/images/45-proposal-errors.jpg)
 
 FastLane may also give you **"warnings"** that do not prevent proposal submission, but could indicate missing items that are required by the solicitation. _Please be sure to review and address these warnings in the context of the specific solicitation requirements._
 
-![Proposal Errors/Warnings screen showing list of warnings in black](/images/46-proposal-warnings.jpg)
+![Proposal Errors/Warnings screen showing list of warnings in black]({{ site.baseurl}}/fastlane/images/46-proposal-warnings.jpg)
 
 When you are ready to continue, click **"Proceed"** to continue the submission process.
 
 3. If you are ready to complete the submission process, select the third *"Go"* button for "Allow AOR to view, edit and submit proposal."
 
-![SRO Access control screen](/images/46-proposal-warnings.jpg)
+![SRO Access control screen]({{ site.baseurl}}/fastlane/images/46-proposal-warnings.jpg)
 
 4. Then click the **"OK"** button on the below screen.
 
-![SRO Access control completion screen](/images/49-AOR-complete-access.jpg)
+![SRO Access control completion screen]({{ site.baseurl}}/fastlane/images/49-AOR-complete-access.jpg)
 
 ## SRO Access Steps
 
@@ -46,38 +46,38 @@ At this point, the Sponsored Research Officer (SRO) has to take the following st
 
 1. Go to the FastLane Home Page and select the "Research Administration" link.
 
-![FastLane homepage navigation bar](/images/1_SRO_ResearchAdministration.jpg)
+![FastLane homepage navigation bar]({{ site.baseurl}}/fastlane/images/1_SRO_ResearchAdministration.jpg)
 
-2. The authorized organizational representative will be asked to provide the following Log-in information: 
+2. The authorized organizational representative will be asked to provide the following Log-in information:
 -Last Name
 -NSF ID
 -Password
 
-![SRO login box](/images/2_SRO_LogIn.jpg)
+![SRO login box]({{ site.baseurl}}/fastlane/images/2_SRO_LogIn.jpg)
 
 3. Click **"Proposals/Supplements/File Updates/Withdrawals".** The screen displays on the **Documents in Progress** tab.
 
-![SRO dashboard screen](/images/3_SRO_DocumentsInProgress.jpg)
+![SRO dashboard screen]({{ site.baseurl}}/fastlane/images/3_SRO_DocumentsInProgress.jpg)
 
 4. Click **"Submit"** in the row for the proposal you want to submit.
 
-![SRO documents in progress tab with table of documents](/images/4_SRO_Submit.jpg)
+![SRO documents in progress tab with table of documents]({{ site.baseurl}}/fastlane/images/4_SRO_Submit.jpg)
 
 5. The "Proposal Errors/Warnings" screen gives you the capability to submit the proposal, if there are no errors that prevent submission. Warnings will not prevent submission, but may alert you to missing items that are required by the specific program or solicitation. You are urged to address and correct these issues.
 
-![SRO proposal Error/Warnings screen with list of warnings](/images/5_SRO_ProposalErrors.jpg)
+![SRO proposal Error/Warnings screen with list of warnings]({{ site.baseurl}}/fastlane/images/5_SRO_ProposalErrors.jpg)
 
 ## Submit Proposal
 
-5. There are two options at this point: **Submit and Sign the Proposal** or **Submit the Proposal Only.** The steps below are for the **Submit and Sign the Proposal** option. (_If you are an SPO with AOR permissions, you have the capability to submit and sign the proposal. If you submit without signing, please have the AOR sign the proposal within 5 days of submission._) 
+5. There are two options at this point: **Submit and Sign the Proposal** or **Submit the Proposal Only.** The steps below are for the **Submit and Sign the Proposal** option. (_If you are an SPO with AOR permissions, you have the capability to submit and sign the proposal. If you submit without signing, please have the AOR sign the proposal within 5 days of submission._)
 
 5a. **"Debarment and Suspension":** click the **radio button for "Yes or No"** if there are any debarments or suspensions of you or of your organization from transactions with federal agencies. (_If you answered Yes, provide an explanation in the text box._)
 
-![Debarment and Suspension radio buttons and text field](/images/6_SRO_DebarmentSuspension.jpg)
+![Debarment and Suspension radio buttons and text field]({{ site.baseurl}}/fastlane/images/6_SRO_DebarmentSuspension.jpg)
 
 5b. **Institution Information:** Check the accuracy of your organization's information, then click **"Sign and Submit".**
 
-![Institution information screen listing details of institution](/images/7_SRO_InstitutionInformation.jpg)
+![Institution information screen listing details of institution]({{ site.baseurl}}/fastlane/images/7_SRO_InstitutionInformation.jpg)
 
 5c. **Proposal Submission Confirmation** screen: Displays a message that the proposal has been successfully submitted to NSF. It also displays the official NSF proposal number which has been assigned.
 
@@ -85,7 +85,7 @@ At this point, the Sponsored Research Officer (SRO) has to take the following st
 -Print a copy of the **Proposal Submission Confirmation** screen, if desired
 -Click the **"OK"** button to return to the "Documents in Progress" tab
 
-![Proposal Submission Confirmation screen with proposal number listed](/images/8_SRO_Confirmation.jpg)
+![Proposal Submission Confirmation screen with proposal number listed]({{ site.baseurl}}/fastlane/images/8_SRO_Confirmation.jpg)
 
 _This is the Proposal Number you should reference in all communications with NSF regarding this proposal henceforward._
 
