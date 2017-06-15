@@ -9,10 +9,28 @@ module SiteData
       @site = site
     end
 
+    def is_unchanged?(old_file_path, new_obj)
+      old_o = [YAML.load_file(old_file_path)]
+      new_o = [new_obj]
+      unchanged = (old_o - new_o).empty?
+      unless unchanged
+        if (new_o.flatten.size - old_o.flatten.size) > 0
+          puts "#{new_o.flatten.size - old_o.flatten.size} new records".green
+        elsif (new_o.flatten.size - old_o.flatten.size) < 0
+          puts "#{old_o.flatten.size - new_o.flatten.size} records removed".red
+        end
+      end
+      unchanged
+    end
+
     def update_yaml(new_obj, path)
-      new_yaml = YAML.dump(new_obj) << "---\n\n"
-      puts "updating file #{path}".green
-      File.write(path, new_yaml) if File.exists? path
+      if is_unchanged?(path, new_obj)
+        puts "no changes to #{path}".yellow
+      else
+        new_yaml = YAML.dump(new_obj) << "---\n\n"
+        puts "updating file #{path}".green
+        File.write(path, new_yaml) if File.exists? path
+      end
     end
 
     def to_date_string(date_obj)
