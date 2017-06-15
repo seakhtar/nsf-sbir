@@ -15,7 +15,6 @@ layout: secondary
 <section class="usa-section usa-content usa-grid usa-section-tight-top" markdown="1">
 <h2 class="subhead text-small">Featured alumni and exits</h2>
 {% include featured-companies.html %}
-</div>
 </section>
 <section class="usa-section usa-content usa-grid usa-section-tight-top" markdown="1">
 <h2 class="subhead text-small">Active and recent awardees</h2>
