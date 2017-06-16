@@ -27,7 +27,7 @@ window.open('https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstN
  <input id="all" type="radio" name="awards-search" value="currentAwards">
  <label for="all">All NSF SBIR/STTR Awards</label>
 
-    <input type="text" name="a1" size="20" placeholder="" />
+    <input type="text" class="awards-search-input" name="a1" size="20" placeholder="" />
     <input type="submit" class="usa-button usa-button-primary" value="Search" />
 </form>
 
