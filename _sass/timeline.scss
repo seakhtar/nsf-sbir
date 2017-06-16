@@ -5,10 +5,24 @@ $timeline-left: 25%;
 $timeline-right: 75%;
 $timeline-right-padding: 5rem;
 
+.page-apply {
+  background-color: $color-blue-light;
+
+  h1 {
+    padding-bottom: $space-l;
+  }
+}
+
+
+
 .timeline {
   counter-reset: count;
   list-style: none;
   padding-left: 0;
+  margin-top: 60px;
+  font-family: $font-serif;
+  line-height: $leading-s;
+  color: $color-base;
 
   & > li {
     color: $color-gray;
@@ -16,6 +30,8 @@ $timeline-right-padding: 5rem;
   }
 
   li {
+    font-family: $font-serif;
+    line-height: $leading-s;
     list-style-type: none;
     margin: 0;
     max-width: 100%;
@@ -23,12 +39,18 @@ $timeline-right-padding: 5rem;
    }
 
   .time {
+    color: $color-base;
+    font-size: $font-size-xxs;
+    line-height: $leading-xs;
     br {
       display: none;
     }
   }
 
   .time-description {
+    color: $color-base;
+    font-size: $font-size-xs;
+    line-height: $leading-xs;
     display: block;
   }
 
@@ -38,10 +60,16 @@ $timeline-right-padding: 5rem;
     .step-description {
       color: $color-gray-dark;
       display: block;
-      font-size: initial;
-      margin-top: $site-margins-mobile;
+      font-family: $font-serif;
+      font-size: $font-size-xs;
+      font-weight: 400;
+      line-height: $leading-s;
+      margin-top: $space-s;
     }
     .flex-list li {
+      font-size: $font-size-xxs;
+      margin-left: 2.7rem;
+      padding: 0;
       width: 100%;
     }
   }
@@ -54,6 +82,9 @@ $timeline-right-padding: 5rem;
 
   .usa-accordion {
     margin-top: $site-margins;
+    font-family: $font-serif;
+    line-height: $leading-s;
+    color: $color-base;
 
     .step {
       counter-increment: li;
@@ -61,19 +92,21 @@ $timeline-right-padding: 5rem;
       // building the step number dots
       &::before {
         // Display the counter
-        background-color: $color-white;
-        border: 3px solid $color-green;
+        background-color: $color-secondary-lightest;
+        border: 3px solid $color-secondary-lightest;
         border-radius: 50%;
-        color: $color-green;
+        color: $color-base;
         content: counter(count) '';
         counter-increment: count;
         display: inline-block;
+        font-family: $font-serif;
+        font-weight: 600;
         height: 35px;
         left: 1rem;
         line-height: 2.7rem;
         position: absolute;
         text-align: center;
-        top: 1.9rem;
+        top: 2.2rem;
         width: 35px;
       }
     }
@@ -87,15 +120,23 @@ $timeline-right-padding: 5rem;
 
     // setup accordion arrow
     button {
-      background-image: url('../uswds/img/arrow-down.svg');
+      background-color: $color-white;
+      background-image: url('../uswds/img/arrow-up.svg');
       background-position: right 2.25rem top 2.9rem;
+      border: 1px solid transparent;
       color: $color-green;
-      font-size: 2rem;
-      font-weight: $font-normal;
+      font-family: $font-serif;
+      font-size: $font-size-s;
+      font-weight: 600;
+      line-height: $leading-s;
+      color: $color-base;
       padding: 2.5rem 5.5rem;
 
+      &:focus {
+        box-shadow: none;
+      }
       &[aria-expanded='false'] {
-        background-image: url('../uswds/img/arrow-right.svg');
+        background-image: url('../uswds/img/arrow-down.svg');
       }
     }
     // inactive step button
@@ -107,15 +148,42 @@ $timeline-right-padding: 5rem;
   }
 
   .usa-accordion-content {
-    li {
-      list-style-type: initial;
-      max-width: $text-max-width;
+    padding-top: 0;
+    padding-bottom: $space-xl;
 
-      &::before {
-        display: none;
+    ul {
+      margin-bottom: 0;
+
+      li {
+        list-style-type: initial;
+        margin-bottom: $space-s;
+        max-width: $text-max-width - 5rem;
+
+        &::before {
+          display: none;
+
+        }
+      }
+    }
+
+    h3 {
+      font-size: $font-size-xs;
+      font-weight: 600;
+      margin-left: 2.7rem;
+
+      &:not(:first-child) {
+        margin-top: $space-l;
+
+      }
+    }
+
+    p {
+      margin-left: 2.7rem;
+    }
+    strong {
+      font-weight: 600;
     }
   }
-}
 }
 
 @include media($medium-screen) {
