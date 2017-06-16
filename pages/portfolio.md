@@ -26,6 +26,7 @@ section_image_caption: |
     <input type="submit" class="usa-button usa-button-primary usa-sr-only" value="Search" />
 </form>
 
+
 </div>
 </section>
 <section class="background-light-blue" markdown="1">
