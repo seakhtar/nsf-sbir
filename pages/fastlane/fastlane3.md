@@ -2,6 +2,7 @@
 title: Proposal Submission
 permalink: /fastlane/fastlane3/
 layout: secondary-narrow
+sidenav: fastlane
 ---
 
 # 3. Proposal Submission

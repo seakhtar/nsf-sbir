@@ -1,7 +1,8 @@
 ---
-title: Form Preparation cont\'d
+title: Form Preparation part 3
 permalink: /fastlane/fastlane2-3/
 layout: secondary-narrow
+sidenav: fastlane
 ---
 
 # 2. Form Preparation (cont'd)

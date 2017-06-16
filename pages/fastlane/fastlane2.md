@@ -2,6 +2,7 @@
 title: Form Preparation
 permalink: /fastlane/fastlane2/
 layout: secondary-narrow
+sidenav: fastlane
 ---
 
 # 2. Form Preparation
