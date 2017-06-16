@@ -37,21 +37,21 @@ Select the **Proposal, Awards & Status** link on the top (blue) menu bar.
 Fill in Log In information in the "PI/CO-PI Log In" box on the right side of the screen.
 **Note: The Principal Investigator (PI) for the proposed Phase I project MUST login and prepare the proposal**
 
-![PI Log In]({{ site.baseurl }}/fastlane/images/1PILogIn.jpg)
+![PI Log In]({{ site.baseurl }}/assets/img/fastlane/1PILogIn.jpg)
 
 On the **Principal Investigator (PI)/Co-Principal Investigator (CO-PI) Management** screen, select **"Proposal Functions"**
 
-![Proposal Functions]({{ site.baseurl }}/fastlane/images/2Proposal-functions.jpg)
+![Proposal Functions]({{ site.baseurl }}/assets/img/fastlane/2Proposal-functions.jpg)
 
 On the **Proposal Functions** screen, click **"Proposal Preparation"**
 
-![Proposal preparation]({{ site.baseurl }}/fastlane/images/3Proposal-prep.jpg)
+![Proposal preparation]({{ site.baseurl }}/assets/img/fastlane/3Proposal-prep.jpg)
 
 On the **Principal Investigator (PI) Information** screen, check the PI information for accuracy. You may choose to update or edit the PI information by selecting the **"Edit PI Information"** button. You cannot change the PI here. Once finished, click the **"Prepare Proposal"** button.
 
-![Proposal information screen]({{ site.baseurl }}/fastlane/images/4-PI-information.jpg)
+![Proposal information screen]({{ site.baseurl }}/assets/img/fastlane/4-PI-information.jpg)
 
 Once you select to prepare your proposal, the "Proposal Actions" screen appears.
 Scroll down past the **Temporary Proposals in Progress** section to the **Create New Proposal** section at the bottom, and click on the **"SBIR Phase I"** or **"STTR Phase I"** button.
 
-![create new proposal]({{ site.baseurl }}/fastlane/images/5-createnewproposal.jpg)
+![create new proposal]({{ site.baseurl }}/assets/img/fastlane/5-createnewproposal.jpg)
