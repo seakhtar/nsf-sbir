@@ -3,7 +3,7 @@ title: Portfolio
 permalink: /portfolio/
 featuredCompanies:
 layout: secondary
-section_image: "/assets/img/bg/bolt.jpg"
+section_image: "/assets/img/bg/bolt.png"
 section_image_caption: |
   From lab to market - [Bolt Threads](#) genetically engineered yeast brew silk proteins that can be spun into fibers.
 ---
@@ -13,15 +13,6 @@ section_image_caption: |
 # Portfolio
 <p class="text-medium">Since 1977, we’ve awarded funding for high-risk R&D to more than 11,000 startups and small businesses.</p>
 
-
-<script type="text/javascript">
-function currentAwards(a1) {
-window.open('https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=5373%2C+1591%2C+5371%2C+1505&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=' + a1 + '&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=',   'a1window');
-}
-function allAwards(a1) {
-window.open('https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=5373%2C+1591%2C+5371%2C+1505&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=' + a1 + '&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=',   'a1window');
-}
-</script>
 
 <form onsubmit="allAwards(this.a1.value); return false;" class="awards-search-form">
  <!--<input id="current" type="radio" name="awards-search" value="currentAwards">
