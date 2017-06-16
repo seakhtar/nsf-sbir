@@ -1,10 +1,8 @@
 ---
-date_start: 06/01/2013
-date_end: 06/01/2017
-active_start_date: 11/30/2016
-update_to_current_time: true
+active_date_is_now: true
 fundProgramName: phase
 reset: false
+recent_date: 06/01/2016
 printFields:
 - id
 - awardeeName
