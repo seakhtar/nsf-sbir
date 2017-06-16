@@ -20,14 +20,15 @@ window.open('https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstN
 }
 </script>
 
-<form onsubmit="currentAwards(this.a1.value); return false;">
- <input id="current" type="radio" name="awards-search" value="currentAwards">
+<form onsubmit="allAwards(this.a1.value); return false;" class="awards-search-form">
+ <!--<input id="current" type="radio" name="awards-search" value="currentAwards">
  <label for="current">Current NSF SBIR/STTR Awards</label>
 
  <input id="all" type="radio" name="awards-search" value="currentAwards">
- <label for="all">All NSF SBIR/STTR Awards</label>
+ <label for="all">All NSF SBIR/STTR Awards</label>-->
 
-    <input type="text" class="awards-search-input" name="a1" size="20" placeholder="" />
+    <input type="text" tite="awards-search" class="awards-search-input" name="a1" size="20" placeholder="" />
+    <label class="text-small" for="awards-search">Search America's Seed Fund awardees</label>
     <input type="submit" class="usa-button usa-button-primary" value="Search" />
 </form>
 
