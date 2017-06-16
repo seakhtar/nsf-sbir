@@ -10,21 +10,26 @@ layout: secondary
 # Portfolio
 <p class="text-medium">Since 1977, we’ve awarded funding for high-risk R&D to more than 11,000 startups and small businesses.</p>
 
-<!-- start search -->
-<div class="pad-vtop-10 pad-vbottom-80">
-  <form id='search' name="searchForm" method="get" accept-charset="UTF-8" action="https://search.nsf.gov/search">
-    <div class="input-group-sm" id="searchbar">
-      <span class="input-group-btn">
-        <button class="btn btn-default" type="submit" name="search"><span class="sr-only">search</span><i class="fa fa-search fa-flip-horizontal" aria-hidden="true"></i></button>
-      </span>
-        <input type="text" class="form-control usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true" id="QueryText" placeholder="" name="query" title="search">
-        <input id="affiliate" name="affiliate" type="hidden" value="nsf" />
 
-    <label for="Search">Search America's Seed Fund awardees</label>
-    </div><!-- /input-group -->
-  </form>
-</div>
-<!-- end search -->
+<script type="text/javascript">
+function currentAwards(a1) {
+window.open('https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=5373%2C+1591%2C+5371%2C+1505&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=' + a1 + '&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=',   'a1window');
+}
+function allAwards(a1) {
+window.open('https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=5373%2C+1591%2C+5371%2C+1505&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=' + a1 + '&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=',   'a1window');
+}
+</script>
+
+<form onsubmit="currentAwards(this.a1.value); return false;">
+ <input id="current" type="radio" name="awards-search" value="currentAwards">
+ <label for="current">Current NSF SBIR/STTR Awards</label>
+
+ <input id="all" type="radio" name="awards-search" value="currentAwards">
+ <label for="all">All NSF SBIR/STTR Awards</label>
+
+    <input type="text" name="a1" size="20" placeholder="" />
+    <input type="submit" class="usa-button usa-button-primary" value="Search" />
+</form>
 
 </div>
 </section>
@@ -38,7 +43,7 @@ Our Recent Phase I awardees page highlights companies whose proposals were appro
 
 - Phase I recent awardees
 - Phase I active awardees
-- Phase II active awardees 
+- Phase II active awardees
 </section>
 <section class="usa-section usa-content usa-grid usa-section-tight-top">
 <h2 class="text-large">We fund varied tech sectors.</h2>
