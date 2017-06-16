@@ -52,46 +52,42 @@ module SiteData
       end
     end
 
+
     def consolidate_params
       consolidated = []
-      before = @meta.clone
-      if @util.to_date(@config_params['date_start']) < @util.to_date(@meta['date_start'])
-        before['date_start'] = @config_params['date_start']
-        before['date_end'] = @util.to_date_string(@util.to_date(@meta['date_start']) - 1)
-        puts "new topics start date: #{@config_params['date_start']}".green
-        consolidated << before
+      if @config_params['active_date_is_now'] == true
+        after = @meta.clone
+        time_now = @util.to_date(@site.time)
+        time_now_s = @util.to_date_string(@site.time)
+        if @util.to_date(time_now) > @util.to_date(@meta['date_end'])
+          after['exp_date_end'] = time_now_s
+
+          puts "new portfolio end date: #{time_now_s}".green
+          consolidated << after
+        end
       end
-
-      after = @meta.clone
-      if @util.to_date(@config_params['date_end']) > @util.to_date(@meta['date_end'])
-        after['date_end'] = @config_params['date_end']
-        after['date_end'] = @util.to_date_string(@site.time) if @config_params['update_to_current_time'] == true
-
-        after['date_start'] = @util.to_date_string(@util.to_date(@meta['date_end']) + 1)
-        puts "new topics end date: #{@config_params['date_end']}".green
-        consolidated << after
-      end
-
       consolidated
     end
 
     # should return something like [ { before }, { current @meta }, { after }]
     def create_params
       if @config_params['reset'] == true
-        @config_params
-      else
         consolidate_params
       end
     end
 
     def generate(params)
-      configs = [ params ].flatten
+      configs = [ params ].flatten.compact
       if configs.empty?
-        puts "the topics config is unchanged"
+        puts "the topics config is unchanged".yellow
         @topics.uniq
       else
         companies = @tech_topics.map { |c| c['companies'] }.flatten.uniq.compact
+        featured_companies = @featured_companies.map do |c|
+          c['search'] || c['name']
+        end
         companies = (companies + @featured_companies).uniq
+
         topics = configs.map do |config|
           companies.map do |company|
             config['awardeeName'] = company
