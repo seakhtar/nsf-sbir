@@ -7,20 +7,22 @@ class: awardees-layout
 <section class="usa-section background-light-neutral">
   <div class="usa-grid awardees-top-header">
     <div class="usa-width-one-whole">
-      <h2 class="text-medium">Current awardees</h2>
-      <p>Current (active) awardees are those who are still in the process of completing the R&amp;D terms of their proposals and who haven't yet submitted their final reports.</p>
+      <h1 class="page-title text-xl">Current awardees:</h1>
       <div class="usa-accordion accordion-dropdown ">
-            <button class="usa-accordion-button text-xxl" aria-expanded="false" aria-controls="awardees-nav">
+            <button class="usa-accordion-button text-xl" aria-expanded="false" aria-controls="awardees-nav">
           {{ page.nav_title }}
           </button>
             <div id="awardees-nav" class="usa-accordion-content">
               <ul class="usa-unstyled-list">
-                <li><a href="{{ site.baseurl }}/awardees/phase-1/">Phase I - all active awardees</a></li>
-                <li><a href="{{ site.baseurl }}/awardees/phase-1-recent/">Phase I - recent DATE awardees</a></li>
+                <li><a href="{{ site.baseurl }}/awardees/phase-1/">Phase I awardees</a></li>
+                <li><a href="{{ site.baseurl }}/awardees/phase-1-recent/">Phase I recent DATE awardees</a></li>
                 <li><a href="{{ site.baseurl }}/awardees/phase-2/">Phase II awardees</a></li>
               </ul>
             </div>
       </div>
+      <p class="text-max-width">
+        Current awardees are those who are still conducting research outlined in their proposals and who haven’t yet reached the estimated end dates.
+      </p>
     </div>
     <div class="usa-width-one-whole">
       <span class="text-xxxxl font-bold big-number">{{ awards_summary.companies }}</span>
