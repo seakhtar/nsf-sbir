@@ -19,7 +19,7 @@
     border: 0;
     border-bottom: 2px solid $color-primary;
     &:hover {
-      background-color: transparent;
+      background-color: $color-white-transprent;
     }
     &:focus {
       box-shadow: none;

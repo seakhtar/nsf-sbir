@@ -14,9 +14,9 @@ class: awardees-layout
           </button>
             <div id="awardees-nav" class="usa-accordion-content">
               <ul class="usa-unstyled-list">
-                <li><a href="{{ site.baseurl }}/awardees/phase-1/">Phase I awardees</a></li>
+                <li><a href="{{ site.baseurl }}/awardees/phase-1/">Phase I current awardees</a></li>
                 <li><a href="{{ site.baseurl }}/awardees/phase-1-recent/">Phase I recent DATE awardees</a></li>
-                <li><a href="{{ site.baseurl }}/awardees/phase-2/">Phase II awardees</a></li>
+                <li><a href="{{ site.baseurl }}/awardees/phase-2/">Phase II current awardees</a></li>
               </ul>
             </div>
       </div>
@@ -34,16 +34,20 @@ class: awardees-layout
     <ul class="flex-list flex-list-3-col">
     <li>
       <span class="text-xxl font-bold">{{ awards_summary.funding_per_application | round | intcomma_dollar }}</span>
-      <span class="text-small font-mono">Average $ amount of funding awarded for each company</span>
+      <span class="text-small font-mono">Average amount of funding awarded for each company</span>
     </li>
     <li>
       <span class="text-xxl font-bold">{{ awards_summary.states_count }}</span>
-      <span class="text-small font-mono">From {{ awards_summary.states_total }} states and territories</span>
+      <span class="text-small font-mono">{{ awards_summary.states_total }} Total states and territories</span>
     </li>
     <li>
+      <span class="text-xxl font-bold">000%</span>
+      <span class="text-small font-mono">Lorem ipsum dolor sit amet consecteteur sid adipiscing</span>
+    </li>
+    <!-- <li>
       <span class="text-xxl font-bold">{{ awards_summary.companies_unique_percent }}%</span>
       <span class="text-small font-mono">Total applications received</span>
-    </li>
+    </li> -->
     </ul>
   </div>
 </section>
