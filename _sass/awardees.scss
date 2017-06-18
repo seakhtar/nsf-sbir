@@ -32,12 +32,18 @@
   z-index: 999;
 
   .usa-unstyled-list {
+    padding: 2rem 1rem;
+
     li {
+      background-color: $color-white;
+
       a {
-        padding: 1rem 2rem;
+        font-size: $font-size-xs;
+        font-weight: 500;
+        padding: 1rem;
         display: block;
         color: $color-base;
-        border-color: $color-base;
+        border: none;
 
         &:hover {
           background-color: $color-secondary-lightest;
@@ -102,6 +108,25 @@
   }
 }
 
+.accordion-number-of-awardees-header {
+  width: 8rem;
+}
+
+.accordion-number-of-awardees {
+  width: 8rem;
+  float: left;
+  // border: 1px solid #f00;
+}
+
+.accordion-tech-topic {
+  overflow: hidden;
+  padding-right: 4rem;
+  line-height: $leading-s;
+  display: block;
+  margin-left: 7.8rem;
+
+}
+
 .awardees-details-accordion {
   .usa-accordion-content {
     padding-left: $space-s;
@@ -127,6 +152,7 @@
       display: inline-block;
       font-weight: $font-bold;
       font-size: $font-size-s;
+      width: 7rem;
     }
 
     &:last-of-type {
