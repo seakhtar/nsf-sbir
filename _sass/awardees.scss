@@ -1,11 +1,16 @@
 .big-number {
   float: left;
+  margin-right: $space-l;
+  line-height: 1;
 }
 
 .big-number-description {
   float: left;
-  margin-left: $space-l;
-  margin-top: $space-xl;
+
+  @media screen and (min-width: 620px) {
+    margin-top: $space-l;
+  }
+
   span {
     display: block;
   }
