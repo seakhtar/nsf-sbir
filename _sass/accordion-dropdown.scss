@@ -19,7 +19,8 @@
     border: 0;
     border-bottom: 2px solid $color-primary;
     &:hover {
-      background-color: $color-white-transprent;
+      // background-color: $color-white-transprent;
+      border-color: $color-primary-alt;
     }
     &:focus {
       box-shadow: none;

@@ -71,10 +71,10 @@ class: awardees-layout
         <div id="{{ topic.topic | slugify }}" class="usa-accordion-content">
           <ul class="table monospace">
             <li class="table-row table-header">
-              <div class="table-row-item">Company</div>
-              <div class="table-row-item">Location</div>
-              <div class="table-row-item narrow numeric">Award amount</div>
-              <div class="table-row-item narrow numeric">Award date</div>
+              <div class="table-row-item subhead">Company</div>
+              <div class="table-row-item subhead">Location</div>
+              <div class="table-row-item subhead narrow numeric">Award amount</div>
+              <div class="table-row-item subhead narrow numeric">Award date</div>
             </li>
             {% for matching in matching_awards %}
               <li class="table-row">
@@ -85,8 +85,8 @@ class: awardees-layout
                   </a>
                 </div>
                 <div class="table-row-item" data-header="Location">{{ matching.awardeeStateCode }}</div>
-                <div class="table-row-item narrow numeric" data-header="Amard amount">{{ matching.fundsObligatedAmt | intcomma_dollar }}</div>
-                <div class="table-row-item narrow numeric" data-header="Award date">{{ matching.date }}</div>
+                <div class="table-row-item narrow numeric font-mono text-small" data-header="Award amount">{{ matching.fundsObligatedAmt | intcomma_dollar }}</div>
+                <div class="table-row-item narrow numeric font-mono text-small" data-header="Award date">{{ matching.date }}</div>
               </li>
             {% endfor %}
           </ul>

@@ -33,14 +33,13 @@
 
   .usa-unstyled-list {
     padding: 2rem 1rem;
+    background-color: $color-white;
 
     li {
-      background-color: $color-white;
 
       a {
         font-size: $font-size-xs;
-        font-weight: 500;
-        padding: 1rem;
+        padding: .5rem 1rem;
         display: block;
         color: $color-base;
         border: none;
@@ -110,27 +109,33 @@
 
 .accordion-number-of-awardees-header {
   width: 8rem;
+  margin-top: $space-m;
 }
 
 .accordion-number-of-awardees {
   width: 8rem;
   float: left;
-  // border: 1px solid #f00;
-}
-
-.accordion-tech-topic {
-  overflow: hidden;
-  padding-right: 4rem;
-  line-height: $leading-s;
-  display: block;
-  margin-left: 7.8rem;
-
+  font-size: $font-size-l;
 }
 
 .awardees-details-accordion {
+
   .usa-accordion-content {
-    padding-left: $space-s;
-    padding-right: $space-s;
+    padding: $space-l $space-s $space-xl $space-s;
+    background-color: $color-neutral-light;
+
+    .table-row {
+      line-height: $leading-xs;
+
+      .table-row-item {
+        border-bottom: 1px solid $color-gray-light;
+
+        &:first-child {
+          flex-grow: 2.5;
+        }
+
+      }
+    }
   }
   .usa-accordion-button {
     background-image: url('../uswds/img/arrow-down.svg');
@@ -144,19 +149,32 @@
     &:hover {
       border: 0;
       border-top: 1px solid $color-gray-light;
-      background-color: $color-gray-lighter;
+      background-color: $color-neutral-light;
+    }
+    &:focus {
+      box-shadow: none;
+      border-top: 1px solid $color-black;
+      background-color: $color-neutral-light;
     }
     .accordion-number-of-awardees {
       color: $color-primary;
       padding-right: $space-s;
       display: inline-block;
       font-weight: $font-bold;
-      font-size: $font-size-s;
-      width: 7rem;
+      font-size: $font-size-m;
+      width: 7.7rem;
     }
 
     &:last-of-type {
       border-bottom: 1px solid $color-gray-light;
     }
+
+    .accordion-tech-topic {
+      padding-right: 4rem;
+      line-height: $leading-s;
+      display: block;
+
+    }
+
   }
 }
