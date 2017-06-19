@@ -4,11 +4,12 @@ permalink: /fastlane/fastlane2/
 layout: secondary-narrow
 sidenav: fastlane
 ---
+# FastLane guide
 
-# 2. Form Preparation
+## 2. Form Preparation
 At the top of the **Form Preparation** page will be the text **Forms for Temp Proposal #** - this number will be used as a reference throughout the preparation process. When your FastLane Contact/SPO finally submits your proposal to NSF, your proposal will be assigned an official NSF proposal number, the first two digits of which will match the fiscal year in which the proposal was submitted (e.g. proposals submitted between October 1, 2016 and September 30, 2017 will be numbered 17**xxxxx**). This official proposal number should be used in all further communications with NSF.
 
-## Cover Sheet
+### Cover Sheet
 Click on the **"GO"** button to the left of **"Cover Sheet"**.
 
 Cover sheet selection
@@ -19,7 +20,7 @@ The first Cover Sheet **"GO"** Button is **"Awardee Organization/Primary Place o
 
 ![Cover sheet component page]({{ site.baseurl }}/assets/img/fastlane/7-cover-sheet-components.jpg)
 
-## Awardee Organization
+### Awardee Organization
 
 The Awardee Organization information is pre-populated from the PI information. Click on the **"Add/Change Primary Place of Performance"** button to make necessary updates.
 
@@ -48,7 +49,7 @@ The third Cover Sheet **"GO"** Button is **"NSF Unit Consideration"**.
 
 ![NSF unit consideration button]({{ site.baseurl }}/assets/img/fastlane/10a-remainder-of--the-cover-sheet.jpg)
 
-## Remainder of the Cover Sheet
+### Remainder of the Cover Sheet
 
 The fourth Cover Sheet **"GO"** Button is **"Remainder of the Cover Sheet"**
 Click the **"GO"** button and provide the required information to complete the cover sheet.
@@ -128,7 +129,7 @@ NOTE: If the PI responds "YES" to the question "It has received Phase II awards 
 
 ![Authorized representative alert: AOR information will be added when proposal is signed electronically by AOR]({{ site.baseurl }}/assets/img/fastlane/23-authorized-representative.jpg)
 
-## Add/Delete Non Co-PI Personnel
+### Add/Delete Non Co-PI Personnel
 
 Click on the **"Go"** button to the left of **"Add/Delete Non Co-PI Senior Personnel":**
 
