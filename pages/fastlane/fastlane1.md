@@ -4,24 +4,24 @@ permalink: /fastlane/fastlane1/
 layout: secondary-narrow
 sidenav: fastlane
 ---
-# Submitting a SBIR/STTR Phase I Proposal in FastLane
-The Phase I SBIR solicitation and STTR solicitation explain what information should go into the proposal. The following steps will walk through the process of submitting a proposal into FastLane, NSF's electronic submission system. Remember to submit your proposal early. Fastlane will not accept proposals after 5:00 pm (submitter's time as registered in FastLane).
+# FastLane guide
+
+Submitting a SBIR/STTR Phase I Proposal in FastLane
+
+The Phase I SBIR solicitation and STTR solicitation explain what information should go into the proposal. The following steps will walk through the process of submitting a proposal into FastLane, NSF's electronic submission system. Remember to submit your proposal early. FastLane will not accept proposals after 5:00 pm (submitter's time as registered in FastLane).
 
 PDF version is available for [download](/files/Phase_I_Proposal_Preparation_Booklet.pdf).
 
-1. Application Overview
+## 1. FastLane Overview
 
 ### Do you have the required registrations?
 
 **Complete four required registrations as you begin putting a proposal together.** It is imperative that you register your company and enter all information identically in all systems to avoid processing delays later.
 
-[Dun and Bradstreet Data Universal Numbering System (DUNS)](https://www.nsf.gov/cgi-bin/good-bye?https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm)
-
-[System for Award Management (SAM)](https://www.sam.gov/portal/public/SAM)
-
-[Small Business Administration (SBA) Company Registry](http://www.sbir.gov/registration)
-
-[NSF FastLane](https://www.fastlane.nsf.gov/n1/N1AddInst.html) - register company and Principal Investigator (PI)
+* [Dun and Bradstreet Data Universal Numbering System (DUNS)](https://www.nsf.gov/cgi-bin/good-bye?https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm)
+* [System for Award Management (SAM)](https://www.sam.gov/portal/public/SAM)
+* [Small Business Administration (SBA) Company Registry](http://www.sbir.gov/registration)
+* [NSF FastLane](https://www.fastlane.nsf.gov/n1/N1AddInst.html) - register company and Principal Investigator (PI)
 
 ### Formatting Instructions
 
