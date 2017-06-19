@@ -113,7 +113,7 @@
 }
 
 .accordion-number-of-awardees-header {
-  width: 8rem;
+  width: $space-xl + $space-m + $space-xs;
   margin-top: $space-m;
 }
 
@@ -170,7 +170,6 @@
       display: inline-block;
       font-weight: $font-bold;
       font-size: $font-size-m;
-      // width: 7.7rem;
       width: $space-m + $space-xl;
     }
 
