@@ -74,7 +74,7 @@ View recent awardees
 <div class="usa-width-one-half" markdown="1">
 <h2 class="text-large">We are America's Seed Fund</h2>
 
-Since 1977, America’s Seed Fund (formerly known as NSF SBIR/STTR) has helped startups develop their ideas and bring them to market. From 2007 to 2016 alone, we funded roughly 400 companies each year.
+Since 1977, America’s Seed Fund (also known as SBIR/STTR) has helped startups develop their ideas and bring them to market. From 2007 to 2016, we funded roughly 400 companies each year.
 
 <a class="usa-button usa-button-primary button-arrow" href="#">
 Learn about our impact
