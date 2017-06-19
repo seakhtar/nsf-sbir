@@ -18,7 +18,7 @@ hero:
 <section class="usa-section usa-content section-intro background-light-neutral">
 <div class="usa-grid">
 <div class="usa-width-one-third" markdown="1">
-<h2 class="text-medium">Seed capital for early-stage product development</h2>
+<h2 class="text-medium">Seed capital for early stage product development</h2>
 
 We offer funding for early stage R&D and take no equity in your company — you retain full control over your team, the direction of your work, and your intellectual property.
 
