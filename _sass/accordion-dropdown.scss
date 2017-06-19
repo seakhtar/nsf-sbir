@@ -9,12 +9,12 @@
   }
 
   .usa-accordion-button {
-    background-image: url('../uswds/img/arrow-up-thick.svg');
+    background-image: url('../img/arrow-up-thick.svg');
     background-color: transparent;
     font-family: $font-serif;
     letter-spacing: $kern-tight;
-    margin: 0 0 3rem 0;
-    padding: 0 6rem .5rem 0;
+    margin: 0 0 $space-l 0;
+    padding: 0 $space-xl $space-xs 0;
     color: $color-primary;
     border: 0;
     border-bottom: 2px solid $color-primary;
@@ -26,7 +26,7 @@
       box-shadow: none;
     }
     &[aria-expanded='false'] {
-      background-image: url('../uswds/img/arrow-down-thick.svg');
+      background-image: url('../img/arrow-down-thick.svg');
      }
   }
 }

@@ -37,14 +37,14 @@
   z-index: 999;
 
   .usa-unstyled-list {
-    padding: 2rem 1rem;
+    padding: $space-s+$space-m $space-s;
     background-color: $color-white;
 
     li {
 
       a {
         font-size: $font-size-xs;
-        padding: .5rem 1rem;
+        padding: $space-xs $space-s;
         display: block;
         color: $color-base;
         border: none;
@@ -118,7 +118,7 @@
 }
 
 .accordion-number-of-awardees {
-  width: 8rem;
+  width: $space-xl + $space-m + $space-xs;
   float: left;
   font-size: $font-size-l;
 }
@@ -143,7 +143,7 @@
     }
   }
   .usa-accordion-button {
-    background-image: url('../uswds/img/arrow-down.svg');
+    background-image: url('../img/arrow-up.svg');
     padding-left: $space-s;
     padding-right: $space-s;
     font-family: $font-serif;
@@ -161,13 +161,17 @@
       border-top: 1px solid $color-black;
       background-color: $color-neutral-light;
     }
+    &[aria-expanded='false'] {
+      background-image: url('../img/arrow-down.svg');
+     }
     .accordion-number-of-awardees {
       color: $color-primary;
       padding-right: $space-s;
       display: inline-block;
       font-weight: $font-bold;
       font-size: $font-size-m;
-      width: 7.7rem;
+      // width: 7.7rem;
+      width: $space-m + $space-xl;
     }
 
     &:last-of-type {
@@ -175,7 +179,7 @@
     }
 
     .accordion-tech-topic {
-      padding-right: 4rem;
+      padding-right: $space-s + $space-l;
       line-height: $leading-s;
       display: block;
 
