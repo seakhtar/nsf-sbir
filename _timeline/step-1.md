@@ -21,7 +21,7 @@ Here are the criteria we use to determine which companies to fund:
 
 **Portfolio**
 
-Check out our [portfolio](#) to see what companies we’ve recently funded.
+Check out our [portfolio]({{ '/portfolio/' | relative_url }}) to see what companies we’ve recently funded.
 
 **Technology topic areas**
 
