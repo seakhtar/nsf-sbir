@@ -1,4 +1,4 @@
----
+ "These featured companies are a small, random selection of all our funded companies. To see all the awards we've made to small businesses, please visit the [NSF Awards Database](link)." ---
 title: Portfolio
 permalink: /portfolio/
 featuredCompanies:
