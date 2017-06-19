@@ -4,7 +4,7 @@ theme: uswds-jekyll
 url: https://seedfund.nsf.gov
 baseurl: ""
 permalink: pretty
-deadline: June 14, 2017
+deadline: December 2017
 
 app_process: active
 # app_process: inactive
