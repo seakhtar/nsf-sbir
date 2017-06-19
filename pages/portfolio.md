@@ -8,7 +8,7 @@ layout: secondary
 <div class="usa-section usa-content usa-grid" markdown="1">
 
 # Portfolio
-<p class="text-medium">Since 1977, we’ve awarded funding for high-risk R&D to more than 11,000 startups and small businesses. These featured companies are a small, random selection of all our funded companies. To see all the awards we've made to small businesses, please visit the [NSF Awards Database](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=1501%2C5371%2C1591%2C5373&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=).</p>
+<p class="text-medium" markdown="1">Since 1977, we’ve awarded funding for high-risk R&D to more than 11,000 startups and small businesses. These featured companies are a small, random selection of all our funded companies. To see all the awards we've made to small businesses, please visit the [NSF Awards Database](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=1501%2C5371%2C1591%2C5373&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=).</p>
 
 <!-- start search -->
 <div class="pad-vtop-10 pad-vbottom-80">
