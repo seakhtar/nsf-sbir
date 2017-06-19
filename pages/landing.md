@@ -58,7 +58,7 @@ SBIR &#124; STTR
 
 <div class="usa-width-two-thirds usa-grid-center usa-content" markdown="1">
 <hr class="divider divider-left">
-<p class="text-large"><strong>We support research and development of groundbreaking, high-risk technology. As we review applications, we consider your technology’s innovativeness, commercial plan, and possible social impact.</strong></p>
+<p class="text-large"><strong>We support research and development of groundbreaking, high-risk technology. As we review applications, we consider your technology’s innovativeness, commercial potential, and possible social impact.</strong></p>
 
 <a class="usa-button usa-button-secondary usa-button-big button-arrow" href="/awardees/">
 View recent awardees
