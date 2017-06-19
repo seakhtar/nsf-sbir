@@ -20,7 +20,7 @@ hero:
 <div class="usa-width-one-third" markdown="1">
 <h2 class="text-medium">Seed capital for early-stage product development</h2>
 
-We offer funding for early-stage R&D and take no equity in your company — you retain full control over your team, the direction of your work, and your intellectual property.
+We offer funding for early stage R&D and take no equity in your company — you retain full control over your team, the direction of your work, and your intellectual property.
 
 <a class="usa-button usa-button-primary button-arrow" href="/about/">
 See program details
@@ -74,7 +74,7 @@ View recent awardees
 <div class="usa-width-one-half" markdown="1">
 <h2 class="text-large">We are America's Seed Fund</h2>
 
-Since 1977, America’s Seed Fund (formerly known as NSF SBIR/STTR) has helped startups develop their ideas and bring them to market. From 2007 to 2016 alone, we funded roughly 400 companies each year.
+Since 1977, America’s Seed Fund (also known as SBIR/STTR) has helped startups develop their ideas and bring them to market. From 2007 to 2016, we funded roughly 400 companies each year.
 
 <a class="usa-button usa-button-primary button-arrow" href="#">
 Learn about our impact
