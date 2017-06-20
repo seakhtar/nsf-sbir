@@ -2,6 +2,7 @@ html,
 body {
   background-color: $color-neutral-light;
   font-family: $font-serif;
+  color: $color-base;
 }
 
 p,
@@ -9,8 +10,8 @@ li,
 tr {
   font-size: $font-size-xs;
   font-weight: 400;
-  line-height: 1.625;
-  margin-bottom: 1.5rem;
+  line-height: $leading-m;
+  margin-bottom: $space-m;
   margin-top: 0;
 }
 
@@ -28,7 +29,7 @@ ol {
 
   p {
     font-size: $font-size-xxs;
-    line-height: 1.5;
+    line-height: $leading-s;
    }
 }
 
@@ -46,7 +47,7 @@ ol {
 
   img {
     height: 40px;
-    margin-top: 1.5rem;
+    margin-top: $space-m;
     max-width: none;
   }
 
@@ -60,7 +61,7 @@ ol {
 }
 
 .usa-menu-btn {
-  margin-top: 1.5rem;
+  margin-top: $space-m;
 }
 
 .usa-content {
@@ -73,7 +74,7 @@ button,
 .usa-button,
 button:visited,
 .usa-button:visited {
-  background-color: $color-primary-alt-lightest;
+  background-color: transparent;
   border: 1px solid $color-primary-alt;
   border-radius: 0;
   color: $color-black;
