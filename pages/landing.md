@@ -6,8 +6,8 @@ layout: landing
 hero:
   image: /assets/img/hero-3.png
   callout:
-    alt: Up to $1.5 million seed funding.
-    text: 0% equity.
+    alt: We invest up to $1.5 million in seed funding
+    text: We take 0% equity
   button:
     href: /apply/
     text: "Start your application"
