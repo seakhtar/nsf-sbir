@@ -3,67 +3,73 @@ title: Portfolio Research Experience and Partnerships
 permalink: /grantees/researchexp/
 layout: secondary-narrow
 ---
+# Portfolio research experience and partnerships
 
-Startups and small businesses that are funded through the National Science Foundation (NSF) Small Business Innovation Research (SBIR) Program can offer paid research experiences/partnerships with students, teachers, and schools.
+SBIR/STTR-funded startups and small businesses can offer paid research experiences and partnerships to students, teachers, and schools. Here, you can learn more about these partnerships and research experiences.
+
+# Who can participate?
+
+NSF SBIR/STTR supports research experiences for the following groups:
+
+## High school students
+- Funding support for active research participation by high school students interested in science, technology, and mathematics.
+- **Max funding:** $6,000 per student per year
+- **Timeline:** Rolling submissions; submission three months before the target start date is recommended. 
+
+## K-12 and community college teachers
+- Funding support for active involvement of K-12 teachers and community college faculty in engineering research.
+- **Max funding:** $10,000 per teacher per year
+- **Deadline:** Rolling submissions; submission three months before the target start date is recommended.
+
+## Undergraduate students
+- Funding support for active NSF research participation by undergraduate students.
+- **Max funding:** $8,000 per student per year
+- **Deadline:** Rolling submissions; submission three months before the target start date is recommended.
+
+## Community college students and teams
+- Partnership funding between small businesses and community college researchers and students.
+- **Max funding:** $40,000 per year
+- **Deadline:** Rolling submissions; submission three months before the target start date is recommended.
+
+## Veterans
+- Funding support to enable veteran students, pre-college STEM teachers, and/or community college faculty to participate in active NSF grants.
+- **Max funding:** $10,000 per veteran
+- **Deadline:** Rolling submissions; submission three months before the target start date is recommended.
+
+## CREST and HBCU-RISE awardees
+- Funding to foster partnerships between small business and minority-serving institutions that have a funded Center for Research Excellence in Science and Technology (CREST) or Historically Black Colleges and University (HBCU) Research Infrastructure for Science and Engineering (RISE) awards.
+- **Max funding:** $100,000 per award
+- **Deadline:** Rolling submissions; submission three months before the target start date is recommended.
+
+## Supporting documents
+- NSF 06-003: Research Assistantships for High School Students (RAHSS): Supplemental Funding to Current SBIR/STTR Phase II Awards to Broaden Participation in Science and Engineering
+- NSF 11-509: Research Experiences for Teachers (RET) in Engineering and Computer Science
+- NSF 13-542: Research Experiences for Undergraduates (REU); supplements only
+- NSF 12-076: Dear Colleague Letter - Supplemental Opportunity for Small Business Innovation Research and Small Business Technology Transfer (SBIR/STTR) Community College Research Teams (Phase II-CC)
+- NSF 14-124: Dear Colleague Letter: Veteran's Research Supplement (VRS) Program
+- NSF 12-069: Dear Colleague Letter: Supplemental Opportunity for Small Business Innovation Research and Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) for CREST/HBCU-RISE Collaborations (Phase IIA)
 
 ## Program Flyers
 [K-12 and Community College Teachers](/files/RET_Flyer.pdf) | [High School Students](/files/RAHSS_Flyer.pdf)
 
 ## Taryn's Story
-Read about Taryn Imamura's experience with Modular Genetics, Inc. and her award in the Clinton Ideas Matter Essay contest here.
+Read about Taryn Imamura's experience with Modular Genetics, Inc. and her award in the Clinton Ideas Matter Essay contest [here](http://www.businesswire.com/news/home/20150202005023/en/Clinton-Ideas-Matter-Essay-Contest-2nd-Place#.VOSmTfnF98E).
 
-## Company Participants
-The red dots on the map below represent Phase II NSF SBIR/STTR grantees. Large green markers indicated companies that are looking for students and/or teacher researcher. Some of the companies denoted with the red icon may still be open to take on a student or teacher.
+## Company participants
+The red dots on the following map represent Phase II NSF SBIR/STTR awardees. Large green markers indicate companies that are looking for students and/or teacher researchers. That said, some of the companies represented by red dots may also be looking for student or teacher researchers; if you're a student or teacher seeking research opportunities, feel free to reach out to them if you feel they'd be a good fit.
 
 [MAP INSET]
 
 [See this map on its own page.](https://www.google.com/fusiontables/data?docid=1eR5TPghK5so47xxeR_8vCdZcuhNWNyu1CEqw9MSM#map:id=3) | [See a searchable table with the same information.](https://www.google.com/fusiontables/data?docid=1eR5TPghK5so47xxeR_8vCdZcuhNWNyu1CEqw9MSM#rows:id=1)
 
-# How to Apply
-NSF lists opportunities on this page, but the application process is managed by the small companies themselves. **Please follow the instructions listed at the URL provided by the company, if there is one.** If there are no specific instructions, the next step is to contact the company with an email or a phone call. [Click here for an email template!](/flyer/Sample_ContactingNSFSBIRCompanies.docx)
+# How to apply
+NSF lists research opportunities on this page, but the application process is managed by the small companies themselves. To apply, please follow the instructions listed at the URL provided by the company, if there is one. If the company doesn't provide specific instructions, contact the company directly via email — [here's an email template you can use.](/flyer/Sample_ContactingNSFSBIRCompanies.docx)
 
-If you need assistance or have questions, you can contact us at SBIRresearchexp@nsf.gov:
+If you need help or have questions, contact us at SBIRresearchexp@nsf.gov.
 
-## Video and Interviews
+## Video and interviews
+
+Check out these videos and interviews to get a better sense of NSF SBIR/STTR's research opportunities. 
 
 [Youtube Video Inset]
 
-# Research Experiences are Supported for the Following Participants
-
-## High School Students
-- Funding support for active research participation by high school students interested in science, technology, and mathematics.
-- **Max Funding:** $6,000 per student per year
-- **Timeline:** Rolling submission; submission 3 months before target start date is suggested
-
-## K-12 and Community College Teachers
-- Funding support for active involvement of K-12 teachers and community college faculty in engineering research.
-- **Max Funding:** $10,000 per teacher per year
-- **Deadline:** Rolling submission; submission 3 months before target start date is suggested
-
-## Undergraduate Students
-- Funding support for active NSF research participation by undergraduate students.
-- **Max Funding:** $8,000 per student per year
-- **Deadline:** Rolling submission; submission 3 months before target start date is suggested
-
-## Community College Students and Teams
-- Partnership funding between small businesses and community college researchers and students.
-- **Max Funding:** $40,000 per year
-- **Deadline:** Rolling submission; submission 3 months before target start date is suggested
-
-## Veterans
-- Funding support to enable veteran students, pre-college STEM teachers, and/or community college faculty to participate in active NSF grants.
-- **Max Funding:** $10,000 per veteran
-- **Deadline:** Rolling submission; submission 3 months before target start date is suggested
-
-## CREST and HBCU-RISE Awardees
-- Funding to foster partnerships between small business and minority-serving institutions that have a funded Center for Research Excellence in Science and Technology (CREST) or Historically Black Colleges and University (HBCU) Research Infrastructure for Science and Engineering (RISE) awards.
-- **Max Funding:** $100,000 per award
-- **Deadline:** Rolling submission; submission 3 months before target start date is suggested
-
-## Supporting Documents
-- NSF 06-003: “Research Assistantships for High School Students (RAHSS): Supplemental Funding to Current SBIR/STTR Phase II Awards to Broaden Participation in Science and Engineering”.
-- NSF 11-509: “Research Experiences for Teachers (RET) in Engineering and Computer Science”.
-- NSF 13-542: “Research Experiences for Undergraduates (REU)”. Supplements only.
-- NSF 12-076: “Dear Colleague Letter - Supplemental Opportunity for Small Business Innovation Research and Small Business Technology Transfer (SBIR/STTR) Community College Research Teams (Phase II-CC)”.
-- NSF 14-124: “Dear Colleague Letter: Veteran's Research Supplement (VRS) Program”.
-- NSF 12-069: “Dear Colleague Letter: Supplemental Opportunity for Small Business Innovation Research and Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) for CREST/HBCU-RISE Collaborations (Phase IIA)”.
