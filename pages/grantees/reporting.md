@@ -4,48 +4,50 @@ permalink: /grantees/reporting/
 layout: secondary-narrow
 ---
 
-Phase I SBIR/STTR grantees have formal reporting obligations in two different contexts: 1) when the Phase I award period ends and 2) when the follow-on Phase II proposal is submitted. These two requirements have similar deliverables, but happen at different times and are accomplished through different electronic systems. See details on each requirement below.
+As a Phase I SBIR/STTR awardee, you need to provide formal reports on two different occasions: 1) when the Phase I award period ends, and 2) when you submit your Phase II proposal (if you choose to do so). The two reports are fairly similar, but need to be submitted at different times and through different electronic systems. See details on each requirement below.
 
-# Reporting Requirements: End of Phase I Award
+# Reporting requirements: end of Phase I award
 
-This requirement is administered through Research.gov. Please see the following website for technical guidance and tips on the submission process: [Research.gov Reporting Information](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_page_n_about_por). The Research.gov can be contacted at Help Desk Rgov@nsf.gov or 1-800-381-1532. The requirements expected for the SBIR/STTR program are detailed below.
+Research.gov administers this reporting requirement. Please visit [Research.gov Reporting Information](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_page_n_about_por) for technical guidance and tips on the submission process. You can contact the Research.gov Help Desk by emailing Rgov@nsf.gov or calling 1-800-381-1532. Reporting requirements for the SBIR/STTR program are described below.
 
-If the instructions on this website conflict with instructions provided to you by NSF via email or another NSF web page, the instructions on this page supersede all other instructions!
+The instructions on this page supersede all others; please keep this in mind if you received instructions that conflict with those that follow.
 
-## 1. COMPLETE COVER PAGE (uploaded as a single PDF):
+## 1. Complete your cover page (to be uploaded as a single PDF):
 
-The report cover page is filled out and signed by the PI and the Authorized Company Representative. Once the cover page is filled out and signed, you MUST attach it as part of the interim report, using the following steps:
+The PI and the Authorized Company Representative must complete and sign the report cover page. Once the cover page is completed and signed, you must attach it as part of the interim report following these steps:
 
 - Make sure you have [Adobe Reader](https://www.nsf.gov/help/plugins.jsp).
 - Download the [Cover Page Document](/files/SBIR-STTR_Revised_Report_Cover.pdf).
 - Fill out and print the form.
-- Physically sign the Cover Page in the signature field.
+- Physically sign the Cover Page (signature field).
 - Scan the Cover Page as a PDF file.
 
 (Note: You must sign the cover page because you are certifying that all information contained in the report is accurate.)
 
-## 2. COMPLETE TECHNICAL NARRATIVE (uploaded as a single PDF):
+## 2. Complete your technical narrative (uploaded as a single PDF):
 
-Documents the Phase I research accomplishments; not to exceed 15 pages. This section must include the following components:
+The technical narrative documents your Phase I research accomplishments and can't exceed 15 pages. The narrative must include the following components:
 
-- A summary description of the research carried out, the results thus far and the activities to be carried out for the remainder of the Phase I project (if applicable).
-- Problems encountered and methods of resolution used.
-- Problems remaining or unfilled research objectives.
-- Conclusion of the Phase I findings and how these conclusions support a Phase II proposal.
+- A summary of the research you've carried out, your results so far, and the activities to be carried out for the remainder of the Phase I project (if applicable).
+- A description of the problems you've encountered and how you resolved them.
+- A description of problems you have yet to solve or unfilled research objectives.
+- The conclusions of your Phase I findings and how these conclusions support a Phase II proposal.
 
-## 3. SUBMIT REPORT VIA RESEARCH.GOV:
+## 3. Submit your report via Research.gov:
 
 - Use your FastLane UserID and password to [log in to Research.gov](https://identity.research.gov/sso/UI/Login?realm=/research&spEntityID=https%3A%2F%2Fwww.research.gov%2Fsso%2Fsp&module=nsf&goto=http%3A%2F%2Fidentity.research.gov%3A80%2Fsso%2Fidpssoinit%3FNameIDFormat%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Anameid-format%3Atransient%26metaAlias%3D%2Fresearch%2Fidp%26spEntityID%3Dhttps%3A%2F%2Fwww.research.gov%2Fsso%2Fsp%26binding%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Abindings%3AHTTP-POST%26RelayState%3Dhttps%3A%2F%2Fwww.research.gov%2Fresearch-portal%2Fredirect.jsp%3FTARGET%3Dproperty%3A%3ArpprApplicationUrl)
-- Use your Project Reporting Dashboard to navigate to the appropriate award and report. The Phase I Final Report should be listed in the **"Reports Due"** tab.
-- Complete the **"Cover"** information.
-- Complete the **"Products"** and **"Participants"** tabs.
+- From the Project Reporting Dashboard, navigate to the appropriate award and report. The Phase I Final Report should be listed in the *Reports Due* tab.
+- Provide the *Cover* information.
+- Complete the appropriate fields in the *Products* and *Participants* tabs.
 
-** This structured information is vital, and it should be completed via the HTML questions and check boxes (regardless of whether or not it is present in a supplementary PDF!!)** 
+This structured information is vital — please supply it using the HTML questions and check boxes (regardless of whether or not you've included the same information in a supplementary PDF). 
 
-- (Optional) Complete the "Accomplishments", "Impact", "Changes/Problems", and "Special Requirements" tabs with information or use the check boxes to indicate that there is "Nothing to Report".
-- Upload the **COVER PAGE** PDF in the "Special Requirements" section under "Supporting Files". If "Special Requirements" tab is not visible, please upload the **COVER PAGE** PDF under the "Accomplishments" tab.
-- Upload the **TECHNICAL NARRATIVE** PDF in the "Accomplishments" section under "Supporting Files".
+- (Optional) Complete the *Accomplishments*, *Impact*, *Changes/Problems*, and *Special Requirements* sections or use the check boxes to indicate that you have nothing to report.
+- Upload the Cover Page PDF in the *Special Requirements* section (under Supporting Files). If the *Special Requirements* tab isn't visible, please upload your Cover Page PDF in the *Accomplishments* section.
+- Upload the Technical Narrative PDF in the *Accomplishments* section (under Supporting Files).
 
-## Reporting Requirements: Phase II Proposal Submission
+## Reporting requirements: Phase II proposal submission
 
-This requirement is managed through Fastlane during the Phase II proposal submission process, which may occur before or after the Phase I project ends. As a requirement of this process, an up-to-date Technical Narrative (not to exceed 15 pages), with the same format as that listed in section 2 above, should be prepared and included in the Phase II proposal as a supplementary document. See the Phase II proposal preparation instructions page [here](https://www.nsf.gov/eng/iip/sbir/how-to-apply_phaseii.jsp) for more detail.
+If you're interested in seeking Phase II funding, you'll need to submit your Phase II proposal through FastLane during the Phase II proposal submission process, which may occur before or after your Phase I project ends. 
+
+One requirement of this process is submitting an updated Technical Narrative (of no more than 15 pages) that follows the same format described above. Please include this narrative as a supplementary document to your Phase II proposal. See the [Phase II proposal preparation instructions page](https://www.nsf.gov/eng/iip/sbir/how-to-apply_phaseii.jsp) for more details.
