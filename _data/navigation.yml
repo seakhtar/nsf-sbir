@@ -19,15 +19,15 @@ primary:
 
 fastlane:
   - text: Fastlane Overview
-    href: /fastlane/fastlane1/
+    href: /fastlane/fastlane-1/
   - text: Form Preparation
-    href: /fastlane/fastlane2/
+    href: /fastlane/fastlane-2/
   - text: Form Preparation part 2
-    href: /fastlane/fastlane2-2/
+    href: /fastlane/fastlane-2-2/
   - text: Form Preparation part 3
-    href: /fastlane/fastlane2-3/
+    href: /fastlane/fastlane-2-3/
   - text: Proposal Submission
-    href: /fastlane/fastlane3/
+    href: /fastlane/fastlane-3/
 
 footer:
   - text: About

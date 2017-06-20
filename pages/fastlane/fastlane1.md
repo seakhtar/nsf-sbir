@@ -1,6 +1,6 @@
 ---
 title: Fastlane Application Overview
-permalink: /fastlane/fastlane1/
+permalink: /fastlane/fastlane-1/
 layout: secondary-narrow
 sidenav: fastlane
 ---

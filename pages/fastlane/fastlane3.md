@@ -1,6 +1,6 @@
 ---
 title: Proposal Submission
-permalink: /fastlane/fastlane3/
+permalink: /fastlane/fastlane-3/
 layout: secondary-narrow
 sidenav: fastlane
 ---
