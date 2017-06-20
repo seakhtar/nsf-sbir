@@ -4,38 +4,37 @@ permalink: /about/
 layout: secondary
 section_image: "/assets/img/bg/robotic-arm.jpg"
 section_image_caption: |
-  The first robotic printer used by [Branch](#) in late 2014 to develop the initial proof of concept for CFAB® prior to SBIR Phase I research.
+  The first robotic printer used by [Branch Technology](#) in late 2014 to develop the initial proof of concept for CFAB® prior to SBIR Phase I research.
 ---
 <section class="section-header background-light-blue">
 <div class="usa-section usa-content usa-grid">
 <div class="usa-width-one-whole" markdown="1">
-# About America's Seed Fund
+# About America's Seed Fund powered by NSF
 
-For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.
+
+For 40 years, America’s Seed Fund powered by NSF has helped startups and small businesses transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country. We are a congressionally mandated program – small business innovation research and small business technology transfer (SBIR/STTR).
 
 </div>
 </div>
 </section>
+
 <section class="usa-section-tight-top background-light-blue">
+
 <div class="usa-content usa-grid">
 <div class="usa-width-one-whole" markdown="1">
-
-<strong>When you join our elite group of innovators, you’ll help us:<strong>
-
+<strong>When you join our innovators:<strong>
 </div>
 </div>
+
 <div class="usa-section usa-section-tight-top usa-content usa-grid">
-<div class="usa-width-one-fourth" markdown="1">
-Promote groundbreaking technologies developed by U.S. entrepreneurs.
+<div class="usa-width-one-third" markdown="1">
+You will receive the funding you need as a startup or small business to commercialize technically risky ideas.
 </div>
-<div class="usa-width-one-fourth" markdown="1">
-Help socially and economically disadvantaged entrepreneurs bring their ideas to life.
+<div class="usa-width-one-third" markdown="1">
+You will retain full control of your team, direction of your work, and the resultant intellectual property. We take no equity in exchange for funding. 
 </div>
-<div class="usa-width-one-fourth" markdown="1">
-Give federal agencies access to research and products they can’t get elsewhere, helping them fulfill their missions.
-</div>
-<div class="usa-width-one-fourth" markdown="1">
-Stimulate private-sector commercialization of technologies developed using federal funding.
+<div class="usa-width-one-third" markdown="1">
+You will get access to a program director, who will serve as your mentor, and a network of technology innovators and founders.
 </div>
 </div>
 </section>

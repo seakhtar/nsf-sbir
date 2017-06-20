@@ -1,10 +1,12 @@
 ---
-title: Form Preparation cont\'d
-permalink: /fastlane/fastlane2-3/
+title: Form Preparation part 3
+permalink: /fastlane/fastlane-2-3/
 layout: secondary-narrow
+sidenav: fastlane
 ---
+# FastLane guide
 
-# 2. Form Preparation (cont'd)
+## 2. Form Preparation (cont'd)
 
 ### Facilities, Equipment, and Other Resources
 
@@ -19,7 +21,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 ![File upload screen for Facilities, Equipment, and Other Resources]({{ site.baseurl }}/assets/img/fastlane/32-facilities-Equip-and-other-resources.jpg)
 
-## Project Summary
+### Project Summary
 
 Follow the instructions on the below screen, then click **"Upload File"** to upload document. Click **"Go Back"** until you return to the "Form Preparation" screen.
 
@@ -27,11 +29,11 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 Type the "Project Summary" in the provided text boxes. The aggregate of the three text boxes cannot exceed 4,600 characters, including spaces. The maximum number of lines that may be included on a page is 51. When this section is completed, click **"Save" and then "OK"** to return to the "Form Preparation" screen. **Information MUST be entered into all three text boxes, or the proposal will not be accepted.**
 
-### DO NOT CHECK THE BOX TO ENTER YOUR PROJECT SUMMARY AS A SUPPLEMENTARY DOCUMENT.
+** DO NOT CHECK THE BOX TO ENTER YOUR PROJECT SUMMARY AS A SUPPLEMENTARY DOCUMENT. **
 
 ![Project Summary textboxes, with checkbox for supplementary document option at upper left corner highlighted]({{ site.baseurl }}/assets/img/fastlane/33-project-summary.jpg)
 
-## Project Description
+### Project Description
 
 15. Click on the **"Go"** button to the left of **"Project Description":**
 
@@ -43,7 +45,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 ![Project Description file upload screen]({{ site.baseurl }}/assets/img/fastlane/34-project-description.jpg)
 
-## Biographical Sketches
+### Biographical Sketches
 
 16. Click on the **"Go"** button to the left of **"Biographical Sketches":**
 
@@ -61,7 +63,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 ![Bio Sketch file upload intstructions and field]({{ site.baseurl }}/assets/img/fastlane/36-bio-sketch2.jpg)
 
-## Current and Pending Support
+### Current and Pending Support
 
 17. Click on the **"Go"** button to the left of **"Current & Pending Support":**
 
@@ -83,7 +85,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 ![Current and Pending Support file upload screen]({{ site.baseurl }}/assets/img/fastlane/39-current-and-pending-support3.jpg)
 
-## Data Management Plan
+### Data Management Plan
 18. Click on the **"Go"** button to the left of **"Data Management Plan":**
 
 Proposals _must_ contain a supplementary document labeled "Data Management Plan" which can simply consist of the statement, **"All data generated in this SBIR (or STTR) Phase I project is considered proprietary."**
@@ -94,7 +96,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 ![Data Management file upload screen]({{ site.baseurl }}/assets/img/fastlane/40-data-management.jpg)
 
-## Mentoring Plan
+### Mentoring Plan
 
 19. Click on the **"Go"** button to the left of **"Mentoring Plan":**
 
@@ -108,7 +110,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 ![Mentoring Plan file upload screen]({{ site.baseurl }}/assets/img/fastlane/41-mentoring-plan.jpg)
 
-## Other Supplementary Docs
+### Other Supplementary Docs
 
 19. Click on the **"Go"** button to the left of **"Other Supplementary Docs":**
 
