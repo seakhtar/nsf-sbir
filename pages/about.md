@@ -12,30 +12,27 @@ section_image_caption: |
 # About America's Seed Fund
 
 For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.
-
 </div>
 </div>
 </section>
+
 <section class="usa-section-tight-top background-light-blue">
+
 <div class="usa-content usa-grid">
 <div class="usa-width-one-whole" markdown="1">
-
-<strong>When you join our elite group of innovators, you’ll help us:<strong>
-
+<strong>When you join our innovators, you’ll help us:<strong>
 </div>
 </div>
+
 <div class="usa-section usa-section-tight-top usa-content usa-grid">
-<div class="usa-width-one-fourth" markdown="1">
-Promote groundbreaking technologies developed by U.S. entrepreneurs.
+<div class="usa-width-one-third" markdown="1">
+We offer startups and small businesses the funding you need to commercialize technically risky ideas.
 </div>
-<div class="usa-width-one-fourth" markdown="1">
-Help socially and economically disadvantaged entrepreneurs bring their ideas to life.
+<div class="usa-width-one-third" markdown="1">
+We take no equity in exchange for funding. You retain full control of your team, direction of your work, and the resultant intellectual property.
 </div>
-<div class="usa-width-one-fourth" markdown="1">
-Give federal agencies access to research and products they can’t get elsewhere, helping them fulfill their missions.
-</div>
-<div class="usa-width-one-fourth" markdown="1">
-Stimulate private-sector commercialization of technologies developed using federal funding.
+<div class="usa-width-one-third" markdown="1">
+You'll get access to a program director who will serve as your mentor and a network of technology innovators and founders.
 </div>
 </div>
 </section>
