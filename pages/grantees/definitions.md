@@ -1,8 +1,8 @@
-+---
- +title: Definitions
- +permalink: /grantees/definitions/
- +layout: secondary-narrow
- +---
+---
+title: Definitions
+permalink: /grantees/definitions/
+layout: secondary-narrow
+---
 
 ## Commercialization
 The process of developing markets and producing and delivering products or services for sale (whether by the originating party or by others). We use the term to include government and non-government markets.
