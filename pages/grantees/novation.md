@@ -4,4 +4,10 @@ permalink: /grantees/novation/
 layout: secondary-narrow
 ---
 
-Significant changes to an SBIR/STTR awardee organization should be reported to the cognizant Program Director. This includes a change in the Principal Investigator, a business name change, a merger or acquisition, etc.
+## Changes to your organization
+
+During your award term, your organization may undergo changes. Please report any of the following to your program diretor:
+
+- A change in the Principal Investigator
+- A change to your business' name
+- A merger or acquisition
