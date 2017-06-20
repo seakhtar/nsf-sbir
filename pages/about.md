@@ -22,19 +22,19 @@ For 40 years, America’s Seed Fund powered by NSF has helped startups and small
 
 <div class="usa-content usa-grid">
 <div class="usa-width-one-whole" markdown="1">
-<strong>When you join our innovators, you’ll help us:<strong>
+<strong>When you join our innovators:<strong>
 </div>
 </div>
 
 <div class="usa-section usa-section-tight-top usa-content usa-grid">
 <div class="usa-width-one-third" markdown="1">
-We offer startups and small businesses the funding you need to commercialize technically risky ideas.
+You will receive the funding you need as a startup or small business to commercialize technically risky ideas.
 </div>
 <div class="usa-width-one-third" markdown="1">
-We take no equity in exchange for funding. You retain full control of your team, direction of your work, and the resultant intellectual property.
+You will retain full control of your team, direction of your work, and the resultant intellectual property. We take no equity in exchange for funding. 
 </div>
 <div class="usa-width-one-third" markdown="1">
-You'll get access to a program director who will serve as your mentor and a network of technology innovators and founders.
+You will get access to a program director, who will serve as your mentor, and a network of technology innovators and founders.
 </div>
 </div>
 </section>
