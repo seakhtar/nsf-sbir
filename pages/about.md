@@ -9,9 +9,9 @@ section_image_caption: |
 <section class="section-header background-light-blue">
 <div class="usa-section usa-content usa-grid">
 <div class="usa-width-one-whole" markdown="1">
-# About America's Seed Fund
+# About America's Seed Fund Powered by NSF
 
-For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.
+For 40 years, America’s Seed Fund powered by NSF has helped startups and small businesses transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country. We are a congressionally mandated program – small business innovation research and small business technology transfer (SBIR/STTR).
 
 </div>
 </div>
