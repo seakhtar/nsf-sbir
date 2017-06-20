@@ -40,7 +40,7 @@ View events
 <div class="usa-width-one-third" markdown="1">
 <h2 class="text-medium">A diverse portfolio</h2>
 
-We offer much more than academic research grants. In fact, we fund startups and small businesses across technology areas and markets including IoT, edtech, smart health, robotics, and much more.
+We fund startups and small businesses across technology areas and markets including IoT, edtech, smart health, robotics, and much more.
 
 <a class="usa-button usa-button-primary button-arrow" href="/portfolio/">
 View our portfolio
