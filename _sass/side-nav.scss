@@ -1,38 +1,36 @@
-aside.usa-layout-docs-sidenav {
 
-  .usa-sidenav-list {
 
-    margin-top: $space-xl;
-    padding-top: $space-l;
+.usa-sidenav-list {
 
-    li {
+  margin-top: $space-xl;
+  padding-top: $space-l;
+
+  li {
+    border: none;
+
+    a {
+      color: $color-base;
+      font-family: $font-serif;
+      font-size: $font-size-xxs;
+      font-weight: 400;
       border: none;
+      padding: 1rem 0;
+      margin: 0;
+      background-color: transparent;
+      border-bottom: 1px dotted $color-gray-light;
 
-      a {
-        color: $color-base;
-        font-family: $font-serif;
-        font-size: $font-size-xxs;
-        font-weight: 400;
-        border: none;
-        padding: 1rem 0;
-        margin: 0;
-        background-color: transparent;
-        border-bottom: 1px dotted $color-gray-light;
+      &:hover {
+        background-color: $color-white-transprent;
+      }
 
-        &:hover {
-          background-color: $color-white-transprent;
-        }
+      &:active,
+      &:focus {
+        box-shadow: none;
+      }
 
-        &:active,
-        &:focus {
-          box-shadow: none;
-        }
-
-        &:visited {
-          background-color: $color-white-transprent;
-          border-bottom: 1px solid $color-base;
-        }
-
+      &:visited {
+        background-color: $color-white-transprent;
+        border-bottom: 1px solid $color-base;
       }
 
     }
