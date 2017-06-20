@@ -82,9 +82,9 @@ Learn about our impact
 
 </div>
 <div class="usa-width-one-half" markdown="1">
-<h2 class="text-large">We value diversity</h2>
+<h2 class="text-large">We embrace diversity</h2>
 
-Great ideas aren’t limited by geography, and we seek to fund companies both inside and outside the major tech hotbeds. We encourage the work of socially and economically disadvantaged people, first-time entrepreneurs, and folks who are traditionally underrepresented in tech.
+We value diversity. Our program fosters and encourages participation in innovation and entrepreneurship by women and people of color as well as first-time entrepreneurs from all 50 states and U.S. territories.
 
 <a class="usa-button usa-button-primary button-arrow" href="#">
 What we look for
