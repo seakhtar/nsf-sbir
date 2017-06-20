@@ -63,10 +63,11 @@
 }
 
 .awardees-bottom-header {
-  border-top: 2px solid $color-gray-light;
-  padding-top: $space-l;
 
   .flex-list {
+    border-top: 2px solid $color-gray-light;
+    padding-top: $space-l;
+
     &.flex-list-3-col {
 
       @media screen and (max-width:799px) {
@@ -117,11 +118,6 @@
   margin-top: $space-m;
 }
 
-.accordion-number-of-awardees {
-  width: $space-xl + $space-m + $space-xs;
-  float: left;
-  font-size: $font-size-l;
-}
 
 .awardees-details-accordion {
 
@@ -166,11 +162,13 @@
      }
     .accordion-number-of-awardees {
       color: $color-primary;
-      padding-right: $space-s;
       display: inline-block;
-      font-weight: $font-bold;
+      float: left;
       font-size: $font-size-m;
-      width: $space-m + $space-xl;
+      font-weight: $font-bold;
+      padding-right: $space-l + $space-s;
+      width: $space-xl + $space-m + $space-xs;
+      text-align: right;
     }
 
     &:last-of-type {
