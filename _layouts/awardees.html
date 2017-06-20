@@ -7,20 +7,25 @@ class: awardees-layout
 <section class="usa-section background-light-neutral">
   <div class="usa-grid awardees-top-header">
     <div class="usa-width-one-whole">
-      <h2 class="text-medium">Current awardees</h2>
-      <p>Current (active) awardees are those who are still in the process of completing the R&amp;D terms of their proposals and who haven't yet submitted their final reports.</p>
+      <h1 class="page-title text-xl">Current awardees:</h1>
       <div class="usa-accordion accordion-dropdown ">
-            <button class="usa-accordion-button text-xxl" aria-expanded="false" aria-controls="awardees-nav">
+            <button class="usa-accordion-button text-xl" aria-expanded="false" aria-controls="awardees-nav">
           {{ page.nav_title }}
           </button>
             <div id="awardees-nav" class="usa-accordion-content">
               <ul class="usa-unstyled-list">
-                <li><a href="{{ site.baseurl }}/awardees/phase-1/">Phase I - all active awardees</a></li>
-                <li><a href="{{ site.baseurl }}/awardees/phase-1-recent/">Phase I - recent DATE awardees</a></li>
-                <li><a href="{{ site.baseurl }}/awardees/phase-2/">Phase II awardees</a></li>
+                <li><a href="{{ site.baseurl }}/awardees/phase-1/">Phase I current awardees</a></li>
+                <li><a href="{{ site.baseurl }}/awardees/phase-1-recent/">Phase I recent DATE awardees</a></li>
+                <li><a href="{{ site.baseurl }}/awardees/phase-2/">Phase II current awardees</a></li>
               </ul>
             </div>
       </div>
+      <div class="usa-content">
+        <p>
+          Current awardees are those who are still conducting research outlined in their proposals and who haven’t yet reached the estimated end dates.
+        </p>
+      </div>
+
     </div>
     <div class="usa-width-one-whole">
       <span class="text-xxxxl font-bold big-number">{{ awards_summary.companies }}</span>
@@ -32,16 +37,20 @@ class: awardees-layout
     <ul class="flex-list flex-list-3-col">
     <li>
       <span class="text-xxl font-bold">{{ awards_summary.funding_per_application | round | intcomma_dollar }}</span>
-      <span class="text-small font-mono">Average $ amount of funding awarded for each company</span>
+      <span class="text-small font-mono">Average amount of funding awarded for each company</span>
     </li>
     <li>
       <span class="text-xxl font-bold">{{ awards_summary.states_count }}</span>
-      <span class="text-small font-mono">From {{ awards_summary.states_total }} states and territories</span>
+      <span class="text-small font-mono">{{ awards_summary.states_total }} Total states and territories</span>
     </li>
     <li>
+      <span class="text-xxl font-bold">000%</span>
+      <span class="text-small font-mono">Lorem ipsum dolor sit amet consecteteur sid adipiscing</span>
+    </li>
+    <!-- <li>
       <span class="text-xxl font-bold">{{ awards_summary.companies_unique_percent }}%</span>
       <span class="text-small font-mono">Total applications received</span>
-    </li>
+    </li> -->
     </ul>
   </div>
 </section>
@@ -65,10 +74,10 @@ class: awardees-layout
         <div id="{{ topic.topic | slugify }}" class="usa-accordion-content">
           <ul class="table monospace">
             <li class="table-row table-header">
-              <div class="table-row-item">Company</div>
-              <div class="table-row-item">Location</div>
-              <div class="table-row-item narrow numeric">Award amount</div>
-              <div class="table-row-item narrow numeric">Award date</div>
+              <div class="table-row-item subhead">Company</div>
+              <div class="table-row-item subhead">Location</div>
+              <div class="table-row-item subhead narrow numeric">Award amount</div>
+              <div class="table-row-item subhead narrow numeric">Award date</div>
             </li>
             {% for matching in matching_awards %}
               <li class="table-row">
@@ -79,8 +88,8 @@ class: awardees-layout
                   </a>
                 </div>
                 <div class="table-row-item" data-header="Location">{{ matching.awardeeStateCode }}</div>
-                <div class="table-row-item narrow numeric" data-header="Amard amount">{{ matching.fundsObligatedAmt | intcomma_dollar }}</div>
-                <div class="table-row-item narrow numeric" data-header="Award date">{{ matching.date }}</div>
+                <div class="table-row-item narrow numeric font-mono text-small" data-header="Award amount">{{ matching.fundsObligatedAmt | intcomma_dollar }}</div>
+                <div class="table-row-item narrow numeric font-mono text-small" data-header="Award date">{{ matching.date }}</div>
               </li>
             {% endfor %}
           </ul>
