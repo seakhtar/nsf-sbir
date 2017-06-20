@@ -1,31 +1,108 @@
 .big-number {
   float: left;
+  margin-right: $space-l;
+  line-height: 1;
 }
 
 .big-number-description {
   float: left;
-  margin-left: $space-l;
-  margin-top: $space-xl;
+
+  @media screen and (min-width: 620px) {
+    margin-top: $space-l;
+  }
+
   span {
     display: block;
   }
 }
 
 .awardees-top-header {
-
   margin-bottom: $space-l;
+
+  .usa-width-one-whole:first-of-type {
+    padding-bottom: $space-l;
+
+    .accordion-dropdown {
+      position: relative;
+    }
+
+  }
+}
+
+#awardees-nav {
+  padding: 0;
+  margin-top: -3rem;
+  position: absolute;
+  width: 100%;
+  z-index: 999;
+
+  .usa-unstyled-list {
+    padding: $space-s+$space-m $space-s;
+    background-color: $color-white;
+
+    li {
+
+      a {
+        font-size: $font-size-xs;
+        padding: $space-xs $space-s;
+        display: block;
+        color: $color-base;
+        border: none;
+
+        &:hover {
+          background-color: $color-secondary-lightest;
+        }
+
+        &:focus {
+          box-shadow: none;
+        }
+
+      }
+    }
+  }
 }
 
 .awardees-bottom-header {
   border-top: 2px solid $color-gray-light;
-  padding-top:  $space-l;
+  padding-top: $space-l;
+
   .flex-list {
+    &.flex-list-3-col {
+
+      @media screen and (max-width:799px) {
+        li {
+          width: 100%;
+          border-bottom: 2px solid $color-gray-light;
+        }
+      }
+
+      @media screen and (min-width: 800px) {
+        li {
+          width: 33%;
+          border-right: 2px solid $color-gray-light;
+          padding: $space-l $space-m 0 0;
+
+          &:not(:first-child) {
+            padding-left: $space-l;
+          }
+
+          &:first-child {
+            flex-grow: 1.5;
+          }
+
+        }
+      }
+
+    }
+
     li {
-      border-right: 2px solid $color-gray-light;
-      padding: $space-l $space-l 0;
 
       &:last-child {
         border: 0;
+      }
+
+      &:nth-child(2) {
+        background: url(../img/map-us.svg) no-repeat;
       }
 
       span {
@@ -35,15 +112,41 @@
   }
 }
 
+.accordion-number-of-awardees-header {
+  width: $space-xl + $space-m + $space-xs;
+  margin-top: $space-m;
+}
+
+.accordion-number-of-awardees {
+  width: $space-xl + $space-m + $space-xs;
+  float: left;
+  font-size: $font-size-l;
+}
+
 .awardees-details-accordion {
+
   .usa-accordion-content {
-    padding-left: $space-s;
-    padding-right: $space-s;
+    padding: $space-l $space-s $space-xl $space-s;
+    background-color: $color-neutral-light;
+
+    .table-row {
+      line-height: $leading-xs;
+
+      .table-row-item {
+        border-bottom: 1px solid $color-gray-light;
+
+        &:first-child {
+          flex-grow: 2.5;
+        }
+
+      }
+    }
   }
   .usa-accordion-button {
-    background-image: url('../uswds/img/arrow-down.svg');
+    background-image: url('../img/arrow-up.svg');
     padding-left: $space-s;
     padding-right: $space-s;
+    font-family: $font-serif;
     font-size: $font-size-xs;
     font-weight: $font-normal;
     background-color: $color-white;
@@ -51,18 +154,35 @@
     &:hover {
       border: 0;
       border-top: 1px solid $color-gray-light;
-      background-color: $color-gray-lighter;
+      background-color: $color-neutral-light;
     }
+    &:focus {
+      box-shadow: none;
+      border-top: 1px solid $color-black;
+      background-color: $color-neutral-light;
+    }
+    &[aria-expanded='false'] {
+      background-image: url('../img/arrow-down.svg');
+     }
     .accordion-number-of-awardees {
       color: $color-primary;
       padding-right: $space-s;
       display: inline-block;
       font-weight: $font-bold;
-      font-size: $font-size-s;
+      font-size: $font-size-m;
+      width: $space-m + $space-xl;
     }
 
     &:last-of-type {
       border-bottom: 1px solid $color-gray-light;
     }
+
+    .accordion-tech-topic {
+      padding-right: $space-s + $space-l;
+      line-height: $leading-s;
+      display: block;
+
+    }
+
   }
 }
