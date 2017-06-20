@@ -4,30 +4,30 @@
  +layout: secondary-narrow
  +---
 
-## Forms for Phase I Management
+## Forms for Phase I awardees
 
 ### [SBIR/STTR Funding Agreement Certification (PDF)](/files/SBIR_STTR_Funding_Agreement.pdf) 
-SBIR/STTR prospective grantees will be notified by NSF to provide this form to determine whether the business is eligible for a Small Business Innovation Research (SBIR) Program award. Certification will be used to ensure continued compliance during the life of the funding agreement.
+Prospective SBIR/STTR awardees need to complete and submit this form so that NSF can determine whether they’re eligible for an award. NSF will use this certification to determine your compliance during the funding term.
 
 ### [Certificate of Current Cost or Pricing Data (Word doc)](/files/Certificate_of_Current_Cost.docx)
-Certification that cost and pricing data are accurate; used to ensure continued compliance during the life of the funding agreement.
+NSF will use this form to certify that your cost and pricing data are accurate and that you’re compliant throughout your funding term.
 
 ### [SBIR/STTR Phase I Report Cover Page (PDF) ](/files/SBIR-STTR_Revised_Report_Cover.pdf)
-All SBIR/STTR Phase I and Phase II awardees must complete this certification at all times set forth in the funding agreement. This includes checking all of the boxes and having an authorized officer of the awardee sign and date the certification each time it is requested.
+Your Phase I funding agreement notes when you need to complete this form, and you’ll be expected to complete it at the times listed in your funding agreement. Completing the form involves checking all of the boxes and having your authorized officer sign and date the certification each time NSF requests it.
 
-## Forms for Phase II Application and Management
+## Forms for Phase II applicants and awardees
 
 ### [Company Commercialization History (XLS)](/files/CommercialHistoryTemplate.xls) 
-Phase II grantees need to submit this form if they have ever received an SBIR or STTR Phase II award from any agency, including NSF.
+If you’ve ever received a SBIR/STTR Phase II award from any agency (including NSF), you’ll need to complete this form.
 
 ### [Blank Milestone Chart (XLSX) ](/files/Blank_Milestone_Chart.xlsx)
-Phase II grantees need to submit this form to show duration and expenditures of their current project.
+You need to submit this form to show the duration and expenditures of your current project.
 
 ### [SBIR/STTR Funding Agreement Certification (PDF)](/files/SBIR_STTR_Funding_Agreement.pdf) 
-SBIR/STTR prospective grantees will be notified by NSF to provide this form to determine whether the business is eligible for a Small Business Innovation Research (SBIR) Program award. Certification will be used to ensure continued compliance during the life of the funding agreement.
+Prospective SBIR/STTR awardees need to complete and submit this form so that the NSF can determine whether they’re eligible for an award. NSF will use this certification to determine your compliance during the funding term.
 
 ### [Certificate of Current Cost or Pricing Data (Word doc)](/files/Certificate_of_Current_Cost.docx) 
-Certification that cost and pricing data are accurate; used to ensure continued compliance during the life of the funding agreement.
+NSF will use this form to certify that your cost and pricing data are accurate and that you’re compliant throughout your funding term.
 
 ### [SBIR/STTR Phase II Report Cover Page (PDF) ](/files/SBIR-STTR_Revised_Report_Cover.pdf)
-All SBIR/STTR Phase I and Phase II awardees must complete this certification at all times set forth in the funding agreement. This includes checking all of the boxes and having an authorized officer of the awardee sign and date the certification each time it is requested.
+Your Phase II funding agreement notes when you need to complete this form, and you’ll be expected to complete it at the times listed in your funding agreement. Completing the form involves checking all of the boxes and having your authorized officer sign and date the certification each time NSF requests it.
