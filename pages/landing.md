@@ -53,7 +53,7 @@ View our portfolio
 <section class="usa-section usa-section-alt-bg usa-content section-goodfit background-bold-blue">
 <div class="usa-grid" markdown="1">
 **America's Seed Fund**<br>
-The National Science Foundation<br>
+National Science Foundation<br>
 SBIR &#124; STTR
 
 <div class="usa-width-two-thirds usa-grid-center usa-content" markdown="1">
