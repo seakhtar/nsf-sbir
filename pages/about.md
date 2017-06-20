@@ -13,6 +13,7 @@ section_image_caption: |
 
 For 40 years, America’s Seed Fund (powered by NSF) has helped startups transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country.
 </div>
+</div>
 </section>
 <section class="usa-section-tight-top background-light-blue">
 <div class="usa-content usa-grid">
