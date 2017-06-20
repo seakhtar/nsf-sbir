@@ -1,79 +1,109 @@
-+---
- +title: Definitions
- +permalink: /grantees/definitions/
- +layout: secondary-narrow
- +---
+---
+title: Definitions
+permalink: /grantees/definitions/
+layout: secondary-narrow
+---
 
 ## Commercialization
-The process of developing markets and producing and delivering products or services for sale (whether by the originating party or by others). As used here, commercialization includes both government and non-government markets.
+The process of developing markets and producing and delivering products or services for sale (whether by the originating party or by others). We use the term to include government and non-government markets.
 
 ## Consultant 
-A person that is not an employee of the small business concern who is cited anywhere in the proposal as contributing to the research, whether paid or unpaid.
+A person who contributes to a company's research (as described in their proposal) and who isn't an employee of that company. Consultants can be paid or unpaid.
 
 ## Development 
-A systematic application of knowledge toward the production of useful materials, devices, and systems or methods, including design, development, and improvement of prototypes and new processes to meet specific requirements.
+Systematically applying knowledge to produce useful materials, devices, and systems or methods. Development may include designing, developing, and improving prototypes and processes to meet specific requirements.
 
-## Cooperative Research and Development 
-Research and development conducted jointly by a small business concern and a research institution under the Small Business Technology Transfer (STTR) Program in which not less than 40 percent of the research, as measured by the budget, is performed by the small business concern, and not less than 30 percent of the research, as measured by the budget, is performed by the research institution.
+## Cooperative research and development 
+In the context of the STTR program, cooperative R&D is that conducted jointly by a small business and a research institution. As measured by the budget, the small business must perform at least 40 percent of the research, and the research institution must perform at least 30 percent.
 
-## Effective Date 
-The effective date of a grant is the date specified in the grant award letter on or after which the proposed work is expected to begin. Do not confuse the **"award date"** (appearing in the upper right hand corner of the letter, indicating when the award is made administratively) with the **"effective date,"** appearing in the body of the letter.
+## Effective date 
+An award's **effective date**, which appears in the body of the award letter, is the date on or after which proposed work is expected to begin. The effective date is different from the **award date**, which indicates when the award was made administratively and which appears in the upper right-hand corner of the award letter.
 
-## Expiration Date 
-The expiration date of the Phase I grant is the last day of the six-month grant performance period. For Phase II awards, the expiration date is last day of the grant support period, which normally is 24 months in duration.
+## Expiration date 
+For Phase I awards, the expiration date is the last day of the six-month performance period. For Phase II awards, the expiration date is the last day of the award support period, which is usually 24 months long.
 
-## Equivalent Proposals 
-One proposal that entails the performance of work that completely overlaps with the work entailed by another proposal.
+## Equivalent proposal 
+An equivalent proposal is one that contains a description of work that completely overlaps (matches) the work described in another proposal.  
 
-## Grant Support/Performance Period 
-For Phase I awards, the grant support/performance period is the six-month period beginning on the effective date and ending six months thereafter. For Phase II awards, the grant support/performance period is the period beginning on the effective date and normally ending 24 months thereafter.
+## Award support/performance period 
+For Phase I awards, the award support/performance period is the six-month period that begins on the award's effective date (it ends exactly six months after the effective date). For Phase II awards, the award support/performance period begins on the award's effective date and usually ends 24 months later. 
 
-## Joint Venture 
-An association of persons or concerns with interests in any degree or proportion by way of contract, express or implied, consorting to engage in and carry out a single specific business venture for joint profit, for which purpose they combine their efforts, property, money, skill, or knowledge, but not on a continuing or permanent basis for conducting business generally. A joint venture is viewed as a business entity in determining power to control its management, has its own Employer Identification Number as assigned by the Internal Revenue Service, and is eligible under the SBIR Program provided that the entity created qualifies as a "SBC" as defined in this section.
+## Joint venture 
+A joint venture is an association of people or business concerns who, either by express or implied contract, are working together to execute a single business venture for joint profit. These people or concerns may combine their efforts, skills, property, money, or knowledge, but only on a temporary basis. 
 
-## Permanent Equipment 
-Equipment is defined as an article of non-expendable, tangible personal property, having a useful life of more than one year and an acquisition cost of $5,000 or more per unit(companies may elect to establish their capitalization threshold at less than $5000).
+A joint venture has the capability to control its own management, has its own Employer Identification Number as assigned by the Internal Revenue Service (IRS), and is eligible under the SBIR Program, provided that it qualifies as a small business concern as defined in this glossary.
 
-## Place of Performance 
-For both Phases I and II, all research must be performed in the United States. "United States" means the 50 states, the territories and possessions of the U.S. Federal Government, the Commonwealth of Puerto Rico, the District of Columbia, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+## Permanent equipment 
+Equipment is defined as a piece of non-expendable, tangible personal property that has a useful life of more than one year and an acquisition cost of $5,000 or more per unit. Individual companies may choose capitalization thresholds of less than $5,000.
 
-## Principal Investigator 
-The Code of Federal Regulations, Title 42, Part 52, defines a Principal Investigator as "the single individual designated by the grantee in a grant application who is responsible for the scientific and technical direction of the project." Any change in PI must be approved by the cognizant Program Officer. NSF does not permit Co-Principal Investigators on SBIR proposals.
+## Place of performance 
+Place of performance is a term that describes where awardees conduct the work outlined in their proposals. Phase I and Phase II awardees must perform all of their research in the United States, which includes:
+
+- The 50 states
+- The territories and possessions of the U.S. federal government
+- The Commonwealth of Puerto Rico
+- The District of Columbia
+- The Republic of the Marshall Islands
+- The Federated States of Micronesia
+- The Republic of Palau
+
+## Principal investigator 
+The Code of Federal Regulations, Title 42, Part 52, defines a Principal Investigator as "the single individual designated by the grantee in a grant application who is responsible for the scientific and technical direction of the project." Many awardees like to think of Principal Investigator (PI) as a project's tech lead. Companies that wish to change their PIs must get approval from the appropriate program officer. Unfortunately, NSF doesn't allow co-PIs on SBIR proposals. 
 
 ## Proposer 
-A proposer for SBIR/STTR purposes is the company, not an individual.
+A proposer is a company or small business seeking SBIR/STTR funding.  
 
-## Overlapping Proposals 
-One proposal that entails the performance of work or portions there of that overlaps with the work entailed by another proposal.
+## Overlapping proposals 
+An overlapping proposal is one that contains a description of work that overlaps (matches) the work described in another proposal.   
 
-## Research Institution 
-A research organization that is (1) a nonprofit university, or (2) a nonprofit research institution as defined in section 4(5) of the Stevenson-WydlerTechnology Innovation Act of 1980, or (3) a contractor-operated federally-funded research and development center (FFRDC), as identified by the National Science Foundation in accordance with the government-wide Federal Acquisition Regulation issued in accordance with section 35(c) (1) of the Office of Federal Procurement Policy Act (or any successor legislation thereto).
+## Research institution 
+Within the context of the SBIR/STTR program, research institutions include:
 
-## Research Institution Investigator 
-The single individual designated by the Research Institution who is responsible for the scientific and technical direction of a Small Business Technology Transfer project.
+- Nonprofit universities
+- Nonprofit research institutions as defined in section 4(5) of the Stevenson-Wydler Technology Innovation Act of 1980
+- Contractor-operated, federally funded research and development centers (FFRDCs), as identified by the National Science Foundation in accordance with the government-wide Federal Acquisition Regulation issued in accordance with section 35(c) (1) of the Office of Federal Procurement Policy Act (or any successor legislation thereto)
 
-## Research or Research and Development (R/R&D) 
-Any activity that is a (1) systematic, intensive study directed toward greater knowledge or understanding of the subject studied, (2) a systematic study directed specifically toward applying new knowledge to meet a recognized need, or (3) a systematic application of knowledge toward the production of useful materials, devices, systems, or methods, including design, development, and improvement of prototypes and new processes to meet specific requirements.
+## Research institution investigator 
+The single person, designated by the research institution, who is responsible for the scientific and technical direction of a Small Business Technology Transfer (STTR) project.
 
-## Small Business Concern (SBC) 
-A business concern that at the time of the Phase I and Phase II awards meets the following criteria:
+## Research or research and development (R/R&D) 
+Any activity that meets one of the following criteria:
 
->Is organized for profit, with a place of business located in the United States or which makes a significant contribution to the United >States economy through payment of taxes or use of American products, materials, or labor; is in the legal form of an individual >proprietorship, partnership, limited liability company, corporation, joint venture, association, trust or cooperative, except that where >the form is a joint venture there can be no more than 49 percent participation by foreign business entities in the joint venture; is at >least 51 percent owned and controlled by one or more individuals who are citizens of, or permanent resident aliens in, the United States; >and has, including its affiliates, not more than 500 employees. 
+- Systematic, intensive study directed toward greater knowledge or understanding of the subject being studied
+- A systematic study directed specifically toward applying new knowledge to meet a recognized need
+- The systematic application of knowledge to produce useful materials, devices, and systems or methods. Development may include designing, developing, and improving prototypes and processes to meet specific requirements.
 
-## Socially and Economically Disadvantaged Small Business 
-A socially and economically disadvantaged small business concern is one that is at least 51 percent owned by one or more socially and economically disadvantaged individuals and whose management and daily business operations are controlled by one or more such individuals. "Control" in this context means exercising the power to make policy decisions. "Operate" in this context means being actively involved in the day-to-day management.
+## Small business concern (SBC) 
+A business concern that, at the time of the Phase I or Phase II award, meets the following criteria:
 
-## Socially and Economically Disadvantaged Individual 
+- It's organized for profit.
+- It's located in the United States or makes a significant contribution to the U.S. economy through payment of taxes or use of American products, materials, or labor.
+- It's in the legal form of an individual proprietorship, partnership, limited liability company, corporation, joint venture, association, trust or cooperative. If the business is a joint venture, it can have no more than 49 percent participation by foreign business entities. 
+- It's at least 51 percent owned and controlled by one or more people who are U.S. citizens or permanent resident aliens.
+- It has no more than 500 employees (including affiliates). 
+
+## Socially and economically disadvantaged small business 
+A socially and economically disadvantaged small business concern is one that is at least 51 percent owned and managed by one or more socially and economically disadvantaged people (who also control and the day-to-day operations). In this context, _control_ means making policy decisions. _Operate_ means being actively involved in day-to-day management. 
+
+## Socially and economically disadvantaged individual 
 A member of any of the following groups: Black Americans, Hispanic Americans, Native Americans, Asian-Pacific Americans, Subcontinent Asian Americans, other groups designated from time to time by the Small Business Administration (SBA) to be socially disadvantaged, and any other individual found to be socially and economically disadvantaged by SBA pursuant to Section 8(a) of the Small Business Act, 15 U.S.C. ; 637(a). For more information on this definition, contact the SBA (http://www.sbaonline.sba.gov).
 
-## Subaward (a.k.a. contract or subcontract) 
-Any agreement, other than one involving an employer-employee relationship, entered into by the small business concern calling for supplies or services required solely for the performance of the original funding agreement.
+## Subaward (contract or subcontract) 
+Any agreement, other than an employer-employee relationships, that a small business concern makes to procure supplies or services needed to complete work outlined in the funding agreement.
 
-## Technical Data 
-Data developed by the grantee during the performance of a Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) grant, such as information relating to an invention, a manufacturing process, or software developed under the grant.
+## Technical data 
+Data developed by the awardee as they're completing the work outlined in their proposal and funded by their award. Technical data could include information relating to an invention, a manufacturing process, or software developed under the award.
 
-## Third-Party Investor 
-A third-party investor may include such entities as another company, a venture capital firm, an individual "angel" investor, federal (non-SBIR), state or local government, or any combinations of the above. It does not include owners of the small business, their family members, and/or "affiliates" of the small business, as defined in Title 13 of the Code of Federal Regulations (C.F.R.), Section 121.103. (Reference: http://law.justia.com/us/cfr/title13/13-1.0.1.1.15.1.231.3.html)
+## Third-party investor 
+A third-party investor may include:
 
-## Women-Owned Small Business 
-A small business concern that is at least 51 percent owned by a woman or women, or in the case of any publicly owned business, at least 51 percent of the your stock is owned by women, who also control and operate it. "Control" in this context means exercising the power to make policy decisions. "Operate" in this context means being actively involved in the day-to-day management.
+- Another company
+- A venture capital firm
+- An individual angel investor
+- Federal (non-SBIR), state, or local government
+- Any combinations of the above.
+
+This definition does not include owners of the small business, their family members, and/or affiliates of the small business, as defined in Title 13 of the Code of Federal Regulations (C.F.R.), Section 121.103. (Reference: http://law.justia.com/us/cfr/title13/13-1.0.1.1.15.1.231.3.html)
+
+## Women-owned small business 
+A small business concern that is at least 51 percent owned by a woman or women. In the case of any publicly owned business, it must have at least 51 percent of its stock owned by women, who also control and operate it. In this context, _control_ means exercising the power to make policy decisions. _Operate_ means being actively involved in the day-to-day management.
