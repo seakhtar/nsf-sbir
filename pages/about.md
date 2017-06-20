@@ -51,19 +51,19 @@ You will get access to a program director, who will serve as your mentor, and a 
 
 <div class="usa-width-two-thirds" markdown="1">
 
-- **Up to $1.5M / 24 months.** Receive up to $225,000 in seed capital to conduct product R&D over six to 12 months. During this period, your company will be immersed in the NSF network and you'll receive training and mentorship in key business areas. A second-round investment of $750,000 over 24 months may be available. NSF may also match 50 cents on every $1 of qualifying revenue or third-party investment, up to another $500,000.
+- **Up to $1.5M / 24+ months.** Receive up to $225,000 in seed capital to conduct product Research and Development (R&D) over six to 12 months. During this period, your company will be immersed in the NSF network and you'll receive training and mentorship in key business areas. A second-round investment of $750,000 over 24 months may be available. NSF may also match 50 cents on every $1 of qualifying revenue or third-party investment, up to another $500,000.
 
 - **0% equity**: You retain full ownership over your company and intellectual property. And because our awards aren’t loans, there’s nothing to pay back.
 
 - **Major social impact**: We don't have the same financial incentives as most investors, so we can make impact investments that may take longer to provide a financial return. Our goal is to invest in a better future for our shareholders: the American public.
 
-- **Minimal standard reporting**: We provide templates for reporting monthly progress and financials. No need to waste time crafting decks and building spreadsheets — we help you focus on building your product instead.
+- **Minimal standard reporting**: We provide templates for reporting monthly progress and financials. No need to waste time crafting decks and building spreadsheets — we help you focus on building your product or service instead.
 
 - **Virtual consults with program advisors**: We promote startups in all locations, not just tech hubs. You don’t need to relocate to gain access to our funding or mentors.
 
-- **Less restricted spending**: You can use your funding on employees’ salaries and wages, fringe benefits, materials and supplies, and other R&D costs (though marketing and business developments costs aren’t covered).
+- **Less restricted spending**: You can use your funding on employees’ salaries and wages, fringe benefits, materials and supplies, and other R&D costs (though marketing and business development costs aren’t covered).
 
-- **Possible follow-on funding**: Companies that complete Phase I may be eligible for more funding. If you’ve shown that your technology is feasible and needs more development, you could receive an additional $750,000 over two years. And, depending on your circumstances, you could be eligible for up to $500,000 in supplemental funding.
+- **Possible follow-on funding**: Companies that complete Phase I may be eligible for more funding. If you’ve shown that your technology is feasible and needs more development, you can apply to receive an additional $750,000 over two years. And, depending on your circumstances, you could be eligible to apply for up to $500,000 in supplemental funding.
 </div>
 </div>
 </section>
@@ -71,7 +71,7 @@ You will get access to a program director, who will serve as your mentor, and a 
 <div class="usa-section usa-content usa-grid" markdown="1">
 ## Program basics
 
-When you decide to apply for funding, you’ll submit a Phase I proposal for up to $225,000, which will cover at least six (and up to 12) months’ work. You’ll find out whether your proposal was accepted or declined within four to six months of the proposal deadline.
+When you decide to apply for funding, you’ll submit a Phase I proposal for up to $225,000, which will cover at least six (and up to 12) months of work. You’ll find out whether your proposal was accepted or declined within four to six months of the proposal deadline.
 
 If you’re awarded Phase I funding, you’ll be expected to:
 
@@ -108,7 +108,7 @@ If your company is majority owned by a venture capital operating company, hedge 
 
 Our seed funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
 
-In selected cases, we support innovations to existing products, but these innovations must dramatically change the products’ commercial outcomes. We don’t fund work that simply improves existing products. Check out our portfolio to get a sense of our founders’ work.
+In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial outcomes. We don’t fund work that simply improves existing products. Check out our portfolio to get a sense of our founders’ work.
 </div>
 </div>
 </section>
