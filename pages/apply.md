@@ -25,9 +25,11 @@ timeline:
   - title: 5-6 months after<br> the deadline
     description: If your proposal is accepted, you'll receive funding of up to $225,000.
 ---
-# How to apply
+<h1 class="page-title">How to apply</h1>
 
-Learn more about our Phase I application timeline, preparing your proposal, and what to expect once you submit.
+<p class="text-medium">
+Learn about our Phase I application timeline, preparing your proposal, and what to expect once you submit.
+</p>
 
 <ol class="timeline {% if site.app_process == "inactive" %} timeline-inactive {% endif %}">
 {% assign step_counter = 1 %}
