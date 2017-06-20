@@ -4,7 +4,7 @@ theme: uswds-jekyll
 url: https://seedfund.nsf.gov
 baseurl: ""
 permalink: pretty
-deadline: June 14th, 2017
+deadline: December 2017
 
 app_process: active
 # app_process: inactive
@@ -43,7 +43,6 @@ defaults:
 
 awards_api:
   active_date_is_now: true
-  active_date: '06/13/2017'
   fundProgramName: phase
   reset: false
   recent_date: '06/01/2016'
@@ -70,44 +69,12 @@ awards_api:
     - piPhone
     - piEmail
 
-portfolio_api:
-  # Figure out dates
-  date_start: '06/01/2013'
-  date_end: '06/01/2016'
-  active_start_date: '11/30/2016'
-  update_to_current_time: false
-  reset: false
-  printFields:
-    - id
-    - awardeeName
-    - date
-    - expDate
-    - fundsObligatedAmt
-    - fundProgramName
-    - poName
-    - title
-    - abstractText
-    - startDate
-    - endDate
-    - awardeeCity
-    - awardeeCountryCode
-    - awardeeStateCode
-    - awardeeZipCode
-    - awardeeAddress
-    - piFirstName
-    - piMiddeInitial
-    - piLastName
-    - piPhone
-    - piEmail
 
 topics_api:
-  # Figure out dates
-  date_start: '06/01/2013'
-  date_end: '06/01/2017'
-  active_start_date: '11/30/2016'
-  update_to_current_time: true
+  active_date_is_now: true
   fundProgramName: phase
   reset: false
+  recent_date: '06/01/2016'
   printFields:
     - id
     - awardeeName

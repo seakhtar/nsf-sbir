@@ -8,7 +8,7 @@ layout: secondary
 <div class="usa-section usa-content usa-grid" markdown="1">
 
 # Portfolio
-<p class="text-medium">Since 1977, we’ve awarded funding for high-risk R&D to more than 11,000 startups and small businesses.</p>
+<p class="text-medium" markdown="1">Since 1977, we’ve awarded funding for high-risk R&D to more than 11,000 startups and small businesses. These featured companies are a small, random selection of all our funded companies. To see all the awards we've made to small businesses, please visit the [NSF Awards Database](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=1501%2C5371%2C1591%2C5373&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=).</p>
 
 <!-- start search -->
 <div class="pad-vtop-10 pad-vbottom-80">
@@ -31,6 +31,14 @@ layout: secondary
 <section class="usa-section usa-content usa-grid usa-section-tight-top" markdown="1">
 <h2 class="subhead text-small">Featured alumni and exits</h2>
 {% include featured-companies.html %}
+</section>
+<section class="usa-section usa-content usa-grid usa-section-tight-top" markdown="1">
+<h2 class="subhead text-small">Active and recent awardees</h2>
+Our Recent Phase I awardees page highlights companies whose proposals were approved during the most recently closed solicitation period (mm/dd). Our Active Awardees pages feature information about Phase I and Phase II awardees who are still in the process of completing the R&D terms of their proposals and who haven't yet submitted their final reports.
+
+- Phase I recent awardees
+- Phase I active awardees
+- Phase II active awardees 
 </section>
 <section class="usa-section usa-content usa-grid usa-section-tight-top">
 <h2 class="text-large">We fund varied tech sectors.</h2>
