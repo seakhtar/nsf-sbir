@@ -56,10 +56,15 @@ $font-size-xl: 5rem;
 $font-size-xxl: 7rem;
 $font-size-xxxl: 12rem;
 
-// line-heights
+// Line-heights
 $leading-m: 1.625;
 $leading-s: 1.5;
 $leading-xs: 1.35;
+$leading-xxs: 1.2;
+
+// Letter-spacing
+$kern-tight: -.015em;
+$kern-loose: .05em;
 
 // Spacing
 $space-xs: 0.5rem;
