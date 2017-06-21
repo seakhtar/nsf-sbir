@@ -36,9 +36,21 @@ footer:
     href: /portfolio/
   - text: Apply for funding
     href: /apply/
-  - text: Resources
-    href: /resources/
+  - text: Events and resources
+    href: /events/
   - text: Press
     href: /press/
   - text: Contact us
     href: /contact/
+
+subfooter:
+  - text: Usa.gov
+    href: https://www.usa.gov/
+  - text: Privacy
+    href: https://www.nsf.gov/policies/privacy.jsp
+  - text: FOIA
+    href: https://www.nsf.gov/policies/foia.jsp
+  - text: About NSF
+    href: https://www.nsf.gov/about/
+  - text: Inspector General
+    href: https://www.nsf.gov/oig/
