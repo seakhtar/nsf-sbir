@@ -1,0 +1,40 @@
+
+
+.usa-sidenav-list {
+
+  margin-top: $space-xl;
+  padding-top: $space-l;
+
+  li {
+    border: none;
+
+    a {
+      color: $color-base;
+      font-family: $font-serif;
+      font-size: $font-size-xxs;
+      font-weight: 400;
+      border: none;
+      padding: 1rem 0;
+      margin: 0;
+      background-color: transparent;
+      border-bottom: 1px dotted $color-gray-light;
+
+      &:hover {
+        background-color: $color-white-transprent;
+      }
+
+      &:active,
+      &:focus {
+        box-shadow: none;
+      }
+
+      &:visited {
+        background-color: $color-white-transprent;
+        border-bottom: 1px solid $color-base;
+      }
+
+    }
+
+  }
+
+}

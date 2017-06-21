@@ -1,0 +1,268 @@
+---
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to solve critical power budget issues in next generation wearable computing applications. Candidate applications require ultra-low power, require massive context-awareness computation, and need to perform in the noisy real world.  A large gap exists between consumer expectation and what can be realized using conventional circuit techniques. Reconfigurable and biologically inspired classifiers use proprietary mixed signal approaches that uniquely close wearable computing's power/performance gap.  Our Phase I deliverables focus on completing a minimum viable product (MVP) that will use gesture recognition to wake up/control behavior of a wearable device with a power budget in the low micro-watt range.  The demonstration would use programmable neural classifier engines acting on sensor stimulus to perform gesture recognition. This important step will allow the further development of the technology portfolio for a broader range of applications.
+
+    The proposed project's central innovation lies in the mixed-signal approach to embedded computing to shatter the energy efficiency barrier of traditional digital systems. The Field Programmable Analog Array (FPAA) approach incorporates neuromorphic circuits which approach 5GMAC/uW processing efficiency for high-level classification tasks. The Long-term vision is to address a broad range of end applications through a family of mixed signal integrated circuits based on a novel and programmable architecture that operates at 2 orders of magnitude less power than a comparable digital implementation; to deliver solutions that are the world's most energy efficient implementation. When classification tasks which formerly required at least 10mW to perform can be accomplished within 100uW, a vast range of applications become possible. The impact will be most profoundly felt in the design of next generation portable devices- in particular complex event tracking functions in wireless sensor motes (enabling the Internet-of-Things (IoT)), next generation devices for wearable computing.
+  awardeeCity: Santa Cruz
+  awardeeName: MAVRIC Semiconductor Inc
+  awardeeStateCode: CA
+  fundsObligatedAmt: '229421'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1647978'
+  poName: Richard Schwerdtfeger
+  date: 12/13/2016
+  expDate: 11/30/2017
+  title: 'SBIR Phase I:  Ultra Power-Efficient Analog and Bio-inspired Integrated
+    Circuits for Wearable Computing'
+  awardee: MAVRIC SEMICONDUCTOR INC
+- abstractText: "This SBIR Phase I project will develop a small set of pioneering
+    applications that teach science in awe-inspiring holographic 3D space. Students
+    will put on their holographic glasses and explore fundamental scientific concepts
+    and phenomena in unparalleled ways. For example, learners will be able to touch
+    elusive subatomic particles in holographic 3D, dissect living cells to observe
+    cellular processes, dive into the incredibly hot core of massive stars to witness
+    the creation of heavy elements during thermonuclear fusion, or explore what happens
+    when two galaxies collide. The project could take science education to the next
+    level because it will trigger the much needed ?Aha!\" moments in science classrooms
+    as learners go to impossible places where no book or teacher could ever take them,
+    and explore concepts and phenomena that are difficult to grasp in any other way.
+    The project is envisioned to contribute significantly to science education nationwide
+    while creating numerous hi-tech jobs and generating tax revenue.  \n\nThis is
+    one the first projects that will develop holographic applications specifically
+    for science education. The final result of the project will be a set of mixed-reality
+    holographic 3D applications that lets students explore and understand scientific
+    concepts and phenomena and help them overcome stubborn misconceptions in science.
+    Intelligent avatars will guide students through thought-provoking scientific explorations
+    and continuously assess their learning. Students can interact with the avatar
+    in natural ways: by manipulating objects in the virtual environment or by clicking
+    buttons and constructing sentences. In teacher-guided mode the avatar can be turned
+    off and the teacher can lead the exploration. Stunning visuals will make the experience
+    unforgettable for learners while educators receive detailed visual reports on
+    each student's progress. The efficacy and the explaining power of the holographic
+    environment will be assessed in rigorous controlled trials. The project is envisioned
+    to generate a significant amount of intellectual property as key components of
+    the system will be protected by patents and all 3D models and storylines will
+    be protected by copyright. This creates significant barriers for any competitor
+    trying to penetrate our market or emulate our technology."
+  awardeeCity: Lincroft
+  awardeeName: Mgenuity Corporation
+  awardeeStateCode: NJ
+  fundsObligatedAmt: '230000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1647384'
+  poName: Glenn H. Larsen
+  date: 12/04/2016
+  expDate: 05/31/2017
+  title: 'SBIR Phase I:  Holographic Explorer for In-Depth Science Learning'
+  awardee: MGENUITY CORPORATION
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase I project is the development of a first-in-class patient
+    education tool. The project aims to develop a method to customize and personalize
+    the delivery of medical content with the goal of influencing medication compliance
+    and health outcomes. Imagine patients are discharged from the hospital and understand
+    their discharge instructions. Imagine patients fill a list of ten medications
+    but understand what they are for and why they need to take them. Imagine patients
+    recently diagnosed with cancer that do not feel embarrassed to ask their doctor
+    questions. Imagine parents caring for sick children or older children caring for
+    elderly parents that feel assured of their ability to get the best care for loved
+    ones. Imagine a reduction in sick days, hospital readmission rates, and morbidity
+    and mortality rates. Imagine an overall improvement in the quality of care and
+    health of the nation all due to the simple ingredients of patient understanding
+    and patient empowerment. \n\nThe proposed project will produce a novel tool to
+    deliver medical content to patients based of an assessment of their limiting beliefs
+    and perceptions. It has long been established that the effectiveness of medical
+    interventions aimed at changing behavior are limited by patient's perceptions
+    and beliefs. The proposed project will result in the development of novel algorithms
+    that use machine-learning (ML) based techniques to determine limiting beliefs.
+    The goal is to customize patient education and medical content to the beliefs,
+    perception, and language of the patients."
+  awardeeCity: Denver
+  awardeeName: Doctor Speak, Inc.
+  awardeeStateCode: CO
+  fundsObligatedAmt: '269906'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1647377'
+  poName: Jesus Soriano Molla
+  date: 11/30/2016
+  expDate: 09/30/2017
+  title: 'SBIR Phase I:  Delivering Medical translations with a Health Belief Model
+    Recommender Engine'
+  awardee: DOCTOR SPEAK, INC. A PUBLIC BENEFIT CORPORATION
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to transform how substance use disorders (SUDs) are diagnosed, monitored and treated by creating an integrated technology platform for health care providers. One important application is the early detection of risky substance use behavior that, if treated in the beginning stages, will reduce the rate of fully developed SUDs. The research and development performed on this Small Business Innovation Research (SBIR) Phase I project will be key to creating a novel bio-sensor based approach to diagnosing, monitoring and treating substance abuse patients.  The collected bio-sensor data can also inform treatment solutions to help address this tremendous problem, which affects millions of people, costs the US economy billions of dollars annually, and incurs a significant human cost in terms of lost lives, broken families, and unfulfilled potential.  There is also strong demand for a robust solution in places where substance use detection and monitoring is mandated for safety reasons, including the court system and the military services, as well as occupations like air traffic controllers, pilots, train operators, truck drivers, bus drivers, and operators of heavy machinery.
+
+    The proposed project will focus on integrating biosensors with smartphone technology to detect, collect, transmit, store, and analyze relevant biodata and to push resulting behavior change instructions to the user. By establishing a connection between the sensors and a smartphone application we will report substance abuse treatment outcome data much more accurately than is currently possible via self-reporting.  This system will address engineering, manufacturing, and calibration challenges of a highly accurate diagnostic tool. This technology bypasses the limitations of existing methods with a dramatically different approach. The technology aims to greatly simplify the process of SUD diagnosis and treatment by empowering health care providers to implement accurate data collection, early detection, and custom-tailored intervention within the context of any routine office visit.  The proposed project will address the development of a substance use measuring biosensor and assess the sensor lifetime, stability, reproducibility, and sensitivity.  It is intended to develop a biosensor that patients can wear for a period of time, that we can establish a meaningful connection between the sensor and the mobile application to replace self-reporting, and that concept support can be gained from broader representation of primary care physicians and major insurance companies
+  awardeeCity: San Diego
+  awardeeName: Mentor on the Go LLC
+  awardeeStateCode: CA
+  fundsObligatedAmt: '269999'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1621825'
+  poName: Jesus Soriano Molla
+  date: 06/27/2016
+  expDate: 09/30/2017
+  title: 'SBIR Phase I:  Modernizing the diagnosis, monitoring, and treating of substance
+    use disorders via an integrated technology platform'
+  awardee: MENTOR ON THE GO, LLC
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to transform how substance use disorders (SUDs) are diagnosed, monitored and treated by creating an integrated technology platform for health care providers. One important application is the early detection of risky substance use behavior that, if treated in the beginning stages, will reduce the rate of fully developed SUDs. The research and development performed on this Small Business Innovation Research (SBIR) Phase I project will be key to creating a novel bio-sensor based approach to diagnosing, monitoring and treating substance abuse patients.  The collected bio-sensor data can also inform treatment solutions to help address this tremendous problem, which affects millions of people, costs the US economy billions of dollars annually, and incurs a significant human cost in terms of lost lives, broken families, and unfulfilled potential.  There is also strong demand for a robust solution in places where substance use detection and monitoring is mandated for safety reasons, including the court system and the military services, as well as occupations like air traffic controllers, pilots, train operators, truck drivers, bus drivers, and operators of heavy machinery.
+
+    The proposed project will focus on integrating biosensors with smartphone technology to detect, collect, transmit, store, and analyze relevant biodata and to push resulting behavior change instructions to the user. By establishing a connection between the sensors and a smartphone application we will report substance abuse treatment outcome data much more accurately than is currently possible via self-reporting.  This system will address engineering, manufacturing, and calibration challenges of a highly accurate diagnostic tool. This technology bypasses the limitations of existing methods with a dramatically different approach. The technology aims to greatly simplify the process of SUD diagnosis and treatment by empowering health care providers to implement accurate data collection, early detection, and custom-tailored intervention within the context of any routine office visit.  The proposed project will address the development of a substance use measuring biosensor and assess the sensor lifetime, stability, reproducibility, and sensitivity.  It is intended to develop a biosensor that patients can wear for a period of time, that we can establish a meaningful connection between the sensor and the mobile application to replace self-reporting, and that concept support can be gained from broader representation of primary care physicians and major insurance companies
+  awardeeCity: San Diego
+  awardeeName: Mentor on the Go LLC
+  awardeeStateCode: CA
+  fundsObligatedAmt: '269999'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1621825'
+  poName: Jesus Soriano Molla
+  date: 06/27/2016
+  expDate: 09/30/2017
+  title: 'SBIR Phase I:  Modernizing the diagnosis, monitoring, and treating of substance
+    use disorders via an integrated technology platform'
+  awardee: MENTOR ON THE GO, LLC
+- abstractText: "The broader impact/commercial potential of this Small Business Innovations
+    Research (SBIR) Phase I project is the potential to overcome some of the current
+    lack of similar devices for screening and monitoring of PAD and will allow greater
+    access at lower cost for current and future patients suffering from PAD. Today,
+    hospitalization costs for diagnosis and treatment of PAD patients exceed $10,000
+    per patient for 8 to 10 million Americans suffering from lower-extremity PAD.
+    The current options for PAD diagnosis are too expensive and impractical to monitor
+    or diagnose the condition in its early stages before it is too late to initiate
+    therapy to reverse or slow progress. Regular screening as well as monitoring of
+    PAD after an initial diagnosis by medical professionals has the potential to significantly
+    reduce the current cost of managing PAD patients, including prevention of many
+    of the 150,000 ischemic amputations performed annually in the US through early
+    intervention. \n\nThe proposed project addresses the need for a more practical,
+    accessible, user-friendly, and inexpensive technique, for monitoring PAD. The
+    proposed our transdermal gasotransmitter sensor employs an innovative, patented
+    gas-phase detector to non-invasively provide real-time measure of the target molecule.
+    It is anticipated that this approach would provide accurate, cost-effective monitoring
+    of onset and severity through monitoring plasma H2S levels, which could also enable
+    subsequent therapeutic measures in real-time. During this Phase I study, a prototype
+    of a TGS module will be developed and its performance will be demonstrated. Prior
+    data and results will be utilized to design and develop a breadboard prototype
+    for remote gasotransmitter monitoring. Key technical challenges of developing
+    a disposable sensor will be addressed, including size, cost, and ease of use.
+    Feasibility will be tested under simulated laboratory conditions with membranes
+    and animal skin. Furthermore, the breadboard prototype will be implemented in
+    ongoing studies on healthy and diabetic rats. Building on Phase I findings, more
+    advanced prototype development and further testing is planned for Phase II efforts."
+  awardeeCity: Rio Rancho
+  awardeeName: Exhalix, LLC
+  awardeeStateCode: NM
+  fundsObligatedAmt: '269999'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1620855'
+  poName: Jesus Soriano Molla
+  date: 06/24/2016
+  expDate: 10/31/2017
+  title: 'SBIR Phase I:  Noninvasive Sensor for Remote Monitoring of Peripheral Artery
+    Disease'
+  awardee: EXHALIX, LLC
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is the development of a tool to accelerate the discovery of new autoantibody biomarkers for the early detection and personalized treatment of human diseases.  Autoantibody biomarkers are broadly used to diagnose a variety of conditions, such as autoimmune disorders, infectious diseases and cancers. However, the limited reproducibility, cost and sensitivity of current autoantibody profiling methods frustrate the discovery of new biomarkers to improve management of these diseases. A cost-effective autoantibody profiling platform that is highly sensitive and robust could reveal changes in the autoantibody repertoire that might have been missed by current methods. Such a tool would serve as an invaluable pipeline for the discovery of new biomarkers, augmenting the ability to detect, treat and understand numerous diseases. In the $7.4 Billion/yr biomarker discovery array market, the proposed tool, sold as a service or as micro-arrays kits for client use, meets must-have needs of several customers, including biopharmaceutical companies seeking for new disease targets, improving clinical trials and academic groups pursuing better understanding of human biology.
+
+    This SBIR Phase I project proposes to develop a highly multiplexed and sensitive autoantibody biomarker profiling tool to expedite biomarker discovery. The proposed approach uses agglutination-PCR, a novel technique developed at UC Berkeley and Stanford.  Agglutination-PCR detects autoantibodies in the solution-phase to ensure proper folding of antigen probes while leveraging the sensitivity and multiplex power of standard qPCR instruments. This project employs an innovative synthetic strategy to prepare and optimize a large panel of probes at low cost. While a traditional synthetic route would take up to 3 months, the proposed strategy could reduce the time down to one week. In addition, the probe library for autoantibody detection will be validated using banked serum/plasma from healthy patients or patients with systemic lupus erythematosus (SLE). This experiment will serve as a powerful proof-of-principle, as SLE displays many distinct autoantibodies that are challenging to detect with other methods. The analytical sensitivity and reproducibility of the proposed product will be compared to standard protein microarrays. The platform will be tested to ensure reproducibility and ease-of-use. The probe library and protocols will function as a minimum viable product and the prototype for applications in other diseases.
+  awardeeCity: Menlo Park
+  awardeeName: Enable Biosciences Inc
+  awardeeStateCode: CA
+  fundsObligatedAmt: '269772'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1622257'
+  poName: Ruth M. Shuman
+  date: 06/22/2016
+  expDate: 06/30/2017
+  title: 'SBIR Phase I:  Development of an ultrasensitive, high-throughput autoantibody
+    discovery platform using agglutination-PCR'
+  awardee: ENABLE BIOSCIENCES INC
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is the development of a tool to accelerate the discovery of new autoantibody biomarkers for the early detection and personalized treatment of human diseases.  Autoantibody biomarkers are broadly used to diagnose a variety of conditions, such as autoimmune disorders, infectious diseases and cancers. However, the limited reproducibility, cost and sensitivity of current autoantibody profiling methods frustrate the discovery of new biomarkers to improve management of these diseases. A cost-effective autoantibody profiling platform that is highly sensitive and robust could reveal changes in the autoantibody repertoire that might have been missed by current methods. Such a tool would serve as an invaluable pipeline for the discovery of new biomarkers, augmenting the ability to detect, treat and understand numerous diseases. In the $7.4 Billion/yr biomarker discovery array market, the proposed tool, sold as a service or as micro-arrays kits for client use, meets must-have needs of several customers, including biopharmaceutical companies seeking for new disease targets, improving clinical trials and academic groups pursuing better understanding of human biology.
+
+    This SBIR Phase I project proposes to develop a highly multiplexed and sensitive autoantibody biomarker profiling tool to expedite biomarker discovery. The proposed approach uses agglutination-PCR, a novel technique developed at UC Berkeley and Stanford.  Agglutination-PCR detects autoantibodies in the solution-phase to ensure proper folding of antigen probes while leveraging the sensitivity and multiplex power of standard qPCR instruments. This project employs an innovative synthetic strategy to prepare and optimize a large panel of probes at low cost. While a traditional synthetic route would take up to 3 months, the proposed strategy could reduce the time down to one week. In addition, the probe library for autoantibody detection will be validated using banked serum/plasma from healthy patients or patients with systemic lupus erythematosus (SLE). This experiment will serve as a powerful proof-of-principle, as SLE displays many distinct autoantibodies that are challenging to detect with other methods. The analytical sensitivity and reproducibility of the proposed product will be compared to standard protein microarrays. The platform will be tested to ensure reproducibility and ease-of-use. The probe library and protocols will function as a minimum viable product and the prototype for applications in other diseases.
+  awardeeCity: Menlo Park
+  awardeeName: Enable Biosciences Inc
+  awardeeStateCode: CA
+  fundsObligatedAmt: '269772'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1622257'
+  poName: Ruth M. Shuman
+  date: 06/22/2016
+  expDate: 06/30/2017
+  title: 'SBIR Phase I:  Development of an ultrasensitive, high-throughput autoantibody
+    discovery platform using agglutination-PCR'
+  awardee: ENABLE BIOSCIENCES INC
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research Phase I project will be a reduction in human exposure to harmful chemicals, reduced greenhouse gas emissions, and reduced volumes of solid waste for biodegradable foam plastic products. This project describes a project to develop biodegradable plastic cups and other products using a sandwich process that includes a foam core. The strength provided by the sandwich structure is designed to allow weight reduction which reduces the environmental impact. Grow Plastics? technology replaces petroleum-based polymers with reduced amounts of plant-based polymers.  The plant-based polymers used in Grow Plastic's process contain no harmful chemicals to leach into humans and the environment and generate as little as 1/3 the CO2 emissions per pound used.  Grow Plastic's technology enables the replacement of petroleum based plastics with as little as 1/3 the plant-based plastic, reducing solid waste by up to 67% by weight, and CO2 emissions from raw materials by as much as 90%.
+
+    The technical objectives in this Phase I research project are to increase the service temperature of foam plastic products to at least 95 Celsius, while maintaining polymer densities below 0.1 grams/cubic centimeter.  In polymer products, the weight of plastic used is a key driver in product cost.  This Phase I research project, a partnership between Grow Plastics and Western Washington University, will use polymer blending, solid state foaming and polymer crystallization in order to generate samples for evaluation.  Samples will be evaluated in terms of thermal performance through dynamic mechanical analysis, differential scanning calorimetry, scanning electron microscopy, and evaluation of product rigidity for final products.  The research project will seek to develop extremely lightweight products with service temperatures of at least 95 Celsius.
+  awardeeCity: Seattle
+  awardeeName: Grow Plastics LLC
+  awardeeStateCode: WA
+  fundsObligatedAmt: '230000'
+  fundProgramName: STTR PHASE I
+  id: '1622909'
+  poName: Prakash Balan
+  date: 06/20/2016
+  expDate: 06/30/2017
+  title: 'STTR Phase I:  High performance biodegradable sandwich core structures'
+  awardee: GROW PLASTICS LLC
+- abstractText: "The broader impact/commercial potential of this Small Business Technology
+    Transfer (STTR) project will be to commercialize novel sugar polymers known as
+    glycosaminoglycan (GAGs) for a variety of important medical applications. GAGs
+    are key components in a number of important physiologic and pathophysiologic conditions
+    (e.g., tumor angiogenesis, thrombosis); however, developing a detailed understanding
+    of these roles, which may significantly impact human health, is challenging due
+    to a lack of analytical techniques for glycan analysis and the absence of high
+    quality GAG samples available for research. GAGs have precise functional roles
+    in cell signaling cascades, which can vary depending on the particular GAG structural
+    composition. Particular GAG compositions vary among different tissue types as
+    well as among different developmental and physiological states. Hence, to achieve
+    the proper functional characteristics and obtain reproducible experimental results,
+    it is critical that GAG samples are available with consistent and defined compositions.
+    Unfortunately, most commercially available GAG samples are from animal sources
+    with high inherent variability and are not well characterized. The potential for
+    contamination or adventitious agents makes the animal-derived GAG samples even
+    less desirable for human therapeutics. \n\nThis STTR Phase I project proposes
+    to develop genetically engineered Chinese Hamster Ovary (CHO) cells producing
+    GAGs with defined compositions. Culture conditions will be optimized to maintain
+    GAG composition while providing product yields at a level sufficient for commercialization.
+    A series of engineered cell lines will be produced in order to prepare GAGs with
+    different compositions that model the different compositions and different functional
+    characteristics found in nature. GAG samples will be characterized both structurally
+    and functionally to provide profiles for each type of sample, which will be reliable
+    and reproducible since the GAGs are prepared from cells grown under controlled
+    conditions. These samples will be a valuable resource for researchers in a number
+    of biological and medical fields. It is thought that the high quality will command
+    premium prices. However, to help reduce costs and promote commercialization, this
+    proposal will test growth conditions in bioreactors to increase the capacity and
+    efficiency of production.  Research using these high quality GAG samples will
+    provide proof-of-principal for the use these GAGs in a variety of important therapeutic
+    applications such as oncology, lipid metabolism, tissue regeneration, and hematology."
+  awardeeCity: La Jolla
+  awardeeName: TEGA Therapeutics, Inc.
+  awardeeStateCode: CA
+  fundsObligatedAmt: '269999'
+  fundProgramName: STTR PHASE I
+  id: '1622959'
+  poName: Ruth M. Shuman
+  date: 06/20/2016
+  expDate: 06/30/2017
+  title: 'STTR Phase I:  Biomanufacture of Novel Heparan Sulfate Glycosaminoglycans'
+  awardee: TEGA THERAPEUTICS INC
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research Phase I project will be a reduction in human exposure to harmful chemicals, reduced greenhouse gas emissions, and reduced volumes of solid waste for biodegradable foam plastic products. This project describes a project to develop biodegradable plastic cups and other products using a sandwich process that includes a foam core. The strength provided by the sandwich structure is designed to allow weight reduction which reduces the environmental impact. Grow Plastics? technology replaces petroleum-based polymers with reduced amounts of plant-based polymers.  The plant-based polymers used in Grow Plastic's process contain no harmful chemicals to leach into humans and the environment and generate as little as 1/3 the CO2 emissions per pound used.  Grow Plastic's technology enables the replacement of petroleum based plastics with as little as 1/3 the plant-based plastic, reducing solid waste by up to 67% by weight, and CO2 emissions from raw materials by as much as 90%.
+
+    The technical objectives in this Phase I research project are to increase the service temperature of foam plastic products to at least 95 Celsius, while maintaining polymer densities below 0.1 grams/cubic centimeter.  In polymer products, the weight of plastic used is a key driver in product cost.  This Phase I research project, a partnership between Grow Plastics and Western Washington University, will use polymer blending, solid state foaming and polymer crystallization in order to generate samples for evaluation.  Samples will be evaluated in terms of thermal performance through dynamic mechanical analysis, differential scanning calorimetry, scanning electron microscopy, and evaluation of product rigidity for final products.  The research project will seek to develop extremely lightweight products with service temperatures of at least 95 Celsius.
+  awardeeCity: Seattle
+  awardeeName: Grow Plastics LLC
+  awardeeStateCode: WA
+  fundsObligatedAmt: '230000'
+  fundProgramName: STTR PHASE I
+  id: '1622909'
+  poName: Prakash Balan
+  date: 06/20/2016
+  expDate: 06/30/2017
+  title: 'STTR Phase I:  High performance biodegradable sandwich core structures'
+  awardee: GROW PLASTICS LLC
+---
+

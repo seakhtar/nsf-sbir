@@ -1,9 +1,13 @@
 title: NSF SBIR
 theme: uswds-jekyll
 
+url: https://seedfund.nsf.gov
 baseurl: ""
 permalink: pretty
-deadline: June 14th, 2017
+deadline: December 2017
+
+app_process: active
+# app_process: inactive
 
 styles:
   - /assets/css/styles.css
@@ -22,9 +26,78 @@ collections:
     output: false
   timeline:
     output: false
+  styleguide:
+    output: true
+    permalink: /styleguide/:path/
 
 defaults:
   - scope:
       path: "_apply"
     values:
-      layout: docs
+      layout: secondary-narrow
+  - scope:
+      path: "_styleguide"
+    values:
+      layout: styleguide
+      include_subnav: true
+
+awards_api:
+  active_date_is_now: true
+  fundProgramName: phase
+  reset: false
+  recent_date: '06/01/2016'
+  printFields:
+    - id
+    - awardeeName
+    - date
+    - expDate
+    - fundsObligatedAmt
+    - fundProgramName
+    - poName
+    - title
+    - abstractText
+    - startDate
+    - endDate
+    - awardeeCity
+    - awardeeCountryCode
+    - awardeeStateCode
+    - awardeeZipCode
+    - awardeeAddress
+    - piFirstName
+    - piMiddeInitial
+    - piLastName
+    - piPhone
+    - piEmail
+
+
+topics_api:
+  active_date_is_now: true
+  fundProgramName: phase
+  reset: false
+  recent_date: '06/01/2016'
+  printFields:
+    - id
+    - awardeeName
+    - date
+    - expDate
+    - fundsObligatedAmt
+    - fundProgramName
+    - poName
+    - title
+    - abstractText
+    - startDate
+    - endDate
+    - awardeeCity
+    - awardeeCountryCode
+    - awardeeStateCode
+    - awardeeZipCode
+    - awardeeAddress
+    - piFirstName
+    - piMiddeInitial
+    - piLastName
+    - piPhone
+    - piEmail
+
+exclude:
+- _data/portfolio.yml
+- data/portfolio.yml

@@ -1,0 +1,55 @@
+<section class="usa-section">
+  <h2 class="subhead text-small">Technology Topic Areas</h2>
+
+  <ul class="flex-list list-tech-topics">
+    {% for topic in site.data.tech-topics %}
+      <li class="button-arrow-after button-arrow-down">
+        <a href="#{{ topic.topic | slugify }}">{{ topic.topic }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+{% for topic in site.data.tech-topics %}
+  <section id="{{ topic.topic | slugify }}" class="usa-section section-tech-topic">
+    <h2 class="text-medium header-top-bar tech-topic-title">{{ topic.topic }}</h2>
+    <div class="usa-width-one-fourth">
+      <h3 class="subhead">Program director</h3>
+      {% for programDirector in topic.programDirector %}
+        <p class="button-arrow">
+          <a href="mailto:{{ programDirector.email }}">
+            {{ programDirector.name }}
+          </a>
+        </p>
+      {% endfor %}
+    </div>
+    <div class="usa-width-three-fourths">
+      {% if topic.companies %}
+        <h3 class="subhead">Featured companies</h3>
+        <ul class="flex-list flex-list-3-col featured-companies">
+          {% for company in topic.companies %}
+            {% for topic in site.data.topics %}
+              {% if topic['awardeeName'] == company %}
+                <li>
+                  {% assign company_slug = company | slugify %}
+                  <a href="{{ site.baseurl }}/portfolio/details/?company={{ company_slug }}#{{ company_slug }}">{{ company }}</a>
+                </li>
+                {% break %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+      <div class="tech-subtopics">
+        <h4 class="tech-subtopics-header"><a href="{{ topic.permalink | relative_url }}">{{ topic.topic }}:</a></h4>
+        <ul>
+          {% for subtopic in topic.subtopics %}
+            <li>
+              {{ subtopic }}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </section>
+{% endfor %}

@@ -23,6 +23,8 @@ GEM
       ffi (>= 1.3.0)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
+    hash-joiner (0.0.7)
+      safe_yaml
     html-proofer (3.5.0)
       activesupport (>= 4.2, < 6.0)
       addressable (~> 2.3)
@@ -44,10 +46,13 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-redirect-from (0.12.1)
+      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
+    json (2.0.3)
     kramdown (1.13.2)
     liquid (3.0.6)
     listen (3.0.8)
@@ -86,7 +91,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  hash-joiner
   html-proofer
+  jekyll
+  jekyll-redirect-from
+  json
   pry
   rb-readline
   uswds-jekyll!

@@ -12,35 +12,33 @@
 primary:
   - text: About
     href: /about/
-  - text: Apply
-    links:
-      - text: Application timeline
-        href: /how-to-apply/timeline
-      - text: How to apply
-        href: /how-to-apply/
-      - text: Merit review
-        href: /how-to-apply/merit-review
-  - text: Events
-    href: /events/
-  - text: Contact
-    href: /contact/
+  - text: Portfolio
+    href: /portfolio/
+  - text: Apply for funding
+    href: /apply/
 
-secondary: []
+fastlane:
+  - text: Fastlane Overview
+    href: /fastlane/fastlane-1/
+  - text: Form Preparation
+    href: /fastlane/fastlane-2/
+  - text: Form Preparation part 2
+    href: /fastlane/fastlane-2-2/
+  - text: Form Preparation part 3
+    href: /fastlane/fastlane-2-3/
+  - text: Proposal Submission
+    href: /fastlane/fastlane-3/
 
 footer:
-  - text: Contact
+  - text: About
+    href: /about/
+  - text: Portfolio
+    href: /portfolio/
+  - text: Apply for funding
+    href: /apply/
+  - text: Resources
+    href: /resources/
+  - text: Press
+    href: /press/
+  - text: Contact us
     href: /contact/
-  - text: Check application status
-    href: /one/
-  - text: Events
-    href: /events/
-
-docs:
-  - text: Documentation
-    href: /docs/
-  - text: Installation
-    href: /docs/install/
-  - text: Upgrading
-    href: /docs/upgrade/
-  - text: Help
-    href: /docs/help/

@@ -1,0 +1,108 @@
+.usa-nav-primary {
+  clear: both;
+
+  .usa-accordion-button {
+    color: $color-base;
+    font-family: $font-mono;
+    font-size: $font-size-xxs;
+    font-weight: 400;
+
+    &:hover {
+      color: $color-base;
+      background-color: $color-secondary;
+
+      span {
+        border: 0;
+    }
+    }
+  }
+
+  button[aria-expanded=true],
+  button[aria-expanded=true]:hover {
+    background-color: $color-secondary;
+    background-image: url('../uswds/img/angle-arrow-down.svg');
+    color: $color-base;
+    z-index: 1000;
+    position: relative;
+
+    span {
+      border: 0;
+    }
+  }
+}
+
+.usa-nav-container {
+  button,
+  a {
+    &:focus,
+    &:active {
+      box-shadow: none;
+    }
+  }
+}
+
+
+.usa-nav,
+.usa-nav-submenu  {
+  margin-top: 0;
+  padding: 0;
+
+  li {
+    a {
+      color: $color-base;
+      font-family: $font-mono;
+      font-size: $font-size-xxxs;
+      font-weight: 400;
+      text-transform: uppercase;
+      letter-spacing: $kern-loose;
+      text-rendering: optimizeLegibility;
+
+      &:hover {
+        color: $color-base;
+        background-color: $color-secondary;
+        border: 0;
+
+        span {
+          border: 0;
+      }
+    }
+  }
+}
+}
+
+@include media($nav-width) {
+  .usa-nav {
+    background-color: $color-white-transprent;
+    margin-top: 3.8rem;
+    padding: 0;
+  }
+
+  .usa-nav-submenu {
+    background-color: $color-white-transprent;
+    padding: .5rem 0;
+
+    a:hover {
+      color: $color-base;
+    }
+  }
+}
+
+@include media($large-screen) {
+  .usa-nav {
+    li {
+      margin: 0;
+    }
+  }
+}
+
+.usa-navbar {
+  border-bottom: 0;
+  height: auto;
+}
+
+@include media($nav-width) {
+  .usa-navbar {
+    border-bottom: none;
+    height: 10.3rem;
+  }
+}

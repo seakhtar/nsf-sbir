@@ -1,0 +1,123 @@
+
+.tech-subtopics {
+  padding-bottom: $space-xl;
+  display: block;
+  .tech-subtopics-header {
+    display: inline;
+    font-size: $font-size-xxs;
+  }
+  ul {
+    display: inline;
+    list-style: none;
+    padding-left: 0;
+}
+li:last-child {
+  &::after {
+    width: 0;
+  }
+}
+  li {
+    display: inline;
+    font-size: $font-size-xxs;
+
+    &::after {
+      background-color: $color-gray-light;
+      content: '';
+      display: inline-block;
+      height: 1px;
+      margin-bottom: 3px;
+      width: $space-m;
+    }
+  }
+}
+
+.featured-companies {
+  li {
+    padding: 0 $space-m 0 0;
+  }
+
+  a {
+    border-bottom: 0;
+    border-top: 1px dotted $color-primary-darkest;
+    color: $color-primary-darkest;
+    display: block;
+    font-size: $font-size-xxs;
+    font-weight: 700;
+    min-height: 4rem;
+    padding-top: $space-xs;
+
+    &:hover {
+      border-top-style: solid;
+    }
+  }
+
+}
+
+.list-tech-topics {
+  padding-top: $space-s;
+  li {
+    padding: 0 $space-m 0 0;
+    margin-bottom: 5px;
+    a {
+      border-bottom: 1px dotted transparent;
+      color: $color-base;
+      display: inline-block;
+      font-size: $font-size-xxs;
+      width: calc(90% - $space-m);
+      &:hover {
+        border-color: $color-base;
+      }
+    }
+  }
+}
+
+h3.subhead {
+  margin-bottom: $space-m;
+}
+
+.section-tech-topic {
+  clear: both;
+ .tech-topic-title {
+   margin-bottom: $space-xl;
+ }
+}
+
+h2.text-medium.tech-topic-title {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.section-tech-topic .usa-width-one-fourth {
+  margin-bottom: $space-xl;
+}
+
+#search label {
+  display: block;
+  font-family: $font-serif;
+  font-size: $font-size-xxxs;
+  font-weight: 600;
+  line-height: 1.625;
+  padding: 0;
+  margin: 0;
+}
+#search input.form-control {
+  border: none;
+  border-bottom: 2px solid $color-primary-alt-dark;
+  background-color: $color-neutral-light;
+  color: $color-base;
+  font-family: $font-serif;
+  font-size: $font-size-xs;
+  line-height: 1.625;
+  margin-left: -32px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 32px;
+  width: 300px;
+}
+#search .btn.btn-default {
+  @include search-icon;
+  background-color: $color-neutral-light;
+  border: none;
+  color: $color-primary-alt-dark;
+  line-height: 1.625;
+}

@@ -1,0 +1,79 @@
+
+// Color USWDS Overrides
+$color-primary: #0071BC;
+$color-primary-darkest: #112E51;
+$color-primary-darker: #205493;
+
+$color-gray-dark: #323A45;
+$color-gray-light: #AEB0B5;
+
+$color-primary-alt: #02BFE7;
+$color-primary-alt-darkest: #046B99;
+$color-primary-alt-dark: #00A6D2;
+$color-primary-alt-light: #9BDAF1;
+$color-primary-alt-lightest: #E1F3F8;
+
+$color-secondary: #fff039;
+$color-secondary-darkest: #F1E235;
+$color-secondary-dark: #FFE61A;
+$color-secondary-light: #FFF79C;
+$color-secondary-lightest: #FFFAC3;
+
+$color-gray-lightest: #F7F7F7;
+$color-blue-light: #E0F3F8;
+$color-neutral-light: #F5FBFC;
+
+// Mobile first breakpoints
+$large-screen:  960px !default;
+$site-max-width: 960px !default;
+
+// Unique colors
+$color-tertiary: #E31C3D;
+$color-tertiary-darkest: #981B1E;
+$color-tertiary-dark: #CD2026;
+$color-tertiary-light: #E59393;
+$color-tertiary-lightest: #F9DEDE;
+$color-white-transprent: rgba(255,255,255,.9);
+
+// Backgrounds
+$color-bg-light: #F5FBFC;
+
+$bg-color: #F7F7F7;
+$hero-bg-color: #AAAAAA;
+// End Unique colors
+
+// Typography
+$font-serif: 'Work Sans', 'Helvetica Neue', 'Helvetica', Arial, sans-serif;;
+$font-mono: 'Chivo', monospace;
+$font-sans: 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', Arial, sans-serif;
+$font-size-xxxs: 1.1rem;
+$font-size-xxs: 1.2rem;
+$font-size-xs: 1.4rem;
+$font-size-s: 1.8rem;
+$font-size-m: 2.4rem;
+$font-size-l: 3.6rem;
+$font-size-xl: 5rem;
+$font-size-xxl: 7rem;
+$font-size-xxxl: 12rem;
+
+// Line-heights
+$leading-m: 1.625;
+$leading-s: 1.5;
+$leading-xs: 1.35;
+$leading-xxs: 1.2;
+
+// Letter-spacing
+$kern-tight: -.015em;
+$kern-loose: .0625em;
+
+// Spacing
+$space-xs: .5rem;
+$space-s: 1rem;
+$space-m: 1.5rem;
+$space-l: 3rem;
+$space-xl: 6rem;
+
+// Setup of USWDS
+$font-path: '../uswds/fonts';
+$image-path: '../uswds/img';
+@import 'uswds/all';
