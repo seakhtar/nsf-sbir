@@ -32,7 +32,17 @@
     margin: 0;
     width: 100%;
 
-    &:nth-of-type(even) { background-color: $table-bg-color; }
+    &:nth-of-type(even) { background-color: $table-bg-color;
+      border-bottom: 1px solid $color-gray-light;
+        border-top: 1px solid $color-gray-light;
+     }
+
+  @include media($medium-screen) {
+    &:nth-of-type(even) {
+      background-color: $table-bg-color;
+      border: 0;
+     }
+  }
 
     @include media($medium-screen) {
       display: flex;
@@ -54,6 +64,8 @@
         font-weight: $font-bold;
         text-transform: uppercase;
         width: 30%;
+        font-family: $font-mono;
+        font-size: $font-size-xxs;
       }
 
       @include media($medium-screen) {
