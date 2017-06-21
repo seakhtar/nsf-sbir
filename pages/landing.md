@@ -14,7 +14,6 @@ hero:
     subtext: "Deadline: {{site.deadline}}"
 ---
 
-
 <section class="usa-section usa-content section-intro background-light-neutral">
 <div class="usa-grid">
 <div class="usa-width-one-third" markdown="1">
