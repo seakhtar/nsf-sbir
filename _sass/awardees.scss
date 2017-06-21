@@ -128,9 +128,10 @@
     .table-row {
       line-height: $leading-xs;
 
-      .table-row-item {
+      @include media($medium-screen) {
+        .table-row-item {
         border-bottom: 1px solid $color-gray-light;
-
+      }
         &:first-child {
           flex-grow: 2.5;
         }
@@ -147,7 +148,12 @@
     font-weight: $font-normal;
     background-color: $color-white;
     border-top: 1px solid $color-gray-light;
-    &:hover {
+    &[aria-expanded='true'] {
+      position: sticky;
+      top: 0;
+    }
+    &:hover,
+    &[aria-expanded='true'] {
       border: 0;
       border-top: 1px solid $color-gray-light;
       background-color: $color-neutral-light;
