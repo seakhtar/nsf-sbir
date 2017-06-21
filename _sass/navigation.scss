@@ -1,10 +1,12 @@
 .usa-nav-primary {
   clear: both;
+
   .usa-accordion-button {
-    border: 0;
     color: $color-base;
     font-family: $font-mono;
     font-size: $font-size-xxs;
+    font-weight: 400;
+
     &:hover {
       color: $color-base;
       background-color: $color-secondary;
@@ -29,18 +31,34 @@
   }
 }
 
+.usa-nav-container {
+  button,
+  a {
+    &:focus,
+    &:active {
+      box-shadow: none;
+    }
+  }
+}
+
+
 .usa-nav,
 .usa-nav-submenu  {
   margin-top: 0;
-  padding: 2rem;
+  padding: 0;
 
   li {
     a {
       color: $color-base;
       font-family: $font-mono;
-      font-size: $font-size-xxs;
+      font-size: $font-size-xxxs;
+      font-weight: 400;
+      text-transform: uppercase;
+      letter-spacing: $kern-loose;
+      text-rendering: optimizeLegibility;
 
       &:hover {
+        color: $color-base;
         background-color: $color-secondary;
         border: 0;
 

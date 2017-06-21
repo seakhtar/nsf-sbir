@@ -1,12 +1,15 @@
 ---
-title: Form Preparation cont\'d
-permalink: /fastlane/fastlane2-2/
+title: Form Preparation part 2
+permalink: /fastlane/fastlane-2-2/
 layout: secondary-narrow
+sidenav: fastlane
 ---
 
-# 2. Form Preparation (cont'd)
+# FastLane guide
 
-## References Cited
+## 2. Form Preparation
+
+### References Cited
 
 Click on the "Go" button to the left of "References Cited":
 
@@ -22,7 +25,7 @@ When this section is completed, click **"Go Back"** to return to the "Form Prepa
 
 Follow the instructions on the below screen, then click **"Upload File"** to upload document. Click **"Go Back"** until you return to the "Form Preparation" screen.
 
-## Budget
+### Budget
 
 Click on the **"Go"** button to left of **"Budgets (Including Justification)":**
 
@@ -38,7 +41,7 @@ Year 1 will be highlighted; then Click the **"Add"** button. FastLane will retur
 
 ![Add year selection box]({{ site.baseurl }}/assets/img/fastlane/27-add-project-budget.jpg)
 
-## Funds
+### Funds
 
 Click on the **"Funds"** hyperlink (under the Year heading).
 
@@ -139,7 +142,7 @@ Then, follow the instructions on the below screen and click **"Upload File"** to
 
 ![Upload file box with information about supported file-types]({{ site.baseurl }}/assets/img/fastlane/23-Upload.jpg)
 
-## Subawardee Budget
+### Subawardee Budget
 
 **12b. Subawardee Budget** section: Click **"Add Another Organization"** if a subawardee budget is required.
 
@@ -183,18 +186,18 @@ In most cases, every employee listed in line A or B of the budget should fall un
 
 Click [here](/files/SBIR_Salary_Validation_Guide.pdf) for detailed salary survey guidance
 
-## Samples
+### Samples
 
-### PLEASE REVIEW THE SAMPLE BUDGETS AND BUDGET JUSTIFICATIONS BELOW
+#### PLEASE REVIEW THE SAMPLE BUDGETS AND BUDGET JUSTIFICATIONS BELOW
 
 **These sample budgets provide you with the level of detail NSF requires for all SBIR/STTR proposals. Too much information is always better than not enough. If you have questions regarding the budget preparation call the cognizant Program Director for guidance and clarification.**
 
-#### Sample budget populated as PDF:
+##### Sample budget populated as PDF:
 
 ![PDF of example proposal budget filled out]({{ site.baseurl }}/assets/img/fastlane/29-BudgetEx1.jpg)  
 ![Proposal budget example continued]({{ site.baseurl }}/assets/img/fastlane/29-BudgetEx2.jpg)
 
-### Sample Budget Justification:
+#### Sample Budget Justification:
 
 _The FastLane system will indicate that the Budget justification should be no more than three pages. Please note that this 3 page limit is waived for the SBIR/STTR program as the solicitation requires thatletters of collaboration from Consultants and Subawardees be included in this section (following thebudget justification document.) Please include pricing documentation for items on lines G.1 and G.6 with an extended cost that exceeds $5000._
 

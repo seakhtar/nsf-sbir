@@ -1,6 +1,6 @@
 ---
 title: Supplement Instructions
-permalink: /grantees//
+permalink: /awardees/
 layout: secondary-narrow
 ---
 
@@ -60,7 +60,7 @@ The SBIR/STTR Program at the National Science Foundation is committed to assisti
 - Funding support for active research participation by high school students interested in science, technology, and mathematics in the SBIR/STTR program.
 - Max Funding: $6,000 per student per year
 - Deadline: Rolling submission; does not extend award duration
-- Recruiting Tip: Guidance counselors at your local high school may be a great help. You can use this [recruiting template](/files/ED-Supp-Template.docx) to reach out.
+- Recruiting Tip: Guidance counselors at your local high school may be a great help. You can use this [recruiting template]({{site.baseurl}}/assets/files/awardee-files/ED-Supp-Template.docx) to reach out.
 - [More Information](http://www.nsf.gov/pubs/2014/nsf14073/nsf14073.jsp?org=ENG)
 - Proposal / Budget Submission Instructions
 
@@ -68,7 +68,7 @@ The SBIR/STTR Program at the National Science Foundation is committed to assisti
 - Funding support for active involvement of K-12 teachers and community college faculty in engineering research.
 - Max Funding: $10,000 per teacher per year
 - Deadline: Rolling submission; does not extend award duration
-- Recruiting Tip: Guidance counselors at your local middle and high schools may be a great help. You can use this [recruiting template](/files/ED-Supp-Template.docx) to reach out.
+- Recruiting Tip: Guidance counselors at your local middle and high schools may be a great help. You can use this [recruiting template]({{site.baseurl}}/assets/files/awardee-files/ED-Supp-Template.docx) to reach out.
 - [Official Solicitation](http://www.nsf.gov/pubs/2015/nsf15536/nsf15536.htm?org=NSF) - In this document, information on **supplement requests ONLY** (NOT sites) is relevant. In summary, provide: 1) The nature of the involvement of the teacher; 2) The experience of the PI or other personnel in involving teachers in research; 3) A biographical sketch of the teacher or the process and criteria for selecting a teacher.
 - Proposal / Budget Submission Instructions
 
@@ -76,7 +76,7 @@ The SBIR/STTR Program at the National Science Foundation is committed to assisti
 - Funding support for active NSF research participation by undergraduate students.
 - Max Funding: $8,000 per student per year
 - Deadline: Rolling submission; does not extend award duration
-- Recruiting Tip: The career center at your local community college or university may be a great help. You can use this [recruiting template](/files/ED-Supp-Template.docx) to reach out.
+- Recruiting Tip: The career center at your local community college or university may be a great help. You can use this [recruiting template]({{site.baseurl}}/assets/files/awardee-files/ED-Supp-Template.docx) to reach out.
 - [Official Solicitation](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517) - In this document, information on **supplement requests ONLY** (NOT sites) is relevant. In summary, provide: 1) The nature of the involvement of the student; 2) The experience of the PI or other personnel in involving students in research; 3) A biographical sketch of the student or the process and criteria for selecting a student.
 - Proposal / Budget Submission Instructions
 
@@ -84,6 +84,6 @@ The SBIR/STTR Program at the National Science Foundation is committed to assisti
 - Funding support to enable veteran students, pre-college STEM teachers, and/or community college faculty to participate in active NSF grants.
 - Max Funding: $10,000 per veteran
 - Deadline: Rolling submission; does not extend award duration
-- Recruiting Tip: Many community colleges and universities have a veterans office or resource team. You can use this [recruiting template](/files/ED-Supp-Template.docx) to reach out.
+- Recruiting Tip: Many community colleges and universities have a veterans office or resource team. You can use this [recruiting template]({{site.baseurl}}/assets/files/awardee-files/ED-Supp-Template.docx) to reach out.
 - [More Information](http://www.nsf.gov/pubs/2014/nsf14124/nsf14124.jsp)
 - Proposal / Budget Submission Instructions

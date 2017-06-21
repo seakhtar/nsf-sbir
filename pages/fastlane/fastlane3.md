@@ -1,12 +1,14 @@
 ---
 title: Proposal Submission
-permalink: /fastlane/fastlane3/
+permalink: /fastlane/fastlane-3/
 layout: secondary-narrow
+sidenav: fastlane
 ---
+# FastLane guide
 
-# 3. Proposal Submission
+## 3. Proposal Submission
 
-## Print Proposal
+### Print Proposal
 
 If you have completed all the above actions you are now ready to submit your proposal. If you want to print out your proposal before moving to the submission and printing section below, return to the "Proposal Actions" screen and click on the **"Print"** button. **This will allow you to have a hard copy of what you have entered into FastLane.** (_The printed proposal is not your official proposal_). **Note that only those persons listed as official Sponsored Research Officers (SROs) have the ability to complete submission of the proposal to NSF.**
 
@@ -16,7 +18,7 @@ Submitting a proposal to NSF involves two steps in the Research Administration p
 -Submitting the proposal to NSF
 -Electronically signing the proposal
 
-## Allow SRO Access
+### Allow SRO Access
 
 1. To begin the submission process, return to the Proposal Actions screen; select and highlight the proposal you wish to submit and click on the button **"Allow SPO Access".**
 
@@ -40,7 +42,7 @@ When you are ready to continue, click **"Proceed"** to continue the submission p
 
 ![SRO Access control completion screen]({{ site.baseurl}}/assets/img/fastlane/49-AOR-complete-access.jpg)
 
-## SRO Access Steps
+### SRO Access Steps
 
 At this point, the Sponsored Research Officer (SRO) has to take the following steps to submit the proposal to NSF.
 
@@ -67,7 +69,7 @@ At this point, the Sponsored Research Officer (SRO) has to take the following st
 
 ![SRO proposal Error/Warnings screen with list of warnings]({{ site.baseurl}}/assets/img/fastlane/5_SRO_ProposalErrors.jpg)
 
-## Submit Proposal
+### Submit Proposal
 
 5. There are two options at this point: **Submit and Sign the Proposal** or **Submit the Proposal Only.** The steps below are for the **Submit and Sign the Proposal** option. (_If you are an SPO with AOR permissions, you have the capability to submit and sign the proposal. If you submit without signing, please have the AOR sign the proposal within 5 days of submission._)
 
