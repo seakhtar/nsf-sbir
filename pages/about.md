@@ -123,12 +123,3 @@ America's Seed Fund is a program within the [National Science Foundation](https:
 Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.
 </div>
 </section>
-
-<!-- <section class="background-white">
-<div class="usa-section usa-content usa-grid" markdown="1">
-## Program directors
-Our program directors are domain experts from diverse fields — get to know them here.
-
-{% include program-directors.html %}
-</div>
-</section> -->
