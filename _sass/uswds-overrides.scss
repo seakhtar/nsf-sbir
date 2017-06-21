@@ -42,12 +42,12 @@ ol {
   }
 }
 
+
 .usa-logo {
   float: none;
 
   img {
     height: 40px;
-    margin-top: $space-m;
     max-width: none;
   }
 
@@ -77,10 +77,12 @@ button:visited,
   background-color: transparent;
   border: 1px solid $color-primary-alt;
   border-radius: 0;
-  color: $color-black;
-  font-family: $font-mono;
+  color: $color-base;
+  font-family: $font-serif;
   font-size: $font-size-xxs;
-  font-weight: 400;
+  font-weight: 500;
+  padding: $space-m 2.5rem $space-m 2rem;
+  min-width: 18rem;
 
   &.usa-button-hover,
   &:hover {
@@ -133,7 +135,7 @@ button:visited,
     content: '\2192';
     display: inline-block;
     font-family: $font-serif;
-    padding-right: $space-s;
+    padding-right: $space-xs;
   }
 }
 .button-arrow-after {
