@@ -3,55 +3,60 @@ title: Portfolio
 permalink: /portfolio/
 featuredCompanies:
 layout: secondary
+section_image: "/assets/img/bg/bolt.png"
+section_image_caption: |
+  From lab to market - [Bolt Threads](#) genetically engineered yeast brew silk proteins that can be spun into fibers.
 ---
-<section class="section-header">
+
+<section class="section-header background-light-neutral">
 <div class="usa-section usa-content usa-grid" markdown="1">
-
 # Portfolio
-<p class="text-medium" markdown="1">Since 1977, we’ve awarded funding for high-risk R&D to more than 11,000 startups and small businesses. These featured companies are a small, random selection of all our funded companies. To see all the awards we've made to small businesses, please visit the [NSF Awards Database](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=1501%2C5371%2C1591%2C5373&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=).</p>
+<p class="text-medium" markdown="1">Since 1977, we’ve awarded funding for high-risk R&D to more than 11,000 startups and small businesses. These featured companies are a small, random selection of all our funded companies.</p>
 
-<!-- start search -->
-<div class="pad-vtop-10 pad-vbottom-80">
-  <form id='search' name="searchForm" method="get" accept-charset="UTF-8" action="https://search.nsf.gov/search">
-    <div class="input-group-sm" id="searchbar">
-      <span class="input-group-btn">
-        <button class="btn btn-default" type="submit" name="search"><span class="sr-only">search</span><i class="fa fa-search fa-flip-horizontal" aria-hidden="true"></i></button>
-      </span>
-        <input type="text" class="form-control usagov-search-autocomplete ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true" id="QueryText" placeholder="" name="query" title="search">
-        <input id="affiliate" name="affiliate" type="hidden" value="nsf" />
 
-    <label for="Search">Search America's Seed Fund awardees</label>
-    </div><!-- /input-group -->
-  </form>
-</div>
-<!-- end search -->
+<form onsubmit="allAwards(this.a1.value); return false;" class="awards-search-form">
+ <!--<input id="current" type="radio" name="awards-search" value="currentAwards">
+ <label for="current">Current NSF SBIR/STTR Awards</label>
+
+ <input id="all" type="radio" name="awards-search" value="currentAwards">
+ <label for="all">All NSF SBIR/STTR Awards</label>-->
+
+    <input type="text" tite="awards-search" class="awards-search-input" name="a1" size="20" placeholder="" />
+    <label class="text-small" for="awards-search">Search America's Seed Fund awardees</label>
+    <input type="submit" class="usa-button usa-button-primary usa-sr-only" value="Search" />
+</form>
+
 
 </div>
 </section>
-<section class="usa-section usa-content usa-grid usa-section-tight-top" markdown="1">
+<section class="background-light-neutral" markdown="1">
+<div class="usa-section-tight-top usa-section usa-content usa-grid" markdown="1">
 <h2 class="subhead text-small">Featured alumni and exits</h2>
 {% include featured-companies.html %}
+</div>
 </section>
-<section class="usa-section usa-content usa-grid usa-section-tight-top" markdown="1">
-<h2 class="subhead text-small">Active and recent awardees</h2>
-Our Recent Phase I awardees page highlights companies whose proposals were approved during the most recently closed solicitation period (mm/dd). Our Active Awardees pages feature information about Phase I and Phase II awardees who are still in the process of completing the R&D terms of their proposals and who haven't yet submitted their final reports.
-
-- Phase I recent awardees
-- Phase I active awardees
-- Phase II active awardees 
+<section class="background-light-neutral" markdown="1">
+<div class="usa-section-tight-top usa-section usa-content usa-grid" markdown="1">
+**View our current awardees,** who are still completing the research outlined in their proposals and who haven't yet reached the estimated ends of their award terms. [View current Phase I awardees]({{ site.baseurl }}/awardees/phase-1/), [Current Phase II awardees]({{ site.baseurl }}/awardees/phase-2/), or our [most recent (12/16) Phase I awardees]({{ site.baseurl }}/awardees/phase-1-recent/).
+</div>
 </section>
-<section class="usa-section usa-content usa-grid usa-section-tight-top">
+<section class="section-background-image">
+  <div class="usa-grid">
+    <div class="usa-width-one-third">
+      <div class="caption">{{ page.section_image_caption | liquify | markdownify }}</div>
+    </div>
+  </div>
+</section>
+<section class="background-light-neutral">
+<div class="usa-section usa-content usa-grid">
 <h2 class="text-large">We fund varied tech sectors.</h2>
-
  <p class="text-medium">Each year, we fund roughly 400 companies across nearly all technology and market sectors.</p>
 
 {% include tech-subtopics.html %}
+</div>
 </section>
 
- <section class="usa-section usa-content usa-grid usa-section-tight-top" markdown="1">
- <h2 class="subhead text-small">Current awardees</h2>
 
-**View our current awardees,** who are still completing the research outlined in their proposals and who haven't yet reached the estimated ends of their award terms. [View current Phase I awardees](), [Current Phase II awardees](), or our [most recent (12/16) Phase I awardees]().
 
 <!--
 ## Awardees pages
@@ -68,5 +73,3 @@ Phase II funding (up to an additional $750,000 over two years) helps you continu
 
 ### Recent awardees
 Recent awardees received funding during the last solicitation period, which closed in (December 2016). These awards were announced in (February 2016). -->
-
-</section>

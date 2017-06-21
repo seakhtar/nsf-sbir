@@ -15,3 +15,8 @@ Need to contact a program director? View our [program director listing here]({{ 
 If you’re concerned about fraud or abuse with any award, contact the NSF Office of the Inspector General at 703-292-7100 (business hours) or 703-244-4443 (to speak to the duty officer).
 
 You can also report fraud to the anonymous fraud hotline at 800-428-2189, email [oig@nsf.gov](mailto:oig@nsf.gov), or send written correspondence to 4201 Wilson Boulevard, Suite 1135; Arlington, VA 22230; ATTN: OIG HOTLINE.
+
+## Program directors
+Our program directors are domain experts from diverse fields — get to know them here.
+
+{% include program-directors.html %}

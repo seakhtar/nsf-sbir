@@ -9,7 +9,7 @@ section_image_caption: |
 <section class="section-header background-light-blue">
 <div class="usa-section usa-content usa-grid">
 <div class="usa-width-one-whole" markdown="1">
-# About America's Seed Fund powered by NSF
+# About
 
 
 For 40 years, America’s Seed Fund powered by NSF has helped startups and small businesses transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country. We are a congressionally mandated program – small business innovation research and small business technology transfer (SBIR/STTR).
@@ -31,7 +31,7 @@ For 40 years, America’s Seed Fund powered by NSF has helped startups and small
 You will receive the funding you need as a startup or small business to commercialize technically risky ideas.
 </div>
 <div class="usa-width-one-third" markdown="1">
-You will retain full control of your team, direction of your work, and the resultant intellectual property. We take no equity in exchange for funding. 
+You will retain full control of your team, direction of your work, and the resultant intellectual property. We take no equity in exchange for funding.
 </div>
 <div class="usa-width-one-third" markdown="1">
 You will get access to a program director, who will serve as your mentor, and a network of technology innovators and founders.
@@ -90,7 +90,7 @@ If your technology needs more development — and if you’ve met all the Phase 
 Phase II awardees can apply for Phase IIB funding to speed up commercialization. To be considered for Phase IIB funding (up to $500,000), you need a third-party investment of at least $100K. Visit our [Supplemental funding page](https://www.nsf.gov/eng/iip/sbir/Supplement/) to learn more.
 
 {% if site.app_process == "active" %}
-For complete program information, check out the latest [SBIR solicitation]() or [STTR solicitation]().
+For complete program information, check out the latest [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}) or [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}).
 {% else %}
 For more program information, check out our last solicitation. Our next solicitation will be posted in [MONTH YEAR].
 {% endif %}
@@ -110,7 +110,7 @@ If your company is majority owned by a venture capital operating company, hedge 
 
 Our seed funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
 
-In selected cases, we support innovations to existing products, but these innovations must dramatically change the products’ commercial outcomes. We don’t fund work that simply improves existing products. Check out our portfolio to get a sense of our founders’ work.
+In selected cases, we support innovations to existing products, but these innovations must dramatically change the products’ commercial outcomes. We don’t fund work that simply improves existing products. Check out our [portfolio]({{ '/portfolio/' | relative_url }}) to get a sense of our founders’ work.
 </div>
 </div>
 </section>
@@ -121,13 +121,5 @@ In selected cases, we support innovations to existing products, but these innova
 America's Seed Fund is a program within the [National Science Foundation](https://www.nsf.gov/). NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with a $7.5 billion budget.
 
 Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.
-</div>
-</section>
-<section class="background-white">
-<div class="usa-section usa-content usa-grid" markdown="1">
-## Program directors
-Our program directors are domain experts from diverse fields — get to know them here.
-
-{% include program-directors.html %}
 </div>
 </section>

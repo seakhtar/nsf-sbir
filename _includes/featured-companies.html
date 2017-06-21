@@ -2,7 +2,7 @@
 {% for company in site.data.featured-companies %}
   {% for topic in site.data.topics %}
     {% if topic['awardeeName'] == company %}
-      <li><a href="{{ site.baseurl }}/portfolio/details/?company={{ company | slugify }}">{{ company }}</a></li>
+      <li><a href="{{ site.baseurl }}/portfolio/details/?company={{ company | slugify }}#{{ company | slugify }}">{{ company }}</a></li>
       {% break %}
     {% endif %}
   {% endfor %}
