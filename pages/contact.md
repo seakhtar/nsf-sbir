@@ -16,11 +16,7 @@ If you’re concerned about fraud or abuse with any award, contact the NSF Offic
 
 You can also report fraud to the anonymous fraud hotline at 800-428-2189, email [oig@nsf.gov](mailto:oig@nsf.gov), or send written correspondence to 4201 Wilson Boulevard, Suite 1135; Arlington, VA 22230; ATTN: OIG HOTLINE.
 
-<section class="background-white">
-<div class="usa-section usa-content usa-grid" markdown="1">
 ## Program directors
 Our program directors are domain experts from diverse fields — get to know them here.
 
 {% include program-directors.html %}
-</div>
-</section>
