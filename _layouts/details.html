@@ -16,8 +16,7 @@ layout: base
     {% for company in awards_by_company %}
     {% if company.name != blank %}
     {% for award in company.items %}
-    {{ award }}
-    <li class="usa-section">
+    <li class="usa-section" id="{{ award.awardeeName | slugify }}">
       <div class="usa-grid mb5">
         <h2 class="awardeeName">{{ award.awardeeName }}</h2>
         <h3 class="title h5 font-regular">{{ award.title }}</h3>

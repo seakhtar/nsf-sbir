@@ -64,7 +64,7 @@ class: awardees-layout
   <div class="usa-grid">
     <div class="usa-accordion awardees-details-accordion">
     {% for topic in site.data.tech-topics %}
-      {% assign po_name = topic.programDirector[0].name %}
+      {% assign po_name = topic.programDirector[0].api_name | default: topic.programDirector[0].name %}
       {% assign matching_awards = site.data[page.dataset] | uniq | where:'poName', po_name %}
       {% if matching_awards.size > 0 %}
         <button class="usa-accordion-button" aria-expanded="false" aria-controls="{{ topic.topic | slugify }}">
@@ -83,7 +83,7 @@ class: awardees-layout
               <li class="table-row">
                 <div class="table-row-item" data-header="Company">
                   {% assign awardeeSlug = matching.awardeeName | slugify %}
-                  <a href="{{ page.details_url | append: awardeeSlug | relative_url }}" alt="{{ matching.awardeeName }}">
+                  <a href="{{ page.details_url | append: awardeeSlug | append: '#' | append: awardeeSlug | relative_url }}" alt="{{ matching.awardeeName }}">
                   <span>{{ matching.awardeeName }}</span>
                   </a>
                 </div>

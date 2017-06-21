@@ -66,6 +66,7 @@
   topic_code: bt
   programDirector:
     - name: Ruth Shuman
+      api_name: Ruth M. Shuman
       email: rshuman@nsf.gov
       photo: Ruth-compressed.jpg
   subtopics:
@@ -252,6 +253,7 @@
   topic_code: iot
   programDirector:
     - name: Rick Schwerdtferger
+      api_name: Richard Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
   subtopics:
@@ -272,6 +274,7 @@
   topic_code: sp
   programDirector:
     - name: Rick Schwerdtferger
+      api_name: Richard Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
   subtopics:
@@ -298,7 +301,8 @@
   permalink: /topics/smart-health/
   topic_code: sh
   programDirector:
-    - name: Jesus V. Soriano
+    - name: Jesus Soriano Molla
+      api_name: Jesus Soriano Molla
       email: jsoriano@nsf.gov
       photo: Jesus-compressed.jpg
   subtopics:

@@ -32,7 +32,7 @@
               {% if topic['awardeeName'] == company %}
                 <li>
                   {% assign company_slug = company | slugify %}
-                  <a href="{{ site.baseurl }}/portfolio/details/?company={{ company_slug }}">{{ company }}</a>
+                  <a href="{{ site.baseurl }}/portfolio/details/?company={{ company_slug }}#{{ company_slug }}">{{ company }}</a>
                 </li>
                 {% break %}
               {% endif %}
