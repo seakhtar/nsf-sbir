@@ -1,6 +1,6 @@
 ---
-title: Preparing a No Cost Extension Request 
-permalink: /grantees/nce/
+title: Preparing a No Cost Extension Request
+permalink: /awardees/nce/
 layout: secondary-narrow
 ---
 
@@ -33,5 +33,5 @@ Here are the requirements for a no-cost extension, excerpted from the NSF's Gran
 - *Plan for use of unobligated funds* text field
 
 If applicable, please also fill in the *Explanation for late request* text field.
-6. Click the *Save & Submit to NSF* button at the bottom of the page.  
+6. Click the *Save & Submit to NSF* button at the bottom of the page.
 

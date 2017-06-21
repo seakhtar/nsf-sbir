@@ -1,6 +1,6 @@
 ---
 title: Revised Budget
-permalink: /grantees/revised_budget/
+permalink: /awardees/revised-budget/
 layout: secondary-narrow
 ---
 

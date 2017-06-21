@@ -1,6 +1,6 @@
 ---
 title: Instructions
-permalink: /grantees/instructions/
+permalink: /awardees/instructions/
 layout: secondary-narrow
 ---
 
@@ -25,10 +25,10 @@ Select: **"Supplemental Funding Request"**
       i. **Budget Justification- Include Certifications:**  
       1. Include a statement in the budget justification indicating that your company re-affirms that the NSF Funding Agreement certification associated with your award are still true and accurate. Language can be as follows:  
         a. "I affirm that all certifications associated with the award are still true and accurate. The NSF [SBIR or STTR] Phase [I or II] Award titled “######” referenced is the principal award that is being supplemented.”     
-        b. If your company did not submit the [NSF Funding Agreement](/files/SBIR_STTR_Funding_Agreement.pdf) with your original proposal, you will need to fill one out, sign and submit with your supplement request.  The NSF Funding Agreement must be included in Supplementary Documents and you will need to include a statement in the budget justification that you have uploaded the Funding Agreement.  The budget justification statement can be  
+        b. If your company did not submit the [NSF Funding Agreement]({{site.baseurl}}/assets/files/awardee-files/SBIR_STTR_Funding_Agreement.pdf) with your original proposal, you will need to fill one out, sign and submit with your supplement request.  The NSF Funding Agreement must be included in Supplementary Documents and you will need to include a statement in the budget justification that you have uploaded the Funding Agreement.  The budget justification statement can be  
              i. “The completed and signed Certification Form has been included in Supplementary Documents”.  
       2. Include a statement indicating that all the budget rates in the supplement budget do not exceed those in the original award (include award number).  
-    ii. **RAHSS/REU/RET/VRS Budget Info:** All student/teacher costs are entered under line F as participant support costs. 
+    ii. **RAHSS/REU/RET/VRS Budget Info:** All student/teacher costs are entered under line F as participant support costs.
       1. REU bottom line for the overall budget is either $8,000 for one student or $16,000 for two. (Funds should only appear on budget line F.1)  
       2. RAHSS bottom line for the overall budget is either $6,000 for one student or $12,000 for two. (Funds should only appear on budget line F.1)  
       3. RET bottom line for the overall budget is either $10,000 for one teacher or $20,000 for two. **Note** - The total cost of an RET supplement is limited to $10,000 per teacher per year.  For both RET Site and RET Supplement, the budget includes a teacher and/or community college faculty stipend of up to $2,000 for the cost of materials, equipment, software and other supplies for developing classroom instructions and experiments. (Funds should only appear on budget lines F.1 and F.4, respectively).  

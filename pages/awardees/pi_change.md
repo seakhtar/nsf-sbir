@@ -1,20 +1,20 @@
 ---
-title: Principal Investigator \(PI\) Change
-permalink: /grantees/pi_change/
+title: Principal Investigator PI Change
+permalink: /awardees/pi-change/
 layout: secondary-narrow
 ---
 
 # Preparing a PI change request for SBIR/STTR projects
 
-In the event that your principal investigator changes during your award term, you'll need to complete a PI change request. Please follow these instructions to do so. 
+In the event that your principal investigator changes during your award term, you'll need to complete a PI change request. Please follow these instructions to do so.
 
-On the [FastLane homepage](http://www.fastlane.nsf.gov), click on the *Proposals, Awards, & Status* link (located on the left hand-side of the page). Then, do the following: 
+On the [FastLane homepage](http://www.fastlane.nsf.gov), click on the *Proposals, Awards, & Status* link (located on the left hand-side of the page). Then, do the following:
 
 1. Enter your login information (last name, SSN, and password) and select *Login*.
 2. The Principal Investigator (PI)/Co-Principal Investigator (Co-PI) Management screen will appear. Select the *Award and Reporting Functions* option from the menu.
 3. The next screen provides Awards & Reporting Function options. Select the *Notifications and Requests* option.
 4. From the drop-down list that appears, select the appropriate award number and then click the *Prepare New* button.
-5. The Notifications and Requests screen will appear for the selected award, and your award information will be displayed at the top of the screen. Scroll down to the *Types of Grantee Request (Need NSF Approval)*. 
+5. The Notifications and Requests screen will appear for the selected award, and your award information will be displayed at the top of the screen. Scroll down to the *Types of Grantee Request (Need NSF Approval)*.
 6. The *Change of PI* screen will appear.
 7. Find the field labeled *Proposed SSN#*, enter the SSN of the proposed PI in that field, and click the *Check* button. Your proposed PI must be registered with FastLane. If they are registered with FastLane, the system will automatically fill in the name of the PI associated with the SSN you just entered.
 8. Once you've filled in the proposed PI's name in the appropriate field, the *Biographical Sketch and Current & Pending Support* sections will become active. Upload the appropriate documents. Once you've uploaded the bios and support documents, the justification section will become active. Enter the appropriate information.
@@ -28,8 +28,8 @@ In the event the grantee desires to continue the project with a substitute PI/PD
 13. Complete the following fields:
 - *Proposed PI SSN:* Enter the SSN of the new PI. Click on the *Check PI* button to verify the new PI's SSN. If correct, the new PI's name will appear.
 - *Effective Date:* Enter the effective date in mm/dd/yyyy format.
-- *Justification for Request:* Type (or cut and paste) the you're requesting a change of PI. 
-- *Biographical Sketch File Location:* Enter the name and location of the file. If you do not know the location of the file, click on the *Browse* button. The *File Upload* window will appear. Select the file to be uploaded and click *Open*. The screen will refresh with the filename and path. Upload the file. 
+- *Justification for Request:* Type (or cut and paste) the you're requesting a change of PI.
+- *Biographical Sketch File Location:* Enter the name and location of the file. If you do not know the location of the file, click on the *Browse* button. The *File Upload* window will appear. Select the file to be uploaded and click *Open*. The screen will refresh with the filename and path. Upload the file.
 - The *PDF Conversion/Compliance Check* screen will appear. When the upload is completed, the *File Successfully Converted/Checked* screen will appear. Click on the *Proofread PDF* button. A new window (with the converted PDF document) will appear.
 - After reviewing this document for accuracy, close this window. The *Proofreading Complete* screen will appear. If the PDF document isn't correct, click *Cancel*. If the PDF document is correct, click *Save*.
 

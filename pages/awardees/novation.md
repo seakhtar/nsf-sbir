@@ -1,6 +1,6 @@
 ---
 title: Novation-stub
-permalink: /grantees/novation/
+permalink: /awardees/novation/
 layout: secondary-narrow
 ---
 
