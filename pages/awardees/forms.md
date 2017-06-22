@@ -20,7 +20,7 @@ Your Phase I funding agreement notes when you need to complete this form, and yo
 ### [Company Commercialization History (XLS)](/files/CommercialHistoryTemplate.xls)
 If you’ve ever received a SBIR/STTR Phase II award from any agency (including NSF), you’ll need to complete this form.
 
-### [Blank Milestone Chart (XLSX) ](/files/Blank_Milestone_Chart.xlsx)
+### [Blank Milestone Chart (XLSX)](/files/Blank_Milestone_Chart.xlsx)
 You need to submit this form to show the duration and expenditures of your current project.
 
 ### [SBIR/STTR Funding Agreement Certification (PDF)](/files/SBIR_STTR_Funding_Agreement.pdf)
