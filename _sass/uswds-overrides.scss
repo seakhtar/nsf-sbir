@@ -140,7 +140,7 @@ button:visited,
 
   &::before {
     content: '\2192';
-    display: inline-block;
+    display: inline-block !important;
     font-family: $font-serif;
     padding-right: $space-xs;
   }
