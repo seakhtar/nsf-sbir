@@ -14,7 +14,6 @@ hero:
     subtext: "Deadline: {{site.deadline}}"
 ---
 
-
 <section class="usa-section usa-content section-intro background-light-neutral">
 <div class="usa-grid">
 <div class="usa-width-one-third" markdown="1">
@@ -84,7 +83,7 @@ Learn about our impact
 <div class="usa-width-one-half" markdown="1">
 <h2 class="text-large">We embrace diversity</h2>
 
-We value diversity. Our program fosters and encourages participation in innovation and entrepreneurship by women and people of color as well as first-time entrepreneurs from all 50 states and U.S. territories.
+Our program fosters and encourages participation in innovation and entrepreneurship by women and people of color as well as first-time entrepreneurs from all 50 states and U.S. territories.
 
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/apply/">
 What we look for
