@@ -6,6 +6,12 @@
   margin: 0;
   padding: 0;
 
+  &:after {
+    content: "";
+    max-width: 30%;
+    flex: auto;
+  }
+
   img {
     display: block;
     max-width: 100%;

@@ -1,15 +1,13 @@
 <ul class="pd-list">
-  {% for topic in site.data.tech-topics %}
-    {% for programDirector in topic.programDirector %}
-      <li>
-        {% if programDirector.photo %}
-          <img src="{{ site.baseurl }}/assets/img/pd/{{ programDirector.photo }}">
-        {% endif %}
-        <span class="pd-list-content">
-          <h3 class="pd-name"><a href="mailto:{{ programDirector.email }}">{{ programDirector.name }}</a></h3>
-          <span class="pd-tech-topic add-arrow">{{ topic.topic }}</span>
-        </span>
-      </li>
-    {% endfor %}
+  {% for director in site.data.program-directors %}
+    <li>
+      {% if director.photo %}
+        <img src="{{ site.baseurl }}/assets/img/pd/{{ director.photo }}">
+      {% endif %}
+      <span class="pd-list-content">
+        <h3 class="pd-name"><a href="mailto:{{ director.email }}">{{ director.name }}</a></h3>
+        <span class="pd-tech-topic add-arrow">{{ director.topic }}</span>
+      </span>
+    </li>
   {% endfor %}
 </ul>
