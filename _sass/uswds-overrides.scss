@@ -95,6 +95,13 @@ button:visited,
     background-color: $color-primary-alt;
   }
 
+  &.usa-button-active,
+  &:active,
+  &.usa-button-focus,
+  &:focus {
+    box-shadow: none;
+  }
+
 
   &.usa-button-secondary {
     border: 0;
