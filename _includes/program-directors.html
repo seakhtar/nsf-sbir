@@ -1,13 +1,20 @@
 <ul class="pd-list">
   {% for topic in site.data.tech-topics %}
     {% for programDirector in topic.programDirector %}
-      <li>
+      <li class="pd-card">
         {% if programDirector.photo %}
           <img src="{{ site.baseurl }}/assets/img/pd/{{ programDirector.photo }}">
         {% endif %}
         <span class="pd-list-content">
-          <h3 class="pd-name"><a href="mailto:{{ programDirector.email }}">{{ programDirector.name }}</a></h3>
-          <span class="pd-tech-topic add-arrow">{{ topic.topic }}</span>
+          <h3 class="pd-name">{{ programDirector.name }}</h3>
+
+          <ul class="pd-topic-list">
+            <li class="pd-tech-topic"><a href="{{ site.baseurl }}{{ topic.permalink }}">{{ topic.topic }}</a></li>
+          </ul>
+
+          <p class="text-small">
+            <a href="mailto:{{ programDirector.email }}">Send email</a>
+          </p>
         </span>
       </li>
     {% endfor %}
