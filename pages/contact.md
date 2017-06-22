@@ -25,11 +25,13 @@ Notice something wrong with the site or want to make a recommendation? Open an i
 </div>
 </section>
 
-<section class="usa-section background-light-warm-gray">
-<div class="usa-content utility-content usa-grid">
+<section class="usa-section background-light-blue">
+<div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-whole" markdown="1">
 
-Our program directors are domain experts from diverse fields — get to know them here.
+### Program directors
+
+Our program directors are domain experts from diverse fields — get to know them here. You can also view the [full bios of all of our program directors](https://www.nsfiipconf.com/2017sbirp2/our-team/).
 
 {% include program-directors.html %}
 

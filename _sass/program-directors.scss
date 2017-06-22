@@ -1,9 +1,9 @@
 .pd-list {
   display: flex;
   flex-flow: row wrap;
-  justify-content: space-between;
+  // justify-content: space-between;
   list-style: none;
-  margin: 0;
+  margin: $space-xl 0;
   padding: 0;
 
   img {
@@ -11,9 +11,13 @@
     max-width: 100%;
   }
 
-  li {
-    margin-bottom: 12rem;
-    width: 30%;
+  .pd-card {
+    margin: 0 $space-l $space-l 0;
+    // width: 30%;
+    width: 27rem;
+    height: 45rem;
+    background-color: $color-white;
+    border: 1px solid #ddd;
   }
 
   .pd-list-content {
@@ -23,6 +27,40 @@
 }
 
 .pd-name {
-  font-size: 2rem;
+  font-size: $font-size-xs;
+  margin-top: $space-m;
+  margin-bottom: $space-m;
+  letter-spacing: normal;
+
+}
+
+.pd-topic-list {
+  list-style: none;
+  padding: 0;
+  margin-bottom: $space-m;
+
+  .pd-tech-topic {
+    font-size: $font-size-xxs;
+    line-height: $leading-xs;
+    margin-bottom: $space-xs;
+
+    &::before {
+      content: '\2192';
+      font-family: $font-serif;
+      margin-left: -16px;
+      width: 16px;
+      color: $color-base;
+    }
+
+    a {
+      color: $color-primary;
+      font-weight: 500;
+      display: block;
+      border: none;
+      margin: -1.6rem 0 0 0;
+    }
+
+
+  }
 
 }
