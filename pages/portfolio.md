@@ -15,11 +15,13 @@ section_image_caption: |
 
 
 <form onsubmit="allAwards(this.a1.value); return false;" class="awards-search-form">
- <!--<input id="current" type="radio" name="awards-search" value="currentAwards">
+ {% comment %}
+ <input id="current" type="radio" name="awards-search" value="currentAwards">
  <label for="current">Current NSF SBIR/STTR Awards</label>
 
  <input id="all" type="radio" name="awards-search" value="currentAwards">
- <label for="all">All NSF SBIR/STTR Awards</label>-->
+ <label for="all">All NSF SBIR/STTR Awards</label>
+ {% endcomment %}
 
     <input type="text" tite="awards-search" class="awards-search-input" name="a1" size="20" placeholder="" />
     <label class="text-small" for="awards-search">Search America's Seed Fund awardees</label>
@@ -58,7 +60,7 @@ section_image_caption: |
 
 
 
-<!--
+{% comment %}
 ## Awardees pages
 
 Our current awardees pages feature information about Phase I and Phase II awardees who are actively using their funding. Recent awardees pages highlight companies that received funding during the previous solicitation period.
@@ -72,4 +74,5 @@ Phase 1 funding (up to $225,000 over 6-12 months) covers R&D, including explorat
 Phase II funding (up to an additional $750,000 over two years) helps you continue the research you started in Phase I.
 
 ### Recent awardees
-Recent awardees received funding during the last solicitation period, which closed in (December 2016). These awards were announced in (February 2016). -->
+Recent awardees received funding during the last solicitation period, which closed in (December 2016). These awards were announced in (February 2016).
+{% endcomment %}
