@@ -11,7 +11,7 @@ section_image_caption: |
 <section class="section-header background-light-neutral">
 <div class="usa-section usa-content usa-grid" markdown="1">
 # Portfolio
-<p class="text-medium" markdown="1">Since 1977, we’ve awarded funding for high-risk R&D to more than 11,000 startups and small businesses. These featured companies are a small, random selection of all our funded companies.</p>
+<p class="text-medium" markdown="1">Since 2012, America’s Seed Fund powered by NSF has made nearly 2,500 awards to hundreds of startups and small businesses. We encourage you to explore this assorted list of companies we have funded across almost all areas of technology.</p>
 
 
 <form onsubmit="allAwards(this.a1.value); return false;" class="awards-search-form">
