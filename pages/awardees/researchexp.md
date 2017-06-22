@@ -1,6 +1,6 @@
 ---
 title: Portfolio Research Experience and Partnerships
-permalink: /grantees/researchexp/
+permalink: /awardees/researchexp/
 layout: secondary-narrow
 ---
 # Portfolio research experience and partnerships
@@ -14,7 +14,7 @@ NSF SBIR/STTR supports research experiences for the following groups:
 ## High school students
 - Funding support for active research participation by high school students interested in science, technology, and mathematics.
 - **Max funding:** $6,000 per student per year
-- **Timeline:** Rolling submissions; submission three months before the target start date is recommended. 
+- **Timeline:** Rolling submissions; submission three months before the target start date is recommended.
 
 ## K-12 and community college teachers
 - Funding support for active involvement of K-12 teachers and community college faculty in engineering research.
@@ -69,7 +69,7 @@ If you need help or have questions, contact us at SBIRresearchexp@nsf.gov.
 
 ## Video and interviews
 
-Check out these videos and interviews to get a better sense of NSF SBIR/STTR's research opportunities. 
+Check out these videos and interviews to get a better sense of NSF SBIR/STTR's research opportunities.
 
 [Youtube Video Inset]
 

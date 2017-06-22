@@ -1,6 +1,6 @@
 ---
 title: Peer Review
-permalink: /grantees/peer_review/
+permalink: /awardees/peer-review/
 layout: secondary-narrow
 ---
 
@@ -20,15 +20,15 @@ The NSF SBIR/STTR program makes awards to small companies developing innovations
   - Good product-market fit, as validated by customers
   - Demonstrated barriers to entry for competition
   - The potential for societal benefit through commercialization under a sustainable business model
-  
+
 ## Panelist conflict of interest (COI)
-If you're a panelist, you must read and sign the NSF Conflict of Interests and Confidentiality Statement for NSF Panelists. Please open and review the required [COI Form](/files/coiform.docx); you will be required to sign this form on the morning of the panel. 
+If you're a panelist, you must read and sign the NSF Conflict of Interests and Confidentiality Statement for NSF Panelists. Please open and review the required [COI Form](/files/coiform.docx); you will be required to sign this form on the morning of the panel.
 
 **For mail reviewers only**: Before you can access any proposals in FastLane, you must sign the NSF Conflict of Interest (COI) and Confidentiality Statement for NSF Panelists. Please print and sign the [COI Form](/files/coiform.docx) and scan/email it to the NSF staff person who invited you to review. If necessary, you can fax the COI form to 703-292-9057. In the Panel Name field, please include the number of the proposal you were invited to review.
-  
+
 # SBIR/STTR merit review criteria
-  
-## Criterion 1: What is the intellectual merit of the proposed activity? 
+
+## Criterion 1: What is the intellectual merit of the proposed activity?
 This criterion addresses the overall quality of the proposed activity to advance science and engineering through research and education.
 
 - Is the proposed plan a sound approach for establishing technical and commercial feasibility?
@@ -38,7 +38,7 @@ This criterion addresses the overall quality of the proposed activity to advance
 - Does the proposal reflect state-of-the-art in the major research activities proposed? (Are advancements in state-of-the-art likely?)
 - **For Phase II proposals only:** As a result of Phase I, did the firm succeed in providing a solid foundation for the proposed Phase II activity?
 
-## Criterion 2: What are the broader impacts of the proposed activity? 
+## Criterion 2: What are the broader impacts of the proposed activity?
 This criterion addresses the overall impact of the proposed activity.
 
 - What are the potential commercial and societal benefits of the proposed activity?
@@ -53,5 +53,5 @@ This criterion addresses the overall impact of the proposed activity.
 
 Please see the below links for additional review criteria for commercial reviews:
 
-- **Phase I:** [Phase I Commercial Review Form](/files/PhaseICommercialReviewerForm.doc)
-- **Phase II:** [Phase II Commercial Review Form](/files/PhaseIICommercialReviewerForm.doc)
+- **Phase I:** [Phase I Commercial Review Form](/{{site.baseurl}}/assets/files/awardee-files/PhaseICommercialReviewerForm.doc)
+- **Phase II:** [Phase II Commercial Review Form]({{site.baseurl}}/assets/files/awardee-files/PhaseIICommercialReviewerForm.doc)

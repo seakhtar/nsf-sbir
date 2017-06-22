@@ -1,6 +1,6 @@
 ---
 title: Reporting Requirements
-permalink: /grantees/reporting/
+permalink: /awardees/reporting/
 layout: secondary-narrow
 ---
 
@@ -17,7 +17,7 @@ The instructions on this page supersede all others; please keep this in mind if 
 The PI and the Authorized Company Representative must complete and sign the report cover page. Once the cover page is completed and signed, you must attach it as part of the interim report following these steps:
 
 - Make sure you have [Adobe Reader](https://www.nsf.gov/help/plugins.jsp).
-- Download the [Cover Page Document](/files/SBIR-STTR_Revised_Report_Cover.pdf).
+- Download the [Cover Page Document]({{site.baseurl}}/assets/files/awardee-files/SBIR-STTR_Revised_Report_Cover.pdf).
 - Fill out and print the form.
 - Physically sign the Cover Page (signature field).
 - Scan the Cover Page as a PDF file.
@@ -40,7 +40,7 @@ The technical narrative documents your Phase I research accomplishments and can'
 - Provide the *Cover* information.
 - Complete the appropriate fields in the *Products* and *Participants* tabs.
 
-This structured information is vital — please supply it using the HTML questions and check boxes (regardless of whether or not you've included the same information in a supplementary PDF). 
+This structured information is vital — please supply it using the HTML questions and check boxes (regardless of whether or not you've included the same information in a supplementary PDF).
 
 - (Optional) Complete the *Accomplishments*, *Impact*, *Changes/Problems*, and *Special Requirements* sections or use the check boxes to indicate that you have nothing to report.
 - Upload the Cover Page PDF in the *Special Requirements* section (under Supporting Files). If the *Special Requirements* tab isn't visible, please upload your Cover Page PDF in the *Accomplishments* section.
@@ -48,6 +48,6 @@ This structured information is vital — please supply it using the HTML questi
 
 ## Reporting requirements: Phase II proposal submission
 
-If you're interested in seeking Phase II funding, you'll need to submit your Phase II proposal through FastLane during the Phase II proposal submission process, which may occur before or after your Phase I project ends. 
+If you're interested in seeking Phase II funding, you'll need to submit your Phase II proposal through FastLane during the Phase II proposal submission process, which may occur before or after your Phase I project ends.
 
 One requirement of this process is submitting an updated Technical Narrative (of no more than 15 pages) that follows the same format described above. Please include this narrative as a supplementary document to your Phase II proposal. See the [Phase II proposal preparation instructions page](https://www.nsf.gov/eng/iip/sbir/how-to-apply_phaseii.jsp) for more details.
