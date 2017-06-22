@@ -6,13 +6,19 @@
       {% endif %}
       <span class="pd-list-content">
         <h3 class="pd-name"><a href="mailto:{{ director.email }}">{{ director.name }}</a></h3>
-        <ul class="pd-topic-list">
-          <li class="pd-tech-topic"><a href="{{ site.baseurl }}{{ director.topic_permalink }}">{{ director.topic }}</a></li>
-        </ul>
-        
+        {% if director.topics.size > 0 %}
+          <ul class="pd-topic-list">
+            {% for topic in director.topics %}
+              <li class="pd-tech-topic"><a href="{{ site.baseurl }}{{ topic.permalink }}">{{ topic.topic }}</a></li>
+            {% endfor %}
+          </ul>
+        {% else %}
+          <div class="pd-topic-list"><span class="pd-tech-topic"><a href="{{ site.baseurl }}{{ director.topic_permalink }}">{{ director.topic }}</a></span></div>
+        {% endif %}
+
         <p class="text-small">
-            <a href="mailto:{{ director.email }}">Send email</a>
-          </p>
+          <a href="mailto:{{ director.email }}">Send email</a>
+        </p>
       </span>
     </li>
   {% endfor %}

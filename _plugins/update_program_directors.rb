@@ -43,13 +43,25 @@ module SiteData
           new_director['name'] = pd['name']
           new_director['email'] = pd['email']
           new_director['topic'] = topic['topic']
-
+          new_director['topic_permalink'] = topic['permalink']
+          new_director['topics'] = []
           matching = @directors.select do |d|
             d['name'] == new_director['name']
           end
 
           if matching.any?
-            matching.first['topic'] = "#{matching.first['topic']}, #{new_director['topic']}"
+            if matching.first['topic'] && matching.first['topic_permalink']
+              old_topic = {}
+              old_topic['topic'] = matching.first['topic']
+              old_topic['permalink'] = matching.first['topic_permalink']
+              matching.first['topics'] << old_topic
+              matching.first['topic'] = nil
+              matching.first['topic_permalink'] = nil
+            end
+            new_topic = {}
+            new_topic['topic'] = new_director['topic']
+            new_topic['permalink'] = new_director['topic_permalink']
+            matching.first['topics'] << new_topic
           else
             @directors << new_director
           end
