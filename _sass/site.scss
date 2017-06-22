@@ -91,4 +91,9 @@
   &:visited {
     color: $color-visited;
   }
+
+  &:active,
+  &:focus {
+    box-shadow: none;
+  }
 }

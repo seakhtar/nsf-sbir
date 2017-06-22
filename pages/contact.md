@@ -1,24 +1,38 @@
 ---
 title: Contact
 permalink: /contact/
-layout: secondary-narrow
+layout: secondary
 ---
+
+<section class="usa-section">
+<div class="usa-content utility-content usa-grid">
+<div class="usa-width-one-whole" markdown="1">
 
 # Contact
 
-## Get in touch
-
+## General questions or concerns
 Have a general question or concern? Call our help line at 703-292-8050 or email us at [sbir@nsf.gov](mailto:sbir@nsf.gov).
 
+## Award fraud or abuse
 If you’re concerned about fraud or abuse with any award, contact the NSF Office of the Inspector General at 703-292-7100 (business hours) or 703-244-4443 (to speak to the duty officer).
 
-You can also report fraud to the anonymous fraud hotline at 800-428-2189, email [oig@nsf.gov](mailto:oig@nsf.gov), or send written correspondence to 4201 Wilson Boulevard, Suite 1135; Arlington, VA 22230; ATTN: OIG HOTLINE.
+You can also report fraud to the anonymous fraud hotline at 800-428-2189, email [oig@nsf.gov](mailto:oig@nsf.gov), or send written correspondence to 4201 Wilson Boulevard, Suite 1135; Arlington, VA 22230; ATTN: OIG hotline.
 
-## Report an issue
+## Site feedback
+Notice something wrong with the site or want to make a recommendation? Open an issue in our [GitHub repository](https://github.com/18F/nsf-sbir/issues/new). Please provide a detailed description of the problem you encountered (along with screenshots and steps we can take to reproduce the error) or the change you're suggesting — we'll respond as quickly as we can.
 
-Notice something wrong with the site or want to make a recommendation? Open an issue in our [GitHub repository](https://github.com/18F/nsf-sbir/issues). Please provide a detailed description of the problem you encountered (along with screenshots and steps we can take to reproduce the error) or the change you're suggesting — we'll respond as quickly as we can.
+</div>
+</div>
+</section>
 
-## Program directors
+<section class="usa-section background-light-warm-gray">
+<div class="usa-content utility-content usa-grid">
+<div class="usa-content usa-width-one-whole" markdown="1">
+
 Our program directors are domain experts from diverse fields — get to know them here.
 
 {% include program-directors.html %}
+
+</div>
+</div>
+</section>
