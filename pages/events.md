@@ -24,22 +24,28 @@ Thinking of applying for Phase I funding? Ask all your application-related quest
     </thead>
     <tbody>
 
+    {% assign day_today = site.time | date: "%Y%m%d" %}
     {% for event in site.events reversed %}
-      <tr>
-        <td width="20%">{{event.date | date: "%B %-d, %Y" }}<br>
-        {{event.timeStart}} - {{event.timeEnd}}</td>
-        <td width="20%">{{event.eventType}}</td>
-        <td><span class="event-title">{{event.title}}</span>
-        <span class="event-description">{{event.description}}</span>
-        {% if event.registrationLink %}
-          <a class="usa-button" href="{{ event.registrationLink }}">Register</a>
+    {% assign event_date = event.date | date: "%Y%m%d" %}
+      {% if event_date >= day_today%}
+
+        <tr>
+        {{event_date}} | {{day_today}}
+          <td width="20%">{{event.date | date: "%B %-d, %Y" }}<br>
+            {{event.timeStart}} - {{event.timeEnd}}</td>
+          <td width="20%">{{event.eventType}}</td>
+          <td><span class="event-title">{{event.title}}</span>
+          <span class="event-description">{{event.description}}</span>
+          {% if event.registrationLink %}
+            <a class="usa-button" href="{{ event.registrationLink }}">Register</a>
+          {% endif %}
+          {% if event.moreInfoLink %}
+            {{ event.moreInfoLink }}
+          {% endif %}
+          </td>
+        </tr>
         {% endif %}
-        {% if event.moreInfoLink %}
-          {{ event.moreInfoLink }}
-        {% endif %}
-        </td>
-      </tr>
-      {% endfor %}
+        {% endfor %}
     </tbody>
 </table>
 
