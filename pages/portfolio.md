@@ -8,6 +8,8 @@ section_image_caption: |
   From lab to market - [Bolt Threads](#) genetically engineered yeast brew silk proteins that can be spun into fibers.
 ---
 
+{% assign recent_date = site.data.awards_meta['recent_date'] | date: "%m/%Y" | default: 'DATE' %}
+
 <section class="section-header background-light-neutral">
 <div class="usa-section usa-content usa-grid" markdown="1">
 
@@ -47,7 +49,7 @@ Since 1977, we’ve awarded funding for high-risk R&D to more than 11,000 startu
 
 <section class="background-light-neutral" markdown="1">
 <div class="usa-section-tight-top usa-section usa-content usa-grid" markdown="1">
-**View our current awardees,** who are still completing the research outlined in their proposals and who haven't yet reached the estimated ends of their award terms. [View current Phase I awardees]({{ site.baseurl }}/awardees/phase-1/), [Current Phase II awardees]({{ site.baseurl }}/awardees/phase-2/), or our [most recent (12/16) Phase I awardees]({{ site.baseurl }}/awardees/phase-1-recent/).
+**View our current awardees,** who are still completing the research outlined in their proposals and who haven't yet reached the estimated ends of their award terms. [View current Phase I awardees]({{ site.baseurl }}/awardees/phase-1/), [Current Phase II awardees]({{ site.baseurl }}/awardees/phase-2/), or our [most recent ({{ recent_date }}) Phase I awardees]({{ site.baseurl }}/awardees/phase-1-recent/).
 </div>
 </section>
 <section class="section-background-image">
