@@ -29,6 +29,20 @@ fastlane:
   - text: Proposal Submission
     href: /fastlane/fastlane-3/
     
+review:
+  - text: Review Process
+    href: /review/review_process/
+  - text: Peer Review
+    href: /review/peer_review/
+  - text: Instructions for Panelists
+    href: /review/panelist_system/
+  - text: Instructions for Mail Reviewers
+    href: /review/peer_mail_review/
+  - text: Travel Instructions
+    href: /review/travel/
+  - text: Virtual Panels
+    href: /review/virtual_panelist/
+
 awardees:
   - text: General Grant Conditions
     href: https://www.nsf.gov/awards/managing/special_conditions.jsp
