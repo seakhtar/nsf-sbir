@@ -2,6 +2,7 @@
  title: Forms
  permalink: /awardees/forms/
  layout: secondary-narrow
+ sidenav: awardees
 ---
 
 ## Forms for Phase I awardees
