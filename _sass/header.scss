@@ -1,10 +1,39 @@
+.usa-banner,
 .usa-banner-header {
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.usa-banner-inner {
+  display: flex;
+  justify-content: center;
+
+  @include media($large-screen) {
+    display: block;
+  }
+}
+
+.usa-banner-header {
+
   .usa-label {
     font-size: inherit;
   }
 
+  .banner-left {
+    display: none;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
   .banner-right {
     float: right;
+    margin-bottom: 0;
+    margin-top: 0;
+
+    > * {
+      margin-bottom: 0;
+      margin-top: 0;
+    }
   }
 
   a {
@@ -12,8 +41,10 @@
     text-decoration: underline;
   }
 
-  img {
-    margin-top: 0;
+  @include media($large-screen) {
+    .banner-left {
+      display: inline-block;
+    }
   }
 }
 
