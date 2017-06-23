@@ -1,0 +1,69 @@
+
+h2#program-directors {
+  margin: $space-xl+$space-m 0 $space-l 0;
+}
+
+h2#executive-staff {
+  margin-top: $space-xl+$space-m;
+}
+
+h2#program-directors,
+h2#executive-staff {
+  padding-top: $space-m;
+  position: relative;
+  &::before {
+    background-color: $color-base;
+    content: '';
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 60px;
+    }
+}
+
+.bios-content {
+
+  p {
+
+    @media screen and (min-width: $medium-screen) and (max-width: $large-screen) {
+      &:nth-of-type(3n) {
+        margin-left: 14rem;
+        margin-top: -14rem;
+      }
+    }
+
+    @media screen and (min-width: $large-screen){
+      &:nth-of-type(3n) {
+        margin-left: 20rem;
+        margin-top: -14rem;
+      }
+    }
+
+    a[name] {
+      padding-bottom: $space-xl;
+      display: block;
+      border: none;
+    }
+
+    img {
+        width: 12rem;
+        border-radius: 6rem;
+    }
+
+    &:first-child {
+      a[name] {
+        padding-bottom: 0;
+      }
+    }
+
+  }
+
+}
+
+
+
+
+// Phase I current awardees
+// 59%
+// of awarded companies from the most recent 2017 cohort are <3 years old
