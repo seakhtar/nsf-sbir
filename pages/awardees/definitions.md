@@ -2,6 +2,7 @@
 title: Definitions
 permalink: /awardees/definitions/
 layout: secondary-narrow
+sidenav: awardees
 ---
 
 ## Commercialization

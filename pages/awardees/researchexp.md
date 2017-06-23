@@ -2,6 +2,7 @@
 title: Portfolio Research Experience and Partnerships
 permalink: /awardees/researchexp/
 layout: secondary-narrow
+sidenav: awardees
 ---
 # Portfolio research experience and partnerships
 
