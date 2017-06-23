@@ -2,6 +2,7 @@
 title: How to Apply Phase II
 permalink: /awardees/how-to-apply-phase-ii/
 layout: secondary-narrow
+sidenav: awardees
 ---
 
 Interested in applying for Phase II funding? Review this information before starting your application.
