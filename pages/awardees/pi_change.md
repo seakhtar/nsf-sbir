@@ -1,6 +1,6 @@
 ---
 title: Principal Investigator PI Change
-permalink: /awardees/pi-change/
+permalink: /awardees/pi_change/
 layout: secondary-narrow
 sidenav: awardees
 ---
