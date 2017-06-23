@@ -52,7 +52,7 @@
               <ul class="usa-unstyled-list flex-list ">
                 {% for _link in subfooter_links %}
                 <li class="usa-footer-primary-content">
-                  <a class="usa-footer-primary-link" href="{{ _link.href | relative_url }}">
+                  <a class="usa-footer-primary-link" href="{% if _link.href contains "https:"  or _link.href contains "www." _link.href contains "http:" %}{{ _link.href}}{% else %}{{ _link.href | relative_url }}{% endif %}">
                     {{ _link.text }}
                   </a>
                 </li>
