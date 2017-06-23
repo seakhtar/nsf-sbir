@@ -1,6 +1,6 @@
 ---
 title: Virtual Panelist
-permalink: /review/virtual_panelist/
+permalink: /review/virtual-panelist/
 layout: secondary-narrow
 sidenav: review
 ---

@@ -1,6 +1,6 @@
 ---
 title: Peer Review
-permalink: /review/peer_review/
+permalink: /review/peer-review/
 layout: secondary-narrow
 sidenav: review
 ---

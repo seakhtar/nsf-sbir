@@ -1,7 +1,8 @@
 ---
 title: Supplement Instructions
-permalink: /awardees/
+permalink: /awardees/supplement/
 layout: secondary-narrow
+sidenav: awardees
 ---
 
 # Supplemental funding information
