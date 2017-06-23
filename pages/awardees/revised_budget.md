@@ -2,6 +2,7 @@
 title: Revised Budget
 permalink: /awardees/revised-budget/
 layout: secondary-narrow
+sidenav: awardees
 ---
 
 # Revised budget 
