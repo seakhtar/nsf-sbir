@@ -1,3 +1,8 @@
+ title: Reporting Requirements
+ permalink: /awardees/reporting2/
+ layout: secondary-narrow
+ sidenav: awardees
+
 All reporting is administered through Research.gov. Please see the following website for technical guidance and tips on the submission process: [Research.gov Reporting Information](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_page_n_about_por). The Research.gov Help Desk can be contacted at Rgov@nsf.gov or 1-800-381-1532. The requirements expected for the SBIR/STTR program are detailed below.
 
 # Phase II Reporting
