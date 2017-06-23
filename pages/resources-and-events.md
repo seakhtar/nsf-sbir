@@ -1,6 +1,6 @@
 ---
 title: Resources and events
-permalink: /events/
+permalink: /resources-and-events/
 layout: secondary-narrow
 ---
 
@@ -10,6 +10,7 @@ Helpful information for applicants and awardees.
 
 ## For applicants
 
+{% if site.app_process == "active" %}
 ### Q&A webinars
 
 Thinking of applying for Phase I funding? Ask all your application-related questions during our Q&A webinars. Can’t make it to a webinar? Check out our videos covering [program basics](https://www.youtube.com/watch?v=1Tm_ToVRpqE) and [what you need to know before applying](https://www.youtube.com/watch?v=-0lhmfczIJ8&feature=youtu.be). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.)
@@ -48,19 +49,13 @@ Thinking of applying for Phase I funding? Ask all your application-related quest
         {% endfor %}
     </tbody>
 </table>
+{% else %}
+### Q&A videos
 
+Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://www.youtube.com/watch?v=1Tm_ToVRpqE) and [what you need to know before applying](https://www.youtube.com/watch?v=-0lhmfczIJ8&feature=youtu.be). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.) 
+{% endif %}
 
-### Onsite events
-
-Our mentors and staff attend events year round and across the country; attending these events is a great way to learn more about the program, our companies’ accomplishments, and the application process. Here are just a few events we’ll be visiting:
-
-  - [SxSW](http://schedule.sxsw.com/2017/events/OE06311)
-  - [CES](http://www.ces.tech/)
-  - [SBIR Road Tour](http://www.sbirroadtour.com/)
-
-  Before you register, please double-check event dates and times with the sponsoring organizations.
-
-### Video profiles
+### Startup and partnership profiles
 
 Get to know our awardees better — we’ve got [video profiles of funded startups and small businesses](https://www.youtube.com/playlist?list=PLGhBP1C7iCOkPp8yv2I3ZGk16LiMIiikb), along with [profiles of funded startup partnerships](https://www.youtube.com/playlist?list=PLGhBP1C7iCOkmWtgG1BKTZpfMMCDkYY61).
 
