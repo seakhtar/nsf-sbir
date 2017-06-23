@@ -1,7 +1,8 @@
 ---
 title: Panelist System
-permalink: /review/panelist_system/
+permalink: /review/panelist-system/
 layout: secondary-narrow
+sidenav: review
 ---
 
 # Panelist System
