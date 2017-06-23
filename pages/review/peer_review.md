@@ -2,6 +2,7 @@
 title: Peer Review
 permalink: /review/peer_review/
 layout: secondary-narrow
+sidenav: review
 ---
 
 # Peer Review
@@ -24,7 +25,7 @@ The NSF SBIR/STTR Program makes awards to small companies developing innovations
   - Offering potential for societal benefit (through commercialization under a sustainable business model).
 
 ## Panelist Conflict of Interest (COI)
-The NSF Conflict-of-Interests and Confidentiality Statement for NSF Panelists must be read and signed. Please open and review the required [COI Form](/files/coiform.docx), you will be required to sign this form on the morning of the panel. For Mail Reviewers Only: Prior to receiving access to any proposal in FastLane, mail reviewers must sign the NSF Conflict-of-Interest (COI) and Confidentiality Statement for NSF Panelists. Please print and sign the [COI Form](/files/coiform.docx) and scan/email it to the NSF staff person that invited you to review. If necessary, you can fax the COI form to 703-292-9057. In the field "Panel Name" please clearly indicate the proposal number that you were invited to review.
+The NSF Conflict-of-Interests and Confidentiality Statement for NSF Panelists must be read and signed. Please open and review the required [COI Form]({{ site.baseurl }}/assets/files/awardee-files/coiform.docx), you will be required to sign this form on the morning of the panel. For Mail Reviewers Only: Prior to receiving access to any proposal in FastLane, mail reviewers must sign the NSF Conflict-of-Interest (COI) and Confidentiality Statement for NSF Panelists. Please print and sign the [COI Form]({{ site.baseurl }}/assets/files/awardee-files/coiform.docx) and scan/email it to the NSF staff person that invited you to review. If necessary, you can fax the COI form to 703-292-9057. In the field "Panel Name" please clearly indicate the proposal number that you were invited to review.
 
 ## SBIR/STTR Merit Review Criteria
 
@@ -53,5 +54,5 @@ This criterion addresses the overall impact of the proposed activity.
 
 Please see the below links for additional review criterion for commercial reviews:
 
-**Phase I:** [Phase I Commercial Review Form](/files/PhaseICommercialReviewerForm.doc)  
-**Phase II:** [Phase II Commercial Review Form](/files/PhaseICommercialReviewerForm.doc)
+**Phase I:** [Phase I Commercial Review Form]({{ site.baseurl }}/assets/files/awardee-files/PhaseICommercialReviewerForm.doc)  
+**Phase II:** [Phase II Commercial Review Form]({{ site.baseurl }}/assets/files/awardee-files/PhaseICommercialReviewerForm.doc)
