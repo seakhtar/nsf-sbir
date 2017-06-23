@@ -6,7 +6,12 @@ h1,
   font-weight: 800;
   letter-spacing: $kern-tight;
   line-height: $leading-xxs;
-  margin: 0;
+}
+h1+p {
+  letter-spacing: $kern-tight;
+  line-height: $leading-s;
+  font-weight: 500;
+  margin: $space-l 0;
 }
 
 h2,
