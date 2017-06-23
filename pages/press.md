@@ -30,9 +30,13 @@ If you'd like to include the NSF logo in your press release, please use [the off
 
 We also have a [one sheet]() covering program basics and points of interest. 
 
-## Our rebrand
+## Same program, new look 
 
-[Info to go here!]
+We’re thrilled to announce that the NSF SBIR/STTR program is now America’s Seed Fund (powered by NSF). The details of our program haven’t changed — we’re still offering no-equity funding to small businesses to help them commercialize their high-risk technologies — but our positioning has. 
+ 
+Research revealed that our users wanted an experience that felt more modern and less academic; our choice to change our name to America’s Seed Fund reflects this user need and, we feel, more accurately conveys the benefits of our program. Likewise, our new visual identity, with its bold palette, engaging imagery, and clean typefaces, conveys our values of supporting high-risk technologies, mentoring diverse entrepreneurs, and promoting cutting-edge products and services that will improve Americans’ quality of life. We’ve also updated our site’s content, adopting a more conversational voice to reflect our organization’s openness, and reorganized our site to make information even easier to find.
+ 
+If you have suggestions, we’d love to hear them — share your feedback [via email](sbir@nsf.gov).
 
 ## Additional resources
 
