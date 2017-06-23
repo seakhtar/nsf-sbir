@@ -2,6 +2,7 @@
 title: Reporting Requirements
 permalink: /awardees/reporting/
 layout: secondary-narrow
+sidenav: awardees
 ---
 
 As a Phase I SBIR/STTR awardee, you need to provide formal reports on two different occasions: 1) when the Phase I award period ends, and 2) when you submit your Phase II proposal (if you choose to do so). The two reports are fairly similar, but need to be submitted at different times and through different electronic systems. See details on each requirement below.
