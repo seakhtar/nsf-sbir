@@ -20,4 +20,10 @@ Jekyll::Hooks.register :site, :after_init do |site|
   puts "starting awards summary updates..."
   awards_summary = SiteData::AwardsSummary.new(site)
   awards_summary.generate
+
+  puts "--------------------"
+  puts "updating program directors..."
+  program_directors = SiteData::ProgramDirectors.new(site)
+  program_directors.generate
+
 end

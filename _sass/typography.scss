@@ -1,11 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Chivo:400,700|Work+Sans:400,500,600,700,800');
 
+h1,
 .page-title {
   font-size: $font-size-xl;
   font-weight: 800;
   letter-spacing: $kern-tight;
   line-height: $leading-xxs;
-  margin: 0;
+}
+h1+p {
+  letter-spacing: $kern-tight;
+  line-height: $leading-s;
+  font-weight: 500;
+  margin: $space-l 0;
 }
 
 h2,

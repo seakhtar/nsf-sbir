@@ -26,19 +26,21 @@ More than ten million people worldwide live with voicelessness. Many of them rel
 
 To learn more, visit [https://www.vocalid.co/](https://www.vocalid.co/).
 
-<!-- — for example, a sustained “ah” — and blending it with that of a speaker who is about the same age and size, and who shares a linguistic background with the recipient. Rupal Patel, CEO and founder of VocaliD, says that each merged speech sample creates a unique voice that closely resembles that of the recipient, allowing people to communicate more comfortably.
+{% comment %}
+for example, a sustained “ah” — and blending it with that of a speaker who is about the same age and size, and who shares a linguistic background with the recipient. Rupal Patel, CEO and founder of VocaliD, says that each merged speech sample creates a unique voice that closely resembles that of the recipient, allowing people to communicate more comfortably.
 
 Dr. Patel recalls getting an email from a nine-year-old who had seen her TED talk and wanted to give her voice to her sister, who was unable to speak. “Getting that email, I thought, ‘this is amazing,’” recalls Patel, who realized that the commercial potential for her technology was vast. Capital from America’s Seed Fund allowed her to scale her company and offer personalized digital voices to people worldwide. Today, VocaliD’s voicebank platform contains more than 20,000 members who have contributed more than 6 million sentences, helping people everywhere preserve their vocal identities.  
 
-To learn more, visit [https://www.vocalid.co/](https://www.vocalid.co/). -->
+To learn more, visit [https://www.vocalid.co/](https://www.vocalid.co/).
+{% endcomment %}
 
 </div>
 
-<!-- <div class="usa-width-one-half" markdown="1">
-
+{% comment %}
+<div class="usa-width-one-half" markdown="1">
 ![Other Topics (OT)](../assets/img/icons/OT-white.svg)
-
-</div> -->
+</div>
+{% endcomment %}
 
 <div class="usa-width-one-half">
 
