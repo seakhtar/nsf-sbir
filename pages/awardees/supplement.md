@@ -2,6 +2,7 @@
 title: Supplement Instructions
 permalink: /awardees/
 layout: secondary-narrow
+sidenav: awardees
 ---
 
 # Supplemental funding information
