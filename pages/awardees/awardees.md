@@ -13,10 +13,14 @@ Current awardees and alumni, learn how you can [help spread the word about the N
 Information for current Phase I awardees
 
 - [Phase I general award conditions](https://www.nsf.gov/awards/managing/special_conditions.jsp)
+<<<<<<< HEAD
 - [New awardee kit]({{ site.baseurl }}/assets/files/grantee-files/NSF-SBIR-STTR-PhaseIRespOpp.pdf)
+=======
+- [New awardee kit]({{ site.baseurl }}/assets/files/awardee-files/NSF-SBIR-STTR-PhaseIRespOpp.pdf) 
+>>>>>>> origin/awardees-side-nav
 - [CAAR videos for Phase I awardees: financial capability, accounting, and Phase II budgeting](https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv)
 - [Phase I reporting requirements]({{ site.baseurl }}/awardees/reporting/)
-- [How to apply for a Phase II award]({{ site.baseurl }}/awardees/how-to-apply-phaseii/)
+- [How to apply for a Phase II award]({{ site.baseurl }}/awardees/howtoapplyphaseii/)
 
 ## Phase II
 
