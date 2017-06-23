@@ -46,15 +46,22 @@
               </ul>
             </nav>
         {% endif %}
+        {% if footer.subfooter %}
+          {% assign subfooter_links = site.data.navigation[footer.subfooter] | default: subfooter.links %}
+            <nav class="usa-footer-nav">
+              <ul class="usa-unstyled-list flex-list ">
+                {% for _link in subfooter_links %}
+                <li class="usa-footer-primary-content">
+                  <a class="usa-footer-primary-link" href="{% if _link.href contains "https:"  or _link.href contains "www." _link.href contains "http:" %}{{ _link.href}}{% else %}{{ _link.href | relative_url }}{% endif %}">
+                    {{ _link.text }}
+                  </a>
+                </li>
+                {% endfor %}
+              </ul>
+            </nav>
+        {% endif %}
       </div>
       <div class="usa-width-one-third">
-
-        {% assign contact_links = site.data.navigation[footer.contact.links] | default: footer.contact.links %}
-        {% for _link in contact_links %}
-        <a class="usa-link-{{ _link.type | default: 'generic' }}" href="{{ _link.href | relative_url }}">
-          <span>{{ _link.text }}</span>
-        </a>
-        {% endfor %}
         {% if footer.contact.heading %}
         <h3 class="usa-footer-contact-heading">{{ footer.contact.heading }}</h3>
         {% endif %}
@@ -67,7 +74,12 @@
         {% if footer.social.youtube_url %}
           <a href="{{ footer.social.youtube_url }}" class="social-link"><img src="{{site.baseurl}}/assets/uswds/img/social-icons/svg/youtube15.svg"></a>
         {% endif %}
-
+        {% assign contact_links = site.data.navigation[footer.contact.links] | default: footer.contact.links %}
+        {% for _link in contact_links %}
+        <a class="usa-link-{{ _link.type | default: 'generic' }}" href="{{ _link.href | relative_url }}">
+          <span>{{ _link.text }}</span>
+        </a>
+        {% endfor %}
       </div>
     </div>
   </div>

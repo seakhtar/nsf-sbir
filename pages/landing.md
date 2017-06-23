@@ -10,7 +10,7 @@ hero:
     text: We take 0% equity
   button:
     href: /apply/
-    text: "Start your application"
+    text: "Learn how to apply"
     subtext: "Deadline: {{site.deadline}}"
 ---
 
@@ -59,7 +59,7 @@ SBIR &#124; STTR
 <hr class="divider divider-left">
 <p class="text-large"><strong>We support research and development of groundbreaking, high-impact, high-risk technology. As we review applications, we consider your technology’s innovativeness, commercial potential, and possible social impact.</strong></p>
 
-<a class="usa-button usa-button-secondary usa-button-big button-arrow" href="{{ site.baseurl }}/awardees/">
+<a class="usa-button usa-button-secondary usa-button-big button-arrow" href="{{ site.baseurl }}/awardees/phase-1-recent/">
 View recent awardees
 </a>
 

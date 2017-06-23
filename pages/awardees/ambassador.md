@@ -2,6 +2,7 @@
 title: Be an Ambassador
 permalink: /awardees/ambassador/
 layout: secondary-narrow
+sidenav: awardees
 ---
 
 As an awardee, you're the face of our program. We look to you to help generate public awareness of America's Seed Fund and encourage other promising small businesses and startups to apply, and we appreciate your ongoing support.
