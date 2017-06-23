@@ -12,7 +12,7 @@ section_image_caption: |
 <div class="usa-section usa-content usa-grid" markdown="1">
 
 # Portfolio
-Since 1977, we’ve awarded funding for high-risk R&D to more than 11,000 startups and small businesses. Since 2010, our awardees have had 62 exits and have received $3.2 billion in external funding. These featured companies are a small, random selection of all our funded companies.
+Since 2012, America’s Seed Fund powered by NSF has made nearly 2,500 awards to startups and small businesses. Since 2010, our awardees have had 62 exits and have received $3.2 billion in external funding. We encourage you to explore this list of assorted companies we've funded.
 
 <p class="text-medium" markdown="1">
 
