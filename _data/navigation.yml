@@ -28,20 +28,20 @@ fastlane:
     href: /fastlane/fastlane-2-3/
   - text: Proposal Submission
     href: /fastlane/fastlane-3/
-    
+
 review:
   - text: Review Process
-    href: /review/review_process/
+    href: /review/
   - text: Peer Review
-    href: /review/peer_review/
+    href: /review/peer-review/
   - text: Instructions for Panelists
-    href: /review/panelist_system/
+    href: /review/panelist-system/
   - text: Instructions for Mail Reviewers
-    href: /review/peer_mail_review/
+    href: /review/peer-mail-review/
   - text: Travel Instructions
     href: /review/travel/
   - text: Virtual Panels
-    href: /review/virtual_panelist/
+    href: /review/virtual-panelist/
 
 awardees:
   - text: General Grant Conditions
@@ -49,23 +49,23 @@ awardees:
   - text: CAAR Videos for Phase I Awardees
     href: https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv
   - text: Phase I Reporting Requirements
-    href: /awardees/reporting/
+    href: /awardees/reporting/phase-1/
   - text: How to apply for Phase II
-    href: /awardees/howtoapplyphaseii/
+    href: /awardees/apply/phase-2/
   - text: Supplemental Funding Opportunities
     href: /awardees/supplement/
   - text: Phase II Reporting Requirements
-    href: /awardees/reporting2/
+    href: /awardees/reporting/phase-2/
   - text: Forms and Checklists
     href: /awardees/forms/
   - text: Revising a Budget
-    href: /awardees/revised_budget/
+    href: /awardees/revised-budget/
   - text: No Cost Extension
-    href: /awardees/nce/
+    href: /awardees/no-cost-extension/
   - text: Changes at your Organization
     href: /awardees/novation/
   - text: Change of PI
-    href: /awardees/pi_change/
+    href: /awardees/pi-change/
 
 footer:
   - text: About

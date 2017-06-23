@@ -2,6 +2,7 @@
 title: Travel
 permalink: /review/travel/
 layout: secondary-narrow
+sidenav: review
 ---
 
 # Travel
