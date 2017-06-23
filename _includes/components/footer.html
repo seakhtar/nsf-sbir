@@ -46,15 +46,6 @@
               </ul>
             </nav>
         {% endif %}
-      </div>
-      <div class="usa-width-one-third">
-
-        {% assign contact_links = site.data.navigation[footer.contact.links] | default: footer.contact.links %}
-        {% for _link in contact_links %}
-        <a class="usa-link-{{ _link.type | default: 'generic' }}" href="{{ _link.href | relative_url }}">
-          <span>{{ _link.text }}</span>
-        </a>
-        {% endfor %}
         {% if footer.subfooter %}
           {% assign subfooter_links = site.data.navigation[footer.subfooter] | default: subfooter.links %}
             <nav class="usa-footer-nav">
@@ -70,20 +61,26 @@
             </nav>
         {% endif %}
       </div>
-    </div>
-    <div class="usa-grid">
-      {% if footer.contact.heading %}
-      <h3 class="usa-footer-contact-heading">{{ footer.contact.heading }}</h3>
-      {% endif %}
-      {% if footer.contact.content %}
-        {{ footer.contact.content | markdownify }}
-      {% endif %}
-      {% if footer.social.twitter_url %}
-        <a href="{{ footer.social.twitter_url }}" class="social-link"><img src="{{site.baseurl}}/assets/uswds/img/social-icons/svg/twitter16.svg"></a>
-      {% endif %}
-      {% if footer.social.youtube_url %}
-        <a href="{{ footer.social.youtube_url }}" class="social-link"><img src="{{site.baseurl}}/assets/uswds/img/social-icons/svg/youtube15.svg"></a>
-      {% endif %}
+      <div class="usa-width-one-third">
+        {% if footer.contact.heading %}
+        <h3 class="usa-footer-contact-heading">{{ footer.contact.heading }}</h3>
+        {% endif %}
+        {% if footer.contact.content %}
+          {{ footer.contact.content | markdownify }}
+        {% endif %}
+        {% if footer.social.twitter_url %}
+          <a href="{{ footer.social.twitter_url }}" class="social-link"><img src="{{site.baseurl}}/assets/uswds/img/social-icons/svg/twitter16.svg"></a>
+        {% endif %}
+        {% if footer.social.youtube_url %}
+          <a href="{{ footer.social.youtube_url }}" class="social-link"><img src="{{site.baseurl}}/assets/uswds/img/social-icons/svg/youtube15.svg"></a>
+        {% endif %}
+        {% assign contact_links = site.data.navigation[footer.contact.links] | default: footer.contact.links %}
+        {% for _link in contact_links %}
+        <a class="usa-link-{{ _link.type | default: 'generic' }}" href="{{ _link.href | relative_url }}">
+          <span>{{ _link.text }}</span>
+        </a>
+        {% endfor %}
+      </div>
     </div>
   </div>
   {% endif %}
