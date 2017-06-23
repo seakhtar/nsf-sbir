@@ -30,7 +30,7 @@ Information for current Phase II awardees
 
 Useful information for Phase I and Phase II awardees
 
-- [Common forms and checklists]({{ site.baseurl }}/events/)
+- [Common forms and checklists]({{ site.baseurl }}/awardees/forms/)
 - [Revising a budget]({{ site.baseurl }}/awardees/revised_budget/)
 - [Time extension (no-cost extension)]({{ site.baseurl }}/awardees/nce/)
 - [Changes at your organization]({{ site.baseurl }}/awardees/novation/)
