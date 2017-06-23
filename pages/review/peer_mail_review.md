@@ -2,6 +2,7 @@
 title: Peer Mail Review
 permalink: /review/peer_mail_review/
 layout: secondary-narrow
+sidenav: review
 ---
 
 # Peer Mail Review
@@ -20,7 +21,7 @@ The "Proposal Review" feature of NSF's FastLane system is required by the Direct
 5. Scroll to the very bottom of the screen.
 6. The "Prepare Review" link will allow the reviewer to rate the proposal and enter review text, as well as identify any potential Conflict of Interest and supply other Suggested Reviewers (please include email address).
 
-Please note that the Proposal Evaluation Criteria listed on this page is general for NSF. See specific and additional [SBIR/STTR Program Review Criteria here](/review/peer_review).
+Please note that the Proposal Evaluation Criteria listed on this page is general for NSF. See specific and additional [SBIR/STTR Program Review Criteria here]({{ site.baseurl }}/review/peer_review/).
 
 - Scroll to the bottom of the first page and click the "Continue" button to reach the **'Proposal Review'** screen where the Principal Investigator’s name, proposal number, submitting institution, and other data will be displayed.
 - Under **'Rating Section'** please click "I am rating this proposal." and then click the **overall rating box** that is most appropriate. This can be done after entering the review text if desired. Please do not select multiple ratings for SBIR/STTR proposals.
