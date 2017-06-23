@@ -10,7 +10,7 @@ hero:
     text: We take 0% equity
   button:
     href: /apply/
-    text: "Start your application"
+    text: "Learn how to apply"
     subtext: "Deadline: {{site.deadline}}"
 ---
 
