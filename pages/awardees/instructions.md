@@ -2,6 +2,7 @@
 title: Instructions
 permalink: /awardees/instructions/
 layout: secondary-narrow
+sidenav: awardees
 ---
 
 From the FastLane Homepage http://www.fastlane.nsf.gov select:

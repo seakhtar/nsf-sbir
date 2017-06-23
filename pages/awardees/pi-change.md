@@ -2,6 +2,7 @@
 title: Principal Investigator PI Change
 permalink: /awardees/pi-change/
 layout: secondary-narrow
+sidenav: awardees
 ---
 
 # Preparing a PI change request for SBIR/STTR projects

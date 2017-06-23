@@ -10,7 +10,7 @@ hero:
     text: We take 0% equity
   button:
     href: /apply/
-    text: "Start your application"
+    text: "Learn how to apply"
     subtext: "Deadline: {{site.deadline}}"
 ---
 
@@ -21,7 +21,7 @@ hero:
 
 We offer funding for early stage R&D and take no equity in your company — you retain full control over your team, the direction of your work, and your intellectual property.
 
-<a class="usa-button usa-button-primary button-arrow" href="/about/">
+<a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/about/">
 See program details
 </a>
 
@@ -31,7 +31,7 @@ See program details
 
 Attend dozens of annual events — conferences, road shows, and more — and build lasting bonds with industry leaders.
 
-<a class="usa-button usa-button-primary button-arrow" href="#">
+<a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/events/">
 View events
 </a>
 
@@ -41,7 +41,7 @@ View events
 
 We fund startups and small businesses across technology areas and markets including IoT, edtech, smart health, robotics, and much more.
 
-<a class="usa-button usa-button-primary button-arrow" href="/portfolio/">
+<a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/portfolio/">
 View our portfolio
 </a>
 
@@ -59,7 +59,7 @@ SBIR &#124; STTR
 <hr class="divider divider-left">
 <p class="text-large"><strong>We support research and development of groundbreaking, high-impact, high-risk technology. As we review applications, we consider your technology’s innovativeness, commercial potential, and possible social impact.</strong></p>
 
-<a class="usa-button usa-button-secondary usa-button-big button-arrow" href="/awardees/">
+<a class="usa-button usa-button-secondary usa-button-big button-arrow" href="{{ site.baseurl }}/awardees/phase-1-recent/">
 View recent awardees
 </a>
 
@@ -75,7 +75,7 @@ View recent awardees
 
 Since 1977, America’s Seed Fund (also known as SBIR/STTR) has helped startups develop their ideas and bring them to market. From 2007 to 2016, we funded roughly 400 companies each year.
 
-<a class="usa-button usa-button-primary button-arrow" href="#">
+<a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/showcase/">
 Learn about our impact
 </a>
 
@@ -85,7 +85,7 @@ Learn about our impact
 
 Our program fosters and encourages participation in innovation and entrepreneurship by women and people of color as well as first-time entrepreneurs from all 50 states and U.S. territories.
 
-<a class="usa-button usa-button-primary button-arrow" href="#">
+<a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/apply/">
 What we look for
 </a>
 
