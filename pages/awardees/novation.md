@@ -2,6 +2,7 @@
 title: Novation-stub
 permalink: /awardees/novation/
 layout: secondary-narrow
+sidenav: awardees
 ---
 
 ## Changes to your organization
