@@ -14,35 +14,47 @@ Helpful information for applicants and awardees.
 
 Thinking of applying for Phase I funding? Ask all your application-related questions during our Q&A webinars. Can’t make it to a webinar? Check out our videos covering [program basics](https://www.youtube.com/watch?v=1Tm_ToVRpqE) and [what you need to know before applying](https://www.youtube.com/watch?v=-0lhmfczIJ8&feature=youtu.be). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.)
 
+{% assign current_events = ',' | split: "," %}
+{% assign day_today = site.time | date: "%Y%m%d" %}
+{% for event in site.events %}
+{% assign event_date = event.date | date: "%Y%m%d" %}
+  {% if event_date >= day_today %}
+    {% assign current_events = current_events | push: event %}
+  {% endif %}
+{% endfor %}
+
+{% if current_events.size > 0 %}
 <table class="usa-table-borderless event-listing">
     <thead>
       <tr>
         <th scope="col">Date/time</th>
-        <th scope="col">Event type</th>
         <th scope="col">Details</th>
       </tr>
     </thead>
     <tbody>
 
-    {% for event in site.events reversed %}
-      <tr>
-        <td width="20%">{{event.date | date: "%B %-d, %Y" }}<br>
-        {{event.timeStart}} - {{event.timeEnd}}</td>
-        <td width="20%">{{event.eventType}}</td>
-        <td><span class="event-title">{{event.title}}</span>
-        <span class="event-description">{{event.description}}</span>
-        {% if event.registrationLink %}
-          <a class="usa-button" href="{{ event.registrationLink }}">Register</a>
-        {% endif %}
-        {% if event.moreInfoLink %}
-          {{ event.moreInfoLink }}
-        {% endif %}
-        </td>
-      </tr>
-      {% endfor %}
+    {% for event in current_events %}
+
+        <tr>
+          <td width="20%">{{event.date | date: "%B %-d, %Y" }}<br>
+            {{event.timeStart}} - {{event.timeEnd}}</td>
+          <td><span class="event-title">{{event.title}}</span>
+          <span class="event-description">{{event.description}}</span>
+          {% if event.registrationLink %}
+            <a class="usa-button" href="{{ event.registrationLink }}">Register</a>
+          {% endif %}
+          {% if event.moreInfoLink %}
+            {{ event.moreInfoLink }}
+          {% endif %}
+          </td>
+        </tr>
+
+
+        {% endfor %}
     </tbody>
 </table>
-
+{% else %}
+{% endif %}
 
 ### Onsite events
 
