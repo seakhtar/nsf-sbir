@@ -2,6 +2,7 @@
 title: Supplemental Phase II B
 permalink: /awardee/supplemental-phase-2-b/
 layout: secondary-narrow
+sidenav: awardees
 ---
 
 # Phase IIB Supplement Funding Opportunity (only applicable for SBIR and STTR Phase II grantees.)
