@@ -59,40 +59,6 @@ Thinking of applying for Phase I funding? Check out our videos covering [program
 
 Get to know our awardees better — we’ve got [video profiles of funded startups and small businesses](https://www.youtube.com/playlist?list=PLGhBP1C7iCOkPp8yv2I3ZGk16LiMIiikb), along with [profiles of funded startup partnerships](https://www.youtube.com/playlist?list=PLGhBP1C7iCOkmWtgG1BKTZpfMMCDkYY61).
 
-## For Phase I awardees
-
-### Forms to manage Phase I funding
-
-[SBIR/STTR Funding Agreement Certification (PDF)]({{ site.baseurl }}/assets/files/grantee-files/SBIR_STTR_Funding_Agreement.pdf)
-Prospective SBIR/STTR awardees need to complete and submit this form so that the NSF can determine whether they’re eligible for an award. The NSF will use this certification to determine your compliance during the funding term.
-
-[Certificate of Current Cost or Pricing Data (Word doc)]({{ site.baseurl }}/assets/files/grantee-files/Certificate_of_Current_Cost.docx)
-The NSF will use this form to certify that your cost and pricing data are accurate and that you’re compliant throughout your funding term.
-
-[SBIR/STTR Phase I Report Cover Page (PDF)]({{ site.baseurl }}/assets/files/grantee-files/SBIR-STTR_Revised_Report_Cover.pdf)
-Your Phase I funding agreement notes when you need to complete this form, and you’ll be expected to complete it at the times listed in your funding agreement. Completing the form involves checking all of the boxes and having your authorized officer sign and date the certification each time the NSF requests it.
-
-## For Phase II applicants and awardees
-
-### Forms to apply for and manage Phase II funding
-
-[Company Commercialization History (XLS)]({{ site.baseurl }}/assets/files/grantee-files/CommercialHistoryTemplate.xls)
-If you’ve ever received a SBIR/STTR Phase II award from any agency (including the NSF), you’ll need to complete this form.
-
-[Blank Milestone Chart (XLSX)]({{ site.baseurl }}/assets/files/grantee-files/Blank_Milestone_Chart.xlsx)
-You need to submit this form to show the duration and expenditures of your current project.
-
-[SBIR/STTR Funding Agreement Certification (PDF)]({{ site.baseurl }}/assets/files/grantee-files/SBIR_STTR_Funding_Agreement.pdf)
-Prospective SBIR/STTR awardees need to complete and submit this form so that the NSF can determine whether they’re eligible for an award. The NSF will use this certification to determine your compliance during the funding term.
-
-[Certificate of Current Cost or Pricing Data (Word doc)]({{ site.baseurl }}/assets/files/grantee-files/Certificate_of_Current_Cost.docx)
-The NSF will use this form to certify that your cost and pricing data are accurate and that you’re compliant throughout your funding term.
-
-[SBIR/STTR Phase II Report Cover Page (PDF)]({{ site.baseurl }}/assets/files/grantee-files/SBIR-STTR_Revised_Report_Cover.pdf)
-Your Phase II funding agreement notes when you need to complete this form, and you’ll be expected to complete it at the times listed in your funding agreement. Completing the form involves checking all of the boxes and having your authorized officer sign and date the certification each time the NSF requests it.
-
-[SBIR/STTR Phase II Administrative and Financial Review video](https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv)
-
 ## General resources
 
 ### Spreading the word
@@ -102,6 +68,10 @@ As an awardee or alum, you’re the face of our program, and we hope you’ll sh
 ### Research experiences
 
 Are you a teacher or student who’s interested in research experiences and partnerships with Phase II awardees? Visit our [Research Experiences page](https://www.nsf.gov/eng/iip/sbir/portfolio/researchexp.jsp) to learn more about how you can partner with funded Phase II companies.
+
+### Award-management forms
+
+Our [Forms page]({{ '/awardees/forms/' | relative_url }}) has all the forms you need to manage your Phase I or Phase II award or apply for a Phase II award.
 
 ## FAQ
 
