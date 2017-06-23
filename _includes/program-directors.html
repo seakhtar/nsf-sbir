@@ -1,22 +1,25 @@
 <ul class="pd-list">
-  {% for topic in site.data.tech-topics %}
-    {% for programDirector in topic.programDirector %}
-      <li class="pd-card">
-        {% if programDirector.photo %}
-          <img src="{{ site.baseurl }}/assets/img/pd/{{ programDirector.photo }}">
-        {% endif %}
-        <span class="pd-list-content">
-          <h3 class="pd-name">{{ programDirector.name }}</h3>
-
+  {% for director in site.data.program-directors %}
+    <li class="pd-card">
+      {% if director.photo %}
+        <img src="{{ site.baseurl }}/assets/img/pd/{{ director.photo }}">
+      {% endif %}
+      <span class="pd-list-content">
+        <h3 class="pd-name"><a href="mailto:{{ director.email }}">{{ director.name }}</a></h3>
+        {% if director.topics.size > 0 %}
           <ul class="pd-topic-list">
-            <li class="pd-tech-topic"><a href="{{ site.baseurl }}{{ topic.permalink }}">{{ topic.topic }}</a></li>
+            {% for topic in director.topics %}
+              <li class="pd-tech-topic"><a href="{{ site.baseurl }}{{ topic.permalink }}">{{ topic.topic }}</a></li>
+            {% endfor %}
           </ul>
+        {% else %}
+          <div class="pd-topic-list"><span class="pd-tech-topic"><a href="{{ site.baseurl }}{{ director.topic_permalink }}">{{ director.topic }}</a></span></div>
+        {% endif %}
 
-          <p class="text-small">
-            <a href="mailto:{{ programDirector.email }}">Send email</a>
-          </p>
-        </span>
-      </li>
-    {% endfor %}
+        <p class="text-small">
+          <a href="mailto:{{ director.email }}">Send email</a>
+        </p>
+      </span>
+    </li>
   {% endfor %}
 </ul>
