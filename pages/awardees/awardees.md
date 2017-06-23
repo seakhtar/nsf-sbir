@@ -1,6 +1,6 @@
 ---
 title: For Awardees
-permalink: /awardees/awardees/
+permalink: /awardees/
 layout: secondary-narrow
 sidenav: awardees
 ---
@@ -13,20 +13,20 @@ Current awardees and alumni, learn how you can [help spread the word about the N
 Information for current Phase I awardees
 
 - [Phase I general award conditions](https://www.nsf.gov/awards/managing/special_conditions.jsp)
-- [New awardee kit]({{ site.baseurl }}/assets/files/grantee-files/NSF-SBIR-STTR-PhaseIRespOpp.pdf) 
+- [New awardee kit]({{ site.baseurl }}/assets/files/grantee-files/NSF-SBIR-STTR-PhaseIRespOpp.pdf)
 - [CAAR videos for Phase I awardees: financial capability, accounting, and Phase II budgeting](https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv)
 - [Phase I reporting requirements]({{ site.baseurl }}/awardees/reporting/)
 - [How to apply for a Phase II award]({{ site.baseurl }}/awardees/how-to-apply-phaseii/)
 
-## Phase II 
+## Phase II
 
 Information for current Phase II awardees
 
 - [Phase II general award conditions](https://www.nsf.gov/awards/managing/special_conditions.jsp)
-- [Supplemental funding opportunies]({{ site.baseurl }}/awardees/supplement/) 
+- [Supplemental funding opportunies]({{ site.baseurl }}/awardees/supplement/)
 - [Phase II reporting requirements]({{ site.baseurl }}/awardees/reporting2/)
 
-## General awardee information 
+## General awardee information
 
 Useful information for Phase I and Phase II awardees
 
@@ -38,7 +38,6 @@ Useful information for Phase I and Phase II awardees
 
 ## About the National Science Foundation's Small Business Programs
 
-The National Science Foundation (NSF) awards nearly $190 million annually to startups and small businesses through the Small Business Innovation Research (SBIR)/Small Business Technology Transfer (STTR) program, transforming scientific discovery into products and services with commercial and societal impact. The non-dilutive grants support research and development (R&D) across all areas of science and technology helping companies de-risk technology for commercial success. The NSF is an independent federal agency with a budget of about $7 billion that supports fundamental research and education across all fields of science and engineering. 
+The National Science Foundation (NSF) awards nearly $190 million annually to startups and small businesses through the Small Business Innovation Research (SBIR)/Small Business Technology Transfer (STTR) program, transforming scientific discovery into products and services with commercial and societal impact. The non-dilutive grants support research and development (R&D) across all areas of science and technology helping companies de-risk technology for commercial success. The NSF is an independent federal agency with a budget of about $7 billion that supports fundamental research and education across all fields of science and engineering.
 
 _This description is approved for use in press releases and other publications._
-

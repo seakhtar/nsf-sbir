@@ -1,6 +1,6 @@
 ---
 title: Supplemental Phase II B
-permalink: /awardee/supplemental_phaseii-b/
+permalink: /awardee/supplement/phase-2-b/
 layout: secondary-narrow
 sidenav: awardees
 ---

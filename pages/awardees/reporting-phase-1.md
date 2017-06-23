@@ -1,6 +1,6 @@
 ---
 title: Reporting Requirements
-permalink: /awardees/reporting/
+permalink: /awardees/reporting/phase-1/
 layout: secondary-narrow
 sidenav: awardees
 ---

@@ -2,6 +2,7 @@
 title: Review Process
 permalink: /review/
 layout: secondary-narrow
+sidenav: review
 ---
 
 # Review Process

@@ -1,11 +1,11 @@
 ---
 title: Revised Budget
-permalink: /awardees/revised_budget/
+permalink: /awardees/revised-budget/
 layout: secondary-narrow
 sidenav: awardees
 ---
 
-# Revised budget 
+# Revised budget
 
 To successfully submit a revised budget request to NSF, both a project's PI and sponsored research officer must send in the revision.
 
@@ -23,7 +23,7 @@ All revised budget requests must include a **Revised Budget Justification**, whi
 
 5. Highlight your proposal and click the *View* button.
 
-6. You'll be taken to the *Principal Investigator (PI)/Co-Principal Investigator (Co-PI) Proposal Revised Budget* page. Click the radio button next to *Edit the Budget* and then click OK. 
+6. You'll be taken to the *Principal Investigator (PI)/Co-Principal Investigator (Co-PI) Proposal Revised Budget* page. Click the radio button next to *Edit the Budget* and then click OK.
 
 7. *Year One* will appear under the Year column next to the organization name. To edit the budget for year one, click *Funds*.
 
@@ -61,7 +61,7 @@ Please note that the SRO (and no one else) must submit the revised budget.
 
 3. The next screen will display your search results. Select the organization's name and click *Select*.
 
-4. On the next screen, select your subawardee PI by highlighting their name and clicking *Select Subcontract PI*. If the name of the person you'd like to designate as the subaward PI isn't in your list, follow the directions under *How to add an individual as a Senior Personnel* (which appears later on this page). 
+4. On the next screen, select your subawardee PI by highlighting their name and clicking *Select Subcontract PI*. If the name of the person you'd like to designate as the subaward PI isn't in your list, follow the directions under *How to add an individual as a Senior Personnel* (which appears later on this page).
 
 5. Click *OK*.
 
@@ -69,9 +69,9 @@ Please note that the SRO (and no one else) must submit the revised budget.
 
 ## How to change the budget's subaward PI
 
-1. Return to the *Principal Investigator (PI)/Co-Principal Investigator (Co-PI) Proposal Revised Budget* page and select the *Edit the Budget* radio button. Click *OK*. 
+1. Return to the *Principal Investigator (PI)/Co-Principal Investigator (Co-PI) Proposal Revised Budget* page and select the *Edit the Budget* radio button. Click *OK*.
 
-2. Highlight the organization that needs the subaward PI changed and click *Change SubContract PI*. 
+2. Highlight the organization that needs the subaward PI changed and click *Change SubContract PI*.
 
 3. On the next screen, select your subaward PI by highlighting their name and clicking *Select Subcontract PI*. If the name of the person you'd like to designate as the subaward PI isn't in your list, follow the directions under *How to add an individual as a Senior Personnel*.
 

@@ -1,6 +1,6 @@
 ---
 title: How to Apply Phase II
-permalink: /awardees/howtoapplyphaseii/
+permalink: /awardees/apply/phase-2/
 layout: secondary-narrow
 sidenav: awardees
 ---

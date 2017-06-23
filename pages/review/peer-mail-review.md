@@ -1,7 +1,8 @@
 ---
 title: Peer Mail Review
-permalink: /review/peer_mail_review/
+permalink: /review/peer-mail-review/
 layout: secondary-narrow
+sidenav: review
 ---
 
 # Peer Mail Review

@@ -1,7 +1,9 @@
- title: Reporting Requirements
- permalink: /awardees/reporting2/
- layout: secondary-narrow
- sidenav: awardees
+---
+title: Reporting Requirements
+permalink: /awardees/reporting/phase-2/
+layout: secondary-narrow
+sidenav: awardees
+---
 
 All reporting is administered through Research.gov. Please see the following website for technical guidance and tips on the submission process: [Research.gov Reporting Information](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_page_n_about_por). The Research.gov Help Desk can be contacted at Rgov@nsf.gov or 1-800-381-1532. The requirements expected for the SBIR/STTR program are detailed below.
 
@@ -17,7 +19,7 @@ If the instructions on this website conflict with instructions provided to you b
 
 ## Interim Report
 
-(Interim Progress Reports are used for reporting progress typically at the 6, 12, and 18 month performance periods). Note: If you receive a Phase IIB supplement, you are required to provide progress reports, typically at six-month intervals until the grant ends. Phase II progress reports must be submitted through Research.gov. 
+(Interim Progress Reports are used for reporting progress typically at the 6, 12, and 18 month performance periods). Note: If you receive a Phase IIB supplement, you are required to provide progress reports, typically at six-month intervals until the grant ends. Phase II progress reports must be submitted through Research.gov.
 
 ### COVER PAGE:
 
@@ -112,7 +114,7 @@ Name and Title of the person preparing the report:
 
 2. Funding Commitment(s) (Status of any Funding Commitment(s))
 Was the original FC exercised?  
-  
+
 If yes, provide the following information:  
 Date:  
 Amount:  
@@ -123,14 +125,14 @@ If no, provide explanation. Possible reasons for not exercising the FC:
 a.) Technical Objectives not met.
 b.) Technology by-passed in market place.
 c.) Technology not economically viable
-d.) Other (Explain) 
+d.) Other (Explain)
 
-3. Were you awarded a Phase IIB supplement? 
+3. Were you awarded a Phase IIB supplement?
 If yes, describe the commercialization activities related to this supplement.  
-  
+
 4. List any products and/or processes currently in the marketplace, or patents resulting from the SBIR project.
 
-5. Please furnish the revenues received from the commercialization of this SBIR project, include: Sales, Manufacturing, Product Licensing, Royalties, Consulting, Contracts, Other. 
+5. Please furnish the revenues received from the commercialization of this SBIR project, include: Sales, Manufacturing, Product Licensing, Royalties, Consulting, Contracts, Other.
 
 |                                                        | Start of SBIR/STTR Grant         | Current                      |
 |--------------------------------------------------------|----------------------------------|------------------------------|
