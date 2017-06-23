@@ -101,4 +101,3 @@ topics_api:
 exclude:
 - _data/portfolio.yml
 - data/portfolio.yml
-
