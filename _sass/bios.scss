@@ -22,41 +22,83 @@ h2#executive-staff {
     }
 }
 
+.usa-content .bios-content li {
+  width: 100%;
+  max-width: 100%;
+}
+
 .bios-content {
 
-  p {
+  .pd-list {
 
-    @media screen and (min-width: $medium-screen) and (max-width: $large-screen) {
-      &:nth-of-type(3n) {
-        margin-left: 14rem;
-        margin-top: -14rem;
-      }
-    }
-
-    @media screen and (min-width: $large-screen){
-      &:nth-of-type(3n) {
-        margin-left: 20rem;
-        margin-top: -14rem;
-      }
-    }
-
-    a[name] {
+    a[name]:not(:first-of-type) {
       padding-bottom: $space-xl;
       display: block;
-      border: none;
     }
 
-    img {
-        width: 12rem;
-        border-radius: 6rem;
-    }
+    .pd-bio-content {
 
-    &:first-child {
-      a[name] {
-        padding-bottom: 0;
+      padding-bottom: $space-m;
+
+        img {
+          width: $space-xl * 2;
+          height: $space-xl * 2;
+          margin-bottom: $space-m;
+          border-radius: $space-xl;
+        }
+
+        @media screen and (min-width: $medium-screen){
+          display: flex;
+          img {
+            margin-right: $space-xl;
+          }
+          .bio {
+            font-size: $font-size-s - 2;
+            line-height: $leading-xl;
+            letter-spacing: $kern-tight;
+            font-weight: 400;
+          }
+
+        }
+
       }
+
     }
 
   }
 
-}
+
+  // p {
+  //
+  //   @media screen and (min-width: $medium-screen) and (max-width: $large-screen) {
+  //     &:nth-of-type(3n) {
+  //       margin-left: 14rem;
+  //       margin-top: -14rem;
+  //     }
+  //   }
+  //
+  //   @media screen and (min-width: $large-screen){
+  //     &:nth-of-type(3n) {
+  //       margin-left: 20rem;
+  //       margin-top: -14rem;
+  //     }
+  //   }
+  //
+  //   a[name] {
+  //     padding-bottom: $space-xl;
+  //     display: block;
+  //     border: none;
+  //   }
+  //
+  //   img {
+  //       width: 12rem;
+  //       border-radius: 6rem;
+  //   }
+  //
+  //   &:first-child {
+  //     a[name] {
+  //       padding-bottom: 0;
+  //     }
+  //   }
+  //
+  // }

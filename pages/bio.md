@@ -8,8 +8,11 @@ layout: secondary-narrow
 
 ## Program directors
 
-<section class="bios-content" markdown="1">
+<section class="bios-content">
 
+{% include pd-bio.html %}
+
+<!--
 <a name="Henry Ahn" class="pd-bio"></a>
 
 ![Henry Ahn]({{ base.url }}/assets/img/pd/Henry-compressed.jpg)
@@ -74,7 +77,7 @@ layout: secondary-narrow
 
 ![Jesus Soriano]({{ base.url }}/assets/img/pd/Jesus-compressed.jpg)
 
-[**Jesus Soriano**](mailto:jsoriano@nsf.gov) joined the NSF in February 2012 as SBIR/STTR Program Director for Biomedical and Smart Health Technologies, after 20 years of international experience in executive leadership in the biopharmaceutical and non-profit sectors, start-up formation and funding, technology commercialization, and academic teaching and research. Prior to NSF, he was the Senior Advisor to the Puerto Rico Trust for Science, Technology and Research, a technology-based development organization. Previously, he was Executive Vice President at QRxPharma, Ltd., a clinical-stage specialty pharmaceutical company focused in pain management and central nervous system disorders. Before, he was Senior Director of Business Development at Osiris Therapeutics, Inc. Previously, he held several executive leadership positions at the global bioresource center ATCC, including Vice President for IP, Licensing and International Business Development, and was Associate Director for R&D Operations and Business Development at Entremed, Inc, a clinical-stage pharmaceutical company developing therapeutics for the treatment of cancer. Jesus began his career as a family doctor in Spain; he then worked at the University of Geneva Medical School, Switzerland initially as Research Scientist and then as Assistant Professor. He initially came to the US as a visiting scientist to the National Cancer Institute (NIH) under an advanced researcher fellowship from the Swiss National Science Foundation. He holds a MBA in Corporate Finance from the Johns Hopkins Carey Business School; a Ph.D. in Medical Sciences from the University of Geneva, Switzerland; and a M.D. from the University of Alicante, Spain.
+[**Jesus Soriano**](mailto:jsoriano@nsf.gov) joined the NSF in February 2012 as SBIR/STTR Program Director for Biomedical and Smart Health Technologies, after 20 years of international experience in executive leadership in the biopharmaceutical and non-profit sectors, start-up formation and funding, technology commercialization, and academic teaching and research. Prior to NSF, he was the Senior Advisor to the Puerto Rico Trust for Science, Technology and Research, a technology-based development organization. Previously, he was Executive Vice President at QRxPharma, Ltd., a clinical-stage specialty pharmaceutical company focused in pain management and central nervous system disorders. Before, he was Senior Director of Business Development at Osiris Therapeutics, Inc. Previously, he held several executive leadership positions at the global bioresource center ATCC, including Vice President for IP, Licensing and International Business Development, and was Associate Director for R&D Operations and Business Development at Entremed, Inc, a clinical-stage pharmaceutical company developing therapeutics for the treatment of cancer. Jesus began his career as a family doctor in Spain; he then worked at the University of Geneva Medical School, Switzerland initially as Research Scientist and then as Assistant Professor. He initially came to the US as a visiting scientist to the National Cancer Institute (NIH) under an advanced researcher fellowship from the Swiss National Science Foundation. He holds a MBA in Corporate Finance from the Johns Hopkins Carey Business School; a Ph.D. in Medical Sciences from the University of Geneva, Switzerland; and a M.D. from the University of Alicante, Spain. -->
 
 ## Executive staff
 
