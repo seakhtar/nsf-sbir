@@ -17,13 +17,11 @@ Have a general question or concern? Call our help line at 703-292-8050 or email 
 </div>
 </section>
 
-<section class="usa-section background-bold-blue">
+<section class="usa-section background-light-blue">
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-whole" markdown="1">
 
 ### Program directors
-
-Our program directors are domain experts from diverse fields — get to know them here. You can also view the [full bios of all of our program directors](https://www.nsfiipconf.com/2017sbirp2/our-team/).
 
 {% include program-directors.html %}
 
