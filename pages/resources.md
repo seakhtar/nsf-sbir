@@ -27,19 +27,23 @@ Get to know our awardees better — we’ve got [video profiles of funded startu
 
 ## For awardees
 
+For information on reporting requirements, supplemental funding and how to apply for Phase II, you can visit the [awardees section]({{ site.baseurl }}/awardees/) of our site. 
+
 ### Spreading the word
 
-As an awardee or alum, you’re the face of our program, and we hope you’ll share news of your successes for years to come. Our [Ambassadors page](https://www.nsf.gov/eng/iip/sbir/ambassador.jsp) offers tips for doing just that.
+As an awardee or alum, you’re the face of our program, and we hope you’ll share news of your successes for years to come. Our [Ambassadors page]({{ site.baseurl }}/awardees/ambassador/) offers tips for doing just that.
 
 ### Research experiences
 
-Are you a teacher or student who’s interested in research experiences and partnerships with Phase II awardees? Visit our [Research Experiences page](https://www.nsf.gov/eng/iip/sbir/portfolio/researchexp.jsp) to learn more about how you can partner with funded Phase II companies.
+Are you a teacher or student who’s interested in research experiences and partnerships with Phase II awardees? Visit our [Research Experiences page]({{ site.baseurl }}/awardees/researchexp/) to learn more about how you can partner with funded Phase II companies.
 
 ### Award-management forms
 
-Our [Forms page]({{ '/awardees/forms/' | relative_url }}) has all the forms you need to manage your Phase I or Phase II award or apply for a Phase II award.
+Our [Forms page]({{ site.baseurl }}/awardees/forms/) has all the forms you need to manage your Phase I or Phase II award or apply for a Phase II award.
 
 ## For reviewers
+Reviewers can [click here]({{ site.baseurl }}/review/review_process/) for information on the review process, instructions, virtual panels, travel, and more. 
+
 
 ## FAQ
 
