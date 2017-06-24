@@ -1,11 +1,12 @@
 
-h2#program-directors {
+h2#program-directors,
+h2#executive-staff {
   margin: $space-xl+$space-m 0 $space-l 0;
 }
 
-h2#executive-staff {
-  margin-top: $space-xl+$space-m;
-}
+// h2#executive-staff {
+//   margin-top: $space-xl+$space-m;
+// }
 
 h2#program-directors,
 h2#executive-staff {
@@ -29,15 +30,19 @@ h2#executive-staff {
 
 .bios-content {
 
-  .pd-list {
+  .pd-list,
+  .exec-list {
 
-    a[name]:not(:first-of-type) {
+    padding: 0;
+
+    a[name]:not(:first-child) {
       padding-bottom: $space-xl;
       display: block;
       border: 1px solid transparent;
     }
 
-    .pd-bio-content {
+    .pd-bio-content,
+    .exec-bio-content {
 
       padding-bottom: $space-m;
 
@@ -67,39 +72,3 @@ h2#executive-staff {
     }
 
   }
-
-
-  // p {
-  //
-  //   @media screen and (min-width: $medium-screen) and (max-width: $large-screen) {
-  //     &:nth-of-type(3n) {
-  //       margin-left: 14rem;
-  //       margin-top: -14rem;
-  //     }
-  //   }
-  //
-  //   @media screen and (min-width: $large-screen){
-  //     &:nth-of-type(3n) {
-  //       margin-left: 20rem;
-  //       margin-top: -14rem;
-  //     }
-  //   }
-  //
-  //   a[name] {
-  //     padding-bottom: $space-xl;
-  //     display: block;
-  //     border: none;
-  //   }
-  //
-  //   img {
-  //       width: 12rem;
-  //       border-radius: 6rem;
-  //   }
-  //
-  //   &:first-child {
-  //     a[name] {
-  //       padding-bottom: 0;
-  //     }
-  //   }
-  //
-  // }
