@@ -34,6 +34,7 @@ h2#executive-staff {
     a[name]:not(:first-of-type) {
       padding-bottom: $space-xl;
       display: block;
+      border: 1px solid transparent;
     }
 
     .pd-bio-content {
