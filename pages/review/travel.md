@@ -2,6 +2,7 @@
 title: Travel
 permalink: /review/travel/
 layout: secondary-narrow
+sidenav: review
 ---
 
 # Travel
@@ -10,7 +11,7 @@ layout: secondary-narrow
 
 If you are selected and confirmed to serve on a panel for the Division of Industrial Innovation and Partnerships (ENG/IIP), you will be authorized to travel on behalf of NSF, a Federal Government agency. Please be aware NSF is operating in line with Executive Order 13589 and [OMB Memorandum 12-12](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-12.pdf), which require all Federal agencies to reduce costs for travel and conferences.
 
-The Directorate for Engineering REQUIRES all panelists to use the [Panelist Function](/review/panelist_system) component of NSF's FastLane system. We request that you submit your travel information and your banking information via FastLane.
+The Directorate for Engineering REQUIRES all panelists to use the [Panelist Function]({{ site.baseurl }}/review/panelist_system/) component of NSF's FastLane system. We request that you submit your travel information and your banking information via FastLane.
 
 You will receive an email notification with travel guidelines and instructions. This notification is to be used as a substitute for traditional government travel orders. Please take a copy of the email to the airport and to your hotel to ensure that you receive government rates.
 

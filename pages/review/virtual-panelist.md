@@ -1,7 +1,8 @@
 ---
 title: Virtual Panelist
-permalink: /review/virtual_panelist/
+permalink: /review/virtual-panelist/
 layout: secondary-narrow
+sidenav: review
 ---
 
 # Virtual Panelist
@@ -12,12 +13,12 @@ The Division of Industrial Innovation and Partnerships uses WebEx software to fa
 
 If you are selected and confirmed to serve on a virtual panel for the Division of Industrial Innovation and Partnerships (ENG/IIP), you will be asked to participate via an online conferencing application (WebEx). We want this experience to be as simple and rewarding for you as participating on a face-to-face panel at NSF.  In order to achieve this goal we are providing some critical information below that you need to review prior to the scheduled panel date.
 
-The NSF Conflict-of-Interest and Confidentiality Statement for NSF Panelists must be read and signed prior to participating on a virtual panel. Please print and sign the [COI Form](/files/coiform.docx) and scan/email it to the NSF staff person that invited you to review. If necessary, you can fax the COI form to 703-292-9057. In the field “Panel Name” please clearly indicate the Panel ID (PXXXXXX).
+The NSF Conflict-of-Interest and Confidentiality Statement for NSF Panelists must be read and signed prior to participating on a virtual panel. Please print and sign the [COI Form]({{ site.baseurl }}/assets/files/awardee-files/coiform.docx) and scan/email it to the NSF staff person that invited you to review. If necessary, you can fax the COI form to 703-292-9057. In the field “Panel Name” please clearly indicate the Panel ID (PXXXXXX).
 
 Panel Day Instructions
 Please join the panel at least 15 minutes prior to the scheduled start time to ensure that you have time to connect to the WebEx meeting and trouble-shoot any IT issues. If you encounter any IT issues, immediately contact the NSF staff that sent you the WebEx invitation.
 
-[Click here to view the Webex Connections Instructions](/files/Connecting_to_a_Virtual_Panel.pdf)
+[Click here to view the Webex Connections Instructions]({{ site.baseurl }}/assets/files/awardee-files/Connecting_to_a_Virtual_Panel.pdf)
 
 ## Keys to Successful Participation in a Virtual Panel for IIP at NSF:
 
