@@ -1,7 +1,8 @@
 ---
 title: How to Apply Phase II
-permalink: /awardees/how-to-apply-phase-ii/
+permalink: /awardees/apply/phase-2/
 layout: secondary-narrow
+sidenav: awardees
 ---
 
 Interested in applying for Phase II funding? Review this information before starting your application.
@@ -30,8 +31,8 @@ If your award letter **doesn't** include an exact Phase II submission date, cont
 ## Proposal contents
 
 - Revisit the [Merit Review Criteria]().
-- View the required contents of a [Phase II SBIR/STTR proposal](https://www.nsf.gov/eng/iip/sbir/documents/Phase%20II%20NSF%20SBIR.pdf).
-- View [guidance on determining salaries](https://www.nsf.gov/eng/iip/sbir/documents/SBIR_Salary_Validation_Guide.pdf) for Phase II personnel.
+- View the required contents of a [Phase II SBIR/STTR proposal]({{ site.baseurl }}/assets/files/awardee-files/Phase%20II%20NSF%20SBIR.pdf).
+- View [guidance on determining salaries]({{ site.baseurl }}/assets/files/awardee-files/SBIR_Salary_Validation_Guide.pdf) for Phase II personnel.
 
 ## FastLane instructions
 

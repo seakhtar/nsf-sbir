@@ -2,7 +2,7 @@
 layout: base
 class: awardees-layout
 ---
-
+{% assign recent_date = site.data.awards_meta['recent_date'] | date: "%m/%Y" | default: 'DATE' %}
 {% assign awards_summary = site.data.awards_summary[page.dataset] %}
 <section class="usa-section background-light-neutral">
   <div class="usa-grid awardees-top-header">
@@ -10,12 +10,12 @@ class: awardees-layout
       <h1 class="page-title text-xl">Current awardees:</h1>
       <div class="usa-accordion accordion-dropdown ">
             <button class="usa-accordion-button text-xl" aria-expanded="false" aria-controls="awardees-nav">
-          {{ page.nav_title }}
+          {{ page.nav_title | liquify }}
           </button>
             <div id="awardees-nav" class="usa-accordion-content">
               <ul class="usa-unstyled-list">
                 <li><a href="{{ site.baseurl }}/awardees/phase-1/">Phase I current awardees</a></li>
-                <li><a href="{{ site.baseurl }}/awardees/phase-1-recent/">Phase I recent DATE awardees</a></li>
+                <li><a href="{{ site.baseurl }}/awardees/phase-1-recent/">Phase I recent ({{ recent_date }}) awardees</a></li>
                 <li><a href="{{ site.baseurl }}/awardees/phase-2/">Phase II current awardees</a></li>
               </ul>
             </div>
@@ -44,8 +44,8 @@ class: awardees-layout
       <span class="text-small font-mono">{{ awards_summary.states_total }} Total states and territories</span>
     </li>
     <li>
-      <span class="text-xxl font-bold">000%</span>
-      <span class="text-small font-mono">Lorem ipsum dolor sit amet consecteteur sid adipiscing</span>
+      <span class="text-xxl font-bold">{{ page.manual_stat }}</span>
+      <span class="text-small font-mono">{{ page.manual_stat_description }}</span>
     </li>
     <!-- <li>
       <span class="text-xxl font-bold">{{ awards_summary.companies_unique_percent }}%</span>

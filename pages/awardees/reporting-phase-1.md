@@ -1,7 +1,8 @@
 ---
 title: Reporting Requirements
-permalink: /awardees/reporting/
+permalink: /awardees/reporting/phase-1/
 layout: secondary-narrow
+sidenav: awardees
 ---
 
 As a Phase I SBIR/STTR awardee, you need to provide formal reports on two different occasions: 1) when the Phase I award period ends, and 2) when you submit your Phase II proposal (if you choose to do so). The two reports are fairly similar, but need to be submitted at different times and through different electronic systems. See details on each requirement below.
@@ -50,4 +51,4 @@ This structured information is vital — please supply it using the HTML questi
 
 If you're interested in seeking Phase II funding, you'll need to submit your Phase II proposal through FastLane during the Phase II proposal submission process, which may occur before or after your Phase I project ends.
 
-One requirement of this process is submitting an updated Technical Narrative (of no more than 15 pages) that follows the same format described above. Please include this narrative as a supplementary document to your Phase II proposal. See the [Phase II proposal preparation instructions page](https://www.nsf.gov/eng/iip/sbir/how-to-apply_phaseii.jsp) for more details.
+One requirement of this process is submitting an updated Technical Narrative (of no more than 15 pages) that follows the same format described above. Please include this narrative as a supplementary document to your Phase II proposal. See the [Phase II proposal preparation instructions page]({{ site.baseurl }}/awardees/howtoapplyphaseii/) for more details.
