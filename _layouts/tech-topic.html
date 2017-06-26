@@ -20,7 +20,7 @@ class: tech-topic-layout
       <h3 class="subhead">Program director</h3>
       {% for programDirector in topic.programDirector %}
       {% if programDirector.photo %}
-        <img src="{{ site.baseurl }}/assets/img/pd/{{ programDirector.photo }}" class="program-dir-img">
+        <img src="{{ site.baseurl }}/assets/img/pd/{{ programDirector.photo }}" class="program-dir-img" alt="{{ programDirector.name | default: 'program director' }} headshot">
       {% endif %}
         <p>
           <a href="mailto:{{ programDirector.email }}">

@@ -46,7 +46,7 @@ permalink: /styleguide/typography/
 
 ### Typesetting
 
-#### Headings   
+#### Headings
 <h1 class="page-title">Heading 1. Page Title</h1>
 <h2>Heading 2</h2>
 <h3>Heading 3</h3>
@@ -118,7 +118,7 @@ p | 1.8rem | 18px
 
 {% endcapture %}
 {% include /styleguide/details-code.html
-   title='typography'
+   title='typography-example'
    content=codeblock
    description=type_description
    uswds_ref='https://github.com/18F/18f.gsa.gov/blob/master/_sass/_libs/wds/stylesheets/core/_variables.scss#L2-L15'
@@ -166,6 +166,6 @@ $font-normal | `p-normal` (only needs to be used to be used to override another 
 {% endraw %}{% endcapture %}
 {% include /styleguide/details-code.html
    description='To use a link, specify the text, direction that the arrow is pointing, and reference the SVG file for the corresponding arrow.'
-   title='links'
+   title='links-example'
    content=codeblock
 %}

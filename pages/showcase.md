@@ -29,7 +29,7 @@ To learn more, visit [https://www.vocalid.co/](https://www.vocalid.co/).
 {% comment %}
 for example, a sustained “ah” — and blending it with that of a speaker who is about the same age and size, and who shares a linguistic background with the recipient. Rupal Patel, CEO and founder of VocaliD, says that each merged speech sample creates a unique voice that closely resembles that of the recipient, allowing people to communicate more comfortably.
 
-Dr. Patel recalls getting an email from a nine-year-old who had seen her TED talk and wanted to give her voice to her sister, who was unable to speak. “Getting that email, I thought, ‘this is amazing,’” recalls Patel, who realized that the commercial potential for her technology was vast. Capital from America’s Seed Fund allowed her to scale her company and offer personalized digital voices to people worldwide. Today, VocaliD’s voicebank platform contains more than 20,000 members who have contributed more than 6 million sentences, helping people everywhere preserve their vocal identities.  
+Dr. Patel recalls getting an email from a nine-year-old who had seen her TED talk and wanted to give her voice to her sister, who was unable to speak. “Getting that email, I thought, ‘this is amazing,’” recalls Patel, who realized that the commercial potential for her technology was vast. Capital from America’s Seed Fund allowed her to scale her company and offer personalized digital voices to people worldwide. Today, VocaliD’s voicebank platform contains more than 20,000 members who have contributed more than 6 million sentences, helping people everywhere preserve their vocal identities.
 
 To learn more, visit [https://www.vocalid.co/](https://www.vocalid.co/).
 {% endcomment %}
@@ -44,7 +44,7 @@ To learn more, visit [https://www.vocalid.co/](https://www.vocalid.co/).
 
 <div class="usa-width-one-half">
 
-<iframe frameborder="0" height="300" width="100%" src="https://www.youtube.com/embed/videoseries?list=PLGhBP1C7iCOkPp8yv2I3ZGk16LiMIiikb" frameborder="0" allowfullscreen></iframe>
+<iframe title="custom-digital-voices-video" frameborder="0" height="300" width="100%" src="https://www.youtube.com/embed/videoseries?list=PLGhBP1C7iCOkPp8yv2I3ZGk16LiMIiikb" frameborder="0" allowfullscreen></iframe>
 
 </div>
 
@@ -71,7 +71,7 @@ In addition to funding from America’s Seed Fund, bioMASON has received support
 
 <div class="usa-width-one-half">
 
-<iframe height="300" width="100%" src="https://www.youtube.com/embed/6BqoM4am8kw" frameborder="0" allowfullscreen></iframe>
+<iframe title="growing-bricks-with-bacteria-video" height="300" width="100%" src="https://www.youtube.com/embed/6BqoM4am8kw" frameborder="0" allowfullscreen></iframe>
 
 </div>
 
@@ -104,7 +104,7 @@ To learn more, visit [http://www.polydrop.net/](http://www.polydrop.net/). -->
 </div>
 
 <div class="usa-width-one-half">
-<iframe height="300" width="100%" src="https://www.youtube.com/embed/wcUj-jIynHs" frameborder="0" allowfullscreen></iframe>
+<iframe title="making-plastics-conductive-video" height="300" width="100%" src="https://www.youtube.com/embed/wcUj-jIynHs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <!-- <div class="usa-width-one-half" markdown="1">
@@ -137,7 +137,7 @@ To learn more, visit [http://kepleybiosystems.com/organobait/](http://kepleybios
 
 <div class="usa-width-one-half">
 
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/aszA1FM6nL4" frameborder="0" allowfullscreen></iframe>
+<iframe title="sustainable-synthetic-bait-video" width="100%" height="300" src="https://www.youtube.com/embed/aszA1FM6nL4" frameborder="0" allowfullscreen></iframe>
 
 </div>
 

@@ -32,7 +32,7 @@ Since 2012, America’s Seed Fund powered by NSF has made nearly 2,500 awards to
  <label for="all">All NSF SBIR/STTR Awards</label>
  {% endcomment %}
 
-    <input type="text" tite="awards-search" class="awards-search-input" name="a1" size="20" placeholder="" />
+    <input type="text" name="a1" id="awards-search" class="awards-search-input" size="20" placeholder="" />
     <label class="text-small" for="awards-search">Search America's Seed Fund awardees</label>
     <input type="submit" class="usa-button usa-button-primary usa-sr-only" value="Search" />
 </form>
