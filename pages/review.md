@@ -1,6 +1,6 @@
 ---
 title: Review Process
-permalink: /review/review_process/
+permalink: /review/
 layout: secondary-narrow
 sidenav: review
 ---

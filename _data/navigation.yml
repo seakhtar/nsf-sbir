@@ -76,8 +76,8 @@ footer:
     href: /apply/
   - text: Resources
     href: /resources/
-  - text: Press
-    href: /press/
+  - text: Events
+    href: /events/
   - text: Contact us
     href: /contact/
 
@@ -92,3 +92,5 @@ subfooter:
     href: https://www.nsf.gov/about/
   - text: Inspector General
     href: https://www.nsf.gov/oig/
+  - text: Press
+    href: /press/
