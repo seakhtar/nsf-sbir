@@ -14,8 +14,14 @@ primary:
     href: /about/
   - text: Portfolio
     href: /portfolio/
-  - text: Apply for funding
-    href: /apply/
+  - text: Showcase
+    href: /showcase/
+  - text: Resources
+    href: /resources/
+  - text: Events
+    href: /events/
+  - text: Contact
+    href: /contact/
 
 fastlane:
   - text: Fastlane Overview
