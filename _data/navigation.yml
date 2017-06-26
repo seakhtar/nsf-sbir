@@ -22,6 +22,8 @@ primary:
     href: /events/
   - text: Contact
     href: /contact/
+  - text: Apply
+    href: /apply/
 
 fastlane:
   - text: Fastlane Overview
