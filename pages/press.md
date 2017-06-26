@@ -18,9 +18,7 @@ Are you putting out a press release? If you'd like to mention your NSF award, us
 
 ### About the National Science Foundation's Small Business Programs
 
-The National Science Foundation (NSF) awards nearly $190 million annually to startups and small businesses through the Small Business Innovation Research (SBIR)/Small Business Technology Transfer (STTR) program, transforming scientific discovery into products and services with commercial and societal impact. The non-dilutive grants support research and development (R&D) across almost all areas of science and technology helping companies de-risk technology for commercial success. The NSF is an independent federal agency with a budget of about $7 billion that supports fundamental research and education across all fields of science and engineering. To learn more about the NSF SBIR/STTR program, visit [www.nsf.gov/SBIR](www.nsf.gov/SBIR).
-
-If you'd like to include the NSF logo in your press release, please use [the official version](https://www.nsf.gov/policies/logos.jsp). 
+America’s Seed Fund powered by the National Science Foundation (NSF) awards nearly $190 million annually to startups and small businesses, transforming scientific discovery into products and services with commercial and societal impact. Startups working across almost all areas of science and technology can receive up to $1.5 million in non-dilutive funds to support research and development (R&D),helping de-risk technology for commercial success. America’s Seed Fund is congressionally mandated through the Small Business Innovation Research (SBIR) program. The NSF is an independent federal agency with a budget of about $7.5 billion that supports fundamental research and education across all fields of science and engineering. For more information, visit seedfund.nsf.gov.
 
 ## The history of NSF SBIR
 
@@ -32,7 +30,7 @@ In 1977, NSF recognized the need for ongoing support for small business and inst
 
 Of the 42 Phase I awards and 21 Phase II awards selected in 1977, one firm went on to discover the cystic fibrosis gene and complete the Human Genome Map, a small language-understanding firm (then MicroComputer) became Symantec, and a high-risk firm (then Relation Technology Inc.) became the data giant Ingres Corporation.
 
-In 1982, President Ronald Reagan signed a government-wide SBIR program into law. Read more about the history of the SBIR program on the [SBA’s website] (https://www.sbir.gov/birth-and-history-of-the-sbir-program).
+In 1982, President Ronald Reagan signed a government-wide SBIR program into law. Read more about the history of the SBIR program on the [SBA’s website](https://www.sbir.gov/birth-and-history-of-the-sbir-program).
 
 ## Same program, new look 
 
