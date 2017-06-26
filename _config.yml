@@ -6,8 +6,8 @@ baseurl: ""
 permalink: pretty
 deadline: December 2017
 
-app_process: active
-# app_process: inactive
+# app_process: active
+app_process: inactive
 
 styles:
   - /assets/css/styles.css
@@ -40,6 +40,10 @@ defaults:
     values:
       layout: styleguide
       include_subnav: true
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
 
 awards_api:
   active_date_is_now: true

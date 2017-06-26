@@ -1,7 +1,8 @@
 ---
 title: Supplement Instructions
-permalink: /awardees/
+permalink: /awardees/supplement/
 layout: secondary-narrow
+sidenav: awardees
 ---
 
 # Supplemental funding information
@@ -59,7 +60,7 @@ Check out our [supplemental funding overview video](https://youtu.be/biB6A2Cu6TA
 - Max funding: 20% of the Phase II award amount for no more than one year
 - [More information](http://www.nsf.gov/pubs/2015/nsf15043/nsf15043.jsp)
 
-### Educational parnterships
+### Educational partnerships
 1. High school participants (RAHSS)
 - Funding support to allow high school students to participate in SBIR/STTR research. These partnerships are targeted toward students who are interested in science, technology, and mathematics.
 - Max funding: $6,000 per student per year

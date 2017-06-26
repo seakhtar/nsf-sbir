@@ -29,6 +29,44 @@ fastlane:
   - text: Proposal Submission
     href: /fastlane/fastlane-3/
 
+review:
+  - text: Review Process
+    href: /review/
+  - text: Peer Review
+    href: /review/peer-review/
+  - text: Instructions for Panelists
+    href: /review/panelist-system/
+  - text: Instructions for Mail Reviewers
+    href: /review/peer-mail-review/
+  - text: Travel Instructions
+    href: /review/travel/
+  - text: Virtual Panels
+    href: /review/virtual-panelist/
+
+awardees:
+  - text: General Grant Conditions
+    href: https://www.nsf.gov/awards/managing/special_conditions.jsp
+  - text: CAAR Videos for Phase I Awardees
+    href: https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv
+  - text: Phase I Reporting Requirements
+    href: /awardees/reporting/phase-1/
+  - text: How to apply for Phase II
+    href: /awardees/apply/phase-2/
+  - text: Supplemental Funding Opportunities
+    href: /awardees/supplement/
+  - text: Phase II Reporting Requirements
+    href: /awardees/reporting/phase-2/
+  - text: Forms and Checklists
+    href: /awardees/forms/
+  - text: Revising a Budget
+    href: /awardees/revised-budget/
+  - text: No Cost Extension
+    href: /awardees/no-cost-extension/
+  - text: Changes at your Organization
+    href: /awardees/novation/
+  - text: Change of PI
+    href: /awardees/pi-change/
+
 footer:
   - text: About
     href: /about/
@@ -38,7 +76,21 @@ footer:
     href: /apply/
   - text: Resources
     href: /resources/
-  - text: Press
-    href: /press/
+  - text: Events
+    href: /events/
   - text: Contact us
     href: /contact/
+
+subfooter:
+  - text: USA.gov
+    href: https://www.usa.gov/
+  - text: Privacy
+    href: https://www.nsf.gov/policies/privacy.jsp
+  - text: FOIA
+    href: https://www.nsf.gov/policies/foia.jsp
+  - text: About NSF
+    href: https://www.nsf.gov/about/
+  - text: Inspector General
+    href: https://www.nsf.gov/oig/
+  - text: Press
+    href: /press/
