@@ -76,13 +76,13 @@ footer:
     href: /apply/
   - text: Resources
     href: /resources/
-  - text: Press
-    href: /press/
+  - text: Events
+    href: /events/
   - text: Contact us
     href: /contact/
 
 subfooter:
-  - text: Usa.gov
+  - text: USA.gov
     href: https://www.usa.gov/
   - text: Privacy
     href: https://www.nsf.gov/policies/privacy.jsp
@@ -92,3 +92,5 @@ subfooter:
     href: https://www.nsf.gov/about/
   - text: Inspector General
     href: https://www.nsf.gov/oig/
+  - text: Press
+    href: /press/

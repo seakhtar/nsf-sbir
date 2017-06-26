@@ -18,8 +18,8 @@ layout: base
     {% for award in company.items %}
     <li class="usa-section" id="{{ award.awardeeName | slugify }}">
       <div class="usa-grid mb5">
-        <h2 class="awardeeName">{{ award.awardeeName }}</h2>
-        <h3 class="title h5 font-regular">{{ award.title }}</h3>
+        <h1 class="h2 awardeeName">{{ award.awardeeName }}</h1>
+        <h2 class="title h5 font-regular">{{ award.title }}</h2>
       </div>
       <div class="usa-grid">
         <div class="usa-width-one-fourth">

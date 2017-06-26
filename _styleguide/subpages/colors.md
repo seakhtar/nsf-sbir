@@ -238,7 +238,7 @@ CSS class | SCSS variable
 `background-white` | `$color-inverse`
 {% endcapture %}
 {% include /styleguide/details-code.html
-   title='backgrounds'
+   title='background-colors-example'
    content=styleguide_background
    lang='html'
    description=backgrounds_description
