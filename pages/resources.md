@@ -43,7 +43,7 @@ Are you a teacher or student who’s interested in research experiences and part
 Our [Forms page]({{ site.baseurl }}/awardees/forms/) has all the forms you need to manage your Phase I or Phase II award or apply for a Phase II award.
 
 ## For reviewers
-Reviewers can [click here]({{ site.baseurl }}/review/review_process/) for information on the review process, instructions, virtual panels, travel, and more. 
+Reviewers can [click here]({{ site.baseurl }}/review/) for information on the review process, instructions, virtual panels, travel, and more. 
 
 ## FAQ
 
