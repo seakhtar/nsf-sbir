@@ -3,7 +3,6 @@
 
 $(function() {
 
-console.log('loaded')
   var options = {
     valueNames: [
       'title',
@@ -18,9 +17,12 @@ console.log('loaded')
   };
 
   var awardsDetailsList = new List('awards-details-list', options);
-  console.log(awardsDetailsList)
   window.awardsDetailsList = awardsDetailsList;
 
+
+  $('.results-previous-page').on('click', function() {
+    window.history.back();
+  });
 
   function slugify(string) {
     return string
@@ -46,19 +48,24 @@ console.log('loaded')
       }
     }
   }
-  window.getQueryVariable = getQueryVariable
 
   awardsDetailsList.filter(function(company){
     var isMatching = slugify(company.values().awardeeName) == getQueryVariable('company');
+    console.log(isMatching)
     if (isMatching) {
       $('.results-company-title').text(company.values().awardeeName);
       $('.results-company-title').show();
     }
 
     return isMatching;
-  })
+  });
 
-  $('.results-loading').hide()
+  if (awardsDetailsList.visibleItems.length === 0) {
+    $('.results-query').text(getQueryVariable('company'));
+    $('.results-failure').show();
+  }
+
+  $('.results-loading').hide();
   $('.results').show();
 
 });

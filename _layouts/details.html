@@ -8,6 +8,11 @@ layout: base
     <h2 class="h3 m0">Loading company results...</h2>
   </div>
 
+  <div class="results-failure flex flex-column usa-grid usa-section" style="display: none;">
+    <h2 class="h3 m0">There were no results found for <span class="results-query text-xl background-secondary font-mono">that query</span>.</h2>
+    <p>Return to <span class="results-previous-page fake-link" tabindex="0">previous page</span> to try again.</p>
+  </div>
+
   {% assign awards_to_detail = site.data[page.dataset] | default: 'site.data.awards_phase_1' %}
 
   <div id="awards-details-list" class="usa-grid">
@@ -23,34 +28,36 @@ layout: base
       </div>
       <div class="usa-grid">
         <div class="usa-width-one-fourth">
-          <div class="mb5">
-            <h4 class="subhead uppercase">Team</h4>
-            <p class="piName font-bold">
-              {% if award.piEmail %}
-                <a href="mailto:{{ award.piEmail }}">
+           <address>
+             <div class="mb5">
+              <h4 class="subhead uppercase">Team</h4>
+              <p class="piName font-bold">
+                {% if award.piEmail %}
+                  <a href="mailto:{{ award.piEmail }}">
+                    {{ award.piFirstName }} {{ award.piLastName }}
+                  </a>
+                {% else %}
                   {{ award.piFirstName }} {{ award.piLastName }}
-                </a>
-              {% else %}
-                {{ award.piFirstName }} {{ award.piLastName }}
+                {% endif %}
+              </p>
+              {% if award.piPhone %}
+                <p><a href="tel:{{ award.piPhone }}">{{ award.piPhone | phone }}</a></p>
               {% endif %}
-            </p>
-            {% if award.piPhone %}
-              <p>{{ award.piPhone | phone }}</p>
-            {% endif %}
-            <p>Principal Investigator</p>
-          </div>
-          <div class="mb5">
-            <h4 class="subhead uppercase">Contact</h4>
-            {% if award.awardeeAddress %}
-              <p>{{ award.awardeeAddress }}</p>
-            {% endif %}
-            <p class="city">
-              {{ award.awardeeCity | titlecase }}, {{ award.awardeeStateCode }}{% if award.awardeeZipCode %} {{ award.awardeeZipCode | zip_code }}{% endif %}
-            </p>
-            {% if award.poPhone %}
-              <p>{{ award.poPhone }}</p>
-            {% endif %}
-          </div>
+              <p>Principal Investigator</p>
+            </div>
+            <div class="mb5">
+              <h4 class="subhead uppercase">Contact</h4>
+              {% if award.awardeeAddress %}
+                <p>{{ award.awardeeAddress }}</p>
+              {% endif %}
+              <p class="city">
+                {{ award.awardeeCity | titlecase }}, {{ award.awardeeStateCode }}{% if award.awardeeZipCode %} {{ award.awardeeZipCode | zip_code }}{% endif %}
+              </p>
+              {% if award.poPhone %}
+                <p>{{ award.poPhone }}</p>
+              {% endif %}
+            </div>
+          </address>
           <div class="mb5">
             <h4 class="subhead uppercase">NSF Award</h4>
             <p class="id">N° {{ award.id }} – {{ award.fundProgramName }}</p>
