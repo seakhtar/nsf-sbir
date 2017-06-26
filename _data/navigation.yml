@@ -31,7 +31,7 @@ fastlane:
 
 review:
   - text: Review Process
-    href: /review/review_process/
+    href: /review/
   - text: Peer Review
     href: /review/peer-review/
   - text: Instructions for Panelists
