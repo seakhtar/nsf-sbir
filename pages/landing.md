@@ -29,7 +29,7 @@ See program details
 <div class="usa-width-one-third" markdown="1">
 <h2 class="text-medium">Access to our network of innovators and industry experts</h2>
 
-Meet other entrepreneurs, technical experts, industry leaders and NSF program directors, and build lasting bonds with future leaders in your industry. Find us at dozens of annual events — conferences, road shows, and more. 
+Meet other entrepreneurs, technical experts, industry leaders, and NSF program directors, and build lasting bonds with future leaders in your industry. Find us at dozens of annual events — conferences, road shows, and more. 
 
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/events/">
 View events
