@@ -1,6 +1,6 @@
 ---
 title: Resources and events
-permalink: /resources-and-events/
+permalink: /resources/
 layout: secondary-narrow
 ---
 
