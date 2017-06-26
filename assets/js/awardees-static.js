@@ -20,10 +20,6 @@ $(function() {
   window.awardsDetailsList = awardsDetailsList;
 
 
-  $('.results-previous-page').on('click', function() {
-    window.history.back();
-  });
-
   function slugify(string) {
     return string
       .toString()
@@ -51,7 +47,7 @@ $(function() {
 
   awardsDetailsList.filter(function(company){
     var isMatching = slugify(company.values().awardeeName) == getQueryVariable('company');
-    console.log(isMatching)
+
     if (isMatching) {
       $('.results-company-title').text(company.values().awardeeName);
       $('.results-company-title').show();

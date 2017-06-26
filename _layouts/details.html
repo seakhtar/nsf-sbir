@@ -10,7 +10,7 @@ layout: base
 
   <div class="results-failure flex flex-column usa-grid usa-section" style="display: none;">
     <h2 class="h3 m0">There were no results found for <span class="results-query text-xl background-secondary font-mono">that query</span>.</h2>
-    <p>Return to <span class="results-previous-page fake-link" tabindex="0">previous page</span> to try again.</p>
+    <p>Return to <a href="{{ page.parent_permalink | relative_url }}">previous page</a> to try again.</p>
   </div>
 
   {% assign awards_to_detail = site.data[page.dataset] | default: 'site.data.awards_phase_1' %}
@@ -87,11 +87,11 @@ layout: base
           </div>
           <div class="mb5">
             <h4 class="subhead uppercase">Errata</h4>
-            <p class="abstractText">Please report errors in award information by writing to <a href="mailto:awardsearch.nsf.gov">awardsearch.nsf.gov</a></p>.
+            <p class="abstractText">Please report errors in award information by writing to <a href="mailto:awardsearch.nsf.gov">awardsearch.nsf.gov</a>.</p>
           </div>
           <div class="mb5">
             <h4 class="subhead uppercase">Addenda</h4>
-            <p class="abstractText">If you're a member of this company, you may <a href="https://github.com/18F/nsf-sbir/issues/new">submit updates and supplemental company information via GitHub</a></p>.
+            <p class="abstractText">If you're a member of this company, you may <a href="https://github.com/18F/nsf-sbir/issues/new">submit updates and supplemental company information via GitHub</a>.</p>
           </div>
         </div>
       </div>
