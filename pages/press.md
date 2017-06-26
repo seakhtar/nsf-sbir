@@ -50,8 +50,8 @@ If you have suggestions, we’d love to hear them — share your feedback [via e
 
 For general NSF questions, please visit the [NSF's page here](https://www.nsf.gov/help/contact.jsp). You can also find contact information for other [NSF organizations here](https://www.nsf.gov/staff/orglist.jsp), and contact information for individuals through our [staff directory](https://www.nsf.gov/staff/).  
 
-The [NSF logo and guidance](https://www.nsf.gov/policies/logos.jsp) for its use is available for use by current and former NSF awardees.
+The [NSF logo (and guidance for its use)](https://www.nsf.gov/policies/logos.jsp) is available for use by current and former NSF awardees.
 
 To learn more about the SBIR/STTR program at other government agencies, visit the [Small Business Administration's SBIR website](https://www.sbir.gov/#).
 
-We also have a [one sheet]() covering program basics and points of interest. 
+We also have a [one sheet (PDF)](NSF SBIR Overview 2016.pdf) covering program basics and points of interest. 
