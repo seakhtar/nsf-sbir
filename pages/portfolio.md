@@ -30,7 +30,7 @@ Since 1977, we’ve awarded funding for high-risk R&D to more than 11,000 startu
  <label for="all">All NSF SBIR/STTR Awards</label>
  {% endcomment %}
 
-    <input type="text" name="awards-search" id="awards-search" class="awards-search-input" size="20" placeholder="" />
+    <input type="text" name="a1" id="awards-search" class="awards-search-input" size="20" placeholder="" />
     <label class="text-small" for="awards-search">Search America's Seed Fund awardees</label>
     <input type="submit" class="usa-button usa-button-primary usa-sr-only" value="Search" />
 </form>
