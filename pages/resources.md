@@ -1,4 +1,5 @@
 ---
+
 title: Resources
 permalink: /resources/
 layout: secondary-narrow
@@ -43,7 +44,6 @@ Our [Forms page]({{ site.baseurl }}/awardees/forms/) has all the forms you need 
 
 ## For reviewers
 Reviewers can [click here]({{ site.baseurl }}/review/review_process/) for information on the review process, instructions, virtual panels, travel, and more. 
-
 
 ## FAQ
 
