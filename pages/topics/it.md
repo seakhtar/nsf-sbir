@@ -14,9 +14,10 @@ You may communicate with the Program Director, Peter Atherton (patherto@nsf.gov)
 
 [Click here for examples of recently funded Phase I projects in this portfolio.](http://www.nsf.gov/awardsearch/advancedSearchResult?ProgEleCode=1505%2C+5371&BooleanElement=Any&ProgOfficer=%22Peter+Atherton%22&ActiveAwards=true)
 
+### Introduction
+
 {% endcomment %}
 
-## Introduction
 Information technology is increasingly impacting almost every aspect of our lives, from communicating with friends and family to manufacturing of the products we use, the efficient supply of food, the provision of healthcare services, and the performance of financial markets and our nation's economy.
 
 The past decade has seen explosive growth in the generation of data and the creation of usable information from that data. This growth is expected to accelerate into the foreseeable future, fueled in part by the increasing interconnectedness of the products and services that we use.

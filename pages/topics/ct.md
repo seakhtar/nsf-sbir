@@ -14,10 +14,11 @@ You may communicate with the Program Director, Anna Brady-Estevez (abrady@nsf.go
 
 [Click here for examples of recently funded Phase I projects in this portfolio.](http://www.nsf.gov/awardsearch/advancedSearchResult?ProgEleCode=1505%2C+5371&BooleanElement=Any&ProgOfficer=%22Prakash+Balan%22&ActiveAwards=true)
 
+### Introduction
+
 {% endcomment %}
 
 
-### Introduction
 The Chemical and Environmental Technologies (CT) topic covers a wide range of technology areas of current and emerging commercial significance pertaining to the broad chemical industry, the environment and related industrial sectors. Phase I proposals would typically be at the proof of concept/technical feasibility stage on new or novel technology concepts and innovations when submitting to this overall topic area. A proposal should present a clear value proposition and competitive advantage vs. existing solutions, the market opportunity, a strategy for commercialization of the innovation, a business case for how the innovation could rapidly lead to revenue generation for the small business, a clear and detailed description of the technical innovation and the key technical challenges that need to be overcome with SBIR/STTR funding, and finally, a clearly defined research and development (R&D) program detailing tasks, timelines and success metrics for a Phase I R&D program. Product/process economics and resource/energy inputs should also be addressed as applicable; along with considerations such as scale-up, and whether the product or process is a commodity and impact on the commercialization plan. Identification of key technical and commercial risks is appreciated for evaluation. It is important that the proposed project involve novel, discontinuous, disruptive innovations and be built on a firm framework involving chemistry and chemical engineering approaches. The project should focus on addressing clear commercial and societal needs, with strong potential to catalyze and accelerate U.S. job creation through scalable business growth.
 
 ### CT1. Biobased Chemicals and Biochemical Processes
