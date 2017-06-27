@@ -12,10 +12,11 @@ section_image_caption: |
 
 You may communicate with Program Director, Rick Schwerdtfeger (rschwerd@nsf.gov), to gauge if a project meets the program's intellectual merit and commercial impact criteria. Send a 1-2 page executive summary by e-mail discussing the following aspects of the project: 1) the company and team; 2) the market opportunity, value proposition, and customers; 3) the technology/innovation; 4) the technical challenges to overcome; and 5) the competition. Please note that responsiveness will likely be limited in the 2 weeks leading up to the solicitation deadline.
 
+### Introduction
+
 {% endcomment %}
 
 
-## Introduction
 The Internet of Things (IoT) is a rapidly evolving field that involves the interconnection and interaction of smart objects (objects or devices with embedded sensors, onboard data processing capability, and a means of communication) to provide automated services that would otherwise not be possible. IoT is not a single technology, but rather involves the convergence of sensor, information, communication, and actuation technologies.
 
 Today, most of what we consider as IoT is a variety of largely stand-alone devices and isolated systems, such as wearable fitness monitors, home thermostats and lighting, remote video streaming, smartphones, and smart watches. Emerging IoT implementations will use smaller and more energy- efficient embedded sensor technologies, enhanced communications, advanced data analytics, and more sophisticated actuators to collect and aggregate information and enable intelligent systems that understand context, track and manage complex interactions, and anticipate requirements.

@@ -1,18 +1,27 @@
 .tech-topic-layout {
 
   .section-background-image {
-    padding-top: 150px;
+    padding-top: $space-xl;
 
-    h1 {
-      background-color: $color-secondary;
-      display: inline-block;
-      margin-bottom: 150px;
-      padding: $space-xs;
-      font-weight: 600;
+
+    .background-icon {
+      background: url(/assets/img/icons/MI-white.svg) 40px 65px no-repeat;
+
+      h1 {
+        background-color: $color-secondary;
+        display: inline-block;
+        margin-bottom: 250px;
+        padding: $space-xs;
+        font-weight: 600;
+      }
+
     }
-    .usa-width-one-third {
+
+    .caption {
       padding: 0;
+      float: right;
     }
+
   }
 
   .program-dir-img {
@@ -23,7 +32,8 @@
   }
 
   h2 {
-    margin-bottom: $space-m;
+    margin-bottom: $space-l;
+    line-height: $leading-xxs;
   }
 
   h3 {
