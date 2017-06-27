@@ -16,7 +16,7 @@ Before applying, you need to register your principal investigator and company in
 ### [System for Award Management (SAM)](#)
 **Processing time:** Up to three weeks
 
-Any company that does business with the government needs a SAM account. When you register, you’ll have to share EFT information.
+Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information.
 
 ### [SBIR Company Registry](#)
 Finally, you need to register with the SBIR Company Registry (operated by the Small Business Administration). Post-registration, you’ll receive a Business Concern Control ID (SBC ID), which you’ll need to include in your FastLane application.
