@@ -3,7 +3,7 @@ title: Advanced Materials and Instrumentation
 permalink: /topics/materials-and-instrumentation/
 layout: tech-topic
 topic_code: mi
-section_image: "/assets/img/bg/robotic-arm.jpg"
+section_image: "/assets/img/bg/altaeros_2013_003_bw.jpg"
 section_image_caption: |
   The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
 ---
