@@ -28,7 +28,7 @@ Get to know our awardees better — we’ve got [video profiles of funded startu
 
 ## For awardees
 
-For information on reporting requirements, supplemental funding and how to apply for Phase II, you can visit the [awardees section]({{ site.baseurl }}/awardees/) of our site. 
+For information on reporting requirements, supplemental funding and how to apply for Phase II, you can visit the [awardees section]({{ site.baseurl }}/awardees/awardees/) of our site. 
 
 ### Spreading the word
 
