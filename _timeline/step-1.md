@@ -1,6 +1,6 @@
 ---
 title: Determine eligibility
-description: Make sure your company meets these eligibility requirements
+description: Make sure your company meets these eligibility requirements.
 ---
 
 - Your company must be a small business (fewer than 500 employees) located in the United States.
