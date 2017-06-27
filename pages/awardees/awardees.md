@@ -1,6 +1,6 @@
 ---
 title: For Awardees
-permalink: /awardees/
+permalink: /awardees/awardees/
 layout: secondary-narrow
 sidenav: awardees
 ---
