@@ -10,11 +10,45 @@
       padding: $space-xs;
       font-weight: 600;
     }
+    .usa-width-one-third {
+      padding: 0;
+    }
   }
 
   .program-dir-img {
     border-radius: 5rem;
     height: 10rem;
     width: 10rem;
+    margin-bottom: $space-s;
   }
+
+  h2 {
+    margin-bottom: $space-m;
+  }
+
+  h3 {
+    margin-top: $space-xl;
+  }
+
+  h4 {
+    font-weight: 600;
+  }
+
+  .usa-width-one-third {
+    padding-right: $space-l + $space-m;
+
+    ul,
+    li {
+      padding: 0;
+      margin: 0;
+    }
+    ul {
+      margin-bottom: $space-l;
+    }
+    li {
+      margin-bottom: $space-xs;
+    }
+
+  }
+
 }
