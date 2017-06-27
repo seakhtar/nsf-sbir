@@ -7,11 +7,14 @@ section_image: "/assets/img/bg/robotic-arm.jpg"
 section_image_caption: |
   The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
 ---
-
+{% comment %}
 ## Pre-Submission Feedback
 You may communicate with the Program Director, Murali Nair (mnair@nsf.gov), to gauge if a project meets the program's intellectual merit and commercial impact criteria. Send a 1-2 page executive summary by e-mail discussing the following aspects of the project: 1) the company and team; 2) the market opportunity, value proposition, and customers; 3) the technology/innovation; 4) the technical challenges to overcome; and 5) the competition. Please note that responsiveness will likely be limited in the 2 weeks leading up to the solicitation deadline.
 
 [Click here for examples of recently funded Phase I projects in this portfolio.](http://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=1505%2C+5371&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=murali+nair&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=After&StartDateFrom=06%2F01%2F2015&ExpDateOperator)
+
+{% endcomment %}
+
 
 ## Wireless Technologies (WT)
 Wireless has become the platform for many applications with direct impact on virtually every aspect of life, evolving well beyond mobile phones and PDAs to other devices, services, channels, and content. Microwave circuits afford a wider frequency spectrum and extremely short antennae. With GaAs and SiGe, entire microwave transceivers can be inexpensively put on a single chip. Modulation methods like spread-spectrum and orthogonal frequency-division multiplexing bring greater spectral efficiency and more bits/Hz of bandwidth, and lead to less susceptibility to noise, interference, and multi-path distortion. On-chip DSPs allow new signal-processing functions. RFID chips are providing improvements in warehousing, materials handling, and shipping operations, replacing bar-code labels in many applications.

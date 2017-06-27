@@ -7,11 +7,15 @@ section_image: "/assets/img/bg/robotic-arm.jpg"
 section_image_caption: |
   The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
 ---
+{% comment %}
 
 ## Pre-Submission Feedback
 You may communicate with the Program Director, Glenn Larsen (glarsen@nsf.gov), to gauge if a project meets the program's intellectual merit and commercial impact criteria. Send a 1-2 page executive summary by e-mail discussing the following aspects of the project: 1) the company and team; 2) the market opportunity, value proposition, and customers; 3) the technology/innovation; 4) the technical challenges to overcome; and 5) the competition. Please note that responsiveness will likely be limited in the 2 weeks leading up to the solicitation deadline.
 
 [Click here for examples of recently funded Phase I projects in this portfolio.](http://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&ProgEleCode=1505%2C+5371&BooleanElement=Any&ProgOfficer=Glenn+H.+Larsen&ActiveAwards=true&StartDateOperator=After&StartDateFrom=12%2F01%2F2015)
+
+{% endcomment %}
+
 
 ## Administrative Information
 Submitted proposals for education applications should provide detailed descriptions of how the proposed application will work and provide examples of how users would interact with the application and how learning takes place. Projects that can be easily replicated by potential competitors such as curricula, tutorials, and generic content may not resonate with the review community and are not likely to be funded without sufficient technical innovation. Efforts based on similar or existing products or systems offered by the proposer or their competitors are also not likely to resonate well in a review panel.
