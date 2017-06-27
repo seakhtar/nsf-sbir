@@ -1,6 +1,10 @@
 .usa-nav-primary {
   clear: both;
 
+  .usa-nav-link {
+    padding-bottom: 1.3rem;
+  }
+
   .usa-accordion-button {
     color: $color-base;
     font-family: $font-mono;
@@ -98,6 +102,7 @@
 .usa-navbar {
   border-bottom: 0;
   height: auto;
+  padding-top: $space-m;
 }
 
 @include media($nav-width) {
