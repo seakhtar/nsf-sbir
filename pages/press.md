@@ -22,7 +22,7 @@ America’s Seed Fund powered by the National Science Foundation (NSF) awards ne
 
 ## The history of NSF SBIR
 
-After a career in the U.S Army Air Corps and with 20 years of corporate experience, including serving as the VP of two small, high-tech firms, Roland Tibbetts was appointed as the Senior Program Officer at NSF in 1972. Tibbetts was known as a task master with well-honed instincts for enabling potentially game-changing projects. He also recognized the importance of small, high-tech firms to the economy and observed the fierce opposition they faced from other recipients when pursuing federal R&D funding.
+After a career in the U.S Army Air Corps and 20 years of corporate experience, including serving as the VP of two small, high-tech firms, Roland Tibbetts was appointed as the Senior Program Officer at NSF in 1972. Tibbetts was known as a task master with well-honed instincts for enabling potentially game-changing projects. He also recognized the importance of small, high-tech firms to the economy and observed the fierce opposition they faced from other recipients when pursuing federal R&D funding.
 
 Tibbetts envisioned a three-phase structure in order to foster the research and development (R&D) in small, high-tech businesses and push them to realize their commercial potential. He believed these firms were instrumental in converting government R&D into public benefit through technological innovation and commercial applications, therefore stimulating aggregate economic growth.
 
