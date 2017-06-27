@@ -8,7 +8,7 @@
   <button class="usa-accordion-button" disabled="disabled" aria-expanded="false" aria-controls="{{ timeline_item[0].title | slugify }}">
     {{ timeline_item[0].title | default: "" }} <span class="step-label-expired">Expired</span>
       {% if timeline_item[0].inactive_description %}
-        <span class="step-description" >{{ timeline_item[0].inactive_description }}</span>
+        <span class="step-description" >{{ timeline_item[0].inactive_description | markdownify }}</span>
       {% endif %}
   </button>
   <div id="{{ timeline_item[0].title | slugify }}" class="usa-accordion-content">
