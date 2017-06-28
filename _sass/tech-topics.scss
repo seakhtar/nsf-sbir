@@ -5,17 +5,16 @@
 
 
     .topic-icon {
-
+      background-repeat: no-repeat;
+      background-size: 27rem;
+      height: 32rem;
+      background-position-y: 6rem;
+      background-position-x: 3rem;
       h1 {
         background-color: $color-secondary;
         display: inline-block;
         padding: $space-xs;
         font-weight: 600;
-        &+img {
-          height: $space-xl * 4.5;
-          width: $space-xl * 4.5;
-          display: block;
-        }
       }
 
     }
