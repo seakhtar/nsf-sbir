@@ -42,7 +42,7 @@ If you have suggestions, we’d love to hear them — share your feedback [via e
 
 [Bio: France A. Córdova](https://www.nsf.gov/mobile/staff/staff_bio.jsp?lan=fcordova&org=NSF&from_org): The official bio of France A. Córdova, NSF's 14th director.
 
-[Bio: Barry W. Johnson](https://www.nsf.gov/news/news_summ.jsp?cntn_id=134426): The official bio of Barry W. Johnson, the Division Director of the Division of Industrial Innovation and Partnerships home of America's Seed Fund powered by NSF.
+[Bio: Barry W. Johnson](https://www.nsf.gov/news/news_summ.jsp?cntn_id=134426): The official bio of Barry W. Johnson, the Division Director of the Division of Industrial Innovation and Partnerships, home of America's Seed Fund powered by NSF.
 
 For general NSF questions, please visit the [NSF's page here](https://www.nsf.gov/help/contact.jsp). You can also find contact information for other [NSF organizations here](https://www.nsf.gov/staff/orglist.jsp), and contact information for individuals through our [staff directory](https://www.nsf.gov/staff/).  
 
