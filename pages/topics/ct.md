@@ -5,7 +5,7 @@ layout: tech-topic
 topic_code: ct
 section_image: "/assets/img/bg/kepley-2c-ct.jpg"
 section_image_caption: |
-  Development of OrganoBait synthetic bait, the NSF-Supported projected from [Kepley BioSystems]({{ base.url }}/awardees/phase-2/details/?company=kepley-biosystems-incorporated#kepley-biosystems-incorporated) to provide an ocean-restorative alternative bait product
+  Development of OrganoBait synthetic bait, the NSF-Supported projected from [Kepley BioSystems](/awardees/phase-2/details/?company=kepley-biosystems-incorporated#kepley-biosystems-incorporated) to provide an ocean-restorative alternative bait product
 ---
 {% comment %}
 
