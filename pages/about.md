@@ -57,7 +57,7 @@ You will get access to a program director, who will serve as your mentor, and a 
 
 - **0% equity**: You retain full ownership over your company and intellectual property. And because our awards aren’t loans, there’s nothing to pay back.
 
-- **Major social impact**: We don't have the same financial incentives as most investors, so we can make impact investments that may take longer to provide a financial return. Our goal is to invest in a better future for our shareholders: the American public.
+- **Major societal impact**: We don't have the same financial incentives as most investors, so we can make impact investments that may take longer to provide a financial return. Our goal is to invest in a better future for our shareholders: the American public.
 
 - **Minimal standard reporting**: We provide templates for reporting monthly progress and financials. No need to waste time crafting decks and building spreadsheets — we help you focus on building your product or service instead.
 
