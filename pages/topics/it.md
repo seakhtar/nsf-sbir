@@ -5,7 +5,7 @@ layout: tech-topic
 topic_code: it
 section_image: "/assets/img/bg/mental-canvas-2c-it.gif"
 section_image_caption: |
-   Jane's Carousel in Brooklyn Bridge Park (artists: Sydney Shea & Carol Hsiung for drawing, and Joel Artista for mural) made possible by [Mental Canvas LLC](/portfolio/details/?company=mental-canvas-llc#mental-canvas-llc), the first to make hand drawings 3D.
+   Jane's Carousel in Brooklyn Bridge Park (artists: Sydney Shea & Carol Hsiung for drawing, and Joel Artista for mural) made possible by [Mental Canvas LLC](../portfolio/details/?company=mental-canvas-llc#mental-canvas-llc), the first to make hand drawings 3D.
 ---
 {% comment %}
 
