@@ -3,9 +3,9 @@ title: Information Technologies
 permalink: /topics/information-technologies/
 layout: tech-topic
 topic_code: it
-section_image: "/assets/img/bg/altaeros_2013_003_bw.jpg"
+section_image: "/assets/img/bg/mental-canvas-2c-it.gif"
 section_image_caption: |
-  The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
+   Jane's Carousel in Brooklyn Bridge Park (artists: Sydney Shea & Carol Hsiung for drawing, and Joel Artista for mural) made possible by [Mental Canvas](portfolio/details/?company=mental-canvas-llc#mental-canvas-llc), the first to make hand drawings 3D.
 ---
 {% comment %}
 
