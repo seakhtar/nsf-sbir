@@ -7,14 +7,6 @@ section_image: "/assets/img/bg/zyrobotics-2c-ea.jpg"
 section_image_caption: |
   Zumo, an interactive learning tool for kids, showing sensors underneath its shell developed by [Zyrobotics LLC]({{ site.baseurl }}/awardees/phase-2/details/?company=zyrobotics-llc#zyrobotics-llc).
 ---
-{% comment %}
-
-## Pre-Submission Feedback
-You may communicate with the Program Director, Glenn Larsen (glarsen@nsf.gov), to gauge if a project meets the program's intellectual merit and commercial impact criteria. Send a 1-2 page executive summary by e-mail discussing the following aspects of the project: 1) the company and team; 2) the market opportunity, value proposition, and customers; 3) the technology/innovation; 4) the technical challenges to overcome; and 5) the competition. Please note that responsiveness will likely be limited in the 2 weeks leading up to the solicitation deadline.
-
-[Click here for examples of recently funded Phase I projects in this portfolio.](http://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&ProgEleCode=1505%2C+5371&BooleanElement=Any&ProgOfficer=Glenn+H.+Larsen&ActiveAwards=true&StartDateOperator=After&StartDateFrom=12%2F01%2F2015)
-
-{% endcomment %}
 
 
 ## Administrative Information

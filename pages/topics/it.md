@@ -7,16 +7,6 @@ section_image: "/assets/img/bg/mental-canvas-2c-it.gif"
 section_image_caption: |
    Jane's Carousel in Brooklyn Bridge Park (artists: Sydney Shea & Carol Hsiung for drawing, and Joel Artista for mural) made possible by [Mental Canvas LLC]({{ site.baseurl }}/portfolio/details/?company=mental-canvas-llc#mental-canvas-llc), the first to make hand drawings 3D.
 ---
-{% comment %}
-
-## Pre-Submission Feedback
-You may communicate with the Program Director, Peter Atherton (patherto@nsf.gov), to gauge if a project meets the program's intellectual merit and commercial impact criteria. Send a 1-2 page executive summary by e-mail discussing the following aspects of the project: 1) the company and team; 2) the market opportunity, value proposition, and customers; 3) the technology/innovation; 4) the technical challenges to overcome; and 5) the competition. Please note that responsiveness will likely be limited in the 2 weeks leading up to the solicitation deadline.
-
-[Click here for examples of recently funded Phase I projects in this portfolio.](http://www.nsf.gov/awardsearch/advancedSearchResult?ProgEleCode=1505%2C+5371&BooleanElement=Any&ProgOfficer=%22Peter+Atherton%22&ActiveAwards=true)
-
-### Introduction
-
-{% endcomment %}
 
 Information technology is increasingly impacting almost every aspect of our lives, from communicating with friends and family to manufacturing of the products we use, the efficient supply of food, the provision of healthcare services, and the performance of financial markets and our nation's economy.
 
