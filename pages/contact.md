@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact us
 permalink: /contact/
 layout: secondary
 ---
@@ -7,7 +7,7 @@ layout: secondary
 <div class="usa-content utility-content usa-grid">
 <div class="usa-width-one-whole">
 
-<h1>Contact</h1>
+<h1>Contact us</h1>
 
 <p class="text-medium" markdown="1">
 Have a general question or concern? Call our help line at 703-292-8050 or email us at [sbir@nsf.gov](mailto:sbir@nsf.gov).
@@ -21,7 +21,7 @@ Have a general question or concern? Call our help line at 703-292-8050 or email 
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-whole" markdown="1">
 
-### Program directors
+### Program Directors
 
 {% include program-directors.html %}
 

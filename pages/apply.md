@@ -28,7 +28,7 @@ timeline:
 <h1 class="page-title">How to apply</h1>
 
 <p class="text-medium">
-Learn about our Phase I application timeline, preparing your proposal, and what to expect once you submit.
+Learn about our Phase I application timeline, how to prepare your proposal, and what to expect once you submit.
 </p>
 
 <ol class="timeline {% if site.app_process == "inactive" %} timeline-inactive {% endif %}">
