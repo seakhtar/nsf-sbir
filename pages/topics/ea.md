@@ -3,9 +3,9 @@ title: Educational Technologies and Applications
 permalink: /topics/educational/
 layout: tech-topic
 topic_code: ea
-section_image: "/assets/img/bg/altaeros_2013_003_bw.jpg"
+section_image: "/assets/img/bg/zyrobotics-2c-ea.jpg"
 section_image_caption: |
-  The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
+  Zumo, an interactive learning tool for kids, showing sensors underneath its shell developed by [Zyrobotics LLC](/awardees/phase-2/details/?company=zyrobotics-llc#zyrobotics-llc).
 ---
 {% comment %}
 
