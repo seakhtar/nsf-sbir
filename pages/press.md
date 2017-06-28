@@ -8,7 +8,7 @@ layout: secondary-narrow
 
 ## Media inquiries
 
-For press questions about America's Seed Fund powered by NSF, please email [NSF Public Affairs](mailto:sabates@nsf.gov) with inquiries. Subscribe to [NSF news alerts](https://nsf.gov/news/) and see a list of all [NSF social media](https://www.nsf.gov/social/) accounts.
+For press questions about America's Seed Fund powered by NSF, please email [NSF Public Affairs](mailto:sabates@nsf.gov) with inquiries. 
 
 ## Press release information
 
@@ -40,7 +40,7 @@ If you have suggestions, we’d love to hear them — share your feedback [via e
 
 ## Additional resources
 
-[NSF newsroom](https://www.nsf.gov/news/newsroom.jsp): Our newsroom features news releases, media advisories, photo galleries, and other resources for the news media.
+[NSF newsroom](https://www.nsf.gov/news/newsroom.jsp): Our newsroom features news releases, media advisories, photo galleries, and other resources for the news media. Subscribe to [NSF news alerts](https://nsf.gov/news/) and see a list of all [NSF social media](https://www.nsf.gov/social/) accounts.
 
 [Bio: France A. Córdova](https://www.nsf.gov/mobile/staff/staff_bio.jsp?lan=fcordova&org=NSF&from_org): The official bio of France A. Córdova, NSF's 14th director.
 
