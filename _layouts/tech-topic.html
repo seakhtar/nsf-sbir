@@ -5,8 +5,9 @@ class: tech-topic-layout
 {% for topic in site.data.tech-topics %}
 {% if page.topic_code == topic.topic_code %}
 <section class="section-background-image">
-  <div class="usa-grid background-icon">
+  <div class="usa-grid topic-icon">
     <h1 class="text-large">{{ topic.topic }}</h1>
+    <img src="{{ site.baseurl }}/assets/img/icons/{{ topic.topic_code }}-white.svg" alt="{{ topic.topic }}" />
   </div>
   <div class="usa-grid">
     <div class="usa-width-one-half caption">
@@ -39,7 +40,7 @@ class: tech-topic-layout
       <section class="usa-section usa-section-tight-top tech-topic-content">
         <h3 class="subhead">Pre-submission feedback</h3>
         <p class="text-small">
-          Submit an <a href="https://goo.gl/forms/49AdC0Nqj8tPegV13">Executive Summary</a> to gauge if a project meets the program's intellectual merit and commercial impact criteria. Please note that responsiveness will likely be limited in the 2 weeks leading up to the solicitation deadline.
+          <a href="https://goo.gl/forms/49AdC0Nqj8tPegV13">Submit an Executive Summary</a> to gauge if a project meets the program's intellectual merit and commercial impact criteria. Please note that responsiveness will likely be limited in the 2 weeks leading up to the solicitation deadline.
         </p>
       </section>
     </div>

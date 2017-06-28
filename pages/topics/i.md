@@ -2,7 +2,7 @@
 title: Internet of Things
 permalink: /topics/internet-of-things/
 layout: tech-topic
-topic_code: iot
+topic_code: i
 section_image: "/assets/img/bg/altaeros_2013_003_bw.jpg"
 section_image_caption: |
   The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.

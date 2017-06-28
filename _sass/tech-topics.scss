@@ -4,15 +4,18 @@
     padding-top: $space-xl;
 
 
-    .background-icon {
-      background: url(../img/icons/MI-white.svg) 40px 65px no-repeat;
+    .topic-icon {
 
       h1 {
         background-color: $color-secondary;
         display: inline-block;
-        margin-bottom: 250px;
         padding: $space-xs;
         font-weight: 600;
+        &+img {
+          height: $space-xl * 4.5;
+          width: $space-xl * 4.5;
+          display: block;
+        }
       }
 
     }
@@ -20,6 +23,9 @@
     .caption {
       padding: 0;
       float: right;
+      p {
+        font-size: $font-size-xxxs;
+      }
     }
 
   }
@@ -40,9 +46,7 @@
     margin-top: $space-xl;
   }
 
-  h4 {
-    font-weight: 600;
-  }
+
 
   .usa-width-one-third {
     padding-right: $space-l + $space-m;
@@ -51,14 +55,37 @@
     li {
       padding: 0;
       margin: 0;
+      font-size: $font-size-xxs;
     }
     ul {
       margin-bottom: $space-l;
+      margin-left: $space-m;
     }
     li {
       margin-bottom: $space-xs;
     }
 
+    .tech-topic-content {
+      h3 {
+        &+p {
+          a {
+            font-weight: 600;
+          }
+        }
+      }
+    }
+
+    h4 {
+      font-weight: 600;
+      font-size: $font-size-xs;
+    }
+
+  }
+
+  .usa-width-two-thirds {
+    h4 {
+      margin-top: $space-xl;
+    }
   }
 
 }
