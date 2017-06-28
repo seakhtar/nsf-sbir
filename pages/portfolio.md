@@ -84,5 +84,5 @@ Phase 1 funding (up to $225,000 over 6-12 months) covers R&D, including explorat
 Phase II funding (up to an additional $750,000 over two years) helps you continue the research you started in Phase I.
 
 ### Recent awardees
-Recent awardees received funding during the last solicitation period, which closed in (December 2016). These awards were announced in (February 2016).
+Recent awardees received funding during the last solicitation period, which closed in {{ site.past_deadline }}. These awards were announced in (February 2016).
 {% endcomment %}
