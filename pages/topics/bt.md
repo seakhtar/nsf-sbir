@@ -3,9 +3,9 @@ title: Biological Technologies
 permalink: /topics/biological/
 layout: tech-topic
 topic_code: bt
-section_image: "/assets/img/bg/altaeros_2013_003_bw.jpg"
+section_image: "/assets/img/bg/miromatrix-2c-bt.jpg"
 section_image_caption: |
-  The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
+  [Miromatrix Medical Inc](/portfolio/details/?company=miromatrix-medical-inc#miromatrix-medical-inc)
 ---
 {% comment %}
 ## Pre-Submission Feedback

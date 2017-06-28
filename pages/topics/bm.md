@@ -3,9 +3,9 @@ title: Biomedical Technologies
 permalink: /topics/biomedical/
 layout: tech-topic
 topic_code: bm
-section_image: "/assets/img/bg/altaeros_2013_003_bw.jpg"
+section_image: "/assets/img/bg/flexdex-surgical-2c-bm.jpg"
 section_image_caption: |
-  The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
+  A close-up view of the end-effector of [FlexDex Surgical](/portfolio/details/?company=flexdex-inc#flexdex-inc)'s articulating needle-driver. This instrument is for use in laparoscopic or minimally insvasive surgery. © FlexDex, Inc.
 ---
 {% comment %}
 
