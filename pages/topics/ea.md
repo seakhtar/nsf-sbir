@@ -5,7 +5,7 @@ layout: tech-topic
 topic_code: ea
 section_image: "/assets/img/bg/zyrobotics-2c-ea.jpg"
 section_image_caption: |
-  Zumo, an interactive learning tool for kids, showing sensors underneath its shell developed by [Zyrobotics LLC](/awardees/phase-2/details/?company=zyrobotics-llc#zyrobotics-llc).
+  Zumo, an interactive learning tool for kids, showing sensors underneath its shell developed by [Zyrobotics LLC]({{ site.baseurl }}/awardees/phase-2/details/?company=zyrobotics-llc#zyrobotics-llc).
 ---
 {% comment %}
 

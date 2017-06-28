@@ -5,7 +5,7 @@ layout: tech-topic
 topic_code: bm
 section_image: "/assets/img/bg/flexdex-surgical-2c-bm.jpg"
 section_image_caption: |
-  A close-up view of the end-effector of [FlexDex Surgical](/portfolio/details/?company=flexdex-inc#flexdex-inc)'s articulating needle-driver. This instrument is for use in laparoscopic or minimally insvasive surgery. © FlexDex, Inc.
+  A close-up view of the end-effector of [FlexDex Surgical]({{ site.baseurl }}/portfolio/details/?company=flexdex-inc#flexdex-inc)'s articulating needle-driver. This instrument is for use in laparoscopic or minimally insvasive surgery. © FlexDex, Inc.
 ---
 {% comment %}
 
