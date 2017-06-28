@@ -6,11 +6,9 @@ layout: secondary-narrow
 
 # Press
 
-If you'd like to get in touch, you can [e-mail us](mailto:sbir@nsf.gov) or reach us by phone at 703-292-8050.  
-
 ## Media inquiries
 
-Please contact Media Officer [Sarah Bates](mailto:sabates@nsf.gov) with inquiries.
+For press questions about America's Seed Fund powered by NSF, please email [NSF Public Affairs](mailto:sabates@nsf.gov) with inquiries. Subscribe to [NSF news alerts](https://nsf.gov/news/) and see a list of all [NSF social media](https://www.nsf.gov/social/) accounts.
 
 ## Press release information
 
