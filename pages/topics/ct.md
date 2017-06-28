@@ -3,9 +3,9 @@ title: Chemical and Environmental Technologies
 permalink: /topics/chemical-and-environmental/
 layout: tech-topic
 topic_code: ct
-section_image: "/assets/img/bg/altaeros_2013_003_bw.jpg"
+section_image: "/assets/img/bg/kepley-2c-ct.jpg"
 section_image_caption: |
-  The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
+  Development of OrganoBait synthetic bait, the NSF-Supported projected from [Kepley BioSystems](/awardees/phase-2/details/?company=kepley-biosystems-incorporated#kepley-biosystems-incorporated) to provide an ocean-restorative alternative bait product
 ---
 {% comment %}
 
