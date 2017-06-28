@@ -3,9 +3,9 @@ title: Other Topics
 permalink: /topics/other/
 layout: tech-topic
 topic_code: ot
-section_image: "/assets/img/bg/altaeros_2013_003_bw.jpg"
+section_image: "/assets/img/bg/tactai-touch-2c-ot.jpg"
 section_image_caption: |
-  The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
+  The [TACTAI Inc.]({{ site.baseurl }}/awardees/phase-2/details/?company=tactai#tactai)'s TactaiTouch™ - a VR/AR interaction device with natural touch experience
 ---
 {% comment %}
 
