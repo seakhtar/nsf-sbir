@@ -15,10 +15,8 @@ We'd also love it if you'd share your America's Seed Fund story via social or on
 
 # America's Seed Fund (SBIR/STTR) on Twitter
 
-Help spread the word about your funding one tweet at a time — tag @NSFSBIR or use the hashtag #NSFFunded. You can also [check out our Twitter account](https://twitter.com/NSFSBIR) and retweet anything you'd like.
-
 ## Twitter
-Are you on Twitter? If so, you can help spread the word about NSF SBIR with the click of a button. Share your story and tag @NSFSBIR or use the hashtag #NSFFunded. You can also [check out our Twitter account](https://twitter.com/NSFSBIR) and retweet anything you would like!
+Help spread the word about your funding one tweet at a time! You can help spread the word about NSF SBIR with the click of a button. Share your story and tag @NSFSBIR or use the hashtag #NSFFunded. You can also [check out our Twitter account](https://twitter.com/NSFSBIR) and retweet anything you would like!
 Here are some sample tweets you can use too:
 
 @NSFSBIR provides seed #funding for #tech #startups across all areas of science. 1.usa.gov/1awfsNp
@@ -32,7 +30,7 @@ Interested in learning about one of our funders, @NSFSBIR? Watch an intro video:
 
 ## NSF logo
 
-As an awardee, you're encouraged to use the NSF logo on your website and marketing materials. Many investors view the NSF logo as a stamp of approval, so use it with pride!
+As an awardee, use the NSF logo on your website and marketing materials to acknowledge your NSF grant. Many investors view the NSF logo as a stamp of approval, so use it with pride!
 
 Visit http://www.nsf.gov/policies/logos.jsp for the current version and usage guidance.
 
