@@ -11,12 +11,14 @@
   padding-top: 0;
 
   h2 {
-    color: $color-base;
-    font-size: $font-size-xxl;
+    // color: $color-base;
+    color: $color-secondary;
+    font-size: $font-size-xxl - $font-size-xs;
     font-weight: 800;
-    letter-spacing: .025rem;
+    letter-spacing: -.025em;
     line-height: .8625;
     text-transform: uppercase;
+
 
     .usa-hero-callout-alt {
       color: $color-white;
@@ -24,13 +26,19 @@
     }
   }
 
+
+
   .usa-button {
     color: initial;
     font-size: 2.1rem;
-    font-family: $font-sans;
+    font-family: $font-serif;
     font-weight: 600;
     line-height: 1.2;
     margin-top: 0;
+
+    &.usa-button-big {
+      padding: $space-s $space-m+$space-xxs $space-s $space-m;
+    }
 
     .subtext {
       display: block;
@@ -49,3 +57,30 @@
     margin-bottom: 6rem;
     }
   }
+
+.landing-layout {
+
+  .section-intro {
+    .usa-width-one-third {
+      padding-right: $space-s;
+      h2 {
+        min-height: $space-xl - $space-xs;
+        line-height: $leading-xs;
+      }
+    }
+  }
+
+  .section-goodfit {
+
+    padding-bottom: $space-xl * 1.5;
+
+    .text-large {
+      max-width: 56rem;
+      font-size: $font-size-m - .2rem;
+    }
+  }
+  .usa-width-one-half {
+    padding-right: $space-s;
+  }
+
+}
