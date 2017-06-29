@@ -92,7 +92,7 @@ Phase II awardees can apply for Phase IIB funding to speed up commercialization.
 {% if site.app_process == "active" %}
 For complete program information, check out the latest [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}) or [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}).
 {% else %}
-For more program information, check out our last solicitation. Our next solicitation will be posted in [MONTH YEAR].
+For more program information, check out our last solicitation. Our next solicitation will be posted in {{ site.deadline }}.
 {% endif %}
 </div>
 </section>
