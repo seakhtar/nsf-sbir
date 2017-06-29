@@ -16,11 +16,21 @@
     <div class="usa-width-one-fourth">
       <h3 class="subhead">Program director</h3>
       {% for programDirector in topic.programDirector %}
-        <p class="button-arrow">
-          <a href="mailto:{{ programDirector.email }}">
-            {{ programDirector.name }}
-          </a>
+        <p>
+          {{ programDirector.name }}
         </p>
+        <ul>
+          <li>
+            <a href="mailto:{{ programDirector.email }}">
+              Send email
+            </a>
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/contact/bios#{{ programDirector.name }}">
+              View bio
+            </a>
+          </li>
+        </ul>
       {% endfor %}
     </div>
     <div class="usa-width-three-fourths">
