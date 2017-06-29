@@ -45,13 +45,11 @@ li:last-child {
   a {
     border-bottom: 0;
     border-top: 1px dotted $color-primary-darkest;
-    // color: $color-primary-darker;
-    // color: $color-primary-darkest;
     color: $color-primary;
     display: block;
     font-size: $font-size-xxs;
-    font-weight: 500;
-    min-height: $space-xl - $space-s;
+    font-weight: 600;
+    min-height: $space-xl - $space-m;
     padding-top: $space-xs;
 
     &:hover {
@@ -84,8 +82,7 @@ li:last-child {
   h3.subhead {
     margin-bottom: $space-m;
     letter-spacing: $kern-loose;
-    // color: $color-gray-dark;
-    color: $color-gray-medium-warm;
+    color: $color-gray-dark;
     font-weight: 400;
   }
 
@@ -119,9 +116,9 @@ li:last-child {
   }
 
   h2.text-medium.tech-topic-title {
-    font-size: $font-size-m;
+    font-size: $font-size-s;
     font-weight: 600;
-    margin-bottom: $space-xl + $space-s;
+    margin-bottom: $space-xl;
     margin-top: $space-xl;
   }
 
