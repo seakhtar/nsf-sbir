@@ -1,10 +1,13 @@
 
 // Color USWDS Overrides
-$color-primary: #0071BC;
-$color-primary-darkest: #112E51;
-$color-primary-darker: #205493;
+$color-primary: #002277; // formerly #0071BC;
+$color-primary-darkest: #003366; // formerly #112E51;
+$color-primary-darker: #005588; // formerly #205493;
+$color-visited: #406098;  // new color
 
 $color-gray-dark: #323A45;
+$color-gray-medium-warm: #696969;
+$color-gray-medium-cool: #4F5A65;
 $color-gray-light: #AEB0B5;
 
 $color-primary-alt: #02BFE7;
@@ -36,11 +39,13 @@ $color-tertiary-light: #E59393;
 $color-tertiary-lightest: #F9DEDE;
 $color-white-transprent: rgba(255,255,255,.9);
 
+
 // Backgrounds
 $color-bg-light: #F5FBFC;
 
 $bg-color: #F7F7F7;
 $hero-bg-color: #AAAAAA;
+$visited: #406098;
 // End Unique colors
 
 // Typography

@@ -5,6 +5,8 @@
   .tech-subtopics-header {
     display: inline;
     font-size: $font-size-xxs;
+    font-weight: 500;
+    letter-spacing: normal;
   }
   ul {
     display: inline;
@@ -19,6 +21,7 @@ li:last-child {
   li {
     display: inline;
     font-size: $font-size-xxs;
+    color: $color-gray-dark;
 
     &::after {
       background-color: $color-gray-light;
@@ -42,10 +45,12 @@ li:last-child {
   a {
     border-bottom: 0;
     border-top: 1px dotted $color-primary-darkest;
-    color: $color-primary-darkest;
+    // color: $color-primary-darker;
+    // color: $color-primary-darkest;
+    color: $color-primary;
     display: block;
     font-size: $font-size-xxs;
-    font-weight: 700;
+    font-weight: 500;
     min-height: $space-xl - $space-s;
     padding-top: $space-xs;
 
@@ -79,7 +84,9 @@ li:last-child {
   h3.subhead {
     margin-bottom: $space-m;
     letter-spacing: $kern-loose;
-    color: $color-gray-dark;
+    // color: $color-gray-dark;
+    color: $color-gray-medium-warm;
+    font-weight: 400;
   }
 
   .awards-search-form {
@@ -95,6 +102,7 @@ li:last-child {
       p {
         margin-bottom: $space-xs;
         font-size: $font-size-xs;
+        letter-spacing: $kern-tight;
         font-weight: 600;
       }
       ul {
@@ -113,39 +121,9 @@ li:last-child {
   h2.text-medium.tech-topic-title {
     font-size: $font-size-m;
     font-weight: 600;
-    margin-bottom: $space-xl;
+    margin-bottom: $space-xl + $space-s;
     margin-top: $space-xl;
   }
 
-  #search label {
-    display: block;
-    font-family: $font-serif;
-    font-size: $font-size-xxxs;
-    font-weight: 600;
-    line-height: $leading-m;
-    padding: 0;
-    margin: 0;
-  }
-  #search input.form-control {
-    border: none;
-    border-bottom: 2px solid $color-primary-alt-dark;
-    background-color: $color-neutral-light;
-    color: $color-base;
-    font-family: $font-serif;
-    font-size: $font-size-xs;
-    line-height: 1.625;
-    margin-left: -32px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 32px;
-    width: 300px;
-  }
-  #search .btn.btn-default {
-    @include search-icon;
-    background-color: $color-neutral-light;
-    border: none;
-    color: $color-primary-alt-dark;
-    line-height: 1.625;
-  }
 
 }
