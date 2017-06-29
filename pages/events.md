@@ -48,4 +48,5 @@ Helpful information for applicants and awardees on upcoming events.
     </tbody>
 </table>
 {% else %}
+<p>We don't currently have any events scheduled — check back soon for the latest updates.</p>
 {% endif %}
