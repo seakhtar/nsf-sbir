@@ -5,7 +5,7 @@ layout: tech-topic
 topic_code: bt
 section_image: "/assets/img/bg/miromatrix-2c-bt.jpg"
 section_image_caption: |
-  [Miromatrix Medical Inc]({{ site.baseurl }}/portfolio/details/?company=miromatrix-medical-inc#miromatrix-medical-inc)
+  [Miromatrix Medical Inc]({{ site.baseurl }}/portfolio/details/?company=miromatrix-medical-inc#miromatrix-medical-inc)'s unique technology allows scientists to create human organs, offsetting shortages of transplantable organs.
 ---
 
 

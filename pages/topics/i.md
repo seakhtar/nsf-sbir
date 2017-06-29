@@ -5,7 +5,7 @@ layout: tech-topic
 topic_code: i
 section_image: "/assets/img/bg/iotas-2c-i.jpg"
 section_image_caption: |
-  Showcasing [IOTAS]({{ site.baseurl }}/portfolio/details/?company=iotas-inc#iotas-inc) Home app, featuring unique floor plan view and Smart Stories™.
+  Showcasing [IOTAS]({{ site.baseurl }}/portfolio/details/?company=iotas-inc#iotas-inc)'s' Home app, featuring a unique floor plan view and Smart Stories™.
 ---
 
 
