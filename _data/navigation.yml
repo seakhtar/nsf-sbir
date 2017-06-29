@@ -14,7 +14,15 @@ primary:
     href: /about/
   - text: Portfolio
     href: /portfolio/
-  - text: Apply for funding
+  - text: Showcase
+    href: /showcase/
+  - text: Resources
+    href: /resources/
+  - text: Events
+    href: /events/
+  - text: Contact
+    href: /contact/
+  - text: Apply
     href: /apply/
 
 fastlane:
@@ -44,6 +52,8 @@ review:
     href: /review/virtual-panelist/
 
 awardees:
+  - text: Awardees
+    href: /awardees/awardees/
   - text: General Grant Conditions
     href: https://www.nsf.gov/awards/managing/special_conditions.jsp
   - text: CAAR Videos for Phase I Awardees

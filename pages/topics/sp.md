@@ -3,15 +3,17 @@ title: Semiconductors and Photonic Devices and Materials
 permalink: /topics/semiconductors-and-photonic-devices/
 layout: tech-topic
 topic_code: sp
-section_image: "/assets/img/bg/robotic-arm.jpg"
+section_image: "/assets/img/bg/altaeros_2013_003_bw.jpg"
 section_image_caption: |
   The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
 ---
+{% comment %}
 
 ## Pre-Submission Feedback
 You may communicate with the Program Director, Rick Schwerdtfeger (rschwerd@nsf.gov), to gauge if a project meets the program's intellectual merit and commercial impact criteria. Send a 1-2 page executive summary by e-mail discussing the following aspects of the project: 1) the company and team; 2) the market opportunity, value proposition, and customers; 3) the technology/innovation; 4) the technical challenges to overcome; and 5) the competition. Please note that responsiveness will likely be limited in the 2 weeks leading up to the solicitation deadline.
 
 [Click here for examples of recently funded Phase I projects in this portfolio.](http://www.nsf.gov/awardsearch/advancedSearchResult?ProgEleCode=1505%2C+5371&BooleanElement=Any&ProgOfficer=%22Steven+Konsek%22&ActiveAwards=true)
+{% endcomment %}
 
 ## Photonics (PH)
 The Photonics topic addresses the research and development of new materials, devices, components, and systems that have the potential for revolutionary change in the optics and photonics industries. Proposals should be motivated by market opportunity, a compelling value proposition, clearly identified end users and customers of the proposed technology, and a viable pathway to commercialization.

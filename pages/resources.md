@@ -28,7 +28,7 @@ Get to know our awardees better — we’ve got [video profiles of funded startu
 
 ## For awardees
 
-For information on reporting requirements, supplemental funding and how to apply for Phase II, you can visit the [awardees section]({{ site.baseurl }}/awardees/) of our site. 
+For information on reporting requirements, supplemental funding and how to apply for Phase II, you can visit the [awardees section]({{ site.baseurl }}/awardees/awardees/) of our site. 
 
 ### Spreading the word
 
@@ -36,7 +36,7 @@ As an awardee or alum, you’re the face of our program, and we hope you’ll sh
 
 ### Research experiences
 
-Are you a teacher or student who’s interested in research experiences and partnerships with Phase II awardees? Visit our [Research Experiences page]({{ site.baseurl }}/awardees/researchexp/) to learn more about how you can partner with funded Phase II companies.
+Are you a teacher or student who is interested in research experiences and partnerships with Phase II awardees? Visit our [Research Experiences page]({{ site.baseurl }}/awardees/researchexp/) to learn more about how you can partner with funded Phase II companies.
 
 ### Award-management forms
 

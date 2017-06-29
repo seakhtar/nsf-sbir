@@ -15,10 +15,8 @@ We'd also love it if you'd share your America's Seed Fund story via social or on
 
 # America's Seed Fund (SBIR/STTR) on Twitter
 
-Help spread the word about your funding one tweet at a time — tag @NSFSBIR or use the hashtag #NSFFunded. You can also [check out our Twitter account](https://twitter.com/NSFSBIR) and retweet anything you'd like.
-
 ## Twitter
-Are you on Twitter? If so, you can help spread the word about NSF SBIR with the click of a button. Share your story and tag @NSFSBIR or use the hashtag #NSFFunded. You can also [check out our Twitter account](https://twitter.com/NSFSBIR) and retweet anything you would like!
+Help spread the word about your funding one tweet at a time! You can help spread the word about NSF SBIR with the click of a button. Share your story and tag @NSFSBIR or use the hashtag #NSFFunded. You can also [check out our Twitter account](https://twitter.com/NSFSBIR) and retweet anything you would like!
 Here are some sample tweets you can use too:
 
 @NSFSBIR provides seed #funding for #tech #startups across all areas of science. 1.usa.gov/1awfsNp
@@ -32,7 +30,7 @@ Interested in learning about one of our funders, @NSFSBIR? Watch an intro video:
 
 ## NSF logo
 
-As an awardee, you're encouraged to use the NSF logo on your website and marketing materials. Many investors view the NSF logo as a stamp of approval, so use it with pride!
+As an awardee, use the NSF logo on your website and marketing materials to acknowledge your NSF grant. Many investors view the NSF logo as a stamp of approval, so use it with pride!
 
 Visit http://www.nsf.gov/policies/logos.jsp for the current version and usage guidance.
 
@@ -40,4 +38,4 @@ Visit http://www.nsf.gov/policies/logos.jsp for the current version and usage gu
 If you're putting out a press release and want to mention your award, please use this description, which is approved for use in press releases and other publications:
 
 ## About the National Science Foundation's Small Business Programs
-The National Science Foundation (NSF) awards nearly $190 million annually to startups and small businesses through the Small Business Innovation Research (SBIR)/Small Business Technology Transfer (STTR) program, transforming scientific discovery into products and services with commercial and societal impact. The non-dilutive grants support research and development (R&D) across almost all areas of science and technology helping companies de-risk technology for commercial success. The NSF is an independent federal agency with a budget of about $7 billion that supports fundamental research and education across all fields of science and engineering. To learn more about the NSF SBIR/STTR program, visit: www.nsf.gov/SBIR.
+America’s Seed Fund powered by the National Science Foundation (NSF) awards nearly $190 million annually to startups and small businesses, transforming scientific discovery into products and services with commercial and societal impact. Startups working across almost all areas of science and technology can receive up to $1.5 million in non-dilutive funds to support research and development (R&D),helping de-risk technology for commercial success. America’s Seed Fund is congressionally mandated through the Small Business Innovation Research (SBIR) program. The NSF is an independent federal agency with a budget of about $7.5 billion that supports fundamental research and education across all fields of science and engineering. For more information, visit seedfund.nsf.gov.

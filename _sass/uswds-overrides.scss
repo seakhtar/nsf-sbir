@@ -34,7 +34,6 @@ ol {
 }
 
 
-
 .usa-grid-center {
   &:last-child {
     float: none;
@@ -60,9 +59,27 @@ ol {
   }
 }
 
+// small screen nav - top nav
 .usa-menu-btn {
-  margin-top: $space-m;
+  min-width: auto;
+  &:hover {
+    border: 0;
+  }
 }
+
+.usa-nav-close {
+  min-width: auto;
+}
+.usa-nav-inner {
+  padding: $space-m;
+}
+@include media($nav-width) {
+  .usa-nav-inner {
+    padding: inherit;
+  }
+}
+
+// END - small screen nav - top nav
 
 .usa-content {
   li {
