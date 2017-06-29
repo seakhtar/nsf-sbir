@@ -5,6 +5,8 @@
   .tech-subtopics-header {
     display: inline;
     font-size: $font-size-xxs;
+    font-weight: 500;
+    letter-spacing: normal;
   }
   ul {
     display: inline;
@@ -19,6 +21,7 @@ li:last-child {
   li {
     display: inline;
     font-size: $font-size-xxs;
+    color: $color-gray-dark;
 
     &::after {
       background-color: $color-gray-light;
@@ -32,18 +35,21 @@ li:last-child {
 }
 
 .featured-companies {
+  margin-bottom: $space-m;
+
   li {
     padding: 0 $space-m 0 0;
+    line-height: $leading-xs;
   }
 
   a {
     border-bottom: 0;
     border-top: 1px dotted $color-primary-darkest;
-    color: $color-primary-darkest;
+    color: $color-primary;
     display: block;
     font-size: $font-size-xxs;
-    font-weight: 700;
-    min-height: 4rem;
+    font-weight: 600;
+    min-height: $space-xl - $space-m;
     padding-top: $space-xs;
 
     &:hover {
@@ -70,54 +76,51 @@ li:last-child {
     }
   }
 }
+.page-portfolio {
 
-h3.subhead {
-  margin-bottom: $space-m;
-}
+  h2.subhead,
+  h3.subhead {
+    margin-bottom: $space-m;
+    letter-spacing: $kern-loose;
+    color: $color-gray-dark;
+    font-weight: 400;
+  }
 
-.section-tech-topic {
-  clear: both;
- .tech-topic-title {
-   margin-bottom: $space-xl;
- }
-}
+  .awards-search-form {
+    margin-bottom: $space-xl;
+  }
 
-h2.text-medium.tech-topic-title {
-  font-size: 1.6rem;
-  font-weight: 600;
-}
+  .section-tech-topic {
+    clear: both;
 
-.section-tech-topic .usa-width-one-fourth {
-  margin-bottom: $space-xl;
-}
+    .usa-width-one-fourth {
+      margin-bottom: $space-xl;
 
-#search label {
-  display: block;
-  font-family: $font-serif;
-  font-size: $font-size-xxxs;
-  font-weight: 600;
-  line-height: 1.625;
-  padding: 0;
-  margin: 0;
-}
-#search input.form-control {
-  border: none;
-  border-bottom: 2px solid $color-primary-alt-dark;
-  background-color: $color-neutral-light;
-  color: $color-base;
-  font-family: $font-serif;
-  font-size: $font-size-xs;
-  line-height: 1.625;
-  margin-left: -32px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 32px;
-  width: 300px;
-}
-#search .btn.btn-default {
-  @include search-icon;
-  background-color: $color-neutral-light;
-  border: none;
-  color: $color-primary-alt-dark;
-  line-height: 1.625;
+      p {
+        margin-bottom: $space-xs;
+        font-size: $font-size-xs;
+        letter-spacing: $kern-tight;
+        font-weight: 600;
+      }
+      ul {
+        margin: 0;
+        padding: 0;
+        li {
+          margin: 0 0 $space-xs 1.4rem;
+          font-size: $font-size-xxs;
+          list-style-type: circle;
+        }
+      }
+    }
+
+  }
+
+  h2.text-medium.tech-topic-title {
+    font-size: $font-size-s;
+    font-weight: 600;
+    margin-bottom: $space-xl;
+    margin-top: $space-xl;
+  }
+
+
 }

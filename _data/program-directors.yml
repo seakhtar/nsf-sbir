@@ -194,8 +194,8 @@
     a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied
     Physics from Pittsburg State University, and a B.S. in Physics and Science Education
     from the University of Dubuque.
-  topic: 
-  topic_permalink: 
+  topic:
+  topic_permalink:
   topics:
   - topic: Internet of Things (I)
     permalink: "/topics/internet-of-things/"
@@ -246,4 +246,3 @@
   topic_permalink: "/topics/other/"
   topics: []
 ---
-

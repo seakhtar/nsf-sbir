@@ -10,7 +10,9 @@ layout: secondary
 
 <h2 class="header-top-bar"> Making a difference </h2>
 
-We’re not interested in innovation for innovation’s sake — we back technologies that promote the social good. Learn more about our companies’ impact here.
+We’re not interested in innovation for innovation’s sake — we back technologies that promote the social good. Learn more about our companies’ impact here.  
+
+Are you an awardee and have a success story to share?  [Tell us about it](https://goo.gl/forms/UZOsIo1eFpHLA4IW2). 
 
 </div>
 </section>
@@ -22,7 +24,7 @@ We’re not interested in innovation for innovation’s sake — we back technol
 
 ### Custom digital voices for those unable to speak
 
-More than ten million people worldwide live with voicelessness. Many of them rely on text-to-speech devices and apps, all of which use the same few generic, mechanical voices to mimic human speech — a solution that’s practical but that diminishes users’ unique vocal identities. **VocaliD** creates custom digital voices by taking a tiny sample of someone’s voice.
+More than 10 million people worldwide live with voicelessness. Many of them rely on text-to-speech devices and apps, all of which use the same few generic, mechanical voices to mimic human speech — a solution that’s practical but that diminishes users’ unique vocal identities. **VocaliD** creates custom digital voices by taking a tiny sample of someone’s voice.
 
 To learn more, visit [https://www.vocalid.co/](https://www.vocalid.co/).
 

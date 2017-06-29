@@ -36,7 +36,7 @@ As an awardee or alum, you’re the face of our program, and we hope you’ll sh
 
 ### Research experiences
 
-Are you a teacher or student who’s interested in research experiences and partnerships with Phase II awardees? Visit our [Research Experiences page]({{ site.baseurl }}/awardees/researchexp/) to learn more about how you can partner with funded Phase II companies.
+Are you a teacher or student who is interested in research experiences and partnerships with Phase II awardees? Visit our [Research Experiences page]({{ site.baseurl }}/awardees/researchexp/) to learn more about how you can partner with funded Phase II companies.
 
 ### Award-management forms
 

@@ -258,7 +258,7 @@
 
 - topic: Internet of Things (I)
   permalink: /topics/internet-of-things/
-  topic_code: iot
+  topic_code: i
   programDirector:
     - name: Rick Schwerdtferger
       api_name: Richard Schwerdtfeger

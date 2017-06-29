@@ -3,15 +3,11 @@ title: Biological Technologies
 permalink: /topics/biological/
 layout: tech-topic
 topic_code: bt
-section_image: "/assets/img/bg/robotic-arm.jpg"
+section_image: "/assets/img/bg/miromatrix-2c-bt.jpg"
 section_image_caption: |
-  The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
+  [Miromatrix Medical Inc]({{ site.baseurl }}/portfolio/details/?company=miromatrix-medical-inc#miromatrix-medical-inc)'s unique technology allows scientists to create human organs, offsetting shortages of transplantable organs.
 ---
 
-## Pre-Submission Feedback
-You may communicate with the Program Director, Ruth Shuman (rshuman@nsf.gov), to gauge if a project meets the program's intellectual merit and commercial impact criteria. Send a 1-2 page executive summary by e-mail discussing the following aspects of the project: 1) the company and team; 2) the market opportunity, value proposition, and customers; 3) the technology/innovation; 4) the technical challenges to overcome; and 5) the competition. Please note that responsiveness will likely be limited in the 2 weeks leading up to the solicitation deadline.
-
-[Click here for examples of recently funded Phase I projects in this portfolio.](http://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=1505%2C+5371&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=Ruth+Shuman&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=After&StartDateFrom=06%2F01%2F2015&ExpDateOperator)
 
 ### BT1. Agricultural and Food Safety Biotechnology
 New approaches for meeting the world's future nutritional needs that involve the development of new technology that is primarily based in the biotechnology area. For Plant Biotechnology, target areas for improvement may include (but are not limited to) drought tolerance, improved nutritional value, enhanced disease resistance, and higher yield. Proposers should give consideration to technologies that enhance biodiversity, produce less carbon dioxide, and use less water and fertilizer. For Animal Biotechnology, which includes aquaculture, the target emphasis may include (but is not limited to) animal health and productivity, and reducing environmental impacts. For Food Safety Biotechnology, this may include handling, preparation, and storage of food in ways that prevent foodborne illness, as well as origins of food including the practices relating to food tracking, hygiene, additives, and certification systems.
