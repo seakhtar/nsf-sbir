@@ -6,8 +6,7 @@ layout: landing
 hero:
   image: /assets/img/bg/hero-altaeros.jpg
   callout:
-    alt: "We invest up to $1.5 million in  
-    seed funding"
+    alt: We invest up to $1.5 million in <br> seed funding
     text: We take 0% equity
   button:
     href: /apply/
