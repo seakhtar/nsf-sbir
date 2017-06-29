@@ -6,13 +6,18 @@
         <div class="usa-width-two-thirds">
           {% if hero.callout %}
             <h2 class="large-header">
+
+              <span class="usa-hero-callout-alt">We invest up to $1.5 million in<br/>seed funding</span>
+
+              {% comment %}
               {% if hero.callout.alt %}
                 <span class="usa-hero-callout-alt">{{ hero.callout.alt }}</span>
               {% endif %}
+              {% endcomment %}
+
               {{ hero.callout.text | default: hero.callout }}
             </h2>
-          {% if hero.callout.subtext %}
-            <p class="usa-hero-callout-subtext">{{ hero.callout.subtext }}</p>
+          {% if hero.callout.subtext %}            <p class="usa-hero-callout-subtext">{{ hero.callout.subtext }}</p>
           {% endif %}
           {% endif %}
           {% if hero.link %}
