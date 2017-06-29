@@ -5,7 +5,7 @@ layout: tech-topic
 topic_code: mi
 section_image: "/assets/img/bg/biomason-2c-mi.jpg"
 section_image_caption: |
-  [bioMASON Inc](/portfolio/details/?company=biomason-inc#biomason-inc) interior and exterior façade tile made with biocement, which is less costly and more sustainable than its traditional counterpart
+  [bioMASON Inc]({{ site.baseurl }}/portfolio/details/?company=biomason-inc#biomason-inc) interior and exterior façade tile made with biocement, which is less costly and more sustainable than its traditional counterpart
 
 ---
 
