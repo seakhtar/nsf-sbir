@@ -32,6 +32,19 @@ module Jekyll
       end
     end
 
+
+    def flat(obj)
+      if obj.is_a? Array
+        obj.flatten
+      else
+        obj.map { |k,v| v }.flatten
+      end
+    end
+
+    def shuffle(array)
+      array.shuffle
+    end
+
     def matches_url(page_url, url)
       if url.is_a? Array
         urls = url.map do |u|

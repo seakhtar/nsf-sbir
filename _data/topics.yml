@@ -351,6 +351,98 @@
   expDate: 12/31/2011
   title: 'SBIR Phase I:  Spray-Formed Soft Magnetic Material for Efficient Hybrid-Field
     Electric Machines'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase I project proposes to develop a hydraulic regenerative shock absorber and charge system for hybrid trucks. An appreciable amount of energy is lost in a typical suspension as heat, especially in heavy vehicles. Existing technologies have been unable to efficiently capture this energy in a cost-effective manner. This project will entail the modeling, design, fabrication, and testing of a hydraulic-electric energy harvesting unit, along with the power electronics and energy storage subsystem to charge hybrid truck batteries. The objective of the project is to study and prove the feasibility of a regenerative shock absorber as a disruptive hydraulic energy harvesting mechanism on heavy trucks. Emphasis will be on the specific challenges of converting high force small amplitude oscillations into electricity that can interface with hybrid charge systems. Work will focus on a proof-of-concept demonstration and a determination of the increased efficiency possible on a hybrid vehicle using the internal piston/integrated-generator regenerative shock absorber mechanism.
+
+
+    The broader impact/commercial potential of this project is significant as the foundational technology can be applied to a wide range of vehicles, systems and industrial applications in diverse industries. The technology has the potential to save millions of dollars per year in fuel for fleet operators, and simultaneously reduce carbon emissions across the United States. Hybrid vehicles traditionally have a single energy regeneration source (braking) to charge batteries. Effectively incorporating a secondary regenerative charge system may open doors to many new regenerative technologies that work in unison to charge hybrid vehicle batteries, thus allowing for significant reductions in waste energy. The market potential for the technology is considerable, and includes trucks, military vehicles, transit buses, passenger vehicles, and rail. When incorporated into conventional non-hybrid platforms, the technology can improve fuel economy by displacing alternator load. In addition to vehicular applications, the research may, on a broader scale, lead to enabling technologies for compact, sealed, and efficient hydraulic actuators and energy harvesters. This will have applications in other fields such as aviation, industrial machinery, and robotics.
+  awardeeAddress: 288 Norfolk St.
+  awardeeCity: Cambridge
+  awardeeCountryCode: US
+  awardeeName: Levant Power Corporation
+  awardeeStateCode: MA
+  awardeeZipCode: 021391430
+  fundsObligatedAmt: '180000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1014124'
+  piEmail: zack@levantpower.com
+  piFirstName: Zackary
+  piLastName: Anderson
+  piPhone: '6173130919'
+  date: 05/17/2010
+  startDate: 07/01/2010
+  expDate: 06/30/2011
+  title: 'SBIR Phase I:  Integrated Hydraulic Suspension Energy Recovery System for
+    Hybrid Trucks'
+- abstractText: |-
+    The broader impact/commercial potential of this project is expected to be realized in two principal areas. There have been extensive efforts to mask hydraulic noise, but the proposed effort is directed at eliminating the hydraulic ripple before it is created at the source. Traditional passive methods of masking noise are insufficient because they work effectively only in a limited operating range. This is inadequate because hydraulic systems typically must operate over a wide range of speed and loads. First this project is expected to make hydraulic active suspension systems quieter, more responsive and robust and, therefore, more readily and widely adopted by industry. The resulting likely increased use of active suspension systems will, therefore, have the added societal benefit of improved vehicle safety and comfort. This project is also expected to have a much wider impact on the hydraulic noise that has been a chronic pain point for the hydraulics industry for decades. It will allow for the manufacture of quieter and more durable hydraulic pumps for many applications beyond active suspension.
+
+
+    This Small Business Innovation Research (SBIR) Phase I project is an investigation of the feasibility of using an active buffer to eliminate flow ripple from a hydraulic pump, such as a gerotor pump. In a representative hydraulic system, the gerotor pump is at the heart of an advanced electro-hydraulic, active suspension actuator. Due to their geometry, positive displacement pumps provide small fluctuations in their fluid flow rate at a constant pump RPM. These small changes in flow rate create pressure fluctuations that can create significant mechanical movement that results in objectionable or unhealthy noise. The proposed effort is directed specifically at mitigating acoustic and structural vibration noise caused by such a pump. The proposed effort will utilize a combination of advanced experimental and computer simulation techniques to demonstrate the viability of the approach in the representative hydraulic system (an active suspension actuator). Hydraulic system noise is a widespread pain point in numerous applications involving hydraulic pumps. A key difficulty with hydraulic pumps is that they are often required to perform over a wide range of speeds and pressures. Conventional noise control devices typically can only be optimized for a relatively narrow portion of this range.
+  awardeeAddress: 475 Wildwood Ave
+  awardeeCity: Woburn
+  awardeeCountryCode: US
+  awardeeName: Levant Power Corporation
+  awardeeStateCode: MA
+  awardeeZipCode: 018012027
+  fundsObligatedAmt: '149804'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1549239'
+  piEmail: jack@levantpower.com
+  piFirstName: Jack
+  piLastName: Ekchian
+  piPhone: '6174535361'
+  poName: Rajesh Mehta
+  date: 12/21/2015
+  startDate: 01/01/2016
+  expDate: 07/31/2016
+  title: 'SBIR Phase I:  Feed Forward Hydraulic Ripple Cancellation'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase II project proposes
+    to develop a fully functional turnkey regenerative semi-active shock absorber
+    for heavy-duty transit buses and other commercial vehicles. An appreciable amount
+    of energy is lost in a typical suspension as heat, especially in heavy vehicles.
+    Existing technologies have been unable to efficiently capture this energy in a
+    cost-effective manner. This project entails hydraulic and electronic model optimization,
+    design of vehicle-ready prototypes, fabrication, lab testing, installation, and
+    operational testing of a hydraulic adaptive damping energy harvesting system.
+    The objective of the project is to demonstrate real-world benefits of an efficient,
+    adjustable damping regenerative shock absorber on a transit bus in operation with
+    a municipal transit agency. Emphasis will be on efficiency improvements, semi-active
+    ride control, and application specific integration requirements to ensure seamless
+    installation and operation. Work will culminate in a fully fielded pilot demonstration
+    and quantification of regenerated energy (improved fuel efficiency) and ride improvement
+    benefits using the regenerative semi-active shock absorber.     \n\n\nThe broader
+    impact/commercial potential of this project is significant if the challenges of
+    inexpensively, reliably, and efficiently capturing suspension energy are overcome.
+    The technology has the potential to save millions of dollars per year in fuel
+    for large fleets, and significantly reduce carbon emissions in the United States
+    and abroad. Effectively incorporating an aftermarket or OEM retrofit-able regenerative
+    energy capture system may open doors to many new regenerative technologies in
+    the transportation and automotive sector, facilitating significant reductions
+    in waste energy. In addition, the research may lead to enabling technology for
+    compact, sealed, and efficient hydraulic actuators and energy harvesters across
+    several industrial applications. This may have applications in other fields such
+    as off grid marine (hydrokinetic) energy, aerospace actuators, heavy machinery
+    dampers, orthotics/prosthetics, and robotics."
+  awardeeAddress: 288 Norfolk St.
+  awardeeCity: Cambridge
+  awardeeCountryCode: US
+  awardeeName: Levant Power Corporation
+  awardeeStateCode: MA
+  awardeeZipCode: 021391430
+  fundsObligatedAmt: '1100000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1127397'
+  piEmail: zack@levantpower.com
+  piFirstName: Zackary
+  piLastName: Anderson
+  piPhone: '6173130919'
+  poName: Rajesh Mehta
+  date: 11/10/2011
+  startDate: 11/15/2011
+  expDate: 04/30/2016
+  title: 'SBIR Phase II:  Integrated Hydraulic Suspension Energy Recovery System for
+    Heavy Vehicles'
 - abstractText: "This Small Business Innovation Research Phase I project will address
     the challenge of retrofit cleaning and pretreatment of steam condenser tubes prior
     to the deposition of a performance-enhancing coating. By eliminating the buildup
@@ -1408,6 +1500,30 @@
   expDate: 12/31/2013
   title: 'SBIR Phase I:  A novel and cost effective mechanical ventilator for pandemic
     preparedness and underserved communities'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase I project will provide the basis for producing a unique cytocompatible, liquid adhesive bandage that will facilitate wound healing. This project is based upon a correlation of surface free energy of hydrated, amphiphilic polymers and their ability to support cell functions, such as growth and proliferation, deposition of extracellular matrix proteins, and patterns of substrate surface coverage and morphology.  Current commercially available liquid adhesive bandages for professional applications on humans are used in a variety of wound coverage applications. However, there is no liquid adhesive bandage commercially available for human use that serves as a cell substrate as well as protecting a wound from foreign contaminants. The research will determine the surface free energies of a variety of amphiphilic polymers, ranging from highly hydrophilic to highly hydrophobic, and then correlate the surface free energy data to the cytocompatibility of the respective polymer films.  It is anticipated that this approach will result in a selection of polymers in a narrow range of surface free energies that can accelerate tissue regrowth for wound healing.
+
+    The broader impact/commercial potential of this project is the creation of a new form of medical treatment for acute wounds (e.g., surgery sites, injuries),  for chronic wounds (e.g., ulcers) and for burn wounds utilizing a simple, low cost, intimately conformal, protective polymer coating material that is capable of facilitating tissue regeneration. Such a coating will function as a synthetic skin substitute that will allow wounds to heal rapidly, without external contamination, such as from bacteria and other microorganisms, because of its ability to facilitate cell adhesion and proliferation. Importantly, this polymer coating will self-remove over time as the wound heals, in contrast to typical bandages that can cause new tissue abrasion and rupture when manually removed. This project will demonstrate how enhanced cytocompatibility of liquid adhesive bandages, and synthetic skin substitutes in general, can be obtained in topical wound care, thus leading to a reduction of patient suffering and a reduction in this nation's health care costs. The commercial impact of this product will be game-changing for topical wound treatment in that future materials should facilitate healthy tissue regrowth.
+  awardeeAddress: 12719 Cranes Mill
+  awardeeCity: San Antonio
+  awardeeCountryCode: US
+  awardeeName: Rochal Industries LLP
+  awardeeStateCode: TX
+  awardeeZipCode: '782301957'
+  fundsObligatedAmt: '150000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1110189'
+  piEmail: jcsalamone@yahoo.com
+  piFirstName: Joseph
+  piLastName: Salamone
+  piMiddeInitial: C
+  piPhone: '5617034007'
+  poName: Ruth M. Shuman
+  date: 05/06/2011
+  startDate: 07/01/2011
+  expDate: 12/31/2011
+  title: 'SBIR Phase I:  Correlation of Surface Free Energy and Cytocompatibility
+    of Amphiphilic Biomaterials'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the expedited development of a novel non?]surgical medical device and therapeutic treatment for the approximately 1 in 3 women over the age of 30 who suffer from urinary incontinence, two thirds of whom, in part due to notable deficiencies of available solutions, elect to live without treatment while their symptoms progressively worsen. Urinary incontinence, although a very private concern, has far?]reaching physical, psychological, social, and economic implications. For example, urinary incontinence has been found to reduce health-related quality of life measures on par with depression, incontinence is the number one reason for admittance into nursing homes, and the annual cost to the US healthcare system is estimated at $25 billion. Through design and validation activities this project will demonstrate the functionality of a wearable device that provides discreet, comfortable, easy?]to?]use therapy for female stress urinary incontinence. The technological understanding gained through this work lays the groundwork for subsequent development of a commercially viable, FDA cleared product that will enhance the lives of tens of millions of American women.
 
@@ -3813,6 +3929,29 @@
   expDate: 12/31/2015
   title: 'SBIR Phase I:    A Cloud Client Service for Next Generation of Mobile Computing,
     Leveraging Low Latency Video Encoder Algorithms'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be a substantially more effective and efficient error correction scheme for flash memory than exists today. This will provide better reliability and extend the life of flash memory and will have a major impact on several technologies and markets such as enterprise storage at data centers, solid state drives, tablets, smart phones, and other consumer electronics. The flash memory market was estimated to include $30.1 billion in production and sales in 2013 and is expected to grow to $43.9 billion by 2018. The enterprise storage market is estimated to be $1 billion in 2014 and a robust growth is expected over the next few years. A substantial fraction of this market is related to error correction controllers for flash memories which are playing an even more important goal than ever considering the rapid scaling down and increasing capacities of flash memories which introduce more read errors than before.
+
+    This Small Business Innovation Research (SBIR) Phase I project will address and develop tools to overcome problems that have traditionally prevented low-density parity-check (LDPC) codes from being deployed in flash memories  and error correction controllers. A major problem is that these codes have error floors which prevent them from achieving very low error probabilities required in flash memories. In order to overcome this deficiency, new algorithms will be developed to understand the nature of the problem and to eliminate it using advanced signal processing methods. Area and energy efficient decoder technologies will be developed that make LDPC codes suitable for flash applications. This will include research optimizing LDPC based error correction systems for area and energy efficiency and elimination of the error floor problem. It will also include research on optimizing the detailed circuit design.
+  awardeeAddress: 1920 W Villa Maria Rd, Ste 301
+  awardeeCity: Bryan
+  awardeeCountryCode: US
+  awardeeName: TexasLDPC Inc.
+  awardeeStateCode: TX
+  awardeeZipCode: '778070000'
+  fundsObligatedAmt: '150000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1520137'
+  piEmail: paul@texasldpc.com
+  piFirstName: Paul
+  piLastName: Budnik
+  piPhone: '4083533824'
+  poName: Steven Konsek
+  date: 06/01/2015
+  startDate: 07/01/2015
+  expDate: 12/31/2015
+  title: 'SBIR Phase I:  Area and Energy Efficient Error Floor Free Low-Density Parity-Check
+    Codes Decoder Architecture for Flash Based Storage'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase I project will be the enhanced ability to monitor Nitrogen
     Oxides (NOx) optically using a novel approach that is fundamentally different
@@ -3981,6 +4120,29 @@
   expDate: 12/31/2014
   title: 'SBIR Phase I:   Leveraging health information technology to improve communication
     between cancer patients and providers'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is very significant. Suboptimal operational decision-making in emergency departments leads to inefficiencies that result in extreme patient wait-times, the diversion of ambulances to other emergency departments, wasted resources and patients who either leave before being treated or against medical advice. By connecting modern analytical approaches, including statistical modeling and systems engineering methods, to real-time data routinely collected in emergency departments, the proposed project promises to result in a tremendously valuable analytics platform that will assist emergency departments in making dozens of operational and staffing decisions each day. This informed decision-making will not only improve emergency department efficiency, it will lead to both healthier and more satisfied patients and simultaneous dramatic increases in revenue and profit. The technology proposed will have the potential to add significant value to the approximately 5,000 emergency departments in the U.S., often on the order of millions of dollars annually. Hospitals and health systems now realize the value of effective analytics, and the analytics platform proposed here will be an obvious investment for any emergency department whose goal is to provide the best care to its patients at lower costs.
+
+    The proposed project promises to yield a decision-support platform upon which emergency departments will base their decisions each day. Substantial investments by hospitals and health systems on information technology, and in particular, electronic health records, have set the stage for evidence-based, data-driven decisions. These decisions will effectively leverage real-time data along with analytical methods such as statistical forecasting and event-simulation modeling. In particular, this proposed project will create a software platform, based on these analytical methods and linking to real-time data sources, tailored to emergency departments. This project will involve 1) understanding the capacity and real-time availability of data in emergency rooms, 2) developing a statistical and simulation modeling platform that maximizes the potential of these data, in real-time, and specifically reflects emergency departments, and 3) ultimately ensuring that actionable insights are delivered in a timely and intuitive manner to key stakeholders. These actionable insights that derive from the data and sophisticated methods must be delivered to the right decision-maker at the right time and in the right format, but will then have the capacity to substantially improve both the quality and efficiency of care-delivery in an emergency department.
+  awardeeAddress: 1601 Crafton Way
+  awardeeCity: Raleigh
+  awardeeCountryCode: US
+  awardeeName: Roundtable Analytics LLC
+  awardeeStateCode: NC
+  awardeeZipCode: '276076032'
+  fundsObligatedAmt: '269999'
+  fundProgramName: STTR PHASE I
+  id: '1448898'
+  piEmail: klopiano@gmail.com
+  piFirstName: Kenneth
+  piLastName: Lopiano
+  piPhone: '9045684759'
+  poName: Jesus Soriano Molla
+  date: 12/18/2014
+  startDate: 01/01/2015
+  expDate: 06/30/2016
+  title: 'STTR Phase I:  Data-Driven Decision Support Services for Emergency Department
+    Operations'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase I Project proposes
     to develop and deliver to health care enterprises a next generation imaging, analytics,
     and search solution that meets not only the current needs of multi-enterprise
@@ -4343,6 +4505,66 @@
   title: 'SBIR Phase I:  Scale-up Manufacturing of Nitric Oxide Nanotechnology for
     Healthcare Infections'
 - abstractText: |-
+    This Small Business Innovation Research (SBIR)Phase II project will develop an optimized ultra-short pulsed laser surgical device for high precision surgery in the sclera of the eye.  This tool may enable novel, office-based procedures to treat serious and common conditions, such as glaucoma and presbyopia.
+    Phase I study results will be used to guide development of a new solid-state high power femtosecond laser source and scanning optical delivery system.  Performance will be evaluated in ex vivo human and animal tissue.  It is anticipated that this tool will be used to test long-lasting and minimally invasive glaucoma and presbyopia surgical procedures performed in the sclera.  These procedures will be developed through follow-up in vivo evaluations conducted in collaboration with researchers at the University of Michigan (to whom the device will be made available).  By providing a tool for non-invasive scleral channel formation, investigators will be able to address long-standing questions about why current glaucoma surgery fails, as well as how the loss of accommodation can be reversed.  These developments will raise the possibility of direct intervention for the two million Americans who have glaucoma and the millions more who suffer from presbyopia.
+         The market for glaucoma is estimated at over $5 billion, while the potential market for presbyopia is probably several times greater. Since both glaucoma and presbyopia are associated with aging, their incidence is expected to rise.  The potential for low cost, office-based surgical procedures that are more effective than any current technique offers a compelling business model for the anticipated result of this proposal.
+  awardeeAddress: 2217 Vinewood
+  awardeeCity: Ann Arbor
+  awardeeCountryCode: US
+  awardeeName: IntraLase Corporation
+  awardeeStateCode: MI
+  awardeeZipCode: '481042763'
+  fundsObligatedAmt: '399940'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '9901726'
+  piEmail: tjuhasz@intralase.com
+  piFirstName: Tibor
+  piLastName: Juhasz
+  piPhone: '9498595230'
+  date: 09/28/1999
+  startDate: 10/01/1999
+  expDate: 09/30/2001
+  title: 'SBIR Phase II:  Delivery of Ultrashort Laser Pulses for the Treatment of
+    Glaucoma'
+- abstractText: "***  9761528  Juhasz    This Small Business Innovation Research Phase
+    I project will investigate the scientific, technical and commercial feasibility
+    of laser surgical systems for the treatment of glaucoma.  The project will focus
+    on the engineering and development of a novel laser delivery system as well as
+    proof of concept of its application.  The project is executed in collaboration
+    between Escalon Medical Corporation and the University of Michigan.  Approximately
+    two million Americans have glaucoma, while another ten million are at risk of
+    developing this disease due to elevated eye pressure.  Drug treatments for glaucoma
+    are only modestly effective and are associated with side effects and poor patient
+    compliance.  Current laser and traditional surgical treatments also have limited
+    success in preserving vision.  Current pulsed laser systems deposit large amounts
+    of thermal energy into the tissue.  The result is extensive damage to adjacent
+    structures and complicated by scarring.  Near infrared ultrashort pulsed lasers
+    are uniquely qualified to perform improved laser glaucoma surgical techniques,
+    since energy threshold requirements for tissue ablation are nearly 100 times less
+    than with existing pulsed clinical lasers.  This translates into minimal damage
+    to adjacent structures and greatly reduced scarring.  Successful completion of
+    the proposed project will identify optimal laser and delivery parameters which
+    will allow us to design a commercial prototype in the Phase II project.  ***"
+  awardeeAddress: 2217 Vinewood
+  awardeeCity: Ann Arbor
+  awardeeCountryCode: US
+  awardeeName: IntraLase Corporation
+  awardeeStateCode: MI
+  awardeeZipCode: '481042763'
+  fundsObligatedAmt: '99980'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '9761528'
+  piEmail: tjuhasz@intralase.com
+  piFirstName: Tibor
+  piLastName: Juhasz
+  piPhone: '9498595230'
+  poName: Bruce K. Hamilton
+  date: 11/20/1997
+  startDate: 01/01/1998
+  expDate: 06/30/1998
+  title: 'SBIR Phase I:  Delivery of Ultrashort Laser Pulses for the  Treatment of
+    Glaucoma'
+- abstractText: |-
     This Small Business Innovation Research Phase II project examines high throughput methods to quantify intacellular microRNA (miRNA) concentrations in cells that have shown to be associated with normal physiological processes, as well as diseases, including cancer. Currently there are no rapid, quantitative methods available to measure miRNA expression in living cells or tumor tissue. All current in vitro approaches require extensive preparation involving extraction, reverse transcription of miRNA into cDNA and amplification. These methods are not only time consuming, but require that the low abundance miRNA be several fold greater than background to give a meaningful result. To meet the demand for a diagnostic/prognostic tool, development of a biomolecular detection device is proposed based on a single electron transistor to bind and measure the concentration of miRNAs. This will provide a researcher or clinician an accurate profile to make proper clinical assessments. Bringing this device to market will provide scientists with direct information on intracellular miRNA levels, enhancing predictions of miRNAs that are essential for tumor maintenance or metastasis, and creating new diagnostic and therapeutic opportunities.
 
     The broader impact of this project will be to enhance current diagnostic and prognostic tools for early detection of disease. Today, early cancer detection and treatment offers the best outcome for patients. This has driven the search for effective diagnostics. The identification of a universal tumor specific epitope or marker has remained elusive. While many types of serological and serum markers have included enzymes, proteins, hormones, mucin, and blood group substances, at this time there are no effective diagnostic tests for cancer that are highly specific, sensitive, economical and rapid. This deficiency means that many cases of malignancy go undetected long past the time of effective treatment. The goal of this research is to bring a device to market for the research market and a device that can examine miRNA profiles from patient samples immediately in a hospital or clinical setting. The current size of the in vitro diagnostic market was over $40 billion in 2008. Unique diagnostic kits developed from this technology will likely fulfill an unmet market opportunity with the potential to exceed $100 million in the first 3 - 5 years.
@@ -4636,6 +4858,57 @@
   expDate: 02/28/2015
   title: 'SBIR Phase II:  Method of Disinfecting Precursor Materials using Plant Essential
     Oils for a New Material Technology'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR)Phase II project is designed to commercialize a consumer self-serve, automated kiosk for the evaluation, buy back, and collection of used electronics directly from consumers.  Prototype kiosks deployed during Phase I provided convincing proof of the feasibility of the baseline technical approach to the visual and electrical inspection technology, robotics, and the market.  Financial metrics achieved were many multiples better than industry leading kiosks such as Coinstar or Redbox.  Further R&D is required to achieve enough reliability in the automated inspection systems and the kiosk hardware to lead to the permanent removal the kiosk attendants in field that currently serve as the fail-safe mechanism in the current prototype systems.  Broad commercial success relies on the development of a robust, designed-for-manufacturability (DFM), designed-for-serviceability (DFS), commercially reliable kiosk with a minimum retail field life of 5 years that incorporates needed improvements learned from Phase I including refinements to the visual inspection system and algorithms, electrical inspection system, test station robotics subsystems, ergonomics, GUI, and channel management systems.  ecoATM also hopes to further develop the system?s capability to offer personal data erasure and expand accepted device types to potentially include digital cameras, portable game players, printer cartridges, laptops, eReaders, and tablets.
+
+    The broader impact of ecoATM?s patented system is that we finally achieved the threshold of consumer convenience and financial incentive required to inspire mass consumer participation in electronics recycling.  Our pilot market tests indicate that we harvested 20 times more used phones than the next closest competitor in the test areas.   As ecoATM scales nationally we will divert mass amounts of toxic eWaste from our landfills, and put huge sums of cash back in the hands of our customers and the retail locations hosting the kiosks, providing stimulus and incentive for these stakeholders to help forever alter the current wasteful lifecycle of consumer electronics.  On average, each ecoATM collects enough eWaste to offset its own annual energy consumption after just 5 days placement resulting in 360 days of CO2 offset.  An average ecoATM collects over 7,000 phones per year, which according to the EPA calculator is equivalent to taking the CO2 of 35 houses off the grid for a year.  National and global media have taken notice of ecoATM already and even the United Nation?s Low Carbon Leadership Program recognized ecoATM as one of the best ideas in the world for the reduction of CO2 on a global basis.
+  awardeeAddress: 10515 VISTA SORENTO PKWY
+  awardeeCity: San Diego
+  awardeeCountryCode: US
+  awardeeName: ecoATM, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '921214340'
+  fundsObligatedAmt: '516000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1152672'
+  piEmail: mvbowles@ecoatm.com
+  piFirstName: Mark
+  piLastName: Bowles
+  piPhone: '4156993411'
+  poName: Glenn H. Larsen
+  date: 02/23/2012
+  startDate: 03/01/2012
+  expDate: 02/28/2014
+  title: 'SBIR Phase II:  Automated and Self-Service Electronics Recycling Kiosk'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase I Project proposes
+    to demonstrate the technical and commercial feasibility of an automated e-Cycling
+    station for consumer electronics recycling.  The station will visually and electrically
+    inspect used consumer electronics, and will allow consumers to receive immediate
+    remuneration for their used electronics. A large worldwide market exists for a
+    majority of used consumer electronics.  It is estimated that the 2010 worldwide
+    market for used phones alone is approximately $4.6B. \n\nThe unique approach proposed
+    focuses squarely on the need to boost electronic recyclable collection volumes
+    by reaching out to the owners of used handsets and providing both convenience
+    and immediate incentives to draw them into the process.  If successful, the company
+    will be able to increase overall system efficiencies to create a sustainable and
+    profitable business model with a dual bottom line."
+  awardeeAddress: 10515 VISTA SORENTO PKWY
+  awardeeCity: San Diego
+  awardeeCountryCode: US
+  awardeeName: ecoATM, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '921214340'
+  fundsObligatedAmt: '150000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1046539'
+  piEmail: mvbowles@ecoatm.com
+  piFirstName: Mark
+  piLastName: Bowles
+  piPhone: '4156993411'
+  date: 12/01/2010
+  startDate: 01/01/2011
+  expDate: 06/30/2011
+  title: 'SBIR Phase I:  Automated and Self-Service Electronics Recycling Kiosk'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase I project seeks to address the significant technical barriers associated with an untethered overground cooperative gait rehabilitation exoskeleton. Current gait rehabilitation techniques available to patients with gait abnormalities include conventional therapist based rehabilitation and more recently Body Weight Support Treadmill (BWST) robotic rehabilitation. The leading BWST devices employ a cooperative gait rehabilitation approach that varies the assistance to the user based on their ability. The conventional therapy approach is extremely labor intensive, but while the BWST therapy is the leading alternative it has shown mixed results. Researchers hypothesize that this is due to differences in the trained gait between BWST walking and overground walking. Mobile exoskeletons have emerged to better imitate overground walking, but to date no mobile device has implemented a cooperative control strategy, mainly due to the technical issues associated with its use. This SBIR intends to develop novel advances in cooperative rehabilitation control strategies along with innovative actuator designs to make possible the first mobile overground gait rehabilitation exoskeleton that implements a cooperative strategy. Specifically, it will address the major technical barriers to achieving this goal to increase the chances of successfully developing this technology in Phase II.
 

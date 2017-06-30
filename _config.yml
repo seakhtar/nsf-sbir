@@ -49,7 +49,7 @@ gems:
 awards_api:
   active_date_is_now: true
   fundProgramName: phase
-  reset: false
+  reset: true
   recent_date: '06/01/2016'
   printFields:
     - id
@@ -76,9 +76,10 @@ awards_api:
 
 
 topics_api:
+  max_companies_shown: 9
   active_date_is_now: true
   fundProgramName: phase
-  reset: false
+  reset: true
   recent_date: '06/01/2016'
   printFields:
     - id
