@@ -1,8 +1,6 @@
 ---
-title: Review the solicitation
-description: Read the solicitation, which features everything you need to know about applying for funding.
+title: Get pre-submission feedback (optional)
 ---
+You can send an executive summary to one of our program directors to discuss your work and get feedback. Complete our short [executive summary form](https://goo.gl/forms/49AdC0Nqj8tPegV13) — a program director will get back to you shortly.
 
-The solicitation has information on the seed fund program, awards (number available and award amounts), program directors, tips for preparing your proposal, and more.
 
-If you're looking to fund academic research to review the STTR solicitation. Otherwise, view the SBIR solicitation.

@@ -1,7 +1,25 @@
-<ul>
-{% for program-director in site.data.program-directors %}
-  <li>
-    <a href="mailto:{{ program-director.email }}">{{ program-director.name }}</a> - {{ program-director.topic }}
-  </li>
-{% endfor %}
+<ul class="pd-list">
+  {% for director in site.data.program-directors %}
+    <li class="pd-card">
+      {% if director.photo %}
+        <img src="{{ site.baseurl }}/assets/img/pd/{{ director.photo }}" alt="{{ director.name }} headshot">
+      {% endif %}
+      <span class="pd-list-content">
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/contact/bios#{{ director.name }}">{{ director.name }}</a></h3>
+        {% if director.topics.size > 0 %}
+          <ul class="pd-topic-list">
+            {% for topic in director.topics %}
+              <li class="pd-tech-topic"><a href="{{ site.baseurl }}{{ topic.permalink }}">{{ topic.topic }}</a></li>
+            {% endfor %}
+          </ul>
+        {% else %}
+          <div class="pd-topic-list"><span class="pd-tech-topic"><a href="{{ site.baseurl }}{{ director.topic_permalink }}">{{ director.topic }}</a></span></div>
+        {% endif %}
+
+        <p class="text-small">
+          <a href="mailto:{{ director.email }}">Send email</a>
+        </p>
+      </span>
+    </li>
+  {% endfor %}
 </ul>

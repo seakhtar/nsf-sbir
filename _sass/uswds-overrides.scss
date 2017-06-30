@@ -1,59 +1,186 @@
-@import url('https://fonts.googleapis.com/css?family=Overpass+Mono|Work+Sans');
-$font-serif: 'Work Sans', sans-serif;
-
-$color-primary: #313b52;
-$color-primary-alt: #85d0cb;
-$color-secondary: green;
-
-$font-path: '../uswds/fonts';
-$image-path: '../uswds/img';
-
-@import 'uswds/all';
-
-h2,h3,h4,h5,h6 {
-  font-weight:300;
+html,
+body {
+  background-color: $color-neutral-light;
+  font-family: $font-serif;
+  color: $color-base;
 }
 
-.usa-hero-callout {
-  max-width: 40rem;
-
-  h2 {
-    font-family: $font-sans;
-    font-weight: 300;
-  }
-
-  .usa-hero-callout-alt {
-    font-family: $font-serif;
-    font-weight: 700;
-  }
-
-  .usa-button {
-    font-size: inherit;
-    margin-top: 2rem;
-
-  }
-
+p,
+li,
+tr {
+  font-size: $font-size-xs;
+  font-weight: 400;
+  line-height: $leading-m;
+  margin-bottom: $space-m;
+  margin-top: 0;
 }
 
-.usa-footer-logo-img {
-  max-width: 5rem;
+ul,
+ol {
+  margin-bottom: 3rem;
+
+  p {
+    margin-top: 0;
+   }
 }
 
-.usa-footer-secondary_section {
-  background-color: $color-primary;
-  color: $color-white;
+.usa-banner {
+  font-family: $font-sans;
+
+  p {
+    font-size: $font-size-xxs;
+    line-height: $leading-s;
+   }
+}
+
+
+.usa-grid-center {
+  &:last-child {
+    float: none;
+    margin: 0 auto;
+  }
+}
+
+
+.usa-logo {
+  float: none;
+
+  img {
+    height: 40px;
+    max-width: none;
+  }
 
   a {
-    color: $color-white;
+    display: block;
+
+    &:hover {
+      border-bottom-style: none;
+    }
+  }
+}
+
+// small screen nav - top nav
+.usa-menu-btn {
+  min-width: auto;
+  &:hover {
+    border: 0;
+  }
+}
+
+.usa-nav-close {
+  min-width: auto;
+}
+.usa-nav-inner {
+  padding: $space-m;
+}
+@include media($nav-width) {
+  .usa-nav-inner {
+    padding: inherit;
+  }
+}
+
+// END - small screen nav - top nav
+
+.usa-content {
+  li {
+    max-width: $text-max-width;
+  }
+}
+
+button,
+.usa-button,
+button:visited,
+.usa-button:visited {
+  background-color: transparent;
+  border: 1px solid $color-primary-alt;
+  border-radius: 0;
+  color: $color-base;
+  font-family: $font-serif;
+  font-size: $font-size-xxs;
+  font-weight: 500;
+  padding: $space-m 2.5rem $space-m 2rem;
+  min-width: 18rem;
+
+  &.usa-button-hover,
+  &:hover {
+    background-color: $color-white;
+    border: 1px solid $color-primary-alt;
+    color: $color-black;
+  }
+  &.usa-button-active,
+  &:active {
+    background-color: $color-primary-alt;
   }
 
+  &.usa-button-active,
+  &:active,
+  &.usa-button-focus,
+  &:focus {
+    box-shadow: none;
+  }
+
+
+  &.usa-button-secondary {
+    border: 0;
+    color: $color-black;
+
+    &:hover {
+      color: $color-black;
+    }
+  }
+
+  &.usa-button-big {
+    font-size: 1.4rem;
+    font-weight: normal;
+    line-height: 1.2;
+  }
 }
 
-.usa-hero-callout-subtext {
-  display: block;
+.usa-layout-docs {
+  h1 {
+    font-size: $font-size-xl;
+    font-weight: 800;
+   }
+
+  h2 {
+    font-size: $font-size-l;
+    font-weight: 700;
+   }
+
+  h3 {
+    font-weight: 700;
+   }
 }
 
-.usa-hero {
-  background-color: #f1f1f1;
-  background-image: none;
+.button-arrow {
+
+
+  &::before {
+    content: '\2192';
+    display: inline-block !important;
+    font-family: $font-serif;
+    padding-right: $space-xxs;
+  }
+}
+.button-arrow-after {
+  &::after {
+    content: '\2192';
+    display: inline-block;
+    font-family: $font-serif;
+    padding-left: $space-s;
+
+  }
+  &.button-arrow-down {
+      &::after {
+    transform: rotate(90deg);
+    position: relative;
+    top: -15%;
+    color: $color-primary-alt;
+  }
+  }
+}
+
+.usa-header {
+  background-color: $color-white;
+  border: 0;
 }

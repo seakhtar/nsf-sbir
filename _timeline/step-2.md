@@ -1,19 +1,12 @@
 ---
-title: Register your company
-description: You'll need to register your company with 4 different systems.
+title: Determine eligibility
+description: Make sure your company meets these eligibility requirements 
 ---
-**[Dun and Bradstreet (DUNS number)](#)**<br>
-Processing time: Up to five business days<br>
-A DUNS number is a unique, nine-digit number that identifies each physical location of your company. You’ll need one in order to receive government funding. Because you’re applying for a DUNS number for government funding, processing time should take about five business days.
 
-**[FastLane (NSF’s electronic submission system)](#)**<br>
-Processing time: Up to 48 hours<br>
-Before applying, you need to register your principal investigator and company in FastLane. Within 48 hours, you’ll get a confirmation email with login instructions. We recommend you explore FastLane before submitting your application.
+- Your company must be a small business (fewer than 500 employees) located in the United States.
+- At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents, and all funded work needs to take place in the United States (including work done by consultants and contractors).
+- The project’s principal investigator (tech lead) must be legally employed at least 20 hours a week by the company seeking funding. The PI doesn’t need any advanced degrees.
+- The principal investigator needs to commit to at least one month (173 hours) of work on a funded project per six months of project duration.
+ 
+For more detailed information, check out our [Eligibility Guide](https://www.sbir.gov/faqs/eligibility-requirements).
 
-
-**[System for Award Management (SAM)](#)**<br>
-Processing time: Up to three weeks<br>
-Any company that does business with the government needs a SAM account. When you register, you’ll have to share EFT information.
-
-**[SBIR Company Registry](#)**<br>
-Finally, you need to register with the SBIR Company Registry (operated by the Small Business Administration). Post-registration, you’ll receive a Business Concern Control ID (SBC ID), which you’ll need to include in your FastLane application.

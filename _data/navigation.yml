@@ -12,35 +12,95 @@
 primary:
   - text: About
     href: /about/
-  - text: Apply
-    links:
-      - text: Application timeline
-        href: /how-to-apply/timeline
-      - text: How to apply
-        href: /how-to-apply/
-      - text: Merit review
-        href: /how-to-apply/merit-review
+  - text: Portfolio
+    href: /portfolio/
+  - text: Showcase
+    href: /showcase/
+  - text: Resources
+    href: /resources/
   - text: Events
     href: /events/
   - text: Contact
     href: /contact/
+  - text: Apply
+    href: /apply/
 
-secondary: []
+fastlane:
+  - text: Fastlane Overview
+    href: /fastlane/fastlane-1/
+  - text: Form Preparation
+    href: /fastlane/fastlane-2/
+  - text: Form Preparation part 2
+    href: /fastlane/fastlane-2-2/
+  - text: Form Preparation part 3
+    href: /fastlane/fastlane-2-3/
+  - text: Proposal Submission
+    href: /fastlane/fastlane-3/
+
+review:
+  - text: Review Process
+    href: /review/
+  - text: Peer Review
+    href: /review/peer-review/
+  - text: Instructions for Panelists
+    href: /review/panelist-system/
+  - text: Instructions for Mail Reviewers
+    href: /review/peer-mail-review/
+  - text: Travel Instructions
+    href: /review/travel/
+  - text: Virtual Panels
+    href: /review/virtual-panelist/
+
+awardees:
+  - text: Awardees
+    href: /awardees/awardees/
+  - text: General Grant Conditions
+    href: https://www.nsf.gov/awards/managing/special_conditions.jsp
+  - text: CAAR Videos for Phase I Awardees
+    href: https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv
+  - text: Phase I Reporting Requirements
+    href: /awardees/reporting/phase-1/
+  - text: How to apply for Phase II
+    href: /awardees/apply/phase-2/
+  - text: Supplemental Funding Opportunities
+    href: /awardees/supplement/
+  - text: Phase II Reporting Requirements
+    href: /awardees/reporting/phase-2/
+  - text: Forms and Checklists
+    href: /awardees/forms/
+  - text: Revising a Budget
+    href: /awardees/revised-budget/
+  - text: No Cost Extension
+    href: /awardees/no-cost-extension/
+  - text: Changes at your Organization
+    href: /awardees/novation/
+  - text: Change of PI
+    href: /awardees/pi-change/
 
 footer:
-  - text: Contact
-    href: /contact/
-  - text: Check application status
-    href: /one/
+  - text: About
+    href: /about/
+  - text: Portfolio
+    href: /portfolio/
+  - text: Apply for funding
+    href: /apply/
+  - text: Resources
+    href: /resources/
   - text: Events
     href: /events/
+  - text: Contact us
+    href: /contact/
 
-docs:
-  - text: Documentation
-    href: /docs/
-  - text: Installation
-    href: /docs/install/
-  - text: Upgrading
-    href: /docs/upgrade/
-  - text: Help
-    href: /docs/help/
+subfooter:
+  - text: USA.gov
+    href: https://www.usa.gov/
+  - text: Privacy
+    href: https://www.nsf.gov/policies/privacy.jsp
+  - text: FOIA
+    href: https://www.nsf.gov/policies/foia.jsp
+  - text: About NSF
+    href: https://www.nsf.gov/about/
+  - text: Inspector General
+    href: https://www.nsf.gov/oig/
+  - text: Press
+    href: /press/

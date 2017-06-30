@@ -1,0 +1,60 @@
+a { cursor: pointer; }
+
+#main-content {
+  a {
+
+    &[href^='mailto']:not(.usa-button) {
+      background: url('../img/links/email.svg') right center no-repeat;
+      background-size: 16px auto;
+      padding-right: 20px;
+    }
+
+    &[href *='.doc']:not(.usa-button) {
+      background: url('../img/links/file-word.svg') right center no-repeat;
+      background-size: 16px auto;
+      padding-right: 20px;
+    }
+
+    &[href $='.pdf']:not(.usa-button) {
+      background: url('../img/links/file-acrobat.svg') right center no-repeat;
+      background-size: 16px auto;
+      padding-right: 20px;
+    }
+
+    &[href $='.ppt']:not(.usa-button) {
+      background: url('../img/links/file-powerpoint.svg') right center no-repeat;
+      background-size: 16px auto;
+      padding-right: 20px;
+    }
+
+    &[href *='.xls']:not(.usa-button) {
+      background: url('../img/links/file-excel.svg') right center no-repeat;
+      background-size: 16px auto;
+      padding-right: 20px;
+    }
+
+    &[href*='.com'],
+    &[href*='.org'],
+    &[href*='.net'],
+    &[href*='.co'],
+    &.external-link {
+      background: url('../img/links/external-link.svg') right center no-repeat;
+      background-size: 16px auto;
+      padding-right: 18px;
+    }
+}
+
+  .background-gray-dark {
+    a {
+      &[href*='.com'],
+      &[href*='.org'],
+      &[href*='.net'],
+      &[href*='.co'],
+      &.external-link {
+        background: url('../img/links/external-link-inverse.svg') right center no-repeat;
+        background-size: 16px auto;
+        padding-right: 18px;
+      }
+    }
+  }
+}

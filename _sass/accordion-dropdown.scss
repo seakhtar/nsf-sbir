@@ -1,0 +1,32 @@
+.accordion-dropdown {
+  display: inline-block;
+  width: auto;
+
+  &::after {
+    display: block;
+    clear: both;
+    content: '';
+  }
+
+  .usa-accordion-button {
+    background-image: url('../img/arrow-up-thick.svg');
+    background-color: transparent;
+    font-family: $font-serif;
+    letter-spacing: $kern-tight;
+    margin: 0 0 $space-l 0;
+    padding: 0 $space-xl $space-xs 0;
+    color: $color-primary;
+    border: 0;
+    border-bottom: 2px solid $color-primary;
+    &:hover {
+      // background-color: $color-white-transprent;
+      border-color: $color-primary-alt;
+    }
+    &:focus {
+      box-shadow: none;
+    }
+    &[aria-expanded='false'] {
+      background-image: url('../img/arrow-down-thick.svg');
+     }
+  }
+}

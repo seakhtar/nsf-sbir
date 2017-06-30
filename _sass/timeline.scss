@@ -1,26 +1,52 @@
+$timeline-line-width: 4px;
+$timeline-node-diameter: 14px;
+$timeline-node-width: 2px;
+$timeline-left: 25%;
+$timeline-right: 75%;
+$timeline-right-padding: 5rem;
+
+.page-apply {
+  background-color: $color-blue-light;
+}
+
+
+
 .timeline {
   counter-reset: count;
   list-style: none;
   padding-left: 0;
+  margin-top: 60px;
+  font-family: $font-serif;
+  line-height: $leading-s;
+  color: $color-base;
 
   & > li {
-    color: #666;
+    color: $color-gray;
     padding: 0 0 4rem;
   }
 
   li {
+    font-family: $font-serif;
+    line-height: $leading-s;
     list-style-type: none;
     margin: 0;
+    max-width: 100%;
     position: relative;
    }
 
   .time {
+    color: $color-base;
+    font-size: $font-size-xxs;
+    line-height: $leading-xs;
     br {
       display: none;
+    }
   }
-}
 
   .time-description {
+    color: $color-base;
+    font-size: $font-size-xs;
+    line-height: $leading-xs;
     display: block;
   }
 
@@ -28,137 +54,212 @@
     margin: .25rem .25rem 1rem;
 
     .step-description {
-      color: #333;
+      color: $color-gray-dark;
       display: block;
-      font-size: initial;
-      margin-top: 1.5rem;
+      font-family: $font-serif;
+      font-size: $font-size-xs;
+      font-weight: 400;
+      line-height: $leading-s;
+      margin-top: $space-s;
+    }
+    .flex-list li {
+      font-size: $font-size-xxs;
+      margin-left: 2.7rem;
+      padding: 0;
+      width: 100%;
     }
   }
-  .step-deadline {
-    font-weight: 600;
+
+  .timeline-step-deadline {
+    font-weight: $font-bold;
   }
+
+
+
   .usa-accordion {
-    margin-top: 2rem;
+    margin-top: $site-margins;
+    font-family: $font-serif;
+    line-height: $leading-s;
+    color: $color-base;
 
-
-    li {
+    .step {
       counter-increment: li;
+    }
 
+    .step-inactive {
+      &::before {
+        border-color: $color-gray-lightest;
+        color: $color-gray-light;
+      }
+    }
+
+    // setup accordion arrow
+    button {
+      background-color: $color-white;
+      background-image: url('../img/arrow-up.svg');
+      background-position: right 2.25rem top 2.9rem;
+      border: 0;
+      font-family: $font-serif;
+      font-size: $font-size-s;
+      font-weight: 600;
+      line-height: $leading-s;
+      color: $color-base;
+      padding: 2.5rem 5.5rem;
 
       // building the step number dots
       &::before {
         // Display the counter
-        background-color: white;
-        border: 3px solid green;
+        background-color: $color-secondary-lightest;
+        border: 3px solid $color-secondary-lightest;
         border-radius: 50%;
-        color: green;
+        color: $color-base;
         content: counter(count) '';
         counter-increment: count;
         display: inline-block;
+        font-family: $font-serif;
+        font-weight: 600;
         height: 35px;
         left: 1rem;
         line-height: 2.7rem;
         position: absolute;
         text-align: center;
-        top: 1.9rem;
+        top: 2.2rem;
         width: 35px;
       }
 
-  }
-
-    // setup accordion arrow
-    button {
-      background-image: url('../uswds/img/arrow-down.svg');
-      background-position: right 2.25rem top 2.9rem;
-      color: green;
-      font-size: 2rem;
-      font-weight: 400;
-      padding: 2.5rem 5.5rem;
-
+      &:focus {
+        box-shadow: none;
+      }
+      &[aria-expanded='true'] {
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+      }
       &[aria-expanded='false'] {
-        background-image: url('../uswds/img/arrow-right.svg');
+        background-image: url('../img/arrow-down.svg');
+      }
+    }
+    // inactive step button
+    button[disabled] {
+    background-color: $color-white;
+    background-image: none;
+    color: $color-gray-light;
     }
   }
-}
 
   .usa-accordion-content {
-    li {
-      list-style-type: initial;
+    padding-top: 0;
+    padding-bottom: $space-xl;
 
-      &::before {
-        display: none;
+    ul {
+      margin-bottom: 0;
+
+      li {
+        list-style-type: initial;
+        margin-bottom: $space-s;
+        max-width: $text-max-width - 5rem;
+
+        &::before {
+          display: none;
+
+        }
+      }
+    }
+
+    h3 {
+      font-size: $font-size-xs;
+      font-weight: 600;
+      margin-left: 2.7rem;
+
+      &:not(:first-child) {
+        margin-top: $space-l;
+
+      }
+    }
+
+    p {
+      margin-left: 2.7rem;
+    }
+    strong {
+      font-weight: 600;
     }
   }
-}
 }
 
 @include media($medium-screen) {
   .timeline {
-    > li {
+    > .timeline-step {
       &::before {
-      background-color: #f1f1f1;
-      content: '';
-      display: block;
-      height: 100%;
-      left: 25%;
-      position: absolute;
-      width: 4px;
+        background-color: $color-gray-light;
+        content: '';
+        display: block;
+        height: 100%;
+        left: $timeline-left;
+        position: absolute;
+        width: $timeline-line-width;
+      }
+
+      &::after {
+        background-color: $color-white;
+        border: $timeline-node-width solid $color-gray;
+        border-radius: 25px;
+        content: '';
+        display: inline-block;
+        height: $timeline-node-diameter;
+        left: $timeline-left;
+        margin-left: -5px;
+        position: absolute;
+        top: 1.5rem;
+        width: $timeline-node-diameter;
+      }
     }
-    &::after {
-      content: '';
-      display: inline-block;
-      border-radius: 25px;
-      width: 14px;
-      height: 14px;
-      border: 2px solid #999;
-      position: absolute;
-      top: 1.5rem;
-      left: 25%;
-      background-color: #fff;
-      margin-left: -5px;
+
+    .timeline-step-deadline {
+      &::after {
+        border-color: $color-tertiary;
+      }
+
+      small {
+        display: block;
+        font-weight: $font-normal;
+      }
     }
-  }
+
+
 
     .time {
-      width: 25%;
       display: inline-block;
+      padding-right: $timeline-right-padding;
       padding-top: 0;
       text-align: right;
-      padding-right: 5rem;
+      width: $timeline-left;
+
       br {
         display: initial;
       }
     }
+
     .time-description {
       display: inline-block;
-      vertical-align: top;
-      padding-top: 1rem;
-      padding-left: 5rem;
-      position: relative;
-      width: 75%;
       float: right;
+      padding-left: $timeline-right-padding;
+      padding-top: 1rem;
+      position: relative;
+      vertical-align: top;
+      width: $timeline-right;
     }
+
     .usa-accordion {
       list-style: none;
-      padding-left: calc(25% + 5rem);
+      padding-left: calc(#{$timeline-left} + #{$timeline-right-padding});
 
       li {
-          position: relative;
+        position: relative;
+
         &::before {
           left: 1rem;
         }
       }
-    }
-  }
-
-  .step-deadline {
-    &::after {
-      border-color: red !important;
-    }
-
-    small {
-      display: block;
-      font-weight: normal;
     }
   }
 }
