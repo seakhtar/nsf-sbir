@@ -1896,6 +1896,75 @@
   expDate: 06/30/2017
   title: 'SBIR Phase I:  Forced Cooling of Semi-Permanent Molds for Fine Grain Steel
     Castings'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) project will be the development of a biofungicide for application
+    on organic farms as well as conventional farms and home and lawn care as an alternative
+    to chemical fungicides. More than 70% of all major crop diseases are caused by
+    fungi. Despite intensive disease control practices, these pathogens are still
+    causing crop losses averaging 13% with economic losses up to $100 billion annually.
+    The proposed research will address the need for sustainable food production by
+    development of methods/technologies to reduce or eliminate the usage of chemical
+    pesticides. It will reduce the impact of plant pathogens, insect pests, and abiotic
+    stresses on crop plants by inducing systemic resistance in crops. Unlike chemical
+    fungicides, it will be eco-friendly and will prevent development of anti-fungal
+    resistance in plant pathogens. Furthermore, reduction in chemical fungicide usage
+    (produced using fossil fuels) will reduce US dependence on fossil fuels and promote
+    environmental sustainability. \n\nThis SBIR Phase I project proposes to develop
+    a novel, broad spectrum, biofungicide for crop protection as an alternative to
+    chemical fungicides. The novel broad spectrum fungicide is based on a fermentative
+    strategy utilizing non-pathogenic microorganisms and low-cost carbon substrates.
+    Antifungal activity testing in in vitro and in vivo assays demonstrated broad
+    spectrum fungicidal activity against multiple fungal pathogens that cause diseases
+    in cereals, fruit, and vegetable crops. The use of chemical fungicides produced
+    from fossil fuels has been shown to have adverse environmental effects on non-target
+    organisms, and mammals. In addition, combinations of chemical fungicides are required
+    to attain crop protection, yet fungal pathogens quickly become resistant to chemical
+    fungicides. The proposed broad spectrum biofungicide has no mammalian toxicity,
+    and has been shown to be safe for non-target anthropods like honey bees. It also
+    has been shown to not inhibit the growth of beneficial fungi. As part of the Phase
+    I research plan, the aims are to scale up production and test the biofungicide
+    under development in small plot trials."
+  awardeeAddress: 3315 Bremen Hwy
+  awardeeCity: Mishawaka
+  awardeeCountryCode: US
+  awardeeName: Biomineral Systems LLC
+  awardeeStateCode: IN
+  awardeeZipCode: '465449346'
+  fundsObligatedAmt: '224911'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1721879'
+  piEmail: nadia.k.adam@gmail.com
+  piFirstName: Nadia
+  piLastName: Adam
+  piPhone: '5743293427'
+  poName: Ruth M. Shuman
+  date: 06/29/2017
+  startDate: 07/01/2017
+  expDate: 12/31/2017
+  title: 'SBIR Phase I:  Novel Biomimetic Production of Broad-Spectrum Fungicide BioSurF-I'
+- abstractText: |-
+    This SBIR Phase I project aims to significantly improve the patient experience by providing easy, convenient, and fast delivery of protein therapeutics through the administration of high-concentration, low-viscosity solutions via subcutaneous injection. Currently, high-concentration antibody solutions have viscosities far above the recommended limit for subcutaneous injections. This project aims to drastically lower the viscosities of high-concentration protein formulations. The success of this project would greatly benefit patients by providing a much shorter administration time for drugs that now require hours of intravenous infusion. In addition, this solution can also improve therapies that are already administered subcutaneously by reducing the frequency of injections by increasing dosage. Development of this technology can also enable the development of protein therapeutics with promising efficacy, but intractable solution properties or commercially unattractive patent lives.
+
+    The goal of this Phase I project is to establish the proof-of-concept data supporting the viability of a new formulation platform for proteins. This platform will generate a formulation containing high concentrations of protein therapeutics which may be delivered at substantially lowered viscosities due to a reduction in the intermolecular interactions among proteins. The formulation thus provides a subcutaneous syringe-compatible route to delivering biologics at high-concentration, and low-viscosity, ultimately driving a shift from timely intravenous delivery protocols to simplified subcutaneous injections. Constraints on subcutaneous delivery volume (<2 mL) necessitate antibody concentrations much greater than 100 mg/mL. Unfortunately, viscosities far beyond the accepted injection limit (50 cP) are typical of this situation due to extensive interaction among the protein molecules. Current viscosity reduction methods attempt to regulate these interactions but have yet to substantially address the issue. The proposed work utilizes a novel process to gently formulate proteins using only FDA-approved materials. This approach eliminates the effect of the protein-protein interactions on the solution viscosity. The proposed project will involve development of the platform through (i) identification of optimal formulation parameters, (ii) demonstration of rheological improvements to high-concentration protein solutions, and (iii) demonstration of preservation of biological structure and activity.
+  awardeeAddress: One Kendall Sq
+  awardeeCity: Cambridge
+  awardeeCountryCode: US
+  awardeeName: Elektrofi Inc
+  awardeeStateCode: MA
+  awardeeZipCode: 021391571
+  fundsObligatedAmt: '224923'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1722066'
+  piEmail: paul@elektrofi.com
+  piFirstName: Paul
+  piLastName: Brown
+  piPhone: '7274558147'
+  poName: Henry Ahn
+  date: 06/29/2017
+  startDate: 07/01/2017
+  expDate: 12/31/2017
+  title: 'SBIR Phase I:  Novel Formulation for the Delivery of High Concentration
+    Protein Therapeutics'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research Phase I project is to enable organizations - whether businesses, governments, or non-profits - to make more informed, more data-driven decisions. All organizations must decide how to allocate limited resources and do so in the context of meeting a set of objectives, such as profit, social wellbeing, or health. Modeling as a process and models as artifacts of that process allow decision makers to understand data through the lens of objectives to then make decisions; data alone, no matter how much, cannot make decisions. As more aspects of the world are instrumented and captured digitally, the breadth and quantity of data will out of necessity require more modeling to be codified and bring more stakeholders into the fold. Organizations need a modeling workflow and supporting tools that are capable of handling this wider range of data, are fully accessible to non-technical users, and allow more stakeholders to participate in this important process.
 
@@ -1989,6 +2058,28 @@
   expDate: 12/31/2017
   title: 'SBIR Phase I:  Using Machine Learning and NLP tools to expedite the review
     and analysis of legal contracts'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to provide robust, automated security protections to enterprise web applications. With the growing threat of attacks at the web application layer, security is a top of mind concern for both the developers and users of web applications. At the same time, defending against these attacks is a resource-intensive, error-prone process that typically is performed manually by specialized web security experts. The project will use application-aware analysis and an innovative information model to automatically build and deploy web security policies on enterprise servers, freeing the enterprise to focus on their core business and reduce the overhead of internal security teams. The project will also use a hybrid static/dynamic analysis to automatically craft server-side and client-side policies using modern web protection mechanisms to give users of web applications confidence that their interactions with a web application will be secure. This approach leverages cutting-edge techniques from program analysis and machine learning, and will advance the state of the art in automated security policy generation.
+
+    This Small Business Innovation Research (SBIR) Phase I project will explore ways in which automated security policies enact meaningful protection of sensitive resources. Protecting web applications is a challenging research problem in that automated approaches are either biased towards significant false positive rates, in which benign behavior is flagged as malicious, or significant false negative rates, in which malicious activity is not detected. This project aims to resolve this bias using application aware whitelists: the project automatically explores an application's behavior dynamically, and will also statically build a model of that application's purpose. The project is expected to yield two major components: a server-side protection module to isolate and harden sensitive resources on an enterprise deployment, and a client-side protection module to enforce fine-grained policies for users of the enterprise's web applications. The project will involve developing, analyzing, and improving both of these components using large-scale web applications and will integrate the experience and challenges of enterprises with leading web applications.
+  awardeeAddress: 1185 Adler Ct
+  awardeeCity: Fremont
+  awardeeCountryCode: US
+  awardeeName: Tala Security Inc
+  awardeeStateCode: CA
+  awardeeZipCode: '945364027'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1722068'
+  piEmail: drew@talasecurity.io
+  piFirstName: Andrew
+  piLastName: Davidson
+  piPhone: '9286075632'
+  poName: Peter Atherton
+  date: 06/28/2017
+  startDate: 07/01/2017
+  expDate: 03/31/2018
+  title: 'SBIR Phase I:  Automated Security for the DevOps World'
 - abstractText: "This Small Business Innovation Research Phase I project will develop
     an environmentally benign yet highly effective marine antifouling coating for
     the American yacht market. The coating is a non-biocidal, foul release surface
@@ -2103,28 +2194,6 @@
   expDate: 07/31/2018
   title: 'SBIR Phase I:  Thermo-mechanical analysis of chopped fiber-reinforced plastics
     for the design engineer'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to provide robust, automated security protections to enterprise web applications. With the growing threat of attacks at the web application layer, security is a top of mind concern for both the developers and users of web applications. At the same time, defending against these attacks is a resource-intensive, error-prone process that typically is performed manually by specialized web security experts. The project will use application-aware analysis and an innovative information model to automatically build and deploy web security policies on enterprise servers, freeing the enterprise to focus on their core business and reduce the overhead of internal security teams. The project will also use a hybrid static/dynamic analysis to automatically craft server-side and client-side policies using modern web protection mechanisms to give users of web applications confidence that their interactions with a web application will be secure. This approach leverages cutting-edge techniques from program analysis and machine learning, and will advance the state of the art in automated security policy generation.
-
-    This Small Business Innovation Research (SBIR) Phase I project will explore ways in which automated security policies enact meaningful protection of sensitive resources. Protecting web applications is a challenging research problem in that automated approaches are either biased towards significant false positive rates, in which benign behavior is flagged as malicious, or significant false negative rates, in which malicious activity is not detected. This project aims to resolve this bias using application aware whitelists: the project automatically explores an application's behavior dynamically, and will also statically build a model of that application's purpose. The project is expected to yield two major components: a server-side protection module to isolate and harden sensitive resources on an enterprise deployment, and a client-side protection module to enforce fine-grained policies for users of the enterprise's web applications. The project will involve developing, analyzing, and improving both of these components using large-scale web applications and will integrate the experience and challenges of enterprises with leading web applications.
-  awardeeAddress: 1185 Adler Ct
-  awardeeCity: Fremont
-  awardeeCountryCode: US
-  awardeeName: Tala Security Inc
-  awardeeStateCode: CA
-  awardeeZipCode: '945364027'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1722068'
-  piEmail: drew@talasecurity.io
-  piFirstName: Andrew
-  piLastName: Davidson
-  piPhone: '9286075632'
-  poName: Peter Atherton
-  date: 06/28/2017
-  startDate: 07/01/2017
-  expDate: 03/31/2018
-  title: 'SBIR Phase I:  Automated Security for the DevOps World'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase I project is to render the tedious, time-consuming, and
     expensive manual process of contract review and negotiation as archaic.  The outcome
@@ -3539,6 +3608,45 @@
   expDate: 11/30/2017
   title: 'SBIR Phase I:  Energy and Space Efficient Power Management Integrated Circuits
     for Mobile Devices'
+- abstractText: "This STTR Phase 1 project enables the development and validation
+    of a fully operational hydraulic Power Conversion Chain (PCC) designed specifically
+    for an ocean Wave Energy Converter (WEC).  A WEC's PCC is responsible for converting
+    absorbed mechanical power to electrical power.  Ocean wave energy is currently
+    an underutilized resource that has the potential to become an important part of
+    a renewable energy mix providing power up to a third of the US while reducing
+    carbon emissions alongside with wind and solar power.  However, device survivability
+    is a key challenge that has thus far held the wave energy industry back.  This
+    project includes the testing and validation of various hydraulic safety mechanisms,
+    advancing the PCC as part of a broader strategy for WEC survivability. \n\n\nThis
+    STTR Phase 1 project will directly support the development and validation of a
+    Power Conversion Chain (PCC) as part of a larger effort to design, construct,
+    and test a full-scale Wave Energy Converter (WEC) prototype in an ocean deployment.
+    \ The PCC will be tested using a hardware-in-the-loop approach, in which a computer
+    simulation of the WEC is coupled directly to the physical PCC elements.  This
+    real-time feedback will allow the PCC's performance to be evaluated for realistic
+    ocean wave climates, and will facilitate rapid testing of critical safety mechanisms
+    using the actual components in a safe laboratory environment.  Results from the
+    tests will be compared with a high-fidelity computer model of the PCC to validated
+    performance.  Once proven, the PCC will be incorporated into a revolutionary WEC
+    design, which offers superior storm survivability and power consistency."
+  awardeeAddress: 1387 Scenic Ave
+  awardeeCity: Berkeley
+  awardeeCountryCode: US
+  awardeeName: California Wave Power Technologies, LLC
+  awardeeStateCode: CA
+  awardeeZipCode: '947081809'
+  fundsObligatedAmt: '225000'
+  fundProgramName: STTR PHASE I
+  id: '1648834'
+  piEmail: marcus@calwave.org
+  piFirstName: Marcus
+  piLastName: Lehmann
+  piPhone: '5105089897'
+  poName: Rajesh Mehta
+  date: 12/02/2016
+  startDate: 12/15/2016
+  expDate: 09/30/2017
+  title: 'STTR Phase I: Wave Carpet Ocean Demonstration'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research Phase I project is to develop a large-scale process for production of vault-stabilized enzymes. This project will develop a new nanoparticle-based technology for stabilizing enzymes so that they can be used for industrial applications and environmental cleanup such as water treatment. By employing a scalable, high yield, low cost manufacturing system for vault-enzymes, the company would be able to deploy a variety of new products into the field for treating certain environmental pollutants in drinking water, groundwater, wastewater, and reclaimed water. This would give environmental engineers and regulatory agencies new tools to clean and protect national natural resources and public health.
 
@@ -4789,6 +4897,28 @@
   title: 'SBIR Phase I:  Modified Ionic Liquid Electrolytes for Low-Cost, High-Energy
     Li-ion Batteries'
 - abstractText: |-
+    The broader impact/commercial potential of this project will be improved capabilities of current hearing assistive cochlear implants through the development of a miniature implantable robotic system. It will enable many more patients with hearing loss to retain their hearing capacity much longer over their lifetimes. Hearing loss has a significant impact on physical and mental health, education, employment, and overall quality of life, and has been linked to an increased risk of dementia and feelings of depression, frustration, anxiety, and social isolation. 53 million people have severe-to-profound hearing loss and are eligible for traditional cochlear implants, but there are an additional 300 million with partial-to-moderate disabling hearing loss who are not eligible for a traditional implant and do not significantly benefit from other hearing assistive devices alone. The development of this technology will enable a much wider population of those with hearing loss to receive the benefits of a cochlear implant, using a novel wireless control and the added convenience of personalized hearing loss treatment regimens. This technology will also facilitate commercial opportunities for use of the implantable robotic system in other applications where an implantable electrode/wire requires precise and dynamic remote position adjustments.
+
+    This Small Business Innovation Research (SBIR) Phase I project will design, develop and test a prototype of an implantable robotic system that wirelessly optimizes cochlear implant function and enables clinician adjustments as patient hearing deteriorates. Though traditional cochlear implants are used to treat severe-profound hearing loss, recent advances in hearing preservation technologies have allowed those with partial hearing loss, such as from noise exposure or aging, to benefit from cochlear implants. Unfortunately, clinical trials have found that more than 50% of these recipients experience continued hearing deterioration after cochlear implantation. Treatment options are limited to additional surgery for electrode replacement or living with limited hearing because the implants cannot be adjusted. This research is focused on developing an implantable robotic control system that will enable cochlear implants to dynamically adjust to post-surgical hearing decline without the need for additional surgery. In Phase I, individual components will be assembled into a functioning implantable robotic system that meets design and surgical size requirements to effectively move an electrode within a human cadaveric cochlea model. Anticipated results will include a prototype that has a novel micromechanical system for electrode adjustments, wireless communications for external control, and safe transcutaneous power.
+  awardeeAddress: 2500 Crosspark RD STE E156S
+  awardeeCity: Coralville
+  awardeeCountryCode: US
+  awardeeName: IOTAMOTION, INC.
+  awardeeStateCode: IA
+  awardeeZipCode: '522414710'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1621920'
+  piEmail: iotamotion@gmail.com
+  piFirstName: Allan
+  piLastName: Henslee
+  piPhone: '3616884140'
+  poName: Muralidharan S. Nair
+  date: 06/20/2016
+  startDate: 07/01/2016
+  expDate: 06/30/2017
+  title: 'SBIR Phase I:  Implantable Robotic System for Hearing Loss Treatment'
+- abstractText: |-
     The broader impact/commercial potential of this project centers on furthering scientific understanding of degradation in electrochemical energy storage. The project will explore technology that will enable the large-scale transfer of a key laboratory-proven diagnostic tool from the lab to the field. This tool, called electrochemical impedance spectroscopy (EIS), is a noninvasive assessment of the internal state of a battery. In contrast to current interest-group-initiated, crowd-sourced qualitative research efforts, EIS would enable the collection and analysis of an unprecedented amount of real-time quantitative data to further scientific understanding of electrochemical lifetime and degradation factors of in applications ranging from electric vehicles to grid and building storage. Highly publicized battery pack failures have increased skepticism of electrochemical energy storage in the public eye, and large-scale scientific studies could aid in faster technological improvements to increase widespread adoption of electrochemical energy storage as the U.S. seeks to improve energy independence, efficiency, and security.
 
     This Small Business Innovation Research (SBIR) Phase I project addresses the need to innovate on current battery management methods that force battery system overdesign and power/energy underutilization by introducing a platform to enable diagnosis and correction of inherent cell-to-cell imbalances in electric vehicles to improve battery pack performance, reliability, and safety. Specifically, this work deploys electrochemical impedance spectroscopy in a distributed power electronics platform to provide a new toolset for real-time diagnostics and the improved extraction of important information to aid in the determination of battery cell state of charge and state of health. The goal of Phase I Research is to demonstrate efficient and cost-effective scalability of this power-electronics-based EIS. A proof-of-concept prototype has been verified on small-capacity cells, but a commercial solution will need to manage large-capacity cells with much lower impedance which presents control system and EIS accuracy technical challenges. A power converter and accompanying control system will first be developed to meet target specifications, followed by a demonstration board to demonstrate EIS and power management for a number of series-connected cells.
@@ -5235,28 +5365,6 @@
   title: 'SBIR Phase I:  Novel Continuous Flow Manufacturing of Recombinant Proteins
     Secreted Through the Bacterial Type-III Secretion System'
 - abstractText: |-
-    The broader impact/commercial potential of this project will be improved capabilities of current hearing assistive cochlear implants through the development of a miniature implantable robotic system. It will enable many more patients with hearing loss to retain their hearing capacity much longer over their lifetimes. Hearing loss has a significant impact on physical and mental health, education, employment, and overall quality of life, and has been linked to an increased risk of dementia and feelings of depression, frustration, anxiety, and social isolation. 53 million people have severe-to-profound hearing loss and are eligible for traditional cochlear implants, but there are an additional 300 million with partial-to-moderate disabling hearing loss who are not eligible for a traditional implant and do not significantly benefit from other hearing assistive devices alone. The development of this technology will enable a much wider population of those with hearing loss to receive the benefits of a cochlear implant, using a novel wireless control and the added convenience of personalized hearing loss treatment regimens. This technology will also facilitate commercial opportunities for use of the implantable robotic system in other applications where an implantable electrode/wire requires precise and dynamic remote position adjustments.
-
-    This Small Business Innovation Research (SBIR) Phase I project will design, develop and test a prototype of an implantable robotic system that wirelessly optimizes cochlear implant function and enables clinician adjustments as patient hearing deteriorates. Though traditional cochlear implants are used to treat severe-profound hearing loss, recent advances in hearing preservation technologies have allowed those with partial hearing loss, such as from noise exposure or aging, to benefit from cochlear implants. Unfortunately, clinical trials have found that more than 50% of these recipients experience continued hearing deterioration after cochlear implantation. Treatment options are limited to additional surgery for electrode replacement or living with limited hearing because the implants cannot be adjusted. This research is focused on developing an implantable robotic control system that will enable cochlear implants to dynamically adjust to post-surgical hearing decline without the need for additional surgery. In Phase I, individual components will be assembled into a functioning implantable robotic system that meets design and surgical size requirements to effectively move an electrode within a human cadaveric cochlea model. Anticipated results will include a prototype that has a novel micromechanical system for electrode adjustments, wireless communications for external control, and safe transcutaneous power.
-  awardeeAddress: 2500 Crosspark RD STE E156S
-  awardeeCity: Coralville
-  awardeeCountryCode: US
-  awardeeName: IOTAMOTION, INC.
-  awardeeStateCode: IA
-  awardeeZipCode: '522414710'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1621920'
-  piEmail: iotamotion@gmail.com
-  piFirstName: Allan
-  piLastName: Henslee
-  piPhone: '3616884140'
-  poName: Muralidharan S. Nair
-  date: 06/20/2016
-  startDate: 07/01/2016
-  expDate: 06/30/2017
-  title: 'SBIR Phase I:  Implantable Robotic System for Hearing Loss Treatment'
-- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is providing better method for connected systems and devices to interact with each other. Current solutions require many months of development and cost of development and maintenance can be overwhelming.  The proposed technology offers a way for interaction between systems and devices to be configured rather than programmed. The technology also provides a way for services to be configured by the user, rather than relying on developers to create nodes or connectors.  This is made possible through abstracting out the interaction layer of software stack and creating a generic algorithm for interaction to be configured. Much like when routers first came out, technology of abstracting out a portion of software stack opens up opportunity for market to perform tasks that once were programmer dependent.  Abstraction of router code enabled growth of Internet. We believe abstraction of Interaction code will enable IoT to be widely deployed. Societal impact is achieved through large number of interactive solution being created, and exponentially growing number of sensors and devices to be utilized in full.
 
     This Small Business Innovation Research (SBIR) Phase I project is to solve the problem of creating interaction between services being programmer dependent. In order for services to interact, they need to be able to connect, communicate, and then interact. Industry has done a great job in abstracting out various components of application layers to provide connectivity and communication between two services. However, interaction logic has always been software developed. It is the single largest bottleneck in Internet of Things (IoT) solution creation, deployment, and operation. All available tools for integration are development tools. New method of creating solutions is being proposed where a solution is designed and deployed around configured interaction logic. This is different to many development tools that allow communication between services through custom service bus, messaging protocols, and APIs. Interaction logic sits on top of communication and connectivity layers. Technology involves methods and apparatus to enable interaction between all connected things, and for enabling dynamic mapping of interactions through service elements. The technology will provide easy, rapid, and cost effective proliferation of IoT solutions. Since IoT solutions are mostly interaction between devices and applications, abstracted out interaction logic allows entire solutions to be created through configuration of interaction logic.
@@ -5302,6 +5410,77 @@
   startDate: 07/01/2016
   expDate: 06/30/2017
   title: 'SBIR Phase I: Easy-to-Use Software for Automation Integration'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to standardize the process of securing and protecting umbilical cord catheters. These catheters are inserted into newborn babies in the neonatal intensive care unit (NICU) and are used to provide life-saving nutrients and medication directly into their bloodstream. Unfortunately, the infection rate associated with these catheters is among the highest in the healthcare system. There is an important need for a simple medical device that reduces the risk of infection. A reduction in infection rate would save hospitals hundreds of thousands of dollars per year since they must currently absorb the cost of treating these infections. Most importantly, reducing umbilical catheter infection rates would save neonatal lives in any hospital setting.
+
+    The proposed project will develop a standardized device that reliably secures umbilical cord catheters and protects the catheter insertion site from various sources of infection. The current standard of care for securing these catheters in NICUs across the United States is a roll of non-sterile tape that offers no protective barrier to the catheter insertion site. This is in stark contrast to medical devices that are used with adult catheters and help prevent bloodstream infections. The research objectives include evaluating different materials, testing the catheter securement mechanism, testing bacterial colonization rates, and evaluating the device?s biosafety for use on neonatal skin. This will be accomplished using custom-built testing rigs and protocols. We anticipate the successful development of a device with material specifications that allow for clinical testing in the NICU.
+  awardeeAddress: 2627 Hanover St
+  awardeeCity: Palo Alto
+  awardeeCountryCode: US
+  awardeeName: Novonate Inc
+  awardeeStateCode: CA
+  awardeeZipCode: '943041118'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1722123'
+  piEmail: echehab@gmail.com
+  piFirstName: Eric
+  piLastName: Chehab
+  piMiddeInitial: F
+  piPhone: '4155339893'
+  poName: Jesus Soriano Molla
+  date: 06/29/2017
+  startDate: 07/01/2017
+  expDate: 03/31/2018
+  title: 'SBIR Phase I: A Medical Device to Protect and Stabilize Umbilical Catheters
+    in the Neonatal Intensive Care Unit'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will benefit nearly 6 million children per year who are suspected of having abnormal Gastroesophageal Reflux (GER) which can lead to a more serious condition with numerous complications referred to as Gastroesophageal Reflux Disease (GERD).  Current detection paradigms include costly and invasive procedures that often require overnight hospitalization, prescribing pharmacological Proton Pump Inhibitors (PPIs) without objective evidence and or exposure to radiological imaging.  The outcomes of this project will lead to a low cost, non-invasive method for detecting GER, without requiring hospitalization.  This will facilitate earlier detection of GER and reduce overall healthcare costs and burdens associated with GERD and its accompanying complications.
+
+    The proposed project will demonstrate the feasibility of using single point ultrasonic transducers to non-invasively detect and characterize reflux.  Current reflux detection relies on impedance and pH probes which are placed in the patient?s esophagus through a nasogastric probe.  This often requires anesthesia and overnight hospital observation which is costly, invasive, and prone to artifacts that change the reflux episodes normally experienced by the patient.  Ultrasonic imaging can observe reflux occurring in the esophagus but requires hundreds of ultrasonic transducers in a single probe and a trained clinician to manually observe and identify the reflux events.  These two factors make ultrasonic imaging costly to use and prevents it from being used for extended periods of time, which is necessary to determine if abnormal amounts of reflux are occurring.  The proposed project will use ultrasonic imaging as a control method to demonstrate the ability of single point ultrasonic transducers to generate an acoustic signature capable of detecting whether the esophagus is expanded or collapsed to identify episodes of reflux.  Detection and characterization of reflux through single point transducers would ultimately enable the development of a portable, safe, and accurate home monitoring device.
+  awardeeAddress: 306 E 650 N
+  awardeeCity: Clearfield
+  awardeeCountryCode: US
+  awardeeName: RefloDx LLC
+  awardeeStateCode: UT
+  awardeeZipCode: '840153254'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1720568'
+  piEmail: rudy.wilcox@reflodx.com
+  piFirstName: Andrew
+  piLastName: Wilcox
+  piMiddeInitial: S
+  piPhone: '8018853933'
+  poName: Jesus Soriano Molla
+  date: 06/29/2017
+  startDate: 07/01/2017
+  expDate: 06/30/2018
+  title: 'SBIR Phase I:  Novel Device for detecting changes in the esophageal lumen
+    using single point ultrasonic transducers'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project can lead to a revolution in 3D microgeometry and reflectance properties measurement of object surfaces at the micron-scale. The proposed technology will significantly improve photorealistic rendering and enhance the workflow efficiency in physically-based rendering. This can impact a broad range of industries, including video games, product visualization, animation, visual effects, scientific rendering and virtual/augmented reality. The superior performance and greatly reduced cost will allow the same system to be used in the manufacturing industry, which requires high-resolution depth measurement. This technology will result in the broader adoption of non-contact 3D metrology and 3D machine vision for manufacturing quality control and defect inspection.
+
+    The proposed project will develop a computational imaging system that allows for high-resolution 3D microgeometry and reflectance properties measurement of object surfaces. The current approaches for 3D surface measurement at the micron scale are based on sophisticated optical and mechanical components that are expensive and can be difficult to use, and most of these approaches cannot decouple the direct reflection and sub-surface scattering. The goal of this research program is to develop a combination of hardware and software that can measure 3D surface microgeometry and reflectance properties with micron-scale accuracy. The proposed technology is expected to achieve superior performance and greatly reduced cost.
+  awardeeAddress: 3023 Kaiser Dr Unit F
+  awardeeCity: Santa Clara
+  awardeeCountryCode: US
+  awardeeName: MURA INC.
+  awardeeStateCode: CA
+  awardeeZipCode: '950514759'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1722381'
+  piEmail: meng@muravision.com
+  piFirstName: Lingfei
+  piLastName: Meng
+  piPhone: '5859674452'
+  poName: Richard Schwerdtfeger
+  date: 06/29/2017
+  startDate: 07/01/2017
+  expDate: 12/31/2017
+  title: 'SBIR Phase I:  Advanced Computational Imaging System for 3D Surface Microgeometry
+    and Reflectance Properties Measurement'
 - abstractText: |-
     This Small Business Innovation Research Phase I project will help establish a commercially viable method for mass production of high-efficiency heat exchangers for the rapid advancement of thermoelectric solar cells and waste heat management. The advancement to be made in this project will help harvest an enormous amount of solar energy and heat energy from the environment. Thermal energy from natural (solar, geothermal etc.) as well as from man-made thermal sources is a continuously available, and currently underutilized resource with the potential to become an important pillar of renewable energy. The solar thermoelectric devices require minimal maintenance and are suitable for deployment in remote regions. The successful completion of this project will significantly improve the performance of solar thermoelectric generators. Besides harnessing solar energy, thermoelectric devices can also be used for waste heat recovery from automobile exhaust and industries using high-temperature furnaces to enhance fuel efficiency and generate electricity for automotive operations. Our estimated outcome can enhance the fuel efficiency of automobile engines by 15-20 %with around $67 billion annual reductions in gasoline expenses and around 570 billion pound reduction in annual carbon emission.
 
@@ -5373,6 +5552,29 @@
   expDate: 06/30/2018
   title: 'SBIR Phase I:  Rationally-designed, modular imaging agents for the targeted
     detection of tumors.'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to enable doctors to maximize the diagnostic information extracted from costly Pediatric Magnetic Resonance Imaging (MRI) scans of the brain. Annually, approximately 3.5 million brain MRI scans are performed with average prices with interpretation from $500 - $2,000. Even though the scans are expensive to acquire and interpret, doctors generally only use visual inspection of the images to diagnose abnormalities. The proposed software will be relatively cheap compared to the overall cost of an MRI and is expected to let doctors make accurate measurements of key structures in the brain. This is important because developmental and other diseases can cause small volume and surface area changes that cannot be easily seen by the human eye. By detecting these changes early, doctors should be able to treat the disease at early stages, potentially leading to better quality of life and financial savings. The proposed tool is also expected to enable doctors to better track treatment outcomes, by measuring the effect a drug or treatment has on particular structures in the brain. Ultimately, it is expected that the proposed technology will improve quality of care as well as reduce healthcare costs.
+
+    The proposed project leverages current advances in computational technology such as machine learning and computer vision to automatically measure volume, surface area and shapes in critical parts of the brain in children. These measurements are then compared to a large database of children over the ages of 0-12 years to determine if they have deviated from normal. Although MRIs have been increasing adopted as the diagnostic tool of choice for childhood brain disorders due to the lack of radiation, there has yet to be a tool that allows doctors to accurately measure changes in a child's brain from MRI scans. Because, in children, the brain is rapidly changing as she/he grows, it is difficult to determine visually whether the changes are due to normal development or disease. By measuring the brain accurately and comparing it to a large database already collected by the proposing team, it is expected that a pediatric doctor will be able to determine whether a child's brain has deviated from normal. It could also allow physicians to better select treatments and monitor the patient response to a specific therapy.
+  awardeeAddress: '529 S BROADWAY # 4041'
+  awardeeCity: LOS ANGELES
+  awardeeCountryCode: US
+  awardeeName: Advanced Medical Systems LLC
+  awardeeStateCode: CA
+  awardeeZipCode: '900132365'
+  fundsObligatedAmt: '225000'
+  fundProgramName: STTR PHASE I
+  id: '1722445'
+  piEmail: mail@sinchaitsao.com
+  piFirstName: Sinchai
+  piLastName: Tsao
+  piPhone: '2134531833'
+  poName: Jesus Soriano Molla
+  date: 06/27/2017
+  startDate: 07/01/2017
+  expDate: 06/30/2018
+  title: 'STTR Phase I:  A Clinical Decision Support Tool for Brain Magnetic Resonance
+    Imaging (MRI) in Children'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) project is to engineer brewer's yeast for a more consistent, cost-effective,
     and sustainable brewing process. The flowers of hop plants provide both bitterness
@@ -5448,29 +5650,6 @@
   expDate: 12/31/2017
   title: 'SBIR Phase I:  Enhanced Physical-Layer Secure Wireless Chaotic Waveforms
     for Industrial IoT'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to enable doctors to maximize the diagnostic information extracted from costly Pediatric Magnetic Resonance Imaging (MRI) scans of the brain. Annually, approximately 3.5 million brain MRI scans are performed with average prices with interpretation from $500 - $2,000. Even though the scans are expensive to acquire and interpret, doctors generally only use visual inspection of the images to diagnose abnormalities. The proposed software will be relatively cheap compared to the overall cost of an MRI and is expected to let doctors make accurate measurements of key structures in the brain. This is important because developmental and other diseases can cause small volume and surface area changes that cannot be easily seen by the human eye. By detecting these changes early, doctors should be able to treat the disease at early stages, potentially leading to better quality of life and financial savings. The proposed tool is also expected to enable doctors to better track treatment outcomes, by measuring the effect a drug or treatment has on particular structures in the brain. Ultimately, it is expected that the proposed technology will improve quality of care as well as reduce healthcare costs.
-
-    The proposed project leverages current advances in computational technology such as machine learning and computer vision to automatically measure volume, surface area and shapes in critical parts of the brain in children. These measurements are then compared to a large database of children over the ages of 0-12 years to determine if they have deviated from normal. Although MRIs have been increasing adopted as the diagnostic tool of choice for childhood brain disorders due to the lack of radiation, there has yet to be a tool that allows doctors to accurately measure changes in a child's brain from MRI scans. Because, in children, the brain is rapidly changing as she/he grows, it is difficult to determine visually whether the changes are due to normal development or disease. By measuring the brain accurately and comparing it to a large database already collected by the proposing team, it is expected that a pediatric doctor will be able to determine whether a child's brain has deviated from normal. It could also allow physicians to better select treatments and monitor the patient response to a specific therapy.
-  awardeeAddress: '529 S BROADWAY # 4041'
-  awardeeCity: LOS ANGELES
-  awardeeCountryCode: US
-  awardeeName: Advanced Medical Systems LLC
-  awardeeStateCode: CA
-  awardeeZipCode: '900132365'
-  fundsObligatedAmt: '225000'
-  fundProgramName: STTR PHASE I
-  id: '1722445'
-  piEmail: mail@sinchaitsao.com
-  piFirstName: Sinchai
-  piLastName: Tsao
-  piPhone: '2134531833'
-  poName: Jesus Soriano Molla
-  date: 06/27/2017
-  startDate: 07/01/2017
-  expDate: 06/30/2018
-  title: 'STTR Phase I:  A Clinical Decision Support Tool for Brain Magnetic Resonance
-    Imaging (MRI) in Children'
 - abstractText: "The broader impact/commercial potential of this Small Business Technology
     Transfer (STTR) project will be the development of a novel method for synthetic
     oligodeoxynucleotide purification. Currently, most oligodeoxynucleotides are purified
@@ -5881,44 +6060,6 @@
   startDate: 06/01/2017
   expDate: 05/31/2018
   title: 'SBIR Phase I:  A Chemical Detection Platform to Decode Human Olfaction'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) Phase I project will allow highly cost effective, 2-way communications
-    to be delivered to machinery and ?Things? over extremely long distances using
-    underutilized frequencies and new hardware and software techniques. The resulting
-    technologies will provide 2-way connectivity where cellular does not exist and
-    where other techniques (satellite) are too expensive. This will result in near
-    universal availability of the Internet-of-Things at costs superior to legacy approaches
-    and which are appropriate for applications typically seen in Internet-of-Things.
-    \n\nThe proposed project will create a new system of hardware, software, frequency
-    and operating techniques which will allow underutilized spectrum to be used to
-    deliver 2-way communications to very remote machines and things. The work will
-    involve the creation of a small hardware platform, the creation of embedded software
-    and the modification of existing software and the creation of techniques for detecting
-    and avoiding current users of spectrum, Devices will be created and field deployed
-    to assess efficacy. A number of test routines and procedures will be run during
-    the work to assess how well the technology will work, what performance can be
-    expected, how well operations will fit into existing Regulatory frameworks, what
-    sort of capacity can be expected and what the overall economics of the system
-    will be. We expect to build a significant patent position as we pursue the project."
-  awardeeAddress: 2725 Ohio Avenue
-  awardeeCity: Redwood City
-  awardeeCountryCode: US
-  awardeeName: Rurisond, Inc
-  awardeeStateCode: CA
-  awardeeZipCode: '940613237'
-  fundsObligatedAmt: '220484'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1722414'
-  piEmail: rstevenson@rurisond.com
-  piFirstName: robert
-  piLastName: stevenson
-  piMiddeInitial: s
-  piPhone: '6503957136'
-  poName: Richard Schwerdtfeger
-  date: 06/12/2017
-  startDate: 06/01/2017
-  expDate: 05/31/2018
-  title: 'SBIR Phase I:  Long Range 2-way Communications for the Remote IOT'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovative
     Research (SBIR) project is to develop a detection technology that enables scientists
     and researchers to better understand biological particles circulating in biofluids.
@@ -6004,6 +6145,44 @@
   expDate: 05/31/2018
   title: 'SBIR Phase I:  Rapid, instrument-free Nucleic Acid Test for Pathogens and
     Biothreats'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase I project will allow highly cost effective, 2-way communications
+    to be delivered to machinery and ?Things? over extremely long distances using
+    underutilized frequencies and new hardware and software techniques. The resulting
+    technologies will provide 2-way connectivity where cellular does not exist and
+    where other techniques (satellite) are too expensive. This will result in near
+    universal availability of the Internet-of-Things at costs superior to legacy approaches
+    and which are appropriate for applications typically seen in Internet-of-Things.
+    \n\nThe proposed project will create a new system of hardware, software, frequency
+    and operating techniques which will allow underutilized spectrum to be used to
+    deliver 2-way communications to very remote machines and things. The work will
+    involve the creation of a small hardware platform, the creation of embedded software
+    and the modification of existing software and the creation of techniques for detecting
+    and avoiding current users of spectrum, Devices will be created and field deployed
+    to assess efficacy. A number of test routines and procedures will be run during
+    the work to assess how well the technology will work, what performance can be
+    expected, how well operations will fit into existing Regulatory frameworks, what
+    sort of capacity can be expected and what the overall economics of the system
+    will be. We expect to build a significant patent position as we pursue the project."
+  awardeeAddress: 2725 Ohio Avenue
+  awardeeCity: Redwood City
+  awardeeCountryCode: US
+  awardeeName: Rurisond, Inc
+  awardeeStateCode: CA
+  awardeeZipCode: '940613237'
+  fundsObligatedAmt: '220484'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1722414'
+  piEmail: rstevenson@rurisond.com
+  piFirstName: robert
+  piLastName: stevenson
+  piMiddeInitial: s
+  piPhone: '6503957136'
+  poName: Richard Schwerdtfeger
+  date: 06/12/2017
+  startDate: 06/01/2017
+  expDate: 05/31/2018
+  title: 'SBIR Phase I:  Long Range 2-way Communications for the Remote IOT'
 - abstractText: "This Small Business Innovation Research Phase I project will provide
     farmers with water status measurements that are unprecedented with respect to
     spatial and temporal resolution, cost, and ease-of-use. In a first market - precision
@@ -7100,6 +7279,59 @@
   expDate: 11/30/2017
   title: 'SBIR Phase I:  Locating a breast tumor with sub-millimeter accuracy to improve
     the precision of surgery'
+- abstractText: "The broader impact of this Small Business Innovation Research (SBIR)
+    Phase I project is to improve access to high-quality, responsive, and evidence-based
+    treatments for risky users of alcohol and other drugs. Current standards of care
+    are cost-prohibitive, time-intensive and overly reliant on community support groups
+    lacking a scientific basis or a mechanism for accountability. The research proposed
+    here will add to an interactive online platform providing tools and treatment
+    for individuals seeking to change their relationship to substances. The technological
+    innovation supported by this research will result in a graphical meter that provides
+    users of the platform with a simple-to-interpret interface. This tool is designed
+    to strengthen motivation, enhance capacity for self-assessment, and allow for
+    the better allocation of care provision resources. This development will give
+    the proposing organization a major competitive advantage as it contributes to
+    the growing field of digitally-provided behavioral healthcare products. Employers,
+    insurers, and consumers have communicated a clear demand for new methods of treating
+    individuals with substance use disorders, and this technology will equip the proposing
+    organization to meet that demand. \n\nThe proposed project addresses the \"black
+    box\" of recovery from risky use of alcohol and other drugs. Ample research demonstrates
+    that behavioral interventions can be effective ways to mitigate risk for individuals
+    with unhealthy use of alcohol and other drugs. Monitoring, assessing, and quantifying
+    that recovery, however, remains out of reach for behavioral interventions delivered
+    in the current standard-of-care. Instead of present-moment substance use recovery,
+    the typical measure remains previous substance consumption. By statistically analyzing
+    a range of available data from users of an online substance use recovery platform,
+    this research will identify the data most correlated with successful recovery
+    from substance use. Regression modeling and bivariate correlations will explore
+    the relationships between different data within the platform and several validated
+    outcome measures already integrated into the intervention. This research will
+    use discourse analysis and natural language processing to identify and categorize
+    user-submitted content to identify linguistic elements related to substance use
+    recovery or risk of relapse. The principal outcome will be a holistic measure
+    of recovery from substance use aggregating multiple instruments and domains of
+    substance health. It will be developed into a graphical interface that communicates
+    to both users and other behavioral healthcare stakeholders in-the-moment recovery
+    from risky substance use."
+  awardeeAddress: 303 Detroit St.
+  awardeeCity: Ann Arbor
+  awardeeCountryCode: US
+  awardeeName: Workit Health
+  awardeeStateCode: MI
+  awardeeZipCode: '481041128'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1648034'
+  piEmail: lisa@workithealth.com
+  piFirstName: Lisa
+  piLastName: McLaughlin
+  piMiddeInitial: B
+  piPhone: '7347303747'
+  poName: Jesus Soriano Molla
+  date: 12/11/2016
+  startDate: 12/15/2016
+  expDate: 11/30/2017
+  title: 'SBIR Phase I:  An Automated Tool to Measure and Predict Substance Use Recovery'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project will be to provide deep insights into the DNA of patients in one hour at one-fourth the cost. This will allow hospitals, clinics and research centers to delve faster into the genetic information of the patients and return essential insights to physicians, leading to faster decisions on therapy. Analyzing DNA data holds the promise of detecting several diseases and can also help in pinpointing their genetic origins, which will be key for treatment of vulnerable cases such as newborn babies, people with rare diseases, and pregnant women. By providing the analysis of whole DNA data in one hour as compared to several days, DNA tests can become mainstream, thereby reducing anxiety among patients and their relatives. As the number of patients for which deep DNA analysis will be required is doubling every year, this project aims to meet the exploding demands of large scale computational genomics of the future and enable deep DNA analysis for all patients.
 
@@ -7363,59 +7595,6 @@
   expDate: 09/30/2017
   title: 'SBIR Phase I:  Development and Testing of a Mini Wearable Device that Doctors
     Can use to Know if it is too Soon or Not to Send A premature Baby Home'
-- abstractText: "The broader impact of this Small Business Innovation Research (SBIR)
-    Phase I project is to improve access to high-quality, responsive, and evidence-based
-    treatments for risky users of alcohol and other drugs. Current standards of care
-    are cost-prohibitive, time-intensive and overly reliant on community support groups
-    lacking a scientific basis or a mechanism for accountability. The research proposed
-    here will add to an interactive online platform providing tools and treatment
-    for individuals seeking to change their relationship to substances. The technological
-    innovation supported by this research will result in a graphical meter that provides
-    users of the platform with a simple-to-interpret interface. This tool is designed
-    to strengthen motivation, enhance capacity for self-assessment, and allow for
-    the better allocation of care provision resources. This development will give
-    the proposing organization a major competitive advantage as it contributes to
-    the growing field of digitally-provided behavioral healthcare products. Employers,
-    insurers, and consumers have communicated a clear demand for new methods of treating
-    individuals with substance use disorders, and this technology will equip the proposing
-    organization to meet that demand. \n\nThe proposed project addresses the \"black
-    box\" of recovery from risky use of alcohol and other drugs. Ample research demonstrates
-    that behavioral interventions can be effective ways to mitigate risk for individuals
-    with unhealthy use of alcohol and other drugs. Monitoring, assessing, and quantifying
-    that recovery, however, remains out of reach for behavioral interventions delivered
-    in the current standard-of-care. Instead of present-moment substance use recovery,
-    the typical measure remains previous substance consumption. By statistically analyzing
-    a range of available data from users of an online substance use recovery platform,
-    this research will identify the data most correlated with successful recovery
-    from substance use. Regression modeling and bivariate correlations will explore
-    the relationships between different data within the platform and several validated
-    outcome measures already integrated into the intervention. This research will
-    use discourse analysis and natural language processing to identify and categorize
-    user-submitted content to identify linguistic elements related to substance use
-    recovery or risk of relapse. The principal outcome will be a holistic measure
-    of recovery from substance use aggregating multiple instruments and domains of
-    substance health. It will be developed into a graphical interface that communicates
-    to both users and other behavioral healthcare stakeholders in-the-moment recovery
-    from risky substance use."
-  awardeeAddress: 303 Detroit St.
-  awardeeCity: Ann Arbor
-  awardeeCountryCode: US
-  awardeeName: Workit Health
-  awardeeStateCode: MI
-  awardeeZipCode: '481041128'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1648034'
-  piEmail: lisa@workithealth.com
-  piFirstName: Lisa
-  piLastName: McLaughlin
-  piMiddeInitial: B
-  piPhone: '7347303747'
-  poName: Jesus Soriano Molla
-  date: 12/11/2016
-  startDate: 12/15/2016
-  expDate: 11/30/2017
-  title: 'SBIR Phase I:  An Automated Tool to Measure and Predict Substance Use Recovery'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase I project will investigate novel
     approaches for biopolymer materials that uniquely enable oxygen incorporation into hydrogel
@@ -8634,6 +8813,296 @@
   startDate: 12/01/2016
   expDate: 11/30/2017
   title: 'SBIR Phase I:  Passive Radiative Composite Material'
+- abstractText: "This Phase I project will test and optimize a software system and
+    digital tools designed to promote parent/caregiver-mediated dialogic reading routines
+    in children ages 6 months to 5 years. Early exposure to dialogic reading has been
+    shown to foster virtually all school-readiness indicators from cognitive and social-emotional
+    development to vocabulary attainment and concepts about print. Research demonstrates
+    that science learning should also be cultivated before kindergarten entry, so
+    children begin formal schooling with age-appropriate content and conceptual knowledge
+    and the capacity to observe, experiment, and problem solve. The increase of income
+    inequality in the US underscores the urgency of closing ever-widening achievement
+    gaps between children living in poverty and more affluent peers. Investments in
+    early childhood have been shown to remediate educational deficits, so a cost-effective,
+    home-based method of guiding parents and caregivers in a dialogic reading process
+    can make a substantial contribution to ending school-readiness gaps, the precursor
+    to persistent achievement gaps, and the cycle of economic and societal disadvantages
+    they perpetuate. The market for early-education digital products is sizable and
+    growing. Purchasers in this market include institutions (e.g., preschools, Head
+    Start, social-service agencies, libraries), community initiatives, healthcare
+    professionals working with families of young children, as well as individual families.\n
+    \nThis project will build a complex technology systems architecture to sell, distribute,
+    manage, and evaluate educative materials on commonly available digital devices
+    of all form factors. The product uses a proprietary system to build hybrid reading
+    selections with separate visible layers targeted for the two audiences - children
+    and the adults reading to them. This approach engages both audiences, while providing
+    actionable and effective guidance for caregivers for whom dialogic reading may
+    be a new or not yet habitual practice. Along with layered selections, a key innovation
+    employed by this project will be a set of proprietary algorithms that learns from
+    user behavior and tailors the program to the needs of each individual. To further
+    increase efficacy, this project will include a secure data-sharing portal to allow
+    institutional clients to evaluate school readiness among their constituencies
+    and to manage their programs accordingly. A robust content management system will
+    support a variety of sales options and allow for dynamic updates and additions
+    to the system content. Finally, an engagement system based on behavioral psychology
+    will be developed to promote application stickiness aimed at building routines
+    of reading and dialogic thinking."
+  awardeeAddress: 1755 E 55th St Ste 1003
+  awardeeCity: Chicago
+  awardeeCountryCode: US
+  awardeeName: Read, Ask, Chat, Ltd.
+  awardeeStateCode: IL
+  awardeeZipCode: '606155977'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1646962'
+  piEmail: alice@readaskchat.net
+  piFirstName: Alice
+  piLastName: Letvin
+  piPhone: '8474945113'
+  poName: Glenn H. Larsen
+  date: 12/01/2016
+  startDate: 12/01/2016
+  expDate: 12/31/2017
+  title: 'SBIR Phase I: Testing and Optimizing Digital Tools Aimed at Promoting Parent/Caregiver-Mediated
+    Dialogic Reading from Infancy to Kindergarten Entry'
+- abstractText: "This SBIR Phase I project will research the feasibility of a cloud-based,
+    collaborative authoring tool to achieve an order-of-magnitude reduction in technical
+    skills required to author technology-enhanced assessments (TEAs). Additionally,
+    it will seek to advance the frontiers of TEA authoring beyond individual assessments
+    to encompass the creation of personalized TEA pathways for diverse learners. The
+    effort will explore novel technologies including a symbolic abstraction to enable
+    visual design and implementation of complex programming constructs, and the representation
+    of TEAs as \"intelligent objects\" interoperable with disparate and proprietary
+    assessment platforms. This effort seeks to break the stranglehold of large organizations
+    on a growing assessments market that marginalizes educators due to barriers of
+    cost and technology skills. It will empower educators by making available easy-to-use
+    tools that enable creation and sharing of open TEAs and TEA pathways to support
+    deeper learning at scale, allowing educators to distribute TEAs in a classroom
+    without being restricted by a proprietary assessment system, triggering the evolution
+    of a peer-to-peer marketplace for teacher-created assessments. This disruption
+    bears the potential to empower educator communities at scale and impact all learners
+    in secondary and tertiary education settings through equitable access to quality
+    assessments. \n\nThis project will feature two distinctive innovations. The first
+    is a visual programming environment with symbolic abstraction of complex programming
+    constructs that are imperative for the design and creation of TEAs. This will
+    enable intuitive authoring of complex TEAs by non-programmers (an impossibility
+    today) and break down the biggest friction point for achieving access to TEAs
+    at scale. The second is an open format for representation of TEAs as intelligent
+    objects that are platform agnostic and \"embeddable\" in any assessment delivery
+    system. This will facilitate distribution and usage of TEAs in browsers and thin
+    client environments without the need for server side functionality mandated by
+    proprietary systems. This will eventually break the stranglehold of proprietary
+    assessment delivery systems that tie TEA access to their platforms. The project
+    will pursue two primary research questions: How efficient and useful is the TEA
+    authoring experience for non-technical educators? Are the TEAs effective in eliciting
+    targeted reasoning and thinking processes? These research questions will help
+    validate the technical feasibility of our innovative use of the proposed tool
+    to enable easy TEA creation and distribution, and the efficacy of the complex
+    TEAs created using the proposed project in providing evidence of target learning."
+  awardeeAddress: 202 Sequoia Avenue
+  awardeeCity: Palo Alto
+  awardeeCountryCode: US
+  awardeeName: Looking Glass Ventures, LLC
+  awardeeStateCode: CA
+  awardeeZipCode: '943061043'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1646935'
+  piEmail: shivramv@gmail.com
+  piFirstName: Shivram
+  piLastName: Venkatasubramaniam
+  piPhone: '6503803627'
+  poName: Glenn H. Larsen
+  date: 12/01/2016
+  startDate: 12/01/2016
+  expDate: 12/31/2017
+  title: 'SBIR Phase I:  EasyAuthor - An End User Authoring Tool for Open and Intelligent
+    Technology-Enhanced Assessments.'
+- abstractText: |-
+    This SBIR Phase I project intends to develop an automated and cost-effective method of producing complex carbon fiber parts with a 3D printing process that manages to achieve the full performance of traditional carbon fiber parts while allowing greater use of carbon fiber in applications where machined aluminum was previously the only option. This project involves first testing basic mechanical properties and adjusting processing parameters, and then looking towards using the 5-axis capabilities of the machine to place carbon fibers in multiple directions, allowing for complex parts that need strength in all directions. This novel manufacturing method for carbon fiber reinforced high temperature thermoplastic parts will greatly expand the markets that can benefit from increased use of carbon fiber materials, including aerospace, high-performance automotive, and custom biomedical parts. By lowering barriers to high performance part development, this technology will also allow smaller companies to fabricate high performance products and create a variety of technical and non-technical jobs within small businesses.
+
+
+    This project seeks to prove the feasibility of producing high performance carbon fiber parts with a 3D printing process. A 5-axis machine and nozzle has been designed for use with continuous carbon fiber reinforced high temperature thermoplastics that will be able to produce complex parts that are able to take complex, multi-axial loads. The primary focus of this project is to generate laminates with comparable properties to traditional continuous carbon fiber manufacturing processes, which would indicate the viability of using this process for high performance parts in aerospace applications, which no composite 3D printing has yet to achieve. After demonstrating the capability of forming high performance laminates, this project will begin focusing on the generating representative parts with reinforcing layers printing in the z-axis. Prior to printing multi-axial parts, this project will focus on achieving novel layered composite structures including variable stiffness laminates and integrated honeycomb cores. The combination of high mechanical properties at a laminate level, tailorability of properties through precise fiber orientation, and the ability to effectively transfer loads to fibers in any direction, will signify a new frontier in the technology and markets for carbon fiber reinforced polymers.
+  awardeeAddress: 3986 Short St Suite 100
+  awardeeCity: San Luis Obispo
+  awardeeCountryCode: US
+  awardeeName: Mantis Composites
+  awardeeStateCode: CA
+  awardeeZipCode: '934017573'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1648522'
+  piEmail: mrchapiro@gmail.com
+  piFirstName: Michael
+  piLastName: Chapiro
+  piPhone: '6507668030'
+  poName: Rajesh Mehta
+  date: 11/30/2016
+  startDate: 12/01/2016
+  expDate: 06/30/2017
+  title: 'SBIR Phase I:  5-Axis Continuous Carbon Fiber 3D Printing'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase I project is the development of a first-in-class patient
+    education tool. The project aims to develop a method to customize and personalize
+    the delivery of medical content with the goal of influencing medication compliance
+    and health outcomes. Imagine patients are discharged from the hospital and understand
+    their discharge instructions. Imagine patients fill a list of ten medications
+    but understand what they are for and why they need to take them. Imagine patients
+    recently diagnosed with cancer that do not feel embarrassed to ask their doctor
+    questions. Imagine parents caring for sick children or older children caring for
+    elderly parents that feel assured of their ability to get the best care for loved
+    ones. Imagine a reduction in sick days, hospital readmission rates, and morbidity
+    and mortality rates. Imagine an overall improvement in the quality of care and
+    health of the nation all due to the simple ingredients of patient understanding
+    and patient empowerment. \n\nThe proposed project will produce a novel tool to
+    deliver medical content to patients based of an assessment of their limiting beliefs
+    and perceptions. It has long been established that the effectiveness of medical
+    interventions aimed at changing behavior are limited by patient's perceptions
+    and beliefs. The proposed project will result in the development of novel algorithms
+    that use machine-learning (ML) based techniques to determine limiting beliefs.
+    The goal is to customize patient education and medical content to the beliefs,
+    perception, and language of the patients."
+  awardeeAddress: 1415 Park Ave W
+  awardeeCity: Denver
+  awardeeCountryCode: US
+  awardeeName: Doctor Speak, Inc.
+  awardeeStateCode: CO
+  awardeeZipCode: '802052103'
+  fundsObligatedAmt: '269906'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1647377'
+  piEmail: marchu0399@gmail.com
+  piFirstName: Michelle
+  piLastName: Archuleta
+  piMiddeInitial: N
+  piPhone: '7198683335'
+  poName: Jesus Soriano Molla
+  date: 11/30/2016
+  startDate: 12/01/2016
+  expDate: 09/30/2017
+  title: 'SBIR Phase I:  Delivering Medical translations with a Health Belief Model
+    Recommender Engine'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project includes reliable and consistent fluid resuscitation (i.e., intravenous administration of fluids) for patients in the intensive care unit (ICU) requiring fluid management. The goal of fluid resuscitation in critically ill patients is to restore blood volume in the circulatory system to an acceptable level in order to ensure adequate tissue perfusion (i.e., blood delivery to tissue). However, large intrapatient and interpatient variability in physiological parameters as well as the effect of different illnesses and medications can result in under- and over-resuscitation of ICU patients by the clinical staff. Optimal fluid resuscitation is especially critical for the recovery of patients with severe sepsis (i.e., patients with sepsis and acute organ dysfunction) or septic shock (i.e., patients with sepsis and persistent or refractory hypotension or tissue hypoperfusion despite adequate fluid resuscitation). In these patients, ineffective arterial circulation due to vasodilation (i.e., dilation of blood vessels) and capillary leakage (i.e., increased distribution of fluids into the interstitial space) needs to be compensated by fluid management.
+
+    The proposed project involves developing a clinical decision support system for fluid resuscitation for patients with severe sepsis or septic shock in the ICU. Specifically, a cloud-based clinical decision support system will be developed, which will use continuous measurements from hemodynamic monitoring devices to provide actionable feedback for clinicians to optimize fluid management. In this project, a clinical decision support algorithm that will guide the clinician in fluid management will be developed and a clinical study at our partner hospital will be performed. A critical drawback with using a model-based approach to compute the patient's fluid requirement is that accurate parameter values are needed for the model. However, high-fidelity models do not exist and current models cannot fully account for the physiology and response of the patient to fluids. The proposed framework does not need any patient-specific information (e.g., age, gender, weight, diagnosis, concomitant medication, etc.). Furthermore, the framework does not require an accurate model of the patient dynamics and the patient specific physiological parameters.
+  awardeeAddress: 221 River St.
+  awardeeCity: Hoboken
+  awardeeCountryCode: US
+  awardeeName: AreteX Systems, Inc.
+  awardeeStateCode: NJ
+  awardeeZipCode: 070305891
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1648292'
+  piEmail: bgholami@aretexeng.com
+  piFirstName: Behnood
+  piLastName: Gholami
+  piPhone: '3477741617'
+  poName: Jesus Soriano Molla
+  date: 11/30/2016
+  startDate: 12/01/2016
+  expDate: 11/30/2017
+  title: 'SBIR Phase I:  A Clinical Decision Support System for Fluid Resuscitation
+    for Patients with Sepsis'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase I project is to provide a new class of soft, flexible, nonabrasive
+    sensing elements which provide precise temperature readings to positively impact
+    the health and mobility of diabetic patients. The principle impetus of this research
+    is to focus primarily on advanced diabetic patients who suffer from nerve damage
+    to their feet. These patients cannot feel their feet, leading to two important
+    and related results. First, they are at high risk for an increased number of undetected
+    ulcerating injuries from tissue damage produced by walking (friction) or standing
+    (pressure).  Second, since these injuries are undetected and unfelt, there is
+    a decreased urgency by the patient to seek medical care.  Delays in medical intervention
+    further exacerbate injuries and complicate treatment, leading to an economic burden
+    associated with foot ulceration estimated at $15 billion annually. More importantly,
+    the 5-year mortality rate after first ulceration (40%) approaches mortality rates
+    from heart failure (50%). The key need for a simple and cost-effective ulcer-prevention
+    paradigm is a safe, easy-to-use foot monitoring system with temperature-sensing
+    capability with a remote readout. \n\nThe proposed project utilizes an innovative
+    approach to develop a non-invasive sensing system that will provide the ability
+    to constantly monitor skin temperature.  Skin temperature has been shown to be
+    a predictive indicator of foot-ulcer development and can additionally be used
+    as a measure of wound healing.  A simple system enabling early detection of imminent
+    skin ulceration subsequently reduces further tissue damage, decreasing limb amputations
+    and saving financial, medical and emotional resources. The proof of concept sensor
+    is designed to reside daily in a patient?s shoe to record temperatures while the
+    patient experiences damaging activity such as walking or standing, alerting the
+    patient to impending tissue injury. The sensor can also reside daily in a patient?s
+    medical-treatment cast, providing a constant readout of skin temperature indicating
+    tissue healing, allowing for out-patient monitoring and decreasing repeated visits
+    to medical facilities for checkups."
+  awardeeAddress: 29-10 Thomson Ave FL 7 ste 24
+  awardeeCity: Queens
+  awardeeCountryCode: US
+  awardeeName: FlexTraPower
+  awardeeStateCode: NY
+  awardeeZipCode: '111012929'
+  fundsObligatedAmt: '224999'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1648057'
+  piEmail: linh@flextrapower.com
+  piFirstName: Linh
+  piLastName: Le
+  piMiddeInitial: T
+  piPhone: '6467054830'
+  poName: Richard Schwerdtfeger
+  date: 11/30/2016
+  startDate: 12/01/2016
+  expDate: 08/31/2017
+  title: 'SBIR Phase I:  Conformal Temperature Sensors for Remote Monitoring of Diabetic
+    Ulceration'
+- abstractText: |-
+    This SBIR Phase I project will research and develop new functional materials for advanced additive manufacturing. The goal of this project is to develop high performance materials for light activated 3D printers. If successful, this will enable new tools for manufacturing and research. Applications of this project would enable affordable, waste-free, and energy-efficient manufacturing with the goal of lowering the barriers to innovation.
+
+
+    polySpectra has developed a new class of modular 3D printing resins, capable of manufacturing production quality parts with tailored geometry and chemical functionality in a single step. This process is called functional lithography - it unlocks the ability to simultaneously define the form and function of advanced materials. The application of functional lithography to additive manufacturing enables production-ready parts to be directly 3D-printed, whereas existing materials can only make prototypes, mock-ups or toys. The goal of this project is to discover and develop new materials using functional lithography, to push the limits of the materials that are available in additive manufacturing.
+  awardeeAddress: 2342 Shattuck Avenue
+  awardeeCity: Berkeley,
+  awardeeCountryCode: US
+  awardeeName: PolySpectra, Inc
+  awardeeStateCode: CA
+  awardeeZipCode: '947041517'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1647467'
+  piEmail: raw@polyspectra.com
+  piFirstName: Raymond
+  piLastName: Weitekamp
+  piMiddeInitial: A
+  piPhone: '5108597338'
+  poName: Rajesh Mehta
+  date: 11/30/2016
+  startDate: 12/01/2016
+  expDate: 11/30/2017
+  title: 'SBIR Phase I:  Modular Manufacturing - Democratizing Functional Materials
+    Printing'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will pave the way for new types of social network analysis to detect anomalies, which could lead to more accurate and faster identification of Fraud, Waste, and Abuse (FWA), key opinion leaders (i.e., influentials), and market segments.  Medicare and other healthcare providers lose hundreds of millions of dollars to FWA.  This research proposes using a novel way to discover and combine relationships between entities (e.g., doctors) with information about the entities (e.g., prescription history) using machine learning.  The goal is to reduce a claims investigator's workload while maintaining high accuracy in detecting FWA.  In short, the results of this research will not only improve FWA detection efficiency, but enable detecting new types of FWA.  Societal impact includes reduced costs to the taxpayer for government supported programs such as Medicare through better FWA detection. More broadly, the system could be used to find terrorist and crime networks, detect possible opioid or substance abuse epidemic cohorts, under-medication, over-medication, and even incorrect medications.
+
+    The proposed project will apply a novel machine learning method to solve the Fraud, Waste, and Abuse (FWA) problem in health insurance. The technical problem is how to combine relations between entities such as doctors with information about doctors (e.g., a doctor's prescription history). This project advances the state of the art by developing a new way to automatically discover those relations and then combining those relations with the information about doctors through machine learning, thus vastly improving prediction accuracy. The method uses relation information to fill in the gaps of entity information alone and vice versa. It is believed that this method will hugely improve the ability to detect FWA. The goal is to achieve a 50% true positive rate in a database of fraud-convicted doctors published monthly by the government.  The scope of the project involves analyzing several different types of health insurance claims formats (e.g., Medicare) and producing a fraud score, which then others can use. The anticipated results include a fraud score for most doctors in the U.S. (at least those who deal with Medicare), APIs to these scores, and an interactive visual system that claims investigators can use to reduce their workload while accurately identifying FWA.
+  awardeeAddress: 5201 Great America Parkway
+  awardeeCity: Santa Clara
+  awardeeCountryCode: US
+  awardeeName: Albeado, Inc
+  awardeeStateCode: CA
+  awardeeZipCode: '950541157'
+  fundsObligatedAmt: '224516'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1648542'
+  piEmail: armandprie@gmail.com
+  piFirstName: Armand
+  piLastName: Prieditis
+  piMiddeInitial: E
+  piPhone: '5302198641'
+  poName: Jesus Soriano Molla
+  date: 11/30/2016
+  startDate: 12/01/2016
+  expDate: 11/30/2017
+  title: 'SBIR Phase I:  Predicting Healthcare Fraud, Waste and Abuse by Automatically
+    Discovering Social Networks in Health Insurance Claims Data through Machine Learning'
 - abstractText: "This SBIR Phase I project enables the research and development of
     a new hybrid fixed-fluidized biomass gasifier design that allows for a higher
     carbon conversion efficiency over a far wider range of feedstocks than what current
@@ -9522,6 +9991,64 @@
   expDate: 06/30/2017
   title: 'STTR Phase I:  A Platform Reagent for the Intracellular Delivery of Positively
     Charged Peptide'
+- abstractText: "This SBIR Phase I project aims to develop a cutting-edge nanotechnology
+    that will greatly enhance biological preservation of regenerative medicines such
+    as stem cells, complex tissues, and organs. Such a technology has the potential
+    to changing regenerative healthcare forever. It would change biobanking for on-demand
+    cells and tissues and improve mass trauma care and advanced personalized medical
+    procedures. Biopreservation is required in regenerative medicine at nearly all
+    levels in the acquisition of source material, isolation, storage and shipment
+    of a final product to patient. Yet, critically, the field lacks the ability to
+    safely and efficiently preserve these tissues and medicines severely limiting
+    product shelf life. Nowhere is the absence of a biobanking technology more palpable
+    than organ transplantation, where the time window between donor and recipient
+    (4-7 hours) is not enough to properly match donations, screen for pathogens, or
+    transport distances. More people will die from premature organ failure than cancer.
+    \ Enabling the United States to safely bank organs at subzero temperature will
+    significantly enhance national healthcare.  The US faces strong commercial and
+    competitiveness reasons to invest in all facets of regenerative medicine, including
+    organ therapies. Cryopreservation solutions would indirectly enable significant
+    savings to the healthcare system, the patient, and healthcare insurance companies
+    with the cost savings from regenerative medicine treatments estimated to be nearly
+    $250 billion per year in the U.S.\n  \n\nThe cytotoxicity of current biopreservation
+    techniques is largely associated with inefficient cryoprotective agent and water
+    delivery across the cell membrane during cooling leading to irreparable cell damage
+    from ice formation. The goal of this project is to establish a fundamentally different
+    approach to cryoprotective agent optimization by developing first-in-the-field
+    bioinspired nanopores as transmembrane mega highways to facilitate safe and efficient
+    intracellular delivery and removal of cryoprotective agents during cryopreservation.
+    Past research has demonstrated the reliability of constructing well-defined nanotubular
+    assemblies via the enforced stacking of shape-persistent macrocycles based on
+    the interplay of multiple hydrogen-bonding, dipole-dipole, and aromatic pi-pi
+    stacking interactions and their self-insertion into lipid bilayers. These rationally
+    designed organic nanopores will serve as selective transmembrane channels when
+    protein channels malfunction at or below 3 °C. As a result, the cell's exposure
+    time to reach ice-free cryopreservation temperature will be significantly reduced.
+    Post-preservation cell yield and viability will be greatly improved by reducing
+    intracellular ice formation. Upon rewarming, these organic nanopores will facilitate
+    rapid removal of the cryoprotective agents. At physiological temperature, the
+    nanopores will seal off, and be washed out from the system resulting in low toxicity.
+    Nanopore function and effect will be examined using liposome-based glucose transport,
+    cell-based toxicity and cell-based cryopreservation assays."
+  awardeeAddress: 310 Georgia Street
+  awardeeCity: Vallejo
+  awardeeCountryCode: US
+  awardeeName: X-Therma Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '945905907'
+  fundsObligatedAmt: '224995'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1622240'
+  piEmail: xwei@x-therma.com
+  piFirstName: Xiaoxi
+  piLastName: Wei
+  piPhone: '8143311109'
+  poName: Rajesh Mehta
+  date: 06/21/2016
+  startDate: 07/01/2016
+  expDate: 02/28/2018
+  title: 'SBIR Phase I:  Developing Nanopores to Facilitate Delivery of Intracellular
+    Cryoprotectants for Biopreservation at Low Temperature'
 - abstractText: "This SBIR Phase I project will develop an automated composite lamination
     kitting and stitching machine.  This demonstration machine will be capable of
     placing, cutting and securing 6 layers of dry composite material in parallel.
@@ -9804,64 +10331,6 @@
   expDate: 06/30/2017
   title: 'STTR Phase I:  Human Microphysiological Model for Assaying the Efficacy
     of Drugs for Myelin Disorders'
-- abstractText: "This SBIR Phase I project aims to develop a cutting-edge nanotechnology
-    that will greatly enhance biological preservation of regenerative medicines such
-    as stem cells, complex tissues, and organs. Such a technology has the potential
-    to changing regenerative healthcare forever. It would change biobanking for on-demand
-    cells and tissues and improve mass trauma care and advanced personalized medical
-    procedures. Biopreservation is required in regenerative medicine at nearly all
-    levels in the acquisition of source material, isolation, storage and shipment
-    of a final product to patient. Yet, critically, the field lacks the ability to
-    safely and efficiently preserve these tissues and medicines severely limiting
-    product shelf life. Nowhere is the absence of a biobanking technology more palpable
-    than organ transplantation, where the time window between donor and recipient
-    (4-7 hours) is not enough to properly match donations, screen for pathogens, or
-    transport distances. More people will die from premature organ failure than cancer.
-    \ Enabling the United States to safely bank organs at subzero temperature will
-    significantly enhance national healthcare.  The US faces strong commercial and
-    competitiveness reasons to invest in all facets of regenerative medicine, including
-    organ therapies. Cryopreservation solutions would indirectly enable significant
-    savings to the healthcare system, the patient, and healthcare insurance companies
-    with the cost savings from regenerative medicine treatments estimated to be nearly
-    $250 billion per year in the U.S.\n  \n\nThe cytotoxicity of current biopreservation
-    techniques is largely associated with inefficient cryoprotective agent and water
-    delivery across the cell membrane during cooling leading to irreparable cell damage
-    from ice formation. The goal of this project is to establish a fundamentally different
-    approach to cryoprotective agent optimization by developing first-in-the-field
-    bioinspired nanopores as transmembrane mega highways to facilitate safe and efficient
-    intracellular delivery and removal of cryoprotective agents during cryopreservation.
-    Past research has demonstrated the reliability of constructing well-defined nanotubular
-    assemblies via the enforced stacking of shape-persistent macrocycles based on
-    the interplay of multiple hydrogen-bonding, dipole-dipole, and aromatic pi-pi
-    stacking interactions and their self-insertion into lipid bilayers. These rationally
-    designed organic nanopores will serve as selective transmembrane channels when
-    protein channels malfunction at or below 3 °C. As a result, the cell's exposure
-    time to reach ice-free cryopreservation temperature will be significantly reduced.
-    Post-preservation cell yield and viability will be greatly improved by reducing
-    intracellular ice formation. Upon rewarming, these organic nanopores will facilitate
-    rapid removal of the cryoprotective agents. At physiological temperature, the
-    nanopores will seal off, and be washed out from the system resulting in low toxicity.
-    Nanopore function and effect will be examined using liposome-based glucose transport,
-    cell-based toxicity and cell-based cryopreservation assays."
-  awardeeAddress: 310 Georgia Street
-  awardeeCity: Vallejo
-  awardeeCountryCode: US
-  awardeeName: X-Therma Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '945905907'
-  fundsObligatedAmt: '224995'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1622240'
-  piEmail: xwei@x-therma.com
-  piFirstName: Xiaoxi
-  piLastName: Wei
-  piPhone: '8143311109'
-  poName: Rajesh Mehta
-  date: 06/21/2016
-  startDate: 07/01/2016
-  expDate: 06/30/2017
-  title: 'SBIR Phase I:  Developing Nanopores to Facilitate Delivery of Intracellular
-    Cryoprotectants for Biopreservation at Low Temperature'
 - abstractText: |-
     This Small Business Innovation Research Phase I project will focus on the development of a piezoelectric energy harvesting fiber to autonomously power sensors and other low-power electronics in smart garments. This technology will allow the fabrication of garments with seamlessly integrated energy harvesting systems, as opposed to today's rigid electronics, to enable smart garments to move toward the same breathability, fit and comfort as normal clothing. The smart garments market is forecast to continue growing at nearly 20% per year over the next several years, reaching $2 billion by 2018. While there has been significant publicity around the development of smart garments for measuring various physiological conditions of athletes, the broader impact of this technology includes applications for monitoring soldiers, emergency responders and patients where the loss of sensor power (e.g. for body function monitoring or environmental sensing) could be dire. While this project will focus on one particular fiber chemistry, the expected learning that will result in terms of fiber processing and integration into fabric structures will also be applicable to other fiber technologies.
 
@@ -10245,130 +10714,28 @@
   expDate: 06/30/2017
   title: 'SBIR Phase I:  Plate-scale liquid handling robotics'
 - abstractText: |-
-    This Small Business Innovation Research Phase I project is a comprehensive investigation into the feasibility of using a polytetrafluoroethylene (PTFE) nanoparticle composite coating as a lubricant in ball bearings for washdown duty electric motors. The successful transition from traditional lubricants to solid lubricants in manufacturing has tremendous implications for the US economy and the environment. Currently, annual lubrication-related maintenance costs are as high as $1 trillion, and consumption of petroleum-based lubricants is estimated to reach 43.78 million metric tons by the end of 2016. The effective implementation of this technology will reduce maintenance costs and downtime by eliminating premature bearing failure. This project will serve as a proof point for the adoption of nano-coating technologies for reducing friction and wear in manufacturing equipment. It will also reduce barriers to entry for these coatings in industries dominated by outdated lubrication practices. The total applicable market size for washdown duty electric motors is estimated to be $50 million, and a substantial near-term revenue opportunity for the proposed technology in this sector will be the focus of this effort. This beachhead opportunity serves as an industry validation point for the proposed technology and an entry point to other industrial and manufacturing applications.
+    This project researches and develops a novel mathematics communication and collaboration system. Mathematics is the foundation of Science and Technology, and national competence in the STEM fields is essential to maintaining our competitive edge on a global scale. Math literacy hinges on effective communication of mathematical concepts and processes. However, despite significant advances in pedagogical methods, the way we communicate mathematics remains curiously behind the times. Preliminary customer and market research has revealed that the lack of adequate communication tools for mathematical and technical expressions is holding back the advance of mathematics in online environments such as online tutoring. Moreover, the scarcity of effective communication tools has reinforced the long-standing preconception that math is primarily a solitary activity, and it has created an unintended and harmful selection bias restricting the diversity of students entering STEM fields. This project fills the void of adequate math communications tools with an dynamic, interactive system for communicating mathematical derivations in real-time in an online environment. The system facilitates student-student and student-teacher remote communication of mathematics, and it is particularly suited for student-tutor communication on online tutoring platforms.
 
-    The intellectual merit of this project is based on improving the mechanical properties and adhesion of PTFE coatings through the use of an adhesive polymer basecoat and a nanoparticle filler within a PTFE topcoat. This reduces friction and increases wear-life, allowing PTFE coatings to be used in applications from which they have historically been precluded due to high wear and delamination. Preliminary results show that the proposed coating exhibits a two thousand-fold improvement in wear-life over virgin PTFE. The goal of the proposed research and development work is the optimization of the coating chemical composition and deposition parameters to maximize the performance in rolling element applications. These parameters play a critical role in the wear, vibration, and friction that occurs in coated bearings. Benchtop tribological tests will be performed to measure these properties under accelerated wear testing conditions and provide feedback during the optimization process. A thorough understanding of the process-structure-property relationship of the proposed coating will lead to new scientific knowledge which will be disseminated through applicable journals and trade publications. The successful completion of the proposed work will result in PTFE-lubricated ball bearings with a wear-life which is more than 50% improved as compared to grease-lubricated bearings.
-  awardeeAddress: 700 W Research Center Blvd
-  awardeeCity: Fayetteville
+    The math communication and collaboration system this project develops leverages the company's proprietary equation manipulation technology. This system employs an integrated math engine and a touch-based interface allowing users to manipulate equations using simple drag-and-drop gestures. It is built on a game-engine allowing for multi-player support. This project integrates the equation manipulation technology into a networked multi-user interface to connect one or more users for real-time communication of mathematical derivations. The project researches the precise needs of students, teachers, and online tutors to tailor the user interface to the specific needs of online mathematics communication. Specific problems the project researches include multi-player networking and matchmaking functionality, optimal network architecture for the system, transfer of control between users for effective communication, integration of traditional communication tools within the system, and reduction of latency time to enhance real-time interactivity. Successful completion of the project will result in a first-of-its-kind math communication system that allows users in different places to connect online and communicate a mathematical derivation as it is happening, and as easily as if they were in the same room. The primary project deliverable is a minimum viable product to be piloted and vetted through the company?s existing math app.
+  awardeeAddress: 2060 Broadway St, Suite B-1
+  awardeeCity: Boulder
   awardeeCountryCode: US
-  awardeeName: SurfTec, LLC
-  awardeeStateCode: AR
-  awardeeZipCode: '727017175'
+  awardeeName: Alef Omega, Inc.
+  awardeeStateCode: CO
+  awardeeZipCode: '803025224'
   fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1622136'
-  piEmail: sam@surftec-engineering.com
-  piFirstName: Samuel
-  piLastName: Beckford
-  piPhone: '4792636922'
-  poName: Debasis Majumdar
-  date: 06/20/2016
-  startDate: 07/01/2016
-  expDate: 06/30/2017
-  title: 'SBIR Phase I:  Low friction and high durability PTFE nanoparticle composite
-    coating for bearings'
-- abstractText: "The broader impact/commercial potential of this project is to enable
-    Wi-Fi and other radio transmissions at up to 10000 times lower power than has
-    been possible. The technique for the first time can generate Wi-Fi and other radio
-    transmissions using backscatter communication, for orders of magnitude lower power
-    than conventional techniques. These backscatter transmissions can be decoded on
-    conventional Wi-Fi Access Points, phones, and other devices. Given the increasing
-    interest in the Internet-of-Things where small computing devices are embedded
-    in everyday objects and environments, improving the energy efficiency of communication
-    by up to 10,000 times will substantially extend battery life. As a result, this
-    project would make the Internet of things more viable economically and environmentally,
-    since batteries will travel to landfills at a slower rate. Economically, reducing
-    or eliminating batteries from pervasive sensors will lead to growth in the semiconductor
-    industry, and also in other businesses, which will be able to allow their customers
-    to search the physical world, thanks to the new sources of data about the physical
-    world.\n \nThis Small Business Innovation Research (SBIR) Phase I project introduces
-    the key insight that the power-hungry, high-frequency analog and RF components
-    found in battery-powered radios can be grouped together into a wall-powered device
-    called the helper node. The energy constrained, battery-powered mobile/embedded
-    endpoint device contains only low frequency and mostly digital components, making
-    its power consumption negligible. The mobile devices transmit data by reflecting
-    RF signals generated by the helper. This novel partitioning of the radio system
-    allows the Endpoint to communicate far more efficiently than was possible with
-    active radio techniques. This project aims to create a complete network stack
-    that enables passive devices to coexist with conventional active devices in the
-    ISM band. The system consists of ultra-low energy endpoint sensors, wall-powered
-    helper devices, and commercial off the shelf active radio routers. The project
-    involves building working networking hardware, designing and implementing a network
-    stack matched to the project?s unique needs, and testing the resulting system
-    with real customers.  If successful, the project will have delivered the critical
-    enabling technology for the vision of pervasively connected devices with billions
-    of devices connected to the Internet without the need to replace batteries."
-  awardeeAddress: UW BOX 352141
-  awardeeCity: Seattle
-  awardeeCountryCode: US
-  awardeeName: JEEVA WIRELESS INC
-  awardeeStateCode: WA
-  awardeeZipCode: '981950001'
-  fundsObligatedAmt: '224999'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1622232'
-  piEmail: nsfsbirpi@jeevawireless.com
-  piFirstName: Bryce
-  piLastName: Kellogg
-  piPhone: '4252758979'
-  poName: Muralidharan S. Nair
-  date: 06/20/2016
-  startDate: 07/01/2016
-  expDate: 06/30/2017
-  title: 'SBIR Phase I:  Passive Radio for the Internet of Things'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) project is to enhance the supply of complex pharmaceutical molecules
-    from nature. Over 60% of current drugs are natural products, or are derived from
-    natural products, and of these approximately half are from plants. The therapeutic
-    activity of a given plant molecule is encoded in its chemical structure, which
-    is biosynthesized by a specialized metabolic pathway. Despite the efficiency of
-    these biosyntheses, plants accumulate relatively small amounts of the potent metabolites
-    in specialized cells and tissue types, thereby restricting the availability of
-    essential medicines from plants. The opioids exemplify this limitation of plant
-    therapeutics; the structural complexity of the opioids precludes chemical synthesis
-    at commercial scale, and in the absence of this synthetic source the only viable
-    alternative is to extract natural opiates from opium poppy. This project proposes
-    to make the biosynthesis of medicinal opioids possible in a microbial host. This
-    synthetic biology approach will move opioid production into fermentation facilities
-    and free up the 100,000 hectares of arable land used each year for poppy crops.
-    The disruptive technology resulting from this research will for the first time
-    provide for a local, scalable, secure supply of medicinal opioids.   \n\nThis
-    SBIR Phase I project proposes to develop a microbial production system for medicinal
-    opioids that will displace the existing supply from opium poppies. A complete
-    opioid biosynthesis pathway was recently constructed in Baker's yeast, demonstrating
-    that this technology holds enormous potential for supplying the $2B opioid active
-    pharmaceutical ingredient (API) market. The key technical hurdle addressed in
-    this SBIR project is to enhance the activity of rate-limiting enzymes that catalyze
-    key steps in the construction of the five-ring opioid scaffold. The target class
-    of plant enzymes is poorly expressed in heterologous hosts such as yeast and must
-    be membrane localized. The proposed research takes three approaches to support
-    these enzymes: 1) tuning expression to conserve the endomembrane environment and
-    promote activity, 2) constructing N-terminal chimeric proteins with enhanced stability,
-    and 3) identifying partner enzymes that support the catalytic function of these
-    enzymes. The goal is to remove the bottleneck steps in existing production strains
-    to allow for commercially-relevant titers of greater than 1 g/L. The outcome will
-    be a new production system that offers active pharmaceutical ingredients at lower
-    cost, with greater availability and variety of molecules, shorter lead times,
-    and acute responsiveness to the medical demand for opioid therapeutics."
-  awardeeAddress: 228 University Drive
-  awardeeCity: Menlo Park
-  awardeeCountryCode: US
-  awardeeName: Antheia, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '940255222'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1621560'
-  piEmail: kristy.m.hawkins@gmail.com
-  piFirstName: Kristy
-  piLastName: Hawkins
-  piPhone: '6268408735'
-  poName: Ruth M. Shuman
-  date: 06/20/2016
-  startDate: 07/01/2016
-  expDate: 06/30/2017
-  title: 'SBIR Phase I:  Engineering biocatalysts for biomanufacturing of medicinal
-    opioids'
+  id: '1721340'
+  piEmail: andrew.randono@alefomega.com
+  piFirstName: Andrew
+  piLastName: Randono
+  piMiddeInitial: C
+  piPhone: '5124175579'
+  poName: Glenn H. Larsen
+  date: 06/21/2017
+  startDate: 06/15/2017
+  expDate: 11/30/2017
+  title: 'SBIR Phase I:  A mathematics communication and collaboration system'
 - abstractText: "This project will develop a multi-sensory therapy program for children
     diagnosed with Autism Spectrum Disorder by improving eye contact. Children with
     Autism Spectrum Disorder do not make eye contact readily and eye contact is a
