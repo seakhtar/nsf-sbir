@@ -1,27 +1,39 @@
 a { cursor: pointer; }
+#main-content {
+  a[href^="mailto"]:not(.usa-button) {
+    padding-right: 20px;
+    background: url(../img/links/email.svg) right center no-repeat;
+    background-size: 16px auto;
+  }
+  a[href *='.doc']:not(.usa-button) {
+    padding-right: 20px;
+    background: url(../img/links/file-word.svg) right center no-repeat;
+    background-size: 16px auto;
+  }
+  a[href $='.pdf']:not(.usa-button) {
+    padding-right: 20px;
+    background: url(../img/links/file-acrobat.svg) right center no-repeat;
+    background-size: 16px auto;
+  }
+  a[href $='.ppt']:not(.usa-button) {
+    padding-right: 20px;
+    background: url(../img/links/file-powerpoint.svg) right center no-repeat;
+    background-size: 16px auto;
+  }
+  a[href *='.xls']:not(.usa-button) {
+    padding-right: 20px;
+    background: url(../img/links/file-excel.svg) right center no-repeat;
+    background-size: 16px auto;
+  }
 
-a[href^="mailto"]:not(.usa-button) {
-  padding-right: 20px;
-  background: url(../img/links/email.svg) right center no-repeat;
-  background-size: 16px auto;
-}
-a[href *='.doc']:not(.usa-button) {
-  padding-right: 20px;
-  background: url(../img/links/file-word.svg) right center no-repeat;
-  background-size: 16px auto;
-}
-a[href $='.pdf']:not(.usa-button) {
-  padding-right: 20px;
-  background: url(../img/links/file-acrobat.svg) right center no-repeat;
-  background-size: 16px auto;
-}
-a[href $='.ppt']:not(.usa-button) {
-  padding-right: 20px;
-  background: url(../img/links/file-powerpoint.svg) right center no-repeat;
-  background-size: 16px auto;
-}
-a[href *='.xls']:not(.usa-button) {
-  padding-right: 20px;
-  background: url(../img/links/file-excel.svg) right center no-repeat;
-  background-size: 16px auto;
+
+  a[href*=".com"],
+  a[href*=".org"],
+  a[href*=".net"],
+  a[href*=".co"],
+  .external-link {
+    padding-right: 18px;
+    background: url(../img/links/external-link.svg) right center no-repeat;
+    background-size: 16px auto;
+  }
 }
