@@ -7,11 +7,13 @@ timeline:
     description: Call for proposals (solicitation) released.
     steps:
       - step-1
+      - step-2
   - title: 60 days before<br> the deadline
     steps:
-      - step-2
       - step-3
       - step-4
+      - step-5
+      - step-6
   - title: "Deadline<br> {{ site.deadline }}"
     description: "Applications due by 5:00 p.m. in your local time zone."
     inactive_description: "Application submission has expired."
@@ -28,7 +30,7 @@ timeline:
 <h1 class="page-title">How to apply</h1>
 
 <p class="text-medium">
-Learn about our Phase I application timeline, how to prepare your proposal, and what to expect once you submit.
+Learn about our recommended Phase I application timeline, how to prepare your proposal, and what to expect once you submit.
 </p>
 
 <ol class="timeline {% if site.app_process == "inactive" %} timeline-inactive {% endif %}">
