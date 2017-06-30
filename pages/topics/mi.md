@@ -3,18 +3,14 @@ title: Advanced Materials and Instrumentation
 permalink: /topics/materials-and-instrumentation/
 layout: tech-topic
 topic_code: mi
-section_image: "/assets/img/bg/robotic-arm.jpg"
+section_image: "/assets/img/bg/biomason-2c-mi.jpg"
 section_image_caption: |
-  The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
+  [bioMASON Inc]({{ site.baseurl }}/portfolio/details/?company=biomason-inc#biomason-inc) interior and exterior façade tile made with biocement, which is less costly and more sustainable than its traditional counterpart
+
 ---
 
-## Pre-Submission Feedback
-You may communicate with the Program Director, Debasis Majumdar (dmajumda@nsf.gov), to gauge if a project meets the program's intellectual merit and commercial impact criteria. Send a 1-2 page executive summary by e-mail discussing the following aspects of the project: 1) the company and team; 2) the market opportunity, value proposition, and customers; 3) the technology/innovation; 4) the technical challenges to overcome; and 5) the competition. Please note that responsiveness will likely be limited in the 2 weeks leading up to the solicitation deadline.
-
-Click here for examples of recently funded Phase I projects in this portfolio.
-
-## Introduction
 The Advanced Materials and Instrumentation (MI) topic addresses the development of new and improved materials and instruments for a wide variety of commercial and industrial applications. Proposals in Advanced Materials may focus on the creation of innovative material systems and/or on critical fabrication, processing, or manufacturing challenges involved in the successful commercialization of materials. Proposals in Instrumentation may focus on new instruments for use in scientific, industrial, engineering, or manufacturing environments, among others. Types of instruments that will be considered include systems and tools designed for the purposes of detection, characterization, measurement, processing, control, and/or monitoring. A wide variety of applications areas will be considered as part of this topic.
+
 ### MI1. Metals and Ceramics
 Material innovations to improve the performance of and/or allow new functions in metallic and ceramic materials. This topic includes bulk materials (e.g. superalloys, ceramics, and composites) and coatings (e.g. thermal and environmental barrier coatings, and tribological coatings), as well as other morphologies (e.g. foams). This subtopic also includes composites of metallic and ceramic materials (metal-matrix and ceramicmatrix composites).
 

@@ -4,9 +4,9 @@ permalink: /
 layout: landing
 
 hero:
-  image: /assets/img/hero-3.png
+  image: /assets/img/bg/hero-altaeros.jpg
   callout:
-    alt: We invest up to $1.5 million in seed funding
+    alt: We invest up to $1.5 million in <br> seed funding
     text: We take 0% equity
   button:
     href: /apply/
@@ -29,7 +29,7 @@ See program details
 <div class="usa-width-one-third" markdown="1">
 <h2 class="text-medium">Access to our network of innovators and industry experts</h2>
 
-Attend dozens of annual events — conferences, road shows, and more — and build lasting bonds with industry leaders.
+Meet other entrepreneurs, technical experts, industry leaders, and NSF program directors, and build lasting bonds with future leaders in your industry. Find us at dozens of annual events — conferences, road shows, and more.
 
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/events/">
 View events
@@ -57,7 +57,7 @@ SBIR &#124; STTR
 
 <div class="usa-width-two-thirds usa-grid-center usa-content" markdown="1">
 <hr class="divider divider-left">
-<p class="text-large"><strong>We support research and development of groundbreaking, high-impact, high-risk technology. As we review applications, we consider your technology’s innovativeness, commercial potential, and possible social impact.</strong></p>
+<p class="text-large"><strong>We support research and development of groundbreaking, high-impact, high-risk technology. As we review applications, we consider your technology’s innovativeness, commercial potential, and possible societal impact.</strong></p>
 
 <a class="usa-button usa-button-secondary usa-button-big button-arrow" href="{{ site.baseurl }}/awardees/phase-1-recent/">
 View recent awardees

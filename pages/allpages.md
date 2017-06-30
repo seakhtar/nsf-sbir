@@ -8,7 +8,7 @@ layout: secondary-narrow
 {% for page in sorted %}
   {% if page.permalink %}
     <li style="border-bottom:1px solid #02BFE7;Padding-bottom: 1rem;">
-    Link to page: <a href="{{ page.url }}">{{ page.title }}</a><br>
+    Link to page: <a href="{{site.baseurl}}{{ page.url }}">{{ page.title }}</a><br>
     Permalink: {{ page.permalink }}<br>
     Layout: {{ page.layout }}
     </li>

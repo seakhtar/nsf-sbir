@@ -16,7 +16,7 @@ Images are used heavily throughout the site, but using them isn't always straigh
 
 The primary image formats that work well for the web are SVG, JPG, PNG, and GIF. Choosing the correct format can speed up the site and lead to a better user experience. Here are some guidlines that we use when picking images on [18f.gsa.gov](https://18f.gsa.gov):
 
-* **SVG**: the fastest loading images. They are generally best suited for iconography, or less complex graphics. They can be added as a [Jekyll include](#svg-includes), or as an [`img` tag with a source reference](#adding-images). SVGs added as Jekyll includes are rendered as valid html `svg` elements and can be styled using CSS.
+* **SVG**: the fastest loading images. They are generally best suited for iconography, or less complex graphics. They can be added as a [Jekyll include](#svg-include-catalog), or as an [`img` tag with a source reference](#adding-images). SVGs added as Jekyll includes are rendered as valid html `svg` elements and can be styled using CSS.
 * **JPG**: best for photos and more realistic images.
 * **PNG**: best for text-heavy images, line art, or images with fewer colors.
 * **GIF**: should only be used for simple animations.
@@ -83,7 +83,7 @@ svg placeholders
 
 
 {% include /styleguide/details-code.html
-   title='svg-catalog'
+   title='svg-catalog-example'
    content=catalog_codeblock
    lang="markdown"
    description='As mentioned above, the icons defined above are set to their default size. For some icons this is defined as by the `width` and `height` attributes on the SVG. For the smallest icons, it is set by the `.icon` class on the SVG itself.'

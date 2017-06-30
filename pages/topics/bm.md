@@ -3,17 +3,12 @@ title: Biomedical Technologies
 permalink: /topics/biomedical/
 layout: tech-topic
 topic_code: bm
-section_image: "/assets/img/bg/robotic-arm.jpg"
+section_image: "/assets/img/bg/flexdex-surgical-2c-bm.jpg"
 section_image_caption: |
-  The [Altaeros](#) BAT can lift communication, Internet and sensory equipment alongside the turbine to provide additional services for customers.
+  A close-up view of the end-effector of [FlexDex Surgical]({{ site.baseurl }}/portfolio/details/?company=flexdex-inc#flexdex-inc)'s articulating needle-driver. This instrument is for use in laparoscopic or minimally invasive surgeries. © FlexDex, Inc.
 ---
 
-## Pre-Submission Feedback
-You may communicate with the Program Director, Henry Ahn (hahn@nsf.gov), to gauge if a project meets the program's intellectual merit and commercial impact criteria. Email a 1-2 page executive summary discussing the following aspects of the project: 1) the company and team; 2) the market opportunity, value proposition, and customers; 3) the technology/innovation; 4) the technical challenges to overcome; and 5) the competition. Please note that responsiveness will likely be limited in the 2 weeks leading up to the solicitation deadline.
 
-[Click here for examples of recently funded Phase I projects in this portfolio.](http://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=1505%2C+5371&BooleanElement=Any&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=Jesus+Soriano&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=After&StartDateFrom=06%2F01%2F2015&ExpDateOperator=)
-
-## Biomedical Technologies(BM)
 The Biomedical Technologies subtopics aim to support the early stage development of novel products, processes, or services that will enable the delivery of high-quality, economically-efficient healthcare in the U.S. as well as globally. The BM subtopics are not aimed at supporting or conducting clinical trials, clinical efficacy or safety studies, the development pre-clinical or clinical-stage drug candidates or medical devices, or work performed primarily for regulatory purposes. Limited studies with human subjects may be acceptable to the extent that they are performed in support of feasibility, proof-of-concept studies of early-stage technologies. Proposals that request support for clinical studies will be deemed non-compliant with the SBIR/STTR solicitations and may be returned without review.
 
 ### BM1. Pharmaceutical Manufacturing

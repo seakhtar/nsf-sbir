@@ -149,6 +149,7 @@
       }
     }
   }
+
   .usa-accordion-button {
     background-image: url('../img/arrow-up.svg');
     padding-left: $space-s;
@@ -187,16 +188,15 @@
       text-align: right;
     }
 
-    &:last-of-type {
-      border-bottom: 1px solid $color-gray-light;
-    }
-
     .accordion-tech-topic {
       padding-right: $space-s + $space-l;
       line-height: $leading-s;
       display: block;
 
     }
+  }
 
+  .border-bottom:last-child {
+    border-bottom: 1px solid $color-gray-light;
   }
 }

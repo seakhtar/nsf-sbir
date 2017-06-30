@@ -12,7 +12,7 @@ section_image_caption: |
 
 # About
 
-For 40 years, America’s Seed Fund powered by NSF has helped startups and small businesses transform their ideas into marketable products. We focus on the highest-risk technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country. We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).
+For 40 years, America’s Seed Fund powered by NSF has helped startups and small businesses transform their ideas into marketable products and services. We focus on high-risk, high-impact technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country. We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).
 
 </div>
 </div>
@@ -57,13 +57,13 @@ You will get access to a program director, who will serve as your mentor, and a 
 
 - **0% equity**: You retain full ownership over your company and intellectual property. And because our awards aren’t loans, there’s nothing to pay back.
 
-- **Major social impact**: We don't have the same financial incentives as most investors, so we can make impact investments that may take longer to provide a financial return. Our goal is to invest in a better future for our shareholders: the American public.
+- **Major societal impact**: We don't have the same financial incentives as most investors, so we can make impact investments that may take longer to provide a financial return. Our goal is to invest in a better future for our shareholders: the American public.
 
 - **Minimal standard reporting**: We provide templates for reporting monthly progress and financials. No need to waste time crafting decks and building spreadsheets — we help you focus on building your product or service instead.
 
 - **Virtual consults with program advisors**: We promote startups in all locations, not just tech hubs. You don’t need to relocate to gain access to our funding or mentors.
 
-- **Less restricted spending**: You can use your funding on employees’ salaries and wages, fringe benefits, materials and supplies, and other R&D costs (though marketing and business development costs aren’t covered).
+- **Less restricted spending**: You can use your funding on employees’ salaries and wages, fringe benefits, materials and supplies, and other R&D costs (though intellectual property, marketing and business development costs aren’t covered).
 
 - **Possible follow-on funding**: Companies that complete Phase I may be eligible for more funding. If you’ve shown that your technology is feasible and needs more development, you can apply to receive an additional $750,000 over two years. And, depending on your circumstances, you could be eligible to apply for up to $500,000 in supplemental funding.
 </div>
@@ -92,7 +92,7 @@ Phase II awardees can apply for Phase IIB funding to speed up commercialization.
 {% if site.app_process == "active" %}
 For complete program information, check out the latest [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}) or [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}).
 {% else %}
-For more program information, check out our last solicitation. Our next solicitation will be posted in [MONTH YEAR].
+For more program information, check out our last solicitation. Our next solicitation will be posted in {{ site.deadline }}.
 {% endif %}
 </div>
 </section>

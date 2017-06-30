@@ -14,7 +14,15 @@ primary:
     href: /about/
   - text: Portfolio
     href: /portfolio/
-  - text: Apply for funding
+  - text: Showcase
+    href: /showcase/
+  - text: Resources
+    href: /resources/
+  - text: Events
+    href: /events/
+  - text: Contact
+    href: /contact/
+  - text: Apply
     href: /apply/
 
 fastlane:
@@ -44,6 +52,8 @@ review:
     href: /review/virtual-panelist/
 
 awardees:
+  - text: Awardees
+    href: /awardees/awardees/
   - text: General Grant Conditions
     href: https://www.nsf.gov/awards/managing/special_conditions.jsp
   - text: CAAR Videos for Phase I Awardees
@@ -76,13 +86,13 @@ footer:
     href: /apply/
   - text: Resources
     href: /resources/
-  - text: Press
-    href: /press/
+  - text: Events
+    href: /events/
   - text: Contact us
     href: /contact/
 
 subfooter:
-  - text: Usa.gov
+  - text: USA.gov
     href: https://www.usa.gov/
   - text: Privacy
     href: https://www.nsf.gov/policies/privacy.jsp
@@ -92,3 +102,5 @@ subfooter:
     href: https://www.nsf.gov/about/
   - text: Inspector General
     href: https://www.nsf.gov/oig/
+  - text: Press
+    href: /press/

@@ -39,7 +39,7 @@ module SiteData
         params[:dateEnd] = dateEnd if dateEnd
         params[:expDateStart] = expDateStart if expDateStart
         params[:expDateEnd] = expDateEnd if expDateEnd
-        params[:awardeeName] = awardeeName if awardeeName
+        params[:awardeeName] = awardeeName.downcase.gsub(/[^a-z ^0-9]/, "") if awardeeName
         params[:fundProgramName] = fundProgramName if fundProgramName
         uri.query = URI.encode_www_form(params)
         res = Net::HTTP.get_response(uri)

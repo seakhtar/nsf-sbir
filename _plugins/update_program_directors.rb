@@ -42,6 +42,7 @@ module SiteData
           new_director['photo'] = pd['photo']
           new_director['name'] = pd['name']
           new_director['email'] = pd['email']
+          new_director['bio'] = pd['bio']
           new_director['topic'] = topic['topic']
           new_director['topic_permalink'] = topic['permalink']
           new_director['topics'] = []
