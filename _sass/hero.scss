@@ -1,6 +1,5 @@
 .hero-treatment {
   background-image: url('../img/bg/tile.gif');
-  padding-bottom: $space-xl;
 }
 
 .usa-hero {
@@ -19,14 +18,27 @@
     line-height: .8625;
     text-transform: uppercase;
 
-
     .usa-hero-callout-alt {
       color: $color-white;
       display: block;
     }
   }
 
+.usa-accordion-button {
+  padding:.5rem 1rem;
+  background-image: none;
+  width: auto;
+  min-width: 0;
+  border: 0;
+}
+.usa-accordion-content {
+  background: inherit;
+  padding: inherit;
+}
 
+  .usa-width-one-third {
+    float: right;
+  }
 
   .usa-button {
     color: initial;
@@ -38,6 +50,7 @@
 
     &.usa-button-big {
       padding: $space-s $space-m+$space-xxs $space-s $space-m;
+      margin-bottom: $space-xl;
     }
 
     .subtext {
@@ -55,6 +68,13 @@
   .usa-header {
     background-color: transparent;
     margin-bottom: 6rem;
+    }
+    .caption p {
+      background-color: $color-white-transprent;
+      float: right;
+      font-size: $font-size-xxs;
+      margin: 0;
+      padding: 5px 20px;
     }
   }
 
