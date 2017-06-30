@@ -36,4 +36,13 @@ a { cursor: pointer; }
     background: url(../img/links/external-link.svg) right center no-repeat;
     background-size: 16px auto;
   }
+  .background-gray-dark {
+    a[href*=".com"],
+    a[href*=".org"],
+    a[href*=".net"],
+    a[href*=".co"],
+    .external-link {
+      background: url(../img/links/external-link-inverse.svg) right center no-repeat;
+    }
+  }
 }
