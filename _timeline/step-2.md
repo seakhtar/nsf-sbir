@@ -1,11 +1,12 @@
 ---
-title: Review the solicitation
-becomes_inactive: true
-description: Read the solicitation, which includes everything you need to know about applying for funding.
-inactive_description: |
-  We're not currently accepting proposal applications, but you can check out our most recent [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}) and [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}). Our next solicitation will be released in {{ site.deadline }}.
+title: Determine eligibility
+description: Make sure your company meets these eligibility requirements 
 ---
 
-The solicitation has information on awards (number available and award amounts), tips for preparing your proposal, and more.
+- Your company must be a small business (fewer than 500 employees) located in the United States.
+- At least 50% of your company’s equity must be owned by U.S. citizens or permanent residents, and all funded work needs to take place in the United States (including work done by consultants and contractors).
+- The project’s principal investigator (tech lead) must be legally employed at least 20 hours a week by the company seeking funding. The PI doesn’t need any advanced degrees.
+- The principal investigator needs to commit to at least one month (173 hours) of work on a funded project per six months of project duration.
+ 
+For more detailed information, check out our [Eligibility Guide](https://www.sbir.gov/faqs/eligibility-requirements).
 
-If you're looking to have an academic, nonprofit, or federally funded research institution complete at least 30% of your work, please review the [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}). Otherwise, view the [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}).
