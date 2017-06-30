@@ -7,14 +7,16 @@ timeline:
     description: Call for proposals (solicitation) released.
     steps:
       - step-1
+      - step-2
   - title: 60 days before<br> the deadline
     steps:
-      - step-2
       - step-3
       - step-4
+      - step-5
+      - step-6
   - title: "Deadline<br> {{ site.deadline }}"
     description: "Applications due by 5:00 p.m. in your local time zone."
-    inactive_description: "Application submission has expired."
+    inactive_description:
     note: "Note: Your time zone is based on your company's address as you listed it in your application."
     inactive_note:
     deadline: true
@@ -28,7 +30,7 @@ timeline:
 <h1 class="page-title">How to apply</h1>
 
 <p class="text-medium">
-Learn about our Phase I application timeline, how to prepare your proposal, and what to expect once you submit.
+Learn about our recommended Phase I application timeline, how to prepare your proposal, and what to expect once you submit.
 </p>
 
 <ol class="timeline {% if site.app_process == "inactive" %} timeline-inactive {% endif %}">
@@ -39,7 +41,7 @@ Learn about our Phase I application timeline, how to prepare your proposal, and 
       {% assign milestone_description = milestone.description %}
       {% assign milestone_note = milestone.note %}
     {% else %}
-      {% assign milestone_description = milestone.inactive_description | default: milestone.description %}
+      {% assign milestone_description = milestone.inactive_description %}
       {% assign milestone_note = milestone.inactive_note %}
     {% endif %}
 

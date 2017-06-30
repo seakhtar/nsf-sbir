@@ -5,6 +5,7 @@ url: https://seedfund.nsf.gov
 baseurl: ""
 permalink: pretty
 deadline: December 2017
+past_deadline: June 14, 2017
 
 # app_process: active
 app_process: inactive
@@ -49,7 +50,7 @@ awards_api:
   active_date_is_now: true
   fundProgramName: phase
   reset: false
-  recent_date: '06/01/2016'
+  recent_date: 2017-06-01
   printFields:
     - id
     - awardeeName
@@ -75,10 +76,11 @@ awards_api:
 
 
 topics_api:
+  max_companies_shown: 9
   active_date_is_now: true
   fundProgramName: phase
   reset: false
-  recent_date: '06/01/2016'
+  recent_date: 2017-06-01
   printFields:
     - id
     - awardeeName

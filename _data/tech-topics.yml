@@ -32,7 +32,7 @@
     - ZoomEssence, Inc.
     - Coulometrics
     - Persimmon Technologies
-    - Levant Power (now Clear Motion)
+    - Levant Power
 
 - topic: Advanced Materials and Instrumentation (MI)
   permalink: /topics/materials-and-instrumentation/
@@ -115,7 +115,7 @@
     - Arytha Biosciences, LLC
     - CytoVale, Inc
     - OneBreath, Inc.
-    - Rochal Industries LLC
+    - Rochal Industries LLP
     - Elidah, Inc.
     - Vaxess Technologies, Inc.
     - LambdaVision, Inc.
@@ -260,7 +260,7 @@
   permalink: /topics/internet-of-things/
   topic_code: i
   programDirector:
-    - name: Rick Schwerdtferger
+    - name: Rick Schwerdtfeger
       api_name: Richard Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
@@ -282,7 +282,7 @@
   permalink: /topics/semiconductors-and-photonic-devices/
   topic_code: sp
   programDirector:
-    - name: Rick Schwerdtferger
+    - name: Rick Schwerdtfeger
       api_name: Richard Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
@@ -302,7 +302,7 @@
   companies:
     - Endectra, LLC
     - NGCodec Inc.
-    - TexasLDPC Inc., dba Symbyon Systems
+    - TexasLDPC Inc.
     - Multicore Photonics, Inc.
     - Uniqarta, Inc.
 
@@ -310,7 +310,7 @@
   permalink: /topics/smart-health/
   topic_code: sh
   programDirector:
-    - name: Jesus Soriano Molla
+    - name: Jesus Soriano
       api_name: Jesus Soriano Molla
       email: jsoriano@nsf.gov
       photo: Jesus-compressed.jpg
@@ -324,7 +324,7 @@
     - TAO Connect, Inc.
     - Neural Analytics
     - Care Progress, LLC
-    - Roundtable Analytics, Inc.
+    - Roundtable Analytics LLC
     - HealthMyne, Inc.
     - Aperiomics, Inc.
     - ConsortiEX, Inc

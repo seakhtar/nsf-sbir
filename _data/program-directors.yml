@@ -194,15 +194,15 @@
     a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied
     Physics from Pittsburg State University, and a B.S. in Physics and Science Education
     from the University of Dubuque.
-  topic:
-  topic_permalink:
+  topic: 
+  topic_permalink: 
   topics:
   - topic: Internet of Things (I)
     permalink: "/topics/internet-of-things/"
   - topic: Semiconductors (S) and Photonic Devices and Materials (PH)
     permalink: "/topics/semiconductors-and-photonic-devices/"
 - photo: Jesus-compressed.jpg
-  name: Jesus Soriano Molla
+  name: Jesus Soriano
   email: jsoriano@nsf.gov
   bio: joined the NSF in February 2012 as SBIR/STTR Program Director for Biomedical
     and Smart Health Technologies, after 20 years of international experience in executive
@@ -231,7 +231,8 @@
 - photo: Ben-compressed.jpg
   name: Ben Schrag
   email: bschrag@nsf.gov
-  bio: is the Senior Program Director for the SBIR/STTR programs. 
+  bio: is the acting Deputy Division Director for the Division of Industrial Innovation
+    and Partnerships at NSF, and the Senior Program Director for the SBIR/STTR programs.
     He joined the NSF as a Program Director in 2009, leading the Advanced Materials
     and Instrumentation portfolio in the Small Business Innovation Research and Small
     Business Technology Transfer programs. Prior to NSF, he was the Director of Research
@@ -246,3 +247,4 @@
   topic_permalink: "/topics/other/"
   topics: []
 ---
+

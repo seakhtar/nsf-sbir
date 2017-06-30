@@ -4,14 +4,15 @@ permalink: /
 layout: landing
 
 hero:
-  image: /assets/img/hero-3.png
+  image: /assets/img/bg/hero-sigray.jpg
   callout:
-    alt: We invest up to $1.5 million in seed funding
+    alt: We invest up to $1.5 million in <br> seed funding
     text: We take 0% equity
   button:
     href: /apply/
     text: "Learn how to apply"
     subtext: "Deadline: {{site.deadline}}"
+  caption: Sigray's revolutionary laboratory x-ray research equipment features patented innovations to deliver synchrotron performance. Pictured here is a microscopic image of the chemical elements within a hyperaccumulating seedling.
 ---
 
 <section class="usa-section usa-content section-intro background-light-neutral">
@@ -29,7 +30,7 @@ See program details
 <div class="usa-width-one-third" markdown="1">
 <h2 class="text-medium">Access to our network of innovators and industry experts</h2>
 
-Meet other entrepreneurs, technical experts, industry leaders, and NSF program directors, and build lasting bonds with future leaders in your industry. Find us at dozens of annual events — conferences, road shows, and more. 
+Meet other entrepreneurs, technical experts, industry leaders, and NSF program directors, and build lasting bonds with future leaders in your industry. Find us at dozens of annual events — conferences, road shows, and more.
 
 <a class="usa-button usa-button-primary button-arrow" href="{{ site.baseurl }}/events/">
 View events
