@@ -13,7 +13,7 @@ Supplemental funding is only available for active Phase II awardees. If you're p
 
 Check out our [supplemental funding overview video](https://youtu.be/biB6A2Cu6TA) to get a better sense of the available opportunities.
 
-[Video Inset]
+<iframe width="508" height="315" src="https://www.youtube.com/embed/biB6A2Cu6TA" frameborder="0" allowfullscreen></iframe>
 
 ## Types of supplemental funding
 
