@@ -56,12 +56,35 @@ $(function() {
     return isMatching;
   });
 
-  if (awardsDetailsList.visibleItems.length === 0) {
-    $('.results-query').text(getQueryVariable('company'));
-    $('.results-failure').show();
+  function showFailure(text) {
+    var text = text || getQueryVariable('company');
+    if (awardsDetailsList.visibleItems.length === 0) {
+      $('.results-query').text(text);
+      $('.results-failure').show();
+      $('.awards-search-form').show();
+    } else {
+      $('.results-failure').hide();
+      $('.awards-search-form').hide();
+    }
   }
+
+  showFailure();
+
 
   $('.results-loading').hide();
   $('.results').show();
+
+
+
+  window.searchAwards = function searchAwards(value) {
+    awardsDetailsList.filter();
+    awardsDetailsList.fuzzySearch(value);
+    $('.results-loading').show();
+    setTimeout(function(){
+      $('.results-loading').hide();
+      showFailure(value);
+    },1);
+    return false;
+  }
 
 });

@@ -3,19 +3,23 @@ layout: base
 ---
 
 <div>
+  <div class="results-failure flex flex-column usa-grid usa-section" style="display: none;">
+    <h2 class="h3 m0">There were no results found for <span class="results-query background-secondary font-mono">that query</span>.</h2>
+    <p>Try a new search or return to <a href="{{ page.parent_permalink | relative_url }}">previous page</a> to try again.</p>
+  </div>
+  <form onsubmit="window.searchAwards(this.company.value); return false;" class="awards-search-form usa-grid" style="display: none;">
+    <input type="text" name="company" id="awards-search" class="awards-search-input" size="20" placeholder="" />
+    <label class="text-small" for="awards-search">Search America's Seed Fund awardees</label>
+    <input type="submit" class="usa-button usa-button-primary usa-sr-only" value="Search" />
+  </form>
   <div class="results-loading flex flex-center usa-grid usa-section">
     <div class="loader" aria-role="img"></div>
     <h2 class="h3 m0">Loading company results...</h2>
   </div>
 
-  <div class="results-failure flex flex-column usa-grid usa-section" style="display: none;">
-    <h2 class="h3 m0">There were no results found for <span class="results-query text-xl background-secondary font-mono">that query</span>.</h2>
-    <p>Return to <a href="{{ page.parent_permalink | relative_url }}">previous page</a> to try again.</p>
-  </div>
-
   {% assign awards_to_detail = site.data[page.dataset] | default: 'site.data.awards_phase_1' %}
 
-  <div id="awards-details-list" class="usa-grid">
+  <div id="awards-details-list">
     <ul class="list results list-reset" style="display: none;">
     {% assign awards_by_company = awards_to_detail | uniq | group_by: "awardeeName" | sort: 'name' %}
     {% for company in awards_by_company %}
