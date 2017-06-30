@@ -5,7 +5,7 @@ layout: tech-topic
 topic_code: mn
 section_image: "/assets/img/bg/branch-2c-mn.jpg"
 section_image_caption: |
-  A finished sample from [Branch Technology LLC]({{ site.baseurl }}/awardees/phase-2/details/?company=branch-technology-llc#branch-technology-llc) of a complex shape printed using CFAB® technology.
+  A finished sample from [Branch Technology LLC]({{ site.baseurl }}/awardees/phase-2/details/?company=branch-technology-llc#branch-technology-llc) of a complex shape 3-D printed like nature.
 ---
 
 ### Advanced Manufacturing (M)

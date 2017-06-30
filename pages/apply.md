@@ -41,7 +41,7 @@ Learn about our recommended Phase I application timeline, how to prepare your pr
       {% assign milestone_description = milestone.description %}
       {% assign milestone_note = milestone.note %}
     {% else %}
-      {% assign milestone_description = milestone.inactive_description | default: milestone.description %}
+      {% assign milestone_description = milestone.inactive_description %}
       {% assign milestone_note = milestone.inactive_note %}
     {% endif %}
 

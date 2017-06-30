@@ -11,7 +11,7 @@ As an awardee, you're the face of our program. We look to you to help generate p
 
 We want to contribute to your ongoing success. Help us help you by following us and tagging us on social media.
 
-We'd also love it if you'd share your America's Seed Fund story via social or on your website. Our [Ambassador Tool Kit](/files/NSF_SBIR_Ambassador_Toolkit.pdf) offers tips and tricks for sharing your funding story.
+We'd also love it if you'd share your America's Seed Fund story via social or on your website. Our [Ambassador Tool Kit]({{ site.baseurl }}/assets/files/awardee-files/NSF_SBIR_Ambassador_Toolkit.pdf) offers tips and tricks for sharing your funding story.
 
 # America's Seed Fund (SBIR/STTR) on Twitter
 
@@ -32,7 +32,7 @@ Interested in learning about one of our funders, @NSFSBIR? Watch an intro video:
 
 As an awardee, use the NSF logo on your website and marketing materials to acknowledge your NSF grant. Many investors view the NSF logo as a stamp of approval, so use it with pride!
 
-Visit http://www.nsf.gov/policies/logos.jsp for the current version and usage guidance.
+Visit https://www.nsf.gov/policies/logos.jsp for the current version and usage guidance.
 
 ## Press releases
 If you're putting out a press release and want to mention your award, please use this description, which is approved for use in press releases and other publications:
