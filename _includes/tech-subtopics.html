@@ -28,7 +28,7 @@
             </a>
           </li>
           <li>
-            <a href="{{ site.baseurl }}/contact/bios#{{ programDirector.name }}">
+            <a href="{{ site.baseurl }}/contact/bios/#{{ programDirector.name }}">
               View bio
             </a>
           </li>
@@ -44,14 +44,8 @@
           {% for company in shuffled_companies %}
             {% if iterator == max_companies_shown %}{% break %}{% endif %}
             {% for t in site.data.topics %}
-              {% if t['awardeeName'] == company %}
-                <li>
-                  {% assign company_slug = company | slugify %}
-                  <a href="{{ site.baseurl }}/portfolio/details/?company={{ company_slug }}#{{ company_slug }}">{{ company }}</a>
-                </li>
-                {% assign iterator = iterator | plus: 1 %}
-                {% break %}
-              {% endif %}
+              {% assign awardee_name = t['awardeeName'] %}
+              {% include company.html company=company awardee_name=awardee_name iterator='true' %}
             {% endfor %}
           {% endfor %}
         </ul>
