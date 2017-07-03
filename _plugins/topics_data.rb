@@ -76,25 +76,59 @@ module SiteData
       end
     end
 
+    def coerce_list(list)
+      return unless list && list.any?
+      list.map do |c|
+        list = c.class == Hash ? c.values : c['name']
+      end.flatten
+    end
+
+    def find_company(company)
+      if company.class == Hash
+        company.delete('allow_recent')
+        company.values
+      else
+        company['name']
+      end
+    end
+
+    def allow_recent?(company)
+      return unless company.class == Hash
+      company['allow_recent']
+    end
+
     def generate(params)
       configs = [ params ].flatten.compact
       if configs.empty?
         puts "the topics config is unchanged".yellow
         @topics.uniq
       else
-        companies = @tech_topics.map { |c| c['companies'] }.flatten.uniq.compact
-        featured_companies = @featured_companies.map do |c|
-          c['search'] || c['name']
-        end
-        companies = (companies + @featured_companies).uniq
-
-        topics = configs.map do |config|
-          companies.map do |company|
-            config['awardeeName'] = company
-            SiteData::AwardsApi.new.get(config)
+        tech_topic_companies = configs.map do |config|
+          @tech_topics.map do |co|
+            if co['companies']
+              co['companies'].map do |company|
+                company_recent = company['allow_recent']
+                find_company(company).map do |c|
+                  config['awardeeName'] = c
+                  config['allow_recent'] = company_recent unless company_recent.nil?
+                  SiteData::AwardsApi.new.get(config)
+                end
+              end
+            end
           end
-        end
+        end.flatten.uniq.compact
 
+        featured_companies = configs.map do |config|
+          @featured_companies.map do |co|
+            company_recent = co['allow_recent']
+            find_company(co).map do |c|
+              config['awardeeName'] = c
+              config['allow_recent'] = company_recent unless company_recent.nil?
+              SiteData::AwardsApi.new.get(config)
+            end
+          end
+        end.flatten.uniq.compact
+        topics = (tech_topic_companies + featured_companies)
         topics = topics.flatten.uniq
 
         if !topics.empty? && config_params['reset'] != true
