@@ -47,7 +47,7 @@ module SiteData
         params[:expDateEnd] = expDateEnd if expDateEnd
         params[:awardeeName] = standardize(awardeeName) if awardeeName
         params[:fundProgramName] = fundProgramName if fundProgramName
-        puts params
+
         uri.query = URI.encode_www_form(params)
         res = Net::HTTP.get_response(uri)
         new_awards = JSON.parse(res.body)['response']['award']
