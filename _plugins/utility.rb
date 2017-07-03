@@ -32,7 +32,6 @@ module Jekyll
       end
     end
 
-
     def flat(obj)
       if obj.is_a? Array
         obj.flatten
