@@ -1,12 +1,13 @@
-- Bluefin Lab, Inc.
-- The Echo Nest Corporation
-- Persimmon Technologies Corporation
-- Novan, Inc.
-- Qualcomm
-- Symantec
-- IntraLase Corporation
-- Jana (was Texteagle)
-- Bioo Scientific Corporation
-- Ecovative Design LLC
-- ecoATM, Inc.
-- Ekso Bionics, Inc.
+- name: Bluefin Lab, Inc.
+- name: The Echo Nest Corporation
+- name: Persimmon Technologies Corporation
+- name: Novan, Inc.
+- name: Qualcomm
+- name: Symantec
+- name: IntraLase Corporation
+- name: Jana
+  past: Txteagle, Inc.
+- name: Bioo Scientific Corporation
+- name: Ecovative Design LLC
+- name: ecoATM, Inc.
+- name: Ekso Bionics, Inc.
