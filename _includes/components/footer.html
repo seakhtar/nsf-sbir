@@ -15,7 +15,7 @@
           {% if logo.height %}height="{{ logo.height }}"{% endif %}>
         {% endfor %}
         {% if footer.heading %}
-        <h3 class="usa-footer-logo-heading">{{ footer.heading }}</h3>
+        <h2 class="usa-footer-logo-heading">{{ footer.heading }}</h2>
         {% endif %}
         {% if footer.contact.address %}
         <address>
@@ -63,7 +63,7 @@
       </div>
       <div class="usa-width-one-third">
         {% if footer.contact.heading %}
-        <h3 class="usa-footer-contact-heading">{{ footer.contact.heading }}</h3>
+        <h2 class="usa-footer-contact-heading">{{ footer.contact.heading }}</h2>
         {% endif %}
         {% if footer.contact.content %}
           {{ footer.contact.content | markdownify }}
