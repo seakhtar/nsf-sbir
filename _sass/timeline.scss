@@ -91,6 +91,17 @@ $timeline-right-padding: 5rem;
         border-color: $color-gray-lightest;
         color: $color-gray-light;
       }
+      .step-label-expired {
+        font-family: $font-mono;
+        font-size: $font-size-xxxs;
+        font-weight: 400;
+        color: $color-gray-medium-warm;
+        text-transform: uppercase;
+        letter-spacing: $kern-looser;
+        background-color: $color-secondary-lightest;
+        padding: 1px 4px;
+        margin-left: $space-xxs;
+      }
     }
 
     // setup accordion arrow
@@ -143,7 +154,9 @@ $timeline-right-padding: 5rem;
     button[disabled] {
     background-color: $color-white;
     background-image: none;
-    color: $color-gray-light;
+    // color: $color-gray-light;
+    color: $color-gray-medium-warm;
+    font-weight: 500;
     }
   }
 
