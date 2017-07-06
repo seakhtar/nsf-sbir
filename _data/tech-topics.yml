@@ -24,15 +24,16 @@
     - Nanomanufacturing (N2)
     - Nanotechnology-Based Solutions to Grand Challenges (N3)
   companies:
-    - TAG Optics, Inc.
-    - Keystone Tower Systems
-    - ThermoAura Inc.
-    - Branch Technology LLC
-    - Lite Enterprises Inc
-    - ZoomEssence, Inc.
-    - Coulometrics
-    - Persimmon Technologies
-    - Levant Power (now Clear Motion)
+    - name: TAG Optics, Inc.
+    - name: Keystone Tower Systems
+    - name: ThermoAura Inc.
+    - name: Branch Technology LLC
+    - name: Lite Enterprises Inc
+    - name: ZoomEssence, Inc.
+    - name: Coulometrics
+    - name: Persimmon Technologies
+    - name: Clear Motion
+      past: Levant Power Corporation
 
 - topic: Advanced Materials and Instrumentation (MI)
   permalink: /topics/materials-and-instrumentation/
@@ -53,15 +54,15 @@
     - Instrumentation for Detection, Actuation, Control, and Manipulation (MI8)
     -  Other Instrumentation (MI9)
   companies:
-    - DropWise Technologies Corp.
-    - bioMASON Inc.
-    - Molecular Vista, Inc.
-    - Mallinda, LLC
-    - Chirp Microsystems
-    - Construction Robotics, LLC
-    - Spheryx, Inc
-    - Altaeros Energies, Inc.
-    - Neuvokas Corporation
+    - name: DropWise Technologies Corp.
+    - name: bioMASON Inc.
+    - name: Molecular Vista, Inc.
+    - name: Mallinda, LLC
+    - name: Chirp Microsystems
+    - name: Construction Robotics, LLC
+    - name: Spheryx, Inc
+    - name: Altaeros Energies, Inc.
+    - name: Neuvokas Corporation
 
 - topic: Biological Technologies (BT)
   permalink: /topics/biological/
@@ -84,14 +85,14 @@
     - Advanced Technologies for Functional Genomics in Organismal Systems (BT9)
     - Tissue Engineering and Regenerative Medicine (BT10; formerly BM3)
   companies:
-    - Ginkgo BioWorks
-    - Triton Animal Products
-    - SQZ Biotechnologies Company
-    - Glauconix Inc.
-    - Ocular Dynamics
-    - Data2Discovery Inc
-    - Knudra Diagnostics
-    - Miromatrix Medical Inc.
+    - name: Ginkgo BioWorks
+    - name: Triton Animal Products
+    - name: SQZ Biotechnologies Company
+    - name: Glauconix Inc.
+    - name: Ocular Dynamics
+    - name: Data2Discovery Inc
+    - name: Knudra Diagnostics
+    - name: Miromatrix Medical Inc.
 
 - topic: Biomedical Technologies (BM)
   permalink: /topics/biomedical/
@@ -110,15 +111,15 @@
     - Diagnostic Assays and Platforms (BM6)
     - Drug Delivery (BM7)
   companies:
-    - Protein Dynamic Solutions, LLC
-    - Camras Vision, Inc.
-    - Arytha Biosciences, LLC
-    - CytoVale, Inc
-    - OneBreath, Inc.
-    - Rochal Industries LLC
-    - Elidah, Inc.
-    - Vaxess Technologies, Inc.
-    - LambdaVision, Inc.
+    - name: Protein Dynamic Solutions, LLC
+    - name: Camras Vision, Inc.
+    - name: Arytha Biosciences, LLC
+    - name: CytoVale, Inc
+    - name: OneBreath, Inc.
+    - name: Rochal Industries LLP
+    - name: Elidah, Inc.
+    - name: Vaxess Technologies, Inc.
+    - name: LambdaVision, Inc.
 
 - topic: Chemical and Environmental Technologies (CT)
   permalink: /topics/chemical-and-environmental/
@@ -144,16 +145,16 @@
     - Sustainable Chemistry and Green Engineering Technology (CT13)
     - Emerging Technologies and Applications (CT14)
   companies:
-    - Flodesign Sonics Inc.
-    - Modular Genetics, Inc.
-    - Renuvix
-    - Ground Fluor Pharmaceuticals, Inc.
-    - ZYMtronix Catalytic Systems Inc.
-    - Ubiquitous Energy, Inc
-    - Vaporsens Inc.
-    - Precision Polyolefins, LLC
-    - Cycladex
-    - Cambrian Innovation Inc
+    - name: Flodesign Sonics Inc.
+    - name: Modular Genetics, Inc.
+    - name: Renuvix
+    - name: Ground Fluor Pharmaceuticals, Inc.
+    - name: ZYMtronix Catalytic Systems Inc.
+    - name: Ubiquitous Energy, Inc
+    - name: Vaporsens Inc.
+    - name: Precision Polyolefins, LLC
+    - name: Cycladex
+    - name: Cambrian Innovation Inc
 
 - topic: Educational Technologies and Applications (EA)
   permalink: /topics/educational/
@@ -170,20 +171,21 @@
     - Entrepreneurial, Informal, and Maker Education (EA4)
     - Information, Computer Science, and Engineering (EA5)
   companies:
-    - Mgenuity Corporation
-    - LaunchPad Central Inc.
-    - Modular Robotics Incorporated
-    - Zyante Inc
-    - VoiceVibes, Inc.
-    - KinderLab Robotics, Inc.
-    - Killer Snails, LLC
-    - Teachley, LLC.
-    - Second Avenue Software, Inc.
-    - Simbulus Inc
-    - Workplace Technologies Research Inc.
-    - Edify Technologies, Inc.
-    - Triad Interactive Media
-    - starMobile, Inc.
+    - name: Mgenuity Corporation
+    - name: LaunchPad Central Inc.
+    - name: Modular Robotics Incorporated
+    - name: Zyante Inc
+    - name: VoiceVibes, Inc.
+      allow_recent: true
+    - name: KinderLab Robotics, Inc.
+    - name: Killer Snails, LLC
+    - name: Teachley, LLC.
+    - name: Second Avenue Software, Inc.
+    - name: Simbulus Inc
+    - name: Workplace Technologies Research Inc.
+    - name: Edify Technologies, Inc.
+    - name: Triad Interactive Media
+    - name: starMobile, Inc.
 
 - topic: Electronic Hardware, Robotics and Wireless Technologies (EW)
   permalink: /topics/electronic-hardware-robotics-and-wireless/
@@ -211,15 +213,16 @@
     - Human Assistive Technologies and Bio-related Robotics (RH6)
     - Micro-electronics Packaging, Thermal Management, and Systems Integration (MT)
   companies:
-    - TACTAI
-    - Blue River Technology Inc
-    - Artaic LLC
-    - VECARIUS
-    - Imprint Energy, Inc.
-    - GridBridge, Inc
-    - nView medical Inc.
-    - Leonardo Innovations Inc.
-    - RightHand Robotics, LLC
+    - name: TACTAI
+      allow_recent: true
+    - name: Blue River Technology Inc
+    - name: Artaic LLC
+    - name: VECARIUS
+    - name: Imprint Energy, Inc.
+    - name: GridBridge, Inc
+    - name: nView medical Inc.
+    - name: Leonardo Innovations Inc.
+    - name: RightHand Robotics, LLC
 
 - topic: Information Technologies (IT)
   permalink: /topics/information-technologies/
@@ -245,22 +248,22 @@
   - Software (IT13)
   - Other (IT14)
   companies:
-    - Geospatial Data Analysis Corporation
-    - Waltz Networks, Inc.
-    - VOCALID INC
-    - Whova
-    - Lumenous Co.
-    - Mental Canvas, LLC
-    - InsightFinder Inc.
-    - NGD Systems, Inc.
-    - AppScale Systems, Inc.
-    - Bay Labs, Inc.
+    - name: Geospatial Data Analysis Corporation
+    - name: Waltz Networks, Inc.
+    - name: VOCALID INC
+    - name: Whova
+    - name: Lumenous Co.
+    - name: Mental Canvas, LLC
+    - name: InsightFinder Inc.
+    - name: NGD Systems, Inc.
+    - name: AppScale Systems, Inc.
+    - name: Bay Labs, Inc.
 
 - topic: Internet of Things (I)
   permalink: /topics/internet-of-things/
   topic_code: i
   programDirector:
-    - name: Rick Schwerdtferger
+    - name: Rick Schwerdtfeger
       api_name: Richard Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
@@ -272,17 +275,17 @@
     - IoT Integrated Systems (IoT4)
     - IoT IT, Cloud, Big Data, and Security and Privacy (also see IT portfolio topics)
   companies:
-    - Runtime Verification, Inc.
-    - SensorHound, Inc.
-    - Arable Labs, Inc.
-    - One Million Metrics Corp
-    - IOTAS, Inc.
+    - name: Runtime Verification, Inc.
+    - name: SensorHound, Inc.
+    - name: Arable Labs, Inc.
+    - name: One Million Metrics Corp
+    - name: IOTAS, Inc.
 
 - topic: Semiconductors (S) and Photonic Devices and Materials (PH)
   permalink: /topics/semiconductors-and-photonic-devices/
   topic_code: sp
   programDirector:
-    - name: Rick Schwerdtferger
+    - name: Rick Schwerdtfeger
       api_name: Richard Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
@@ -300,17 +303,18 @@
     - Processing and Metrology Technology (S3)
     - Integrated Circuit Design (S4)
   companies:
-    - Endectra, LLC
-    - NGCodec Inc.
-    - TexasLDPC Inc., dba Symbyon Systems
-    - Multicore Photonics, Inc.
-    - Uniqarta, Inc.
+    - name: Endectra, LLC
+    - name: NGCodec Inc.
+    - name: TexasLDPC Inc.
+      dba: Symbyon Systems
+    - name: Multicore Photonics, Inc.
+    - name: Uniqarta, Inc.
 
 - topic: Smart Health (SH)
   permalink: /topics/smart-health/
   topic_code: sh
   programDirector:
-    - name: Jesus Soriano Molla
+    - name: Jesus Soriano
       api_name: Jesus Soriano Molla
       email: jsoriano@nsf.gov
       photo: Jesus-compressed.jpg
@@ -321,15 +325,15 @@
     - From Data to Decisions (SH3)
     - Interoperability of Health Record Systems, Medical Sensors, Devices, and Robotics (SH4)
   companies:
-    - TAO Connect, Inc.
-    - Neural Analytics
-    - Care Progress, LLC
-    - Roundtable Analytics, Inc.
-    - HealthMyne, Inc.
-    - Aperiomics, Inc.
-    - ConsortiEX, Inc
-    - Guiding Technologies Corporation
-    - Radial Analytics, Inc.
+    - name: TAO Connect, Inc.
+    - name: Neural Analytics
+    - name: Care Progress, LLC
+    - name: Roundtable Analytics LLC
+    - name: HealthMyne, Inc.
+    - name: Aperiomics, Inc.
+    - name: ConsortiEX, Inc
+    - name: Guiding Technologies Corporation
+    - name: Radial Analytics, Inc.
 
 - topic: Other Topics (OT)
   permalink: /topics/other/

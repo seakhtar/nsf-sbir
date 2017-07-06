@@ -10,6 +10,8 @@
   </ul>
 </section>
 
+{% assign max_companies_shown = site['topics_api']['max_companies_shown'] %}
+
 {% for topic in site.data.tech-topics %}
   <section id="{{ topic.topic | slugify }}" class="usa-section section-tech-topic">
     <h2 class="text-medium header-top-bar tech-topic-title">{{ topic.topic }}</h2>
@@ -26,7 +28,7 @@
             </a>
           </li>
           <li>
-            <a href="{{ site.baseurl }}/contact/bios#{{ programDirector.name }}">
+            <a href="{{ site.baseurl }}/contact/bios/#{{ programDirector.name }}">
               View bio
             </a>
           </li>
@@ -36,16 +38,14 @@
     <div class="usa-width-three-fourths">
       {% if topic.companies %}
         <h3 class="subhead">Featured companies</h3>
-        <ul class="flex-list flex-list-3-col featured-companies">
-          {% for company in topic.companies %}
-            {% for topic in site.data.topics %}
-              {% if topic['awardeeName'] == company %}
-                <li>
-                  {% assign company_slug = company | slugify %}
-                  <a href="{{ site.baseurl }}/portfolio/details/?company={{ company_slug }}#{{ company_slug }}">{{ company }}</a>
-                </li>
-                {% break %}
-              {% endif %}
+        <ul class="flex-list flex-list-3-col featured-companies shuffled-list">
+          {% assign iterator = 0 %}
+          {% assign shuffled_companies = topic.companies | shuffle %}
+          {% for company in shuffled_companies %}
+            {% if iterator == max_companies_shown %}{% break %}{% endif %}
+            {% for t in site.data.topics %}
+              {% assign awardee_name = t['awardeeName'] %}
+              {% include company.html company=company awardee_name=awardee_name iterator='true' %}
             {% endfor %}
           {% endfor %}
         </ul>

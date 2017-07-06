@@ -1,10 +1,12 @@
-<ul class="flex-list flex-list-4-col featured-companies">
-{% for company in site.data.featured-companies %}
+{% assign max_companies_shown_limit = site['topics_api']['max_companies_shown'] | plus: 1 %}
+
+<ul class="flex-list flex-list-4-col featured-companies shuffled-list">
+
+{% assign shuffled_featured_companies = site.data.featured-companies | shuffle %}
+{% for company in shuffled_featured_companies limit: max_companies_shown_limit %}
   {% for topic in site.data.topics %}
-    {% if topic['awardeeName'] == company %}
-      <li><a href="{{ site.baseurl }}/portfolio/details/?company={{ company | slugify }}#{{ company | slugify }}">{{ company }}</a></li>
-      {% break %}
-    {% endif %}
+    {% assign awardee_name = topic['awardeeName'] %}
+    {% include company.html company=company awardee_name=awardee_name %}
   {% endfor %}
 {% endfor %}
 </ul>

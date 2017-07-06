@@ -4,19 +4,25 @@ require 'yaml'
 module SiteData
   class AwardsApi
 
+    def standardize(str)
+      return unless str.class == String
+      str.downcase.gsub(/[^a-z ^0-9]/, "")
+    end
+
     def only_matching_awardees(new_awards, awardeeName)
       new_awards.select do |a|
-        a['awardeeName'] =~ /#{awardeeName}(.*)/
+        standardize(a['awardeeName']) =~ /#{standardize(awardeeName)}(.*)/
       end
     end
 
     def get(params)
+      allow_recent = params['allow_recent'] if params['allow_recent']
       expDateStart = params['exp_date_start'] if params['exp_date_start']
-      expDateEnd = params['exp_date_end'] if params['exp_date_end']
+      expDateEnd = params['exp_date_end'] if params['exp_date_end'] && !allow_recent
       printFields = params['printFields']
       awardeeName = params['awardeeName'] if params['awardeeName']
       dateStart = params['date_start'] if params['date_start']
-      dateEnd = params['date_end'] if params['date_end']
+      dateEnd = params['date_end'] if params['date_end'] && !allow_recent
       fundProgramName = params['fundProgramName'] if params['fundProgramName']
       offset = 1
       successful_connection = true
@@ -39,8 +45,9 @@ module SiteData
         params[:dateEnd] = dateEnd if dateEnd
         params[:expDateStart] = expDateStart if expDateStart
         params[:expDateEnd] = expDateEnd if expDateEnd
-        params[:awardeeName] = awardeeName if awardeeName
+        params[:awardeeName] = standardize(awardeeName) if awardeeName
         params[:fundProgramName] = fundProgramName if fundProgramName
+
         uri.query = URI.encode_www_form(params)
         res = Net::HTTP.get_response(uri)
         new_awards = JSON.parse(res.body)['response']['award']
@@ -51,7 +58,6 @@ module SiteData
           puts awardeeName.red unless matching_awards.any?
           puts "matching records: #{matching_awards.size}".red unless matching_awards.any?
           `echo "#{awardeeName}" >> #{Dir.pwd}/_data/problem_companies.yml` unless matching_awards.any?
-
           awards_present = res.is_a?(Net::HTTPSuccess) && matching_awards.size == 25
         else
           matching_awards = new_awards

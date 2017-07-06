@@ -6,6 +6,9 @@ layout: secondary
 section_image: "/assets/img/bg/bolt.png"
 section_image_caption: |
   From lab to market - [Bolt Threads](#) genetically engineered yeast brew silk proteins that can be spun into fibers.
+scripts:
+- src: /assets/js/shuffle.js
+  async: true
 ---
 
 {% assign recent_date = site.data.awards_meta['recent_date'] | date: "%m/%Y" | default: 'DATE' %}

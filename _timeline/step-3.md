@@ -1,22 +1,6 @@
 ---
-title: Register your company
-description: You'll need to register your company with four different systems.
+title: Get pre-submission feedback (optional)
 ---
-### [Dun and Bradstreet (DUNS number)](#)
-**Processing time:** Up to five business days
-
-A DUNS number is a unique, nine-digit number that identifies each physical location of your company. You’ll need one in order to receive government funding. Because you’re applying for a DUNS number for government funding, processing time should take about five business days.
-
-### [FastLane (NSF’s electronic submission system)](#)
-**Processing time:** Up to 48 hours
-
-Before applying, you need to register your principal investigator and company in FastLane. Within 48 hours, you’ll get a confirmation email with login instructions. We recommend you explore FastLane before submitting your application.
+You can send an executive summary to one of our program directors to discuss your work and get feedback. Complete our short [executive summary form](https://goo.gl/forms/49AdC0Nqj8tPegV13) — a program director will get back to you shortly.
 
 
-### [System for Award Management (SAM)](#)
-**Processing time:** Up to three weeks
-
-Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information.
-
-### [SBIR Company Registry](#)
-Finally, you need to register with the SBIR Company Registry (operated by the Small Business Administration). Post-registration, you’ll receive a Business Concern Control ID (SBC ID), which you’ll need to include in your FastLane application.
