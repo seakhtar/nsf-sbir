@@ -19,12 +19,13 @@
     border: 0;
     border-bottom: 2px solid $color-primary;
     &:hover {
-      // background-color: $color-white-transprent;
       border-color: $color-primary-alt;
     }
-    &:focus {
-      box-shadow: none;
-    }
+    &:focus,
+    &:active {
+      box-shadow: 0 0 1px 0 $color-base;
+      background-color: $color-secondary-lightest;
+      }
     &[aria-expanded='false'] {
       background-image: url('../img/arrow-down-thick.svg');
      }

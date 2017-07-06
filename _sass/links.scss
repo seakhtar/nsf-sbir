@@ -1,5 +1,10 @@
 a { cursor: pointer; }
 
+@mixin focus-icon-linkstyle(){
+    box-shadow: 0 0 1px 0 $color-gray-medium-warm;
+    background-color: $color-secondary-lightest;
+}
+
 #main-content {
   a {
 
@@ -7,30 +12,50 @@ a { cursor: pointer; }
       background: url('../img/links/email.svg') right center no-repeat;
       background-size: 16px auto;
       padding-right: 20px;
+      &:focus,
+      &:active {
+        @include focus-icon-linkstyle;
+      }
     }
 
     &[href *='.doc']:not(.usa-button) {
       background: url('../img/links/file-word.svg') right center no-repeat;
       background-size: 16px auto;
       padding-right: 20px;
+      &:focus,
+      &:active {
+        @include focus-icon-linkstyle;
+      }
     }
 
     &[href $='.pdf']:not(.usa-button) {
       background: url('../img/links/file-acrobat.svg') right center no-repeat;
       background-size: 16px auto;
       padding-right: 20px;
+      &:focus,
+      &:active {
+        @include focus-icon-linkstyle;
+      }
     }
 
     &[href $='.ppt']:not(.usa-button) {
       background: url('../img/links/file-powerpoint.svg') right center no-repeat;
       background-size: 16px auto;
       padding-right: 20px;
+      &:focus,
+      &:active {
+        @include focus-icon-linkstyle;
+      }
     }
 
     &[href *='.xls']:not(.usa-button) {
       background: url('../img/links/file-excel.svg') right center no-repeat;
       background-size: 16px auto;
       padding-right: 20px;
+      &:focus,
+      &:active {
+        @include focus-icon-linkstyle;
+      }
     }
 
     &[href*='.com'],
@@ -41,8 +66,28 @@ a { cursor: pointer; }
       background: url('../img/links/external-link.svg') right center no-repeat;
       background-size: 16px auto;
       padding-right: 18px;
+      &:focus,
+      &:active {
+        @include focus-icon-linkstyle;
+      }
     }
 }
+
+.usa-sidenav-list {
+  a {
+    &[href*='.com'],
+    &[href*='.org'],
+    &[href*='.net'],
+    &[href*='.co'],
+    &.external-link {
+      &:focus,
+      &:active {
+        background-color: $color-primary-alt-lightest;
+      }
+    }
+  }
+}
+
 
   .background-gray-dark {
     a {
