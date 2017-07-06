@@ -18,6 +18,13 @@ primary:
     href: /showcase/
   - text: Resources
     href: /resources/
+      - text: For Applicants
+        href: /two/a/
+      - text: For Awardees
+        href: /two/b/
+      - text: For Reviewers
+        href: /two/c/
+    
   - text: Events
     href: /events/
   - text: Contact
