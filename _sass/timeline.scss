@@ -156,6 +156,7 @@ $timeline-right-padding: 5rem;
       }
       &[aria-expanded='false'] {
         background-image: url('../img/arrow-down.svg');
+        position: relative;
       }
     }
     // inactive step button
