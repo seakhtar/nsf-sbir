@@ -62,6 +62,7 @@ a { cursor: pointer; }
     &[href*='.org'],
     &[href*='.net'],
     &[href*='.co'],
+    &[href*='.tech'],
     &.external-link {
       background: url('../img/links/external-link.svg') right center no-repeat;
       background-size: 16px auto;
@@ -79,6 +80,7 @@ a { cursor: pointer; }
     &[href*='.org'],
     &[href*='.net'],
     &[href*='.co'],
+    &[href*='.tech'],
     &.external-link {
       &:focus,
       &:active {
