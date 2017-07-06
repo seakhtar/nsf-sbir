@@ -17,7 +17,8 @@ primary:
   - text: Showcase
     href: /showcase/
   - text: Resources
-    href: /resources/
+   text: Navigation section
+    links:
       - text: For Applicants
         href: /two/a/
       - text: For Awardees
