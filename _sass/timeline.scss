@@ -137,9 +137,15 @@ $timeline-right-padding: 5rem;
         top: 2.2rem;
         width: 35px;
       }
-
-      &:focus {
-        box-shadow: none;
+      &:focus,
+      &:active {
+        box-shadow: 0 0 1px 0 $color-base;
+        background-color: $color-secondary-lightest;
+      }
+      &:focus::before,
+      &:active::before {
+        background-color: $color-white;
+        border: 3px solid $color-white;
       }
       &[aria-expanded='true'] {
         position: sticky;
