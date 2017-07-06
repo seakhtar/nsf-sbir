@@ -6,6 +6,10 @@
   href: /assets/img/favicon/favicon.png
 - rel: icon
   type: image/png
+  sizes: 128x128
+  href: /assets/img/favicon/favicon-128.png
+- rel: icon
+  type: image/png
   sizes: 192x192
   href: /assets/img/favicon/favicon-192.png
 - rel: apple-touch-icon-precomposed
