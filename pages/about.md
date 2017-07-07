@@ -22,7 +22,7 @@ For 40 years, America’s Seed Fund powered by NSF has helped startups and small
 
 <div class="usa-content usa-grid">
 <div class="usa-width-one-whole" markdown="1">
-<strong>When you join our innovators:<strong>
+<p>When you join our innovators:</p>
 </div>
 </div>
 
@@ -48,7 +48,7 @@ You'll work with a program director, who will serve as your mentor and advocate.
 <section class="background-light-blue">
 <div class="usa-section usa-content usa-grid" markdown="1">
 <div class="usa-width-one-third" markdown="1">
-### Funding for R&D with founder-friendly terms
+## Funding for R&D with founder-friendly terms
 </div>
 
 <div class="usa-width-two-thirds" markdown="1">
@@ -102,14 +102,14 @@ For more program information, check out our last solicitation. Our next solicita
 <section class="background-light-neutral">
 <div class="usa-section usa-content usa-grid" >
 <div class="usa-width-one-half" markdown="1">
-#### We support small companies and new entrepreneurs
+### We support small companies and new entrepreneurs
 
 We work with startups and small businesses, and we welcome proposals from newly formed companies — you don’t need a track record of commercialization to apply for funding. Please note that your company needs to be a legal entity before you apply.
 
 If your company is majority owned by venture capital operating companies, hedge funds, or private-equity firms, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](https://www.sbir.gov/faqs/eligibility-requirements).
 </div>
 <div class="usa-width-one-half" markdown="1">
-#### We support R&D with lots of technical risk
+### We support R&D with lots of technical risk
 
 Our seed funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
 
