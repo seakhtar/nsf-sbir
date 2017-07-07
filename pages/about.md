@@ -12,7 +12,7 @@ section_image_caption: |
 
 # About
 
-For 40 years, America’s Seed Fund powered by NSF has helped startups and small businesses transform their ideas into marketable products and services. We focus on high-risk, high-impact technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country. We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).
+For 40 years, America’s Seed Fund powered by NSF has helped startups and small businesses transform their ideas into marketable products and services. We focus on high-risk, high-impact technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country. Our goals are to foster innovation and help create businesses and jobs for Americans, and companies seed funded by our program have since [gone on to tremendous success]({{ '/portfolio/' | relative_url }}). We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR). 
 
 </div>
 </div>
@@ -31,10 +31,10 @@ For 40 years, America’s Seed Fund powered by NSF has helped startups and small
 You will receive the funding you need as a startup or small business to commercialize technically risky ideas.
 </div>
 <div class="usa-width-one-third" markdown="1">
-You will retain full control of your team, direction of your work, and the resultant intellectual property. We take no equity in exchange for funding.
+You'll retain full control of your team, your technical vision and business strategy, and the resulting intellectual property. We take no equity in exchange for funding.
 </div>
 <div class="usa-width-one-third" markdown="1">
-You will get access to a program director, who will serve as your mentor, and a network of technology innovators and founders.
+You'll work with a program director, who will serve as your mentor and advocate. You'll also become part of the largest group of technology startups and small businesses in the country.
 </div>
 </div>
 </section>
@@ -53,7 +53,11 @@ You will get access to a program director, who will serve as your mentor, and a 
 
 <div class="usa-width-two-thirds" markdown="1">
 
-- **Up to $1.5M / 24+ months.** Receive up to $225,000 in seed capital to conduct product Research and Development (R&D) over six to 12 months. During this period, your company will be immersed in the NSF network and you'll receive training and mentorship in key business areas. A second-round investment of $750,000 over 24 months may be available. NSF may also match 50 cents on every $1 of qualifying revenue or third-party investment, up to another $500,000.
+- **Up to $1.5M / 24+ months.** Receive up to $225,000 in seed capital to conduct product Research and Development (R&D) over six to 12 months. During this period, your company will be immersed in the NSF network and you'll receive training and mentorship from seasoned entrepreneurs and innovators. After you complete your Phase I award, you're welcome to apply for a second-round investment of $750,000 over 24 months. During the course of that award, you can apply for supplements that may add up to another $500,000.
+
+- **Feedback from experts**: Every proposal is evaluated by a group of technical and commercial experts, who provide detailed feedback to all reviewed applications; even companies that don't receive awards get valuable, actionable feedback. 
+
+- **NSF's stamp of approval**: An NSF award is more than just funding. Being selected out of thousands of applicants signals that your technology and expertise have strong technical and commercial merit.
 
 - **0% equity**: You retain full ownership over your company and intellectual property. And because our awards aren’t loans, there’s nothing to pay back.
 
@@ -61,11 +65,10 @@ You will get access to a program director, who will serve as your mentor, and a 
 
 - **Minimal standard reporting**: We provide templates for reporting monthly progress and financials. No need to waste time crafting decks and building spreadsheets — we help you focus on building your product or service instead.
 
-- **Virtual consults with program advisors**: We promote startups in all locations, not just tech hubs. You don’t need to relocate to gain access to our funding or mentors.
+- **Virtual mentorship from program advisors**: Our program directors, who have deep technical expertise and entrepreneurial experience, have been in your shoes — they can offer guidance and advice through the award process. And we promote startups in all locations, not just tech hubs. You don’t need to relocate to gain access to our funding or mentorship.
 
-- **Less restricted spending**: You can use your funding on employees’ salaries and wages, fringe benefits, materials and supplies, and other R&D costs (though intellectual property, marketing and business development costs aren’t covered).
+- **Freedom to operate**: We're not interested in driving the direction of your company; in fact, our goal is to align your vision with our funding. You can use your funding on employees’ salaries and wages, fringe benefits, materials and supplies, and other R&D costs (though intellectual property, marketing and business development costs aren’t covered).
 
-- **Possible follow-on funding**: Companies that complete Phase I may be eligible for more funding. If you’ve shown that your technology is feasible and needs more development, you can apply to receive an additional $750,000 over two years. And, depending on your circumstances, you could be eligible to apply for up to $500,000 in supplemental funding.
 </div>
 </div>
 </section>
@@ -81,9 +84,9 @@ If you’re awarded Phase I funding, you’ll be expected to:
 - Determine your technology’s feasibility
 - Design and test prototypes
 - Identify any relevant legal or regulatory issues
-- Develop a plan to scale your technology
+- Develop a plan to scale and market your technology
 
-Applicants often ask whether they can update their research plan during the course of a project, and the answer is yes — with a few stipulations. While it’s OK for you to update your business model or R&D strategy a bit (this is bound to happen), you can’t entirely shift the focus of your work.
+Applicants often ask whether they can update their research plan during the course of a project, and the answer is yes — with a few stipulations. While it’s OK for you to update your business model or R&D strategy a bit (this is bound to happen), you can’t entirely shift the focus of your work unless you have evidence demonstrating why it makes sense.
 
 If your technology needs more development — and if you’ve met all the Phase I requirements — you can apply for more funding. Phase II awardees receive up to $750,000 over two years.
 
@@ -92,7 +95,7 @@ Phase II awardees can apply for Phase IIB funding to speed up commercialization.
 {% if site.app_process == "active" %}
 For complete program information, check out the latest [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}) or [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}).
 {% else %}
-For more program information, check out our last solicitation. Our next solicitation will be posted in {{ site.deadline }}.
+For more program information, check out our last solicitation. Our next solicitation will be posted in {{ site.solicitation_released }}.
 {% endif %}
 </div>
 </section>
@@ -103,14 +106,14 @@ For more program information, check out our last solicitation. Our next solicita
 
 We work with startups and small businesses, and we welcome proposals from newly formed companies — you don’t need a track record of commercialization to apply for funding. Please note that your company needs to be a legal entity before you apply.
 
-If your company is majority owned by a venture capital operating company, hedge fund, or private-equity firm, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](https://www.sbir.gov/faqs/eligibility-requirements).
+If your company is majority owned by venture capital operating companies, hedge funds, or private-equity firms, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](https://www.sbir.gov/faqs/eligibility-requirements).
 </div>
 <div class="usa-width-one-half" markdown="1">
 ### We support R&D with lots of technical risk
 
 Our seed funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
 
-In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial outcomes. We don’t fund work that simply improves existing products. Check out our [portfolio]({{ '/portfolio/' | relative_url }}) to get a sense of our founders’ work.
+In selected cases, we support innovations to existing products and services, but these innovations must dramatically change the products’ commercial prospects. We don’t fund work that simply improves existing products. Check out our [portfolio]({{ '/portfolio/' | relative_url }}) to get a sense of our founders’ work.
 
 </div>
 </div>
