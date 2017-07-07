@@ -1,7 +1,7 @@
 ---
 title: For applicants
 layout: secondary-narrow
-permalink: /resources/for-applicants/ 
+permalink: /resources/applicants/ 
 ---
 
 # For Applicants
