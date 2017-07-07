@@ -1,7 +1,5 @@
 {% if hero %}
-  <section class="usa-hero" {% if hero.image %} style="background-image: url('{{ hero.image | relative_url }}')" {% endif %}>
-    <div class="hero-treatment">
-      {% include header.html %}
+  <section class="usa-hero">
       <div class="usa-grid">
         <div class="usa-width-two-thirds">
           {% if hero.callout %}
@@ -44,6 +42,5 @@
           </div>
         </div>
       {% endif %}
-    </div>
   </section>
 {% endif %}
