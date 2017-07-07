@@ -12,7 +12,7 @@ hero:
     href: /apply/
     text: "Learn how to apply"
     subtext: "Deadline: {{site.deadline}}"
-  caption: Sigray's revolutionary laboratory x-ray research equipment features patented innovations to deliver synchrotron performance. Pictured here is a microscopic image of the chemical elements within a hyperaccumulating seedling.
+  caption: A microscopic image of the metals in a plant seedling being studied for its ability to clean contaminated environments. Photo courtesy of [Sigray](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1556020), a small business revolutionizing x-ray research equipment through its patented innovations on x-ray source and optic technology.
 ---
 
 <section class="usa-section usa-content section-intro background-light-neutral">
