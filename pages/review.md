@@ -1,6 +1,6 @@
 ---
 title: For reviewers
-permalink: /review/
+permalink: /resources/review/
 layout: secondary-narrow
 sidenav: review
 ---
