@@ -8,12 +8,16 @@
   .usa-accordion-button {
     color: $color-base;
     font-family: $font-mono;
-    font-size: $font-size-xxs;
+    font-size: $font-size-xxxs;
     font-weight: 400;
+    text-transform: uppercase;
+    min-width: auto;
+    border: 0;
 
     &:hover {
       color: $color-base;
       background-color: $color-secondary;
+      border: 0;
 
       span {
         border: 0;
