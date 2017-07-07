@@ -19,7 +19,7 @@ primary:
   - text: Resources
     links:
       - text: For Applicants
-        href: /resources/for-applicants/
+        href: /resources/applicants/
       - text: For Awardees
         href: /awardees/awardees/
       - text: For Reviewers
