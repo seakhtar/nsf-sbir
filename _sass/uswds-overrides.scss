@@ -48,13 +48,29 @@ ol {
   img {
     height: 40px;
     max-width: none;
+    padding: 4px 2px 0 2px;
   }
 
   a {
     display: block;
 
+
     &:hover {
       border-bottom-style: none;
+    }
+    &:active,
+    &:focus {
+      box-shadow: 0 0 1px 0 $color-gray-medium-warm;
+      background-color: transparent;
+    }
+  }
+}
+
+.landing-layout {
+  .usa-logo {
+    a:active,
+    a:focus {
+      box-shadow: 0 0 0 1px $color-secondary-lightest;
     }
   }
 }
@@ -108,15 +124,11 @@ button:visited,
     color: $color-black;
   }
   &.usa-button-active,
-  &:active {
-    background-color: $color-primary-alt;
-  }
-
-  &.usa-button-active,
   &:active,
   &.usa-button-focus,
   &:focus {
     box-shadow: none;
+    background-color: $color-secondary-lightest;
   }
 
 
@@ -133,6 +145,8 @@ button:visited,
     font-size: 1.4rem;
     font-weight: normal;
     line-height: 1.2;
+    padding-left: $space-m;
+    padding-right: $space-m + $space-xs;
   }
 }
 
@@ -153,7 +167,6 @@ button:visited,
 }
 
 .button-arrow {
-
 
   &::before {
     content: '\2192';

@@ -22,17 +22,16 @@
       &:hover {
         background-color: $color-white-transprent;
       }
-
-      &:active,
-      &:focus {
-        box-shadow: none;
-      }
-
       &:visited {
         background-color: $color-white-transprent;
         border-bottom: 1px solid $color-base;
       }
-
+      &:active,
+      &:focus {
+        // box-shadow: 0 0 1px 0 $color-base;
+        box-shadow: none;
+        background-color: $color-primary-alt-lightest;
+      }
     }
 
   }
