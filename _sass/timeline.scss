@@ -91,6 +91,17 @@ $timeline-right-padding: 5rem;
         border-color: $color-gray-lightest;
         color: $color-gray-light;
       }
+      .step-label-expired {
+        font-family: $font-mono;
+        font-size: $font-size-xxxs;
+        font-weight: 400;
+        color: $color-gray-medium-warm;
+        text-transform: uppercase;
+        letter-spacing: $kern-looser;
+        background-color: $color-secondary-lightest;
+        padding: 1px 4px;
+        margin-left: $space-xxs;
+      }
     }
 
     // setup accordion arrow
@@ -99,6 +110,7 @@ $timeline-right-padding: 5rem;
       background-image: url('../img/arrow-up.svg');
       background-position: right 2.25rem top 2.9rem;
       border: 0;
+      border-left: 3px solid transparent;
       font-family: $font-serif;
       font-size: $font-size-s;
       font-weight: 600;
@@ -119,16 +131,23 @@ $timeline-right-padding: 5rem;
         font-family: $font-serif;
         font-weight: 600;
         height: 35px;
-        left: 1rem;
+        left: 14px;
         line-height: 2.7rem;
         position: absolute;
         text-align: center;
         top: 2.2rem;
         width: 35px;
       }
-
-      &:focus {
+      &:focus,
+      &:active {
+        border-left-color: $color-primary-darkest;
         box-shadow: none;
+      }
+      &:focus::before,
+      &:active::before {
+        // background-color: $color-secondary-darkest;
+        // border: 3px solid $color-secondary-darkest;
+        // left: 8px;
       }
       &[aria-expanded='true'] {
         position: sticky;
@@ -137,13 +156,16 @@ $timeline-right-padding: 5rem;
       }
       &[aria-expanded='false'] {
         background-image: url('../img/arrow-down.svg');
+        position: relative;
       }
     }
     // inactive step button
     button[disabled] {
     background-color: $color-white;
     background-image: none;
-    color: $color-gray-light;
+    // color: $color-gray-light;
+    color: $color-gray-medium-warm;
+    font-weight: 500;
     }
   }
 

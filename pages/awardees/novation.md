@@ -5,7 +5,7 @@ layout: secondary-narrow
 sidenav: awardees
 ---
 
-## Changes to your organization
+# Changes to your organization
 
 During your award term, your organization may undergo changes. Please report any of the following to your program diretor:
 

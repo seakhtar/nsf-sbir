@@ -30,6 +30,12 @@
     a {
       color: $color-secondary;
       border-bottom-color: $color-secondary;
+      &:focus,
+      &:active {
+        box-shadow: 0 0 3px 1px $color-secondary;
+        // border-color: transparent;
+        background-color: transparent;
+      }
     }
 
   }

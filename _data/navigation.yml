@@ -17,7 +17,14 @@ primary:
   - text: Showcase
     href: /showcase/
   - text: Resources
-    href: /resources/
+    links:
+      - text: For Applicants
+        href: /resources/applicants/
+      - text: For Awardees
+        href: /resources/awardees/
+      - text: For Reviewers
+        href: /resources/review/
+    
   - text: Events
     href: /events/
   - text: Contact
@@ -102,5 +109,5 @@ subfooter:
     href: https://www.nsf.gov/about/
   - text: Inspector General
     href: https://www.nsf.gov/oig/
-  - text: Press
+  - text: For Press
     href: /press/
