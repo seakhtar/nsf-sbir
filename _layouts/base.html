@@ -6,14 +6,17 @@
     {% include meta.html %}
     {% include styles.html %}
   </head>
-  <body class="{{ layout.class }} page-{{ page.title | slugify }} {{ page.class }} {% if page.section_image %} page-background {% endif%}" {% if page.section_image %} style="background-image: url( {{site.baseurl}}{{ page.section_image }} );" {% endif %} >
-
+  <body class="{{ layout.class }} page-{{ page.title | slugify }} {{ page.class }} {% if page.section_image %} page-background {% endif%} {% if page.hero.image %} page-background {% endif%}"
+{% if page.section_image %} style="background-image: url( {{site.baseurl}}{{ page.section_image }} );" {% endif %}
+{% if page.hero.image %} style="background-image: url( {{site.baseurl}}{{ page.hero.image }} );" {% endif %}
+   >
+   {% if page.layout == 'landing' %}
+   <div class="hero-treatment">
+   {% else %}
+   {% endif %}
     {% include skipnav.html %}
     {% include banner.html %}
-    {% if page.layout == 'landing' %}
-    {% else %}
-      {% include header.html %}
-    {% endif %}
+    {% include header.html %}
 
     <main id="main-content"{% for _attr in layout.main %} {{ _attr[0] }}="{{ _attr[1] }}"{% endfor %}>
     {{ content }}
@@ -21,5 +24,9 @@
 
     {% include footer.html %}
     {% include scripts.html %}
+    {% if page.layout == 'landing' %}
+  </div>
+    {% else %}
+    {% endif %}
   </body>
 </html>
