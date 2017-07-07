@@ -19,11 +19,11 @@ primary:
   - text: Resources
     links:
       - text: For Applicants
-        href: /two/a/
+        href: /resources/applicants/
       - text: For Awardees
-        href: /two/b/
+        href: /resources/awardees/
       - text: For Reviewers
-        href: /two/c/
+        href: /resources/review/
     
   - text: Events
     href: /events/
