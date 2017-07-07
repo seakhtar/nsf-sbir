@@ -3,15 +3,17 @@ title: Apply
 permalink: /apply/
 layout: secondary-narrow
 timeline:
-  - title: 90 days before<br> the deadline
+  - title: anytime before<br> the deadline
     description: Call for proposals (solicitation) released.
     steps:
       - step-1
       - step-2
+      - step-3
+  - title: 90 days before<br> the deadline
+    steps:
+      - step-4
   - title: 60 days before<br> the deadline
     steps:
-      - step-3
-      - step-4
       - step-5
       - step-6
   - title: "Deadline<br> {{ site.deadline }}"
