@@ -1,14 +1,13 @@
 ---
-title: For Awardees
-permalink: /awardees/awardees/
+title: For awardees
+permalink: /resources/awardees/
 layout: secondary-narrow
 sidenav: awardees
 ---
-# Awardees
+# For awardees
 
-This page has all the forms you need to  manage your Phase I or Phase II award, along with the information you need to apply for Phase II funding.
+This page has all the forms you need to manage your Phase I or Phase II award, information you need to apply for Phase II funding, and other useful resources.
 
-Current awardees and alumni, learn how you can [help spread the word about the NSF SBIR/STTR program]({{ site.baseurl }}/awardees/ambassador/).
 
 ## Phase I
 
@@ -32,7 +31,6 @@ Information for current Phase II awardees
 ### Phase II Awardee Map
 <iframe style="border:1px solid #000" width="100%" height="350" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col4+from+1T6tFw0G4Se29ehGIr7Us5Q3fZZveXKGGu4X8R6E&amp;viz=MAP&amp;h=false&amp;lat=39.09114204708225&amp;lng=-95.49757689882813&amp;t=1&amp;z=3.5&amp;l=col4&amp;y=2&amp;tmplt=2&amp;hml=GEOCODABLE"></iframe>
 
-
 ## General awardee information
 
 Useful information for Phase I and Phase II awardees
@@ -42,6 +40,14 @@ Useful information for Phase I and Phase II awardees
 - [Time extension (no-cost extension)]({{ site.baseurl }}/awardees/nce/)
 - [Changes at your organization]({{ site.baseurl }}/awardees/novation/)
 - [Change of PI (principal investigator)]({{ site.baseurl }}/awardees/pi_change/)
+
+### Spreading the word
+
+As an awardee or alum, you’re the face of our program, and we hope you’ll share news of your successes for years to come. Our [Ambassadors page]({{ site.baseurl }}/awardees/ambassador/) offers tips for doing just that.
+
+### Research experiences
+
+Are you a teacher or student who is interested in research experiences and partnerships with Phase II awardees? Visit our [Research Experiences page]({{ site.baseurl }}/awardees/researchexp/) to learn more about how you can partner with funded Phase II companies.
 
 ## About the National Science Foundation's Small Business Programs
 
