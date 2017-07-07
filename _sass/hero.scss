@@ -8,8 +8,7 @@
   padding-bottom: 0;
   padding-top: $space-xl;
 
-  h2 {
-    // color: $color-base;
+  .large-header {
     color: $color-secondary;
     font-size: $font-size-xxl - $font-size-xs;
     font-weight: 800;
@@ -55,7 +54,7 @@
     margin-top: 0;
 
     &.usa-button-big {
-      padding: $space-s $space-m+$space-xxs $space-s $space-m;
+      padding: $space-s $space-m+$space-s $space-s $space-m+$space-xs;
       margin-bottom: $space-xl;
     }
 

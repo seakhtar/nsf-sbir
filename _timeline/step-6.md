@@ -2,7 +2,7 @@
 title: Start your application
 becomes_inactive: true
 description: Once you've reviewed the solicitation, start preparing your Phase I application in FastLane.
-inactive_description: We're not currently accepting proposal applications. Our next solicitation will be released in {{ site.deadline }}.
+inactive_description: We're not currently accepting proposal applications. Our next solicitation will be released in {{ site.solicitation_released }}.
 ---
  
 ### [Start your application in FastLane](#)

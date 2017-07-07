@@ -3,12 +3,12 @@
       <div class="usa-grid">
         <div class="usa-width-two-thirds">
           {% if hero.callout %}
-            <h2 class="large-header">
+            <h1 class="large-header">
               {% if hero.callout.alt %}
                 <span class="usa-hero-callout-alt">{{ hero.callout.alt }}</span>
               {% endif %}
               {{ hero.callout.text | default: hero.callout }}
-            </h2>
+            </h1>
             {% if hero.callout.subtext %}
               <p class="usa-hero-callout-subtext">{{ hero.callout.subtext }}</p>
             {% endif %}
