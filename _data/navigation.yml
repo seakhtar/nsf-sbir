@@ -21,9 +21,9 @@ primary:
       - text: For Applicants
         href: /resources/applicants/
       - text: For Awardees
-        href: /awardees/awardees/
+        href: /resources/awardees/
       - text: For Reviewers
-        href: /review/
+        href: /resources/review/
     
   - text: Events
     href: /events/
