@@ -13,9 +13,9 @@ We want to contribute to your ongoing success. Help us help you by following us 
 
 We'd also love it if you'd share your America's Seed Fund story via social or on your website. Our [Ambassador Tool Kit]({{ site.baseurl }}/assets/files/awardee-files/NSF_SBIR_Ambassador_Toolkit.pdf) offers tips and tricks for sharing your funding story.
 
-# America's Seed Fund (SBIR/STTR) on Twitter
+## America's Seed Fund (SBIR/STTR) on Twitter
 
-## Twitter
+### Twitter
 Help spread the word about your funding one tweet at a time! You can help spread the word about NSF SBIR with the click of a button. Share your story and tag @NSFSBIR or use the hashtag #NSFFunded. You can also [check out our Twitter account](https://twitter.com/NSFSBIR) and retweet anything you would like!
 Here are some sample tweets you can use too:
 
