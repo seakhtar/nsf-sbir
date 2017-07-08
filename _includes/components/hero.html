@@ -1,16 +1,14 @@
 {% if hero %}
-  <section class="usa-hero" {% if hero.image %} style="background-image: url('{{ hero.image | relative_url }}')" {% endif %}>
-    <div class="hero-treatment">
-      {% include header.html %}
+  <section class="usa-hero">
       <div class="usa-grid">
         <div class="usa-width-two-thirds">
           {% if hero.callout %}
-            <h2 class="large-header">
+            <h1 class="large-header">
               {% if hero.callout.alt %}
                 <span class="usa-hero-callout-alt">{{ hero.callout.alt }}</span>
               {% endif %}
               {{ hero.callout.text | default: hero.callout }}
-            </h2>
+            </h1>
             {% if hero.callout.subtext %}
               <p class="usa-hero-callout-subtext">{{ hero.callout.subtext }}</p>
             {% endif %}
@@ -39,11 +37,10 @@
                   {{ hero.caption | liquify }}
                 </p>
               </div>
-              <button class="usa-accordion-button" aria-expanded="false" aria-controls="amendment-1">?</button>
+              <button class="usa-accordion-button" aria-expanded="false" aria-controls="amendment-1">Photo credit</button>
             </div>
           </div>
         </div>
       {% endif %}
-    </div>
   </section>
 {% endif %}

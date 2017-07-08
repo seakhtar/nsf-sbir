@@ -5,6 +5,8 @@ layout: secondary-narrow
 sidenav: awardees
 ---
 
+# Definitions
+
 ## Commercialization
 The process of developing markets and producing and delivering products or services for sale (whether by the originating party or by others). We use the term to include government and non-government markets.
 
@@ -108,4 +110,3 @@ This definition does not include owners of the small business, their family memb
 
 ## Women-owned small business
 A small business concern that is at least 51 percent owned by a woman or women. In the case of any publicly owned business, it must have at least 51 percent of its stock owned by women, who also control and operate it. In this context, _control_ means exercising the power to make policy decisions. _Operate_ means being actively involved in the day-to-day management.
-

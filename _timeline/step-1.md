@@ -17,6 +17,8 @@ Check out our [portfolio]({{ '/portfolio/' | relative_url }}) to see what compan
 
 ### Technology topic areas
 
-Review this list of technology topic areas (sectors we fund) to see which best aligns with your company's work. If none of the technology topic areas quite reflects your work, but you feel your company is otherwise a good fit, you can apply under the Other Topics (OT) category. 
+Review this list of technology topic areas (sectors we fund) to see which best aligns with your company's work. If none of the technology topic areas quite reflects your work, but you feel your company is otherwise a good fit, you can apply under the Other Topics (OT) category.
 
 {% include tech-topics-list.html %}
+
+[Download a searchable PDF of the full list of technology topic areas]({{ site.baseurl}}/assets/files/applicants/Combined.pdf) that also includes descriptions of the subtopics.

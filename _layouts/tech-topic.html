@@ -17,14 +17,14 @@ class: tech-topic-layout
 <section class="background-light-blue">
   <div class="usa-section usa-content usa-grid">
     <div class="usa-width-one-third">
-      <h3 class="subhead">Program director</h3>
+      <h2 class="subhead">Program director</h2>
       {% for programDirector in topic.programDirector %}
       {% if programDirector.photo %}
         <img src="{{ site.baseurl }}/assets/img/pd/{{ programDirector.photo }}" class="program-dir-img" alt="{{ programDirector.name | default: 'program director' }} headshot">
       {% endif %}
-        <h4 class="text-medium">
+        <h3 class="text-medium">
           {{ programDirector.name }}
-        </h4>
+        </h3>
         <ul>
           <li>
             <a href="mailto:{{ programDirector.email }}">Send email</a>

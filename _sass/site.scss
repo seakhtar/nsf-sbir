@@ -78,10 +78,10 @@
   }
 }
 
-  a {
-    border-bottom: 1px dotted $color-primary;
-    color: $color-primary;
-    text-decoration: none;
+a {
+  border-bottom: 1px dotted $color-primary;
+  color: $color-primary;
+  text-decoration: none;
 
   &:hover {
     border-bottom-style: solid;
@@ -91,9 +91,12 @@
   &:visited {
     color: $color-visited;
   }
-
-  &:active,
-  &:focus {
+  &:focus,
+  &:active {
     box-shadow: none;
+    box-shadow: 0 0 1px 0 $color-gray-medium-warm;
+    border-color: transparent;
+    background-color: $color-secondary-lightest;
   }
+
 }
