@@ -48,11 +48,11 @@ Helpful information for applicants and awardees on upcoming events.
     </tbody>
 </table>
 {% else %}
-<p>We don't currently have any events scheduled — check back soon for the latest updates.</p>
+<p></p>
 {% endif %}
 
 # Annual Events
-You can often find us at major tradeshows and events throughout the year.  Here's a representation of events we've attended in the past: 
+You can often find us at major tradeshows and events throughout the year.  Here's a representation of events we've attended or plan on attending in 2017: 
 
 ## January
 [CES](https://www.ces.tech/) 
