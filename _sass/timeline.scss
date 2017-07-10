@@ -86,8 +86,10 @@ $timeline-right-padding: 5rem;
       counter-increment: li;
 
       h2 {
-        border: 1px solid $color-white;
         margin-bottom: 0;
+        & + .usa-accordion-content {
+          padding-top: $space-l;
+        }
       }
 
     }
