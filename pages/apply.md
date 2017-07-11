@@ -5,7 +5,7 @@ layout: secondary-narrow
 timeline:
   - title: anytime before<br> the deadline
     description: Call for proposals (solicitation) released.
-    inactive_description:
+    inactive_description: Call for proposals (solicitation) released.
     steps:
       - step-1
       - step-2
