@@ -5,12 +5,13 @@ layout: secondary-narrow
 timeline:
   - title: anytime before<br> the deadline
     description: Call for proposals (solicitation) released.
-    inactive_description: Call for proposals (solicitation) released.
     steps:
       - step-1
       - step-2
       - step-3
   - title: 90 days before<br> the deadline
+    description: Call for proposals (solicitation) released.
+    inactive_description: Call for proposals (solicitation) released.
     steps:
       - step-4
   - title: 60 days before<br> the deadline
