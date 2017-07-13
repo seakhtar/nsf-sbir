@@ -4,10 +4,6 @@ permalink: /events/
 layout: secondary-narrow
 ---
 
-# Events
-
-Helpful information for applicants and awardees on upcoming events.
-
 {% assign current_events = ',' | split: "," %}
 {% assign day_today = site.time | date: "%Y%m%d" %}
 {% for event in site.events %}
