@@ -4,7 +4,7 @@ permalink: /about/
 layout: secondary
 section_image: "/assets/img/bg/robotic-arm.jpg"
 section_image_caption: |
-  The first robotic printer used by [Branch Technology]({{ site.baseurl }}/portfolio/details/?company=branch-technology-llc) in late 2014 to develop the initial proof of concept for CFAB® prior to SBIR Phase I research.
+  The first robotic printer used by [Branch Technology]({{ site.baseurl }}/portfolio/details/?company=branch-technology-llc), an NSF-funded company that has created a new way of 3D printing.
 ---
 <section class="section-header background-light-blue">
 <div class="usa-section usa-content usa-grid">
