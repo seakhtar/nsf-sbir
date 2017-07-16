@@ -65,7 +65,7 @@ Check out our [supplemental funding overview video](https://youtu.be/biB6A2Cu6TA
 - Funding support to allow high school students to participate in SBIR/STTR research. These partnerships are targeted toward students who are interested in science, technology, and mathematics.
 - Max funding: $6,000 per student per year
 - Deadline: Rolling submissions — these partnerships don't extend the award duration.
-- Recruiting tip: Consider contacting guidance counselors at local high schools — they can be a great resource for helping you find students who may want to participate in your research. Here's a [recruiting template]({{site.baseurl}}/assets/files/awardee-files/ED-Supp-Template.docx) you can use to reach out.
+- Recruiting tip: Consider contacting guidance counselors at local high schools — they can be a great resource for helping you find students who may want to participate in your research. Here's a [recruiting template]({{site.baseurl}}/assets/files/awardees/ED-Supp-Template.docx) you can use to reach out.
 - [More information](http://www.nsf.gov/pubs/2014/nsf14073/nsf14073.jsp?org=ENG)
 - [Proposal and budget submission instructions]()
 
@@ -73,7 +73,7 @@ Check out our [supplemental funding overview video](https://youtu.be/biB6A2Cu6TA
 - Funding support for active involvement of K-12 teachers and community college faculty in engineering research
 - Max funding: $10,000 per teacher per year
 - Deadline: Rolling submissions — these partnerships don't extend the award duration.
-- Recruiting tip: Consider contacting guidance counselors at local middle and high schools — they can be a great resource for helping you find faculty who may want to participate in your research. You can use this [recruiting template]({{site.baseurl}}/assets/files/awardee-files/ED-Supp-Template.docx) to reach out.
+- Recruiting tip: Consider contacting guidance counselors at local middle and high schools — they can be a great resource for helping you find faculty who may want to participate in your research. You can use this [recruiting template]({{site.baseurl}}/assets/files/awardees/ED-Supp-Template.docx) to reach out.
 - [Official solicitation](http://www.nsf.gov/pubs/2015/nsf15536/nsf15536.htm?org=NSF): Review this document for relevant information on supplement requests. In short, you'll need to describe: 1) How the teacher will be involved in your project; 2) Your PI's or team's experience with involving teachers in research 3) A biographical sketch of the teacher you'd like to work with, or a description of your process for choosing a teacher.
 - [Proposal and budget submission instructions]()
 
@@ -81,7 +81,7 @@ Check out our [supplemental funding overview video](https://youtu.be/biB6A2Cu6TA
 - Funding support for active NSF research participation by undergraduate students.
 - Max funding: $8,000 per student per year
 - Deadline: Rolling submissions — these partnerships don't extend the award duration.
-- Recruiting tip: Consider contacting the career centers at local colleges and universities — they can be a great resource for helping you find undergrads who may want to participate in your research. You can use this [recruiting template]({{site.baseurl}}/assets/files/awardee-files/ED-Supp-Template.docx) to reach out.
+- Recruiting tip: Consider contacting the career centers at local colleges and universities — they can be a great resource for helping you find undergrads who may want to participate in your research. You can use this [recruiting template]({{site.baseurl}}/assets/files/awardees/ED-Supp-Template.docx) to reach out.
 - [Official solicitation](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517): Review this document for relevant information on supplement requests. In short, you'll need to describe: 1) How the student will be involved in your project; 2) Your PI's or team's experience with involving students in research; 3) A biographical sketch of the student you'd like to work with, or a description of your process for choosing a student.
 - [Proposal and budget submission instructions]()
 
@@ -89,6 +89,6 @@ Check out our [supplemental funding overview video](https://youtu.be/biB6A2Cu6TA
 - Funding support to enable veteran students, pre-college STEM teachers, and/or community college faculty to participate in active NSF grants.
 - Max funding: $10,000 per veteran
 - Deadline: Rolling submissions — these partnerships don't extend the award duration.
-- Recruiting tip: Many community colleges and universities have a veterans office or resource team that can help you find people interested in participating in your research. You can use this [recruiting template]({{site.baseurl}}/assets/files/awardee-files/ED-Supp-Template.docx) to reach out.
+- Recruiting tip: Many community colleges and universities have a veterans office or resource team that can help you find people interested in participating in your research. You can use this [recruiting template]({{site.baseurl}}/assets/files/awardees/ED-Supp-Template.docx) to reach out.
 - [More information](http://www.nsf.gov/pubs/2014/nsf14124/nsf14124.jsp)
 - [Proposal and budget submission instructions]()

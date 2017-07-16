@@ -11,7 +11,7 @@ As an awardee, you're the face of our program. We look to you to help generate p
 
 We want to contribute to your ongoing success. Help us help you by following us and tagging us on social media.
 
-We'd also love it if you'd share your America's Seed Fund story via social or on your website. Our [Ambassador Tool Kit]({{ site.baseurl }}/assets/files/awardee-files/NSF_SBIR_Ambassador_Toolkit.pdf) offers tips and tricks for sharing your funding story.
+We'd also love it if you'd share your America's Seed Fund story via social or on your website. Our [Ambassador Tool Kit]({{ site.baseurl }}/assets/files/awardees/NSF_SBIR_Ambassador_Toolkit.pdf) offers tips and tricks for sharing your funding story.
 
 ## America's Seed Fund (SBIR/STTR) on Twitter
 

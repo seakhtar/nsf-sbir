@@ -33,9 +33,9 @@ If your award letter **doesn't** include an exact Phase II submission date, cont
 ## Proposal contents
 
 - Revisit the [Merit Review Criteria]().
-- View the required contents of a [Phase II SBIR/STTR proposal]({{ site.baseurl }}/assets/files/awardee-files/Phase%20II%20NSF%20SBIR.pdf).
-- View [guidance on determining salaries]({{ site.baseurl }}/assets/files/awardee-files/SBIR_Salary_Validation_Guide.pdf) for Phase II personnel.
+- View the required contents of a [Phase II SBIR/STTR proposal]({{ site.baseurl }}/assets/files/awardees/Phase%20II%20NSF%20SBIR.pdf).
+- View [guidance on determining salaries]({{ site.baseurl }}/assets/files/awardees/SBIR_Salary_Validation_Guide.pdf) for Phase II personnel.
 
 ## FastLane instructions
 
-Learn [how to submit a Phase II proposal]({{site.baseurl}}/assets/files/awardee-files/Phase_II_Proposal_Preparation_Booklet.pdf) in FastLane.
+Learn [how to submit a Phase II proposal]({{site.baseurl}}/assets/files/awardees/Phase_II_Proposal_Preparation_Booklet.pdf) in FastLane.

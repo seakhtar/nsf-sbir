@@ -24,7 +24,7 @@ primary:
         href: /resources/awardees/
       - text: For Reviewers
         href: /resources/review/
-    
+
   - text: Events
     href: /events/
   - text: Contact
@@ -83,6 +83,26 @@ awardees:
     href: /awardees/novation/
   - text: Change of PI
     href: /awardees/pi-change/
+
+phase-2:
+  - text: Awardees
+    href: /awardees/awardees/
+  - text: General grant conditions
+    href: https://www.nsf.gov/awards/managing/special_conditions.jsp
+  - text: Phase II reporting requirements
+    href: /awardees/phase-2/reporting/
+  - text: Forms and checklists
+    href: /awardees/phase-2/forms/
+  - text: Revising a budget
+    href: /awardees/phase-2/revised-budget/
+  - text: No cost extension
+    href: /awardees/phase-2/no-cost-extension/
+  - text: Changes at your organization
+    href: /awardees/phase-2/novation/
+  - text: Change of PI
+    href: /awardees/phase-2/pi-change/
+  - text: Supplemental funding opportunities
+    href: /awardees/phase-2/phase-2b/
 
 footer:
   - text: About

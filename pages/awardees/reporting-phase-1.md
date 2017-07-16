@@ -18,7 +18,7 @@ The instructions on this page supersede all others; please keep this in mind if 
 The PI and the Authorized Company Representative must complete and sign the report cover page. Once the cover page is completed and signed, you must attach it as part of the interim report following these steps:
 
 - Make sure you have [Adobe Reader](https://www.nsf.gov/help/plugins.jsp).
-- Download the [Cover Page Document]({{site.baseurl}}/assets/files/awardee-files/SBIR-STTR_Revised_Report_Cover.pdf).
+- Download the [Cover Page Document]({{site.baseurl}}/assets/files/awardees/SBIR-STTR_Revised_Report_Cover.pdf).
 - Fill out and print the form.
 - Physically sign the Cover Page (signature field).
 - Scan the Cover Page as a PDF file.

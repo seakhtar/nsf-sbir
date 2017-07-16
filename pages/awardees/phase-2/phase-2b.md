@@ -1,11 +1,12 @@
 ---
-title: Supplemental Phase II B
-permalink: /awardee/supplement/phase-2-b/
+title: Supplemental Phase IIB
+permalink: /resources/awardees/phase-2/phase-2b/
 layout: secondary-narrow
-sidenav: awardees
+sidenav: phase-2
 ---
 
-# Phase IIB Supplement Funding Opportunity (only applicable for SBIR and STTR Phase II grantees.)
+# Phase IIB
+Supplemental funding opportunity applicable for SBIR and STTR Phase II awardees.
 
 The objective of Phase IIB funding is to provide additional R&D funds to further accelerate commercialization of the Phase II project, when a qualifying third party financial investment/commitment has been received as a direct consequence of the NSF funded Phase I/Phase II research outcomes. The third party funding should serve to accelerate commercialization activity of the NSF funded Phase II Program.
 
@@ -72,7 +73,7 @@ Phase IIB proposals MUST be submitted using FastLane. The Phase IIB proposal sha
 ### The following sections do not count toward the 15 pages:
 
 - Executed third party documentation for the investment match for Phase IIB SBIR funding
-- An updated [milestone chart]({{site.baseurl}}/assets/files/awardee-files/Blank_Milestone_Chart.xlsx) reflecting the additional year of effort.
+- An updated [milestone chart]({{site.baseurl}}/assets/files/awardees/Blank_Milestone_Chart.xlsx) reflecting the additional year of effort.
 - A new [Certificate of Current Cost Pricing Data]()
 - A new budget for the portion of the funds requested from NSF for the Phase IIB project and budget line item justification
 
@@ -112,7 +113,7 @@ Add 12 months (or **24 months for a Phase IIB over $250,000**) to your current e
 
 Prepare new budget for the Phase IIB activities (only the NSF funding). Make sure to budget one or two trips to the SBIR/STTR Phase II Grantees Conference depending on the length of the grant extension. Provide complete line item justification for **ALL** budget items.
 
-- [NSF SBIR/STTR Funding Agreement Certification Form]({{site.baseurl}}/assets/files/awardee-files/SBIR_STTR_Funding_Agreement.pdf) **OR** a statement that "The certifications made under the Phase II award remain true and current, and the signed Funding Agreement Certification for the Phase II award was submitted with award XXXXXXX", **OR** an updated NSF SBIR/STTR Funding Agreement Certification Form.
+- [NSF SBIR/STTR Funding Agreement Certification Form]({{site.baseurl}}/assets/files/awardees/SBIR_STTR_Funding_Agreement.pdf) **OR** a statement that "The certifications made under the Phase II award remain true and current, and the signed Funding Agreement Certification for the Phase II award was submitted with award XXXXXXX", **OR** an updated NSF SBIR/STTR Funding Agreement Certification Form.
 - A statement that "The budget rates in the Phase IIB budget are identical or lower than those in the Phase II budget approved by NSF." Rates include salaries, indirect costs, fringe benefits, overhead, G&A, unit cost rates, etc.
 
 ### Add/Delete Non Co-PI Senior Personnel
@@ -141,7 +142,7 @@ For Phase IIB supplements up to $250,000 (12 month extension) 50% will be releas
 
 For Phase IIB supplements greater than $250,000 (24 month extension) 25% will be released as the advance payment; 25% with an approved 6-month interim report; 25% with an approved 12-month interim report and 25% with an approved 18-month interim report.
 
-* Payments will be released upon receipt of proof that the funds have been transferredfrom the third party to the NSF grantee, typically in the form of a bank statement. Therefore, the payment schedules above may be modified according to the details of the release schedule of the third party money if these funds are not provided up-front. That is, NSF funds (50% match) will only be disbursed at any given time according to the amount of third party funds for which NSF has been provided proof of receipt.
+* Payments will be released upon receipt of proof that the funds have been transferred from the third party to the NSF grantee, typically in the form of a bank statement. Therefore, the payment schedules above may be modified according to the details of the release schedule of the third party money if these funds are not provided up-front. That is, NSF funds (50% match) will only be disbursed at any given time according to the amount of third party funds for which NSF has been provided proof of receipt.
 
 ## Reporting Requirements
 

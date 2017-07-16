@@ -1,8 +1,8 @@
 ---
 title: Reporting Requirements
-permalink: /awardees/reporting/phase-2/
+permalink: /resources/awardees/phase-2/reporting/
 layout: secondary-narrow
-sidenav: awardees
+sidenav: phase-2
 ---
 
 All reporting is administered through Research.gov. Please see the following website for technical guidance and tips on the submission process: [Research.gov Reporting Information](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_page_n_about_por). The Research.gov Help Desk can be contacted at Rgov@nsf.gov or 1-800-381-1532. The requirements expected for the SBIR/STTR program are detailed below.
@@ -26,13 +26,13 @@ If the instructions on this website conflict with instructions provided to you b
 The report cover page is filled out and signed by the PI and the Authorized Company Representative. Once the cover page is filled out and signed, you MUST attach it as part of the interim report, using the following steps:
 
 1. Make sure you have [Adobe Reader](http://www.nsf.gov/help/plugins.jsp).
-2. Download the [Cover Page Document]({{site.baseurl}}/assets/files/awardee-files/SBIR-STTR_Revised_Report_Cover.pdf).
+2. Download the [Cover Page Document]({{site.baseurl}}/assets/files/awardees/SBIR-STTR_Revised_Report_Cover.pdf).
 3. Fill out and print the form.
 4. Physically sign the Cover Page in the signature field.
 5. Scan the Cover Page as a PDF file.
 6. Upload this PDF into Research.gov as described below.
 
-### PROJECT MILESTONE CHART [Milestone Information Template, .XLSX]({{site.baseurl}}/assets/files/awardee-files/Blank_Milestone_Chart.xlsx):
+### PROJECT MILESTONE CHART [Milestone Information Template, .XLSX]({{site.baseurl}}/assets/files/awardees/Blank_Milestone_Chart.xlsx):
 
 Each progress report must contain updated Project Milestone Information. A template is provided in .XLSX format but MUST be converted to PDF upon completion in order to be uploaded into Research.gov. This chart should follow the format used in the Phase II proposal document and reflect the cumulative effort and expenditures. The following are required:
 
@@ -73,7 +73,7 @@ The electronic submission of the Final Report fulfills the NSF reporting require
 The Report Cover page is filled out and signed by the PI and the Authorized Company Representative. Once the cover page is filled out and signed; you MUST then attach it as a part of the technical report. To attach the cover page; please follow the following steps:
 
 1. Make sure you have [Adobe Reader](http://www.nsf.gov/help/plugins.jsp)
-2. Download the [Cover Page Document]({{site.baseurl}}/assets/files/awardee-files/SBIR-STTR_Revised_Report_Cover.pdf)
+2. Download the [Cover Page Document]({{site.baseurl}}/assets/files/awardees/SBIR-STTR_Revised_Report_Cover.pdf)
 3. Fill out and Print the form
 4. Physically sign the Cover Page in the signature field
 5. Scan the Cover Page as a PDF file
@@ -81,7 +81,7 @@ The Report Cover page is filled out and signed by the PI and the Authorized Comp
 
 Failure to submit the SIGNED Report Cover Page as a part of the technical report will delay payment
 
-### PROJECT MILESTONE CHART [Milestone Information Template, .XLSX]({{site.baseurl}}/assets/files/awardee-files/Blank_Milestone_Chart.xlsx):
+### PROJECT MILESTONE CHART [Milestone Information Template, .XLSX]({{site.baseurl}}/assets/files/awardees/Blank_Milestone_Chart.xlsx):
 
 Each progress report must contain updated Project Milestone Information. A template is provided in .XLSX format but MUST be converted to PDF upon completion in order to be uploaded into Research.gov. This chart should follow the format used in the Phase II proposal document and reflect the cumulative effort and expenditures. The following are required:
 
@@ -98,7 +98,7 @@ This section should demonstrate that the research activities were carried out an
 3. Problems remaining or unfulfilled research objectives.
 4. Unexpected or serendipitous results, information or events which may have altered the direction of the project. The impact these results may have on the potential transition into similar or related research or products.
 
-### COMMERCIALIZATION REPORT [Blank Commercialization Report Format]({{site.baseurl}}/assets/files/awardee-files/comrpt.doc):
+### COMMERCIALIZATION REPORT [Blank Commercialization Report Format]({{site.baseurl}}/assets/files/awardees/comrpt.doc):
 
 The commercialization report section should not exceed 10 pages. The Commercialization Report section has six (6) parts. Grantees are required to prepare the Commercialization Report section in the format shown below:
 
