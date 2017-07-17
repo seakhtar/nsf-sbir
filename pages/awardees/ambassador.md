@@ -19,14 +19,14 @@ We'd also love it if you'd share your America's Seed Fund story via social or on
 Help spread the word about your funding one tweet at a time! You can help spread the word about NSF SBIR with the click of a button. Share your story and tag @NSFSBIR or use the hashtag #NSFFunded. You can also [check out our Twitter account](https://twitter.com/NSFSBIR) and retweet anything you would like!
 Here are some sample tweets you can use too:
 
-@NSFSBIR provides seed #funding for #tech #startups across all areas of science. 1.usa.gov/1awfsNp
-[Tweet this](http://twitter.com/home/?status=.@NSFInnovateSBIR%20provides%20seed%20funding%20for%20science%20and%20technology%20%23startups%20(like%20us!)%201.usa.gov/1awfsNp)
+.@NSFSBIR provides seed funding for science and technology #startups (like us!) https://seedfund.nsf.gov/
+[Tweet this](https://ctt.ec/ce891)
 
-Proud to be an @NSFSBIR recipient. Find out if @NSF can help you, too. www.nsf.gov/SBIR
-[Tweet This](http://twitter.com/home/?status=Proud%20to%20be%20an%20@NSFInnovateSBIR%20recipient.%20Find%20out%20if%20@NSF%20can%20help%20you,%20too.%201.usa.gov/1EiFhg4)
+Proud to be an @NSFSBIR recipient. Find out if @NSF can help you, too. https://seedfund.nsf.gov/
+[Tweet This](https://ctt.ec/f6qDd)
 
-Interested in learning about one of our funders, @NSFSBIR? Watch an intro video: bit.ly/1EQeAhH
-[Tweet this](http://twitter.com/home/?status=Interested%20in%20learning%20about%20one%20of%20our%20funders,%20@NSFInnovateSBIR?%20(Video):%20bit.ly/1EQeAhH)
+Interested in learning about one of our funders, @NSFSBIR? (Video): https://www.youtube.com/watch?v=vPNkUWDKvck
+[Tweet this](https://ctt.ec/1j_53)
 
 ## NSF logo
 
