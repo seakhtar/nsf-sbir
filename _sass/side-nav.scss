@@ -2,8 +2,7 @@
 
 .usa-sidenav-list {
 
-  margin-top: $space-xl;
-  padding-top: $space-l * 2.625;
+  // padding-top: $space-xl * 1.5;
 
   li {
     border: none;
@@ -15,7 +14,7 @@
       font-size: $font-size-xxs;
       font-weight: 400;
       border: none;
-      padding: 1rem 1rem 1rem 0;
+      padding: 1rem 1rem 1rem 2rem;
       margin: 0;
       background-color: transparent;
       border-bottom: 1px dotted $color-gray-light;
@@ -32,6 +31,20 @@
         // box-shadow: 0 0 1px 0 $color-base;
         box-shadow: none;
         background-color: $color-primary-alt-lightest;
+      }
+      &.usa-current {
+        // font-weight: 400;
+        border-left: none;
+        padding-left: 2rem;
+        &::before {
+          content: '\2192';
+          width: 1.5rem;
+          display: inline-block !important;
+          font-family: $font-serif;
+          margin-left: -2rem;
+          // padding-right: $space-xxs;
+          // border: 1px solid #f00;
+        }
       }
     }
 

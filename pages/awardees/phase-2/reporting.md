@@ -7,7 +7,7 @@ sidenav: phase-2
 
 # Phase II reporting
 
-All reporting is administered through Research.gov. Please see the following website for technical guidance and tips on the submission process: [Research.gov Reporting Information](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_page_n_about_por). The Research.gov Help Desk can be contacted at [rgov@nsf.gov](mailto:rgov@nsf.gov) or 1-800-381-1532. The requirements expected for the SBIR/STTR program are detailed below.
+All reporting is administered through Research.gov. Please see [Research.gov reporting information](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_page_n_about_por) for technical guidance and tips on the submission process. Contact the Research.gov help desk by email at [rgov@nsf.gov](mailto:rgov@nsf.gov) or call 1-800-381-1532. The requirements expected for the SBIR/STTR program are detailed below.
 
 
 Phase II grantees must submit Interim Progress Reports, and a Phase II Final Report. Interim reports must be submitted within 30 days after each six month period. Research.gov indicates that the Interim Progress Reports are optional. However, **please disregard this statement as Interim Project Reports are a requirement of all Phase II awards**. The Phase II Final Report is required to be submitted 90 days following the expiration of the grant. Final payments will not be made and pending future proposals will not be processed until any overdue final reports are submitted and approved.   
@@ -52,7 +52,7 @@ Each progress report must contain updated Project Milestone Information. A templ
 
 ### Research.gov information/submission
 
-1. Use your FastLane UserID and password to [Log in to Research.gov](https://identity.research.gov/sso/UI/Login?realm=/research&spEntityID=https%3A%2F%2Fwww.research.gov%2Fsso%2Fsp&module=nsf&goto=http%3A%2F%2Fidentity.research.gov%3A80%2Fsso%2Fidpssoinit%3FNameIDFormat%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Anameid-format%3Atransient%26metaAlias%3D%2Fresearch%2Fidp%26spEntityID%3Dhttps%3A%2F%2Fwww.research.gov%2Fsso%2Fsp%26binding%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Abindings%3AHTTP-POST%26RelayState%3Dhttps%3A%2F%2Fwww.research.gov%2Fresearch-portal%2Fredirect.jsp%3FTARGET%3Dproperty%3A%3ArpprApplicationUrl)
+1. Use your FastLane UserID and password to [log in to Research.gov](https://identity.research.gov/sso/UI/Login?realm=/research&spEntityID=https%3A%2F%2Fwww.research.gov%2Fsso%2Fsp&module=nsf&goto=http%3A%2F%2Fidentity.research.gov%3A80%2Fsso%2Fidpssoinit%3FNameIDFormat%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Anameid-format%3Atransient%26metaAlias%3D%2Fresearch%2Fidp%26spEntityID%3Dhttps%3A%2F%2Fwww.research.gov%2Fsso%2Fsp%26binding%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Abindings%3AHTTP-POST%26RelayState%3Dhttps%3A%2F%2Fwww.research.gov%2Fresearch-portal%2Fredirect.jsp%3FTARGET%3Dproperty%3A%3ArpprApplicationUrl)
 2. On the Project Reporting Dashboard, select “Annual, Final, and Interim Report” to navigate to the “All Awards” tab. Navigate to the appropriate award.
 3. Once on the award screen, click on “Create IPR” in the upper right hand corner under “Available Actions”
 4. Complete the “Cover” information.

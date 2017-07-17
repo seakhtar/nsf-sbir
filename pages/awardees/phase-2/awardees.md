@@ -1,10 +1,12 @@
 ---
-title: For Phase II awardees
+title: Resources for Phase II awardees
 permalink: /resources/awardees/phase-2/
 layout: resources-layout
 sidenav: phase-2
 ---
-# For Phase II awardees
+<h1>
+  <span>Resources:</span>Phase II awardees
+</h1>
 
 Here are all the forms you need to manage your Phase II award.
 

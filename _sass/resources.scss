@@ -1,17 +1,28 @@
 .resources-layout {
 
   .usa-width-three-fourths {
+    padding: 0 $space-xl 0 $space-m;
     h1 {
+      font-size: $font-size-xl;
+      font-weight: 700;
       & + p {
         font-size: $font-size-s;
+        // line-height: $leading-l;
+      }
+      span {
+        text-transform: uppercase;
+        font-size: $font-size-s;
+        display: block;
+        line-height: $leading-xxs;
+        margin: 0;
+        letter-spacing: normal;
       }
     }
     p,
     ul,
     ol,
     li {
-      max-width: 60rem;
-      // font-size: 1.5rem;
+      max-width: none;
       // line-height: $leading-l;
     }
   }
