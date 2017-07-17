@@ -1,13 +1,14 @@
 ---
-title: Reporting Requirements
+title: Phase II reporting
 permalink: /resources/awardees/phase-2/reporting/
-layout: secondary-narrow
+layout: resources-layout
 sidenav: phase-2
 ---
 
-All reporting is administered through Research.gov. Please see the following website for technical guidance and tips on the submission process: [Research.gov Reporting Information](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_page_n_about_por). The Research.gov Help Desk can be contacted at Rgov@nsf.gov or 1-800-381-1532. The requirements expected for the SBIR/STTR program are detailed below.
+# Phase II reporting
 
-# Phase II Reporting
+All reporting is administered through Research.gov. Please see the following website for technical guidance and tips on the submission process: [Research.gov Reporting Information](http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_page_n_about_por). The Research.gov Help Desk can be contacted at [rgov@nsf.gov](mailto:rgov@nsf.gov) or 1-800-381-1532. The requirements expected for the SBIR/STTR program are detailed below.
+
 
 Phase II grantees must submit Interim Progress Reports, and a Phase II Final Report. Interim reports must be submitted within 30 days after each six month period. Research.gov indicates that the Interim Progress Reports are optional. However, **please disregard this statement as Interim Project Reports are a requirement of all Phase II awards**. The Phase II Final Report is required to be submitted 90 days following the expiration of the grant. Final payments will not be made and pending future proposals will not be processed until any overdue final reports are submitted and approved.   
 
@@ -21,7 +22,7 @@ If the instructions on this website conflict with instructions provided to you b
 
 (Interim Progress Reports are used for reporting progress typically at the 6, 12, and 18 month performance periods). Note: If you receive a Phase IIB supplement, you are required to provide progress reports, typically at six-month intervals until the grant ends. Phase II progress reports must be submitted through Research.gov.
 
-### COVER PAGE:
+### Cover page
 
 The report cover page is filled out and signed by the PI and the Authorized Company Representative. Once the cover page is filled out and signed, you MUST attach it as part of the interim report, using the following steps:
 
@@ -32,7 +33,9 @@ The report cover page is filled out and signed by the PI and the Authorized Comp
 5. Scan the Cover Page as a PDF file.
 6. Upload this PDF into Research.gov as described below.
 
-### PROJECT MILESTONE CHART [Milestone Information Template, .XLSX]({{site.baseurl}}/assets/files/awardees/Blank_Milestone_Chart.xlsx):
+### Project milestone chart
+
+[Milestone Information Template, .XLSX]({{site.baseurl}}/assets/files/awardees/Blank_Milestone_Chart.xlsx)
 
 Each progress report must contain updated Project Milestone Information. A template is provided in .XLSX format but MUST be converted to PDF upon completion in order to be uploaded into Research.gov. This chart should follow the format used in the Phase II proposal document and reflect the cumulative effort and expenditures. The following are required:
 
@@ -40,14 +43,14 @@ Each progress report must contain updated Project Milestone Information. A templ
 2. Level of effort (in dollars) by PI and/or key personnel (including consultants and subawardees).
 3. Other non-zero expenditures listed on the award budget.
 
-### TECHNICAL REPORT:
+### Technical report
 
 1. A one-page executive summary that highlights key technical and commercial activity/results, and path forward.
 2. Details about technical R&D activities and project progress and percentage completion of milestones during the interim reporting period. (Include a brief description of each task worked on during the reporting period.)
 3. Problems encountered during the interim reporting period. (If NONE, so state.)
 4. Status of commercialization activities and a discussion of any commercialization challenges faced during the interim reporting period. Also provide insight into planned commercialization activities for the next reporting period.
 
-### RESEARCH.GOV INFORMATION/SUBMISSION:
+### Research.gov information/submission
 
 1. Use your FastLane UserID and password to [Log in to Research.gov](https://identity.research.gov/sso/UI/Login?realm=/research&spEntityID=https%3A%2F%2Fwww.research.gov%2Fsso%2Fsp&module=nsf&goto=http%3A%2F%2Fidentity.research.gov%3A80%2Fsso%2Fidpssoinit%3FNameIDFormat%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Anameid-format%3Atransient%26metaAlias%3D%2Fresearch%2Fidp%26spEntityID%3Dhttps%3A%2F%2Fwww.research.gov%2Fsso%2Fsp%26binding%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Abindings%3AHTTP-POST%26RelayState%3Dhttps%3A%2F%2Fwww.research.gov%2Fresearch-portal%2Fredirect.jsp%3FTARGET%3Dproperty%3A%3ArpprApplicationUrl)
 2. On the Project Reporting Dashboard, select “Annual, Final, and Interim Report” to navigate to the “All Awards” tab. Navigate to the appropriate award.
@@ -60,15 +63,15 @@ Each progress report must contain updated Project Milestone Information. A templ
 8. Uploaded the PROJECT MILESTONE CHART PDF as a supplementary document in the “Special Requirements” section under “Supporting Files”.
 9. Upload the TECHNICAL REPORT PDF as a “Supporting Files” in the “Accomplishments” section.
 
-### An email must be sent to the Program Director informing them that a report has been submitted via Research.gov.
+**An email must be sent to the Program Director informing them that a report has been submitted via Research.gov.**
 
 Progress reports provide information which justifies progress payments. Inadequate content, format, or time expenditure details will delay approval of interim progress payments. Under the standard payment schedule for Phase II grants (typically 24-months), one report is required within one month after the end of each respective progress period.
 
-## Phase II/IIB Final Report
+## Phase II/IIB final report
 
 The electronic submission of the Final Report fulfills the NSF reporting requirements for an SBIR/STTR Phase II/IIB grant. The Final Report should be submitted within 90 days following the end date of the award. Each Final Report has four components.
 
-### COVER PAGE:
+### Cover page
 
 The Report Cover page is filled out and signed by the PI and the Authorized Company Representative. Once the cover page is filled out and signed; you MUST then attach it as a part of the technical report. To attach the cover page; please follow the following steps:
 
@@ -81,7 +84,9 @@ The Report Cover page is filled out and signed by the PI and the Authorized Comp
 
 Failure to submit the SIGNED Report Cover Page as a part of the technical report will delay payment
 
-### PROJECT MILESTONE CHART [Milestone Information Template, .XLSX]({{site.baseurl}}/assets/files/awardees/Blank_Milestone_Chart.xlsx):
+### Project milestone chart
+
+[Milestone Information Template, .XLSX]({{site.baseurl}}/assets/files/awardees/Blank_Milestone_Chart.xlsx)
 
 Each progress report must contain updated Project Milestone Information. A template is provided in .XLSX format but MUST be converted to PDF upon completion in order to be uploaded into Research.gov. This chart should follow the format used in the Phase II proposal document and reflect the cumulative effort and expenditures. The following are required:
 
@@ -89,7 +94,7 @@ Each progress report must contain updated Project Milestone Information. A templ
 2. Level of effort (in dollars) by PI and/or key personnel (including consultants and subawardees).
 3. Other non-zero expenditures listed on the award budget.
 
-### TECHNICAL REPORT:
+### Technical report
 
 This section should demonstrate that the research activities were carried out and are consistent with the level of effort originally proposed and the amount of funding received. This section should not exceed 10 pages plus associated reference data, graphics, or tabular data. The technical report will include the following four parts:
 
@@ -98,7 +103,9 @@ This section should demonstrate that the research activities were carried out an
 3. Problems remaining or unfulfilled research objectives.
 4. Unexpected or serendipitous results, information or events which may have altered the direction of the project. The impact these results may have on the potential transition into similar or related research or products.
 
-### COMMERCIALIZATION REPORT [Blank Commercialization Report Format]({{site.baseurl}}/assets/files/awardees/comrpt.doc):
+### Commercialization report
+
+[Blank Commercialization Report Format]({{site.baseurl}}/assets/files/awardees/comrpt.doc):
 
 The commercialization report section should not exceed 10 pages. The Commercialization Report section has six (6) parts. Grantees are required to prepare the Commercialization Report section in the format shown below:
 
@@ -142,7 +149,7 @@ If yes, describe the commercialization activities related to this supplement.
 
 7. Briefly describe the company's efforts to commercialize technology resulting from this SBIR award. (This includes customer/potential customer base, overview of marketing and sales strategies, market readiness and/or market window of opportunity and financing strategies for product life cycle.)
 
-### Research.gov Information/Submission:
+### Research.gov information/submission
 
 1. Use your FastLane UserID and password to [Log in to Research.gov](https://identity.research.gov/sso/UI/Login?realm=/research&spEntityID=https%3A%2F%2Fwww.research.gov%2Fsso%2Fsp&module=nsf&goto=http%3A%2F%2Fidentity.research.gov%3A80%2Fsso%2Fidpssoinit%3FNameIDFormat%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Anameid-format%3Atransient%26metaAlias%3D%2Fresearch%2Fidp%26spEntityID%3Dhttps%3A%2F%2Fwww.research.gov%2Fsso%2Fsp%26binding%3Durn%3Aoasis%3Anames%3Atc%3ASAML%3A2.0%3Abindings%3AHTTP-POST%26RelayState%3Dhttps%3A%2F%2Fwww.research.gov%2Fresearch-portal%2Fredirect.jsp%3FTARGET%3Dproperty%3A%3ArpprApplicationUrl)
 2. Use your Project Reporting Dashboard to navigate to the appropriate award and report. Annual and Final Reports that are due will be listed in the “Reports Due” tab.

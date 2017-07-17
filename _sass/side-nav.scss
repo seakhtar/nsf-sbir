@@ -3,10 +3,11 @@
 .usa-sidenav-list {
 
   margin-top: $space-xl;
-  padding-top: $space-l;
+  padding-top: $space-l * 2.625;
 
   li {
     border: none;
+    padding-right: $space-s;
 
     a {
       color: $color-base;
@@ -14,7 +15,7 @@
       font-size: $font-size-xxs;
       font-weight: 400;
       border: none;
-      padding: 1rem 0;
+      padding: 1rem 1rem 1rem 0;
       margin: 0;
       background-color: transparent;
       border-bottom: 1px dotted $color-gray-light;

@@ -1,8 +1,8 @@
 ---
 title: Preparing a No Cost Extension Request
-permalink: /awardees/no-cost-extension/
-layout: secondary-narrow
-sidenav: awardees
+permalink: /resources/awardees/phase-2/no-cost-extension/
+layout: resources-layout
+sidenav: phase-2
 ---
 
 # No Cost Extension

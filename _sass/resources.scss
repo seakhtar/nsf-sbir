@@ -1,0 +1,19 @@
+.resources-layout {
+
+  .usa-width-three-fourths {
+    h1 {
+      & + p {
+        font-size: $font-size-s;
+      }
+    }
+    p,
+    ul,
+    ol,
+    li {
+      max-width: 60rem;
+      // font-size: 1.5rem;
+      // line-height: $leading-l;
+    }
+  }
+
+}

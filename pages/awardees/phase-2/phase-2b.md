@@ -1,7 +1,7 @@
 ---
 title: Supplemental Phase IIB
 permalink: /resources/awardees/phase-2/phase-2b/
-layout: secondary-narrow
+layout: resources-layout
 sidenav: phase-2
 ---
 

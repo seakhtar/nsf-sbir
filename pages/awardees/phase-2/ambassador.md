@@ -1,8 +1,8 @@
 ---
 title: Be an Ambassador
-permalink: /awardees/ambassador/
-layout: secondary-narrow
-sidenav: awardees
+permalink: /resources/awardees/phase-2/ambassador/
+layout: resources-layout
+sidenav: phase-2
 ---
 
 # Ambassador toolkit

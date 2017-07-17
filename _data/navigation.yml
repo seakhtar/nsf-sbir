@@ -20,8 +20,10 @@ primary:
     links:
       - text: For Applicants
         href: /resources/applicants/
-      - text: For Awardees
+      - text: For Phase I Awardees
         href: /resources/awardees/
+      - text: For Phase II Awardees
+        href: /resources/awardees/phase-2/
       - text: For Reviewers
         href: /resources/review/
 
@@ -85,24 +87,27 @@ awardees:
     href: /awardees/pi-change/
 
 phase-2:
-  - text: Awardees
-    href: /awardees/awardees/
-  - text: General grant conditions
-    href: https://www.nsf.gov/awards/managing/special_conditions.jsp
+  - text: For Phase II awardees
+    href: /resources/awardees/phase-2/
   - text: Phase II reporting requirements
-    href: /awardees/phase-2/reporting/
+    href: /resources/awardees/phase-2/reporting/
   - text: Forms and checklists
-    href: /awardees/phase-2/forms/
+    href: /resources/awardees/phase-2/forms/
   - text: Revising a budget
-    href: /awardees/phase-2/revised-budget/
+    href: /resources/awardees/phase-2/revised-budget/
   - text: No cost extension
-    href: /awardees/phase-2/no-cost-extension/
+    href: /resources/awardees/phase-2/no-cost-extension/
   - text: Changes at your organization
-    href: /awardees/phase-2/novation/
-  - text: Change of PI
-    href: /awardees/phase-2/pi-change/
+    href: /resources/awardees/phase-2/novation/
+  - text: Principal Investigator change
+    href: /resources/awardees/phase-2/pi-change/
   - text: Supplemental funding opportunities
-    href: /awardees/phase-2/phase-2b/
+    href: /resources/awardees/phase-2/phase-2b/
+  - text: Ambassador
+    href: /resources/awardees/phase-2/ambassador/
+  - text: General award conditions
+    href: https://www.nsf.gov/awards/managing/special_conditions.jsp
+
 
 footer:
   - text: About

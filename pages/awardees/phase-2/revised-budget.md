@@ -1,8 +1,8 @@
 ---
 title: Revised Budget
-permalink: /awardees/revised-budget/
-layout: secondary-narrow
-sidenav: awardees
+permalink: /resources/awardees/phase-2/revised-budget/
+layout: resources-layout
+sidenav: phase-2
 ---
 
 # Revised budget
