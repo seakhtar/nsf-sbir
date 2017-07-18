@@ -73,7 +73,7 @@ Please note that the SRO (and no one else) must submit the revised budget.
 
 2. Highlight the organization that needs the subaward PI changed and click `Change SubContract PI`.
 
-3. On the next screen, select your subaward PI by highlighting their name and clicking `Select Subcontract PI`. If the name of the person you'd like to designate as the subaward PI isn't in your list, follow the directions under `How to add an individual as a Senior Personnel*.
+3. On the next screen, select your subaward PI by highlighting their name and clicking `Select Subcontract PI`. If the name of the person you'd like to designate as the subaward PI isn't in your list, follow the directions under `How to add an individual as a Senior Personnel`.
 
 ## How to add an individual as senior personnel
 
