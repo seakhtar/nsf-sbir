@@ -1,5 +1,9 @@
 .resources-layout {
 
+  .usa-layout-docs-sidenav{
+    width: 26rem;
+  }
+
   .usa-width-two-thirds {
 
     h1 {
@@ -36,8 +40,11 @@
     h3 {
       font-size: $font-size-m;
       margin-top: $space-xl;
+      margin-bottom: $space-l;
     }
-
+    h2 {
+      font-weight: 600;
+    }
     h3 {
       font-weight: 500;
     }
@@ -51,6 +58,7 @@
     ol,
     li {
       max-width: none;
+      line-height: $leading-l;
     }
 
     ul,
@@ -61,6 +69,16 @@
 
     strong {
       font-weight: 600;
+    }
+
+    code {
+      font-family: $font-mono-alt;
+      letter-spacing: $kern-tight;
+      font-size: 90%;
+      padding: 2px 4px;
+      margin-left: 2px;
+      margin-right: 2px;
+      background-color: rgba(205, 236, 248, .35);
     }
 
   }
