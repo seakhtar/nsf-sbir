@@ -1,23 +1,18 @@
 ---
-title: Preparing a No Cost Extension Request
+title: No-cost extension
 permalink: /resources/awardees/phase-2/no-cost-extension/
 layout: resources-layout
 sidenav: phase-2
 ---
 
-# No Cost Extension
-
-## Information about no-cost extensions
+# No-cost extension
 Before you attempt to extend your project, please review the following information. Please note that you (as an awardee) can't grant yourself a no-cost extension.
 
-## Phase I awardees:
-Applying for a no-cost extension could impact the possible deadline dates for your Phase II proposal. Please get in touch with your program director to learn more about how a no-cost extension could impact your deadline dates.
 
-## Phase II awardees:
+## Phase II awardees
 In general, no-cost extensions don't change the deadline dates for Phase II supplemental requests. However, you won't be able to submit a Phase IIB request when you're in the no-cost extension window.
 
 ## Requirements for a no-cost extension
-
 Here are the requirements for a no-cost extension, excerpted from the NSF's Grant Proposal Guide:
 
 - You must submit your request to NSF at least 45 days prior to your award's expiration date. Your request must explain why you need the extension and include an estimate of the unobligated funds remaining and a plan for how you'll use them. Having unobligated funds when your award expires isn't in itself a sufficient justification for an extension.
@@ -27,7 +22,7 @@ Here are the requirements for a no-cost extension, excerpted from the NSF's Gran
 1. From the [Research.gov homepage](http://www.research.gov), navigate to the Awards & Reporting column and select the Notifications & Requests option.
 2. Enter your login information (last name, NSF ID, and password) and select log in.
 3. On the *Notifications & Requests* screen, select Prepare New from the top of the page.
-4. On the next screen, select the No Cost Extensions radio button in Step 1. In Step 2, select No-Cost Extension from the drop-down menu.
+4. On the next screen, select the No-cost extensions radio button in Step 1. In Step 2, select No-Cost Extension from the drop-down menu.
 5. On the next screen, enter information in the following fields:
 
 - *Revised end date* drop-down menu

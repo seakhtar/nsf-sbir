@@ -3,15 +3,17 @@
   .usa-width-two-thirds {
     // padding: 0 $space-xl 0 $space-m;
     h1 {
-      font-size: $font-size-xl;
-      font-weight: 700;
+      font-size: $font-size-xl * .9;
+      // font-weight: 700;
+      line-height: 1;
       & + p {
         font-size: $font-size-s;
         // line-height: $leading-l;
       }
       span {
         text-transform: uppercase;
-        font-size: $font-size-s;
+        font-size: $font-size-xs;
+        font-weight: 600;
         display: block;
         line-height: $leading-xxs;
         margin: 0;
@@ -35,6 +37,14 @@
     li {
       max-width: none;
       // line-height: $leading-l;
+    }
+    ul,
+    ol {
+      ul,
+      ol {
+        margin-bottom: 0;
+        padding-bottom: 0;
+      }
     }
     strong {
       font-weight: 600;

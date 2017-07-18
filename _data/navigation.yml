@@ -109,14 +109,16 @@ phase-2:
   - text: General award conditions
     href: https://www.nsf.gov/awards/managing/special_conditions.jsp
 
-phase-2b:
-  - text: Phase II awardees
-    href: /resources/awardees/phase-2/
-
-
 supplement:
-  - text: Phase II supplemental funding
-    href: /resources/awardees/phase-2/supplement/
+  - text: Phase IIB supplemental funding
+    href: /resources/awardees/supplement/
+  - text: Commercial partnerships
+    href: /resources/awardees/supplement/commercial/
+  - text: Institutional partnerships
+    href: /resources/awardees/supplement/institutional/
+  - text: Educational partnerships
+    href: /resources/awardees/supplement/educational/
+
 
 footer:
   - text: About
