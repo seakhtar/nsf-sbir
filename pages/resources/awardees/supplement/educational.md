@@ -20,7 +20,7 @@ sidenav: supplement
     - **Max funding**: $10,000 per teacher per year
     - **Deadline**: Rolling submission; does not extend award duration
     - **Recruiting tip**: Guidance counselors at your local middle and high schools may be a great help. You can use this [recruiting template]({{ site.baseurl }}/assets/files/awardees/ED-Supp-Template.docx) to reach out.
-    - [Official Solicitation](http://www.nsf.gov/pubs/2015/nsf15536/nsf15536.htm?org=NSF) In this document, information on supplement requests ONLY (NOT sites) is relevant. In summary, provide:
+    - **[Official Solicitation](http://www.nsf.gov/pubs/2015/nsf15536/nsf15536.htm?org=NSF)**: In this document, information on supplement requests ONLY (NOT sites) is relevant. In summary, provide:
       1. The nature of the involvement of the teacher;
       2. The experience of the PI or other personnel in involving teachers in research;
       3. A biographical sketch of the teacher or the process and criteria for selecting a teacher.
@@ -30,7 +30,7 @@ sidenav: supplement
     - **Max funding**: $8,000 per student per year
     - **Deadline**: Rolling submission; does not extend award duration
     - **Recruiting tip**: The career center at your local community college or university may be a great help. You can use this [recruiting template]({{ site.baseurl }}/assets/files/awardees/ED-Supp-Template.docx) to reach out.
-    - [Official Solicitation](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517) In this document, information on supplement requests ONLY (NOT sites) is relevant. In summary, provide:
+    - **[Official Solicitation](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517)**: In this document, information on supplement requests ONLY (NOT sites) is relevant. In summary, provide:
     1. The nature of the involvement of the student;
     2. The experience of the PI or other personnel in involving students in research;
     3. A biographical sketch of the student or the process and criteria for selecting a student.

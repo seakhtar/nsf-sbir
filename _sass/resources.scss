@@ -1,15 +1,26 @@
 .resources-layout {
 
   .usa-width-two-thirds {
-    // padding: 0 $space-xl 0 $space-m;
+
     h1 {
       font-size: $font-size-xl * .9;
-      // font-weight: 700;
       line-height: 1;
+
       & + p {
         font-size: $font-size-s;
-        // line-height: $leading-l;
       }
+
+      & + ol {
+        margin-top: $space-l + $space-xs;
+
+        & > li {
+          font-weight: 600;
+          line-height: $leading-xs;
+          padding-top: $space-m;
+        }
+
+      }
+
       span {
         text-transform: uppercase;
         font-size: $font-size-xs;
@@ -20,35 +31,36 @@
         letter-spacing: normal;
       }
     }
+
     h2,
     h3 {
       font-size: $font-size-m;
       margin-top: $space-xl;
     }
+
     h3 {
       font-weight: 500;
     }
+
     h2 + h3 {
       margin-top: 0;
     }
+
     p,
     ul,
     ol,
     li {
       max-width: none;
-      // line-height: $leading-l;
     }
+
     ul,
     ol {
-      ul,
-      ol {
-        margin-bottom: 0;
-        padding-bottom: 0;
-      }
+      margin: 1rem 0 0 0;
     }
+
     strong {
       font-weight: 600;
     }
-  }
 
+  }
 }
