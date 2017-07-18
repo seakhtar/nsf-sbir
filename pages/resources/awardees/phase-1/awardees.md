@@ -33,9 +33,6 @@ Useful information for Phase I awardees
 
 As an awardee, you’re the face of our program, and we hope you’ll share news of your successes for years to come. Learn how to [become an ambassador]({{ site.baseurl }}/resources/awardees/phase-2/ambassador/).  
 
-## Research experiences
-
-Are you a teacher or student who is interested in research experiences and partnerships with Phase II awardees? Visit our [Research Experiences page]({{ site.baseurl }}/resources/awardees/phase-1/research-experience/) to learn more about how you can partner with funded Phase II companies.
 
 ## About America's Seed fund
 
