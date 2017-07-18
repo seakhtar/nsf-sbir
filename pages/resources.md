@@ -36,11 +36,11 @@ As an awardee or alum, you’re the face of our program, and we hope you’ll sh
 
 ### Research experiences
 
-Are you a teacher or student who is interested in research experiences and partnerships with Phase II awardees? Visit our [Research Experiences page]({{ site.baseurl }}/awardees/researchexp/) to learn more about how you can partner with funded Phase II companies.
+Are you a teacher or student who is interested in research experiences and partnerships with Phase II awardees? Visit our [Research Experiences page]({{ site.baseurl }}/resources/awardees/phase-1/research-experience/) to learn more about how you can partner with funded Phase II companies.
 
 ### Award-management forms
 
-Our [Forms page]({{ site.baseurl }}/awardees/forms/) has all the forms you need to manage your Phase I or Phase II award or apply for a Phase II award.
+Our [Forms page]({{ site.baseurl }}/awardees/phase-1/forms/) has all the forms you need to manage your Phase I or Phase II award or apply for a Phase II award.
 
 ## For reviewers
 Reviewers can [click here]({{ site.baseurl }}/review/) for information on the review process, instructions, virtual panels, travel, and more. 

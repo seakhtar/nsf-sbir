@@ -1,8 +1,8 @@
 ---
 title: Peer Review
-permalink: /awardees/peer-review/
-layout: secondary-narrow
-sidenav: awardees
+permalink: /resources/awardees/phase-1/peer-review/
+layout: resources-layout
+sidenav: phase-1
 ---
 
 # Peer Review

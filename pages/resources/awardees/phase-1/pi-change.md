@@ -1,11 +1,11 @@
 ---
-title: Principal Investigator change
-permalink: /resources/awardees/phase-2/pi-change/
+title: Principal Investigator PI Change
+permalink: /resources/awardees/phase-1/pi-change/
 layout: resources-layout
-sidenav: phase-2
+sidenav: phase-1
 ---
 
-# PI change
+# PI change request
 
 In the event that your Principal Investigator changes during your award term, you'll need to complete a PI change request. Please follow these instructions to do so.
 
@@ -22,11 +22,9 @@ On the [FastLane homepage](http://www.fastlane.nsf.gov), click on the **Proposal
 9. Save your work.
 10. After saving, the buttons at the bottom of the screen should become active. This will allow you to perform the following actions: Modify Request, Delete Request, Cancel, and Forward to SPO.
 11. Click **Forward to SPO** to submit your request to NSF.
-12. Prepare your justification based on the requirements of the Grant Proposal Guide (GPG). Here's a helpful excerpt from the GPG:
-
-In the event the grantee desires to continue the project with a substitute PI/PD, the Authorized Organizational Representative should advise the NSF Program Officer of the substitute PI/PD's name, qualifications, and current and pending support for research from all sources. The recommended substitute PI/PD shall countersign the notification letter to the NSF Program Officer from the Authorized Organizational Representative nominating the substitute PI/PD. If approved by NSF, the Grants Officer will amend the grant. If not approved, NSF may take steps, pursuant to GPM 910, "Suspension and Termination Procedures," to suspend or terminate the grant.
-
-13. Complete the following fields:
+12. Prepare your justification based on the requirements of the Grant Proposal Guide (GPG). Here's a helpful excerpt from the GPG:  
+In the event the grantee desires to continue the project with a substitute PI/PD, the Authorized Organizational Representative should advise the NSF Program Officer of the substitute PI/PD's name, qualifications, and current and pending support for research from all sources. The recommended substitute PI/PD shall countersign the notification letter to the NSF Program Officer from the Authorized Organizational Representative nominating the substitute PI/PD. If approved by NSF, the Grants Officer will amend the grant. If not approved, NSF may take steps, pursuant to GPM 910, "Suspension and Termination Procedures," to suspend or terminate the grant.  
+13. Complete the following fields:  
 - **Proposed PI SSN:** Enter the SSN of the new PI. Click on the **Check PI** button to verify the new PI's SSN. If correct, the new PI's name will appear.
 - **Effective Date:** Enter the effective date in mm/dd/yyyy format.
 - **Justification for Request:** Type (or cut and paste) the you're requesting a change of PI.
@@ -34,7 +32,7 @@ In the event the grantee desires to continue the project with a substitute PI/PD
 - The **PDF Conversion/Compliance Check** screen will appear. When the upload is completed, the **File Successfully Converted/Checked** screen will appear. Click on the **Proofread PDF** button. A new window (with the converted PDF document) will appear.
 - After reviewing this document for accuracy, close this window. The **Proofreading Complete** screen will appear. If the PDF document isn't correct, click **Cancel**. If the PDF document is correct, click **Save**.
 
-## To forward your Change of PI Request from PI to SRO  
+## Change of PI request from PI to SRO  
 
 1. Select **Forward to SRO** to submit the request. The **Change of PI Request Verification** screen will appear.
 2. Select **Forward to SPO** again to confirm the action.
@@ -45,7 +43,7 @@ In the event the grantee desires to continue the project with a substitute PI/PD
 >The Request for a Add Co-PI/Change of PI/Co-PI has been successfully Forwarded to SPO.  
 4. Click on the **Search Prepared by PI List** to return to the Notifications and Requests screen.
 
-## Logging into FastLane SRO functions  
+## Log into FastLane SRO functions  
 
 1. On the [FastLane homepage](http://www.fastlane.nsf.gov), select **Research Administration** (on the left hand-side of the page).
 2. Enter your login information (last name, SSN, password) and select the **Research Administration Functions** radio button. Click **Login** and the **Research Administration** screen will appear.
@@ -53,7 +51,7 @@ In the event the grantee desires to continue the project with a substitute PI/PD
 4. The **Forwarded by PI** tab automatically appears first. The lower portion of the screen contains a row of information that begins with an award number and PI name.
 5. To review the request information, simply click on any of the words in that row.
 
-## To forward Change of PI Request from SRO to NSF  
+## Change of PI request from SRO to NSF  
 
 1. The end of the row contains **Submit** and **Delete** links. Click **Submit** to send the request to NSF.
 2. Click the **Sign and Submit** button to approve the change. The **Change of PI Request --- Verification** screen will appear.

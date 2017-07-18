@@ -1,8 +1,8 @@
 ---
 title: Definitions
-permalink: /awardees/definitions/
+permalink: /resources/awardees/phase-1/definitions/
 layout: secondary-narrow
-sidenav: awardees
+sidenav: phase-1
 ---
 
 # Definitions

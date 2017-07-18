@@ -1,8 +1,8 @@
 ---
  title: Forms
- permalink: /awardees/forms/
- layout: secondary-narrow
- sidenav: awardees
+ permalink: /resources/awardees/phase-1/forms/
+ layout: resources-layout
+ sidenav: phase-1
 ---
 # Forms and Checklists
 

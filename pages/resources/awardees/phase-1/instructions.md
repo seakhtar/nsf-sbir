@@ -1,12 +1,12 @@
 ---
 title: Instructions
-permalink: /awardees/instructions/
-layout: secondary-narrow
-sidenav: awardees
+permalink: /resources/awardees/phase-1/instructions/
+layout: resources-layout
+sidenav: phase-1
 ---
 # Instructions
 
-From the FastLane Homepage http://www.fastlane.nsf.gov select:
+From the [FastLane homepage](http://www.fastlane.nsf.gov) select:
 
 1. **"Proposals, Awards, & Status"** link (On the navigation bar)  
   a. **"PI/Co-PI Log In"** Enter your login information and press **"Log in"**  

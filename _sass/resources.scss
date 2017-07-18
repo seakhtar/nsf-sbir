@@ -1,7 +1,7 @@
 .resources-layout {
 
-  .usa-width-three-fourths {
-    padding: 0 $space-xl 0 $space-m;
+  .usa-width-two-thirds {
+    // padding: 0 $space-xl 0 $space-m;
     h1 {
       font-size: $font-size-xl;
       font-weight: 700;
@@ -18,12 +18,26 @@
         letter-spacing: normal;
       }
     }
+    h2,
+    h3 {
+      font-size: $font-size-m;
+      margin-top: $space-xl;
+    }
+    h3 {
+      font-weight: 500;
+    }
+    h2 + h3 {
+      margin-top: 0;
+    }
     p,
     ul,
     ol,
     li {
       max-width: none;
       // line-height: $leading-l;
+    }
+    strong {
+      font-weight: 600;
     }
   }
 

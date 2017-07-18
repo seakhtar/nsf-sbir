@@ -1,7 +1,7 @@
 ---
 title: For applicants
 layout: secondary-narrow
-permalink: /resources/applicants/ 
+permalink: /resources/applicants/
 ---
 
 # For applicants
@@ -16,7 +16,7 @@ Thinking of applying for Phase I funding? Ask all your application-related quest
 {% else %}
 ## Q&A videos
 
-Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://www.youtube.com/watch?v=1Tm_ToVRpqE) and [what you need to know before applying](https://www.youtube.com/watch?v=-0lhmfczIJ8&feature=youtu.be). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.) 
+Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://www.youtube.com/watch?v=1Tm_ToVRpqE) and [what you need to know before applying](https://www.youtube.com/watch?v=-0lhmfczIJ8&feature=youtu.be). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.)
 {% endif %}
 
 ## Startup and partnership profiles
@@ -25,7 +25,7 @@ Get to know our awardees better — we’ve got [video profiles of funded startu
 
 ## FastLane guide
 
-Before you start your application, take a look at our [FastLane guide]({{ site.baseurl }}/fastlane/fastlane-1/). This way, once the next solicitation opens, you'll be ready to craft your application. 
+Before you start your application, take a look at our [FastLane guide]({{ site.baseurl }}/fastlane/). This way, once the next solicitation opens, you'll be ready to craft your application. 
 
 ## FAQ
 

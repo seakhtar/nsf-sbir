@@ -21,7 +21,7 @@ primary:
       - text: For Applicants
         href: /resources/applicants/
       - text: For Phase I Awardees
-        href: /resources/awardees/
+        href: /resources/awardees/phase-1/
       - text: For Phase II Awardees
         href: /resources/awardees/phase-2/
       - text: For Reviewers
@@ -36,15 +36,15 @@ primary:
 
 fastlane:
   - text: Fastlane Overview
-    href: /fastlane/fastlane-1/
+    href: /fastlane/
   - text: Form Preparation
-    href: /fastlane/fastlane-2/
+    href: /fastlane/form-prep/
   - text: Form Preparation part 2
-    href: /fastlane/fastlane-2-2/
+    href: /fastlane/form-prep-2/
   - text: Form Preparation part 3
-    href: /fastlane/fastlane-2-3/
+    href: /fastlane/form-prep-3/
   - text: Proposal Submission
-    href: /fastlane/fastlane-3/
+    href: /fastlane/proposal-submission/
 
 review:
   - text: Review Process
@@ -60,31 +60,32 @@ review:
   - text: Virtual Panels
     href: /review/virtual-panelist/
 
-awardees:
-  - text: Awardees
-    href: /awardees/awardees/
-  - text: General Grant Conditions
+phase-1:
+  - text: Phase I awardees
+    href: /resources/awardees/phase-1/
+  - text: Phase I reporting requirements
+    href: /resources/awardees/phase-1/reporting/
+  - text: Forms and checklists
+    href: /resources/awardees/phase-1/forms/
+  - text: Revising a budget
+    href: /resources/awardees/phase-1/revised-budget/
+  - text: No-cost extension
+    href: /resources/awardees/phase-1/no-cost-extension/
+  - text: Changes at your organization
+    href: /resources/awardees/phase-1/novation/
+  - text: Change of PI
+    href: /resources/awardees/phase-1/pi-change/
+  - text: How to apply for Phase II
+    href: /resources/awardees/phase-1/apply/
+  - text: Phase II instructions
+    href: /resources/awardees/phase-1/instructions/
+  - text: Research experiences
+    href: /resources/awardees/phase-1/research-experiences/
+  - text: General awardee conditions
     href: https://www.nsf.gov/awards/managing/special_conditions.jsp
   - text: CAAR Videos for Phase I Awardees
     href: https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv
-  - text: Phase I Reporting Requirements
-    href: /awardees/reporting/phase-1/
-  - text: How to apply for Phase II
-    href: /awardees/apply/phase-2/
-  - text: Supplemental Funding Opportunities
-    href: /awardees/supplement/
-  - text: Phase II Reporting Requirements
-    href: /awardees/reporting/phase-2/
-  - text: Forms and Checklists
-    href: /awardees/forms/
-  - text: Revising a Budget
-    href: /awardees/revised-budget/
-  - text: No Cost Extension
-    href: /awardees/no-cost-extension/
-  - text: Changes at your Organization
-    href: /awardees/novation/
-  - text: Change of PI
-    href: /awardees/pi-change/
+
 
 phase-2:
   - text: Phase II awardees
@@ -95,19 +96,27 @@ phase-2:
     href: /resources/awardees/phase-2/forms/
   - text: Revising a budget
     href: /resources/awardees/phase-2/revised-budget/
-  - text: No cost extension
+  - text: No-cost extension
     href: /resources/awardees/phase-2/no-cost-extension/
   - text: Changes at your organization
     href: /resources/awardees/phase-2/novation/
   - text: Principal Investigator change
     href: /resources/awardees/phase-2/pi-change/
-  - text: Supplemental funding opportunities
-    href: /resources/awardees/phase-2/phase-2b/
+  - text: Supplemental funding opportunities (Phase IIB)
+    href: /resources/awardees/phase-2/supplement/
   - text: Ambassador
     href: /resources/awardees/phase-2/ambassador/
   - text: General award conditions
     href: https://www.nsf.gov/awards/managing/special_conditions.jsp
 
+phase-2b:
+  - text: Phase II awardees
+    href: /resources/awardees/phase-2/
+
+
+supplement:
+  - text: Phase II supplemental funding
+    href: /resources/awardees/phase-2/supplement/
 
 footer:
   - text: About

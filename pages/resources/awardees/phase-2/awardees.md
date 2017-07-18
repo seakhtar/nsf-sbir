@@ -12,19 +12,15 @@ Here are all the forms you need to manage your Phase II award.
 
 - [Phase II reporting requirements]({{ site.baseurl }}/resources/awardees/phase-2/reporting/)
 - [Common forms and checklists]({{ site.baseurl }}/resources/awardees/phase-2/forms/)
-- [Revising a budget]({{ site.baseurl }}/resources/awardees/phase-2/revised_budget/)
-- [Time extension (no-cost extension)]({{ site.baseurl }}/resources/awardees/phase-2/nce/)
+- [Revising a budget]({{ site.baseurl }}/resources/awardees/phase-2/revised-budget/)
+- [Time extension (no-cost extension)]({{ site.baseurl }}/resources/awardees/phase-2/no-cost-extension/)
 - [Changes at your organization]({{ site.baseurl }}/resources/awardees/phase-2/novation/)
 - [Change of PI (principal investigator)]({{ site.baseurl }}/resources/awardees/phase-2/pi-change/)  
 
 ## Additional awardee information
 
-- Learn how to apply for [supplemental funding opportunities]({{ site.baseurl }}/resources/awardees/phase-2/phase-2b/)
+- Learn how to apply for [supplemental funding opportunities]({{ site.baseurl }}/resources/awardees/phase-2/supplement/)
 - Learn about [Phase II general award conditions](https://www.nsf.gov/awards/managing/special_conditions.jsp)
-
-
-
-
 
 ## Spreading the word
 

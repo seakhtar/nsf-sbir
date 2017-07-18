@@ -1,8 +1,8 @@
 ---
 title: Supplemental Phase IIB
-permalink: /resources/awardees/phase-2/phase-2b/
+permalink:
 layout: resources-layout
-sidenav: phase-2
+sidenav:
 ---
 
 # Phase IIB

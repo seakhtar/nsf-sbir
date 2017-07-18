@@ -1,36 +1,36 @@
 ---
-title: Portfolio Research Experience and Partnerships
-permalink: /awardees/researchexp/
-layout: secondary-narrow
-sidenav: awardees
+title: Research experiences
+permalink: /resources/awardees/phase-1/research-experiences/
+layout: resources-layout
+sidenav: phase-1
 ---
-# Portfolio research experience and partnerships
+# Research experiences
 
 SBIR/STTR-funded startups and small businesses can offer paid research experiences and partnerships to students, teachers, and schools. Here, you can learn more about these partnerships and research experiences.
 
 ## Who can participate?
 
-N#SF SBIR/STTR supports research experiences for the following groups:
+NSF SBIR/STTR supports research experiences for the following groups:
 
 ### High school students
 - Funding support for active research participation by high school students interested in science, technology, and mathematics.
 - **Max funding:** $6,000 per student per year
-- **Timeline:** Rolling submissions; submission three months before the target start date is r#ecommended.
+- **Timeline:** Rolling submissions; submission three months before the target start date is recommended.
 
 ### K-12 and community college teachers
 - Funding support for active involvement of K-12 teachers and community college faculty in engineering research.
 - **Max funding:** $10,000 per teacher per year
--# **Deadline:** Rolling submissions; submission three months before the target start date is recommended.
+- **Deadline:** Rolling submissions; submission three months before the target start date is recommended.
 
 ### Undergraduate students
 - Funding support for active NSF research participation by undergraduate students.
 - **Max funding:** $8,000 per student per year
--# **Deadline:** Rolling submissions; submission three months before the target start date is recommended.
+- **Deadline:** Rolling submissions; submission three months before the target start date is recommended.
 
 ### Community college students and teams
 - Partnership funding between small businesses and community college researchers and students.
 - **Max funding:** $40,000 per year
-- **Deadline:** Rolling submissions; submission three months before the target start date is r#ecommended.
+- **Deadline:** Rolling submissions; submission three months before the target start date is recommended.
 
 ### Veterans
 - Funding support to enable veteran students, pre-college STEM teachers, and/or community college faculty to participate in active NSF grants.
@@ -44,14 +44,14 @@ N#SF SBIR/STTR supports research experiences for the following groups:
 
 ### Supporting documents
 - NSF 06-003: Research Assistantships for High School Students (RAHSS): Supplemental Funding to Current SBIR/STTR Phase II Awards to Broaden Participation in Science and Engineering
--# NSF 11-509: Research Experiences for Teachers (RET) in Engineering and Computer Science
+- NSF 11-509: Research Experiences for Teachers (RET) in Engineering and Computer Science
 - NSF 13-542: Research Experiences for Undergraduates (REU); supplements only
 - NSF 12-076: Dear Colleague Letter - Supplemental Opportunity for Small Business Innovation Research and Small Business Technology Transfer (SBIR/STTR) Community College Research Teams (Phase II-CC)
--# NSF 14-124: Dear Colleague Letter: Veteran's Research Supplement (VRS) Program
+- NSF 14-124: Dear Colleague Letter: Veteran's Research Supplement (VRS) Program
 - NSF 12-069: Dear Colleague Letter: Supplemental Opportunity for Small Business Innovation Research and Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) for CREST/HBCU-RISE Collaborations (Phase IIA)
 
 ### Program Flyers
-[#K-12 and Community College Teachers](/files/RET_Flyer.pdf) | [High School Students](/files/RAHSS_Flyer.pdf)
+[#K-12 and Community College Teachers]({{ site.baseurl }}/assets/files/awardees/RET_Flyer.pdf) | [High School Students]({{ site.baseurl }}/assets/files/awardees/RAHSS_Flyer.pdf)
 
 ### Taryn's Story
 Read about Taryn Imamura's experience with Modular Genetics, Inc. and her award in the Clinton Ideas Matter Essay contest [here](http://www.businesswire.com/news/home/20150202005023/en/Clinton-Ideas-Matter-Essay-Contest-2nd-Place#.VOSmTfnF98E).
@@ -64,12 +64,12 @@ The red dots on the following map represent Phase II NSF SBIR/STTR awardees. Lar
 [See this map on its own page.](https://www.google.com/fusiontables/data?docid=1eR5TPghK5so47xxeR_8vCdZcuhNWNyu1CEqw9MSM#map:id=3) | [See a searchable table with the same information.](https://www.google.com/fusiontables/data?docid=1eR5TPghK5so47xxeR_8vCdZcuhNWNyu1CEqw9MSM#rows:id=1)
 
 ## How to apply
-NSF lists research opportunities on this page, but the application process is managed by the small companies themselves. To apply, please follow the instructions listed at the URL provided by the company, if there is one. If the company doesn't provide specific instructions, contact the company directly via email — [here's an email template you can use.](/flyer/Sample_ContactingNSFSBIRCompanies.docx)
+NSF lists research opportunities on this page, but the application process is managed by the small companies themselves. To apply, please follow the instructions listed at the URL provided by the company, if there is one. If the company doesn't provide specific instructions, contact the company directly via email —-- [here's an email template you can use.]({{ site.baseurl }}/assets/files/awardees/Sample_ContactingNSFSBIRCompanies.docx)
 
 If you need help or have questions, contact us at SBIRresearchexp@nsf.gov.
 
 ### Video and interviews
 
-Check out these videos and interviews to get a better sense of NSF SBIR/STTR's research opportunities.
+Check out these videos and interviews to get a better sense of America's Seed Fund research opportunities.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/GA1hZLbrcOo" frameborder="0" allowfullscreen></iframe>
