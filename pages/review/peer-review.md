@@ -1,11 +1,11 @@
 ---
-title: Peer Review
+title: Peer review guidelines
 permalink: /review/peer-review/
-layout: secondary-narrow
+layout: resources-layout
 sidenav: review
 ---
 
-# Peer Review
+# Peer review guidelines
 
 The fundamental mission of NSF is to promote discoveries and to advance education across the frontiers of knowledge in science and engineering. Consistent with that mission, NSF encourages and supports a wide range of proposals from the research and education community and also from the private small business sector. These proposals are reviewed under the NSF merit review criteria, which covers both the quality of research (**intellectual or technical merit**) and its potential impact on society (**broader impacts**).
 

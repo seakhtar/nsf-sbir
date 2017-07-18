@@ -7,7 +7,7 @@ sidenav: phase-1
 
 # Peer Review
 
-NSF's mission is to promote discoveries and advance education across the frontiers of knowledge in science and engineering. Consistent with that mission, NSF encourages and supports a range of proposals from the research and education communities and the private small business sector. NSF reivews these proposals under the NSF merit review criteria, which cover the quality of research (**intellectual or technical merit**) and its potential impact on society (**broader impacts**).
+NSF's mission is to promote discoveries and advance education across the frontiers of knowledge in science and engineering. Consistent with that mission, NSF encourages and supports a range of proposals from the research and education communities and the private small business sector. NSF reviews these proposals under the NSF merit review criteria, which cover the quality of research (**intellectual or technical merit**) and its potential impact on society (**broader impacts**).
 
 NSF has created broad solicitation topics that reflect the high-technology-investment sector's interests. **Reviewers** As you're preparing your review comments, please consult with the appropriate program director on the topic that is under consideration.
 

@@ -12,7 +12,7 @@ section_image_caption: |
 
 # About
 
-For 40 years, America’s Seed Fund powered by NSF has helped startups and small businesses transform their ideas into marketable products and services. We focus on high-risk, high-impact technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country. Our goals are to foster innovation and help create businesses and jobs for Americans, and companies seed funded by our program have since [gone on to tremendous success]({{ '/portfolio/' | relative_url }}). We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR). 
+For 40 years, America’s Seed Fund powered by NSF has helped startups and small businesses transform their ideas into marketable products and services. We focus on high-risk, high-impact technologies — those that show promise but whose success hasn’t yet been validated — and each year, we award nearly $190 million in funding to entrepreneurs across the country. Our goals are to foster innovation and help create businesses and jobs for Americans, and companies seed funded by our program have since [gone on to tremendous success]({{ '/portfolio/' | relative_url }}). We are a congressionally mandated program — Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR).
 
 </div>
 </div>
@@ -55,7 +55,7 @@ You'll work with a program director, who will serve as your mentor and advocate.
 
 - **Up to $1.5M / 24+ months.** Receive up to $225,000 in seed capital to conduct product Research and Development (R&D) over six to 12 months. During this period, your company will be immersed in the NSF network and you'll receive training and mentorship from seasoned entrepreneurs and innovators. After you complete your Phase I award, you're welcome to apply for a second-round investment of $750,000 over 24 months. During the course of that award, you can apply for supplements that may add up to another $500,000.
 
-- **Feedback from experts**: Every proposal is evaluated by a group of technical and commercial experts, who provide detailed feedback to all reviewed applications; even companies that don't receive awards get valuable, actionable feedback. 
+- **Feedback from experts**: Every proposal is evaluated by a group of technical and commercial experts, who provide detailed feedback to all reviewed applications; even companies that don't receive awards get valuable, actionable feedback.
 
 - **NSF's stamp of approval**: An NSF award is more than just funding. Being selected out of thousands of applicants signals that your technology and expertise have strong technical and commercial merit.
 
@@ -90,7 +90,7 @@ Applicants often ask whether they can update their research plan during the cour
 
 If your technology needs more development — and if you’ve met all the Phase I requirements — you can apply for more funding. Phase II awardees receive up to $750,000 over two years.
 
-Phase II awardees can apply for Phase IIB funding to speed up commercialization. To be considered for Phase IIB funding (up to $500,000), you need a third-party investment of at least $100K. Visit our [Supplemental funding page](https://www.nsf.gov/eng/iip/sbir/Supplement/) to learn more.
+Phase II awardees can apply for Phase IIB funding to speed up commercialization. To be considered for Phase IIB funding (up to $500,000), you need a third-party investment of at least $100K. [Learn more about Supplemental funding]({{ site.baseurl}}/resources/awardees/supplement/) and visit our awardee resource guide to [apply for Phase IIB supplemental funding]({{ site.baseurl}}/resources/awardees/phase-1/apply/).
 
 {% if site.app_process == "active" %}
 For complete program information, check out the latest [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}) or [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}).
@@ -99,16 +99,20 @@ For more program information, check out our last solicitation. Our next solicita
 {% endif %}
 </div>
 </section>
+
 <section class="background-light-neutral">
 <div class="usa-section usa-content usa-grid" >
 <div class="usa-width-one-half" markdown="1">
+
 ### We support small companies and new entrepreneurs
 
 We work with startups and small businesses, and we welcome proposals from newly formed companies — you don’t need a track record of commercialization to apply for funding. Please note that your company needs to be a legal entity before you apply.
 
 If your company is majority owned by venture capital operating companies, hedge funds, or private-equity firms, you’re not eligible to apply for funding, although joint ventures and partnerships are eligible. Read more about proposal eligibility in our [Eligibility Guide](https://www.sbir.gov/faqs/eligibility-requirements).
 </div>
+
 <div class="usa-width-one-half" markdown="1">
+
 ### We support R&D with lots of technical risk
 
 Our seed funding is for R&D that involves a good amount of technical risk. If you’re already sure that your product is technically feasible, this program isn’t a good fit for you.
@@ -120,6 +124,7 @@ In selected cases, we support innovations to existing products and services, but
 </section>
 <section class="background-light-blue">
 <div class="usa-section usa-content usa-grid" markdown="1">
+
 ## About NSF
 
 America's Seed Fund is a program within the [National Science Foundation](https://www.nsf.gov/). NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with a $7.5 billion budget.

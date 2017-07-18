@@ -47,17 +47,17 @@ fastlane:
     href: /fastlane/proposal-submission/
 
 review:
-  - text: Review Process
+  - text: Review process
     href: /review/
-  - text: Peer Review
+  - text: Peer review
     href: /review/peer-review/
-  - text: Instructions for Panelists
+  - text: Instructions for panelists
     href: /review/panelist-system/
-  - text: Instructions for Mail Reviewers
+  - text: Instructions for mail reviewers
     href: /review/peer-mail-review/
-  - text: Travel Instructions
+  - text: Travel instructions
     href: /review/travel/
-  - text: Virtual Panels
+  - text: Virtual panels
     href: /review/virtual-panelist/
 
 phase-1:

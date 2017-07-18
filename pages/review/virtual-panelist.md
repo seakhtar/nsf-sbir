@@ -1,7 +1,7 @@
 ---
 title: Virtual Panelist
 permalink: /review/virtual-panelist/
-layout: secondary-narrow
+layout: resources-layout
 sidenav: review
 ---
 
