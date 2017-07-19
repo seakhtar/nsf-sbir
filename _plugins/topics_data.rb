@@ -1,10 +1,6 @@
 require 'yaml'
 require 'fileutils'
 
-# Duplicate what we have for awards,
-# but substituting file paths to be based on the topics config and dataset
-# Instead of awards
-
 module SiteData
   class TopicsData
     attr_reader :path, :basepath, :meta_path, :topics, :meta, :site, :config_params, :util
