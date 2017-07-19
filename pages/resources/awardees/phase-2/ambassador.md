@@ -19,13 +19,13 @@ Help spread the word about your funding one tweet at a time! You can help spread
 Here are some sample tweets you can use too:  
 
 > .@NSFSBIR provides seed funding for science and technology #startups (like us!) https://seedfund.nsf.gov/  
-> [Tweet this](https://ctt.ec/ce891)
+[Tweet this](https://ctt.ec/ce891)
 
 > Proud to be an @NSFSBIR recipient. Find out if @NSF can help you, too. https://seedfund.nsf.gov/  
-> [Tweet This](https://ctt.ec/f6qDd)
+[Tweet this](https://ctt.ec/f6qDd)
 
 > Interested in learning about one of our funders, @NSFSBIR? (Video): https://www.youtube.com/watch?v=vPNkUWDKvck  
-> [Tweet this](https://ctt.ec/1j_53)
+[Tweet this](https://ctt.ec/1j_53)
 
 ## NSF logo
 

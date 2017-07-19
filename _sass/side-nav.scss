@@ -9,7 +9,8 @@
     padding-right: $space-s;
 
     a {
-      color: $color-base;
+      // color: $color-base;
+      color: $color-primary-alt-medium;
       font-family: $font-serif;
       font-size: $font-size-xxs;
       font-weight: 400;
@@ -17,7 +18,7 @@
       padding: 1rem 1rem 1rem 2rem;
       margin: 0;
       background-color: transparent;
-      border-bottom: 1px dotted $color-gray-light;
+      border-bottom: 1px dotted $color-primary-alt-medium;
 
       &:hover {
         background-color: $color-white-transprent;
