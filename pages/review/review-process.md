@@ -1,7 +1,7 @@
 ---
 title: Review process
 permalink: /review/
-layout: secondary-narrow
+layout: resources-layout
 sidenav: review
 ---
 # Review process
