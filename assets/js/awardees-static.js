@@ -19,17 +19,27 @@ $(function() {
   var awardsDetailsList = new List('awards-details-list', options);
   window.awardsDetailsList = awardsDetailsList;
 
+  var awardsLists = [
+    awardsDetailsList
+  ];
 
-  function slugify(string) {
+  if ($('#awards-details-list-phase-2').length) {
+    var awardsDetailsList2 = new List('awards-details-list-phase-2', options);
+    window.awardsDetailsList2 = awardsDetailsList2;
+    awardsLists.push(awardsDetailsList2);
+  }
+
+  function smush(string) {
     return string
       .toString()
       .trim()
       .toLowerCase()
-      .replace(/\s+/g, "-")
-      .replace(/[^\w\-]+/g, "")
-      .replace(/\-\-+/g, "-")
-      .replace(/^-+/, "")
-      .replace(/-+$/, "");
+      .replace(/\s+/g, '-')
+      .replace(/[^\w\-]+/g, '')
+      .replace(/\-\-+/g, '-')
+      .replace(/^-+/, '')
+      .replace(/-+$/, '')
+      .replace(/-/g, '');
   }
 
   function getQueryVariable(variable) {
@@ -45,20 +55,30 @@ $(function() {
     }
   }
 
-  awardsDetailsList.filter(function(company){
-    var isMatching = slugify(company.values().awardeeName) == getQueryVariable('company');
+  awardsLists.forEach(function(list) {
+    if (list) {
+      list.filter(function(company){
+        var isMatching = smush(company.values().awardeeName) == smush(getQueryVariable('company'));
 
-    if (isMatching) {
-      $('.results-company-title').text(company.values().awardeeName);
-      $('.results-company-title').show();
+        if (isMatching) {
+          $listContainer = $(list.listContainer);
+          $listContainer.show();
+          $listContainer.find('.results-company-title').text(company.values().awardeeName);
+          $listContainer.find('.results-company-title').show();
+          $listContainer.find('.results-phase').show();
+        }
+
+        return isMatching;
+      });
     }
-
-    return isMatching;
   });
+
+
 
   function showFailure(text) {
     var text = text || getQueryVariable('company');
-    if (awardsDetailsList.visibleItems.length === 0) {
+    var visibleAwards = awardsLists.map(function(list) { return list.visibleItems.length == 0 })
+    if (visibleAwards.indexOf(true) < 0) {
       $('.results-query').text(text);
       $('.results-failure').show();
       $('.awards-search-form').show();
@@ -70,15 +90,17 @@ $(function() {
 
   showFailure();
 
-
   $('.results-loading').hide();
   $('.results').show();
 
-
-
   window.searchAwards = function searchAwards(value) {
-    awardsDetailsList.filter();
-    awardsDetailsList.fuzzySearch(value);
+    awardsLists.forEach(function(list) {
+      if (list) {
+        list.filter();
+        list.fuzzySearch(value);
+      }
+    });
+
     $('.results-loading').show();
     setTimeout(function(){
       $('.results-loading').hide();
