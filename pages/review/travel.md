@@ -1,7 +1,7 @@
 ---
 title: Travel
 permalink: /review/travel/
-layout: secondary-narrow
+layout: resources-layout
 sidenav: review
 ---
 
