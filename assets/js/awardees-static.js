@@ -77,14 +77,15 @@ $(function() {
 
   function showFailure(text) {
     var text = text || getQueryVariable('company');
-    var visibleAwards = awardsLists.map(function(list) { return list.visibleItems.length == 0 })
-    if (visibleAwards.indexOf(true) < 0) {
+    var visibleAwards = awardsLists.map(function(list) { return list.visibleItems.length > 0; })
+
+    if (visibleAwards.indexOf(true) >= 0) {
+      $('.results-failure').hide();
+      $('.awards-search-form').hide();
+    } else {
       $('.results-query').text(text);
       $('.results-failure').show();
       $('.awards-search-form').show();
-    } else {
-      $('.results-failure').hide();
-      $('.awards-search-form').hide();
     }
   }
 

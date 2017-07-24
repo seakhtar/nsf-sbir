@@ -85,7 +85,7 @@ class: awardees-layout
                 <li class="table-row">
                   <div class="table-row-item" data-header="Company">
                     {% assign awardeeSlug = matching.awardeeName | slugify %}
-                    <a href="{{ page.details_url | append: awardeeSlug | append: '#' | append: awardeeSlug | relative_url }}" alt="{{ matching.awardeeName }}">
+                    <a href="{{ page.details_url | append: awardeeSlug | relative_url }}" alt="{{ matching.awardeeName }}">
                     <span>{{ matching.awardeeName }}</span>
                     </a>
                   </div>
