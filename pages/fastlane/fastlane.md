@@ -10,7 +10,7 @@ Submitting a SBIR/STTR Phase I Proposal in FastLane
 
 The Phase I SBIR solicitation and STTR solicitation explain what information should go into the proposal. The following steps will walk through the process of submitting a proposal into FastLane, NSF's electronic submission system. Remember to submit your proposal early. FastLane will not accept proposals after 5:00 pm (submitter's time as registered in FastLane).
 
-PDF version is available for [download](/files/Phase_I_Proposal_Preparation_Booklet.pdf).
+PDF version is available for [download]({{ site.baseurl }}/assets/files/Phase_I_Proposal_Preparation_Booklet.pdf).
 
 ## 1. FastLane Overview
 
@@ -20,7 +20,7 @@ PDF version is available for [download](/files/Phase_I_Proposal_Preparation_Book
 
 * [Dun and Bradstreet Data Universal Numbering System (DUNS)](https://www.nsf.gov/cgi-bin/good-bye?https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm)
 * [System for Award Management (SAM)](https://www.sam.gov/portal/public/SAM)
-* [Small Business Administration (SBA) Company Registry](http://www.sbir.gov/registration)
+* [Small Business Administration (SBA) Company Registry](https://www.sbir.gov/registration)
 * [NSF FastLane](https://www.fastlane.nsf.gov/n1/N1AddInst.html) - register company and Principal Investigator (PI)
 
 ### Formatting Instructions
@@ -33,7 +33,7 @@ As a reminder, any documents uploaded into FastLane should follow the formatting
 
 ### Create Proposal
 
-Go to the FastLane home page at http://www.FastLane.nsf.gov.
+Go to the FastLane home page at [https://www.FastLane.nsf.gov](https://www.FastLane.nsf.gov).
 Select the **Proposal, Awards & Status** link on the top (blue) menu bar.
 Fill in Log In information in the "PI/CO-PI Log In" box on the right side of the screen.
 **Note: The Principal Investigator (PI) for the proposed Phase I project MUST login and prepare the proposal**

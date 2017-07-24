@@ -39,7 +39,7 @@ The Project Budget Screen will appear. The company name should be highlighted; t
 
 Year 1 will be highlighted; then Click the **"Add"** button. FastLane will return to the Project Budget Screen.
 
-![Add year selection box]({{ site.baseurl }}/assets/img/fastlane/27-add-project-budget.jpg)
+![Add year selection box]({{ site.baseurl }}/assets/img/fastlane/4-AddYear.jpg)
 
 ### Funds
 
@@ -50,12 +50,12 @@ Click on the **"Funds"** hyperlink (under the Year heading).
 >IMPORTANT: To avoid budget reductions, NSF strongly advises you to visit the Department of Labor/Bureau of Labor Statistics website to >determine the allowed pay scale for each budgeted position. In general, unless your company has other significant internal revenue >sources, as well as recent payroll records showing a precedent for the requested salary, the NSF will not allow budgeted salaries in >excess of the median salary for the same job title in the same geographical area. Click here to search for your city/state data. If your >city is not listed, click here and use your state data. Remember that direct salaries and wages requested in an NSF SBIR/STTR budget are >permitted only for work on R&D tasks.
 
 In most cases, every employee listed in line A or B of the budget should fall under one of the following four occupational groups:
-- [Management Occupations (11-0000)](http://www.bls.gov/oes/current/oes_nat.htm#11-0000)
-- [Computer and Mathematical Occupations (15-0000)](http://www.bls.gov/oes/current/oes_nat.htm#15-0000)
-- [Architecture and Engineering Occupations (17-0000)](http://www.bls.gov/oes/current/oes_nat.htm#17-0000)
-- [Life, Physical, and Social Science Occupations (19-0000)](http://www.bls.gov/oes/current/oes_nat.htm#19-0000)
+- [Management Occupations (11-0000)](https://www.bls.gov/oes/current/oes_nat.htm#11-0000)
+- [Computer and Mathematical Occupations (15-0000)](https://www.bls.gov/oes/current/oes_nat.htm#15-0000)
+- [Architecture and Engineering Occupations (17-0000)](https://www.bls.gov/oes/current/oes_nat.htm#17-0000)
+- [Life, Physical, and Social Science Occupations (19-0000)](https://www.bls.gov/oes/current/oes_nat.htm#19-0000)
 
-Click [here](/files/SBIR_Salary_Validation_Guide.pdf) for detailed salary survey guidance
+View the [SBIR Salary Validation Guide]({{ site.baseurl }}/assets/files/awardees/SBIR_Salary_Validation_Guide.pdf) for detailed salary survey guidance.
 
 **A. Senior Personnel section:** Click the **"Add/Remove Senior Personnel"** button.
 
