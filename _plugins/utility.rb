@@ -40,10 +40,6 @@ module Jekyll
       end
     end
 
-    def shuffle(array)
-      array.shuffle
-    end
-
     def matches_url(page_url, url)
       if url.is_a? Array
         urls = url.map do |u|
@@ -68,6 +64,22 @@ module Jekyll
 
     def phone(code)
       code = "#{code[0..2]}–#{code[3..5]}–#{code[6..-1]}"
+    end
+
+    def where_phase_1_and_2(awards)
+      awards.select do |a|
+        a['fundProgramName'].downcase.include?("phase i")
+      end.uniq
+    end
+
+    def where_phase_1(awards)
+      where_phase_1_and_2(awards).reject do |a|
+        a['fundProgramName'].downcase.include?("phase ii")
+      end.uniq
+    end
+
+    def where_phase_2(awards)
+      where_phase_1_and_2(awards) - where_phase_1(awards)
     end
   end
 end
