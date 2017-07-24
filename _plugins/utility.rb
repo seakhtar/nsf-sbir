@@ -40,10 +40,6 @@ module Jekyll
       end
     end
 
-    def shuffle(array)
-      array.shuffle
-    end
-
     def matches_url(page_url, url)
       if url.is_a? Array
         urls = url.map do |u|
