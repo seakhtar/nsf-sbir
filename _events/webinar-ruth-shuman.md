@@ -5,6 +5,6 @@ eventType: Webinar
 date: May 4, 2007
 timeStart: 2:00 PM
 timeEnd: 3:30 PM EST
-registrationLink: http://www.18f.gov
+registrationLink: https://webinarlink.com
 moreInfoLink:
 ---

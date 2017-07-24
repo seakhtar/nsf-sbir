@@ -1,11 +1,13 @@
 ---
-title: Panelist System
+title: Instructions for panelists
 permalink: /review/panelist-system/
-layout: secondary-narrow
+layout: resources-layout
 sidenav: review
 ---
 
-# Panelist System
+# Instructions for panelists
+
+## The panelist system
 
 The "Panelist System Selection" feature of NSF's FastLane system is **required** by the Directorate of Engineering for all Panelist Functions.
 The **Panelist Functions** feature has four (4) very important components.
@@ -15,7 +17,7 @@ The **Panelist Functions** feature has four (4) very important components.
 - **Travel and Reimbursement:** Allows panelists to' register for the panel, enter/update personal information, provide social security number and enter/update financial institution information for reimbursement or payment. Your financial institution data is required to process panel participation payments and reimbursements. NSF will protect and will not display your SSN on any materials. You must enter your individual banking information. NSF is not permitted to reimburse your employer or an institution for your participation.
 - **Reviewer and Demographic Information:** Allows panelists to update name, contact information, race, ethnicity, gender, citizenship status and alert NSF to any disability or special need for accommodation.
 
-## Step-by-Step Instructions for Panelist System Selection:
+## Step-by-Step instructions for panelist system selection
 
 1. Go to www.fastlane.nsf.gov.
 2. Select **"Panelist Functions"** from the dark blue toolbar at the top of the screen.
@@ -35,4 +37,4 @@ The **Panelist Functions** feature has four (4) very important components.
   - **Online Help** is available from all screens by clicking on the "Help" button in the upper left corner.
 
 ### Technical Problems with FastLane?
-Send an e-mail to fastlane@nsf.gov or call the **FastLane Help Desk** at **1-800-673-6188** Monday through Friday between 7:00 am and 9:00 pm Eastern Time.
+[Send an e-mail to fastlane@nsf.gov](mailto:fastlane.gov) or call the **FastLane Help Desk** at **1-800-673-6188** Monday through Friday between 7:00 am and 9:00 pm Eastern Time.
