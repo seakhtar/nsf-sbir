@@ -10,7 +10,7 @@ Submitting a SBIR/STTR Phase I Proposal in FastLane
 
 The Phase I SBIR solicitation and STTR solicitation explain what information should go into the proposal. The following steps will walk through the process of submitting a proposal into FastLane, NSF's electronic submission system. Remember to submit your proposal early. FastLane will not accept proposals after 5:00 pm (submitter's time as registered in FastLane).
 
-PDF version is available for [download]({{ site.baseurl }}/assets/files/Phase_I_Proposal_Preparation_Booklet.pdf).
+PDF version is available for [download]({{ site.baseurl }}/assets/files/applicants/Phase_I_Proposal_Preparation_Booklet.pdf).
 
 ## 1. FastLane Overview
 

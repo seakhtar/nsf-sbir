@@ -4,12 +4,14 @@ permalink: /apply/
 layout: secondary-narrow
 timeline:
   - title: anytime before<br> the deadline
-    description: Call for proposals (solicitation) released.
+    description: Call for proposals (solicitation) released {{ site.solicitation_released }}.
     steps:
       - step-1
       - step-2
       - step-3
   - title: 90 days before<br> the deadline
+    description: Call for proposals (solicitation) released.
+    inactive_description: Call for proposals (solicitation) released.
     steps:
       - step-4
   - title: 60 days before<br> the deadline
@@ -18,21 +20,30 @@ timeline:
       - step-6
   - title: "Deadline<br> {{ site.deadline }}"
     description: "Applications due by 5:00 p.m. in your local time zone."
-    inactive_description:
+    inactive_description: "Applications due by 5:00 p.m. in your local time zone."
     note: "Note: Your time zone is based on your company's address as you listed it in your application."
-    inactive_note:
+    inactive_note: "Note: Your time zone is based on your company's address as you listed it in your application."
     deadline: true
   - title: 1-3 months after<br> the deadline
     description: Applications undergo panel and merit reviews.
+    inactive_description: Applications undergo panel and merit reviews.
+    inactive_note:
   - title: 4-6 months after<br> the deadline
     description: We'll notify you whether your proposal is accepted or declined.
+    inactive_description: We'll notify you whether your proposal is accepted or declined.
+    inactive_note:
   - title: 5-6 months after<br> the deadline
     description: If your proposal is accepted, you'll receive funding of up to $225,000.
+    inactive_description: If your proposal is accepted, you'll receive funding of up to $225,000.
+    inactive_note:
 ---
 <h1 class="page-title">How to apply</h1>
 
 <p class="text-medium">
 Learn about our recommended Phase I application timeline, how to prepare your proposal, and what to expect once you submit.
+{% if site.app_process == "inactive" %}
+Details for the next {{ site.deadline }} deadline will be posted on {{  site.solicitation_released }} in the upcoming solicitations.
+{% endif %}
 </p>
 
 <ol class="timeline {% if site.app_process == "inactive" %} timeline-inactive {% endif %}">
