@@ -1,5 +1,6 @@
 ---
 - photo: Rajesh-compressed.jpg
+  name: Rajesh Mehta
   first_name: Rajesh
   last_name: Mehta
   email: rmehta@nsf.gov
@@ -18,6 +19,7 @@
   topic_permalink: "/topics/manufacturing-and-nanotechnology/"
   topics: []
 - photo: Debasis-compressed.jpg
+  name: Debasis Majumdar
   first_name: Debasis
   last_name: Majumdar
   email: dmajumda@nsf.gov
@@ -39,6 +41,7 @@
   topic_permalink: "/topics/materials-and-instrumentation/"
   topics: []
 - photo: Ruth-compressed.jpg
+  name: Ruth Shuman
   first_name: Ruth
   last_name: Shuman
   email: rshuman@nsf.gov
@@ -58,6 +61,7 @@
   topic_permalink: "/topics/biological/"
   topics: []
 - photo: Henry-compressed.jpg
+  name: Henry Ahn
   first_name: Henry
   last_name: Ahn
   email: hahn@nsf.gov
@@ -78,6 +82,7 @@
   topic_permalink: "/topics/biomedical/"
   topics: []
 - photo: Anna-compressed.jpg
+  name: Anna Brady-Estevez
   first_name: Anna
   last_name: Brady-Estevez
   email: abrady@nsf.gov
@@ -107,7 +112,8 @@
   topic_permalink: "/topics/chemical-and-environmental/"
   topics: []
 - photo: Glenn-compressed.jpg
-  first_name: Glenn H.
+  name: Glenn H. Larsen
+  first_name: Glenn
   last_name: Larsen
   email: glarsen@nsf.gov
   bio: joined the National Science Foundation in 1987 as the computer systems engineer
@@ -126,7 +132,8 @@
   topic_permalink: "/topics/educational/"
   topics: []
 - photo: Murali-compressed.jpg
-  first_name: Muralidharan S.
+  name: Muralidharan S. Nair
+  first_name: Muralidharan
   last_name: Nair
   email: mnair@nsf.gov
   bio: is a Program Director in the areas of Electronic Hardware, Robotics, and Wireless
@@ -154,6 +161,7 @@
   topic_permalink: "/topics/electronic-hardware-robotics-and-wireless/"
   topics: []
 - photo: Peter-compressed.jpg
+  name: Peter Atherton
   first_name: Peter
   last_name: Atherton
   email: patherto@nsf.gov
@@ -179,6 +187,7 @@
   topic_permalink: "/topics/information-technologies/"
   topics: []
 - photo: Rick-compressed.jpg
+  name: Rick Schwerdtfeger
   first_name: Rick
   last_name: Schwerdtfeger
   email: rschwerd@nsf.gov
@@ -211,6 +220,7 @@
   - topic: Semiconductors (S) and Photonic Devices and Materials (PH)
     permalink: "/topics/semiconductors-and-photonic-devices/"
 - photo: Jesus-compressed.jpg
+  name: Jesus Soriano
   first_name: Jesus
   last_name: Soriano
   email: jsoriano@nsf.gov
@@ -239,6 +249,7 @@
   topic_permalink: "/topics/smart-health/"
   topics: []
 - photo: Ben-compressed.jpg
+  name: Ben Schrag
   first_name: Ben
   last_name: Schrag
   email: bschrag@nsf.gov
