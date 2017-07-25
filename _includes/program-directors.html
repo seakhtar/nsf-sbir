@@ -1,5 +1,5 @@
 <ul class="pd-list">
-  {% assign sorted_pd = (site.data.program-directors | sort: 'last_name') %}
+  {% assign sorted_pd = site.data.program-directors | sort: 'last_name' %}
   {% for director in sorted_pd %}
     <li class="pd-card">
       {% if director.photo %}
