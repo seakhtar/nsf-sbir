@@ -1,6 +1,6 @@
 ---
 title: Peer review guidelines
-permalink: /review/peer-review/
+permalink: /resources/review/peer-review/
 layout: resources-layout
 sidenav: review
 ---

@@ -48,17 +48,17 @@ fastlane:
 
 review:
   - text: Review process
-    href: /review/
+    href: /resources/review/
   - text: Peer review
-    href: /review/peer-review/
+    href: /resources/review/peer-review/
   - text: Instructions for panelists
-    href: /review/panelist-system/
+    href: /resources/review/panelist-system/
   - text: Instructions for mail reviewers
-    href: /review/peer-mail-review/
+    href: /resources/review/peer-mail-review/
   - text: Travel instructions
-    href: /review/travel/
+    href: /resources/review/travel/
   - text: Virtual panels
-    href: /review/virtual-panelist/
+    href: /resources/review/virtual-panelist/
 
 phase-1:
   - text: Phase I awardees

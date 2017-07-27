@@ -1,6 +1,6 @@
 ---
 title: Review process
-permalink: /review/
+permalink: /resources/review/
 layout: resources-layout
 sidenav: review
 ---
@@ -12,12 +12,12 @@ All proposals are carefully reviewed by a minimum of three experts in the partic
 
 All NSF proposals are evaluated through use of the two National Science Board (NSB)-approved merit review criteria: intellectual merit and the broader impacts of the proposed effort. In the case of the NSF SBIR/STTR Program, critical additional review criteria are utilized to highlight the specific objectives of the program and to ensure that all proposals are reviewed for both their technical and commercial merits.
 
-- **[Peer Review Guidelines (Technical/Commercial)]({{ site.baseurl }}/review/peer-review/)**: The SBIR/STTR peer review criteria, the Conflict of Interest (COI) form, and suggestions for writing high quality peer reviews for the SBIR/STTR Program at NSF.
+- **[Peer Review Guidelines (Technical/Commercial)]({{ site.baseurl }}/resources/review/peer-review/)**: The SBIR/STTR peer review criteria, the Conflict of Interest (COI) form, and suggestions for writing high quality peer reviews for the SBIR/STTR Program at NSF.
 
-- **[FastLane Instructions for Panelists]({{ site.baseurl }}/review/panelist-system/)**: How to submit the registration required for every review panel, review assigned proposals, submit reviews, and navigate through the interactive panel system (IPS), which is used during the live panel meeting.
+- **[FastLane Instructions for Panelists]({{ site.baseurl }}/resources/review/panelist-system/)**: How to submit the registration required for every review panel, review assigned proposals, submit reviews, and navigate through the interactive panel system (IPS), which is used during the live panel meeting.
 
 - **[FastLane Instructions for Mail Reviewers]({{ site.baseurl }}/review/peer-mail-review/)**: Step-by-step instructions for using FastLane to review a proposal and submit a "mail review" electronically to NSF.
 
-- **[Travel Instructions for Panelists]({{ site.baseurl}}/review/travel/)**: Details on compensation rates, federal employees/non-US citizens/non-permanent residents, travel/hotel reservations and payment information.
+- **[Travel Instructions for Panelists]({{ site.baseurl}}/resources/review/travel/)**: Details on compensation rates, federal employees/non-US citizens/non-permanent residents, travel/hotel reservations and payment information.
 
-- **[Virtual Panels]({{ site.baseurl }}/review/virtual-panelist/)**: Guides and guidelines for the virtual panel review process in the Division of Industrial Innovation and Partnerships.
+- **[Virtual Panels]({{ site.baseurl }}/resources/review/virtual-panelist/)**: Guides and guidelines for the virtual panel review process in the Division of Industrial Innovation and Partnerships.

@@ -1,6 +1,6 @@
 ---
 title: Instructions for panelists
-permalink: /review/panelist-system/
+permalink: /resources/review/panelist-system/
 layout: resources-layout
 sidenav: review
 ---
