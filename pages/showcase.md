@@ -12,7 +12,7 @@ layout: secondary
 
 We’re not interested in innovation for innovation’s sake — we back technologies that promote the social good. Learn more about our companies’ impact here.  
 
-Are you an awardee and have a success story to share?  [Tell us about it](https://goo.gl/forms/UZOsIo1eFpHLA4IW2). 
+Are you an awardee and have a success story to share?  [Tell us about it](https://goo.gl/forms/UZOsIo1eFpHLA4IW2).
 
 </div>
 </section>
@@ -33,7 +33,7 @@ for example, a sustained “ah” — and blending it with that of a speaker who
 
 Dr. Patel recalls getting an email from a nine-year-old who had seen her TED talk and wanted to give her voice to her sister, who was unable to speak. “Getting that email, I thought, ‘this is amazing,’” recalls Patel, who realized that the commercial potential for her technology was vast. Capital from America’s Seed Fund allowed her to scale her company and offer personalized digital voices to people worldwide. Today, VocaliD’s voicebank platform contains more than 20,000 members who have contributed more than 6 million sentences, helping people everywhere preserve their vocal identities.
 
-To learn more, visit [https://www.vocalid.co/](https://www.vocalid.co/).
+To learn more, visit [vocalid.co](https://www.vocalid.co/).
 {% endcomment %}
 
 </div>
@@ -95,13 +95,13 @@ In addition to funding from America’s Seed Fund, bioMASON has received support
 
 **PolyDrop** CEO Volha Hrechka wants to “complete the plastics revolution” by making plastics more conductive. Her company’s revolutionary product has its roots in the aerospace industry. “The Boeing 787 Dreamliner is 70% carbon-fiber composites,” Hrechka said, “but these don’t conduct electricity.” This poses efficiency and safety issues; excess static-charge buildup in planes can interfere with sensitive electronics and navigation systems. Making plastics conductive will make planes lighter and extend the functionality of those plastics, ultimately reducing costs and potentially saving lives.
 
-To learn more, visit [http://www.polydrop.net/](http://www.polydrop.net/).
+To learn more, visit [polydrop.net](http://polydrop.net/).
 
 <!-- PolyDrop’s conductive polymer additive is useful to industries beyond aerospace; it has also been used for coatings, composites, batteries, marine vessels, textiles, flooring, and electronics.
 
 Hrechka cites America’s Seed Fund as the reason her technology has made its way to market. Scale-up testing is crucial in the material sciences field, and angel investors can be hard to come by. The seed fund “has had a tremendous impact for our company,” Hrechka has said.
 
-To learn more, visit [http://www.polydrop.net/](http://www.polydrop.net/). -->
+To learn more, visit [polydrop.net](http://polydrop.net/). -->
 
 </div>
 
@@ -127,13 +127,13 @@ To learn more, visit [http://www.polydrop.net/](http://www.polydrop.net/). -->
 
 Each year, commercial crustacean fishing outfits spend nearly $20 billion on forage (bait) fish. The costs incurred aren’t just monetary, however. Bait fish usage in this sector could lead to overfishing and depletion of forage fish species, which may, in turn, harm other animal populations. **Kepley Biosystems** hopes to reduce these harms.
 
-To learn more, visit [http://kepleybiosystems.com/organobait/](http://kepleybiosystems.com/organobait/).
+To learn more, visit [kepleybiosystems.com/organobait/](https://kepleybiosystems.com/organobait/).
 
 <!-- Kepley Biosystems’ OrganoBait — a fully synthetic bait — mimics the scent of forage fish to attract lobsters and crabs. Because it’s fish-free, its cost doesn’t fluctuate as forage fish populations do and it’s available year-round, which benefits commercial fisheries. And because it reduces demand for actual forage fish, it can make crustacean fishing more sustainable and help protect remaining forage fish populations, benefiting the animals that feed on them.
 
 Using Phase I funding, Kepley Biosystems was able to define their product and identify the chemotactic cues that crabs and lobsters respond to; armed with this knowledge, the company was able to create a synthetic alternative. They used Phase II funding to test their product’s market capacity and test OrganoBait in real-world conditions. Early testing has shown OrganoBait’s effectiveness and flexibility in different fishing conditions to be highly successful.
 
-To learn more, visit [http://kepleybiosystems.com/organobait/](http://kepleybiosystems.com/organobait/). -->
+To learn more, visit [https://kepleybiosystems.com/organobait/](https://kepleybiosystems.com/organobait/). -->
 
 </div>
 

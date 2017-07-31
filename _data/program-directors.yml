@@ -1,6 +1,7 @@
 ---
 - photo: Rajesh-compressed.jpg
   name: Rajesh Mehta
+  last_name: Mehta
   email: rmehta@nsf.gov
   bio: is a Program Director in the Small Business Innovation Research Program at
     the National Science Foundation. His focus areas include Advanced Manufacturing
@@ -18,6 +19,7 @@
   topics: []
 - photo: Debasis-compressed.jpg
   name: Debasis Majumdar
+  last_name: Majumdar
   email: dmajumda@nsf.gov
   bio: joined the National Science Foundation as a Program Director in the Industrial
     Innovation and Partnerships Division of the Engineering Directorate in 2015. Prior
@@ -38,6 +40,7 @@
   topics: []
 - photo: Ruth-compressed.jpg
   name: Ruth Shuman
+  last_name: Shuman
   email: rshuman@nsf.gov
   bio: joined the National Science Foundation in August 2009 as a Program Director
     for Biological Technologies in the SBIR/STTR Program. Before coming to NSF, she
@@ -56,6 +59,7 @@
   topics: []
 - photo: Henry-compressed.jpg
   name: Henry Ahn
+  last_name: Ahn
   email: hahn@nsf.gov
   bio: joined the National Science Foundation in July 2016 as an SBIR/STTR Program
     Director. Prior to joining NSF, Henry managed seed/early stage investment programs
@@ -75,6 +79,7 @@
   topics: []
 - photo: Anna-compressed.jpg
   name: Anna Brady-Estevez
+  last_name: Brady-Estevez
   email: abrady@nsf.gov
   bio: 'joined the National Science Foundation as SBIR/STTR Program Director leading
     Chemical and Environmental Technologies. In this role she brings breadth of background
@@ -103,6 +108,7 @@
   topics: []
 - photo: Glenn-compressed.jpg
   name: Glenn H. Larsen
+  last_name: Larsen
   email: glarsen@nsf.gov
   bio: joined the National Science Foundation in 1987 as the computer systems engineer
     for NSF’s Directorate for Engineering. In 2005, he became program director for
@@ -121,6 +127,7 @@
   topics: []
 - photo: Murali-compressed.jpg
   name: Muralidharan S. Nair
+  last_name: Nair
   email: mnair@nsf.gov
   bio: is a Program Director in the areas of Electronic Hardware, Robotics, and Wireless
     Technologies with the SBIR/STTR Program. Prior to joining NSF in January 2003,
@@ -148,6 +155,7 @@
   topics: []
 - photo: Peter-compressed.jpg
   name: Peter Atherton
+  last_name: Atherton
   email: patherto@nsf.gov
   bio: comes to the NSF with a broad background in the physical sciences, and extensive
     experience in technology development and commercialization. Before joining NSF
@@ -172,6 +180,7 @@
   topics: []
 - photo: Rick-compressed.jpg
   name: Rick Schwerdtfeger
+  last_name: Schwerdtfeger
   email: rschwerd@nsf.gov
   bio: joined the National Science Foundation in August 2016 as the SBIR/STTR Program
     Director for the Semiconductors and Photonics, and Internet of Things (IoT) portfolios.
@@ -203,6 +212,7 @@
     permalink: "/topics/semiconductors-and-photonic-devices/"
 - photo: Jesus-compressed.jpg
   name: Jesus Soriano
+  last_name: Soriano
   email: jsoriano@nsf.gov
   bio: joined the NSF in February 2012 as SBIR/STTR Program Director for Biomedical
     and Smart Health Technologies, after 20 years of international experience in executive
@@ -230,6 +240,7 @@
   topics: []
 - photo: Ben-compressed.jpg
   name: Ben Schrag
+  last_name: Schrag
   email: bschrag@nsf.gov
   bio: is the acting Deputy Division Director for the Division of Industrial Innovation
     and Partnerships at NSF, and the Senior Program Director for the SBIR/STTR programs.
