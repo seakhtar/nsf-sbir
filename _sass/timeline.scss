@@ -84,6 +84,14 @@ $timeline-right-padding: 5rem;
 
     .step {
       counter-increment: li;
+
+      h2 {
+        margin-bottom: 0;
+        & + .usa-accordion-content {
+          padding-top: $space-l;
+        }
+      }
+
     }
 
     .step-inactive {

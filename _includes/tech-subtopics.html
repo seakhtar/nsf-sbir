@@ -40,12 +40,11 @@
         <h3 class="subhead">Featured companies</h3>
         <ul class="flex-list flex-list-3-col featured-companies shuffled-list">
           {% assign iterator = 0 %}
-          {% assign shuffled_companies = topic.companies | shuffle %}
+          {% assign shuffled_companies = topic.companies | sample: max_companies_shown %}
           {% for company in shuffled_companies %}
-            {% if iterator == max_companies_shown %}{% break %}{% endif %}
             {% for t in site.data.topics %}
               {% assign awardee_name = t['awardeeName'] %}
-              {% include company.html company=company awardee_name=awardee_name iterator='true' %}
+              {% include company.html company=company awardee_name=awardee_name %}
             {% endfor %}
           {% endfor %}
         </ul>

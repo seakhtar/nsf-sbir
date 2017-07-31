@@ -9,18 +9,8 @@
     h2 {
       font-size: $font-size-m;
       margin-top: $space-xl;
-      padding-top: $space-m;
-      position: relative;
+      margin-bottom: $space-m;
 
-      &::before {
-        background-color: $color-base;
-        content: '';
-        height: 2px;
-        left: 0;
-        position: absolute;
-        top: 0;
-        width: 60px;
-        }
     }
 
     h3 {
@@ -29,6 +19,10 @@
       letter-spacing: -.015em;  // $kern-tight
       margin-top: $space-xl;
       margin-bottom: $space-m;
+    }
+
+    h2 + h3 {
+      margin-top: $space-m;
     }
 
     strong {
