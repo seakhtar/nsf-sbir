@@ -1,7 +1,6 @@
 ---
 - photo: Rajesh-compressed.jpg
   name: Rajesh Mehta
-  first_name: Rajesh
   last_name: Mehta
   email: rmehta@nsf.gov
   bio: is a Program Director in the Small Business Innovation Research Program at
@@ -20,7 +19,6 @@
   topics: []
 - photo: Debasis-compressed.jpg
   name: Debasis Majumdar
-  first_name: Debasis
   last_name: Majumdar
   email: dmajumda@nsf.gov
   bio: joined the National Science Foundation as a Program Director in the Industrial
@@ -42,7 +40,6 @@
   topics: []
 - photo: Ruth-compressed.jpg
   name: Ruth Shuman
-  first_name: Ruth
   last_name: Shuman
   email: rshuman@nsf.gov
   bio: joined the National Science Foundation in August 2009 as a Program Director
@@ -62,7 +59,6 @@
   topics: []
 - photo: Henry-compressed.jpg
   name: Henry Ahn
-  first_name: Henry
   last_name: Ahn
   email: hahn@nsf.gov
   bio: joined the National Science Foundation in July 2016 as an SBIR/STTR Program
@@ -83,7 +79,6 @@
   topics: []
 - photo: Anna-compressed.jpg
   name: Anna Brady-Estevez
-  first_name: Anna
   last_name: Brady-Estevez
   email: abrady@nsf.gov
   bio: 'joined the National Science Foundation as SBIR/STTR Program Director leading
@@ -113,7 +108,6 @@
   topics: []
 - photo: Glenn-compressed.jpg
   name: Glenn H. Larsen
-  first_name: Glenn
   last_name: Larsen
   email: glarsen@nsf.gov
   bio: joined the National Science Foundation in 1987 as the computer systems engineer
@@ -133,7 +127,6 @@
   topics: []
 - photo: Murali-compressed.jpg
   name: Muralidharan S. Nair
-  first_name: Muralidharan
   last_name: Nair
   email: mnair@nsf.gov
   bio: is a Program Director in the areas of Electronic Hardware, Robotics, and Wireless
@@ -162,7 +155,6 @@
   topics: []
 - photo: Peter-compressed.jpg
   name: Peter Atherton
-  first_name: Peter
   last_name: Atherton
   email: patherto@nsf.gov
   bio: comes to the NSF with a broad background in the physical sciences, and extensive
@@ -188,7 +180,6 @@
   topics: []
 - photo: Rick-compressed.jpg
   name: Rick Schwerdtfeger
-  first_name: Rick
   last_name: Schwerdtfeger
   email: rschwerd@nsf.gov
   bio: joined the National Science Foundation in August 2016 as the SBIR/STTR Program
@@ -212,8 +203,8 @@
     a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied
     Physics from Pittsburg State University, and a B.S. in Physics and Science Education
     from the University of Dubuque.
-  topic:
-  topic_permalink:
+  topic: 
+  topic_permalink: 
   topics:
   - topic: Internet of Things (I)
     permalink: "/topics/internet-of-things/"
@@ -221,7 +212,6 @@
     permalink: "/topics/semiconductors-and-photonic-devices/"
 - photo: Jesus-compressed.jpg
   name: Jesus Soriano
-  first_name: Jesus
   last_name: Soriano
   email: jsoriano@nsf.gov
   bio: joined the NSF in February 2012 as SBIR/STTR Program Director for Biomedical
@@ -250,7 +240,6 @@
   topics: []
 - photo: Ben-compressed.jpg
   name: Ben Schrag
-  first_name: Ben
   last_name: Schrag
   email: bschrag@nsf.gov
   bio: is the acting Deputy Division Director for the Division of Industrial Innovation
@@ -269,3 +258,4 @@
   topic_permalink: "/topics/other/"
   topics: []
 ---
+
