@@ -1,6 +1,6 @@
 ---
 title: Travel
-permalink: /review/travel/
+permalink: /resources/review/travel/
 layout: resources-layout
 sidenav: review
 ---
@@ -11,7 +11,7 @@ sidenav: review
 
 If you are selected and confirmed to serve on a panel for the Division of Industrial Innovation and Partnerships (ENG/IIP), you will be authorized to travel on behalf of NSF, a Federal Government agency. Please be aware NSF is operating in line with Executive Order 13589 and [OMB Memorandum 12-12](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-12.pdf), which require all Federal agencies to reduce costs for travel and conferences.
 
-The Directorate for Engineering REQUIRES all panelists to use the [Panelist Function]({{ site.baseurl }}/review/panelist_system/) component of NSF's FastLane system. We request that you submit your travel information and your banking information via FastLane.
+The Directorate for Engineering REQUIRES all panelists to use the [Panelist Function]({{ site.baseurl }}/resources/review/panelist-system/) component of NSF's FastLane system. We request that you submit your travel information and your banking information via FastLane.
 
 You will receive an email notification with travel guidelines and instructions. This notification is to be used as a substitute for traditional government travel orders. Please take a copy of the email to the airport and to your hotel to ensure that you receive government rates.
 
@@ -31,7 +31,7 @@ The flat rate payment covers lodging, meals, parking, local transportation and m
 Participants who are not federal government employees and are US citizens or US permanent residents and **reside in the Washington-Metropolitan area**, which includes
 
 1. Maryland counties of Prince Georges and Montgomery
-2. Virginia counties of Arlington,Loudoun and Fairfax
+2. Virginia counties of Arlington, Loudoun and Fairfax
 3. Cities of Washington, DC,Alexandria, Falls Church, and Fairfax
 
 The flat rate payment for local panelists is $280 per day. Real Time Conferencing (virtual) participants are eligible to receive $200 per day.
