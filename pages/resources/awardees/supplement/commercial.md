@@ -5,7 +5,7 @@ layout: resources-layout
 sidenav: supplement
 ---
 <h1>
-  <span>Phase IIB:</span>
+  <span>Phase II:</span>
   Commercial partnerships
 </h1>
 
