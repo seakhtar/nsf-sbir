@@ -6,12 +6,13 @@
 
   li {
     border: none;
-    padding-right: $space-s;
+    margin-right: $space-s;
 
     &.supplement {  // sidenav section divider
-      margin-top: -2px;
-      margin-right: 1rem;
-      border-top: 3px solid $color-primary-alt-medium;
+      margin-top: -1px;
+      // margin-right: 1rem;
+      border-top: 2px solid $color-primary-alt-medium;
+
     }
 
     a {
@@ -53,7 +54,9 @@
           margin-left: -2rem;
         }
       }
+
     }
+
 
   }
 
