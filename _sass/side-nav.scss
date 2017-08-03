@@ -8,6 +8,12 @@
     border: none;
     padding-right: $space-s;
 
+    &.supplement {  // sidenav section divider
+      margin-top: -2px;
+      margin-right: 1rem;
+      border-top: 3px solid $color-primary-alt-medium;
+    }
+
     a {
       // color: $color-base;
       color: $color-primary-alt-medium;
