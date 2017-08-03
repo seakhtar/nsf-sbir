@@ -1,8 +1,8 @@
 ---
 title: Supplemental funding opportunities
-permalink: /resources/awardees/supplement/
+permalink: /resources/awardees/supplement/overview/
 layout: resources-layout
-sidenav: supplement
+sidenav: phase-2
 ---
 <h1>
   <span>Phase II:</span>

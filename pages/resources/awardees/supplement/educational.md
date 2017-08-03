@@ -2,7 +2,7 @@
 title: Supplemental funding opportunities
 permalink: /resources/awardees/supplement/educational/
 layout: resources-layout
-sidenav: supplement
+sidenav: phase-2
 ---
 <h1>
   <span>Phase II:</span>
