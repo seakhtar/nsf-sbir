@@ -15,7 +15,7 @@ sidenav: fastlane
 
 _A Facilities, Equipment and Other Resources document is required for all proposals to NSF. If your proposed project does not require any facilities, equipment or other resources - please include a statement to that effect in this module._
 
-![Main screen with Facilities, Edquipment, and Other Resources highlighted]({{ site.baseurl }}/assets/img/fastlane/32-MainScreen-facilities-Equip-and-other-resources.jpg)
+![Main screen with Facilities, Equipment, and Other Resources highlighted]({{ site.baseurl }}/assets/img/fastlane/32-MainScreen-facilities-Equip-and-other-resources.jpg)
 
 Follow the instructions on the below screen, then click **"Upload File"** to upload document. Click **"Go Back"** until you return to the "Form Preparation" screen.
 
