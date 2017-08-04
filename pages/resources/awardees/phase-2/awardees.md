@@ -18,7 +18,7 @@ Here are all the forms you need to manage your Phase II award.
 - [Change of PI (principal investigator)]({{ site.baseurl }}/resources/awardees/phase-2/pi-change/)  
 
 ## Additional awardee information
-- [Supplemental funding opportunities: Phase IIB]({{ site.baseurl }}/resources/awardees/phase-2/supplement/)
+- [Supplemental funding opportunities: Phase II]({{ site.baseurl }}/resources/awardees/phase-2/supplement/)
 - Learn how to apply for [supplemental funding opportunities]({{ site.baseurl }}/resources/awardees/supplement/overview/)
 - Learn about [Phase II general award conditions](https://www.nsf.gov/awards/managing/special_conditions.jsp)
 
