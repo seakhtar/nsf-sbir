@@ -108,10 +108,8 @@ phase-2:
     href: /resources/awardees/phase-2/ambassador/
   - text: General award conditions
     href: https://www.nsf.gov/awards/managing/special_conditions.jsp
-  - text: Supplemental funding opportunities (Phase IIB)
-    href: /resources/awardees/phase-2/supplement/
+  - text: Supplemental funding opportunities 
     section: supplement
-  - text: Phase IIB overview
     href: /resources/awardees/supplement/overview/
   - text: Commercial partnerships
     href: /resources/awardees/supplement/commercial/
@@ -119,17 +117,6 @@ phase-2:
     href: /resources/awardees/supplement/institutional/
   - text: Educational partnerships
     href: /resources/awardees/supplement/educational/
-
-supplement:
-  - text: Phase IIB overview
-    href: /resources/awardees/supplement/overview/
-  - text: Commercial partnerships
-    href: /resources/awardees/supplement/commercial/
-  - text: Institutional partnerships
-    href: /resources/awardees/supplement/institutional/
-  - text: Educational partnerships
-    href: /resources/awardees/supplement/educational/
-
 
 footer:
   - text: About
