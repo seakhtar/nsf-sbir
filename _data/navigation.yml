@@ -45,6 +45,8 @@ fastlane:
     href: /fastlane/form-prep-3/
   - text: Proposal Submission
     href: /fastlane/proposal-submission/
+  - text: Definitions
+    href: /fastlane/definitions/
 
 review:
   - text: Review process

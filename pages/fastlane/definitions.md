@@ -1,8 +1,8 @@
 ---
 title: Definitions
-permalink: /resources/awardees/phase-1/definitions/
+permalink: /fastlane/definitions/
 layout: secondary-narrow
-sidenav: phase-1
+sidenav: fastlane
 ---
 
 # Definitions
