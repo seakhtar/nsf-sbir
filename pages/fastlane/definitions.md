@@ -89,7 +89,7 @@ A business concern that, at the time of the Phase I or Phase II award, meets the
 A socially and economically disadvantaged small business concern is one that is at least 51 percent owned and managed by one or more socially and economically disadvantaged people (who also control and the day-to-day operations). In this context, _control_ means making policy decisions. _Operate_ means being actively involved in day-to-day management.
 
 ## Socially and economically disadvantaged individual
-A member of any of the following groups: Black Americans, Hispanic Americans, Native Americans, Asian-Pacific Americans, Subcontinent Asian Americans, other groups designated from time to time by the Small Business Administration (SBA) to be socially disadvantaged, and any other individual found to be socially and economically disadvantaged by SBA pursuant to Section 8(a) of the Small Business Act, 15 U.S.C. ; 637(a). For more information on this definition, contact the SBA (http://www.sbaonline.sba.gov).
+A member of any of the following groups: Black Americans, Hispanic Americans, Native Americans, Asian-Pacific Americans, Subcontinent Asian Americans, other groups designated from time to time by the Small Business Administration (SBA) to be socially disadvantaged, and any other individual found to be socially and economically disadvantaged by SBA pursuant to Section 8(a) of the Small Business Act, 15 U.S.C. ; 637(a). For more information on this definition, [contact the SBA](https://www.sbaonline.sba.gov).
 
 ## Subaward (contract or subcontract)
 Any agreement, other than an employer-employee relationships, that a small business concern makes to procure supplies or services needed to complete work outlined in the funding agreement.
@@ -106,7 +106,7 @@ A third-party investor may include:
 - Federal (non-SBIR), state, or local government
 - Any combinations of the above.
 
-This definition does not include owners of the small business, their family members, and/or affiliates of the small business, as defined in Title 13 of the Code of Federal Regulations (C.F.R.), Section 121.103. (Reference: http://law.justia.com/us/cfr/title13/13-1.0.1.1.15.1.231.3.html)
+This definition does not include owners of the small business, their family members, and/or affiliates of the small business, as defined in Title 13 of the Code of Federal Regulations (C.F.R.), Section 121.103. (Reference: [http://law.justia.com/us/cfr/title13/13-1.0.1.1.15.1.231.3.html](http://law.justia.com/us/cfr/title13/13-1.0.1.1.15.1.231.3.html))
 
 ## Women-owned small business
 A small business concern that is at least 51 percent owned by a woman or women. In the case of any publicly owned business, it must have at least 51 percent of its stock owned by women, who also control and operate it. In this context, _control_ means exercising the power to make policy decisions. _Operate_ means being actively involved in the day-to-day management.
