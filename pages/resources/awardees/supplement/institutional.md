@@ -5,7 +5,7 @@ layout: resources-layout
 sidenav: phase-2
 ---
 <h1>
-  <span>Phase II:</span>
+  <span>Phase IIB:</span>
   Institutional partnerships
 </h1>
 
