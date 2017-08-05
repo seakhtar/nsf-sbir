@@ -4,10 +4,9 @@ permalink: /resources/awardees/supplement/educational/
 layout: resources-layout
 sidenav: phase-2
 ---
-<h1>
-  <span>Phase IIB:</span>
-  Educational partnerships
-</h1>
+
+#Educational partnerships
+
 
 1. High School Participants (RAHSS)
     - Funding support for active research participation by high school students interested in science, technology, and mathematics in the SBIR/STTR program.

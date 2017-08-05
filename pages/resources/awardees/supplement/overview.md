@@ -4,10 +4,8 @@ permalink: /resources/awardees/supplement/overview/
 layout: resources-layout
 sidenav: phase-2
 ---
-<h1>
-  <span>Phase IIB:</span>
-  Supplemental funding overview
-</h1>
+#Supplemental funding overview
+
 
 __Only applicable for SBIR and STTR Phase II grantees.__
 
