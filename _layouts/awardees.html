@@ -1,9 +1,6 @@
 ---
 layout: base
 class: awardees-layout
-scripts:
-- src: /assets/js/shuffle.js
-  async: true
 ---
 {% assign recent_date = site.data.awards_meta['recent_date'] | date: "%m/%Y" | default: 'DATE' %}
 {% assign awards_summary = site.data.awards_summary[page.dataset] %}
@@ -65,11 +62,10 @@ scripts:
     <p class="subhead inline-block accordion-tech-topic-header">Technology topic areas</p>
 </div>
   <div class="usa-grid">
-    <div class="usa-accordion awardees-details-accordion shuffled-list">
-    {% assign shuffled_tech_topics = site.data.tech-topics | shuffle %}
-    {% for topic in shuffled_tech_topics %}
+    <div class="usa-accordion awardees-details-accordion">
+    {% for topic in site.data.tech-topics %}
       {% assign po_name = topic.programDirector[0].api_name | default: topic.programDirector[0].name %}
-      {% assign matching_awards = site.data[page.dataset] | uniq | where:'poName', po_name %}
+      {% assign matching_awards = site.data[page.dataset] | uniq | where:'poName', po_name | sort_insensitive:'awardeeName' %}
       {% if matching_awards.size > 0 %}
         <div class="border-bottom">
           <button class="usa-accordion-button" aria-expanded="false" aria-controls="{{ topic.topic | slugify }}">
@@ -84,13 +80,12 @@ scripts:
                 <div class="table-row-item subhead narrow numeric">Award amount</div>
                 <div class="table-row-item subhead narrow numeric">Award date</div>
               </li>
-              {% assign shuffled_matches = matching_awards | shuffle %}
-              <div class="shuffled-list">
-              {% for matching in shuffled_matches %}
+              <div>
+              {% for matching in matching_awards %}
                 <li class="table-row">
                   <div class="table-row-item" data-header="Company">
                     {% assign awardeeSlug = matching.awardeeName | slugify %}
-                    <a href="{{ page.details_url | append: awardeeSlug | append: '#' | append: awardeeSlug | relative_url }}" alt="{{ matching.awardeeName }}">
+                    <a href="{{ page.details_url | append: awardeeSlug | relative_url }}" alt="{{ matching.awardeeName }}">
                     <span>{{ matching.awardeeName }}</span>
                     </a>
                   </div>

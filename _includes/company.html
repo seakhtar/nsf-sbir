@@ -9,11 +9,9 @@
   {% assign company_name = company_name | append: " (formerly " | append: company['past'] | append: ")" %}
   {% if awardee_slug == company_past_slug %}
     <li><a href="{{ site.baseurl }}/portfolio/details/?company={{ company_past_slug }}">{{ company_name }}</a></li>
-    {% if include.iterator %}{% assign iterator = iterator | plus: 1 %}{% endif %}
     {% break %}
   {% elsif awardee_slug == company_slug %}
     <li><a href="{{ site.baseurl }}/portfolio/details/?company={{ company_slug }}">{{ company_name }}</a></li>
-    {% if include.iterator %}{% assign iterator = iterator | plus: 1 %}{% endif %}
     {% break %}
   {% endif %}
 {% elsif company['dba'] %}
@@ -21,17 +19,14 @@
   {% assign company_name = company_name | append: " (dba " | append: company['dba'] | append: ")" %}
   {% if awardee_slug == company_dba_slug %}
     <li><a href="{{ site.baseurl }}/portfolio/details/?company={{ company_dba_slug }}">{{ company_name }}</a></li>
-    {% if include.iterator %}{% assign iterator = iterator | plus: 1 %}{% endif %}
     {% break %}
   {% elsif awardee_slug == company_slug %}
     <li><a href="{{ site.baseurl }}/portfolio/details/?company={{ company_slug }}">{{ company_name }}</a></li>
-    {% if include.iterator %}{% assign iterator = iterator | plus: 1 %}{% endif %}
     {% break %}
   {% endif %}
 {% else %}
   {% if awardee_slug == company_slug %}
     <li><a href="{{ site.baseurl }}/portfolio/details/?company={{ company_slug }}">{{ company_name }}</a></li>
-    {% if include.iterator %}{% assign iterator = iterator | plus: 1 %}{% endif %}
     {% break %}
   {% endif %}
 {% endif %}
