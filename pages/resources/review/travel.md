@@ -22,7 +22,7 @@ For participants who are not federal government employees and are US citizens or
 - $480 for each meeting day and
 - $280 for each travel day (based on geographic point of origin and confirmed travel dates)/*
 
-/* To ensure efficiency of a panel, NSF authorizes payment for one (1) travel day so that you, as the reviewer, can **arrive in the Washington, DC metro area the evening before the panel date. Departure times must be scheduled after 5:00 pm on the final panel day.** Depending on your geographic point of origin and confirmed travel dates, you may request a second travel day. Please send an email with your record locator or confirmation number to Sharlia Lee at shalee@associates.nsf.gov. Sharlia must confirm your actual dates of travel before approving payment for two travel days.
+/* To ensure efficiency of a panel, NSF authorizes payment for one (1) travel day so that you, as the reviewer, can **arrive in the Washington, DC metro area the evening before the panel date. Departure times must be scheduled after 5:00 pm on the final panel day.** Depending on your geographic point of origin and confirmed travel dates, you may request a second travel day. Please send an email with your record locator or confirmation number to the points of contact at the bottom of this page. Our travel staff must confirm your actual dates of travel before approving payment for two travel days.
 
 The flat rate payment covers lodging, meals, parking, local transportation and mileage incurred during the entirety of the trip, and incidental expenses. You do not need to submit receipts to NSF.
 
@@ -42,13 +42,13 @@ Please be advised that NSF is required to issue IRS Form 1099, "Miscellaneous In
 
 ## Compensation for Federal Employees and Non-US Citizens, Non-Permanent Residents
 
-Under the existing travel regulations, federal employees and non-US Citizens/Permanent Residents are not eligible for the flat rate payment method from NSF. All panelists falling into one of these categories must submit receipts for their travel expenses (hotel and ground travel in the form of taxi, public transportation) to the NSF support staff on the day of the panel. If receipts are unavailable the day of the panel, the traveler must notify Sharlia Lee (shalee@associates.nsf.gov) immediately and submit travel receipts to NSF within two business days following panel completion.
+Under the existing travel regulations, federal employees and non-US Citizens/Permanent Residents are not eligible for the flat rate payment method from NSF. All panelists falling into one of these categories must submit receipts for their travel expenses (hotel and ground travel in the form of taxi, public transportation) to the NSF support staff on the day of the panel. If receipts are unavailable the day of the panel, the traveler must notify NSF staff immediately and submit travel receipts to NSF within two business days following panel completion.
 
 **Important Reimbursement Note:** Rental cars are not allowed and will **NOT** be reimbursed. Additionally, limousine and/or car services and airport parking fees must be advantageous to the government and cannot exceed the cost of roundtrip taxi fare. The traveler **MUST** supply a taxi fare quote to substantiate these claims.
 
 In an effort to support the U.S. Government wide cost reduction act and ensure integrity of panel outcomes, NSF expects all reviewers to **arrive in the Washington, DC metro area the evening prior to panel meeting start date.** Further, reviewers are expected to be in attendance for the duration of the panel meeting, and therefore, **departure times must be scheduled after 5:00 pm on the final panel day.**
 
-Depending on your geographic point of origin and confirmed travel dates, you may request an additional travel day. Please send an email with your record locator or confirmation number to Sharlia Lee at shalee@associates.nsf.gov. Sharlia must confirm your actual dates of travel before approving additional travel compensation.
+Depending on your geographic point of origin and confirmed travel dates, you may request an additional travel day. Please send an email with your record locator or confirmation number to to the points of contact at the bottom of this page. Our staff must confirm your actual dates of travel before approving additional travel compensation.
 
 ## Important Facts About Government Travel at NSF
 **All travel arrangements must be made through the NSF approved travel agency (AdTrav effective January 25, 2016).** NSF pays for your transportation tickets directly through its approved travel agent, AdTrav. When making your reservation, NSF requires that you supply AdTrav with the Panel/Meeting ID provided in your authorization email. If a Panel/Meeting ID was not provided, please contact the NSF administrative support staff person that invited you to participate and request it.
@@ -87,14 +87,17 @@ If you choose not to use Accommodations Unlimited, please contact any hotel of y
 If the panel or travel is delayed or canceled for any reason, the traveler is responsible for canceling their hotel reservations. Neither the National Science Foundation nor Accommodations Unlimited is responsible for canceling or changing travel reservations on your behalf.
 
 ## Electronic Funds Transfer (EFT) Payment Information
+All participants (except Federal government employees and non-US Citizens/Permanent Residents), must login to FastLane at [www.fastlane.nsf.gov]( http://www.fastlane.nsf.gov/) to provide banking information to NSF for their EFT payment. To get started, go into FastLane and click on "Panelist Functions." Login and go to the Panelist Banking System and enter in the required information. The information in FastLane is transferred nightly to NSF’s accounting system and is a faster and safer alternative to submitting paper forms. This can even be done at the meeting site. REMEMBER: "Panelist" refers to participants of proposal review panels, advisory committees, COVs, and site visits.
 
-### Travel Questions
+Foreign travelers receive reimbursement via a paper check mailed by the U.S. Treasury. Currently, the Federal government cannot process international electronic transactions. The NSF Faststart Direct Deposit Form is used to record the address that checks should be mailed. The first section should be completed and please include your email address. A form can be obtained from your program office and sent by email.
+
+## Travel Questions
 For specific travel questions involving participation in a Review Panel for the Division of Industrial Innovation and Partnership, Please contact:
 
-Sharlia Lee
-Phone: 703-292-2668
-Email: shalee@associates.nsf.gov
+*Doretha Clark*:
+703-292-4514;
+dclark@associates.nsf.gov
 
-Amanda Morris
-Phone: 703-292-7055
-Email: amorris@associates.nsf.gov
+*Amanda Morris*:
+703-292-7055;
+amorris@associates.nsf.gov

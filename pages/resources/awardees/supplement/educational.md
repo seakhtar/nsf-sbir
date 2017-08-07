@@ -2,15 +2,15 @@
 title: Supplemental funding opportunities
 permalink: /resources/awardees/supplement/educational/
 layout: resources-layout
-sidenav: supplement
+sidenav: phase-2
 ---
-<h1>
-  <span>Phase IIB:</span>
-  Educational partnerships
-</h1>
+
+# Educational partnerships
+
 
 1. High School Participants (RAHSS)
     - Funding support for active research participation by high school students interested in science, technology, and mathematics in the SBIR/STTR program.
+    - **Max funding**: $6,000 per student per year
     - **Deadline**: Rolling submission; does not extend award duration
     - **Recruiting tip**: Guidance counselors at your local high school may be a great help. You can use this [recruiting template]({{ site.baseurl }}/assets/files/awardees/ED-Supp-Template.docx) to reach out.
     - [More Information](http://www.nsf.gov/pubs/2014/nsf14073/nsf14073.jsp?org=ENG)
