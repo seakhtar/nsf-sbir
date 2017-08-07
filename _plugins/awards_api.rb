@@ -49,6 +49,7 @@ module SiteData
         params[:fundProgramName] = fundProgramName if fundProgramName
 
         uri.query = URI.encode_www_form(params)
+        puts uri
         res = Net::HTTP.get_response(uri)
         new_awards = JSON.parse(res.body)['response']['award']
         break unless new_awards
@@ -57,7 +58,7 @@ module SiteData
           puts "matching records: #{matching_awards.size}".green if matching_awards.any?
           puts awardeeName.red unless matching_awards.any?
           puts "matching records: #{matching_awards.size}".red unless matching_awards.any?
-          `echo "#{awardeeName}" >> #{Dir.pwd}/_data/problem_companies.yml` unless matching_awards.any?
+          `echo "#{awardeeName}" >> #{Dir.pwd}/_data/missing_companies.yml` unless matching_awards.any?
           awards_present = res.is_a?(Net::HTTPSuccess) && matching_awards.size == 25
         else
           matching_awards = new_awards
