@@ -2,27 +2,27 @@ require 'yaml'
 require 'fileutils'
 
 module SiteData
-  class TopicsData
-    attr_reader :path, :basepath, :meta_path, :topics, :meta, :site, :config_params, :util
+  class PortfolioData
+    attr_reader :path, :basepath, :meta_path, :portfolio, :meta, :site, :config_params, :util
 
     def initialize(site)
       @basepath = Dir.pwd
 
       @util = SiteData::AwardsUtility.new(site)
       @site = site
-      @config_params = @site.config['topics_api']
-      @path = File.join(@basepath, '_data', 'topics.yml')
-      @meta_path = File.join(@basepath, '_data', 'topics_meta.yml')
+      @config_params = @site.config['portfolio_api']
+      @path = File.join(@basepath, '_data', 'portfolio.yml')
+      @meta_path = File.join(@basepath, '_data', 'portfolio_meta.yml')
       @tech_topics_path = File.join(@basepath, '_data', 'tech-topics.yml')
       @featured_companies_path = File.join(@basepath, '_data', 'featured-companies.yml')
-      @topics = nil
+      @portfolio = nil
       @meta = nil
 
       if File.exists? @path
-        @topics = YAML.load_file(@path)
+        @portfolio = YAML.load_file(@path)
       else
         FileUtils.touch(@path)
-        @topics = YAML.load_file(@path)
+        @portfolio = YAML.load_file(@path)
       end
 
       if File.exists? @meta_path
@@ -96,8 +96,8 @@ module SiteData
     def generate(params)
       configs = [ params ].flatten.compact
       if configs.empty?
-        puts "the topics config is unchanged".yellow
-        @topics.uniq
+        puts "the portfolio config is unchanged".yellow
+        @portfolio.uniq
       else
         tech_topic_companies = configs.map do |config|
           @tech_topics.map do |co|
@@ -124,21 +124,21 @@ module SiteData
             end
           end
         end.flatten.uniq.compact
-        topics = (tech_topic_companies + featured_companies)
-        topics = topics.flatten.uniq
+        portfolio = (tech_topic_companies + featured_companies)
+        portfolio = portfolio.flatten.uniq
 
-        if !topics.empty? && config_params['reset'] != true
-          last = topics.pop
-          topics << @topics
-          topics << last
+        if !portfolio.empty? && config_params['reset'] != true
+          last = portfolio.pop
+          portfolio << @portfolio
+          portfolio << last
         end
 
-        topics.flatten.uniq
+        portfolio.flatten.uniq
       end
     end
 
-    def update(params, topics)
-      @util.update_yaml(topics, @path)
+    def update(params, portfolio)
+      @util.update_yaml(portfolio, @path)
       update_meta
     end
 

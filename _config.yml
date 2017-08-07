@@ -51,7 +51,7 @@ gems:
 awards_api:
   active_date_is_now: true
   fundProgramName: phase
-  reset: false
+  reset: true
   recent_date: 2017-06-01
   printFields:
     - id
@@ -77,11 +77,11 @@ awards_api:
     - piEmail
 
 
-topics_api:
+portfolio_api:
   max_companies_shown: 9
   active_date_is_now: true
   fundProgramName: phase
-  reset: false
+  reset: true
   recent_date: 2017-06-01
   printFields:
     - id
@@ -105,7 +105,3 @@ topics_api:
     - piLastName
     - piPhone
     - piEmail
-
-exclude:
-- _data/portfolio.yml
-- data/portfolio.yml
