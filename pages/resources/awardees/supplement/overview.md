@@ -1,13 +1,11 @@
 ---
-title: Supplemental funding opportunities
-permalink: /resources/awardees/supplement/
+title: Supplemental funding overview
+permalink: /resources/awardees/supplement/overview/
 layout: resources-layout
-sidenav: supplement
+sidenav: phase-2
 ---
-<h1>
-  <span>Phase II:</span>
-  Supplemental funding
-</h1>
+# Supplemental funding overview
+
 
 __Only applicable for SBIR and STTR Phase II grantees.__
 

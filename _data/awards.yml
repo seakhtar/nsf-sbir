@@ -1854,28 +1854,6 @@
   expDate: 10/31/2017
   title: 'SBIR Phase I:  Powerhouse: An Integrated End-Use Tied Solar Thermal and
     Power System'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is in creating a market for financially sustained and accountable water services in developing countries. The impact of improved water, sanitation, and hygiene on public health is significant, and has the potential to prevent at least 9.1% of the global disease burden and 6.3% of all deaths. Present-day approaches for delivering water services in developing countries typically focus on deploying, maintaining, and monitoring aid-projects for only a few years. Impact is nominally evaluated by implementers (non-profit, private and government alike) directly. However, even when a positive impact is measured, the majority of these environmental service and monitoring interventions are short-term, and measurements may be misleading. For example, a multi-decade project apparently increased access to clean water supplies in rural areas from 58% in 1990 to 91% in 2015. Improved services may be realized through preventative and "just in time" maintenance activities, enabled through instrumentation and predictive failure data analysis algorithms. This may, critically, enable zero-interruption in water supply. Intermediate access to water, caused by water point failure, to clean water is known to increase health risks.
-
-    This Small Business Innovation Research (SBIR) Phase I project intends to develop predicative machine learning algorithms for water point failures derived from cellular reporting electronic sensors installed on rural water infrastructure in developing countries. The innovation proposed for research in this proposal consists of employing an ensemble of robust machine learning classification techniques, using cross-validation methods to tune model parameters and evaluate performance, in order to develop a data-adaptive system capable of predicting failure well enough in advance to allow preventive maintenance, repair or replacement.  Specifically, we will first examine condition based maintenance. Condition based maintenance has several advantages over time based maintenance, especially the ability to allocate limited maintenance resources where they are needed, instead of spreading maintenance resources evenly, including where they may not be needed. Our proposed Phase 1 SBIR focuses on developing predictive algorithms for water point failures using our existing sensor hardware and applied to existing customers. Our success criteria for a Phase 1 SBIR is a predictive algorithm that can accurately identify water points in near-failure.
-  awardeeAddress: 5548 NE 18th Ave
-  awardeeCity: Portland
-  awardeeCountryCode: US
-  awardeeName: SweetSense Inc.
-  awardeeStateCode: OR
-  awardeeZipCode: '972115543'
-  fundsObligatedAmt: '224562'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1621444'
-  piEmail: evan.thomas@sweetsensors.com
-  piFirstName: Evan
-  piLastName: Thomas
-  piPhone: '3035504671'
-  poName: Richard Schwerdtfeger
-  date: 06/20/2016
-  startDate: 07/01/2016
-  expDate: 07/31/2017
-  title: 'SBIR Phase I:  Predictive Algorithms for Water Point Failure'
 - abstractText: "The broader impact/commercial potential of this project is the development
     of a novel, real-time biomedical sensing platform that can revolutionize personal
     health and clinical research. Chronic diseases (cardiovascular, diabetes, etc.)
@@ -2273,29 +2251,6 @@
   expDate: 01/31/2019
   title: 'SBIR Phase II:  Development of High Speed Process Technology for the Manufacturing
     of Cost Effective Polymer Rebar'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project supports development of a nanoparticle characterization instrument that will fill the critical unmet need to rapidly and accurately measure the size and distribution of nanoparticles from 30 nanometers to 1 micron. Initially the technology will target two applications: protein aggregation in biopharmaceuticals, and nanoparticles in medicine (e.g., tumor-targeted drug delivery). The importance of nanoparticle analysis, however, goes well beyond therapeutics. Currently the market for nanoparticle analysis instrumentation across the life sciences is $5.6 billion, and there are increasing concerns about nanoparticles in consumer products such as food and cosmetics, as well as in drinking water, effluents, and the environment. A major challenge in understanding the health impacts of nanoparticles is simply in accurately and easily detecting their presence and size distribution. Additionally, improved nanoparticle instrumentation will enable new discoveries in biotechnology and environmental and health sciences.
-
-    This challenge can be met by developing a practical method for counting and sizing submicron particles in polydisperse mixtures. NSF Phase I/IB funds supported development of a prototype instrument that detects individual nanoparticles and accurately measures their size, at very high count rates. This instrument has successfully demonstrated robust detection of individual particles as small as 60 nm in diameter at rates approaching 10,000 particles per second, and has already begun to deliver useful information to particle manufacturers in the pharmaceutical industry, with on-going measurements of actual customer samples. The Phase II support will considerably enhance the utility of this instrument by addressing several outstanding technical challenges; most significantly, by extending the range of detectable particles to span the full range from 30 nm to 1000 nm, and by further maximizing the range of measurable particle concentrations.  In addition, the Phase II work will drive significant improvements in functionality and ease of use, driven by innovations in its control software. Finally, the instrument will be further validated using a wide variety of particle types relevant beyond the pharmaceutical space.
-  awardeeAddress: 15 Ferncreek Dr
-  awardeeCity: Rolling Hills Estates
-  awardeeCountryCode: US
-  awardeeName: Spectradyne LLC
-  awardeeStateCode: CA
-  awardeeZipCode: '902741503'
-  fundsObligatedAmt: '746153'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1534631'
-  piEmail: franklin.monzon@spectradynellc.com
-  piFirstName: Franklin
-  piLastName: Monzon
-  piPhone: '6263908530'
-  poName: Ben Schrag
-  date: 08/12/2015
-  startDate: 08/15/2015
-  expDate: 07/31/2017
-  title: SBIR Phase II:A low-cost instrument for rapid sub-micron particle size and
-    concentration measurement
 - abstractText: "This Small Business Innovation Research (SBIR) Phase II project proposes
     the development of an ultralow-power ultrasonic three-dimensional (3D) rangefinder
     system for mobile gesture recognition. The proposed 3D rangefinder uses an array
@@ -2482,56 +2437,6 @@
   startDate: 03/01/2015
   expDate: 08/31/2017
   title: 'SBIR Phase II:  Novel Separation Technology for Cellulosic Sugar Biorefineries'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) Phase II project is to simplifying the display backplane manufacturing
-    process and thereby deliver cost savings to a display industry annually losing
-    billions of dollars.  The technology being developed as part of this Phase II
-    project has the potential to outperform current thin film transistor (TFT) backplane
-    technologies in key Liquid Crystal Display (LCD) performance areas such as power
-    consumption, image brightness and quality, and color richness.  The vision of
-    this project is to redefine the cost, manufacturability and performance of displays
-    through the use of advanced materials and novel electronics. Beyond dramatic economic
-    implications for the LCD industry, the amorphous metal and metal oxide-based technologies
-    developed through this project will enable a technically and economically viable
-    path to roll-to-roll production of flexible glass displays.  Enabling a roll-to-roll
-    \"flex\" factory could reintroduce display manufacturing to the United States.
-    \   \t\n\nThis Small Business Innovation Research (SBIR) Phase II project challenges
-    conventional display industry practice by eliminating semiconductor content and
-    relying on quantum tunneling conduction enabled by innovative materials to control
-    the LCD backplane.  The relatively simple tunneling devices developed as part
-    of this project contrast with the industry's focus on increasingly complex semiconductors
-    and manufacturing processes to meet the performance demands of UHD TV while reducing
-    cost.  The use of these structurally less complex tunneling devices in the LCD
-    backplane has been enabled through the use of amorphous metal thin-films.  The
-    objective of this Phase II project is to develop a prototype display incorporating
-    amorphous metal thin-film based tunneling devices and to evaluate its performance
-    in terms of gray-scale control, power consumption, and maximum refresh rate.  It
-    is anticipated that amorphous metal tunneling devices can outperform current TFT
-    technologies in these three areas by enabling 12-bit gray-scale accuracy, increasing
-    the sub-pixel aperture ratio, and eliminating the need for semiconductor materials.
-    \ The results from this prototype will confirm the technology's core value proposition,
-    amorphous metal thin-film devices improve UHD performance while reducing manufacturing
-    cost and increasing factory capacity."
-  awardeeAddress: 508 SW Jefferson Ave
-  awardeeCity: Corvallis
-  awardeeCountryCode: US
-  awardeeName: Amorphyx Incorporated
-  awardeeStateCode: OR
-  awardeeZipCode: '973334657'
-  fundsObligatedAmt: '915999'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1456411'
-  piEmail: smuir@amorphyx.com
-  piFirstName: Sean
-  piLastName: Muir
-  piMiddeInitial: W
-  piPhone: '5412500702'
-  poName: Ben Schrag
-  date: 02/10/2015
-  startDate: 02/15/2015
-  expDate: 07/31/2017
-  title: 'SBIR Phase II:  Amorphous Metal Nonlinear Resistor Applications for Liquid
-    Crystal Display Backplanes'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research Phase II project is the sustainable production of high-value lipids (oils,
     waxes and fatty acids) from abundant and inexpensive feedstocks. The process is
@@ -4553,30 +4458,6 @@
   expDate: 01/31/2018
   title: 'SBIR Phase I:  Electrochemical Acoustic Tools for the Analysis of Batteries'
 - abstractText: |-
-    The broader impact/commercial potential of this project will be the development of a high speed and reliable wireless technology that will enable telecommunications and wireless network operators to keep up with society?s bandwidth and information needs. The tremendous growth of multimedia users and Internet traffic has placed a significant strain on existing communication networks. Over three billion people are connected to the Internet globally and the explosion of mobile devices will continue to accelerate the worldwide growth of Internet connectivity. Mobile network operators and other commercial and government entities with large transmission requirements for backhaul and access network applications need low cost and reliable high speed data transmission solutions. Whereas fiber is the preferred solution, it is often not practical and sometimes even impossible to install. The proposed technology will provide an ultra-high capacity wireless communications solution for advanced and developing countries that will provide an unprecedented combination of bandwidth and range to meet the next generation?s service needs of carriers, enterprises and government agencies around the world.
-
-    This Small Business Innovation Research (SBIR) Phase I project will demonstrate the technical feasibility of a commercial Free Space Optical (FSO) communications system that provides multi-Terabit per second data transmission capacity over long ranges. Specifically, the team will build on its numerous refereed publications for combining Wavelength Division Multiplexing (WDM), Polarization Division Multiplexing (PDM), and Orbital Angular Momentum (OAM) multiplexing to address the technical hurdles that must be overcome to transform the scientific results into a commercial product for the wireless communications industry. Leveraging both experiments and simulation, the team will demonstrate how to achieve real-time performance within a price point and form factor suitable for a commercial product. With the successful completion of Phase I, the team will lay the foundation for Phase II by significantly advancing the readiness of the proposed technology and strengthening and validating its commercial position.
-  awardeeAddress: 1225 Johnson Ferry Road
-  awardeeCity: Marietta
-  awardeeCountryCode: US
-  awardeeName: R-DEX Systems
-  awardeeStateCode: GA
-  awardeeZipCode: '300682768'
-  fundsObligatedAmt: '224817'
-  fundProgramName: STTR PHASE I
-  id: '1622777'
-  piEmail: robert@r-dex.com
-  piFirstName: Robert
-  piLastName: Bock
-  piMiddeInitial: D
-  piPhone: '6786412380'
-  poName: Muralidharan S. Nair
-  date: 06/20/2016
-  startDate: 07/01/2016
-  expDate: 07/31/2017
-  title: 'STTR Phase I:  TeraLink - Next Generation Free Space Optical Communications
-    System'
-- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be in the field of healthcare.  The United States spends approximately $9,000 per person per year on healthcare.  Ultrasound medical imaging is a medical imaging technology that could lower costs by providing an alternative to higher-cost imaging techniques.  The technology created during this Phase II project is expected to increase the quality, value, and accessibility of medical ultrasound, which would in turn reduce medical imaging costs in the US healthcare system.  Furthermore, the company's technology is expected to bring ultrasound to more clinical settings and improve system-wide efficiencies in the diagnosis and treatment of disease.  The technology also has commercial potential in the international market, with $5.8B spent annually on medical ultrasound devices worldwide.  Finally, by improving the utility of ultrasound, the technology will lead to improved patient care and may ultimately save lives.
 
     This Small Business Innovation Research (SBIR) Phase II project will develop deep learning technology for ultrasound imaging in medicine.  Ultrasound imaging has numerous benefits including real-time image acquisition, non-invasive scanning, low-cost devices, and no known side-effects (it is non-ionizing).  However, variability in quality has encumbered its adoption and utility.  As a result, more expensive imaging is typically utilized, often exposing patients to ionizing radiation.  Our objective is to develop, improve, and test machine learning techniques, based on deep learning, to improve ultrasound acquisition and interpretation.  We expect this project will create novel technologies that make ultrasound easier to use and improve the quality of ultrasound examinations.  The end result will improve the quality, value, and accessibility of medical ultrasound examinations, will result in cost savings to the healthcare system, will produce improvements in patient care, and will support a sustainable business opportunity.
@@ -4897,58 +4778,6 @@
   expDate: 01/31/2018
   title: 'SBIR Phase II:  High-Performance Self-Cleaning, Anti-Reflective Coating
     for Photovoltaic Glass'
-- abstractText: "The broader impact/commercial potential of this project lies in next
-    generation gas turbines where the heart of the engine, the combustor and the blade,
-    are constructed from ceramic matrix composites (CMCs). These developments will
-    spell a new phase of air transportation beyond the current engines that rely upon
-    nickel-base superalloys, which have reached their maximum capability. The ceramic
-    engines are eventually expected to be 25% more efficient. The CMCs are constructed
-    from fibers of silicon-carbide that are spun into net shape and then infiltrated
-    with an equally robust high temperature matrix, also made from silicon carbide-based
-    ceramics. The fiber composites overcome the inherent brittleness of monolithic
-    ceramics while retaining their mechanical and corrosion resistance in aggressive
-    environments. These composites will have applications beyond gas turbines. They
-    can become the critical breakthrough for the solar collector on Concentrated Solar
-    Power systems, and have the potential to be used as cladding for nuclear fuels
-    for greater safety and accident tolerance. The key innovation in this Phase I
-    project is the development of an additive manufacturing process for creating a
-    dense and defect free matrix from polymer precursors that convert into silicon
-    carbide-based ceramics.\n\n  \nThis Small Business Technology Transfer Research
-    (STTR) Phase I project employs additive manufacturing to fabricate dense and defect
-    free matrices for ceramic matrix composites (CMCs). These composites are constructed
-    from fibers of silicon carbide (SiC). The innovation in this project lies in constructing
-    the matrix from polymer precursors where nanoscale layers are deposited in quick
-    succession to create the matrix. These silicon-based polymer precursors convert
-    into ceramics when heated to ~800 oC. Nominal processing, also known as polymer-infiltration-and-pyrolysis,
-    produces cracks in the matrix despite 24 hour curing cycles. These cracks degrade
-    the strength of the composite. In this project nanoscale coatings are deposited
-    in the form of thin layers of liquid and then pyrolyzed into the ceramic in just
-    one or two seconds. The coatings are defect free and dense. The short curing time
-    allows rapid deposition of layers. The CMC can be prepared from SiC fiber preforms
-    in about four hours. The feasibility of the process has been demonstrated with
-    carbon fibers under a grant from Ceramics Program at NSF. In this SBIR project,
-    American Manufacturing LLC seeks to demonstrate the fabrication of CMCs made from
-    silicon-carbide fibers, and demonstrate their viability for high temperature applications."
-  awardeeAddress: 863 14th Street
-  awardeeCity: Boulder
-  awardeeCountryCode: US
-  awardeeName: American Manufacturing, LLC
-  awardeeStateCode: CO
-  awardeeZipCode: '803027619'
-  fundsObligatedAmt: '225000'
-  fundProgramName: STTR PHASE I
-  id: '1549688'
-  piEmail: spowart@amllcboulder.com
-  piFirstName: Mark
-  piLastName: Spowart
-  piMiddeInitial: N
-  piPhone: '3035075907'
-  poName: Rajesh Mehta
-  date: 01/13/2016
-  startDate: 01/15/2016
-  expDate: 07/31/2017
-  title: 'STTR Phase I:  Additive manufacturing of ceramic composites for next generation
-    gas turbines'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Technology Transfer Phase II project is to demonstrate a low cost, environmentally friendly co-extrusion fabrication method for producing high surface area micro- and nanofiber based nonwoven fuel filter sheets.  The micro-/nanofiber nonwoven structures are fabricated from two different hydrophilic and hydrophobic polymers in a melt co-extrusion and subsequent exfoliation processing step.  The resulting porous filtration media sheets have been shown to possess superior strength, tailorable pore sizes, and fuel filtration efficiency on par with currently utilized commercial fuel filter products.  These accomplishments signify a path forward to a highly scalable manufacturing process for producing low cost thermoplastic filter products in addressing the increasingly stringent EPA regulation of ppm level water contaminant. The reduced manufacturing process complexity in melt co-extrusion is estimated to provide up to 60% reduced production costs when scaled to commercial production quantities. Additionally, a significant environmental impact will be realized through adoption of this novel production technology over competitive processes owing to its ?greener? solvent-free manufacturing aspects that eliminates the annual need for millions of gallons of organic solvents and supporting reclamation equipment currently utilized by the filtration industry in creating elctrospun and wet-laid composite nonwoven filtration media.
 
@@ -5447,155 +5276,6 @@
   expDate: 08/31/2017
   title: 'SBIR Phase II:  Cyber Security Monitoring for Critical Embedded and Wireless
     Systems Using Power Fingerprinting'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase II project will
-    demonstrate and develop technology for the roll-to-roll production of continuous
-    graphene films.  The graphene production technology is based upon innovations
-    in the graphene synthesis and graphene handling, addressing critical deficiencies
-    limiting industrial manufacture of graphene.  The synthesis process is performed
-    at atmospheric pressure, allowing roll-to-roll graphene formation on continuous
-    tapes of copper foil passed through the growth region.   This eliminates the need
-    for an expensive vacuum furnace and allows fabrication of graphene films larger
-    than the furnace size.  The graphene handling process developed during Phase I
-    enables the transfer of graphene sheets from the metal catalyst to nearly any
-    smooth surface without any high temperature steps and without the use of harsh
-    chemicals.  Most importantly, the graphene transfer preserves the original metal
-    substrate for reuse.  The reusable substrate dramatically reduces the cost of
-    graphene production and eliminates the largest source of waste in the process.
-    \ In Phase II, we will demonstrate the continuous film processes for graphene
-    synthesis and transfer to new surfaces and design a large area roll-to-roll graphene
-    production system. \n\nThe broader impact/commercial potential of this project
-    is through the industrial scale availability of high quality, low cost graphene
-    sheets.  Transparent, electrically and thermally conductive, strong, flexible,
-    and gas impermeable, graphene is an emerging ?super material? with innumerable
-    proposed applications including flexible transparent conductors for displays and
-    photovoltaics; high frequency electronics for communications; chemical and biological
-    sensors; corrosion barrier; filtration and water desalination; energy storage;
-    and many more.  Industrial quantities of graphene films will enable the development
-    of these and other applications, with substantial benefit to society. The technology
-    that we will to develop has advantages of cost, quality, and design flexibility
-    over competing concepts. Successful completion of this SBIR project will establish
-    Graphene Frontiers as a leading commercial supplier of high-quality graphene to
-    the business and research communities at an attractive price. Our business model
-    includes revenue from sale of the graphene material, licensing of our proprietary
-    growth technology, and specialized products. Our first graphene-based product,
-    TEM grids for electron microscopy, is already on sale with a development partner.
-    These advances will position Graphene Frontiers to attract additional funding
-    from investors, customers, and other non-SBIR sources."
-  awardeeAddress: 3624 Market Street
-  awardeeCity: Philadelphia
-  awardeeCountryCode: US
-  awardeeName: Graphene Frontiers LLC
-  awardeeStateCode: PA
-  awardeeZipCode: '191042619'
-  fundsObligatedAmt: '1151526'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1330991'
-  piEmail: bruce@graphenefrontiers.com
-  piFirstName: Bruce
-  piLastName: Willner
-  piMiddeInitial: I
-  piPhone: '2672235023'
-  poName: Rajesh Mehta
-  date: 09/04/2013
-  startDate: 09/15/2013
-  expDate: 07/31/2017
-  title: 'SBIR Phase II:  Roll-to-roll Production of Uniform Graphene Films at Atmospheric
-    Pressure and Low Temperature'
-- abstractText: |-
-    The Innovation of this Phase II project is developing physics-based analytical models to analyze gearbox components for safety, longevity, reliability and cost by predicting (1) New component performance, and optimal time-to-remanufacture, (2) Qualification of used components for remanufacturing process, and (3) Predicting the remanufactured component performance. Current industry approach is to design, manufacture, operate, and retire assets based on traditional methods, which typically rely on standards-based estimates, historical data/domain experience, physical examination, testing, monitoring, and inspection. This process is extremely time and resource intensive. Further, this process often does not consider the opportunity to use remanufacturing processes to extend/enhance product performance. Sentient technology will address these issues and fulfill the industry requirements. Phase II will expand the Phase I technology to include additional gearbox materials, damage modes and remanufacturing processes in a more comprehensive design and analysis framework capable of predicting optimal time-to-remanufacture and optimizing refurbishing operations to extend the useful life of  components. This SBIR technology reduces physical testing using virtual testing, and will assist in remanufacturing of high value, high demand rotorcraft, automotive and wind turbine gearbox components. Hence, it decreases the energy, material resources, and costs associated with manufacturing, and ensures that the product performance is maintained/improved.
-
-    The broader/commercial impact of the SBIR technology is within aerospace, energy, and transportation industries on high dollar assets that rely on the reliable function of highly engineered (and thus expensive) gearboxes. Our new Advanced Manufacturing partnership based application provides the US manufacturing supply chain a first mover and a sustainable competitive advantage greater than the 6% offshore labor rate advantage. This advantage comes through reuse of high value-added assets optimized for maximum lifetime use, coupled with decreased time and costs associated with traditional physical testing and analysis methods. This is possible based on the high-level of detail included in physics-based models, which (conceptually) decode material information at the microstructure level just as the Human Genome Project decodes genetic information at the DNA level. Our innovation enables the customer to rapidly, cost effectively, and accurately predict a product?s lifecycle (design, manufacture, operation, degradation, maintenance, repair/remanufacture, and retirement) at the material, component, and assembly/system scales. We foresee a future opportunity due to the fact that our innovation developed under this NSF grant will give us a competitive advantage of lower costs to provide the software and service. Our cost to deploy the technology is 10X lower than traditional companies in this space.
-  awardeeAddress: 850 Energy Drive
-  awardeeCity: Idaho Falls
-  awardeeCountryCode: US
-  awardeeName: Sentient Corporation
-  awardeeStateCode: ID
-  awardeeZipCode: '834011503'
-  fundsObligatedAmt: '1250000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1330900'
-  piEmail: rpulikollu@sentientscience.com
-  piFirstName: Raja
-  piLastName: Pulikollu
-  piPhone: '2085228560'
-  poName: Peter Atherton
-  date: 08/05/2013
-  startDate: 08/15/2013
-  expDate: 07/31/2017
-  title: 'SBIR Phase II:  Analytical Modeling and Performance Prediction of Remanufactured
-    Gearbox Components'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project is intended to establish the feasibility of a high-efficiency, low-cost electric power generator called the C-TEC, for Concentration-mode Thermoelectric Converter.  The C-TEC is an electrochemical converter that generates electricity from heat using a thermally-regenerated concentration gradient of ions across an electrolyte membrane, rather than a thermal gradient across a semiconductor material.  This important difference yields a technology with the potential for the high efficiency of a fuel cell, combined with the low cost, low maintenance, and long life of a thermoelectric device.  Detailed theoretical models and calculations have shown the potential for greater than 30% efficiency in similar devices, but in practice, only 15% to 19% efficiency has ever been realized.  The Phase I program successfully demonstrated the key elements of a low-cost, high-efficiency design, and created a simple efficiency algorithm for developing a device capable of demonstrating high efficiency.  This efficiency model will be refined using prototype verification builds during the Phase II program, and then used to design, build and test a prototype device suitable for the distributed power generation markets.
-
-    The broader impact/commercial potential of this project will be the development of low cost, high efficiency generators that can operate using any form of heat in a wide variety of applications.  C-TEC generators are inherently more versatile than other technologies that require high-grade, specific fuels, such as engines (gasoline), turbines (natural gas), fuel cells (hydrogen), or solar cells (sunlight).  The C-TEC makes no noise, has no moving parts, and requires no maintenance, making it ideal for long-term power generation.  Clean, distributed electricity provided by microCHP (Combined Heat and Power systems at less than 5 kW electrical power) enables breakthrough electrical efficiency greater than 90% in the home, representing an important technology for the widespread adoption of the electric car.  The C-TEC-powered electric car will use domestic natural gas as a bridge to renewables, reducing emissions and dependence on foreign oil and massive infrastructure development costs associated with upgrades to our grid capacity.  Other technologies have been proposed as prime movers for microCHP, including fuel cells and engines, but these fall short in terms of cost and maintenance.  Ultimately, the cost and versatility of the C-TEC will provide economic advantages like fast payback to drive the adoption of new clean technologies.
-  awardeeAddress: 1340 Tully Road, Suite 311
-  awardeeCity: San Jose
-  awardeeCountryCode: US
-  awardeeName: NanoConversion Technologies, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '951223055'
-  fundsObligatedAmt: '1213549'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1330876'
-  piEmail: mstaskus@nanoconversion.com
-  piFirstName: Michael
-  piLastName: Staskus
-  piMiddeInitial: P
-  piPhone: '4085823213'
-  poName: Ben Schrag
-  date: 07/29/2013
-  startDate: 08/01/2013
-  expDate: 07/31/2017
-  title: 'SBIR Phase II:  High Efficiency Thermoelectric Converter'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase II project will
-    focus on the enablement of comparative effectiveness research (CER), evidence
-    based medicine (EBM), and personalized medicine (PM) by researchers utilizing
-    both clinical and complex biomolecular data. The first phase of this grant was
-    focused on a feasibility study working with customers to determine the extent
-    to which the tools we were creating would and could be utilized in practice. This
-    phase is focused on implementation of these tools in real-world health care environments
-    and creating systemic improvements of healthcare by improving tools available
-    for self-evaluation by hospital administrators and clinicians alike. There will
-    be four key objectives accomplished as a result of this proposal. The first is
-    the development of care-improvement algorithms for pediatric ICU patients with
-    sepsis and congenital heart disease. The second will be a reporting engine that
-    mines electronic medical records to create CER reports for patients. The third
-    is an easy-to-use enterprise level reporting engine to check compliance with national
-    standard health care quality metrics and to create new metrics for care improvement.
-    The final objective is to create a personalized medicine reporting system based
-    on next generation sequencing data. \n\n\nThe broader impact/commercial potential
-    of this project is significant because it capitalizes on two trends in health
-    care - digitizing patient clinical data and the increasing use of molecular sequencing
-    and microarray data. The commercialization of the technical innovations referenced
-    in this project will enable researchers and clinicians to generate true Comparative
-    Effectiveness Research (CER), Evidence-based precision medicine (EMB) and Personalized
-    Medicine reports (PMR). The ultimate objective of this technology is improving
-    patient outcomes. Leveraging historical patient data in CER to eliminate ineffective
-    therapies from the health care system, coupled with utilizing genetic information
-    to create a more personalized model of health care,  will focus precious health
-    care dollars on effective therapies optimized for the individual. Ultimately,
-    this tool will be appealing to every segment of the health care industry including
-    clinicians, researchers, pharmaceutical companies, and insurance companies due
-    to the increases in quality and cost savings that will be created."
-  awardeeAddress: 21170 Canyon Oak Way
-  awardeeCity: Cupertino
-  awardeeCountryCode: US
-  awardeeName: Transmed Systems Inc
-  awardeeStateCode: CA
-  awardeeZipCode: '950146572'
-  fundsObligatedAmt: '1100000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1230265'
-  piEmail: jmiller@xbtransmed.com
-  piFirstName: Jeremy
-  piLastName: Miller
-  piPhone: '4083158250'
-  poName: Peter Atherton
-  date: 08/09/2012
-  startDate: 08/15/2012
-  expDate: 07/31/2017
-  title: 'SBIR Phase II:  Efficient Comparative Effective Research Tools In Real Time
-    Environment'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase II project will optimize and pilot test a novel, energy-positive approach to de-nitrification for the global aquaculture industry. Recirculating aquaculture systems suffer from high wastewater treatment costs. Leveraging recent advances in bio-electrochemical systems, Cambrian's de-nitrification technology is capable of simultaneously treating chemical oxygen demand (COD) at end of pipe and nitrates in culture tank water while generating electricity directly. Phase I R&D demonstrated the existence of exo-electrogenic microorganisms in aquaculture wastewater. A flow through reactor consistently treated nitrate to below EPA drinking water concentrations (10mg/L) while removing an average of 65% of end-of-pipe COD and generating over 96 Amps/m3. An economic analysis demonstrated potential operating savings of over 70%, and significant bio-security benefits, versus competing systems. Phase II R&D will focus on optimizing treatment rates and reactor parameters with partner firms, and piloting a scaled reactor at an Aquaculture farm.
 
@@ -7173,53 +6853,6 @@
   startDate: 12/15/2016
   expDate: 11/30/2017
   title: 'SBIR Phase I: Low-latency polyphonic coding for interactive immersive applications'
-- abstractText: "This SBIR Phase I project will address drug resistance in cancer
-    patients through the advanced analysis of biopsies.  Not only is each patient
-    unique but their tumor contains a high level of genetic diversity as well. Overlooked
-    diversity within patient tumors can lead to inadequate treatment and consequently
-    acquired drug resistance, and has also been shown to predict therapeutic response
-    to certain drugs.  The proposed technology is capable of extracting and correlating
-    tumor gene expression profiles to the spatial information and imaging of a biopsy
-    so that a physical map of genetic diversity can be constructed.  The initial application
-    of this method will be in immuno-oncology where the spatial locations of immune
-    cells fighting cancer have been shown to predict response to treatment. The next
-    step will be to elucidate all cell types in the specimen that are usually overlooked
-    with conventional diagnostics and use this information for determining treatment
-    combinations that would affect all types of malignant cells found in this tumor.
-    This directly addresses the Cancer Moonshot Initiative's focus on combination
-    treatments for personalized medicine.  Successful commercialization of this method
-    will result in drug biomarker discovery services, precision screening for patients,
-    and fundamental discoveries in biology by researchers using this tool to investigate
-    various diseases.  \n\nThe technical innovation in this SBIR Phase I Project is
-    the ability to correlate genomic analysis with spatial information to create an
-    in-situ map of gene expression across the specimen.  Imaging and big genomic data
-    such as sequencing have been mutually exclusive, and the ability to correlate
-    them in order to visualize genetic diversity within a specimen would be informative
-    for both screening and research.  The goals of this project are to demonstrate
-    the ability to create a visual heat map of gene expression from archived biopsies
-    and to show that this expression map identifies genetic diversity that standard
-    analysis methods do not.  Quantification of this diversity and the locations of
-    deviations in the tumor will be the basis of future screenings for drug responsiveness
-    as well as basic research into the causes and treatments of various diseases."
-  awardeeAddress: 1475 N Scottsdale Rd Ste 200
-  awardeeCity: Scottsdale
-  awardeeCountryCode: US
-  awardeeName: BioSyntagma, LLC
-  awardeeStateCode: AZ
-  awardeeZipCode: '852573538'
-  fundsObligatedAmt: '213904'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1647818'
-  piEmail: dderkach@omicascience.com
-  piFirstName: Dmitry
-  piLastName: Derkach
-  piMiddeInitial: N
-  piPhone: '5204408762'
-  poName: Henry Ahn
-  date: 12/14/2016
-  startDate: 12/15/2016
-  expDate: 07/31/2017
-  title: 'SBIR Phase I:  High multiplex visual mapping of heterogeneity in FFPE biospecimen'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will result from the development of an inexpensive way to create projected displays on arbitrary surfaces. This can have a tremendous impact in the ease of deployment and maintenance of low cost high-resolution displays on existing common surfaces (e.g. walls, pillars, objects, whiteboards) as well as prototyped (3D printed, clay, or Lego) models. This opportunity can dove-tail well with the maker-movement that democratizes manufacturing, artistic creation, and design. All of the benefits of the maker movement for society, the economy, commerce, and education will multiply with the introduction of an inexpensive and easy to use technology for creating displays on arbitrary surfaces. New markets that are constrained due to the cost of current solutions will open up for adopting this low-cost technology. Such markets include elementary schools in need of collaborative interactive devices, mobile planetariums, inflatable temporary display structures for independent artists, and others.
 
@@ -7500,30 +7133,6 @@
   startDate: 12/15/2016
   expDate: 11/30/2017
   title: 'SBIR Phase I:  Personalizing Online Clothing Shopping'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project includes: 1) development of novel encryption and authentication technology to improve cybersecurity and 2) the reduction of economic loss due to data breaches.  The larger societal need for new technologies in the cyber arena has been well documented over the past 10 years.  With the growing dependence on computers in practically every aspect of modern life, use of social media, large industries moving towards high performance (faster) computing networks and the coming era of the Internet of Things (IoT), the market for cyber technology is expected to grow at a steady rate of as much as 15% annually.  This project will create a high speed, parallel and Truly-Random Number Generator (TRNG) with signal embedding capabilities.  With an optical core, the device will have advantages over many of the currently available, pseudo-RNG devices based on silicon chip technologies that have been shown vulnerable to hackers.  Additionally, this device will provide a framework for continuous development and possible online authentication features to compliment the hardware.
-
-    This Small Business Innovation Research (SBIR) Phase I project will result in development of a prototype device to assess the feasibility of a commercial product.  The basis of the innovation is the use of quantum phenomena in optics to create randomness, also known as noise.  Quantum mechanics has proven to be the underlying mechanism for noise processes used the world over in encryption of data.  In this case, the process of creating noise can be adjusted, oscillated at some frequency, to produce embedded signals overlaid with the random output.  This gives the final design applications well beyond encryption.  With the rise of high performance computing networks in scientific simulations, health care patient tracking, financial institution accessibility, education, etc., the ability to use the embedding feature to track authentication credentials and perform continuous monitoring of equipment accessing a network becomes paramount to securing networks as well as data.  During this project the basic design will be refined with the aim of producing a rescaled, commercial product.
-  awardeeAddress: 10724 Sycamore Ridge Ln
-  awardeeCity: Tallahassee
-  awardeeCountryCode: US
-  awardeeName: Axion Technologies
-  awardeeStateCode: FL
-  awardeeZipCode: '323051712'
-  fundsObligatedAmt: '224825'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1646995'
-  piEmail: cyscarlett@gmail.com
-  piFirstName: Carol
-  piLastName: Scarlett
-  piMiddeInitial: Y
-  piPhone: '6313988746'
-  poName: Peter Atherton
-  date: 12/12/2016
-  startDate: 12/15/2016
-  expDate: 07/31/2017
-  title: 'SBIR Phase I:  Quantum Random Walking for Ultra-High Speed, Parallel and
-    Truly-random Number Generation'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research Phase I project is opening a new, low-temperature range of Diesel emission
     control currently unavailable, while providing further flexibility in Diesel vehicle
@@ -8705,29 +8314,6 @@
   title: 'STTR Phase I:  Automated object contouring methods and software for head
     and neck radiotherapy planning'
 - abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is that it will provide greater visibility into network behavior and help identify problems before they occur in the network. Advances in cloud computing and network virtualization are changing the way networks are designed and monitored. This project will help small and medium businesses adapt to and take advantage of these advances by means of intelligent analysis of network traffic data, resulting in an optimized network and eliminating unnecessary additional capital expenditure. The resulting commercial impact is that the technology will eliminate tedious data analysis currently required of network engineers to isolate fault and performance issues, and help them achieve a more efficient, streamlined design.
-
-    This Small Business Innovation Research (SBIR) Phase I project focuses on delivering a predictive network behavior analysis product that will help small and medium businesses better understand the behavior of their networks. Due to the rapid growth of new network technologies and increasing application complexity, such businesses have to constantly change and upgrade their networks. By not understanding the overall network behavior under various load conditions, they are forced to use ad-hoc methods to design and equip their networks. The objective of this project is to build a prototype that will demonstrate the proposed predictive network behavior analysis capability to potential customers. The prototype will also be used with select partners for beta testing and refining of requirements. The results will be used to further refine this prototype into a commercially viable product that can be deployed in the networks of small and medium businesses.
-  awardeeAddress: 12920 Punta de Vista Pl NE
-  awardeeCity: Albuquerque
-  awardeeCountryCode: US
-  awardeeName: CANIV TECH INC
-  awardeeStateCode: NM
-  awardeeZipCode: '871122054'
-  fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1549349'
-  piEmail: siyer@caniv-tech.com
-  piFirstName: Srividya
-  piLastName: Iyer
-  piPhone: '9084329389'
-  poName: Peter Atherton
-  date: 12/16/2015
-  startDate: 01/01/2016
-  expDate: 07/31/2017
-  title: 'SBIR Phase I:  Deriving Event Models, Classification Heuristics and High
-    Level Semantics Using Network Traffic Data'
-- abstractText: |-
     This STTR Phase I project will carry out research and development on a cloud-based pluggable data analytics engine to address the educational game market?s need of real-time assessment for learning.  Educational games will become much more successful if learning from games can be well quantified so that buyers will be assured that the time spent using games is productive. However, currently game makers are not qualified or funded to provide the statistics and cognitive assessment required for such analysis. This project will thus build a prototype of commercial pluggable third-party engine that traces the growth of the learner's knowledge in real time without interference and provides customized assessment summary and feedback to educational stakeholders. The prototype will be developed and tested with games that teach data literacy in three high schools representing diverse demographic groups. The testing in a commercial environment will begin in collaboration with two successful educational game companies. The innovative use of data-intensive assessment technology will aid in currently struggling STEM education in the United States by providing streamlined and accurate information while learning occurs. This project will also help launch a new business that has potential to boost the market value of educational games and digital learning.
 
     This STTR Phase I project utilizes the Monte-Carlo Bayesian Knowledge Tracing (MC-BKT) algorithm. This algorithm was recently developed in-house based on techniques distilled through years of research in physics, education, and computation, and makes it possible to perform individualized knowledge tracing in real-time for the first time. In prior research, post hoc MC-BKT analysis led to identification of up to seven distinct patterns associated with knowledge growth during game segments, with 84% accuracy as compared with human judgments based on video analysis of game screens and players' discourse. This project will conduct research to test whether this assessment potential of the MC-BKT algorithm can be extended beyond initial research to players with games involving different content domains, in a greater number of classrooms with diverse demographics (involving around 600 high school students), and in real time. Based on research results, this project will build a prototype commercial product around the MC-BKT algorithm in the form of a cloud-based pluggable engine. Two popular commercial educational games as well as various games internally sourced within this project will be test-connected to the engine for real-time testing of knowledge tracing, learning problem detection, and feedback delivery to teachers, parents, game designers, and learners.
@@ -9180,52 +8766,6 @@
   title: 'SBIR Phase II:  Innovative Germanium-based Short Wavelength Infrared Image
     Sensors'
 - abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project addresses a path to achieve the metric of less than $1 per kilolumen in Gallium Nitride (GaN) based light emitting diodes (LEDs).  This is expected to spur widespread adoption of solid state lighting which, according to the US Department of Energy, could result in electricity savings equal to the output of 44 gigawatt power plants by 2027.  The price for LEDs is slowing adoption. LEDs don't typically need to be better; they need to be cheaper. This project could directly address this adoption problem by lowering the cost of making LEDs by eliminating one of the most expensive steps in the LED production process.
-
-    This Small Business Innovation Research (SBIR) Phase II project will address the technical problems in Gallium Nitride (GaN) based light emitting diodes (LEDs), namely using traditional buffer layers to grow GaN on non-GaN substrates.  Traditional approaches are typically expensive and result in crystalline defects because the buffer materials used are non-ductile crystalline structures which very effectively propagate, rather than annihilate, defects. This project develops a new substrate made with a patented crystalline metal and process that will let the manufacturers spend less time and effort to get the same or even better LED crystalline quality than they can achieve today.   Low cost growth techniques are used and to reduce defects in GaN LEDs and to improve the dollar per kilolumen cost to performance metric.
-  awardeeAddress: 2220 Livingston Street
-  awardeeCity: Oakland
-  awardeeCountryCode: US
-  awardeeName: Tivra Corporation
-  awardeeStateCode: CA
-  awardeeZipCode: '946061234'
-  fundsObligatedAmt: '892231'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1534736'
-  piEmail: francisco@tivracorp.com
-  piFirstName: Francisco
-  piLastName: Machuca
-  piMiddeInitial: J
-  piPhone: '4158718476'
-  poName: Rajesh Mehta
-  date: 08/12/2015
-  startDate: 08/15/2015
-  expDate: 07/31/2017
-  title: 'SBIR Phase II:  Ultra Low Defect Gallium Nitride Mediated by Metal Alloys'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is the development of a novel phosphor material system that drives up to a 20% improvement in energy efficiency of phosphor-converted LEDs (pcLEDs) over current state-of-the-art phosphor material systems in nearly all pcLED applications. The market for LED phosphors in 2012 was roughly $500 million and is expected to reach $1.2 billion by 2016. The 20% improvement in the packaged LED efficiency will also trigger a cascade of tangible impacts at the end-product system level such as using fewer LEDs, increasing efficacy (lumens per watt) and mobile device battery life, reducing electronic driver complexity, reducing heat, a thinner form factor, and a far more brilliant color gamut. The anticipated results from this grant will satisfy the 2020 goals for down-converting materials laid out in the U.S. Department of Energy's 2013 Multi-Year Program Plan, bringing these efficacy and efficiency goals and standards to market four years ahead of schedule.
-
-    This Small Business Innovation Research Phase II project aims to further develop a novel and proprietary phosphor material system for use in phosphor-converted light-emitting diode (pcLED) applications that will improve pcLED efficacy up to 20%. In display backlighting, 20-40% of the light emitted by the state-of-the-art phosphors miss the sweet spot of the display's color filters resulting in unused light and wasted energy. Similarly, in general lighting approximately 15% of the emitted light falls outside the visible spectrum, again resulting in wasted energy. The technology developed is a phosphor material utilizing a novel chemistry that exhibits a narrow light emission spectrum to increase LED brightness and energy efficiency by 10-20% in display backlighting and up to 15% in general lighting applications. Prototype materials have been synthesized that exhibit a narrow emission peak at target wavelengths, and the next steps include optimization and characterization of the most effective compositions. The anticipated results of this project are narrow-band phosphor materials that exhibit performance and reliability characteristics commensurate with industry standards.
-  awardeeAddress: 1501 Bull Lea Rd.
-  awardeeCity: Lexington
-  awardeeCountryCode: US
-  awardeeName: EIE Materials, Inc
-  awardeeStateCode: KY
-  awardeeZipCode: '405111209'
-  fundsObligatedAmt: '885626'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1534771'
-  piEmail: jonathan@eiematerials.com
-  piFirstName: Jonathan
-  piLastName: Melman
-  piPhone: '7328416654'
-  poName: Anna Brady-Estevez
-  date: 07/29/2015
-  startDate: 08/01/2015
-  expDate: 07/31/2017
-  title: 'SBIR Phase II:  Novel Compositions for Narrow Bandwidth Light Emitting Diode
-    Phosphors'
-- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is very significant.  Current peptide-based drugs constitute important tools in human healthcare, and development of new peptide-based drugs represents a growing proportion of the pharmaceutical research effort.  Current peptide drugs addressing widespread diseases such as type 2 diabetes (T2DM) and osteoporosis have sales above $1 billion.  These drugs must be delivered by injection.  This SBIR aims for new drugs with comparable heath benefits that can be taken in pill form, because the convenience of oral delivery, relative to injection, would rapidly capture most of the market.  The high stability engendered by our design strategy should enable drug development for diseases that currently cannot be treated.  Thus, the commercial potential of this project is high.  Orally delivered replacements for injectable drugs would have a substantial broader impact because they would enhance patient compliance.  Inadequate treatment of T2DM for example, leads to adverse health consequences that degrade productivity and quality of life for patients.  Increased compliance resulting from a general ability to deliver peptide drugs in pill form would vastly improve outcomes for patients, including the specific patients populations targeted by our current programs.
 
 
@@ -9415,29 +8955,6 @@
   startDate: 03/01/2015
   expDate: 08/31/2017
   title: 'SBIR Phase II:  Representation and Deep Learning for Free Text Applications'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project results from lowering the barrier to entry for, and simplifying the use of, cloud computing systems via a novel, open source, cloud platform.  The proposed advances have the potential to facilitate and expedite innovation and technological progress by a diverse software and global developer community, enabling more people to tackle the important yet increasingly challenging and data-intensive computing problems facing businesses today. The company's technologies address directly the key pain points of this explosively growing platform-as-a-service (PaaS) and cloud-based application development market - namely privacy, lock-in, and control.  Unique to the company's approach is compatibility with a leading, proprietary, public cloud PaaS standard (Google App Engine).  As such, the company's solutions have significant commercial potential because they are directly applicable to businesses that employ App Engine today (there are currently over 4.5 million active applications), and they lay the groundwork for addressing the larger PaaS market in the long term.
-
-    This Small Business Innovation Research Phase II project is based on a distributed system that executes and manages web-based and mobile cloud applications (apps) via automation, thereby relieving developers, operations staff, and Information Technology (IT) groups of the burden of doing so.  The proposed technology advances address the issue of vendor lock-in - i.e. the use of proprietary technologies, services, and systems that effectively prevent users from switching to alternative vendors.  In the cloud space, lock-in is proliferated through the use of (i) proprietary interfaces and tools, (ii) complex pricing models, and (iii) the lack of interoperability across vendors.  The proposed technology disrupts lock-in by public cloud vendors by automating software deployment and management across clouds, and by making it easy to move applications and data between vendor offerings and on-premise clusters. In particular, the company's technologies abstract away the complexities of cloud use, and provide monitoring, backup/restoration, and migration of applications and data across clouds at the push of a button.  By providing features that are currently unavailable today, the proposed technologies have significant potential for reducing the cost, risk, and learning curve associated with cloud-based development, deployment, disaster recovery, and migration for the next generation of cloud applications.
-  awardeeAddress: 226 E De La Guerra
-  awardeeCity: Santa Barbara
-  awardeeCountryCode: US
-  awardeeName: AppScale Systems, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '931013301'
-  fundsObligatedAmt: '917719'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1456088'
-  piEmail: graziano@appscale.com
-  piFirstName: Graziano
-  piLastName: Obertelli
-  piPhone: '8058450010'
-  poName: Peter Atherton
-  date: 02/10/2015
-  startDate: 02/15/2015
-  expDate: 07/31/2017
-  title: 'SBIR Phase II:  Disaster Recovery and Migration Technologies for Cloud Applications
-    and Data'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to increase the efficiency of identifying, mapping, and remediating water sources contaminated with chlorinated solvents.  Chlorinated solvents are used in vast quantities as solvents and degreasing agents, and in the dry cleaning industry. The necessity of monitoring chlorinated solvents in water will continue for many generations due to their widespread occurrence in water sources around the world, their toxicity, and their high stability. A significant need exists and will grow for devices that can continuously measure the concentration of chlorinated organic chemicals in water, and that can do so accurately and inexpensively. Continuous in-situ data production in the field of environmental sensing will greatly increase efficiency in all processes that require a measurement of these chemicals, having a significant impact on the costs and timelines associated with remediation of contaminated sites. This sensor will allow for continuous monitoring of possible contamination sources in the case of a contamination event. Also, it will afford easy profiling of contamination plumes in aquifers. This technology will replace the current laboratory-based measurement protocols, which are not readily adapted for in-situ, on-line, or in-the-field measurements, and cannot produce data continuously.
 
@@ -9812,54 +9329,6 @@
   startDate: 09/01/2015
   expDate: 02/28/2018
   title: 'SBIR Phase II:  Reactive Silver Inks for High Performance Printed Electronics'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) Phase II project is to allow a greater number of organizations,
-    businesses, and individuals to access shortwave infrared (SWIR) imaging technology.
-    Modern SWIR technology has existed for more than 40 years, but its expense has
-    limited its use to the military and large corporations; this project is grounded
-    in the belief that when everyone has access to SWIR technology, the benefits to
-    society are exponential.  SWIR image sensors have potential applications in food
-    safety analysis (e.g., identifying harmful adulterated foods and revealing sub-surface
-    flaws in produce), manufacturing (e.g., sorting), security (e.g., night vision),
-    medical sensing (e.g., vein mapping and blood oxygenation monitoring), and the
-    automotive field (e.g., night/inclement weather vision systems and for self-driving
-    vehicles). A low-cost sensor will open the SWIR imaging market to players in these
-    fields who have so far been shut out due to price. In addition, a low-cost, high-quality
-    sensor will also make SWIR imaging directly available to the general public for
-    the first time ever in the form of a SWIR camera smartphone add-on, establishing
-    a new market for SWIR imaging. \n\nThis Small Business Innovation Research (SBIR)
-    Phase II project will produce low-cost germanium (Ge)-based shortwave infrared
-    (SWIR) image sensors with features superior to those of currently available SWIR
-    sensors. The research objective is to resolve issues of resolution, power usage,
-    size, and sensitivity that limit advancement in the SWIR imaging field. This project
-    will address these problems by utilizing a unique Ge-based SWIR sensor structure.
-    In addition, a monolithic method of integrating the image sensor material onto
-    the Si readout integrated circuit will be pursued. This will enable precise alignment
-    of the readout integrated circuit  and the imaging device, which will lead to
-    smaller pixel size and better resolution. Finally, issues of power use and sensitivity
-    will be addressed through an innovative structure called Gate-controlled Charge
-    Modulate Device. Research will focus on refining and improving the fabrication
-    processes necessary to reliably produce low-cost, high-quality Ge-based SWIR image
-    sensors."
-  awardeeAddress: 321 POE ST
-  awardeeCity: Palo Alto
-  awardeeCountryCode: US
-  awardeeName: Stratio, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '943011136'
-  fundsObligatedAmt: '909999'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1534793'
-  piEmail: jaehyung.lee@stratiotechnology.com
-  piFirstName: Jae-Hyung
-  piLastName: Lee
-  piPhone: '6507967456'
-  poName: Muralidharan S. Nair
-  date: 08/12/2015
-  startDate: 08/15/2015
-  expDate: 07/31/2017
-  title: 'SBIR Phase II:  Innovative Germanium-based Short Wavelength Infrared Image
-    Sensors'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is in significantly lowering the cost of high precision glass molding through a low-cost carbide-bonded graphene coating. In optical industry, optical glasses have been the de facto choice. These lenses are used in cameras, projection systems and military equipment. However, cost and other considerations frequently lead to the choice of injection molded plastic lenses with their acceptable but lower image quality. The innovative carbide-bonded graphene coatings are both low cost and durable, and could allow use of precision optical glasses in places where plastic products are used today. The coatings also have the potential to spread to other markets such as advanced thermal management, next generation electronic components, and biosensors based on the unique combination of excellent mechanical, physical, optical transparency and biocompatibility properties together with tunable optoelectronic characteristics. Such products may greatly improve our daily lives in areas such as portable electronics and optics, energy saving and green manufacturing.
 
@@ -10591,35 +10060,6 @@
   startDate: 02/01/2013
   expDate: 01/31/2018
   title: 'SBIR Phase II:  Structural Imaging of High Temperature Furnace Walls'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project will address new regulations being enacted in
-    the shipping industry requiring Sulfur Oxides (SOx) reduction from engine emissions. Many commercial
-    scrubber systems effectively remove SOx from engine emissions, yet none are designed to remove polycyclic
-    aromatic hydrocarbons (PAHs). EnSolve?s approach is to develop a combined biological and mechanical
-    system that can remove PAHs from the scrubber system waste water. The results of the Phase I study confirmed
-    the biomechanical approach was effective in reducing PAHs at rates exceeding 99%.
-
-    The broader impacts of this research will be to provide the maritime industry with a cost effective, reliable, and environmentally conscious treatment system for removing toxic substances from the world?s oceans. Ships will be required to either install scrubbing equipment or they will need to switch to more costly low sulfur fuels. A switch to low sulfur fuel would increase current fuel costs by over 88%. A commercial ship owner could realize annual savings of $2 million per vessel in fuel costs using a scrubber system compared with purchasing low sulfur fuel. An estimated 35,000 ships will be impacted by these regulations, yielding a market opportunity for the proposed scrubber water treatment system exceeding $5 billion. Other technologies under development utilize pure physical separation methods that transfer the contaminants from the scrubber water to another medium (i.e., filters) for disposal. Conversely, the proposed biological approach is a regenerative process that would significantly reduce landfill disposal, consumable, labor, and liability costs.
-  awardeeAddress: 5805 Departure Drive
-  awardeeCity: Raleigh
-  awardeeCountryCode: US
-  awardeeName: EnSolve Biosystems, Inc.
-  awardeeStateCode: NC
-  awardeeZipCode: '276161859'
-  fundsObligatedAmt: '1034332'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1152257'
-  piEmail: rpenny@ensolve.com
-  piFirstName: Richard
-  piLastName: Penny
-  piMiddeInitial: L
-  piPhone: '9199546196'
-  poName: Ruth M. Shuman
-  date: 03/28/2012
-  startDate: 04/01/2012
-  expDate: 07/31/2017
-  title: 'SBIR Phase II:  Biological Treatment of Hydrocarbons in Shipboard Exhaust
-    Gas Cleaning Systems'
 - abstractText: |-
     The broader impact/commercial potential of this project will be to reduce the necessary supervision and oversight required to operate multiple unmanned platforms in the execution of real-world, specific, task-based activities supporting search and rescue, routine mapping and intelligence gathering missions.  Shifting control from teleoperation to autonomous navigation could enable first responders such as lifeguards, to quadruple their capacity to assist in mass, maritime disaster, rescue scenarios for example. The current practice of a single lifeguard handling 3 victims in a routine riptide incident will be improved by a factor of four, through the use of this technology, allowing lifeguards to better manage mass-scale, maritime disasters that may involve a hundred victims. Human lifeguards could focus on those people requiring immediate personal assistance (unconscious, hypothermia or children for instance), while unmanned maritime platforms could be tasked with responding to clusters of survivors better capable of self-rescue.  Lifeguard assistant robots can also help with the over 400,000 lower profile events in the US each year.  A robot could not only save lives but reduce risk to the lifeguard who typically has to swim or jet-ski out to provide flotation and rescue lines to victims in dangerous conditions.
 
@@ -12673,29 +12113,6 @@
   title: 'SBIR Phase I:  Hyper-Personalized Clinical Evidence-based Blood Transfusion
     Decision Support Tool to Drive Value-Based Care'
 - abstractText: |-
-    This Small Business Innovation Research Phase I project addresses a major obstacle and opportunity in the present nanotechnology boom, the need for improved microscope capabilities.  The growth of public investment in nanotechnology, from zero in 2000 to $68 billion in 2012, reflects the technical and commercial advantages of miniaturizing structural and chemical engineering to the nanoscale.  Missing are microscopes capable of resolving such structures and chemistries with sufficient accuracy: atomic-scale resolution in three dimensions (3D).  If successful, this project will demonstrate a new microscope that bridges this gap.  Based on atom microscope by projection (AMP) technology, the new AMP microscope will image the position and identity of every atom in 3D.  Complete atomic resolution will provide critical missing information to research scientists and more accurate inspection technology for manufacturing quality assurance.  Revealing atomic origins of properties, AMP microscopes will accelerate transition from trial-and-error experimentation to computer-based design, allowing significant savings of time and money in research and development.
-
-    The intellectual merit of this project focuses on investigating feasibility of creating the first microscope capable of resolving the position and identity of every atom, in three dimensions, for billions of atoms per analysis.  This represents a 100-fold spatial resolution improvement and a 2-fold chemical resolution improvement.  AMP combines field-ion microscopy and field-evaporation time-of-flight mass spectrometry.  Prototype AMP experiments spatially imaged 100% of atoms with 3D sub-angstrom resolution but only chemically identified 57%.  This is the detection limit of using a multi-purpose detector for both spatial and chemical resolution.  To reach 100% atomic spatial and chemical resolution, this project will model, simulate, and experimentally test feasibility of novel ion optics to separate the spatial resolution information from the chemical resolution information, enabling use of single-purpose detectors for each and improving quality.
-  awardeeAddress: 746 Gavello Ave
-  awardeeCity: Sunnyvale
-  awardeeCountryCode: US
-  awardeeName: Atomnaut Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '940868510'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1647712'
-  piEmail: peter@atomnaut.com
-  piFirstName: Peter
-  piLastName: Liddicoat
-  piPhone: '8314715539'
-  poName: Ben Schrag
-  date: 12/14/2016
-  startDate: 12/15/2016
-  expDate: 07/31/2017
-  title: 'SBIR Phase I:  Providing Microscopy at the Ultimate Resolution: Position,
-    Identity, of Every Atom, in 3D'
-- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project will be the alleviation of several current difficulties in the growth measurement of many bacterial species, especially anaerobic and other fastidious organisms. A large number of these species are naturally occurring in the human body, and they have recently been shown to play critical roles in allergies, autoimmune diseases, dietary health, cancer, infection response, and more. The study of these species is considered by many to be the next frontier of modern medicine, especially as current approaches to managing infectious diseases, such as traditional antibiotics, appear to be losing effectiveness. However, current measurement technology is largely incompatible with the specialized environments and chambers in which anaerobic organisms must be grown. There is therefore a large unmet need for better ways to measure anaerobic bacterial growth; this need is growing quickly as interest in the field increases. The ability to conduct high-throughput experiments in specialized environments will become critical as research into various human microbiomes accelerates, and demand for high-volume data grows. The existing market for high-throughput measurement devices is at least $300 million and growing; the proposed technology will expand that market to fields it has never served.
 
     This SBIR Phase I project proposes to develop technology for measuring growth of many bacterial samples in a format much smaller than currently available high-throughput devices. The rise of systems and computational biology demonstrates a growing demand for large amounts of quantitative data; the variety of microbes in the human body necessitates such an approach. However, this type of data is currently nearly impossible to collect in anaerobic and other specialized environments. This project aims to bring high-throughput growth measurement techniques to these environments by creating simplified, miniaturized hardware paired with advanced real-time analysis and control software. The project?s first objective is to refine a novel proof-of-concept optical density measurement method to achieve accuracy and precision comparable to traditional techniques, and verify using bacterial growth and inorganic liquid testing. The next goal is to design a hardware enclosure small and robust enough to allow compatibility with the smallest and most taxing environments. Finally, software will be developed to manage a high number of bacterial experiments (and devices) running in parallel without sacrificing data fidelity or high resolution. It is anticipated that the resulting high-throughput measurement system will greatly expand researchers' abilities to characterize microbes of increasing clinical relevance.
@@ -14161,28 +13578,6 @@
   expDate: 11/30/2017
   title: 'SBIR Phase I: Improving Surface Properties of Stainless Steel for Li-ion
     Battery Current Collectors'
-- abstractText: |-
-    This Small Business Innovation Research Phase I project will develop a disruptive tow tension control technology specifically designed for the unique processing variables of composite material manufacturing to solve the limiting factor of tension control the industry currently faces. In composites manufacturing multiple materials with different tensile strengths and elasticity are combined to make a stronger product, and the lack of affordable tension control has up to this point limited the speed and quality of finished products within the industry. By controlling tension there are fewer gaps, uneven tows, and breaks, resulting in higher quality end product and reduced scrap rates. The composites industry is forecasted to grow at a 7% compound annual growth rate to $10.9 billion in 2018 despite these manufacturing limitations. By removing the limiting factor of tension control it is estimated that production could expand 15%-25%, increasing the growth of this industry even further. With composites? primary and growing role in renewable energy, aerospace, construction, automobiles, pipe and tank, and consumer goods, a manufacturer?s ability to remove limitations to effectively meet demand without sacrificing quality will be critical. Expanded productivity will allow for greater innovation with composites within existing industries and promote their use in new industries.
-
-    The intellectual merit of this project centers on determining the feasibility of a Modular Tensioning Cartridge for composites manufacturing. The objectives of this project are 1) to determine if tension can be controlled near or at zero, 2) to achieve miniaturization of the unit for multiple use applications, and 3) to determine cost targets and economic feasibility. Research will be conducted to develop a load cell (sensing unit) capable of detecting minor (gram) changes in output in relation to key considerations of beam loading and sensing capability, through testing of multiple design, shape, and material combinations. Further research and testing will be conducted to discover heat dissipation requirements, fuzzing risks and solutions, and determine design and material requirements in order to achieve proper miniaturization of the full unit. Final research will be conducted to validate the economic value proposition of the unit to customers based on unit quality, size, performance, and service life in relation to cost and additional output/productivity generated. The team will determine the viability of load cell technology as a sensing device, and the combination of materials and design that will meet sizing, performance, and cost requirements.
-  awardeeAddress: 50 Hutcherson Dr.
-  awardeeCity: Gorham
-  awardeeCountryCode: US
-  awardeeName: The Montalvo Corporation
-  awardeeStateCode: ME
-  awardeeZipCode: 040382645
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1647835'
-  piEmail: chris.osgood@montalvo.com
-  piFirstName: Chris
-  piLastName: Osgood
-  piPhone: '2078562501'
-  poName: Debasis Majumdar
-  date: 12/12/2016
-  startDate: 12/15/2016
-  expDate: 07/31/2017
-  title: 'SBIR Phase I:  Modular Tensioning Cartridge'
 - abstractText: "This Small Business Technology Transfer Phase I project will include
     a research program to prepare new materials for a novel sensor to detect when
     a water softener needs regeneration. The adoption of a low cost, accurate water
@@ -14630,64 +14025,6 @@
   expDate: 07/31/2018
   title: 'STTR Phase II:  Scalable Detector for Multiple-Input Multiple-Output (MIMO)
     Communication Systems'
-- abstractText: "This SBIR Phase I project enables the research and development of
-    a new hybrid fixed-fluidized biomass gasifier design that allows for a higher
-    carbon conversion efficiency over a far wider range of feedstocks than what current
-    commercially available biomass-to-electricity technologies are able to offer.
-    This technological development serves the public interest by increasing the economic
-    viability of renewable waste-to-energy projects. Biomass waste accumulation from
-    forest thinning and agriculture generate approximately 166 million tons of biomass
-    each year in the United States alone and is problematic to dispose of due to air
-    quality regulations, which restrict open burning, and tipping fees from waste
-    sites that have to mitigate methane production from decomposition. Instead of
-    open burning or uncontrolled decomposition, biomass gasification enables these
-    resources to be utilized locally to replace fossil fuels and to sequester carbon
-    to mitigate climate change. Biomass energy is currently limited by feedstock requirements
-    (typically restricted to standardized wood pellets), which has constrained the
-    implementation of biomass-to-energy plants in the U.S. This project seeks to greatly
-    expand the feedstock characteristic options available for biomass energy to offer
-    an off-the-shelf commercial solution to sustainable energy project developers
-    in the U.S. and organizations responsible for biomass waste processing. Approximately
-    150 jobs are expected to be generated in the US to support these two industries,
-    through manufacturing and project development, as well as associated sales and
-    income tax revenue. \n\nCommercially available downdraft and fluidized bed biomass
-    gasifiers are hindered by three main root technical problems that significantly
-    constrain the economic viability of state-of-the-art biomass-to-electricity projects:
-    1) each is limited by the small range of feedstock particle sizes it can process;
-    2) maximum allowable reaction temperatures are limited due to ash fusibility temperatures;
-    and 3) the ash fusibility temperature is too low to maximize tar cracking. The
-    proposed technical solution separates the vaporized tar and small feedstock particle
-    sizes from the larger particles and high ash solid charcoal.  This separation
-    decouples the temperature requirements and allows for greater tar cracking potential
-    at higher temperatures while maintaining a lower oxidation temperature for the
-    char to increase carbon conversion efficiency??overcoming all three root technical
-    problems. The goal of the research is to identify and validate the dimensions
-    and parameters required to maintain stable biomass gasification with improved
-    tar cracking efficiency and reduced ash clinkering risk. The scope of the project
-    includes proving the proposed technology at a gas capacity of 20kW, which will
-    be scaled up to a 150kW to be able to provide the algorithm to dimension the technology
-    at any scale. The development of a fully fuel agnostic gasifier is the so-called
-    holy grail of gasification and the successful completion of the project will be
-    a significant step toward this goal, enabling the technology to scale successfully
-    and be disseminated in almost any market or sector with a biomass waste stream."
-  awardeeAddress: 1010 Murray St
-  awardeeCity: Berkeley
-  awardeeCountryCode: US
-  awardeeName: ALL Power Labs INC
-  awardeeStateCode: CA
-  awardeeZipCode: '947102816'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1621892'
-  piEmail: jay@allpowerlabs.com
-  piFirstName: Julia
-  piLastName: Hasty
-  piPhone: '5108451500'
-  poName: Rajesh Mehta
-  date: 08/02/2016
-  startDate: 08/01/2016
-  expDate: 07/31/2017
-  title: 'SBIR Phase I:  Development of The Fuel Agnostic Swirl Hearth Gasifier'
 - abstractText: "This SBIR phase II project is focused on quantifying and developing
     one's creative thinking abilities.  In more details, this project will develop
     modules that measures one's domain-base and subject-base creativity and validate
@@ -15155,28 +14492,6 @@
   expDate: 08/31/2017
   title: 'SBIR Phase I:  Multifunctional Reconfigurable Antenna Development for 5G
     Small Cells'
-- abstractText: |-
-    The broader impact/commercial potential of this project lies primarily in its contribution to the rehabilitation robotics, assistive technologies and collaborative robotics fields. Technologists engaged in developing devices and products in these fields are greatly benefiting from the lower prices of electronics brought on by the growth of the telecommunications industry, but those same technologists don?t have ready access to compliantly controlled actuators that make physical robot-human interaction safe. Developing such actuators is costly, it takes a long time, and it requires very specific and rare expertise.  The introduction of a new line of inexpensive (as compared to existing technologies), highly backdrivable linear actuators onto the market will enable a new breed of robotic rehabilitation and assistive products, as well as co-robots and perhaps even gaming interfaces with haptic feedback.
-
-    This Small Business Innovation Research (SBIR) Phase I project will focus on developing a proof of concept of the compliant force control module (CFCM), for converting simple linear screw-driven actuators into highly backdrivable, force-controlled actuators.  There is great interest and opportunity in co-robots, but in order for these devices to safely manipulate objects and interact haptically with humans, they must be inherently safe.  Compliant force-controlled actuators can render such co-robots safe, but due to their novelty such equipment is not commercially available.  A proprietary force sensor design will be implemented and research will be performed on various methods for achieving high performance with sufficient stability margins in both hardware and software.  Research will be performed on control algorithm approaches for minimizing the effects of mechanical play, stiction and inertia.  The use of visco-elastic materials as the compliant element to replace the purely elastic elements (springs) will be investigated for the potential to mitigate the mechanical issues found in economical mechanical transmissions.  The ultimate goal of the proposed effort is to demonstrate the improved force-control performance of an off-the-shelf linear actuator when equipped with the CFCM technology.
-  awardeeAddress: 12 Wyvern St.
-  awardeeCity: Roslindale
-  awardeeCountryCode: US
-  awardeeName: AndrosRobotics LLC
-  awardeeStateCode: MA
-  awardeeZipCode: '021312131'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1621379'
-  piEmail: androsrobotics@gmail.com
-  piFirstName: Maciej
-  piLastName: Pietrusinski
-  piPhone: '4135300086'
-  poName: Muralidharan S. Nair
-  date: 06/20/2016
-  startDate: 07/01/2016
-  expDate: 07/31/2017
-  title: 'SBIR Phase I:  Compliant Force Control Module for Linear Actuators'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) project will be to increase wood production of managed loblolly
     pine tree farms by 20%. Global demand for forest industry products, e.g., pulp
@@ -15922,55 +15237,6 @@
   expDate: 01/31/2018
   title: 'SBIR Phase II:  Intelligent tutoring system with EEG-based instructional
     strategy optimization'
-- abstractText: "This Small Business Technology Transfer Phase I project will investigate
-    a hybrid, lightweight aluminum self-lubricating composite system which has promise
-    to reduce friction and improve performance of cylinder liners in internal combustion
-    engines. Friction between moving parts in an internal combustion engine, especially
-    between the piston rings and cylinder liner, accounts for a large percentage of
-    the parasitic losses that harm fuel economy. The high-performance materials to
-    be studied and optimized in this work can lead to reduced oil and fuel consumption
-    and greenhouse gas emissions in a range of internal combustion (IC) engines. The
-    Total Available Market (TAM) for cylinder liners in all internal combustion engines
-    worldwide is estimated to be in excess of several billion dollars per year. Every
-    internal combustion engine has one or more cylinders. The served available market
-    (SAM) for powersports engines alone is estimated to be greater than $35 million.
-    The initial target market for these materials will be cylinder liners for small
-    displacement powersports engines, with the potential for follow-on markets in
-    a wide array of personal and commercial vehicle engines. \n\nThe intellectual
-    merit of this project derives in part from the development of a database of structure-processing-property
-    relationships in hybrid aluminum-silicon carbide-graphite metal matrix composites
-    for internal combustion engine cylinder applications.  This will include development
-    of processing methods to manufacture cylinder liners with uniform dispersions
-    of SiC and graphite, and will involve both lab and field testing of cylinder liner
-    materials.  The project work will help quantify and analyze the changes in friction
-    coefficient, wear rate, fuel consumption, and oil by-pass for different hybrid
-    composite liners in personal watercraft engines, and thereby help quantify the
-    benefits to the end user in terms of energy savings, reduced emissions and improved
-    performance. This project is designed to understand the best formulation of composite
-    constituents to optimize performance while minimizing cost. There has not been
-    a fundamental study to optimize compositions based on balancing costs, performance
-    and emission characteristics. This work will help to develop a set of design principles
-    for optimized liner chemistries depending on desired performance."
-  awardeeAddress: 12247 W. Fairview Ave.
-  awardeeCity: Milwaukee
-  awardeeCountryCode: US
-  awardeeName: Intelligent Composites, LLC
-  awardeeStateCode: WI
-  awardeeZipCode: '532260335'
-  fundsObligatedAmt: '260149'
-  fundProgramName: STTR PHASE I
-  id: '1549703'
-  piEmail: ctjordan@gmail.com
-  piFirstName: Christopher
-  piLastName: Jordan
-  piMiddeInitial: T
-  piPhone: '4146289090'
-  poName: Ben Schrag
-  date: 12/08/2015
-  startDate: 01/01/2016
-  expDate: 07/31/2017
-  title: 'STTR Phase I:  Lightweight Self-Lubricating Cylinder Liners for IC Engines
-    to Conserve Energy and Reduce Emissions'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is in Organic Rankine Cycles for distributed solar power generation at micro scale and will offer a cheaper alternative to solar photovoltaic (PV), with a payback period of just 4.5 year without government incentives. The use of solar thermal to generate power at residential level would offer a renewed encouragement to the solar thermal industry. With the ability to provide heat and hot water plus electricity, the solar thermal powered product would fulfill the energy requirements of a home single handedly. Most are familiar with the traditional perspective on the societal impact of a system like the Compact ORC - lower energy demand and reduced greenhouse gas. In addition the CORC positively impacts health and wellbeing by improving indoor air quality and providing affordable access. A number of clinical studies connect improved indoor air quality from efficient systems with a reduction in respiratory and cardiovascular conditions. Combining the health benefits of clean indoor air and improved living conditions, the downstream impact on healthcare cost would be enormous.
 
