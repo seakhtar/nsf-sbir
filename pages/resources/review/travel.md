@@ -87,8 +87,11 @@ If you choose not to use Accommodations Unlimited, please contact any hotel of y
 If the panel or travel is delayed or canceled for any reason, the traveler is responsible for canceling their hotel reservations. Neither the National Science Foundation nor Accommodations Unlimited is responsible for canceling or changing travel reservations on your behalf.
 
 ## Electronic Funds Transfer (EFT) Payment Information
+All participants (except Federal government employees and non-US Citizens/Permanent Residents), must login to FastLane at [www.fastlane.nsf.gov]( http://www.fastlane.nsf.gov/) to provide banking information to NSF for their EFT payment. To get started, go into FastLane and click on "Panelist Functions." Login and go to the Panelist Banking System and enter in the required information. The information in FastLane is transferred nightly to NSF’s accounting system and is a faster and safer alternative to submitting paper forms. This can even be done at the meeting site. REMEMBER: "Panelist" refers to participants of proposal review panels, advisory committees, COVs, and site visits.
 
-### Travel Questions
+Foreign travelers receive reimbursement via a paper check mailed by the U.S. Treasury. Currently, the Federal government cannot process international electronic transactions. The NSF Faststart Direct Deposit Form is used to record the address that checks should be mailed. The first section should be completed and please include your email address. A form can be obtained from your program office and sent by email.
+
+## Travel Questions
 For specific travel questions involving participation in a Review Panel for the Division of Industrial Innovation and Partnership, Please contact:
 
 Doretha Clark
