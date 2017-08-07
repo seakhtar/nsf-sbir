@@ -4,7 +4,6 @@ active_date_is_now: true
 fundProgramName: phase i
 reset: false
 recent_date: 2017-06-01
-show_all_results: true
 allow_recent_all: true
 printFields:
 - id
