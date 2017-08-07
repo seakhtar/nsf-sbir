@@ -96,7 +96,7 @@ module SiteData
       configs = [ params ].flatten.compact
       if configs.empty?
         puts "the portfolio config is unchanged".yellow
-        @portfolio.uniq
+        @portfolio
       else
         tech_topic_companies = configs.map do |config|
           @tech_topics.map do |co|
