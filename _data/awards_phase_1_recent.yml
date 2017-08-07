@@ -668,6 +668,52 @@
   startDate: 07/01/2017
   expDate: 12/31/2017
   title: 'SBIR Phase I:  Novel Dynamic Elastomer System for Additive Manufacturing'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) project will be the development of a biofungicide for application
+    on organic farms as well as conventional farms and home and lawn care as an alternative
+    to chemical fungicides. More than 70% of all major crop diseases are caused by
+    fungi. Despite intensive disease control practices, these pathogens are still
+    causing crop losses averaging 13% with economic losses up to $100 billion annually.
+    The proposed research will address the need for sustainable food production by
+    development of methods/technologies to reduce or eliminate the usage of chemical
+    pesticides. It will reduce the impact of plant pathogens, insect pests, and abiotic
+    stresses on crop plants by inducing systemic resistance in crops. Unlike chemical
+    fungicides, it will be eco-friendly and will prevent development of anti-fungal
+    resistance in plant pathogens. Furthermore, reduction in chemical fungicide usage
+    (produced using fossil fuels) will reduce US dependence on fossil fuels and promote
+    environmental sustainability. \n\nThis SBIR Phase I project proposes to develop
+    a novel, broad spectrum, biofungicide for crop protection as an alternative to
+    chemical fungicides. The novel broad spectrum fungicide is based on a fermentative
+    strategy utilizing non-pathogenic microorganisms and low-cost carbon substrates.
+    Antifungal activity testing in in vitro and in vivo assays demonstrated broad
+    spectrum fungicidal activity against multiple fungal pathogens that cause diseases
+    in cereals, fruit, and vegetable crops. The use of chemical fungicides produced
+    from fossil fuels has been shown to have adverse environmental effects on non-target
+    organisms, and mammals. In addition, combinations of chemical fungicides are required
+    to attain crop protection, yet fungal pathogens quickly become resistant to chemical
+    fungicides. The proposed broad spectrum biofungicide has no mammalian toxicity,
+    and has been shown to be safe for non-target anthropods like honey bees. It also
+    has been shown to not inhibit the growth of beneficial fungi. As part of the Phase
+    I research plan, the aims are to scale up production and test the biofungicide
+    under development in small plot trials."
+  awardeeAddress: 3315 Bremen Hwy
+  awardeeCity: Mishawaka
+  awardeeCountryCode: US
+  awardeeName: Biomineral Systems LLC
+  awardeeStateCode: IN
+  awardeeZipCode: '465449346'
+  fundsObligatedAmt: '224911'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1721879'
+  piEmail: nadia.k.adam@gmail.com
+  piFirstName: Nadia
+  piLastName: Adam
+  piPhone: '5743293427'
+  poName: Ruth M. Shuman
+  date: 06/29/2017
+  startDate: 07/01/2017
+  expDate: 12/31/2017
+  title: 'SBIR Phase I:  Novel Biomimetic Production of Broad-Spectrum Fungicide BioSurF-I'
 - abstractText: |-
     This SBIR Phase I project aims to significantly improve the patient experience by providing easy, convenient, and fast delivery of protein therapeutics through the administration of high-concentration, low-viscosity solutions via subcutaneous injection. Currently, high-concentration antibody solutions have viscosities far above the recommended limit for subcutaneous injections. This project aims to drastically lower the viscosities of high-concentration protein formulations. The success of this project would greatly benefit patients by providing a much shorter administration time for drugs that now require hours of intravenous infusion. In addition, this solution can also improve therapies that are already administered subcutaneously by reducing the frequency of injections by increasing dosage. Development of this technology can also enable the development of protein therapeutics with promising efficacy, but intractable solution properties or commercially unattractive patent lives.
 
@@ -2278,29 +2324,6 @@
   title: 'SBIR Phase I:  Dual suppression of VEGF-A and PDGF-B with extended gene
     therapy for neovascular AMD'
 - abstractText: |-
-    The commercial potential of this project lies in enabling much needed high wireless data rates and equal quality of service (QoS) to both densely populated areas as well as remote rural areas. 4G cellular and WiFi networks are facing a bottleneck due to proliferation of wireless devices and limited spectrum available in the currently allocated bands for wireless communications. Improving data connectivity would require new physical fiber to be laid out which is becoming impractical due to high costs vs. return on investment. The Federal Communications Commission has opened more spectrum in the mm-wave frequency spectrum (between 28-70 GHz) for mobile users to alleviate some of these issues. This project will enable spectrally efficient communication through frequency reuse for spatially separated mobile users in the mm-wave frequencies. It will also allow low cost dense deployment of 5G cellular base-stations to boost QoS. With this new paradigms in human machine interaction using machine learning can be advanced further. Remote educational programs, virtual and augmented reality (VR/AR) based learning, online health care and other new services around Internet of Things will be enhanced by better wireless connectivity. These technologies will uplift people?s lives delivering major economic and broad societal impact.
-
-    This Small Business Innovation Research Phase I project proposes a revolutionary architecture that will enable massive multi-user MIMO techniques for mm-wave wireless systems to solve the spectrum scarcity issue. The mm-wave radio front end module (FEM) can reuse the same frequencies for spatially diverse mobile users with active beamforming thus enhancing the capacity of current cellular networks by 100x. A multitude of modules (1000s) will be used in a large array as a part of the mm-wave FEM making it crucial to achieve excellent power efficiency at the module level. This project will investigate a variant of Doherty power amplifier (PA) architecture to achieve highly efficient mm-wave transmitter. Module to module variation and within module variations can disturb accurate beamforming capability. Impact of these variations on forming coherent beams will be studied. A new method to calibrate a large array to tune out any module to module variation will be proposed through sufficient redundancies incorporated in the module design. Low sensitivity to calibration errors will be achieved while also trying to lower the calibration time. A new algorithm that achieves accurate simultaneous tracking of spatial mobile users to within 5-degrees using the new architecture will be proposed.
-  awardeeAddress: 3340 Walnut Ave St 112
-  awardeeCity: Fremont
-  awardeeCountryCode: US
-  awardeeName: RF Pixels, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '945382215'
-  fundsObligatedAmt: '224996'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1722199'
-  piEmail: sriram@rf-pixels.com
-  piFirstName: Sriramkumar
-  piLastName: Venugopalan
-  piPhone: '5103643110'
-  poName: Muralidharan S. Nair
-  date: 07/10/2017
-  startDate: 07/01/2017
-  expDate: 02/28/2018
-  title: 'SBIR Phase I:  Large Arrays for 5G MU-MIMO Wireless Access Operating in
-    mm-wave Frequency Bands'
-- abstractText: |-
     The broader impact/commercial potential of this project to develop a low-cost photovoltaic (PV) inverter is to reduce the installed cost of solar energy systems by ~10%. This improvement in power electronics has a direct positive commercial impact on the entire solar industry by greatly expanding the addressable market where solar generation is economic. Societal impacts include lowering energy costs, facilitating employment growth, driving economic development, and lowering emissions. The project also supports an enhanced scientific and technological understanding of a class of novel inverter architectures that may find numerous other applications outside of the solar industry. For example, industrial motor drives, wind turbines, battery energy storage, and electric vehicles each make use of DC-AC (direct current ? alternating current) conversion technologies that could benefit from these novel architectures.
 
     This Small Business Innovation Research (SBIR) Phase I project addresses two major problems in the solar PV industry: (1) there is tremendous pressure to reduce costs in the DC-AC inverter, and (2) there is pressure to improve the performance of inverters, both by increasing energy yield under partial shading conditions and by improving the lifetime of inverters. The objectives of the proposed research are to demonstrate maximum power point tracking (MPPT) and grid synchronization for a prototype distributed inverter that can achieve performance comparable to commercial inverters while being mass-produced at a lower cost. The research includes a) refinement and application of a real-time inverter control algorithm to extract the maximum energy from solar panels under dynamic shading conditions, b) establishing robust communications across a network of distributed inverters, and c) fabricating and demonstrating a system with a pathway to performance parity with commercial inverters at a much lower cost. Anticipated technical results include measurement of conversion efficiency, power quality, component count, and bill of material estimates.
@@ -2502,6 +2525,29 @@
   expDate: 03/31/2018
   title: 'SBIR Phase I:  Medical Devices for Real-time Radiation Dosimetry at Sub-millimeter
     Spatial Resolution'
+- abstractText: |-
+    The commercial potential of this project lies in enabling much needed high wireless data rates and equal quality of service (QoS) to both densely populated areas as well as remote rural areas. 4G cellular and WiFi networks are facing a bottleneck due to proliferation of wireless devices and limited spectrum available in the currently allocated bands for wireless communications. Improving data connectivity would require new physical fiber to be laid out which is becoming impractical due to high costs vs. return on investment. The Federal Communications Commission has opened more spectrum in the mm-wave frequency spectrum (between 28-70 GHz) for mobile users to alleviate some of these issues. This project will enable spectrally efficient communication through frequency reuse for spatially separated mobile users in the mm-wave frequencies. It will also allow low cost dense deployment of 5G cellular base-stations to boost QoS. With this new paradigms in human machine interaction using machine learning can be advanced further. Remote educational programs, virtual and augmented reality (VR/AR) based learning, online health care and other new services around Internet of Things will be enhanced by better wireless connectivity. These technologies will uplift people?s lives delivering major economic and broad societal impact.
+
+    This Small Business Innovation Research Phase I project proposes a revolutionary architecture that will enable massive multi-user MIMO techniques for mm-wave wireless systems to solve the spectrum scarcity issue. The mm-wave radio front end module (FEM) can reuse the same frequencies for spatially diverse mobile users with active beamforming thus enhancing the capacity of current cellular networks by 100x. A multitude of modules (1000s) will be used in a large array as a part of the mm-wave FEM making it crucial to achieve excellent power efficiency at the module level. This project will investigate a variant of Doherty power amplifier (PA) architecture to achieve highly efficient mm-wave transmitter. Module to module variation and within module variations can disturb accurate beamforming capability. Impact of these variations on forming coherent beams will be studied. A new method to calibrate a large array to tune out any module to module variation will be proposed through sufficient redundancies incorporated in the module design. Low sensitivity to calibration errors will be achieved while also trying to lower the calibration time. A new algorithm that achieves accurate simultaneous tracking of spatial mobile users to within 5-degrees using the new architecture will be proposed.
+  awardeeAddress: 3340 Walnut Ave St 112
+  awardeeCity: Fremont
+  awardeeCountryCode: US
+  awardeeName: RF Pixels, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '945382215'
+  fundsObligatedAmt: '224996'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1722199'
+  piEmail: sriram@rf-pixels.com
+  piFirstName: Sriramkumar
+  piLastName: Venugopalan
+  piPhone: '5103643110'
+  poName: Muralidharan S. Nair
+  date: 07/10/2017
+  startDate: 07/01/2017
+  expDate: 02/28/2018
+  title: 'SBIR Phase I:  Large Arrays for 5G MU-MIMO Wireless Access Operating in
+    mm-wave Frequency Bands'
 - abstractText: |-
     The broader impact/commercial potential of this project relates to the management of clotting
     and bleeding which is a major clinical challenge that costs > $100B healthcare system burden. In
@@ -2996,6 +3042,98 @@
   expDate: 06/30/2018
   title: 'SBIR Phase I:  Engineering brewer''s yeast for biosynthesis of terpenes
     for the production of flavor determinants'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to enable doctors to maximize the diagnostic information extracted from costly Pediatric Magnetic Resonance Imaging (MRI) scans of the brain. Annually, approximately 3.5 million brain MRI scans are performed with average prices with interpretation from $500 - $2,000. Even though the scans are expensive to acquire and interpret, doctors generally only use visual inspection of the images to diagnose abnormalities. The proposed software will be relatively cheap compared to the overall cost of an MRI and is expected to let doctors make accurate measurements of key structures in the brain. This is important because developmental and other diseases can cause small volume and surface area changes that cannot be easily seen by the human eye. By detecting these changes early, doctors should be able to treat the disease at early stages, potentially leading to better quality of life and financial savings. The proposed tool is also expected to enable doctors to better track treatment outcomes, by measuring the effect a drug or treatment has on particular structures in the brain. Ultimately, it is expected that the proposed technology will improve quality of care as well as reduce healthcare costs.
+
+    The proposed project leverages current advances in computational technology such as machine learning and computer vision to automatically measure volume, surface area and shapes in critical parts of the brain in children. These measurements are then compared to a large database of children over the ages of 0-12 years to determine if they have deviated from normal. Although MRIs have been increasing adopted as the diagnostic tool of choice for childhood brain disorders due to the lack of radiation, there has yet to be a tool that allows doctors to accurately measure changes in a child's brain from MRI scans. Because, in children, the brain is rapidly changing as she/he grows, it is difficult to determine visually whether the changes are due to normal development or disease. By measuring the brain accurately and comparing it to a large database already collected by the proposing team, it is expected that a pediatric doctor will be able to determine whether a child's brain has deviated from normal. It could also allow physicians to better select treatments and monitor the patient response to a specific therapy.
+  awardeeAddress: '529 S BROADWAY # 4041'
+  awardeeCity: LOS ANGELES
+  awardeeCountryCode: US
+  awardeeName: Advanced Medical Systems LLC
+  awardeeStateCode: CA
+  awardeeZipCode: '900132365'
+  fundsObligatedAmt: '225000'
+  fundProgramName: STTR PHASE I
+  id: '1722445'
+  piEmail: mail@sinchaitsao.com
+  piFirstName: Sinchai
+  piLastName: Tsao
+  piPhone: '2134531833'
+  poName: Jesus Soriano Molla
+  date: 06/27/2017
+  startDate: 07/01/2017
+  expDate: 06/30/2018
+  title: 'STTR Phase I:  A Clinical Decision Support Tool for Brain Magnetic Resonance
+    Imaging (MRI) in Children'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is a new disruptive approach to enable the digital transformation of US industrial infrastructure through extreme low latency, highly reliable and secure wireless networks. The proposal aligns closely with U.S. government programs such as Manufacturing USA and the National Robotics Initiative. The World Economic Forum reported recently that manufacturing has been immensely important to the prosperity of nations. This has never been more true than right now as countries compete to make huge investments in the digital transformation process of their manufacturing firms. The innovation provides significant advancement that is expected to boost U.S. worker productivity, advance wireless innovation and increase cost savings and business agility. The Industrial Internet of Things drives new investment in automated factories, industrial digital networks and integration with real-time edge computing. Data expansion at the edge of today's networks are new challenges for industrial firms that seek to deploy flexible and economically viable digital infrastructure. The company provides an innovative solution that enables wireless edge computing. Instead of expensive and inflexible wired networks, this new technology unlocks the full potential of wireless sensor networks for automation and control systems. 
+
+    The proposed project will demonstrate the company's concept of ultra-secure, highly reliable, time-sensitive/synchronized wireless protocol for Industrial IoT markets. The novel system design is a general purpose, extremely low latency, wireless communications link that supports real-time connection to industrial devices. The company's technology operates chaos-based spread spectrum communications links, functional chaos-based IIoT sub-nets with anticipated scalability of a plurality of sub-nets operating within unlicensed bands. Enabling an extreme precision time synchronization is critical to industrial systems and network applications in time-sensitive edge computing networks. To date, standard access technologies such as Ethernet are not deterministic and clock synchronization protocols are fundamentally limited by the characteristics of packet switching or efficient access to reliable clocks. In particular, legacy network's jitter, packet buffering and scheduling in switches and network stack overheads add non-deterministic variances to the round trip time, which must be accurately measured to synchronize clocks. This proposal is for a wireless-based synchronization technology that uses more granular timing mechanisms to achieve nanosecond precision. The company introduces a clock synchronization protocol that uses wireless chaotic waveforms that connects to network devices for decentralized clock synchronization. This eliminates the need for wires and non-deterministic elements in clock synchronization protocols.
+  awardeeAddress: 310 De Guigne Dr
+  awardeeCity: Sunnyvale
+  awardeeCountryCode: US
+  awardeeName: Chaos Prime Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '940853906'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1721284'
+  piEmail: ahill@chaosprime.com
+  piFirstName: Anthony
+  piLastName: Hill
+  piPhone: '2145074662'
+  poName: Richard Schwerdtfeger
+  date: 06/27/2017
+  startDate: 07/01/2017
+  expDate: 12/31/2017
+  title: 'SBIR Phase I:  Enhanced Physical-Layer Secure Wireless Chaotic Waveforms
+    for Industrial IoT'
+- abstractText: |-
+    This STTR Phase I project will enable the rapid prototyping and manufacturing of radio frequency (RF) components with 3D printing, and thereby reduce component cost, weight, and turnaround time. The global RF components market is expected to reach $17.54 billion by 2022, but fabrication techniques for commercial RF components have seen little innovation. Conventional RF manufacturing techniques, such machining and photolithography, are accurate and reliable, but they are also expensive, time-consuming and produce unnecessary waste. 3D printing enables fast and accurate manufacturing of custom components, as well as the creation of extremely complex geometries at low-cost for improved component performance. 3D printing can also enable users to design components to fit the design space available, removing the necessity of designing technology around commercially available parts, a critical feature in space and weight-sensitive aerospace applications. However, the materials available to 3D printing are mostly limited to non-conducting polymers. By creating a highly conductive 3D printing material, and testing the properties of RF components made with this filament, this project will make it possible to rapidly prototype and produce custom RF components, thereby accelerating research and improving the competitiveness of RF component manufacturing in the U.S.
+
+    This STTR proposal will create a highly conductive (>2×10^5 S m-1) polymer filament that can be used with low-cost fused deposition modeling 3D printers to create a variety of high-value RF components. The filament will be engineered to print reliably, and retain its conductivity and mechanical integrity to temperatures of ~150 °C. To achieve these goals, the proposed work will determine the relationship between conductivity, the loading of conductive filler, the shape of the conductive filler, the filament mechanical properties, and the viscosity of the filament at printing temperatures. New methods will be developed to prevent oxidation of the conductive filler at elevated temperatures. A novel conductive filler will be developed to achieve these performance specifications at low cost. Concurrent with these material development efforts, novel RF components will be designed, simulated, and printed in order to build a comprehensive database with detailed designs and printing parameters for producing the RF components with a low failure rate. By the end of this project, users will be able to design, predict, and reliably print RF components with conductive filament on low-cost 3D printers.
+  awardeeAddress: 434 Golden Harvest Loop
+  awardeeCity: Cary
+  awardeeCountryCode: US
+  awardeeName: Multi3D LLC
+  awardeeStateCode: NC
+  awardeeZipCode: '275199495'
+  fundsObligatedAmt: '225000'
+  fundProgramName: STTR PHASE I
+  id: '1721644'
+  piEmail: sye@multi3dllc.com
+  piFirstName: Shengrong
+  piLastName: Ye
+  piPhone: '3049069982'
+  poName: Rajesh Mehta
+  date: 06/26/2017
+  startDate: 07/01/2017
+  expDate: 06/30/2018
+  title: 'STTR Phase I:  Additive Manufacturing of Radio Frequency and Microwave Components
+    from a Highly Conductive 3D Printing Filament'
+- abstractText: |-
+    This SBIR Phase I project uses artificial intelligence techniques to identify the ways that undergraduate students in scientific courses explicate problems, describe procedures, make claims, provide evidence, offer qualifications, and draw conclusions. With emphasis on forms of scientific reasoning, this new use of artificial intelligence, to identify language patterns associated with scientific reasoning, will allow students to improve their written laboratory reports before they are submitted, therefore freeing instructors to devote precious instructional time to preparing students for roles as practicing scientists. As the U.S. continues to experience rapid diversity growth, this focus on helping students through innovative uses of technology holds the potential to expand science education by cultivating student ability through autonomous writing and revision. Because artificial intelligence techniques are intended to expand capabilities, the techniques being used, available 24/4 on the web, will have the direct impact of growing our technical and scientific workforce, thus expanding the many dynamic pathways to STEM occupations. As the NSF observed in 2015 in its report Revisiting the STEM Workforce, these jobs are extensive and critical to innovation and competitiveness and are essential to the mutually reinforcing goals of individual and national prosperity and competitiveness. An investment in such a technology is thus an investment in national competitiveness, education policy, innovation, and workforce diversity.
+
+    NSF SBIR support will be used to design and launch artificial intelligence techniques based on Deep Artificial Neural Network (DANN) as driven by Natural Language Processing (NLP), Latent Semantic Analysis (LSA), and the latest advances in AI algorithms. Because NLP and LSA techniques are presently used solely to identify grammatical and organizational patterns, the application of DANN is high risk in making a leap from identifying patterns of language use to capturing patterns of scientific reasoning. Trained on a proprietary corpus of 100,000 lab reports scored and annotated by instructors and students using a single rubric, the AI application will identify logic structures of scientific reasoning in student laboratory reports. Once methodically identified, categorized according to ability level, and validated by STEM instructors, digital instruction will be used to help students improve their scientific reasoning processes. With the singular goal of structuring student success through asynchronous machine learning, this innovation holds the promise to figure meaningfully in discussions of national competitiveness, education policy, innovation, and diversity as related to STEM education.
+  awardeeAddress: 6324 South Queensway Dr
+  awardeeCity: Temple Terrace
+  awardeeCountryCode: US
+  awardeeName: My Reviewers, LLC
+  awardeeStateCode: FL
+  awardeeZipCode: '336172437'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1721749'
+  piEmail: nelliot3@usf.edu
+  piFirstName: Norbert
+  piLastName: Elliot
+  piPhone: '8134049734'
+  poName: Glenn H. Larsen
+  date: 06/26/2017
+  startDate: 07/01/2017
+  expDate: 06/30/2018
+  title: 'SBIR Phase I:  Artificial Intelligence, Scientific Reasoning, and Formative
+    Feedback: Structuring Success for STEM Students'
 - abstractText: "This SBIR Phase I project is a fully synergistic educational framework
     that addresses learning, retention, and presentation, with the potential to improve
     the educational outcomes for society at large. By maximizing the work done in

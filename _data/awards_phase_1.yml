@@ -1185,61 +1185,6 @@
   expDate: 11/30/2017
   title: 'SBIR Phase I:  Manufacturing of Natural Isoeugenol and Ferulate from non-food
     biomass as a precursor to biobased vanillin.'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research Phase I project is the potential to impact water scarcity in arid and
-    semi-arid geographies within the US and beyond.  The proposed photobiological
-    water treatment process  utilizes the natural power of photosynthetic microorganisms
-    (diatoms) and sunlight without the use of hazardous chemicals or non-renewable
-    energy to remove contaminants such as silica, calcium, iron, manganese, phosphorus
-    and nitrogen from the concentrated waste streams (brines) from advanced water
-    reclamation and brackish groundwater desalination facilities.  Additional clean,
-    (re)usable water can be obtained from the treated brine quite cost-effectively,
-    while reducing the volume of brine by >50% and producing algal biomass as a marketable
-    by-product.  This technology will reduce the environmental impact and also potentially
-    improve the efficiency of water treatment.  This Phase I project will have broader
-    impacts on the advancement of science and technology related to environmental
-    microbiology, water reuse and water resource management.  The experimental data
-    to be generated in this project could reveal many characteristics and fundamental
-    chemistry and biology of brackish water diatoms that have not been studied in
-    detail, as compared with those found in the freshwater and marine environment.
-    \ \n\nThe technical objectives in this Phase I research project are to investigate
-    the feasibility of a diatom-based photobiological process for scalant and nutrient
-    removal to recover more fresh water from reverse osmosis concentrate;  to characterize
-    the byproducts of this process including organic matter and algal biomass;  and
-    to investigate the scale-up challenges.  The challenges and opportunities include:
-    (1) the optimization of the biomass growth and constituent removal, including
-    diatom strain screening, (2) impacts of toxic elements, chlorine residuals, salinity,
-    pH, temperature, light sources, intensity, and duration, (3) formation and characterization
-    of byproducts, (4) removal of synthetic organic compounds, such as pharmaceuticals
-    and personal care products, (5) photobiological reactor configuration and hydraulics,
-    and (6) possible uses and economic values of algal biomass.  Among them, the major
-    challenges are the possible soluble organic byproduct formation and the relatively
-    modest silica uptake rate.  Bench- and pilot-scale experiments will be conducted
-    to optimize the photobiological process to enable a full-scale application with
-    a reasonable footprint.  Careful diatom strain/species selection and more detailed
-    chemical and biochemical analyses will also facilitate further process optimization
-    and understanding of the fate of byproducts, their impacts on subsequent desalination,
-    and possible control strategies."
-  awardeeAddress: 17520 Newhope St Ste 200
-  awardeeCity: Fountain Valley
-  awardeeCountryCode: US
-  awardeeName: Pacific Advanced Civil Engineering, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '927088200'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1648495'
-  piEmail: kikehata@pacewater.com
-  piFirstName: Keisuke
-  piLastName: Ikehata
-  piPhone: '7144810662'
-  poName: Ben Schrag
-  date: 12/06/2016
-  startDate: 12/15/2016
-  expDate: 11/30/2017
-  title: 'SBIR Phase I: A Novel Photobiological Water Treatment Process for More Efficient
-    Water Recovery in Advanced Water Reclamation and Brackish Groundwater Desalination
-    Facilities'
 - abstractText: |-
     This SBIR Phase I project is to develop and demonstrate novel nanotechnology based flow battery that meets demanding 2020 energy density targets for transportation and stationary storage and offers a cheaper, safer and environmentally friendly rechargeable energy-storing fluid, which could ultimately allow using batteries for electric vehicles (EVs) in the same fashion as gasoline-powered engines. The proposed innovative approach uses advancements in nanotechnology to merge solid battery chemistries into a convenient flowable format (nanoelectrofuels or NEF). The low cost and high energy density of the proposed flow batteries (up to 350 Wh/L) makes this technology highly competitive with currently used Li-ion batteries (250 Wh/L), while the flowable format enables charging the liquid in one device and use of energy in a separate device, offering new refueling opportunities for EV operations, specifically addressing range anxiety and long charging time - issues currently preventing widespread adoption of EVs. From the commercial perspective the successful development of the proposed low cost high energy density aqueous flow battery could be transformational for electrification of personal and commercial transportation, grid leveling, and integration of renewable energy sources into our individual energy usage for a climate-friendly, environmentally and economically sustainable future.
 
@@ -1976,6 +1921,52 @@
   startDate: 07/01/2017
   expDate: 12/31/2017
   title: 'SBIR Phase I:  Novel Dynamic Elastomer System for Additive Manufacturing'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) project will be the development of a biofungicide for application
+    on organic farms as well as conventional farms and home and lawn care as an alternative
+    to chemical fungicides. More than 70% of all major crop diseases are caused by
+    fungi. Despite intensive disease control practices, these pathogens are still
+    causing crop losses averaging 13% with economic losses up to $100 billion annually.
+    The proposed research will address the need for sustainable food production by
+    development of methods/technologies to reduce or eliminate the usage of chemical
+    pesticides. It will reduce the impact of plant pathogens, insect pests, and abiotic
+    stresses on crop plants by inducing systemic resistance in crops. Unlike chemical
+    fungicides, it will be eco-friendly and will prevent development of anti-fungal
+    resistance in plant pathogens. Furthermore, reduction in chemical fungicide usage
+    (produced using fossil fuels) will reduce US dependence on fossil fuels and promote
+    environmental sustainability. \n\nThis SBIR Phase I project proposes to develop
+    a novel, broad spectrum, biofungicide for crop protection as an alternative to
+    chemical fungicides. The novel broad spectrum fungicide is based on a fermentative
+    strategy utilizing non-pathogenic microorganisms and low-cost carbon substrates.
+    Antifungal activity testing in in vitro and in vivo assays demonstrated broad
+    spectrum fungicidal activity against multiple fungal pathogens that cause diseases
+    in cereals, fruit, and vegetable crops. The use of chemical fungicides produced
+    from fossil fuels has been shown to have adverse environmental effects on non-target
+    organisms, and mammals. In addition, combinations of chemical fungicides are required
+    to attain crop protection, yet fungal pathogens quickly become resistant to chemical
+    fungicides. The proposed broad spectrum biofungicide has no mammalian toxicity,
+    and has been shown to be safe for non-target anthropods like honey bees. It also
+    has been shown to not inhibit the growth of beneficial fungi. As part of the Phase
+    I research plan, the aims are to scale up production and test the biofungicide
+    under development in small plot trials."
+  awardeeAddress: 3315 Bremen Hwy
+  awardeeCity: Mishawaka
+  awardeeCountryCode: US
+  awardeeName: Biomineral Systems LLC
+  awardeeStateCode: IN
+  awardeeZipCode: '465449346'
+  fundsObligatedAmt: '224911'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1721879'
+  piEmail: nadia.k.adam@gmail.com
+  piFirstName: Nadia
+  piLastName: Adam
+  piPhone: '5743293427'
+  poName: Ruth M. Shuman
+  date: 06/29/2017
+  startDate: 07/01/2017
+  expDate: 12/31/2017
+  title: 'SBIR Phase I:  Novel Biomimetic Production of Broad-Spectrum Fungicide BioSurF-I'
 - abstractText: |-
     This SBIR Phase I project aims to significantly improve the patient experience by providing easy, convenient, and fast delivery of protein therapeutics through the administration of high-concentration, low-viscosity solutions via subcutaneous injection. Currently, high-concentration antibody solutions have viscosities far above the recommended limit for subcutaneous injections. This project aims to drastically lower the viscosities of high-concentration protein formulations. The success of this project would greatly benefit patients by providing a much shorter administration time for drugs that now require hours of intravenous infusion. In addition, this solution can also improve therapies that are already administered subcutaneously by reducing the frequency of injections by increasing dosage. Development of this technology can also enable the development of protein therapeutics with promising efficacy, but intractable solution properties or commercially unattractive patent lives.
 
@@ -2500,28 +2491,6 @@
   expDate: 11/30/2017
   title: 'SBIR Phase I:  A Robust Indoor Localization System for Mobile Devices'
 - abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project includes high quality data that indicates a population?s sense of well-being and environmental safety--two essential factors in the effort for long-term sustainability. MindRider and Multimer collect and analyze human signals at the neighborhood, town, city, and regional scale, thus providing proactive, standardized, geospatial, real-time information to improve both personal mobility and urban monitoring. MindRider and Multimer can help overcome limitations in two prevalent monitoring methods: 1) A reactive methodology for quantifying danger is to count accidents. While government-collected accident data is often reliable and includes many years' worth of information, it does not provide precise spatial details such as direction of movement. Most importantly, an injury or fatality must occur before a statistic is produced, which therefore misses all the non-reported minor injuries, as well as perceptions of danger. 2) Many researchers use qualitative instruments like surveys and interviews to study perceptions of safety without the occurrence of an accident But while qualitative methods are highly valuable, these methods cannot be deployed continuously, are often not geospatial, and their results may not be standardized.
-
-    The proposed project addresses the challenges that stakeholders like transportation planners and real estate analysts encounter as they monitor rapid change in cities and towns. For these stakeholders, improved data helps to reduce the complexity, cost, and risk of site selection decisions like choosing the location for a store, transit hub, outdoor advertisement, home, or office. Existing location analysis tools show similar kinds of evaluations for very different neighborhoods, based on limited data that doesn't often change. MindRider, which pairs custom ergonomic biosensors with GPS-enabled smartphones to record EEG and location data, and Multimer, which categorizes and analyzes MindRider data against existing geographic inputs, has the potential to provide key insights for data-driven decision making. We have built the basic system to collect and analyze geolocated biosensor data and have proven the technical feasibility of collecting these data from a pilot sample population for an extended period of time. Our primary objective for Phase I is to improve our data modeling and analysis--with a focus on affective interpretation, biosensor comparison, geospatial and temporal statistics, and reproducibility--so as to offer a fully robust product that stakeholders will confidently integrate into their existing workflows.
-  awardeeAddress: 85 2nd Place
-  awardeeCity: Brooklyn,
-  awardeeCountryCode: US
-  awardeeName: DuKorp Corp
-  awardeeStateCode: NY
-  awardeeZipCode: '112314111'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1721679'
-  piEmail: team@multimerdata.com
-  piFirstName: Arlene
-  piLastName: Ducao
-  piPhone: '4436260565'
-  poName: Richard Schwerdtfeger
-  date: 06/12/2017
-  startDate: 06/01/2017
-  expDate: 05/31/2018
-  title: 'SBIR Phase I:  Mapping Human Signals with Multimer and MindRider'
-- abstractText: |-
     The broader impact/commercial potential of this Small Business Technology Transfer (STTR) project will be to develop an analysis software package to significantly reduce health care costs while simultaneously improving patient care by helping select the correct treatment for each patient. Every year an estimated of 1.4 million women undergo unnecessary treatments at a cost to society of $32.2 billion for breast cancer. At the same time, some patients do not receive the treatment they need. For instance, chemotherapy is not routinely recommended after surgical tumor removal for patients with early stage lung cancer, even though the disease will recur in a large number of them. The ability to correctly identify disease subtypes and patient subgroups is a pre-condition to the ability to distinguish between patients that need the most aggressive treatments, and those who will never progress or recur. Further, the proposed approach can improve the results of clinical trials. With an estimated 2,300 Phase III clinical trials per year in the US, a full 50% of them are destined for failure with a loss of $1 billion/year. This can be avoided if the correct inclusion criteria are defined, and the drug is administered only to the people most likely to respond.
 
     This STTR Phase I project proposes to develop a novel software package able to identify subtypes of disease based on the integration of multiple types of omics data. Many drug candidates fail and many patients receive inappropriate treatment because of the current inability to distinguish between subgroups of patients and/or subtypes of disease. Many attempts to achieve this based solely on gene expression signatures have been undertaken but yielded only modest success so far. In addition, very few approaches are able to combine multiple data types and most of the time the analysis of each data type leads to different subgroups that are very hard to interpret. The technology proposed here will be able to discover clinically relevant disease subtypes by integrating multiple types of high-throughput data such as mRNAs, miRNAs, methylation, etc. The goal of this project is to implement this technology as a software package that will facilitate its application in large scale consistent with real-world use. In addition, the plan is to assess the feasibility of this technology by performing an extensive comparison with the top three existing approaches:  Consensus clustering, similarity network fusion, and iClusterPlus using over 1,800 real patient data from 12 different studies.
@@ -2544,6 +2513,28 @@
   expDate: 11/30/2017
   title: 'SBIR Phase I:  A multi-omics data integration approach for precision medicine
     and improved clinical trial success'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project includes high quality data that indicates a population?s sense of well-being and environmental safety--two essential factors in the effort for long-term sustainability. MindRider and Multimer collect and analyze human signals at the neighborhood, town, city, and regional scale, thus providing proactive, standardized, geospatial, real-time information to improve both personal mobility and urban monitoring. MindRider and Multimer can help overcome limitations in two prevalent monitoring methods: 1) A reactive methodology for quantifying danger is to count accidents. While government-collected accident data is often reliable and includes many years' worth of information, it does not provide precise spatial details such as direction of movement. Most importantly, an injury or fatality must occur before a statistic is produced, which therefore misses all the non-reported minor injuries, as well as perceptions of danger. 2) Many researchers use qualitative instruments like surveys and interviews to study perceptions of safety without the occurrence of an accident But while qualitative methods are highly valuable, these methods cannot be deployed continuously, are often not geospatial, and their results may not be standardized.
+
+    The proposed project addresses the challenges that stakeholders like transportation planners and real estate analysts encounter as they monitor rapid change in cities and towns. For these stakeholders, improved data helps to reduce the complexity, cost, and risk of site selection decisions like choosing the location for a store, transit hub, outdoor advertisement, home, or office. Existing location analysis tools show similar kinds of evaluations for very different neighborhoods, based on limited data that doesn't often change. MindRider, which pairs custom ergonomic biosensors with GPS-enabled smartphones to record EEG and location data, and Multimer, which categorizes and analyzes MindRider data against existing geographic inputs, has the potential to provide key insights for data-driven decision making. We have built the basic system to collect and analyze geolocated biosensor data and have proven the technical feasibility of collecting these data from a pilot sample population for an extended period of time. Our primary objective for Phase I is to improve our data modeling and analysis--with a focus on affective interpretation, biosensor comparison, geospatial and temporal statistics, and reproducibility--so as to offer a fully robust product that stakeholders will confidently integrate into their existing workflows.
+  awardeeAddress: 85 2nd Place
+  awardeeCity: Brooklyn,
+  awardeeCountryCode: US
+  awardeeName: DuKorp Corp
+  awardeeStateCode: NY
+  awardeeZipCode: '112314111'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1721679'
+  piEmail: team@multimerdata.com
+  piFirstName: Arlene
+  piLastName: Ducao
+  piPhone: '4436260565'
+  poName: Richard Schwerdtfeger
+  date: 06/12/2017
+  startDate: 06/01/2017
+  expDate: 05/31/2018
+  title: 'SBIR Phase I:  Mapping Human Signals with Multimer and MindRider'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase I project is the improved financial resilience of the numerous
     industries that are reliant on stable water conditions. The innovation will enable
@@ -2801,29 +2792,6 @@
   expDate: 12/31/2017
   title: 'STTR Phase I:  A Cloud-Based Development Framework and Tool Suite for an
     Adiabatic Quantum Computer'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project will be commercially deployable equipment for screening, detecting, and removing aflatoxin contaminated corn from the global food supply. Exposure to aflatoxin, a dangerous fungal carcinogen, has been linked to liver cancer, childhood stunting, illness and death in humans and animals, and major economic losses for farmers and grain handlers in the U.S. and globally. Rapid batch screening equipment will expand the capacity of the grain industry to test more corn for aflatoxin contamination and minimize the high sampling error that currently plagues the aflatoxin testing process and risks greater contamination exposure downstream. In addition to batch screening equipment, opportunities also exist to develop handheld devices to identify contaminated corn in the field, and continuous flow optical sorters, deployed at grain handling and food processing facilities, to remove the contaminated corn and protect the market value of the healthy grain. The goal is to 1) Increase revenue for farmers in the U.S. and globally; 2) Protect the food supply and reduce the risks of greater contamination exposure for farmers, grain handlers, and consumers; and 3) Protect feed supply and improve productivity of livestock.
-
-    This STTR Phase I project proposes to demonstrate the feasibility of a specialized high resolution imaging system for rapid batch screening of aflatoxin in corn.  The research team will build the prototype unit and image processing software with the patented algorithm for detection of aflatoxin in corn, integrated with a high resolution, dual-camera system. With existing chemical tests for aflatoxin detection, it is difficult for grain handlers to test larger samples or every truck without causing major delays in operations. The key technical hurdle for rapid batch screening with this technology is reliable imaging analysis of sufficient size samples, screened fast enough for the imaging system to fit into commercial grain handling operations without disruption.  By screening hundreds of corn samples with the rapid batch screening prototype unit, the team will validate device accuracy of >95% true positive and true negative for detection of corn contaminated with aflatoxin, consistently across contamination ranges and proportions, at a processing speed fast enough to be deployed by commercial grain handlers on every truckload.
-  awardeeAddress: 206 White Street
-  awardeeCity: Martin
-  awardeeCountryCode: US
-  awardeeName: Secure Food Solutions
-  awardeeStateCode: TN
-  awardeeZipCode: '382373222'
-  fundsObligatedAmt: '225000'
-  fundProgramName: STTR PHASE I
-  id: '1648769'
-  piEmail: chris.ramezanpour@gmail.com
-  piFirstName: Chris
-  piLastName: Ramezanpour
-  piPhone: '9014963254'
-  poName: Ruth M. Shuman
-  date: 12/16/2016
-  startDate: 01/01/2017
-  expDate: 12/31/2017
-  title: 'STTR Phase I: Specialized high resolution imaging system for rapid batch
-    screening of aflatoxin in corn'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to bring positive impactful changes to the economy, society, and scientific/technological understanding through intelligent voice-enabled technology. Commercially, the introduction of an intelligent, ultra-low power, embedded voice trigger will capture an important portion of the $113 billion global voice and speech recognition market, contributing to its expansion and that of related markets such as wearables and Internet of Things (IoT). The long-term potential impact is broad and encompasses the key players in the voice recognition ecosystem such as the mobile phone industry, semiconductor companies, chip designers, technology providers and system integrators, who will be enabled to innovate with the proposed platform. Societally, the day-to-day lives of users will be made easier by empowering them through the faster and natural use of speech commands to access device functionality and to retrieve processed information in real time. Furthermore, by performing onboard speech processing, the proposed technology alleviates many societal issues and challenges surrounding privacy and data protection with cloud-based solutions.
 
@@ -3452,30 +3420,6 @@
   expDate: 11/30/2017
   title: 'SBIR Phase I:  A Paradigm Shift in Vector Control: Targeted Larvicides'
 - abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovative Research (SBIR) project is to addresses challenges in understanding, analyzing, and visualizing data from large sets of unsorted, noisy data associated with massive next generation sequencing (NGS). These projects frequently are focused on pathogen transmission patterns, drug resistance, and general epidemiology and employ a process called "clustering"; however, current clustering tools are rudimentary, not intuitive, poorly documented and provide little help with data management and visualization. The goal is to develop software for Clustering and Associating Sequences in a Personalized Environment (CASPER). This software will bring much needed state-of-the-art software engineering and visualization technology to NGS sequence analysis that results in finding correlations in disparate data-types that are currently overlooked. Further, this software addresses commercial demands for integrated bioinformatics that speed discovery using contemporary and innovative technologies that enhance the end-user experience.  This will increase the ability of researchers to combat major health challenges, perform biological research and develop effective interventions to prevent and treat illness.
-
-    This SBIR Phase I project proposes to develop a bioinformatics application designed for biological researchers to explore the evolutionary relationships in very large sequence data sets. These data are commonly associated with multiple annotations and there are time-consuming hurdles in acquiring a meaningful visual representation of their relationships, especially in combination with geospatial, demographic and/or temporal data. Further, while many bioinformatics applications/approaches focus on achieving a single analytical task, the proposed software focuses extensively on the end-user, so that efficient and accurate data processing are combined with rich and meaningful graphical outputs. In addition, it will provide a graphical database management system (GDBS) built around the researcher's data as it is imported, resulting in fewer errors. A database linked to analytical results allows for rapid result filtering as well as instantaneous updates as data sets expand over time. Integrated visualization tools allow researchers to produce varied network graphics that can show how results change over time. In Phase I, the goal is to focus on developing a framework to optimize the end-user experience (e.g., speed, intuitive design, useful formatting of results). The project brings together a powerful and unique group of scientists in the fields of software design, computer modeling, data visualization, bioinformatics, genetic analysis and epidemiology.
-  awardeeAddress: PO BOX 693
-  awardeeCity: Thibodaux
-  awardeeCountryCode: US
-  awardeeName: Bioinfoexperts, LLC
-  awardeeStateCode: LA
-  awardeeZipCode: '703014904'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1648053'
-  piEmail: susanna@bioinfox.com
-  piFirstName: Susanna
-  piLastName: Lamers
-  piMiddeInitial: L
-  piPhone: '9854130455'
-  poName: Ruth M. Shuman
-  date: 12/10/2016
-  startDate: 12/01/2016
-  expDate: 11/30/2017
-  title: 'SBIR Phase I:  A Bioinformatics Software Application for Visualizing and
-    Evaluating Evolutionary Networks of Next-Generation Sequences'
-- abstractText: |-
     The broader impact/commercial impact of this project will be to create a depth vision system that accelerates
     the transition to intelligent automation. The intelligent automation movement is driven by the opportunity
     to increase human productivity, and it can be seen in all domains: from Siemen?s self-organizing
@@ -3572,6 +3516,53 @@
   expDate: 11/30/2017
   title: 'STTR Phase I:  Using mining waste as a feedstock for the production of chemicals
     from CO2 with genetically engineered Acidithiobacillus ferrooxidans'
+- abstractText: |-
+    This project will develop an immersive and dynamic multi-player game that addresses a pressing need to provide engaging technologies that prepare students to apply collaborative, cross-disciplinary scientific practices to global societal challenges. In an augmented classroom with their real life peers, students must establish a colony on Mars that is capable of sustaining thousands of refugees from Earth. To successfully achieve their goal, students must use raw materials found on Mars to produce components necessary for life support and building, such as food, water, oxygen, and fuel. In the weeks that this simulation runs alongside their real classroom, students will apply cross-disciplinary STEM knowledge and practices to experience how both individual and collective actions have short- and long-term effects. The game and supporting curriculum will address content from the Next Generation Science Standards and ultimately help adolescent youth understand the need for the integration of science and engineering to tackle critical issues such as the production of clean energy, identification and treatment of disease, the allocation of adequate food and water, and global environmental change (NRC, 2011). Creating educational games that more closely mirror their AAA counterparts provides an opportunity to draw diverse genders and underrepresented youth into STEM-related fields.
+
+
+    This project?' goal is to create "virtual field trips" that augment a classroom and run simultaneous to it, providing applications and experiential learning in a highly engaging social environment. It will build upon previous proprietary technology that enables simultaneous online interactions, complex distributed simulations, and data gathering in shared virtual worlds. This allows the project in its initial phase to focus not only on developing a quality game for students but also on designing and testing high-risk approaches to classroom integration. This game includes the teacher and suggests actions that alter narrative arcs, provide students with key knowledge, or increase or constrain other material resources students have available. Teachers will be able to leverage data collected on student game play to pair small, dynamic groupings of students with high impact mini-lessons to allow the project to actively support teachers as they implement personalized, data-driven instruction. By including a teacher-friendly assessment toolkit, the project can operate within districts' current requirements while experimenting with the future of educational gaming in the classroom. Phase I research will focus on usability and impact on student learning, as well as attempt to understand how willing teachers are to accept and use the teacher support features.
+  awardeeAddress: 2820 E Madison St STE 304
+  awardeeCity: Seattle
+  awardeeCountryCode: US
+  awardeeName: Strange Loop Games Inc
+  awardeeStateCode: WA
+  awardeeZipCode: '981124856'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1648572'
+  piEmail: john@strangeloopgames.com
+  piFirstName: John
+  piLastName: Krajewski
+  piPhone: '2066195859'
+  poName: Glenn H. Larsen
+  date: 12/04/2016
+  startDate: 12/15/2016
+  expDate: 11/30/2017
+  title: 'SBIR Phase I:  A Virtual-World Game for Augmenting the Classroom with Interdisciplinary,
+    Collaborative STEM Learning'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to bring to market a novel power chip architecture for battery-operated electronics, such as smartphones, wearable electronics, electric vehicles, blade servers, cloud-infrastructure hardware, telecom devices, tablets, routers, LED lightning, etc. There are four critical requirements of the power management integrated circuits (PMIC) when used in mobile devices: (1) high energy efficiency for a longer battery run-time between charges; (2) small solution size by freeing up extremely limited space for new functionalities; (3) fast response speed for wide variety of uses; and (4) simplified circuit design for shortening new products' time-to-market. Currently, no solutions are capable of simultaneously meeting the above four requirements. It has become necessary to consider a new topology that could help enabling more efficient Internet of Things designs. It is therefore an object of this proposal to develop novel power chips where the above four requirements can be easily met. Consequently, for any direct current powered mobile devices, as long as they are consuming large power, struggling with limited spaces, and requiring efficient cooling effects, the proposed solution aims to achieve the optimal performance.
+
+    Unlike the present power management integrated chip (PMIC) solutions that have to lose one or more features for a certain improvement, the proposed intellectual merits achieve all of the important features in one single architecture without losing anything. The new PMIC architecture has been preliminarily verified using computer modeling simulation based on ideal circuit models. The objective of this project is to develop new power management chips for use in smartphones and to achieve optimal testing results when verified with 180 nanometer CMOS processes. The R&D scope includes intellectual property core block circuits design, reusable sub-module testing, and mixed signal top-level simulations where the combination of all blocks and modules will be thoroughly represented, within which a circuit that will be etched onto the wafer in Phase II must function correctly. This work?s goal is to demonstrate that the proposed PMIC architecture is a valid solution to fundamentally address the major pain points in the mobile device market.
+  awardeeAddress: 1044 W South Street
+  awardeeCity: Leander
+  awardeeCountryCode: US
+  awardeeName: Silicon6, LLC
+  awardeeStateCode: TX
+  awardeeZipCode: '786417880'
+  fundsObligatedAmt: '223996'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1648347'
+  piEmail: kliang@silicon6.com
+  piFirstName: Keiwan
+  piLastName: Liang
+  piPhone: '5128383168'
+  poName: Richard Schwerdtfeger
+  date: 12/04/2016
+  startDate: 12/15/2016
+  expDate: 11/30/2017
+  title: 'SBIR Phase I:  Energy and Space Efficient Power Management Integrated Circuits
+    for Mobile Devices'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research Phase I project is to develop a large-scale process for production of vault-stabilized enzymes. This project will develop a new nanoparticle-based technology for stabilizing enzymes so that they can be used for industrial applications and environmental cleanup such as water treatment. By employing a scalable, high yield, low cost manufacturing system for vault-enzymes, the company would be able to deploy a variety of new products into the field for treating certain environmental pollutants in drinking water, groundwater, wastewater, and reclaimed water. This would give environmental engineers and regulatory agencies new tools to clean and protect national natural resources and public health.
 
@@ -3732,6 +3723,28 @@
   expDate: 11/30/2017
   title: 'SBIR Phase I:  Optical Platform for Point-of-Care Analysis With a Single
     Drop of Blood'
+- abstractText: |-
+    This Small Business Innovation Research Phase I project is aimed at development of a novel, low-cost process for manufacturing environmental barrier coatings (EBCs) for ceramic matrix composites (CMCs) in aviation gas turbines. A key limitation for CMC adoption is the unavailability of inexpensive, truly gas impervious EBCs to provide required CMC engine service life. While novel EBC compositions have been identified, methods of depositing thin, dense gas impervious coatings with these compositions have largely been vapor-based processes that are expensive, inefficient (non-line-of-sight) and slow (low deposition rates). Efforts to utilize low-cost, and fast plasma spray processes, familiar to the turbine industry, have had some success, but still need major improvements. As an enabling technology for CMC adoption into aircraft gas turbines, the proposed EBC processing technology, solution precursor plasma spray, has the potential to fuel wider adoption of CMCs into aviation gas turbines. The EBC market itself, driven by such a wider adoption of CMCs, can grow to over $300 Million by 2025. The efficiency gains due to such wider adoption of CMCs can substantially lower fuel consumption and greenhouse gas emissions by up to 15% in new aircraft.
+
+    The intellectual merit of this project is illustrated by the fact that it is the first demonstration of solution precursor plasma spray (SPPS) for EBC processing. The unique ability of the SPPS process to achieve very thin, high-density coatings is driven by the very small splat sizes of the solution-derived particles relative to powder-based processes. The SPPS process offers a route to get coatings similar to what is feasible with vapor based processes, but at much faster coating rates and lower cost. In the SPPS approach, a liquid chemical precursor, containing the desired cations, is atomized into the plasma jet. The injected solution evaporates and the resulting chemicals are pyrolyzed, followed by melting and deposition of targeted oxides as splat of sizes less than 5 microns compared to 30-125 microns with the conventional air plasma spray process. This makes the deposition of thin, dense coatings possible. In Phase I, the feasibility of depositing thin, dense state-of-the art EBC compositions on silicon carbide substrates will be demonstrated, and preliminary durability of the coatings will be demonstrated. The deposition of EBCs with thickness less than 50 micron and with density greater than 95% will be demonstrated.
+  awardeeAddress: 2711 Centerville Rd
+  awardeeCity: Wilmington
+  awardeeCountryCode: US
+  awardeeName: Solution Spray Technologies LLC
+  awardeeStateCode: DE
+  awardeeZipCode: '198081645'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1648225'
+  piEmail: cjiang@solutionspray.com
+  piFirstName: Chen
+  piLastName: Jiang
+  piPhone: '8018971221'
+  poName: Debasis Majumdar
+  date: 11/30/2016
+  startDate: 12/01/2016
+  expDate: 11/30/2017
+  title: 'SBIR Phase I:  Novel, Robust Process for Thin, Dense Ceramic Coatings'
 - abstractText: "The broader impact/commercial potential of this Small Business Technology
     Transfer (STTR) Phase I project is to dramatically improve the detection sensitivity
     of resting-state fMRI. In recent years, large-scale ($150M- $1.2B USD) and long-term
@@ -4352,28 +4365,6 @@
   startDate: 07/01/2016
   expDate: 08/31/2017
   title: 'SBIR Phase I:  Telescopic Structural Flood Walls'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the improvement in the quality of life for older adults currently affected by falls. Every year over 700,000 older adults are hospitalized in the United States due to fall-related injuries, which result in $34B in direct medical costs. The proposed technology will reduce first and future falls by providing an older adult's medical treatment team (e.g., physician, physical therapist, etc.) with fall history and ambulatory information.  Fall histories are difficult to obtain and unreliable (as many occurrences are not self-reported). The underlying technological development can be further expanded to allow smart buildings to behave as "first responders" and aid their occupants during man-made and natural disasters. Extensions of this technology have potential in many fields, including efficient energy management systems, security and threat detection, emergency response and evacuation, and structural health monitoring. The proposed technology respects privacy while enabling significant improvement in infrastructure intelligence.
-
-    This Small Business Innovation Research (SBIR) Phase I project will develop a state-of-the-art lifestyle-monitoring system for older adults in assisted homes that has a comprehensive approach towards fall prevention and detection. The healthcare industry has invested significant resources in predicting falls based on the number of previous falls, but current healthcare professional's access to individual patient fall history is limited due to unreliable self-reporting. Additionally, research has shown that the risk of future falls can be greatly reduced through timely preventative treatments. This prevention is achieved by indirectly monitoring the physical activity and falls of older adults through floor-mounted accelerometers coupled with data analytics processing. This analysis studies inherent patterns in recorded data of events such as falls, walking, door slams, etc. Prediction is made possible through the recording of the unreported falls and health history. The anticipated output of this system is a means of detecting falls, locating them, and effective historical data storage, which will result in a more accurate future risk evaluation of the older adult.
-  awardeeAddress: 460 Turner Street NW
-  awardeeCity: Blacksburg
-  awardeeCountryCode: US
-  awardeeName: GAiTE LLC
-  awardeeStateCode: VA
-  awardeeZipCode: '240603329'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1621994'
-  piEmail: dbales@gaitellc.com
-  piFirstName: Dustin
-  piLastName: Bales
-  piPhone: '3074219447'
-  poName: Richard Schwerdtfeger
-  date: 06/20/2016
-  startDate: 07/01/2016
-  expDate: 09/30/2017
-  title: 'SBIR Phase I:  Developing the internet of livable spaces for older adults'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is in the field of radiation therapy (RT) for head & neck cancer patients. RT planning involves designing a radiation treatment regimen so that tumors are irradiated to definitive doses while minimizing irradiation to normal structures. For devising an optimal RT plan, target tumors and critical anatomic structures need to be accurately contoured on medical images. In current clinical practice, organ contour delineation is performed mostly manually due to lack of automated contouring software. This makes RT planning error prone, hampers throughput, and does not allow re-contouring to handle changes taking place during RT. Such changes can cause under dosing to tumor and overdosing to normal surrounding organs. In 2015, 1,658,370 new cancer cases are estimated to occur in the US, where nearly two-thirds will have RT. Given that there are over 2,100 RT centers in the US, there is a strong commercial opportunity for producing an auto-contouring software system. Expected clinical outcomes are significantly improved speed, throughput, and accuracy of contouring compared to current clinical practice, and improved patient outcomes and cost-savings.
 
@@ -5615,29 +5606,6 @@
   title: 'SBIR Phase I:  Dual suppression of VEGF-A and PDGF-B with extended gene
     therapy for neovascular AMD'
 - abstractText: |-
-    The commercial potential of this project lies in enabling much needed high wireless data rates and equal quality of service (QoS) to both densely populated areas as well as remote rural areas. 4G cellular and WiFi networks are facing a bottleneck due to proliferation of wireless devices and limited spectrum available in the currently allocated bands for wireless communications. Improving data connectivity would require new physical fiber to be laid out which is becoming impractical due to high costs vs. return on investment. The Federal Communications Commission has opened more spectrum in the mm-wave frequency spectrum (between 28-70 GHz) for mobile users to alleviate some of these issues. This project will enable spectrally efficient communication through frequency reuse for spatially separated mobile users in the mm-wave frequencies. It will also allow low cost dense deployment of 5G cellular base-stations to boost QoS. With this new paradigms in human machine interaction using machine learning can be advanced further. Remote educational programs, virtual and augmented reality (VR/AR) based learning, online health care and other new services around Internet of Things will be enhanced by better wireless connectivity. These technologies will uplift people?s lives delivering major economic and broad societal impact.
-
-    This Small Business Innovation Research Phase I project proposes a revolutionary architecture that will enable massive multi-user MIMO techniques for mm-wave wireless systems to solve the spectrum scarcity issue. The mm-wave radio front end module (FEM) can reuse the same frequencies for spatially diverse mobile users with active beamforming thus enhancing the capacity of current cellular networks by 100x. A multitude of modules (1000s) will be used in a large array as a part of the mm-wave FEM making it crucial to achieve excellent power efficiency at the module level. This project will investigate a variant of Doherty power amplifier (PA) architecture to achieve highly efficient mm-wave transmitter. Module to module variation and within module variations can disturb accurate beamforming capability. Impact of these variations on forming coherent beams will be studied. A new method to calibrate a large array to tune out any module to module variation will be proposed through sufficient redundancies incorporated in the module design. Low sensitivity to calibration errors will be achieved while also trying to lower the calibration time. A new algorithm that achieves accurate simultaneous tracking of spatial mobile users to within 5-degrees using the new architecture will be proposed.
-  awardeeAddress: 3340 Walnut Ave St 112
-  awardeeCity: Fremont
-  awardeeCountryCode: US
-  awardeeName: RF Pixels, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '945382215'
-  fundsObligatedAmt: '224996'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1722199'
-  piEmail: sriram@rf-pixels.com
-  piFirstName: Sriramkumar
-  piLastName: Venugopalan
-  piPhone: '5103643110'
-  poName: Muralidharan S. Nair
-  date: 07/10/2017
-  startDate: 07/01/2017
-  expDate: 02/28/2018
-  title: 'SBIR Phase I:  Large Arrays for 5G MU-MIMO Wireless Access Operating in
-    mm-wave Frequency Bands'
-- abstractText: |-
     The broader impact/commercial potential of this project to develop a low-cost photovoltaic (PV) inverter is to reduce the installed cost of solar energy systems by ~10%. This improvement in power electronics has a direct positive commercial impact on the entire solar industry by greatly expanding the addressable market where solar generation is economic. Societal impacts include lowering energy costs, facilitating employment growth, driving economic development, and lowering emissions. The project also supports an enhanced scientific and technological understanding of a class of novel inverter architectures that may find numerous other applications outside of the solar industry. For example, industrial motor drives, wind turbines, battery energy storage, and electric vehicles each make use of DC-AC (direct current ? alternating current) conversion technologies that could benefit from these novel architectures.
 
     This Small Business Innovation Research (SBIR) Phase I project addresses two major problems in the solar PV industry: (1) there is tremendous pressure to reduce costs in the DC-AC inverter, and (2) there is pressure to improve the performance of inverters, both by increasing energy yield under partial shading conditions and by improving the lifetime of inverters. The objectives of the proposed research are to demonstrate maximum power point tracking (MPPT) and grid synchronization for a prototype distributed inverter that can achieve performance comparable to commercial inverters while being mass-produced at a lower cost. The research includes a) refinement and application of a real-time inverter control algorithm to extract the maximum energy from solar panels under dynamic shading conditions, b) establishing robust communications across a network of distributed inverters, and c) fabricating and demonstrating a system with a pathway to performance parity with commercial inverters at a much lower cost. Anticipated technical results include measurement of conversion efficiency, power quality, component count, and bill of material estimates.
@@ -5839,6 +5807,29 @@
   expDate: 03/31/2018
   title: 'SBIR Phase I:  Medical Devices for Real-time Radiation Dosimetry at Sub-millimeter
     Spatial Resolution'
+- abstractText: |-
+    The commercial potential of this project lies in enabling much needed high wireless data rates and equal quality of service (QoS) to both densely populated areas as well as remote rural areas. 4G cellular and WiFi networks are facing a bottleneck due to proliferation of wireless devices and limited spectrum available in the currently allocated bands for wireless communications. Improving data connectivity would require new physical fiber to be laid out which is becoming impractical due to high costs vs. return on investment. The Federal Communications Commission has opened more spectrum in the mm-wave frequency spectrum (between 28-70 GHz) for mobile users to alleviate some of these issues. This project will enable spectrally efficient communication through frequency reuse for spatially separated mobile users in the mm-wave frequencies. It will also allow low cost dense deployment of 5G cellular base-stations to boost QoS. With this new paradigms in human machine interaction using machine learning can be advanced further. Remote educational programs, virtual and augmented reality (VR/AR) based learning, online health care and other new services around Internet of Things will be enhanced by better wireless connectivity. These technologies will uplift people?s lives delivering major economic and broad societal impact.
+
+    This Small Business Innovation Research Phase I project proposes a revolutionary architecture that will enable massive multi-user MIMO techniques for mm-wave wireless systems to solve the spectrum scarcity issue. The mm-wave radio front end module (FEM) can reuse the same frequencies for spatially diverse mobile users with active beamforming thus enhancing the capacity of current cellular networks by 100x. A multitude of modules (1000s) will be used in a large array as a part of the mm-wave FEM making it crucial to achieve excellent power efficiency at the module level. This project will investigate a variant of Doherty power amplifier (PA) architecture to achieve highly efficient mm-wave transmitter. Module to module variation and within module variations can disturb accurate beamforming capability. Impact of these variations on forming coherent beams will be studied. A new method to calibrate a large array to tune out any module to module variation will be proposed through sufficient redundancies incorporated in the module design. Low sensitivity to calibration errors will be achieved while also trying to lower the calibration time. A new algorithm that achieves accurate simultaneous tracking of spatial mobile users to within 5-degrees using the new architecture will be proposed.
+  awardeeAddress: 3340 Walnut Ave St 112
+  awardeeCity: Fremont
+  awardeeCountryCode: US
+  awardeeName: RF Pixels, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '945382215'
+  fundsObligatedAmt: '224996'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1722199'
+  piEmail: sriram@rf-pixels.com
+  piFirstName: Sriramkumar
+  piLastName: Venugopalan
+  piPhone: '5103643110'
+  poName: Muralidharan S. Nair
+  date: 07/10/2017
+  startDate: 07/01/2017
+  expDate: 02/28/2018
+  title: 'SBIR Phase I:  Large Arrays for 5G MU-MIMO Wireless Access Operating in
+    mm-wave Frequency Bands'
 - abstractText: |-
     The broader impact/commercial potential of this project relates to the management of clotting
     and bleeding which is a major clinical challenge that costs > $100B healthcare system burden. In
@@ -6333,6 +6324,98 @@
   expDate: 06/30/2018
   title: 'SBIR Phase I:  Engineering brewer''s yeast for biosynthesis of terpenes
     for the production of flavor determinants'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to enable doctors to maximize the diagnostic information extracted from costly Pediatric Magnetic Resonance Imaging (MRI) scans of the brain. Annually, approximately 3.5 million brain MRI scans are performed with average prices with interpretation from $500 - $2,000. Even though the scans are expensive to acquire and interpret, doctors generally only use visual inspection of the images to diagnose abnormalities. The proposed software will be relatively cheap compared to the overall cost of an MRI and is expected to let doctors make accurate measurements of key structures in the brain. This is important because developmental and other diseases can cause small volume and surface area changes that cannot be easily seen by the human eye. By detecting these changes early, doctors should be able to treat the disease at early stages, potentially leading to better quality of life and financial savings. The proposed tool is also expected to enable doctors to better track treatment outcomes, by measuring the effect a drug or treatment has on particular structures in the brain. Ultimately, it is expected that the proposed technology will improve quality of care as well as reduce healthcare costs.
+
+    The proposed project leverages current advances in computational technology such as machine learning and computer vision to automatically measure volume, surface area and shapes in critical parts of the brain in children. These measurements are then compared to a large database of children over the ages of 0-12 years to determine if they have deviated from normal. Although MRIs have been increasing adopted as the diagnostic tool of choice for childhood brain disorders due to the lack of radiation, there has yet to be a tool that allows doctors to accurately measure changes in a child's brain from MRI scans. Because, in children, the brain is rapidly changing as she/he grows, it is difficult to determine visually whether the changes are due to normal development or disease. By measuring the brain accurately and comparing it to a large database already collected by the proposing team, it is expected that a pediatric doctor will be able to determine whether a child's brain has deviated from normal. It could also allow physicians to better select treatments and monitor the patient response to a specific therapy.
+  awardeeAddress: '529 S BROADWAY # 4041'
+  awardeeCity: LOS ANGELES
+  awardeeCountryCode: US
+  awardeeName: Advanced Medical Systems LLC
+  awardeeStateCode: CA
+  awardeeZipCode: '900132365'
+  fundsObligatedAmt: '225000'
+  fundProgramName: STTR PHASE I
+  id: '1722445'
+  piEmail: mail@sinchaitsao.com
+  piFirstName: Sinchai
+  piLastName: Tsao
+  piPhone: '2134531833'
+  poName: Jesus Soriano Molla
+  date: 06/27/2017
+  startDate: 07/01/2017
+  expDate: 06/30/2018
+  title: 'STTR Phase I:  A Clinical Decision Support Tool for Brain Magnetic Resonance
+    Imaging (MRI) in Children'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is a new disruptive approach to enable the digital transformation of US industrial infrastructure through extreme low latency, highly reliable and secure wireless networks. The proposal aligns closely with U.S. government programs such as Manufacturing USA and the National Robotics Initiative. The World Economic Forum reported recently that manufacturing has been immensely important to the prosperity of nations. This has never been more true than right now as countries compete to make huge investments in the digital transformation process of their manufacturing firms. The innovation provides significant advancement that is expected to boost U.S. worker productivity, advance wireless innovation and increase cost savings and business agility. The Industrial Internet of Things drives new investment in automated factories, industrial digital networks and integration with real-time edge computing. Data expansion at the edge of today's networks are new challenges for industrial firms that seek to deploy flexible and economically viable digital infrastructure. The company provides an innovative solution that enables wireless edge computing. Instead of expensive and inflexible wired networks, this new technology unlocks the full potential of wireless sensor networks for automation and control systems. 
+
+    The proposed project will demonstrate the company's concept of ultra-secure, highly reliable, time-sensitive/synchronized wireless protocol for Industrial IoT markets. The novel system design is a general purpose, extremely low latency, wireless communications link that supports real-time connection to industrial devices. The company's technology operates chaos-based spread spectrum communications links, functional chaos-based IIoT sub-nets with anticipated scalability of a plurality of sub-nets operating within unlicensed bands. Enabling an extreme precision time synchronization is critical to industrial systems and network applications in time-sensitive edge computing networks. To date, standard access technologies such as Ethernet are not deterministic and clock synchronization protocols are fundamentally limited by the characteristics of packet switching or efficient access to reliable clocks. In particular, legacy network's jitter, packet buffering and scheduling in switches and network stack overheads add non-deterministic variances to the round trip time, which must be accurately measured to synchronize clocks. This proposal is for a wireless-based synchronization technology that uses more granular timing mechanisms to achieve nanosecond precision. The company introduces a clock synchronization protocol that uses wireless chaotic waveforms that connects to network devices for decentralized clock synchronization. This eliminates the need for wires and non-deterministic elements in clock synchronization protocols.
+  awardeeAddress: 310 De Guigne Dr
+  awardeeCity: Sunnyvale
+  awardeeCountryCode: US
+  awardeeName: Chaos Prime Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '940853906'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1721284'
+  piEmail: ahill@chaosprime.com
+  piFirstName: Anthony
+  piLastName: Hill
+  piPhone: '2145074662'
+  poName: Richard Schwerdtfeger
+  date: 06/27/2017
+  startDate: 07/01/2017
+  expDate: 12/31/2017
+  title: 'SBIR Phase I:  Enhanced Physical-Layer Secure Wireless Chaotic Waveforms
+    for Industrial IoT'
+- abstractText: |-
+    This STTR Phase I project will enable the rapid prototyping and manufacturing of radio frequency (RF) components with 3D printing, and thereby reduce component cost, weight, and turnaround time. The global RF components market is expected to reach $17.54 billion by 2022, but fabrication techniques for commercial RF components have seen little innovation. Conventional RF manufacturing techniques, such machining and photolithography, are accurate and reliable, but they are also expensive, time-consuming and produce unnecessary waste. 3D printing enables fast and accurate manufacturing of custom components, as well as the creation of extremely complex geometries at low-cost for improved component performance. 3D printing can also enable users to design components to fit the design space available, removing the necessity of designing technology around commercially available parts, a critical feature in space and weight-sensitive aerospace applications. However, the materials available to 3D printing are mostly limited to non-conducting polymers. By creating a highly conductive 3D printing material, and testing the properties of RF components made with this filament, this project will make it possible to rapidly prototype and produce custom RF components, thereby accelerating research and improving the competitiveness of RF component manufacturing in the U.S.
+
+    This STTR proposal will create a highly conductive (>2×10^5 S m-1) polymer filament that can be used with low-cost fused deposition modeling 3D printers to create a variety of high-value RF components. The filament will be engineered to print reliably, and retain its conductivity and mechanical integrity to temperatures of ~150 °C. To achieve these goals, the proposed work will determine the relationship between conductivity, the loading of conductive filler, the shape of the conductive filler, the filament mechanical properties, and the viscosity of the filament at printing temperatures. New methods will be developed to prevent oxidation of the conductive filler at elevated temperatures. A novel conductive filler will be developed to achieve these performance specifications at low cost. Concurrent with these material development efforts, novel RF components will be designed, simulated, and printed in order to build a comprehensive database with detailed designs and printing parameters for producing the RF components with a low failure rate. By the end of this project, users will be able to design, predict, and reliably print RF components with conductive filament on low-cost 3D printers.
+  awardeeAddress: 434 Golden Harvest Loop
+  awardeeCity: Cary
+  awardeeCountryCode: US
+  awardeeName: Multi3D LLC
+  awardeeStateCode: NC
+  awardeeZipCode: '275199495'
+  fundsObligatedAmt: '225000'
+  fundProgramName: STTR PHASE I
+  id: '1721644'
+  piEmail: sye@multi3dllc.com
+  piFirstName: Shengrong
+  piLastName: Ye
+  piPhone: '3049069982'
+  poName: Rajesh Mehta
+  date: 06/26/2017
+  startDate: 07/01/2017
+  expDate: 06/30/2018
+  title: 'STTR Phase I:  Additive Manufacturing of Radio Frequency and Microwave Components
+    from a Highly Conductive 3D Printing Filament'
+- abstractText: |-
+    This SBIR Phase I project uses artificial intelligence techniques to identify the ways that undergraduate students in scientific courses explicate problems, describe procedures, make claims, provide evidence, offer qualifications, and draw conclusions. With emphasis on forms of scientific reasoning, this new use of artificial intelligence, to identify language patterns associated with scientific reasoning, will allow students to improve their written laboratory reports before they are submitted, therefore freeing instructors to devote precious instructional time to preparing students for roles as practicing scientists. As the U.S. continues to experience rapid diversity growth, this focus on helping students through innovative uses of technology holds the potential to expand science education by cultivating student ability through autonomous writing and revision. Because artificial intelligence techniques are intended to expand capabilities, the techniques being used, available 24/4 on the web, will have the direct impact of growing our technical and scientific workforce, thus expanding the many dynamic pathways to STEM occupations. As the NSF observed in 2015 in its report Revisiting the STEM Workforce, these jobs are extensive and critical to innovation and competitiveness and are essential to the mutually reinforcing goals of individual and national prosperity and competitiveness. An investment in such a technology is thus an investment in national competitiveness, education policy, innovation, and workforce diversity.
+
+    NSF SBIR support will be used to design and launch artificial intelligence techniques based on Deep Artificial Neural Network (DANN) as driven by Natural Language Processing (NLP), Latent Semantic Analysis (LSA), and the latest advances in AI algorithms. Because NLP and LSA techniques are presently used solely to identify grammatical and organizational patterns, the application of DANN is high risk in making a leap from identifying patterns of language use to capturing patterns of scientific reasoning. Trained on a proprietary corpus of 100,000 lab reports scored and annotated by instructors and students using a single rubric, the AI application will identify logic structures of scientific reasoning in student laboratory reports. Once methodically identified, categorized according to ability level, and validated by STEM instructors, digital instruction will be used to help students improve their scientific reasoning processes. With the singular goal of structuring student success through asynchronous machine learning, this innovation holds the promise to figure meaningfully in discussions of national competitiveness, education policy, innovation, and diversity as related to STEM education.
+  awardeeAddress: 6324 South Queensway Dr
+  awardeeCity: Temple Terrace
+  awardeeCountryCode: US
+  awardeeName: My Reviewers, LLC
+  awardeeStateCode: FL
+  awardeeZipCode: '336172437'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1721749'
+  piEmail: nelliot3@usf.edu
+  piFirstName: Norbert
+  piLastName: Elliot
+  piPhone: '8134049734'
+  poName: Glenn H. Larsen
+  date: 06/26/2017
+  startDate: 07/01/2017
+  expDate: 06/30/2018
+  title: 'SBIR Phase I:  Artificial Intelligence, Scientific Reasoning, and Formative
+    Feedback: Structuring Success for STEM Students'
 - abstractText: "This SBIR Phase I project is a fully synergistic educational framework
     that addresses learning, retention, and presentation, with the potential to improve
     the educational outcomes for society at large. By maximizing the work done in
@@ -6722,56 +6805,6 @@
   expDate: 05/31/2018
   title: 'SBIR Phase I:  A NOVEL BIORATIONAL, VERSATILE PRODUCT TO ENHANCE CROP YIELDS
     AND RESISTANCE TO STRESSES'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) project will be to digitize the human sense of smell and develop
-    a platform to create \"humanized mice\" that that express any human odorant sensor
-    in the nose of a mouse.  Tools have been developed to determine the unique odor
-    codes for each individual odor mixture that exists today ranging from the fragrances
-    in a perfumer's palette to the Chardonnay in your wine cellar. Such an olfactory
-    code will allow flavor and fragrance companies to predict the \"smell\" of certain
-    odor mixtures, and to engineer new compounds in a rational and more streamlined
-    manner. This technology will have a significant commercial impact on existing
-    consumer products, including food, personal hygiene, household products, and perfumes,
-    by offering a solution to more efficiently design pleasing scents and flavors
-    or to formulate compounds that block repulsive odors. In addition, the proposed
-    chemical detector platform under development to generate this olfactory code has
-    additional applications as a biosensor. It may be used to generate disease-specific
-    chemosignatures identified in bodily fluids like urine, sweat or blood, which
-    may have application in clinical diagnostics and biomarker discovery. \n\nThis
-    SBIR Phase I project proposes to use human odor sensors produced in their native
-    environment, an olfactory sensory neuron, and develop an ex vivo biochemical assay
-    to screen for odor sensor activation in a quantitative way. Since human odor sensors
-    (odorant receptors) have proven to be exceptionally difficult to express in vitro,
-    high-throughput screening of odorants using conventional pharmaceutical methods
-    have not been possible to date. As such, only 10% of all human odorant sensors
-    have been linked to their single odor. The preliminary data show that the in vivo
-    expression of human odor sensors in mouse olfactory sensory neurons are functional.
-    The objective of this project is to show that in vivo expressed odor sensors,
-    when removed from their biological model system, maintain their functionality
-    (i.e., ex vivo). A secondary objective is to demonstrate that several types of
-    odor receptors, each with an accepted odor profile, will respond as predicted
-    when analyzed ex vivo using a biochemical assay measuring direct activation of
-    odorant receptors. Successful assay development will allow the generation of a
-    viable platform that may be expanded with additional odor receptors to further
-    decode human olfaction."
-  awardeeAddress: 96 Baltic Street, 2B
-  awardeeCity: Brooklyn
-  awardeeCountryCode: US
-  awardeeName: MouSensor
-  awardeeStateCode: NY
-  awardeeZipCode: '112015917'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1720679'
-  piEmail: charlotte@mousensor.com
-  piFirstName: Charlotte
-  piLastName: D'Hulst
-  piPhone: '3473220212'
-  poName: Ruth M. Shuman
-  date: 06/12/2017
-  startDate: 06/01/2017
-  expDate: 05/31/2018
-  title: 'SBIR Phase I:  A Chemical Detection Platform to Decode Human Olfaction'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovative
     Research (SBIR) project is to develop a detection technology that enables scientists
     and researchers to better understand biological particles circulating in biofluids.
@@ -6857,6 +6890,56 @@
   expDate: 05/31/2018
   title: 'SBIR Phase I:  Rapid, instrument-free Nucleic Acid Test for Pathogens and
     Biothreats'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) project will be to digitize the human sense of smell and develop
+    a platform to create \"humanized mice\" that that express any human odorant sensor
+    in the nose of a mouse.  Tools have been developed to determine the unique odor
+    codes for each individual odor mixture that exists today ranging from the fragrances
+    in a perfumer's palette to the Chardonnay in your wine cellar. Such an olfactory
+    code will allow flavor and fragrance companies to predict the \"smell\" of certain
+    odor mixtures, and to engineer new compounds in a rational and more streamlined
+    manner. This technology will have a significant commercial impact on existing
+    consumer products, including food, personal hygiene, household products, and perfumes,
+    by offering a solution to more efficiently design pleasing scents and flavors
+    or to formulate compounds that block repulsive odors. In addition, the proposed
+    chemical detector platform under development to generate this olfactory code has
+    additional applications as a biosensor. It may be used to generate disease-specific
+    chemosignatures identified in bodily fluids like urine, sweat or blood, which
+    may have application in clinical diagnostics and biomarker discovery. \n\nThis
+    SBIR Phase I project proposes to use human odor sensors produced in their native
+    environment, an olfactory sensory neuron, and develop an ex vivo biochemical assay
+    to screen for odor sensor activation in a quantitative way. Since human odor sensors
+    (odorant receptors) have proven to be exceptionally difficult to express in vitro,
+    high-throughput screening of odorants using conventional pharmaceutical methods
+    have not been possible to date. As such, only 10% of all human odorant sensors
+    have been linked to their single odor. The preliminary data show that the in vivo
+    expression of human odor sensors in mouse olfactory sensory neurons are functional.
+    The objective of this project is to show that in vivo expressed odor sensors,
+    when removed from their biological model system, maintain their functionality
+    (i.e., ex vivo). A secondary objective is to demonstrate that several types of
+    odor receptors, each with an accepted odor profile, will respond as predicted
+    when analyzed ex vivo using a biochemical assay measuring direct activation of
+    odorant receptors. Successful assay development will allow the generation of a
+    viable platform that may be expanded with additional odor receptors to further
+    decode human olfaction."
+  awardeeAddress: 96 Baltic Street, 2B
+  awardeeCity: Brooklyn
+  awardeeCountryCode: US
+  awardeeName: MouSensor
+  awardeeStateCode: NY
+  awardeeZipCode: '112015917'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1720679'
+  piEmail: charlotte@mousensor.com
+  piFirstName: Charlotte
+  piLastName: D'Hulst
+  piPhone: '3473220212'
+  poName: Ruth M. Shuman
+  date: 06/12/2017
+  startDate: 06/01/2017
+  expDate: 05/31/2018
+  title: 'SBIR Phase I:  A Chemical Detection Platform to Decode Human Olfaction'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase I project will allow highly cost effective, 2-way communications
     to be delivered to machinery and ?Things? over extremely long distances using
@@ -7492,6 +7575,121 @@
   startDate: 12/15/2016
   expDate: 11/30/2017
   title: 'SBIR Phase I:  Development of a Miniaturized Multiwell Plate Reader'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) project is to investigate the feasibility of developing a novel clinical genomics software analysis platform that may help reduce or eliminate some of the most significant challenges associated with genetic testing. In the US, genomics plays a role in 9 of the 10 leading causes of death including cancer, heart disease, stroke, diabetes, and Alzheimer's disease. As such, genetic testing is growing very rapidly, as are some of the associated challenges of scale, performance, cost and quality.  Genomic medicine and genetic testing are key underpinnings of precision medicine, which may help lead to improved diagnosis, treatment, and even prevention of complex diseases and disorders. This feasibility study targets the development of an advanced analysis software platform to address analysis bottlenecks and ultimately improve time-to-treatment. The team will determine feasibility based on prototyping key technologies and methods to address current state limitations and point towards an improved future-state approach.  The study will be done in close collaboration with actual clinical genomics users to deliver clear and compelling benefits to the target market and end-users and to provide a high-value solution to the rapidly growing market segment.
+
+    This STTR Phase I project proposes to design and prototype a novel genomics software analysis platform.  It will include access to a large work bench of bioinformatics applications and performance optimized clinical analysis workflows running on scalable public cloud-based, HIPAA-compliant computing infrastructure. The platform will be developed following the software-as-a-service model, designed to optimize performance and costs for next generation sequencing (NGS) analysis. The project will entail development of advanced proprietary computational algorithms to parallelize execution of analysis tasks, and the creation of highly optimized genomics analysis workflows. These workflows will result in dramatic time-savings as well as reduced costs compared to current state approaches. Project efforts also will focus on the development of sophisticated resource provisioning logic to exploit scale and cost optimization running on public cloud infrastructure. In addition, the project will include the feasibility of developing a dual-purpose platform for R&D and clinical usage for faster testing and adoption of newer and advanced tools and procedures. The technology will help to improve patient care by delivering results substantially faster, with higher quality and at lower cost. Additionally, users will be able to construct and validate custom analysis workflows that meet HIPAA, CLIA-CAP, and other clinical requirements.
+  awardeeAddress: 2515 Dewes Lane
+  awardeeCity: Naperville
+  awardeeCountryCode: US
+  awardeeName: Navipoint Genomics, LLC
+  awardeeStateCode: IL
+  awardeeZipCode: '605641234'
+  fundsObligatedAmt: '225000'
+  fundProgramName: STTR PHASE I
+  id: '1648937'
+  piEmail: dina@navipointgenomics.com
+  piFirstName: Dinanath
+  piLastName: Sulakhe
+  piPhone: '6304648013'
+  poName: Ruth M. Shuman
+  date: 12/14/2016
+  startDate: 01/01/2017
+  expDate: 09/30/2017
+  title: 'STTR Phase I:  Development of a high-performance clinical genomics analysis
+    platform to support precision medicine'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase I project is the ability to quickly and easily identify
+    fall-risk in an aging population. Falls are the leading cause of fatal and non-fatal
+    injuries in older adults, resulting in loss of independence and financial burden
+    (predicted to exceed $54 and $101 billion in 2020 and 2030). There is a critical
+    need for a diagnostic and prognostic tool that can be utilized in large cohorts
+    in a cost-effective manner. Identifying fall risk before a fall occurs is critical
+    for timely deployment of preventive measures, but also so that limited resources
+    can be allocated to those who are most likely to experience a fall. This, in turn,
+    will ultimately reduce the number of falls, prolong independent living for the
+    elderly population, and reduce healthcare costs. Following completion of the project,
+    the device will be a commercially viable product which will lead to the growth
+    and expansion of a start-up company. \n\nThe proposed project will optimize and
+    demonstrate the technical feasibility of an innovative balance and gait assessment
+    device that provides a measure of fall-risk. Primary care physicians report that
+    they do not have the knowledge and time to complete fall-risk assessments. Thus,
+    this project will optimize and validate a fall-risk assessment device that can
+    be easily implemented in multiple settings, including retirement communities,
+    health clinics, and physician offices. The first objective of this project is
+    to optimize and validate the balance assessment capabilities of the device, as
+    the gait assessment capabilities have already been validated. The device will
+    be compared concurrently with a device commonly used in research labs. The second
+    objective is to validate the device with balance-compromised populations; as in
+    the first objective, the device will be compared concurrently with a device commonly
+    used in research labs. The third objective is to establish that the device provides
+    a biomarker for age and disease by demonstrating that the balance and/or gait
+    parameters are different across three groups (young adults, older adults, and
+    people with Parkinson's disease)."
+  awardeeAddress: 2620 Bristlecone Dr
+  awardeeCity: West Lafayette
+  awardeeCountryCode: US
+  awardeeName: SmartGait LLC
+  awardeeStateCode: IN
+  awardeeZipCode: '479065285'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1647752'
+  piEmail: smartgait@gmail.com
+  piFirstName: Manuel
+  piLastName: Ochoa
+  piPhone: '7654040726'
+  poName: Jesus Soriano Molla
+  date: 12/14/2016
+  startDate: 12/15/2016
+  expDate: 11/30/2017
+  title: 'SBIR Phase I:  Validation and optimization of balance and gait assessment
+    technology in order to identify fall-risk in older adults'
+- abstractText: |-
+    This Small Business Innovation Research Phase I project will support the development of a confocal optical microscope with two-dimensional topographical profiling and multiple spectroscopic modes in a single, affordable precision instrument. The system will make a major impact in the $6.2 billion microscope market, with a near-term market penetration potential of over 5%, and significant growth potential. This technology will span the needs of materials science research laboratories through quality control in manufacturing to supply chain monitoring. Integration of topographic mapping with a diverse set of spectroscopic tools enables comprehensive materials analysis at the micron and submicron scale. Users will be able to identify features and defects in electronic, optoelectronic, and structural devices, as well as coatings, tubing, devices, disks, and specialty mirrors. Combinatorial materials and chemical research will also be furthered by the ability to acquire several spectroscopic maps with a single instrument. Societal impacts include practical improvements in the design and manufacture of components and systems.  Because of its compact size and low cost, the microscope can be used in schools at all levels, providing students with experience in measuring properties of complex objects and helping prepare them for careers in various research, development, and production settings.
+
+    The intellectual merit of this project centers on the advancement of optical microscopy into the realm of spectroscopic and surface analysis of topographically complex structures. Micro-electromechanical systems (MEMS), for example, have micron-to-millimeter features that can be analyzed by the developed instrument. The key innovation is the development of precision profiling and its integration with multiple spectroscopic interrogation methods. This profiling innovation centers on the capture of two-dimensional optical images with an array detector from each point on a sample and the conversion of the image properties to a vertical focus error, which is then corrected in a subsequent spectroscopic scan. The instrument can then provide Raman, photoluminescence (PL), and topographic surface (morphology) mapping of a sample, with diffraction-limited resolution. Research objectives include integration of optical profiling with spectroscopic scanning to produce accurate two-dimensional spectra from topographically rough samples, and automation of the image capture and analysis software. The instrument is designed to capture the surface topography and spectrum of a sample with tens of thousands of sample points in a few minutes and with 10-50 nanometer vertical accuracy.
+  awardeeAddress: 790 SE Sherwood Ct
+  awardeeCity: Pullman
+  awardeeCountryCode: US
+  awardeeName: Klar Scientific
+  awardeeStateCode: WA
+  awardeeZipCode: '991632400'
+  fundsObligatedAmt: '210370'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1646677'
+  piEmail: rlytel@klarscientific.com
+  piFirstName: Richard
+  piLastName: Lytel
+  piPhone: '6503930854'
+  poName: Ben Schrag
+  date: 12/14/2016
+  startDate: 12/15/2016
+  expDate: 11/30/2017
+  title: 'SBIR Phase I:  Spectroscopy and imaging of irregular surfaces using confocal
+    microscopy'
+- abstractText: |-
+    The broader impact/commercial potential of this project is the expansion of autonomous unmanned aerial systems (UAS, or drones) to new maritime operational environments and commercial markets. The proposed technology will enable small UAS to operate from vessels moving at sea, without the need for a dedicated pilot or installed hardware, even while far from shore and beyond the reach of established communication networks. Small UAS can offer the same aerial perspective provided by manned helicopters at a fraction of the size, cost, and risk. Real-time aerial imagery from UAS will supply maritime operators with invaluable information about their surroundings at sea, which is not available by any other means. This information is critical for many maritime applications, including fishing, ocean monitoring, scientific exploration, maritime surveillance, and search, and rescue. This information will offer a particularly large and immediate impact for 98% of worldwide commercial fishing vessels (those that do not carry embarked manned helicopters for fish-finding) by dramatically reducing their fuel costs; providing net economic and environmental gains for the industry.
+
+    This Small Business Technology Transfer (STTR) Phase I project will develop algorithms and software to enable small UAS autonomously and reliably land onto a moving platform at sea. Commercially-available small UAS can offer invaluable real-time aerial imagery for maritime operators. But, this technology is not currently in widespread use due to technological barriers. In particular, the key enabling technology is the ability to autonomously and reliably land a small UAS onto a moving platform. The research objective is to develop algorithms and software that enable small UAS to autonomously operate from moving vessels at sea. Computer vision algorithms automatically detect the host vessel and the dedicated landing area. Data fusion algorithms estimate the relative drone-boat position and orientation in real time, including compensation for vessel roll, pitch, & heave. Precision control algorithms optimize the drone?s trajectory for save, reliable, autonomous launch and landing. A prototype system will be built by integrating the STTR-developed software with commercially available hardware components.
+  awardeeAddress: 710 13th St Unit 307
+  awardeeCity: San Diego
+  awardeeCountryCode: US
+  awardeeName: Planck Aerosystems Inc
+  awardeeStateCode: CA
+  awardeeZipCode: '921017351'
+  fundsObligatedAmt: '224912'
+  fundProgramName: STTR PHASE I
+  id: '1648563'
+  piEmail: gaemus@planckaero.com
+  piFirstName: Gaemus
+  piLastName: Collins
+  piPhone: '8054533122'
+  poName: Muralidharan S. Nair
+  date: 12/14/2016
+  startDate: 01/01/2017
+  expDate: 12/31/2017
+  title: 'STTR Phase I:  Autonomous Landing of sUAS onto Moving Platforms'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase I project is widespread adoption of a technology with a
     direct cost-­savings in healthcare. It is estimated that nearly 5,000 patients
