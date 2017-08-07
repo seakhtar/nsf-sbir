@@ -94,10 +94,10 @@ Foreign travelers receive reimbursement via a paper check mailed by the U.S. Tre
 ## Travel Questions
 For specific travel questions involving participation in a Review Panel for the Division of Industrial Innovation and Partnership, Please contact:
 
-Doretha Clark
-Phone: 703-292-4514
-Email: dclark@associates.nsf.gov
+*Doretha Clark*:
+703-292-4514;
+dclark@associates.nsf.gov
 
-Amanda Morris
-Phone: 703-292-7055
-Email: amorris@associates.nsf.gov
+*Amanda Morris*:
+703-292-7055;
+amorris@associates.nsf.gov
