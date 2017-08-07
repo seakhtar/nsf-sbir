@@ -2,12 +2,10 @@
 title: Supplemental funding opportunities
 permalink: /resources/awardees/supplement/institutional/
 layout: resources-layout
-sidenav: supplement
+sidenav: phase-2
 ---
-<h1>
-  <span>Phase IIB:</span>
-  Institutional partnerships
-</h1>
+# Institutional partnerships
+
 
 1. Centers for Research Excellence Science and Technology and Underrepresented Groups (Phase IIA)
     - Funding to foster partnerships between small business and minority-serving institutions that have a funded Center for Research Excellence in Science and Technology (CREST) or Historically Black Colleges and University (HBCU) Research Infrastructure for Science and Engineering (RISE) awards.

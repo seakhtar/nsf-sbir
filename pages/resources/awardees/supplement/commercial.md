@@ -2,12 +2,9 @@
 title: Supplemental funding opportunities
 permalink: /resources/awardees/supplement/commercial/
 layout: resources-layout
-sidenav: supplement
+sidenav: phase-2
 ---
-<h1>
-  <span>Phase IIB:</span>
-  Commercial partnerships
-</h1>
+# Commercial partnerships
 
 1. Phase II Match Funding (Phase IIB)
     - Extends the R&D efforts beyond the current grant to further accelerate commercialization of the Phase II project

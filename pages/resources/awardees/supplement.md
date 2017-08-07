@@ -1,8 +1,8 @@
 ---
 title: Supplemental Phase IIB
-permalink:
+permalink: /resources/awardees/phase-2/supplement/
 layout: resources-layout
-sidenav:
+sidenav: phase-2
 ---
 
 # Phase IIB
@@ -10,12 +10,12 @@ Supplemental funding opportunity applicable for SBIR and STTR Phase II awardees.
 
 The objective of Phase IIB funding is to provide additional R&D funds to further accelerate commercialization of the Phase II project, when a qualifying third party financial investment/commitment has been received as a direct consequence of the NSF funded Phase I/Phase II research outcomes. The third party funding should serve to accelerate commercialization activity of the NSF funded Phase II Program.
 
-## Phase IIB Overall Submission and Review Process
+## Overall submission and review process
 
-### Phase IIB request timing
+### Request timing
 Phase II grantees are encouraged to start discussing any Phase IIB requests as early as possible with the Program Director on the Grant. The grantee may be invited to submit a formal Financial Package after initial review by the Program Director. The Financial Package must be submitted to the Program Director for review at least a month in advance of the expiry date of the grant to initiate formal NSF review. The Program Director may recommend that the Grantee request approval for a no-cost extension (to extend the grant expiry date by up to 6 months) to allow NSF time to review the Phase IIB supplement request.
 
-### Process Overview
+### Process overview
 For companies requesting **$250,000 or less** of NSF Phase IIB matching funds:
 - The PI is invited by the Program Director to submit a formal Phase IIB Financial Package along with an outline of what R&D will be done with a potential NSF Phase IIB match.
 - The Financial Package is internally reviewed by NSF, and the PI receives feedback from the Program Director on what third party funds would qualify for the Phase IIB match.
@@ -33,7 +33,7 @@ For companies **requesting over $250,000** (not to exceed $500,000) of NSF Phase
 - The Phase IIB proposal is reviewed by NSF.
 - The award may typically extend the expiry date of the grant by 24 months.
 
-### Review Criteria
+### Review criteria
 All Phase IIB proposals will be reviewed in-house by a minimum of two NSF SBIR/STTR Program Officers. Each proposal will be reviewed based on the review criteria below.
 
 Criterion: What is the **intellectual merit** of the proposed activity? Potential considerations: Will the completion of the proposed activity lead to a solid foundation of the scientific and engineering knowledge and understanding base? Has the firm progressed satisfactorily in the Phase II activity to justify a Phase IIB activity? Is the proposed plan a sound approach for establishing technical feasibility that could lead to commercialization?
