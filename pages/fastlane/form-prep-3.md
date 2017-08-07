@@ -15,7 +15,7 @@ sidenav: fastlane
 
 _A Facilities, Equipment and Other Resources document is required for all proposals to NSF. If your proposed project does not require any facilities, equipment or other resources - please include a statement to that effect in this module._
 
-![Main screen with Facilities, Edquipment, and Other Resources highlighted]({{ site.baseurl }}/assets/img/fastlane/32-MainScreen-facilities-Equip-and-other-resources.jpg)
+![Main screen with Facilities, Equipment, and Other Resources highlighted]({{ site.baseurl }}/assets/img/fastlane/32-MainScreen-facilities-Equip-and-other-resources.jpg)
 
 Follow the instructions on the below screen, then click **"Upload File"** to upload document. Click **"Go Back"** until you return to the "Form Preparation" screen.
 
@@ -102,7 +102,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 If the SBIR or STTR project will include a sub-award to an academic institution, and that institution is requesting funding for postdoctoral researchers, a "Post Doc Mentoring Plan" must be included as a supplementary document in this proposal. Otherwise, you may skip this section. _Note that employees of the small business or other for-profit companies DO NOT count as postdocs, as they relate to this requirement, and should not be budgeted on line B.1._
 
-Please consult the solicitation for more information and you can now download [the sample post-doc mentoring plan here]({{ site.baseurl }}/assets/files/awardee-files/Sample_Postdoc_Mentoring_Plan.doc)
+Please consult the solicitation for more information and you can now download [the sample post-doc mentoring plan here]({{ site.baseurl }}/assets/files/applicants/Sample_Postdoc_Mentoring_Plan.doc)
 
 ![Main screen with Mentoring Plan highlighted]({{ site.baseurl }}/assets/img/fastlane/41-MainScreen-mentoring-plan.jpg)
 
