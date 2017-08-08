@@ -14,6 +14,13 @@ module Jekyll
        binding.pry
     end
 
+    def puts_value(value)
+
+      puts '==================='
+      puts value
+      puts '==================='
+    end
+
     def titlecase(words)
       return words.split(' ').map(&:capitalize).join(' ')
     end
