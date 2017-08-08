@@ -93,6 +93,10 @@ module SiteData
       company['allow_recent']
     end
 
+    def allow_recent_all?
+      @config_params['allow_recent_all']
+    end
+
     def generate(params)
       configs = [ params ].flatten.compact
       if configs.empty?
@@ -107,6 +111,7 @@ module SiteData
                 find_company(company).map do |c|
                   config['awardeeName'] = c
                   config['allow_recent'] = company_recent unless company_recent.nil?
+                  config['allow_recent'] = allow_recent_all? unless allow_recent_all?.nil?
                   SiteData::AwardsApi.new.get(config)
                 end
               end
@@ -120,6 +125,7 @@ module SiteData
             find_company(co).map do |c|
               config['awardeeName'] = c
               config['allow_recent'] = company_recent unless company_recent.nil?
+              config['allow_recent'] = allow_recent_all? unless allow_recent_all?.nil?
               SiteData::AwardsApi.new.get(config)
             end
           end
