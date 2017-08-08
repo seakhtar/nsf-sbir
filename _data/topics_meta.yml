@@ -1,9 +1,10 @@
 ---
 max_companies_shown: 9
 active_date_is_now: true
-fundProgramName: phase
-reset: false
+fundProgramName: phase i
+reset: true
 recent_date: 2017-06-01
+allow_recent_all: true
 printFields:
 - id
 - awardeeName
