@@ -17,7 +17,6 @@ layout: base
     <h2 class="h3 m0">Loading company results...</h2>
   </div>
 
-  {{ site.data[page.dataset] | puts_value }}
   {% assign awards_to_detail = site.data[page.dataset] | default: 'site.data.awards_phase_1' %}
 
   {% if page.split_by_awards %}
