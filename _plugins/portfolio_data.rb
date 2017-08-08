@@ -140,6 +140,7 @@ module SiteData
 
     def update(params, portfolio)
       @util.update_yaml(portfolio, @path)
+      puts 'this is where the danger zone is'
       update_meta
     end
 
