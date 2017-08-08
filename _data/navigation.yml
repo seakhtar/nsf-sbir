@@ -106,23 +106,19 @@ phase-2:
     href: /resources/awardees/phase-2/novation/
   - text: Principal Investigator change
     href: /resources/awardees/phase-2/pi-change/
-  - text: Supplemental funding opportunities (Phase IIB)
-    href: /resources/awardees/phase-2/supplement/
   - text: Ambassador
     href: /resources/awardees/phase-2/ambassador/
   - text: General award conditions
     href: https://www.nsf.gov/awards/managing/special_conditions.jsp
-
-supplement:
-  - text: Phase IIB supplemental funding
-    href: /resources/awardees/supplement/
+  - text: Supplemental funding opportunities 
+    section: supplement
+    href: /resources/awardees/supplement/overview/
   - text: Commercial partnerships
     href: /resources/awardees/supplement/commercial/
   - text: Institutional partnerships
     href: /resources/awardees/supplement/institutional/
   - text: Educational partnerships
     href: /resources/awardees/supplement/educational/
-
 
 footer:
   - text: About

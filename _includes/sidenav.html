@@ -5,7 +5,7 @@
     {% if link.href == page.url or link.href == page.permalink %}
       {% assign _current = true %}
     {% endif %}
-  <li>
+  <li class="{{ link.section }}">
     <a href="{% if _href contains "https:"  or _href contains "www." _href contains "http:" %}{{ _href}}{% else %}{{ _href | relative_url }}{% endif %}"{% if _current %}
       class="usa-current"{% endif %}>
       {{ link.text }}
