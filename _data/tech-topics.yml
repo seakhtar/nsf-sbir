@@ -165,11 +165,23 @@
   permalink: /topics/educational/
   topic_code: ea
   programDirector:
-    - name: Glenn H. Larsen
-      last_name: Larsen
-      email: glarsen@nsf.gov
-      photo: Glenn-compressed.jpg
-      bio: "joined the National Science Foundation in 1987 as the computer systems engineer for NSF’s Directorate for Engineering. In 2005, he became program director for the Industry/University Cooperative Research Center’s (I/UCRC) Fundamental Research program and in 2010 joined the SBIR/STTR Program as Program Director for Education Applications and Information Technology. His entrepreneurial experience includes retailing, software services, computer manufacturing, new home construction, subdivision development, and a physical fitness center. As a lifelong learner, he holds several professional certifications including the Project Management Professional (PMP), Microsoft Certified Systems Engineer (MCSE), and Master Business Coach (MBC). His degrees include the Ph.D. and MBA. He has authored several books on computer graphics and computer operating systems selling over 300,000 copies which were later translated five different languages."
+    - name: Henry Ahn
+      last_name: Ahn
+      email: hahn@nsf.gov
+      photo: Henry-compressed.jpg
+      bio: "joined the National Science Foundation in July 2016 as an SBIR/STTR Program
+        Director. Prior to joining NSF, Henry managed seed/early stage investment programs
+        for TEDCO for 12 years including Technology Commercialization Fund, TEDCO’s flagship
+        seed funding program for technology-based companies in Maryland. During his time
+        at TEDCO, Henry was actively involved with various entrepreneurs and entrepreneur
+        support groups as a guest speaker, an advisory board member, a judge, a mentor,
+        among others. Additionally, Henry was part of the licensing/supplier relations
+        team at a biotechnology company called Upstate, where he successfully negotiated,
+        licensed and commercialized approximately 190 biomedical research reagents from
+        around the world. Henry has also done approximately 5 years of research, mostly
+        in the field of immunology (including graduate work). Henry has an MBA from Rice
+        University, an M.S. in biotechnology from the University of Tennessee, Knoxville
+        and a B.S. in biomedical engineering from Boston University."
   subtopics:
     - Pre K-12 Education (EA1)
     - Global, Distance, and Higher Education (EA2)
