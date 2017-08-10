@@ -106,7 +106,3 @@ topics_api:
     - piLastName
     - piPhone
     - piEmail
-
-exclude:
-- _data/portfolio.yml
-- data/portfolio.yml

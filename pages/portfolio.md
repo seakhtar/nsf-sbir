@@ -47,7 +47,7 @@ Since 2012, America’s Seed Fund powered by NSF has made nearly 2,500 awards to
 <section class="background-light-neutral" markdown="1">
 <div class="usa-section-tight-top usa-section usa-content usa-grid" markdown="1">
 
-**View our current awardees,** who are still completing the research outlined in their proposals and who haven't yet reached the estimated ends of their award terms. [View current Phase I awardees]({{ site.baseurl }}/awardees/phase-1/), [Current Phase II awardees]({{ site.baseurl }}/awardees/phase-2/), or our [most recent ({{ recent_date }}) Phase I awardees]({{ site.baseurl }}/awardees/phase-1-recent/).
+**View our current awardees,** who are still completing the research outlined in their proposals and who haven't yet reached the estimated ends of their award terms. [View current Phase I awardees]({{ site.baseurl }}/awardees/phase-1/) or [Current Phase II awardees]({{ site.baseurl }}/awardees/phase-2/).
 
 </div>
 </section>
