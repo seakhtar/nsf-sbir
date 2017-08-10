@@ -6,10 +6,11 @@
     {% include meta.html %}
     {% include styles.html %}
   </head>
-  <body class="{{ layout.class }} page-{{ page.title | slugify }} {{ page.class }} {% if page.section_image %} page-background {% endif%} {% if page.hero.image %} page-background {% endif%}"
-{% if page.section_image %} style="background-image: url( {{site.baseurl}}{{ page.section_image }} );" {% endif %}
-{% if page.hero.image %} style="background-image: url( {{site.baseurl}}{{ page.hero.image }} );" {% endif %}
-   >
+
+  <body class="{{ layout.class }} page-{{ page.title | slugify }} {{ page.class }} {% if page.section_image %} page-background {% endif %} {% if page.hero.image %} page-background {% endif %}"
+{% if page.section_image %} style="background-image: url('{{ page.section_image | relative_url }}');" {% endif %}
+{% if page.hero.image %} style="background-image: url('{{ page.hero.image | relative_url }} ';" {% endif %}>
+
    {% if page.layout == 'landing' %}
    <div class="hero-treatment">
    {% else %}
