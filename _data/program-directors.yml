@@ -74,13 +74,9 @@
     in the field of immunology (including graduate work). Henry has an MBA from Rice
     University, an M.S. in biotechnology from the University of Tennessee, Knoxville
     and a B.S. in biomedical engineering from Boston University.
-  topic:
-  topic_permalink:
-  topics:
-    - topic: Biomedical Technologies (BM)
-      topic_permalink: "/topics/biomedical/"
-    - topic: Educational Technologies and Applications (EA)
-      topic_permalink: "/topics/educational/"
+  topic: Biomedical Technologies (BM)
+  topic_permalink: "/topics/biomedical/"
+  topics: []
 - photo: Anna-compressed.jpg
   name: Anna Brady-Estevez
   last_name: Brady-Estevez
@@ -239,7 +235,12 @@
     and contracts, including NSF Phase I and Phase II Small Business Innovation Research
     projects and an Advanced Technology Program award from NIST. Ben received his
     Ph.D. in Physics from Brown University.
-  topic: Other Topics (OT)
-  topic_permalink: "/topics/other/"
-  topics: []
+  topic:
+  topic_permalink:
+  topics:
+    - topic: Other Topics (OT)
+      topic_permalink: "/topics/other/"
+    - topic: Educational Technologies and Applications (EA)
+      topic_permalink: "/topics/educational/"
+
 ---
