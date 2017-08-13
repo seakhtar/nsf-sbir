@@ -42,7 +42,7 @@ timeline:
 <p class="text-medium">
 Learn about our recommended Phase I application timeline, how to prepare your proposal, and what to expect once you submit.
 {% if site.app_process == "inactive" %}
-Details for the next {{ site.deadline }} deadline will be posted on {{  site.solicitation_released }} in the upcoming solicitations.
+Details for the next {{ site.deadline }} deadline will be posted in {{  site.solicitation_released }} in the upcoming solicitations.
 {% endif %}
 </p>
 
