@@ -166,11 +166,11 @@
   permalink: /topics/educational/
   topic_code: ea
   programDirector:
-    - name: Glenn H. Larsen
-      last_name: Larsen
-      email: glarsen@nsf.gov
-      photo: Glenn-compressed.jpg
-      bio: "joined the National Science Foundation in 1987 as the computer systems engineer for NSF’s Directorate for Engineering. In 2005, he became program director for the Industry/University Cooperative Research Center’s (I/UCRC) Fundamental Research program and in 2010 joined the SBIR/STTR Program as Program Director for Education Applications and Information Technology. His entrepreneurial experience includes retailing, software services, computer manufacturing, new home construction, subdivision development, and a physical fitness center. As a lifelong learner, he holds several professional certifications including the Project Management Professional (PMP), Microsoft Certified Systems Engineer (MCSE), and Master Business Coach (MBC). His degrees include the Ph.D. and MBA. He has authored several books on computer graphics and computer operating systems selling over 300,000 copies which were later translated five different languages."
+    - name: Ben Schrag
+      last_name: Schrag
+      email: bschrag@nsf.gov
+      photo: Ben-compressed.jpg
+      bio: "is the Senior Program Director for the SBIR/STTR programs. He joined the NSF as a Program Director in 2009, leading the Advanced Materials and Instrumentation portfolio in the Small Business Innovation Research and Small Business Technology Transfer programs. Prior to NSF, he was the Director of Research and Development at Micro Magnetics, where he led a development effort to commercialize a new family of high-performance magnetic microsensor products for demanding consumer and military applications. During this time, he also served as a visiting scientist at Brown University and as the Principal Investigator on a number of federal grants and contracts, including NSF Phase I and Phase II Small Business Innovation Research projects and an Advanced Technology Program award from NIST. Ben received his Ph.D. in Physics from Brown University."
   subtopics:
     - Pre K-12 Education (EA1)
     - Global, Distance, and Higher Education (EA2)
@@ -355,7 +355,7 @@
       last_name: Schrag
       email: bschrag@nsf.gov
       photo: Ben-compressed.jpg
-      bio: "is the acting Deputy Division Director for the Division of Industrial Innovation and Partnerships at NSF, and the Senior Program Director for the SBIR/STTR programs. He joined the NSF as a Program Director in 2009, leading the Advanced Materials and Instrumentation portfolio in the Small Business Innovation Research and Small Business Technology Transfer programs. Prior to NSF, he was the Director of Research and Development at Micro Magnetics, where he led a development effort to commercialize a new family of high-performance magnetic microsensor products for demanding consumer and military applications. During this time, he also served as a visiting scientist at Brown University and as the Principal Investigator on a number of federal grants and contracts, including NSF Phase I and Phase II Small Business Innovation Research projects and an Advanced Technology Program award from NIST. Ben received his Ph.D. in Physics from Brown University."
+      bio: "is the Senior Program Director for the SBIR/STTR programs. He joined the NSF as a Program Director in 2009, leading the Advanced Materials and Instrumentation portfolio in the Small Business Innovation Research and Small Business Technology Transfer programs. Prior to NSF, he was the Director of Research and Development at Micro Magnetics, where he led a development effort to commercialize a new family of high-performance magnetic microsensor products for demanding consumer and military applications. During this time, he also served as a visiting scientist at Brown University and as the Principal Investigator on a number of federal grants and contracts, including NSF Phase I and Phase II Small Business Innovation Research projects and an Advanced Technology Program award from NIST. Ben received his Ph.D. in Physics from Brown University."
   subtopics:
     - The Other Topics category is intended to be a home for any proposed project that doesn't seem to fit into one of the other Technology Topic Areas, but still seems to meet our goals of supporting research and development of innovative, risky, unproven technology with commercial viability and possible social benefit.
   companies:
