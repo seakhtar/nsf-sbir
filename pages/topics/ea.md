@@ -9,7 +9,7 @@ section_image_caption: |
 ---
 
 
-## Administrative Information
+**Administrative Information**
 Submitted proposals for education applications should provide detailed descriptions of how the proposed application will work and provide examples of how users would interact with the application and how learning takes place. Projects that can be easily replicated by potential competitors such as curricula, tutorials, and generic content may not resonate with the review community and are not likely to be funded without sufficient technical innovation. Efforts based on similar or existing products or systems offered by the proposer or their competitors are also not likely to resonate well in a review panel.
 
 NSF uses EA topic areas and keywords to help find reviewers familiar with your project’s innovation and commercial potential to help provide you with an objective proposal review. When submitting a proposal to the EA Topic, also indicate the corresponding subtopic where the strongest case for the project’s technical innovation can be made. For example, use EA1 for proposed projects that are in the area of "Pre K-12 Education” followed by appropriate keywords such as K-3, middle school, high school, robotics, reading, math, computer science, and so on.
