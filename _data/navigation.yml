@@ -127,10 +127,10 @@ footer:
     href: /portfolio/
   - text: Apply for funding
     href: /apply/
-  - text: Resources
-    href: /resources/
-  - text: Events
-    href: /events/
+  - text: Showcase
+    href: /showcase/
+  - text: For Press
+    href: /press/
   - text: Contact us
     href: /contact/
 
@@ -145,5 +145,5 @@ subfooter:
     href: https://www.nsf.gov/about/
   - text: Inspector General
     href: https://www.nsf.gov/oig/
-  - text: For Press
-    href: /press/
+  - text: SBIR.gov
+    href: https://www.sbir.gov/
