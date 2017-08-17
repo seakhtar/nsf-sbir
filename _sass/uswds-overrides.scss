@@ -150,6 +150,17 @@ button:visited,
   }
 }
 
+.usa-search {
+  button {
+    min-width: initial;
+    background-color: $color-primary;
+    &:hover {
+    background-color: $color-primary-darker;
+    border: 0;  
+    }
+  }
+}
+
 .usa-layout-docs {
   h1 {
     font-size: $font-size-xl;
