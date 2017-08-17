@@ -23,3 +23,4 @@ sidenav: phase-2
     - Collaborative research opportunity to provide a beneficial research and commercialization platform between SBIR/STTR companies with Engineering Research Center (ERC) faculty, researchers, and graduate students.
     - **Max funding**: 20% of the Phase II award amount for no more than one year
     - [More information](http://www.nsf.gov/pubs/2015/nsf15043/nsf15043.jsp)
+    - [Proposal / Budget submission instructions]({{ site.baseurl }}/resources/awardees/phase-2/instructions/)
