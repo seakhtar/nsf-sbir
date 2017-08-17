@@ -79,8 +79,6 @@ phase-1:
     href: /resources/awardees/phase-1/pi-change/
   - text: How to apply for Phase II
     href: /resources/awardees/phase-1/apply/
-  - text: Phase II instructions
-    href: /resources/awardees/phase-1/instructions/
   - text: Ambassador
     href: /resources/awardees/phase-1/ambassador/
   - text: Research experiences
@@ -110,7 +108,7 @@ phase-2:
     href: /resources/awardees/phase-2/ambassador/
   - text: General award conditions
     href: https://www.nsf.gov/awards/managing/special_conditions.jsp
-  - text: Supplemental funding opportunities 
+  - text: Supplemental funding opportunities
     section: supplement
     href: /resources/awardees/supplement/overview/
   - text: Commercial partnerships
@@ -119,6 +117,8 @@ phase-2:
     href: /resources/awardees/supplement/institutional/
   - text: Educational partnerships
     href: /resources/awardees/supplement/educational/
+  - text: Supplement submission instructions
+    href: /resources/awardees/phase-2/instructions/
 
 footer:
   - text: About
@@ -127,10 +127,10 @@ footer:
     href: /portfolio/
   - text: Apply for funding
     href: /apply/
-  - text: Resources
-    href: /resources/
-  - text: Events
-    href: /events/
+  - text: Showcase
+    href: /showcase/
+  - text: For Press
+    href: /press/
   - text: Contact us
     href: /contact/
 
@@ -145,5 +145,5 @@ subfooter:
     href: https://www.nsf.gov/about/
   - text: Inspector General
     href: https://www.nsf.gov/oig/
-  - text: For Press
-    href: /press/
+  - text: SBIR.gov
+    href: https://www.sbir.gov/

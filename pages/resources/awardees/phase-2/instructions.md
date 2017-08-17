@@ -1,8 +1,8 @@
 ---
 title: Instructions
-permalink: /resources/awardees/phase-1/instructions/
+permalink: /resources/awardees/phase-2/instructions/
 layout: resources-layout
-sidenav: phase-1
+sidenav: phase-2
 ---
 # Instructions
 
