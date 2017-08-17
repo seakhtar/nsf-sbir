@@ -34,7 +34,7 @@ sidenav: phase-2
     1. The nature of the involvement of the student;
     2. The experience of the PI or other personnel in involving students in research;
     3. A biographical sketch of the student or the process and criteria for selecting a student.
-    - [Proposal / Budget submission instructions]({{ site.baseurl }}/resources/awardees/phase-2/supplement/)
+    - [Proposal / Budget submission instructions]({{ site.baseurl }}/resources/awardees/phase-2/instructions/)
 4. Veterans Research (VRS)
     - Funding support to enable veteran students, pre-college STEM teachers, and/or community college faculty to participate in active NSF grants.
     - **Max funding**: $10,000 per veteran
