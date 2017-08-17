@@ -12,13 +12,13 @@ sidenav: phase-2
     - **Max funding**: 20% of the Phase II award amount for no more than one year
     - **Suggested deadline**: At least 90 days prior to Phase II award expiration
     - [More information](http://www.nsf.gov/pubs/2012/nsf12069/nsf12069.jsp?org=NSF)
-    - [Proposal / Budget submission instructions]({{ site.baseurl }}/resources/awardees/phase-2/supplement/)
+    - [Proposal / Budget submission instructions]({{ site.baseurl }}/resources/awardees/phase-2/instructions/)
 2. Community Colleges (Phase IICC)
     - Partnership funding between small businesses and community college researchers and students.
     - **Max funding**: $40,000 per year
     - **Suggested deadline**: At least 90 days prior to Phase II award expiration
     - [More information](http://www.nsf.gov/pubs/2012/nsf12076/nsf12076.jsp?org=NSF)
-    - [Proposal / Budget submission instructions]({{ site.baseurl }}/resources/awardees/phase-2/supplement/)
+    - [Proposal / Budget submission instructions]({{ site.baseurl }}/resources/awardees/phase-2/instructions/)
 3. Engineering Research Center Collaboration Opportunity (SECO)
     - Collaborative research opportunity to provide a beneficial research and commercialization platform between SBIR/STTR companies with Engineering Research Center (ERC) faculty, researchers, and graduate students.
     - **Max funding**: 20% of the Phase II award amount for no more than one year
