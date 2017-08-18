@@ -71,7 +71,7 @@ National SBIR Conference
 [SBIR Road Tour](https://www.sbirroadtour.com/dates.php#)
 ## October
 [SBIR Road Tour](https://www.sbirroadtour.com/dates.php#)  
-[SymBioBeta](https://synbiobeta.com/)  
+[SynBioBeta](https://synbiobeta.com/)  
 [Black Enterprise - TechConnext Summit](https://www.blackenterprise.com/events/techconnext/)  
 [SOCAP](https://socialcapitalmarkets.net/)  
 [EmTech](https://events.technologyreview.com/emtech/16/)  
