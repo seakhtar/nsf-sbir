@@ -106,6 +106,28 @@
   topic: Chemical and Environmental Technologies (CT)
   topic_permalink: "/topics/chemical-and-environmental/"
   topics: []
+- photo: Ben-compressed.jpg
+  name: Ben Schrag
+  last_name: Schrag
+  email: bschrag@nsf.gov
+  bio: is the Senior Program Director for the SBIR/STTR programs. He joined the NSF
+    as a Program Director in 2009, leading the Advanced Materials and Instrumentation
+    portfolio in the Small Business Innovation Research and Small Business Technology
+    Transfer programs. Prior to NSF, he was the Director of Research and Development
+    at Micro Magnetics, where he led a development effort to commercialize a new family
+    of high-performance magnetic microsensor products for demanding consumer and military
+    applications. During this time, he also served as a visiting scientist at Brown
+    University and as the Principal Investigator on a number of federal grants and
+    contracts, including NSF Phase I and Phase II Small Business Innovation Research
+    projects and an Advanced Technology Program award from NIST. Ben received his
+    Ph.D. in Physics from Brown University.
+  topic: 
+  topic_permalink: 
+  topics:
+  - topic: Educational Technologies and Applications (EA)
+    permalink: "/topics/educational/"
+  - topic: Other Topics (OT)
+    permalink: "/topics/other/"
 - photo: Murali-compressed.jpg
   name: Muralidharan S. Nair
   last_name: Nair
@@ -184,8 +206,8 @@
     a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied
     Physics from Pittsburg State University, and a B.S. in Physics and Science Education
     from the University of Dubuque.
-  topic:
-  topic_permalink:
+  topic: 
+  topic_permalink: 
   topics:
   - topic: Internet of Things (I)
     permalink: "/topics/internet-of-things/"
@@ -219,28 +241,5 @@
   topic: Smart Health (SH)
   topic_permalink: "/topics/smart-health/"
   topics: []
-- photo: Ben-compressed.jpg
-  name: Ben Schrag
-  last_name: Schrag
-  email: bschrag@nsf.gov
-  bio: is the acting Deputy Division Director for the Division of Industrial Innovation
-    and Partnerships at NSF, and the Senior Program Director for the SBIR/STTR programs.
-    He joined the NSF as a Program Director in 2009, leading the Advanced Materials
-    and Instrumentation portfolio in the Small Business Innovation Research and Small
-    Business Technology Transfer programs. Prior to NSF, he was the Director of Research
-    and Development at Micro Magnetics, where he led a development effort to commercialize
-    a new family of high-performance magnetic microsensor products for demanding consumer
-    and military applications. During this time, he also served as a visiting scientist
-    at Brown University and as the Principal Investigator on a number of federal grants
-    and contracts, including NSF Phase I and Phase II Small Business Innovation Research
-    projects and an Advanced Technology Program award from NIST. Ben received his
-    Ph.D. in Physics from Brown University.
-  topic:
-  topic_permalink:
-  topics:
-    - topic: Other Topics (OT)
-      topic_permalink: "/topics/other/"
-    - topic: Educational Technologies and Applications (EA)
-      topic_permalink: "/topics/educational/"
-
 ---
+
