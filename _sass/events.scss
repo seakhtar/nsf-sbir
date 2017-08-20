@@ -14,3 +14,84 @@
     margin-bottom: 1rem;
   }
 }
+
+.page-events {
+  #main-content {
+    h2 {
+      padding-top: $space-xs;
+      border-top: 1px solid $color-base;
+    }
+    .section-background-image {
+      background: #eeeeee url('../img/bg/altaeros.jpg') center top no-repeat fixed;
+      padding: $space-xl 0;
+      ul,
+      ol,
+      li {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+      }
+      h3 {
+        font-size: $font-size-s;
+        text-transform: uppercase;
+        border-top: 1px solid #000;
+      }
+      h4 {
+        font-size: $font-size-xxs;
+        font-weight: 600;
+        margin: $space-xs 0;
+        position: relative;
+        &:before {
+          content: "";
+          background-color: #000;
+          position: absolute;
+          top: -5px;
+          left: 0;
+          height: 1px;
+          width: 30px;
+        }
+        & a {
+          border-bottom: none;
+          color: $color-primary-darker;
+          &:hover {
+            color: $color-primary-alt-medium;
+          }
+        }
+      }
+      p {
+        font-size: $font-size-xxs;
+      }
+      .event-annual-listing {
+        padding: $space-l 0;
+        ul {
+          padding: $space-s 0 $space-l 0;
+          li {
+            padding-bottom: $space-xs;
+          }
+        }
+      }
+
+      @media (min-width: 600px) and (max-width: 799px) {
+        .event-annual-listing {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          & > li {
+            width: calc(50% - 10px);
+          }
+        }
+      }
+
+      @media (min-width: 800px) {
+        .event-annual-listing {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          & > li {
+              width: calc(33.33% - 10px);
+          }
+        }
+      }
+    }
+  }
+}
