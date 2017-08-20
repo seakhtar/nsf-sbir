@@ -1,0 +1,19 @@
+<div>
+  {% for annual_event in site.data.events_annual %}
+    <h3>{{annual_event.month}}</h3>
+      {% if annual_event.events.size > 0 %}
+        <ul>
+          {% for month_event in annual_event.events %}
+            <li>
+              <h4>
+                <a href="{{ month_event.href }}">{{ month_event.eventname }}</a>
+              </h4>
+              <p>
+                {{ month_event.desc }}
+              </p>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+  {% endfor %}
+</div>

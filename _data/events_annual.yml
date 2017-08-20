@@ -1,0 +1,44 @@
+---
+- month: Jan
+  events:
+  - eventname: Consumer Electronics Show (CES)
+    href: https://ces.tech/Register-Plan.aspx
+    desc: Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy.
+- month: Feb
+  events:
+- month: Mar
+  events:
+  - eventname: SXSW
+    href: https://www.sxsw.com/
+    desc: Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy.
+- month: Apr
+  events:
+  - eventname: ACA Summit
+    href: http://acasummit.org/
+    desc: Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy.
+- month: May
+  events:
+  - eventname: National SBIR Conference
+    href: http://nationalinnovationsummit.com/program/National_SBIR_Conference.html
+    desc: Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy.
+- month: Jun
+  events:
+  - eventname: National SBIR Conference
+    href: http://nationalinnovationsummit.com/program/National_SBIR_Conference.html
+    desc: Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy.
+  - eventname: BIO International Convention
+    href: https://convention.bio.org
+    desc: Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy.
+- month: Jul
+  events:
+- month: Aug
+  events:
+- month: Sep
+  events:
+- month: Oct
+  events:
+- month: Nov
+  events:
+- month: Dec
+  events:
+---

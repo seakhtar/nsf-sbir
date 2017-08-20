@@ -13,7 +13,7 @@ layout: secondary-narrow
   {% endif %}
 {% endfor %}
 
-{% if current_events.size > 0 %}
+<!-- {% if current_events.size > 0 %} -->
 <table class="usa-table-borderless event-listing">
     <thead>
       <tr>
@@ -45,33 +45,37 @@ layout: secondary-narrow
 </table>
 {% else %}
 <p></p>
-{% endif %}
+<!-- {% endif %} -->
 
-# Annual Events
-You can often find us at major tradeshows and events throughout the year.  Here's a representation of events we've attended or plan on attending in 2017: 
+## Annual Events
 
-## January
-[CES](https://www.ces.tech/) 
-## March
+{% include annual-events.html %}
+
+<!--
+You can often find us at major tradeshows and events throughout the year.  Here's a representation of events we've attended or plan on attending in 2017:
+
+### January
+[CES](https://www.ces.tech/)
+### March
 [SXSW](https://www.sxsw.com/)
-## April
+### April
 [ACA Summit](https://www.angelcapitalassociation.org/)
-## May
+### May
 National SBIR Conference
-## June
+### June
 [ISTE](https://www.iste.org/)  
 [BIO International Convention](https://convention.bio.org/home.aspx)  
 [Phase II SBIR Conference](https://www.nsfiipconf.com/2017sbirp2/)  
 [SBIR Road Tour](https://www.sbirroadtour.com/dates.php#)  
-## July
+### July
 [SBIR Road Tour](https://www.sbirroadtour.com/dates.php#)  
 [New York Venture Summit](https://www.youngstartup.com/newyork2017/overview.php)  
 [SEMICON West](https://www.semiconwest.org/)  
-## September
+### September
 [SBIR Road Tour](https://www.sbirroadtour.com/dates.php#)
-## October
+### October
 [SBIR Road Tour](https://www.sbirroadtour.com/dates.php#)  
 [SynBioBeta](https://synbiobeta.com/)  
 [Black Enterprise - TechConnext Summit](https://www.blackenterprise.com/events/techconnext/)  
 [SOCAP](https://socialcapitalmarkets.net/)  
-[EmTech](https://events.technologyreview.com/emtech/16/)  
+[EmTech](https://events.technologyreview.com/emtech/16/)    -->
