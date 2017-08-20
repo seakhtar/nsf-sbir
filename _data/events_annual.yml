@@ -3,7 +3,7 @@
   events:
   - eventname: Consumer Electronics Show (CES)
     href: https://ces.tech/Register-Plan.aspx
-    desc: Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy.
+    desc: Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy. [Sample link](#)
 - month: Feb
   events:
 - month: Mar

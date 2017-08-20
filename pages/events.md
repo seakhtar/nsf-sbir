@@ -5,7 +5,6 @@ permalink: /events/
 layout: secondary
 ---
 
-<!-- {% include events-table.html %} -->
 
 <section class="usa-section usa-content">
 <div class="usa-grid" markdown="1">
@@ -14,7 +13,9 @@ layout: secondary
 
 ## Upcoming
 
-Short blurb for upcoming events goes here. Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy. 
+Short blurb for upcoming events goes here. Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy.
+
+<!-- {% include events-table.html %} -->
 
 
 </div>
