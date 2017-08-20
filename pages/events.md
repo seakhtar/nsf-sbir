@@ -50,6 +50,7 @@ layout: secondary
     {% endif %}
 
 <section class="section-background-image">
+<div class="usa-section-tight-top usa-content">
 <div class="usa-grid" markdown="1">
 
 ## Annual events
@@ -58,6 +59,7 @@ Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy. Sagittis tempor
 
 {% include annual-events.html %}
 
+</div>
 </div>
 </section>
 

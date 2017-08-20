@@ -23,7 +23,11 @@
     }
     .section-background-image {
       background: #eeeeee url('../img/bg/altaeros.jpg') center top no-repeat fixed;
-      padding: $space-xl 0;
+      padding: 0;
+      .usa-section-tight-top.usa-content {
+        background: url('../img/bg/tile.gif') repeat;
+        padding: $space-xl 0;
+      }
       ul,
       ol,
       li {
