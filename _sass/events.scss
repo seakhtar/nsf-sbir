@@ -17,9 +17,14 @@
 
 .page-events {
   #main-content {
+    h1 {
+      margin-bottom: $space-xxs;
+    }
     h2 {
       padding-top: $space-xs;
       border-top: 1px solid $color-base;
+      font-weight: 500;
+      letter-spacing: -.035em;
     }
     .section-background-image {
       background: #eeeeee url('../img/bg/altaeros.jpg') center top no-repeat fixed;
@@ -36,14 +41,15 @@
         list-style: none;
       }
       h3 {
+        border-top: 1px solid #000;
         font-size: $font-size-s;
         text-transform: uppercase;
-        border-top: 1px solid #000;
+        padding: $space-xs 0 $space-m;
       }
       h4 {
         font-size: $font-size-xxs;
         font-weight: 600;
-        margin: $space-xs 0;
+        margin: $space-s 0;
         position: relative;
         &:before {
           content: "";
@@ -62,13 +68,17 @@
           }
         }
       }
-      p {
-        font-size: $font-size-xxs;
+      li {
+        p {
+          font-size: $font-size-xxs;
+        }
       }
+
       .event-annual-listing {
-        padding: $space-l 0;
+        padding: $space-xl 0;
         ul {
-          padding: $space-s 0 $space-l 0;
+          padding-bottom: $space-xl;
+          // padding: $space-s 0 $space-l 0;
           li {
             padding-bottom: $space-xs;
           }
