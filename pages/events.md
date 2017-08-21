@@ -5,7 +5,6 @@ permalink: /events/
 layout: secondary
 ---
 
-
 <section class="usa-section usa-content">
 <div class="usa-grid" markdown="1">
 
@@ -17,6 +16,7 @@ Short blurb for upcoming events goes here. Lorem ipsum dolor sit amet consectete
 
 <!-- {% include events-table.html %} -->
 
+{% include events-upcoming.html %}
 
 </div>
 </section>
@@ -29,7 +29,7 @@ Short blurb for upcoming events goes here. Lorem ipsum dolor sit amet consectete
 
 Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy. Sagittis tempor morbi maecenas curabitur quam venenatis, vulputate hendrerit egestas nec netus mattis himenaeos, pellentesque felis platea montes mus.
 
-{% include annual-events.html %}
+{% include events-annual.html %}
 
 </div>
 </div>
