@@ -70,6 +70,26 @@
             margin-bottom: 0;
           }
         }
+        .usa-button {
+          background: none;
+          padding: $space-s $space-m;
+          font-family: $font-serif;
+          font-size: $font-size-xs;
+          font-weight: 500;
+          &.usa-button-hover,
+          &:hover {
+            background-color: $color-white;
+            border: 1px solid $color-primary-alt;
+            color: $color-black;
+          }
+          &.usa-button-active,
+          &:active,
+          &.usa-button-focus,
+          &:focus {
+            box-shadow: none;
+            background-color: $color-secondary-lightest;
+          }
+        }
       }
     }
     .section-background-image {
