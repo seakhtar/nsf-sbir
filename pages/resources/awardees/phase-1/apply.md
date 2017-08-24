@@ -1,6 +1,6 @@
 ---
 title: Apply for Phase II
-permalink: /resources/awardees/phase-1/apply/
+permalink: /resources/awardees/phase-2/apply/
 layout: resources-layout
 sidenav: phase-1
 ---
@@ -34,7 +34,8 @@ If your award letter **doesn't** include an exact Phase II submission date, cont
 - Revisit the [Merit Review Criteria]({{ site.baseurl}}/resources/review/).
 - View the required contents of a [Phase II SBIR/STTR proposal]({{ site.baseurl }}/assets/files/awardees/Phase%20II%20NSF%20SBIR.pdf).
 - View [guidance on determining salaries]({{ site.baseurl }}/assets/files/awardees/SBIR_Salary_Validation_Guide.pdf) for Phase II personnel.
-
+{% comment %}
 ## FastLane instructions
 
 Learn [how to submit a Phase II proposal]({{site.baseurl}}/assets/files/awardees/Phase_II_Proposal_Preparation_Booklet.pdf) in FastLane.
+{% endcomment %}
