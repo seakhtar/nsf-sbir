@@ -1,4 +1,4 @@
-2---
+---
 title: For awardees
 permalink: /resources/awardees/phase-1/
 layout: resources-layout
