@@ -26,11 +26,8 @@ primary:
         href: /resources/awardees/phase-2/
       - text: For Reviewers
         href: /resources/review/
-
-  - text: Events
-    href: /events/
-  - text: Contact
-    href: /contact/
+      - text: Events
+        href: /events/
   - text: Apply
     href: /apply/
 
