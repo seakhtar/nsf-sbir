@@ -1,23 +1,16 @@
 ---
-- eventName: Q&A Webinar with Ben Schrag
-  description: Program director Ben Schrag will answer your questions about America's Seed Fund and what you need to apply for the upcoming deadline.
+- eventName: What is America's Seed Fund at NSF?
+  description: Program director Peter Atherton will give an overview of America's Seed Fund (the SBIR/STTR program) and what you need to apply for the deadline.
   eventType: Webinar
-  date: 04 Apr 2017
+  date: 05 Oct 2017
   time: 2:00 - 3:30 PM ET
   location:
-  registrationLink: https://webinarlink.com
-- eventName: Q&A Webinar with Pete Atherton
-  description: Program director Pete Atherton will answer your questions about America's Seed Fund and what you need to apply for the upcoming deadline.
+  registrationLink: https://nsf.webex.com/nsf/j.php?RGID=r88466711c7e339fef0c553165157750a
+- eventName: How to Apply to America's Seed Fund at NSF
+  description: Program director Henry Ahn will answer your questions about what you need to apply for the upcoming deadline.
   eventType: Webinar
-  date: 19 Apr 2017
+  date: 12 Oct 2017
   time: 2:00 - 3:30 PM ET
   location:
-  registrationLink: https://webinarlink.com
-- eventName: Event Name
-  description: Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy. [Sample link](#)
-  eventType: Conference
-  date: 09 Mar 2017
-  time:
-  location: Washington, DC
-  registrationLink:
+  registrationLink: https://nsf.webex.com/nsf/j.php?RGID=re2f49db6c213c1aa3dcce3ab1766c8ac
 ---
