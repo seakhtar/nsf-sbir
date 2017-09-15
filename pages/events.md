@@ -12,7 +12,7 @@ layout: secondary
 
 ## Upcoming
 
-Short blurb for upcoming events goes here. Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy.
+Join a webinar to learn more about funding for your startup or small business. 
 
 <!-- {% include events-table.html %} -->
 
@@ -27,7 +27,7 @@ Short blurb for upcoming events goes here. Lorem ipsum dolor sit amet consectete
 
 ## Annual events
 
-Lorem ipsum dolor sit amet consecteteur quid adipiscing nonummy. Sagittis tempor morbi maecenas curabitur quam venenatis, vulputate hendrerit egestas nec netus mattis himenaeos, pellentesque felis platea montes mus.
+You can often find NSF staff at major tradeshows and events throughout the year. Here's a calendar of events we plan on attending in 2017 and 2018:
 
 {% include events-annual.html %}
 
