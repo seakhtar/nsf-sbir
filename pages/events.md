@@ -27,7 +27,7 @@ Join a webinar to learn more about funding for your startup or small business.
 
 ## Annual events
 
-You can often find NSF staff at major tradeshows and events throughout the year. Here's a calendar of events we plan on attending in 2017 and 2018:
+You can often find NSF staff at major tradeshows and events throughout the year. Here's a calendar of some of the events we plan on attending in 2017 and 2018:
 
 {% include events-annual.html %}
 
