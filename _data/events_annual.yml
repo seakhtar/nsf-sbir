@@ -1,71 +1,71 @@
 ---
 - month: Jan
   events:
-  - eventname: Consumer Electronics Show (CES)
-    href: https://ces.tech/Register-Plan.aspx
-    desc: Find program staff and NSF-funded companies in Eureka Park.
+    - eventname: Consumer Electronics Show (CES)
+      href: https://ces.tech/Register-Plan.aspx
+      desc: Find program staff and NSF-funded companies in Eureka Park.
 - month: Feb
   events:
-  - eventname: SPIE Photonics West
-    href: http://spie.org/conferences-and-exhibitions/photonics-west
+    - eventname: SPIE Photonics West
+      href: http://spie.org/conferences-and-exhibitions/photonics-west
 - month: Mar
   events:
-  - eventname: SXSW
-    href: https://www.sxsw.com/
-    desc: Find program staff at the Startup Village.
+    - eventname: SXSW
+      href: https://www.sxsw.com/
+      desc: Find program staff at the Startup Village.
 - month: Apr
   events:
-  - eventname: ACA Summit
-    href: http://acasummit.org/
+    - eventname: ACA Summit
+      href: http://acasummit.org/
 - month: May
   events:
-  - eventname: National SBIR Conference
-    href: http://nationalinnovationsummit.com/program/National_SBIR_Conference.html
-    desc: Join NSF and other government agencies with similiar programs for the annual conference.
+    - eventname: National SBIR Conference
+      href: http://nationalinnovationsummit.com/program/National_SBIR_Conference.html
+      desc: Join NSF and other government agencies with similiar programs for the annual conference.
 - month: Jun
   events:
-   - eventname: Phase II SBIR/STTR Conference
-    href: https://www.nsfiipconf.com/2017sbirp2/
-    desc: NSF program staff and all current Phase II awardees attend an annual conference to share best practices and showcase cutting-edge technology. 
-  - eventname: SBIR Road Tour
-    href: http://www.sbirroadtour.com/
-    desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
- -  eventname: Women in Technology Summit
-    href: https://www.witi.com/conferences/2017/summit/
-  - eventname: BIO International Convention
-    href: https://convention.bio.org
-  - eventname: ISTE
-    href: https://www.iste.org/
+    - eventname: Phase II SBIR/STTR Conference
+      href: https://www.nsfiipconf.com/2017sbirp2/
+      desc: NSF program staff and all current Phase II awardees attend an annual conference to share best practices and showcase cutting-edge technology.
+    - eventname: SBIR Road Tour
+      href: http://www.sbirroadtour.com/
+      desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
+    - eventname: Women in Technology Summit
+      href: https://www.witi.com/conferences/2017/summit/
+    - eventname: BIO International Convention
+      href: https://convention.bio.org
+    - eventname: ISTE
+      href: https://www.iste.org/
 - month: Jul
   events:
- - eventname: SBIR Road Tour
-    href: http://www.sbirroadtour.com/
-    desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.  
- -  eventname: New York Venture Summit
-    href: https://youngstartup.com/2017NYSummit/
-    desc: NSF staff introduces investors and startups to the program.   
+    - eventname: SBIR Road Tour
+      href: http://www.sbirroadtour.com/
+      desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
+    - eventname: New York Venture Summit
+      href: https://youngstartup.com/2017NYSummit/
+      desc: NSF staff introduces investors and startups to the program.
 - month: Aug
   events:
 - month: Sep
-  events: 
- - eventname: SBIR Road Tour
-    href: http://www.sbirroadtour.com/
-    desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
+  events:
+    - eventname: SBIR Road Tour
+      href: http://www.sbirroadtour.com/
+      desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
 - month: Oct
   events:
- - eventname: SynBioBeta
-    href: https://synbiobeta.com/
- - eventname: SOCAP
-    href: https://socialcapitalmarkets.net/
- - eventname: Black Enterprise - TechConnext Summit
-    href: http://www.blackenterprise.com/techconnext/
- - eventname: ACS Entrepreneur Summit
-    href: https://www.acs.org/content/acs/en/meetings/acs-entrepreneur-summit.html?sc=170503_acq_mtg_em_entsum_od
+    - eventname: SynBioBeta
+      href: https://synbiobeta.com/
+    - eventname: SOCAP
+      href: https://socialcapitalmarkets.net/
+    - eventname: Black Enterprise - TechConnext Summit
+      href: http://www.blackenterprise.com/techconnext/
+    - eventname: ACS Entrepreneur Summit
+      href: https://www.acs.org/content/acs/en/meetings/acs-entrepreneur-summit.html?sc=170503_acq_mtg_em_entsum_od
 - month: Nov
   events:
- - eventname: EmTech
-    href: https://events.technologyreview.com/emtech/17/
+    - eventname: EmTech
+      href: https://events.technologyreview.com/emtech/17/
 - month: Dec
   events:
-  
+
 ---
