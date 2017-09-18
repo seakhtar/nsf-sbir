@@ -51,8 +51,23 @@ The **Proposal Update Form Preparation** screen displays.
 
 ** Warning – the PFU is not received by NSF until your company’s SPO submits **
 
+### Allow SPO Access to a Proposal File Update
+
+Access the **Proposal Update Control** screen (see [View and Edit a Proposal File Update](https://www.fastlane.nsf.gov/NSFHelp/flashhelp/fastlane/FastLane_Help/view_and_edit_a_proposal_file_update.htm), Step 1 through Step 5). Click the **Allow SPO Access** button. 
+
+A screen displays with a message for you to confirm that you want to allow SPO access to the Proposal File Update. Click the **OK** button.
 
 ({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure10.jpg)
+
+The **Access to Proposal File Update Has Been Given to Your SPO** screen displays with the message that the SPO has access to the Proposal File Update. The screen also lists the names of people to whom FastLane has sent emails to notify them of the SPO's access. Click the **OK** button.
+
+({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure11.jpg)
+
+The **Proposal Update Control** screen displays with the update now listed as a Forwarded Update.
+
+({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure12.jpg)
+
+** *Please note: The SPO must login under “Research Administration” of Fastlane to submit the forwarded update.**
 
 
 
