@@ -52,6 +52,7 @@ National SBIR Conference
 [ISTE](https://www.iste.org/)  
 [BIO International Convention](https://convention.bio.org/home.aspx)  
 [Phase II SBIR Conference](https://www.nsfiipconf.com/2017sbirp2/)  
+<<<<<<< HEAD
 [SBIR Road Tour](https://www.sbirroadtour.com/dates.php#)  
 ### July
 [SBIR Road Tour](https://www.sbirroadtour.com/dates.php#)  
@@ -60,6 +61,16 @@ National SBIR Conference
 ### September
 [SBIR Road Tour](https://www.sbirroadtour.com/dates.php#)
 ### October
+=======
+[SBIR Road Tour](http://www.sbirroadtour.com/)  
+## July
+[SBIR Road Tour](http://www.sbirroadtour.com/)  
+[New York Venture Summit](https://www.youngstartup.com/newyork2017/overview.php)  
+[SEMICON West](https://www.semiconwest.org/)  
+## September
+[SBIR Road Tour](http://www.sbirroadtour.com/)
+## October
+>>>>>>> dev
 [SBIR Road Tour](https://www.sbirroadtour.com/dates.php#)  
 [SynBioBeta](https://synbiobeta.com/)  
 [Black Enterprise - TechConnext Summit](https://www.blackenterprise.com/events/techconnext/)  

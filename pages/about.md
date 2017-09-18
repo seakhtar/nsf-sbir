@@ -90,7 +90,7 @@ Applicants often ask whether they can update their research plan during the cour
 
 If your technology needs more development — and if you’ve met all the Phase I requirements — you can apply for more funding. Phase II awardees receive up to $750,000 over two years.
 
-Phase II awardees can apply for Phase IIB funding to speed up commercialization. To be considered for Phase IIB funding (up to $500,000), you need a third-party investment of at least $100K. [Learn more about Supplemental funding]({{ site.baseurl}}/resources/awardees/supplement/) and visit our awardee resource guide to [apply for Phase IIB supplemental funding]({{ site.baseurl}}/resources/awardees/phase-1/apply/).
+Phase II awardees can apply for Phase IIB funding to speed up commercialization. To be considered for Phase IIB funding (up to $500,000), you need a third-party investment of at least $100K. [Learn more about Supplemental funding]({{ site.baseurl}}/resources/awardees/supplement/overview/) and visit our awardee resource guide to [apply for Phase IIB supplemental funding]({{ site.baseurl}}/resources/awardees/phase-1/apply/).
 
 {% if site.app_process == "active" %}
 For complete program information, check out the latest [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}) or [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}).

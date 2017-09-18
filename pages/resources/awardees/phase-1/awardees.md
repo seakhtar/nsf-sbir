@@ -17,7 +17,7 @@ This page has all the forms you need to manage your Phase I award, information y
 - [New awardee kit]({{ site.baseurl }}/assets/files/awardees/NSF-SBIR-STTR-PhaseIRespOpp.pdf)
 - [CAAR videos for Phase I awardees: financial capability, accounting, and Phase II budgeting](https://www.youtube.com/playlist?list=PLGhBP1C7iCOmI1p5UtqYCXzmUL9SzSApv)
 - [Phase I reporting requirements]({{ site.baseurl }}/resources/awardees/phase-1/reporting/)
-- [How to apply for a Phase II award]({{ site.baseurl }}/resources/awardees/phase-1/apply/)
+- [How to apply for a Phase II award]({{ site.baseurl }}/resources/awardees/phase-2/apply/)
 
 ## General awardee information
 
