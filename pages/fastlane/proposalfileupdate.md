@@ -49,9 +49,9 @@ A screen displays with the message that the Justification Note has been saved. C
 
 The **Proposal Update Form Preparation** screen displays.
 
-** Warning – the PFU is not received by NSF until your company’s SPO submits **
+** * Warning – the PFU is not received by NSF until your company’s SPO submits * **
 
-### Allow SPO Access to a Proposal File Update
+## Allow SPO Access to a Proposal File Update
 
 Access the **Proposal Update Control** screen (see [View and Edit a Proposal File Update](https://www.fastlane.nsf.gov/NSFHelp/flashhelp/fastlane/FastLane_Help/view_and_edit_a_proposal_file_update.htm), Step 1 through Step 5). Click the **Allow SPO Access** button. 
 
