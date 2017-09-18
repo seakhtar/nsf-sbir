@@ -9,7 +9,9 @@ sidenav: Proposal File Update
 
 ## Create a Proposal File Update
 
-### 1.  On the FastLane Home Page screen, select the Proposals, Awards, and Status button on the blue toolbar ([see PI/Co-PI Login](https://www.fldemo.nsf.gov/NSFHelp/flashhelp/fastlane/FastLane_Help/principal_investigator_pi_or_co_principal_investigator.htm)) and login as the Principal Investigator.  The Principal Investigator (PI)/Co-Principal Investigator (Co-PI) Management screen displays (Figure 1). Click **Proposal Functions**. 
+On the **FastLane Home Page** screen, select the **Proposals, Awards, and Status** button on the blue toolbar ([see PI/Co-PI Login](https://www.fldemo.nsf.gov/NSFHelp/flashhelp/fastlane/FastLane_Help/principal_investigator_pi_or_co_principal_investigator.htm)) and login as the Principal Investigator.  
+
+The **Principal Investigator (PI)/Co-Principal Investigator (Co-PI) Management** screen displays (Figure 1). Click **Proposal Functions**. 
 
 ({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure1.jpg)
 
@@ -49,7 +51,7 @@ A screen displays with the message that the Justification Note has been saved. C
 
 The **Proposal Update Form Preparation** screen displays.
 
-** * Warning – the PFU is not received by NSF until your company’s SPO submits * **
+**Warning – the PFU is not received by NSF until your company’s SPO submits**
 
 ## Allow SPO Access to a Proposal File Update
 
