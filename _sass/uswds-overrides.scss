@@ -210,7 +210,7 @@ button:visited,
   background-color: $color-white;
   border: 0;
   .usa-search {
-      margin-bottom: -1.2rem;
+      margin-bottom: -1.37rem;
       padding-right: 1rem;
       button[type=submit],
       button[type=submit]:hover {
@@ -224,6 +224,10 @@ button:visited,
         border: 0;
         border-bottom: 3px solid $color-primary-alt-dark;
         background-color: transparent;
+        font-family: $font-mono;
+        text-transform: uppercase;
+        font-size: 1.1rem;
+        font-weight: 400;
       }
   }
 }
