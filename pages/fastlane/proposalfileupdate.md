@@ -13,7 +13,7 @@ On the **FastLane Home Page** screen, select the **Proposals, Awards, and Status
 
 The **Principal Investigator (PI)/Co-Principal Investigator (Co-PI) Management** screen displays (Figure 1). Click **Proposal Functions**. 
 
-({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure1.jpg)
+![Proposal functions]({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure1.jpg)
 
 The **Principal Investigator (PI)/Co-Principal Investigator (Co-PI) Management Proposal Functions** screen displays. Click **Proposal File Update**. 
 
