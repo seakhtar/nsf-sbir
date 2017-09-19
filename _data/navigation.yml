@@ -14,8 +14,6 @@ primary:
     href: /about/
   - text: Portfolio
     href: /portfolio/
-  - text: Showcase
-    href: /showcase/
   - text: Resources
     links:
       - text: For Applicants
@@ -28,6 +26,8 @@ primary:
         href: /resources/review/
       - text: Events
         href: /events/
+  - text: Contact
+    href: /contact/
   - text: Apply
     href: /apply/
 
