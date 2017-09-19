@@ -1,6 +1,6 @@
 ---
 title: Proposal File Update
-permalink: /fastlane/proposal-file-update
+permalink: /fastlane/proposal-file-update/
 layout: secondary-narrow
 sidenav: Proposal File Update
 ---
