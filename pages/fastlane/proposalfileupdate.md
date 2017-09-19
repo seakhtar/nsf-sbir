@@ -17,37 +17,37 @@ The **Principal Investigator (PI)/Co-Principal Investigator (Co-PI) Management**
 
 The **Principal Investigator (PI)/Co-Principal Investigator (Co-PI) Management Proposal Functions** screen displays. Click **Proposal File Update**. 
 
-({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure2.jpg)
+![Proposal file update]({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure2.jpg)
 
 The **List of Proposals Eligible for Update** screen displays. Highlight the proposal you want to work on in the **List of Proposals Eligible for Update**. Click the **Continue** button. 
 
-({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure3.jpg)
+![List of proposals]({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure3.jpg)
 
 The **Proposal Update Control** screen for that proposal displays. Click the **Create Update** button. 
 
-({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure4.jpg)
+![Proposal update control]({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure4.jpg)
 
 The **Proposal Update Control** screen for the proposal displays.  Click the **View/Edit Update** button.
 
-({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure5.jpg)
+![View edit]({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure5.jpg)
 
 The **Proposal Update Form Preparation** screen displays. This screen lists all the forms for the proposal; you can update any form. Click the **Go** button for the form that you want to update. See [Prepare Proposal Forms](https://www.fldemo.nsf.gov/NSFHelp/flashhelp/fastlane/FastLane_Help/prepare_proposal_forms.htm) for the instructions for any form. Type or copy and paste text in the text box for the form or upload a new file to replace the old file. See [Acceptable Formats for FastLane](https://www.fldemo.nsf.gov/NSFHelp/flashhelp/fastlane/FastLane_Help/acceptable_formats_for_fastlane.htm) and [Upload a File](https://www.fldemo.nsf.gov/NSFHelp/flashhelp/fastlane/FastLane_Help/upload_a_file.htm) for instructions.
 
-({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure6.jpg)
+![Proposal update form prep]({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure6.jpg)
 
 After you have accepted the uploaded form or saved the text in the text box, the **Proposal Update Form Preparation** screen displays. The updated form (the Project Summary in screenshot above as an example) now displays in red and is marked as Changed with the date of the change. Repeat for any forms you want to replace. 
 
 Click the **Proposal Update Justification Note** button.
 
-({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure7.jpg)
+![form preparation]({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure7.jpg)
 
 The **Justification Note** screen displays with a text box for entering the justification for the Proposal File Update. Type or copy and paste the Justification in the text box. Click the **OK** button.
 
-({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure8.jpg)
+![justification note]({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure8.jpg)
 
 A screen displays with the message that the Justification Note has been saved. Click the **OK** button.
 
-({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure9.jpg)
+![saved note]({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure9.jpg)
 
 The **Proposal Update Form Preparation** screen displays.
 
@@ -59,15 +59,15 @@ Access the **Proposal Update Control** screen (see [View and Edit a Proposal Fil
 
 A screen displays with a message for you to confirm that you want to allow SPO access to the Proposal File Update. Click the **OK** button.
 
-({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure10.jpg)
+![allow spo access]({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure10.jpg)
 
 The **Access to Proposal File Update Has Been Given to Your SPO** screen displays with the message that the SPO has access to the Proposal File Update. The screen also lists the names of people to whom FastLane has sent emails to notify them of the SPO's access. Click the **OK** button.
 
-({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure11.jpg)
+![access confirmation]({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure11.jpg)
 
 The **Proposal Update Control** screen displays with the update now listed as a Forwarded Update.
 
-({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure12.jpg)
+![Proposal update control]({{ site.baseurl}}/assets/img/fastlane/FastLanePFU_figure12.jpg)
 
 ### **Please note: The SPO must login under “Research Administration” of Fastlane to submit the forwarded update.**
 
