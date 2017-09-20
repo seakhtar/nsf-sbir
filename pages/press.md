@@ -44,6 +44,8 @@ If you have suggestions, we’d love to hear them — share your feedback [via e
 
 [Bio: Barry W. Johnson](https://www.nsf.gov/news/news_summ.jsp?cntn_id=134426): The official bio of Barry W. Johnson, the Division Director of the Division of Industrial Innovation and Partnerships, home of America's Seed Fund powered by NSF.
 
+[Division of Industrial Innovation and Partnerships (IIP)](https://www.nsf.gov/div/index.jsp?div=IIP): The Division that houses America's Seed Fund at NSF. IIP is part of the Directorate for Engineering and serves the entire Foundation, fostering partnerships to advance technological innovation and public-private partnerships. IIP invests in high-tech small businesses and collaborations between academia and industry to transform discoveries into innovative commercial technologies with societal benefits.
+
 For general NSF questions, please visit the [NSF's page here](https://www.nsf.gov/help/contact.jsp). You can also find contact information for other [NSF organizations here](https://www.nsf.gov/staff/orglist.jsp), and contact information for individuals through our [staff directory](https://www.nsf.gov/staff/).  
 
 The [NSF logo (and guidance for its use)](https://www.nsf.gov/policies/logos.jsp) is available for use by current and former NSF awardees.
