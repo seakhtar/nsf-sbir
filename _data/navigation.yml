@@ -14,8 +14,6 @@ primary:
     href: /about/
   - text: Portfolio
     href: /portfolio/
-  - text: Showcase
-    href: /showcase/
   - text: Resources
     links:
       - text: For Applicants
@@ -26,9 +24,8 @@ primary:
         href: /resources/awardees/phase-2/
       - text: For Reviewers
         href: /resources/review/
-
-  - text: Events
-    href: /events/
+      - text: Events
+        href: /events/
   - text: Contact
     href: /contact/
   - text: Apply
@@ -45,6 +42,8 @@ fastlane:
     href: /fastlane/form-prep-3/
   - text: Proposal Submission
     href: /fastlane/proposal-submission/
+  - text: Proposal File Update
+    href: /fastlane/proposal-file-update/   
   - text: Definitions
     href: /fastlane/definitions/
 

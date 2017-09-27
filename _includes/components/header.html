@@ -51,6 +51,19 @@
           {% endif %}
         </li>
         {% endfor %}
+        <li>
+          <form class="usa-search usa-search-small" accept-charset="UTF-8" action="https://search.usa.gov/search" id="search_form" method="get">
+            <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+            <div role="search">
+              <input id="affiliate" name="affiliate" type="hidden" value="seedfund" />
+              <label for="query" class="usa-sr-only">Search</label>
+              <input autocomplete="off" class="usagov-search-autocomplete" id="query" name="query" type="search" placeholder="Search" />
+              <button name="commit" type="submit">
+                <span class="usa-sr-only">Search</span>
+              </button>
+            </div>
+          </form>
+        </li>
       </ul>
       {% endif %}
 
