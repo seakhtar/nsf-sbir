@@ -64,12 +64,20 @@ To learn more, visit [biomason.com](http://biomason.com/).
 <section class="usa-section showcase-quote" markdown="1">
 <div class="usa-grid" markdown="1">
 
-### Quote headline goes here and looks like this
+### Quote headline goes here
 
-> 18F ipsum dolor amet user-centered design agency partners test driven development. Agency within government TTS best practices API lean startup model procurement cost-recoverable. Government TTS user-centered design distributed model slack GIF. [Cupim GIF government](https://seedfund.nsf.gov) user-centered open transparency 18F.
+<div class="quote-content" markdown="1">
 
-Firstname Lastname  
-Title, [Companyname](#)
+![Rob Nordsell]({{ site.baseurl }}/assets/img/showcase/rob-nordsell.jpg)
+
+> &ldquo;The National Science Foundation was instrumental in getting our company off the ground. We had identified a high-value problem in LEDs that demanded a solution and we identified a unique approach to solving that problem. However, acquiring investor capital for seed stage R&D is very difficult and the investors that do participate in such early financings look to external sources and experts to validate the technology and approach. Our NSF award was, in fact, that source of validation and within 2 weeks of having received our SBIR Phase I award we closed our Seed round. The NSF is a critical resource for deep-tech startups and we are thankful to have received NSF support throughout Phase I and Phase II.&rdquo;  
+>  
+> &ldquo;The company started with two founders doing chemistry in a garage, and today the company employs a total of 10 full-time PhD scientists, including the founders, and four part-time PhD scientists. The company is launching its first product by the end of 2017, and this progress would not have been possible without the support of the NSF.&rdquo;
+
+</div>
+
+Rob Nordsell  
+CEO, [Lumenari, Inc.](http://www.lumenariinc.com/)  
 
 </div>
 </section>
