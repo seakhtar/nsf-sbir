@@ -110,44 +110,43 @@ This section should demonstrate that the research activities were carried out an
 The commercialization report section should not exceed 10 pages. The Commercialization Report section has six (6) parts. Grantees are required to prepare the Commercialization Report section in the format shown below:
 
 1. Company Data (Basic data about the company and the SBIR project.)
-
-SBIR/STTR Award Number:  
-Name of Company:  
-Company Address:  
-Telephone Number:  
-Fax Number:  
-Email:  
-Name and Title of the person preparing the report:   
+  SBIR/STTR Award Number:  
+  Name of Company:  
+  Company Address:  
+  Telephone Number:  
+  Fax Number:  
+  Email:  
+  Name and Title of the person preparing the report:   
 
 2. Funding Commitment(s) (Status of any Funding Commitment(s))
-Was the original FC exercised?  
+  Was the original FC exercised?  
 
-If yes, provide the following information:  
-Date:  
-Amount:  
-Source:    
+    If yes, provide the following information:  
+    Date:  
+    Amount:  
+    Source:    
 
-If no, provide explanation. Possible reasons for not exercising the FC:  
+    If no, provide explanation. Possible reasons for not exercising the FC:  
 
-a.) Technical Objectives not met.
-b.) Technology by-passed in market place.
-c.) Technology not economically viable
-d.) Other (Explain)
+    a.) Technical Objectives not met.
+    b.) Technology by-passed in market place.
+    c.) Technology not economically viable
+    d.) Other (Explain)
 
 3. Were you awarded a Phase IIB supplement?
-If yes, describe the commercialization activities related to this supplement.  
+  If yes, describe the commercialization activities related to this supplement.  
 
 4. List any products and/or processes currently in the marketplace, or patents resulting from the SBIR project.
 
 5. Please furnish the revenues received from the commercialization of this SBIR project, include: Sales, Manufacturing, Product Licensing, Royalties, Consulting, Contracts, Other.
 
-|                                                        | Start of SBIR/STTR Grant         | Current                      |
-|--------------------------------------------------------|----------------------------------|------------------------------|
-| Number of Employees                                    |                                  |                              |
-| Revenue (Total $'s)                                    |                                  |                              |
-| Percent (%) of Revenue from SBIR's (from all agencies) |                                  |                              |
+    | | Start of SBIR/STTR Grant | Current |
+    |---|---|---|
+    | Number of Employees | | |
+    | Revenue (Total $'s) | | |
+    | Percent (%) of Revenue from SBIR's (from all agencies) | | |
 
-7. Briefly describe the company's efforts to commercialize technology resulting from this SBIR award. (This includes customer/potential customer base, overview of marketing and sales strategies, market readiness and/or market window of opportunity and financing strategies for product life cycle.)
+6. Briefly describe the company's efforts to commercialize technology resulting from this SBIR award. (This includes customer/potential customer base, overview of marketing and sales strategies, market readiness and/or market window of opportunity and financing strategies for product life cycle.)
 
 ### Research.gov information/submission
 
