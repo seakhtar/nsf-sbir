@@ -20,6 +20,77 @@
   }
 }
 
+.usa-content {
+
+  .showcase-quote {
+    padding: $space-xl*2 0;
+    background-color: $color-primary-alt-light;
+
+    p {
+      margin-left: 150px;
+      font-size: $font-size-s;
+      font-weight: 600;
+
+      @media screen and (max-width: 600px) {
+        margin-left: 0;
+      }
+
+    }
+
+    a {
+      color: $color-primary;
+    }
+
+    @media screen and (max-width: 600px) {
+      display: block;
+    }
+
+    .quote-content {
+
+      display: flex;
+
+      p {
+        margin-left: 0;
+      }
+
+      @media screen and (max-width: 600px) {
+        display: block;
+      }
+
+      img {
+        flex-flow: row;
+        max-width: 150px;
+        margin-top: 18px;
+      }
+
+      blockquote {
+        border-left: 1px solid #fff;
+        margin-left: 0;
+        padding-left: 3.5rem;
+        padding-bottom: 5rem;
+        flex-flow: row;
+
+        p {
+          // font-size: $font-size-l - .6rem;
+          font-size: $font-size-s;
+          font-weight: 400;
+          line-height: $leading-s;
+          max-width: 600px;
+        }
+
+        @media screen and (max-width: 600px) {
+          p {
+            font-size: $font-size-xs;
+          }
+        }
+      }
+
+    }
+
+  }
+}
+
+
 .showcase-content {
   padding: $space-xl $space-xs $space-xl 0;
 
@@ -49,7 +120,7 @@
 
     h3 {
       color: $color-gray-warm-light;
-      font-size: 3.6rem;
+      font-size: $font-size-l;
       line-height: 1.1;
       letter-spacing: -.015em;
       padding-top: $space-m;
