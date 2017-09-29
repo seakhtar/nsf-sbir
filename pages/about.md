@@ -6,6 +6,10 @@ section_image: "/assets/img/bg/robotic-arm.jpg"
 section_image_caption: |
   The first robotic printer used by [Branch Technology]({{ site.baseurl }}/portfolio/details/?company=branch-technology-llc), an NSF-funded company that has created a new way of 3D printing.
 ---
+<head>
+<script type="text/javascript"> setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0041/5508.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1); </script>
+</head>
+
 <section class="section-header background-light-blue">
 <div class="usa-section usa-content usa-grid">
 <div class="usa-width-one-whole" markdown="1">

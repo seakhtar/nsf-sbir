@@ -15,7 +15,9 @@ Click on the **"GO"** button to the left of **"Cover Sheet"**.
 Cover sheet selection
 ![Cover sheet selection]({{ site.baseurl }}/assets/img/fastlane/6-cover-sheet.jpg)
 
-The Cover Sheet has been divided into 4 sections. To complete the Cover Sheet you must complete all 4 sections.
+The Cover Sheet has been divided into 4 sections. **NOTE: To save your data, be sure to click the "OK" button at the bottom of the screen prior to navigating away from the Cover Sheet. If you receive any error messages when you click "OK", you must clear all errors and re-click "OK" to save the data.** 
+
+To complete the Cover Sheet you must complete all 4 sections.
 The first Cover Sheet **"GO"** Button is **"Awardee Organization/Primary Place of Performance Selection"**
 
 ![Cover sheet component page]({{ site.baseurl }}/assets/img/fastlane/7-cover-sheet-components.jpg)
@@ -99,9 +101,9 @@ Check the appropriate box(s) if your company is a Minority or Woman-Owned Busine
 
 ![Other information options]({{ site.baseurl }}/assets/img/fastlane/15-other-information.jpg)
 
-**"Funding Mechanism:** Select "Research - other than RAPID or EAGER"
+**"Funding Mechanism:** Select "Research"
 
-![Funding Mechanism dropdown]({{ site.baseurl }}/assets/img/fastlane/16-funding-mechanism.jpg)
+![Funding Mechanism dropdown]({{ site.baseurl }}/assets/img/fastlane/16-funding-mechanism-2017.jpg)
 
 **"Collaborative Status":** Select "Not a collaborative proposal". _Note: The inclusion of a subaward to a university does not make this a 'collaborative' proposal. The SBIR/STTR Program does not accept collaborative proposals. The small business must upload all required budgets and subaward files into their single proposal submission._
 
@@ -115,7 +117,7 @@ Check the appropriate box(s) if your company is a Minority or Woman-Owned Busine
 
 ![Small business concern options]({{ site.baseurl }}/assets/img/fastlane/19-small-business-concern.jpg)
 
-NOTE: If the PI responds "YES" to the question "It has received Phase II awards from the Federal Government", the company's Company Commercialization History must be provided in the Supplementary Documents module of the proposal or the entire proposal will be Returned Without Review. _The Commercialization History must be submitted on the NSF template:_ https://www.nsf.gov/eng/iip/sbir/Forms/index.jsp.
+NOTE: If the PI responds "YES" to the question "It has received Phase II awards from the Federal Government", the company's Company Commercialization History must be provided in the Supplementary Documents module of the proposal or the entire proposal will be Returned Without Review. The [Company Commercialization History must be submitted on the NSF template]({{ site.baseurl }}/resources/awardees/phase-2/forms/).
 
 **"Company Officer Information (For Business and Financial Matters)"**, **"Other Information"**, **"Affiliated Companies"**, **"Research Institution Investigator"** and **"Proprietary Notice"**: Fill in all requested information.
 
@@ -135,7 +137,7 @@ Click on the **"Go"** button to the left of **"Add/Delete Non Co-PI Senior Perso
 
 ![Main screen]({{ site.baseurl }}/assets/img/fastlane/24-MainScreen-add-delete-non-copi-senior-personnel.jpg)
 
-Click "Add Non Co-PI Senior Person to Proposal" after inputting the First Name, Middle Initial and Last Name of each person.
+Click "Add Non Co-PI Senior Person to Proposal" after inputting the First Name, Middle Initial and Last Name of each person. STTR has 1 Co-PI and SBIR has 0 Co-PIs.
 
 >For the SBIR/STTR Program, senior personnel are individuals with critical expertise who will be working on the project and are employed >at the proposing company or at a subaward institution. The company should upload a Bio Sketch and Current & Pending Support form (see >relevant sections later in this document) for each person included as Senior Personnel.
 
