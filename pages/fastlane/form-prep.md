@@ -99,9 +99,9 @@ Check the appropriate box(s) if your company is a Minority or Woman-Owned Busine
 
 ![Other information options]({{ site.baseurl }}/assets/img/fastlane/15-other-information.jpg)
 
-**"Funding Mechanism:** Select "Research - other than RAPID or EAGER"
+**"Funding Mechanism:** Select "Research"
 
-![Funding Mechanism dropdown]({{ site.baseurl }}/assets/img/fastlane/16-funding-mechanism.jpg)
+![Funding Mechanism dropdown]({{ site.baseurl }}/assets/img/fastlane/16-funding-mechanism-2017.jpg)
 
 **"Collaborative Status":** Select "Not a collaborative proposal". _Note: The inclusion of a subaward to a university does not make this a 'collaborative' proposal. The SBIR/STTR Program does not accept collaborative proposals. The small business must upload all required budgets and subaward files into their single proposal submission._
 
