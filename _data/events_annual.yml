@@ -55,10 +55,6 @@
   events:
     - eventname: SynBioBeta
       href: https://synbiobeta.com/
-    - eventname: SOCAP
-      href: https://socialcapitalmarkets.net/
-    - eventname: Black Enterprise - TechConnext Summit
-      href: http://www.blackenterprise.com/techconnext/
     - eventname: ACS Entrepreneur Summit
       href: https://www.acs.org/content/acs/en/meetings/acs-entrepreneur-summit.html?sc=170503_acq_mtg_em_entsum_od
 - month: Nov
