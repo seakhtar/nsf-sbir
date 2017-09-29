@@ -15,7 +15,9 @@ Click on the **"GO"** button to the left of **"Cover Sheet"**.
 Cover sheet selection
 ![Cover sheet selection]({{ site.baseurl }}/assets/img/fastlane/6-cover-sheet.jpg)
 
-The Cover Sheet has been divided into 4 sections. To complete the Cover Sheet you must complete all 4 sections.
+The Cover Sheet has been divided into 4 sections.**NOTE: To save your data, be sure to click the "OK" button at the bottom of the screen prior to navigating away from the Cover Sheet. If you receive any error messages when you click "OK", you must clear all errors and re-click "OK" to save the data.** 
+
+To complete the Cover Sheet you must complete all 4 sections.
 The first Cover Sheet **"GO"** Button is **"Awardee Organization/Primary Place of Performance Selection"**
 
 ![Cover sheet component page]({{ site.baseurl }}/assets/img/fastlane/7-cover-sheet-components.jpg)
