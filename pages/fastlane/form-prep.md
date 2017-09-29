@@ -115,7 +115,7 @@ Check the appropriate box(s) if your company is a Minority or Woman-Owned Busine
 
 ![Small business concern options]({{ site.baseurl }}/assets/img/fastlane/19-small-business-concern.jpg)
 
-NOTE: If the PI responds "YES" to the question "It has received Phase II awards from the Federal Government", the company's Company Commercialization History must be provided in the Supplementary Documents module of the proposal or the entire proposal will be Returned Without Review. _The Commercialization History must be submitted on the NSF template:_ https://www.nsf.gov/eng/iip/sbir/Forms/index.jsp.
+NOTE: If the PI responds "YES" to the question "It has received Phase II awards from the Federal Government", the company's Company Commercialization History must be provided in the Supplementary Documents module of the proposal or the entire proposal will be Returned Without Review. The [Company Commercialization History must be submitted on the NSF template]({{ site.baseurl }}/resources/awardees/phase-2/forms/).
 
 **"Company Officer Information (For Business and Financial Matters)"**, **"Other Information"**, **"Affiliated Companies"**, **"Research Institution Investigator"** and **"Proprietary Notice"**: Fill in all requested information.
 
