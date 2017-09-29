@@ -23,11 +23,9 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 ### Project Summary
 
-Follow the instructions on the below screen, then click **"Upload File"** to upload document. Click **"Go Back"** until you return to the "Form Preparation" screen.
+14. Click the **"Go"** button to the left of the **"Project Summary"** Type the "Project Summary" in the provided text boxes. The aggregate of the three text boxes cannot exceed 4,600 characters, including spaces. The maximum number of lines that may be included on a page is 51. When this section is completed, click **"Save" and then "OK"** to return to the "Form Preparation" screen. **Information MUST be entered into all three text boxes, or the proposal will not be accepted.**
 
 ![Main screen with Project Summary highlighted]({{ site.baseurl }}/assets/img/fastlane/33-MainScreen-project-summary.jpg)
-
-Type the "Project Summary" in the provided text boxes. The aggregate of the three text boxes cannot exceed 4,600 characters, including spaces. The maximum number of lines that may be included on a page is 51. When this section is completed, click **"Save" and then "OK"** to return to the "Form Preparation" screen. **Information MUST be entered into all three text boxes, or the proposal will not be accepted.**
 
 ** DO NOT CHECK THE BOX TO ENTER YOUR PROJECT SUMMARY AS A SUPPLEMENTARY DOCUMENT. **
 
@@ -81,10 +79,6 @@ Fill in all the required information, click **"Save Text"** and then **"Go Back"
 
 ![Current and Pending Support form creation screen]({{ site.baseurl }}/assets/img/fastlane/38-current-and-pending-support2.jpg)
 
-Follow the instructions on the below screen, then click **"Upload File"** to upload the document. Click **"Go Back"** until you return to the "Form Preparation" screen.
-
-![Current and Pending Support file upload screen]({{ site.baseurl }}/assets/img/fastlane/39-current-and-pending-support3.jpg)
-
 ### Data Management Plan
 18. Click on the **"Go"** button to the left of **"Data Management Plan":**
 
@@ -117,10 +111,6 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 ![Main screen with Other Supplementary Docs highlighted]({{ site.baseurl }}/assets/img/fastlane/42-MainScreen-other-supplementary-docs.jpg)
 
 **Reference the current solicitation for restrictions and explanations of what NSF requires and what NSF allows in the Supplementary Documents. Items beyond those specifically requested and permitted should not be included.** You are encouraged to compile and convert all of your Supplementary Documents into a single PDF file and upload using the "Transfer File" button below.
-
-Type/Upload your necessary information in the below text box. When this section is completed, click **"Go Back"** to return to the "Proposal Actions" screen.
-
-![Other Supplementary Docs text box]({{ site.baseurl }}/assets/img/fastlane/42-other-supplementary-docs.jpg)
 
 Follow the instructions on the below screen, then click **"Upload File"** to upload document. Click **"Go Back"** until you return to the "Proposal Actions" screen.
 

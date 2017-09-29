@@ -127,18 +127,18 @@ It is recommended that proposers allot funds for fringe benefits here ONLY if th
 
 The cumulative budget will auto-populate after the completion of the "Year 1" and, if applicable, the subawardee budget.
 
->IMPORTANT NOTE - All non-zero budget line items MUST be explained in the budget justification. Additionally, letters of commitment from >any consultants should also be included as part of the budget justification. See section 9.f.3 of the solicitation for more details.
+>IMPORTANT NOTE - All non-zero budget line items MUST be explained in the budget justification. Additionally, letters of commitment from >any consultants and subawardees should also be included as part of the budget justification. See section 9.f.3 of the solicitation for more details.
 
-**12a. Budget Justification** section: To complete the budget justification page, click on the "Budget Justification" hyperlink under your company name.
+**12a. Budget Justification** section: To complete the budget justification page, click on the "Budget Justification" hyperlink under your company name. **Items with a total cost exceeding $5,000 should be accompanied by pricing documentation (e.g. quote, link to online price list, prior purchase order or invoice), to be included in the budget justification.**
 
 ![Budget justification section with table displaying year information and edit options]({{ site.baseurl }}/assets/img/fastlane/21-BudgetJustification.jpg)
 
-After cutting and pasting/typing details in text box, click "Save Text" and then "Go Back" to return to the "Project Budget" screen.
+After cutting and pasting/typing the budget justification in text box, click "Save Text" and then "Go Back" to return to the "Project Budget" screen.
 Budget justification text box with option to save, delete or go back
 
 ![If uploading a file, click "Transfer File" on the above screen.]({{ site.baseurl }}/assets/img/fastlane/22-BudgetJustificationDetails.jpg)
 
-Then, follow the instructions on the below screen and click **"Upload File"** to upload document. Once the budget justification is complete, click **"Go Back"** until you return to the "Form Preparation" screen or until you return to the "Project Budget" screen to add a subawardee.
+If you prefer, follow the instructions on the below screen and click **"Upload File"** to upload document. Once the budget justification is complete, click **"Go Back"** until you return to the "Form Preparation" screen or until you return to the "Project Budget" screen to add a subawardee. **INGNORE THE 3 PAGE LIMIT WARNING!**
 
 ![Upload file box with information about supported file-types]({{ site.baseurl }}/assets/img/fastlane/23-Upload.jpg)
 
@@ -172,7 +172,7 @@ Return to the **"Project Budget"** screen and follow the previous instructions f
 - Indirect Costs
 - Total Direct and Indirect Costs
 - Total Cost and Small business fee
-\* _When applicable, provide quotes, price lists etc. (same as the main budget) in the budget justification. Do not upload quotes to the Supplementary Documents module._
+\* _Items with a total cost exceeding $5,000 should be accompanied by pricing documentation (e.g. quote, link to online price list, prior purchase order or invoice), to be included in the budget justification. Do not upload quotes to the Supplementary Documents module._
 
 ![Project Budget table displaying organizations, funds, and options to edit]({{ site.baseurl }}/assets/img/fastlane/28-ProjectBudget-Overview.jpg)
 
