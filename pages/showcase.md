@@ -64,15 +64,15 @@ To learn more, visit [biomason.com](http://biomason.com/).
 <section class="usa-section showcase-quote" markdown="1">
 <div class="usa-grid" markdown="1">
 
-### Quote headline goes here
+### Improving LED brightness and reducing power consumption
 
 <div class="quote-content" markdown="1">
 
 ![Rob Nordsell]({{ site.baseurl }}/assets/img/showcase/rob-nordsell.jpg)
 
-> &ldquo;The National Science Foundation was instrumental in getting our company off the ground. We had identified a high-value problem in LEDs that demanded a solution and we identified a unique approach to solving that problem. However, acquiring investor capital for seed stage R&D is very difficult and the investors that do participate in such early financings look to external sources and experts to validate the technology and approach. Our NSF award was, in fact, that source of validation and within 2 weeks of having received our SBIR Phase I award we closed our Seed round. The NSF is a critical resource for deep-tech startups and we are thankful to have received NSF support throughout Phase I and Phase II.&rdquo;  
+> &ldquo;The National Science Foundation was instrumental in getting our company off the ground. We had identified a high-value problem in LEDs that demanded a solution and we identified a unique approach to solving that problem. However, acquiring investor capital for seed stage R&D is very difficult and the investors that do participate in such early financings look to external sources and experts to validate the technology and approach. Our NSF award was, in fact, that source of validation and within two weeks of having received our SBIR Phase I award we closed our Seed round. The NSF is a critical resource for deep-tech startups and we are thankful to have received NSF support throughout Phase I and Phase II.&rdquo;  
 >  
-> &ldquo;The company started with two founders doing chemistry in a garage, and today the company employs a total of 10 full-time PhD scientists, including the founders, and four part-time PhD scientists. The company is launching its first product by the end of 2017, and this progress would not have been possible without the support of the NSF.&rdquo;
+> &ldquo;The company started with two founders doing chemistry in a garage, and today the company employs a total of 10 full-time Ph.D. scientists, including the founders, and four part-time Ph.D. scientists. The company is launching its first product by the end of 2017, and this progress would not have been possible without the support of the NSF.&rdquo;
 
 </div>
 
