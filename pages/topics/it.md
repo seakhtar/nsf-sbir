@@ -44,7 +44,8 @@ Examples of relevant technical fields include (but are not limited to): single p
 Examples of relevant areas of application include (but are not limited to): quantum key distribution; quantum cryptography; quantum communications links and networks; network-based authentication; quantum computing.
 
 Proposals submitted to this subtopic must be aimed ultimately at commercialization, and should address the likely timeline to develop a minimum viable product or service. Proposals should address practical problems - such as, for example, the efficient and reliable coupling of single photon sources to optical fibers - that will need to be overcome in order for the proposed innovation to be commercially feasible.
-IT4. Cybersecurity; Authentication; Privacy
+
+### IT4. Cybersecurity; Authentication; Privacy
 This subtopic is intended to cover the major aspects of security related to the internet (except for Internet of Things cybersecurity, which is covered under subtopic IT5).
 
 Cybersecurity refers to security applied both to the internet (including servers and connected devices) and to data stored in or transmitted over the internet. Generally this refers to security against malicious attacks rather than security against (for example) inadvertent data leakage. Cybersecurity is growing in importance due to a confluence of factors, including (i) increased use of the internet to monitor and control critical infrastructure, (ii) increased incidence of cyber-attacks against government and major institutions, (iii) the growing reliance by the general public on internet-based services.
@@ -61,7 +62,8 @@ Most IoT devices operate in resource constrained environments. Usually they are 
 This subtopic calls for new and innovative approaches to providing cybersecurity for IoT systems. Proposed solutions should not be limited to conventional cybersecurity techniques - the unique characteristics of IoT systems are likely to require new and unconventional cybersecurity methods. Proposing companies are encouraged to think outside the box.
 
 Note: This subtopic is focused on cybersecurity innovations pertaining to IoT. Hardware innovations related to IoT should be submitted to the Internet of Things (I) topic.
-IT6. Networking Technology
+
+### IT6. Networking Technology
 This subtopic focuses on information technology innovations that will enhance the performance, functionality and monitoring of information networks, with particular emphasis on the internet and Internet of Things (IoT) networks.
 
 Examples of relevant technical fields include (but are not limited to): software-defined infrastructure - including software defined networking and software defined storage; software-defined data centers; analytics to optimize network performance; network visualization; network protocols; technologies to reduce network congestion and improve network resiliency; network-based data storage and retrieval technologies; anywhere/anytime access to data and services; agile networking; machine-to-machine networking; peer-to-peer device networking; networking technologies for resource-constrained sensor-dense environments such as in IoT applications.
