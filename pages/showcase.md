@@ -63,7 +63,8 @@ To learn more, visit [biomason.com](http://biomason.com/).
 
 <section class="usa-section" markdown="1">
 <div class="usa-grid" markdown="1">
-![Polymer material]({{ site.baseurl }}/assets/img/showcase/Shasqi%20-%20Hero%20Image.jpg)
+<div>![Polymer material]({{ site.baseurl }}/assets/img/showcase/Shasqi%20-%20Hero%20Image.jpg)</div>
+
 ### New drug delivery technology for tumor treatment
 
 <div>
