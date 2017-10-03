@@ -67,7 +67,7 @@ To learn more, visit [biomason.com](http://biomason.com/).
 
 ### New drug delivery technology for tumor treatment
 
-<div markdown="1">
+<div class="quote-content" markdown="1">
 
 [Dr. Jose M. Mejia Oneto]({{ site.baseurl }}/assets/img/showcase/Jose%20-%20Head%20Shot.jpg)
 
