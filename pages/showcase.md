@@ -61,7 +61,7 @@ To learn more, visit [biomason.com](http://biomason.com/).
 
 
 
-<section class="usa-section showcase-content" style="background-color:"#9BDAF1;">
+<section class="usa-section showcase-content" style="background-color:#9BDAF1;">
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-whole">
  <img src="/preview/18f/nsf-sbir/new-showcase/assets/img/showcase/Shasqi%20-%20Hero%20Image.jpg" width="100%" height="auto" alt="Polymer material"><br><br>
