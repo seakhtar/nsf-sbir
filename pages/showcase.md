@@ -61,19 +61,22 @@ To learn more, visit [biomason.com](http://biomason.com/).
 
 
 
-<section class="usa-section showcase-content" markdown="1">
-<div class="usa-grid" markdown="1">
+<section class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+<div class="usa-content usa-width-one-whole" markdown="1">
 
 ### New drug delivery technology for tumor treatment
 
 ![Polymer material]({{ site.baseurl }}/assets/img/showcase/Shasqi%20-%20Hero%20Image.jpg)
-
+</div>
+<div class="usa-content usa-width-one-fourth" markdown="1">
 ![Dr. Jose M. Mejia Oneto]({{ site.baseurl }}/assets/img/showcase/Jose%20-%20Head%20Shot.jpg)
-
+</div>
+<div class="usa-content usa-width-three-fourths" markdown="1">
 Shasqi, a small business funded by the National Science Foundation, is developing a new way to deliver drugs to specific locations within the body to more effectively treat diseases such as cancer. The team, led by physician and chemist Dr. Jose M. Mejia Oneto, has created a targeting system that could enable effective therapy with lower doses of drugs and fewer harmful side effects.  
   
 The system works by first injecting a gel at the treatment site. The gel contains chemicals that combine with and activate an injected, attenuated form of a drug, such as a chemotherapeutic, to trigger its cancer-fighting effect only at the tumor or other targeted tissue. The experimental treatment has been successfully tested against tumors in mice, which experienced tumor shrinkage while maintaining healthier weights than mice receiving traditional chemotherapeutic treatments. [Shasqi](http://www.shasqi.com/#intro) is funded by America’s Seed Fund powered by NSF.
-
+</div>
 
 </div>
 </section>
