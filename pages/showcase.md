@@ -63,11 +63,10 @@ To learn more, visit [biomason.com](http://biomason.com/).
 
 <section class="usa-section showcase-content">
 <div class="usa-content usa-grid">
-<div class="usa-content usa-width-one-whole" markdown="1">
+<div class="usa-content usa-width-one-whole">
 
-### New drug delivery technology for tumor treatment
-
-![Polymer material]({{ site.baseurl }}/assets/img/showcase/Shasqi%20-%20Hero%20Image.jpg)
+ <h3 id="new-drug-delivery-technology-for-tumor-treatment">New drug delivery technology for tumor treatment</h3>
+ <img src="/preview/18f/nsf-sbir/new-showcase/assets/img/showcase/Shasqi%20-%20Hero%20Image.jpg" width="100%" height="auto" alt="Polymer material">
 </div>
 <div class="usa-content usa-width-one-fourth" markdown="1">
 ![Dr. Jose M. Mejia Oneto]({{ site.baseurl }}/assets/img/showcase/Jose%20-%20Head%20Shot.jpg)
