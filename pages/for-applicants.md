@@ -11,7 +11,7 @@ If you’re interested in applying for funding, we encourage you to watch our vi
 {% if site.app_process == "active" %}
 ## Q&A webinars
 
-Thinking of applying for Phase I funding? Ask all your application-related questions during our Q&A webinars. Can’t make it to a webinar? Check out our videos covering [program basics](https://www.youtube.com/watch?v=1Tm_ToVRpqE) and [what you need to know before applying](https://www.youtube.com/watch?v=-0lhmfczIJ8&feature=youtu.be). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2017.pdf), too.)
+Thinking of applying for Phase I funding? Ask all your application-related questions during our [Q&A webinars](https://seedfund.nsf.gov/events/). Can’t make it to a webinar? Check out our videos covering [program basics](https://www.youtube.com/watch?v=1Tm_ToVRpqE) and [what you need to know before applying](https://www.youtube.com/watch?v=-0lhmfczIJ8&feature=youtu.be). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2017.pdf), too.)
 
 {% else %}
 ## Q&A videos
