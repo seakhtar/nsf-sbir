@@ -60,17 +60,23 @@ To learn more, visit [biomason.com](http://biomason.com/).
 </section>
 
 <section class="section-background-image"  style="background-image: url('/preview/18f/nsf-sbir/new-showcase/assets/img/showcase/Shasqi%20-%20Hero%20Image.jpg"); background-position: center; background-attachment: fixed; background-size: cover;">
-  <div class="usa-grid">
+ <div class="usa-grid">
     <div class="usa-width-one-third">
-      <div class="caption">{{ page.section_image_caption | liquify | markdownify }}</div>
+      <div class="caption"><p>The first robotic printer used by <a href="/preview/18f/nsf-sbir/new-showcase/portfolio/details/?company=branch-technology-llc">Branch Technology</a>, an NSF-funded company that has created a new way of 3D printing.</p>
+</div>
     </div>
   </div>
 </section>
 
 <section class="usa-section showcase-content" style="background-color:#9BDAF1;">
 <div class="usa-content usa-grid">
+    
 <div class="usa-content">
- <img src="/preview/18f/nsf-sbir/new-showcase/assets/img/showcase/Shasqi%20-%20Hero%20Image.jpg" width="100%" height="auto" alt="Polymer material"><br><br>
+ <img src="/preview/18f/nsf-sbir/new-showcase/assets/img/showcase/Shasqi%20-%20Hero%20Image.jpg" width="100%" height="auto" alt="Polymer material">
+ <div class="usa-width-one-third">
+      <div class="caption"><p>The first robotic printer used by <a href="/preview/18f/nsf-sbir/new-showcase/portfolio/details/?company=branch-technology-llc">Branch Technology</a>, an NSF-funded company that has created a new way of 3D printing.</p>
+</div>
+    </div>
  <h3 id="new-drug-delivery-technology-for-tumor-treatment">New drug delivery technology for tumor treatment</h3>
 </div>
 
