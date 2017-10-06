@@ -60,6 +60,14 @@ To learn more, visit [biomason.com](http://biomason.com/).
 </section>
 
 
+<section class="section-background-image" style="background-image: url('/preview/18f/nsf-sbir/new-showcase/assets/img/showcase/Shasqi%20-%20Hero%20Image.jpg"); background-position: center; background-attachment: fixed; background-size: cover;">
+<div class="usa-grid">
+    <div class="usa-width-one-third">
+      <div class="caption"><p>From lab to market - <a href="#">Bolt Threads</a> genetically engineered yeast brew silk proteins that can be spun into fibers.</p>
+</div>
+    </div>
+  </div>
+</section>
 
 <section class="usa-section showcase-content" style="background-color:#9BDAF1;">
 <div class="usa-content usa-grid">
