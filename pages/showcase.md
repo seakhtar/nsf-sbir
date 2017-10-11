@@ -64,13 +64,9 @@ To learn more, visit [biomason.com](http://biomason.com/).
 <div class="usa-content usa-grid">
     
 <div class="usa-content">
- <div class="usa-width-one-third">
-      <div class="caption"><p> A polymer material (blue) targets drug activation of doxorubicin (red) to tumors, minimizing toxicity because the drug is shielded while in the blood (green).</p>
-</div>
-
-    </div>
  <img src="/preview/18f/nsf-sbir/new-showcase/assets/img/showcase/Shasqi%20-%20Hero%20Image.jpg" width="100%" height="auto" alt="Polymer material">
- 
+  <div class="caption"><p> A polymer material (blue) targets drug activation of doxorubicin (red) to tumors, minimizing toxicity because the drug is shielded while in the blood (green).</p></div>
+
  <h3 id="new-drug-delivery-technology-for-tumor-treatment">New drug delivery technology for tumor treatment</h3>
 </div>
 
