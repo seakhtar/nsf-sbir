@@ -77,7 +77,7 @@ The system works by first injecting a gel at the treatment site. The gel contain
 </div>
 <div class="usa-content usa-width-one-sixth" markdown="1">
 ![Dr. Jose M. Mejia Oneto]({{ site.baseurl }}/assets/img/showcase/Jose%20-%20Head%20Shot.jpg)
-Jose M. Mejia Oneto, founder and CEO of Shasqi.
+<span style=font-size:1.2rem;">Jose M. Mejia Oneto, founder and CEO of Shasqi.</span>
 </div>
 
 </div>
