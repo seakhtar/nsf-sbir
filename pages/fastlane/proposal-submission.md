@@ -87,7 +87,7 @@ At this point, the Sponsored Research Officer (SRO) has to take the following st
 - Print a copy of the **Proposal Submission Confirmation** screen, if desired
 - Click the **"OK"** button to return to the "Documents in Progress" tab
 
-![Proposal Submission Confirmation screen with proposal number listed]({{ site.baseurl }}/assets/img/fastlane/8_SRO_Confirmation.jpg)
+![Proposal Submission Confirmation screen with proposal number listed]({{ site.baseurl }}/assets/img/fastlane/8_SRO_Confirmation2017.jpg)
 
 _This is the Proposal Number you should reference in all communications with NSF regarding this proposal henceforward._
 
