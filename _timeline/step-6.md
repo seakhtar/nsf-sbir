@@ -7,4 +7,4 @@ inactive_description: Though we're not currently accepting applications, we enco
 
 ### [Start your application in FastLane](https://www.fastlane.nsf.gov/jsp/homepage/proposals.jsp)
 
-Before you start your application, take a look at our [FastLane guide]({{ site.baseurl }}/fastlane/) or [download our FastLane guide]({{ site.baseurl }}/assets/files/applicants/Phase_I_Proposal_Preparation_Booklet.pdf) for detailed steps on how to submit your application and [watch our video on how to apply](https://www.youtube.com/watch?v=-0lhmfczIJ8&feature=youtu.be).
+Before you start your application, take a look at our [FastLane guide]({{ site.baseurl }}/fastlane/) or [download our FastLane guide]({{ site.baseurl }}/assets/files/applicants/Phase_I_Proposal_Preparation_Booklet.pdf) for detailed steps on how to submit your application and [watch our video on how to apply](https://www.youtube.com/watch?v=sCkBRbQxLx0&feature=youtu.be).

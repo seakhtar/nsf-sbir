@@ -73,9 +73,9 @@ Click the **"GO"** button and provide the required information to complete the c
 
 **"Announcement and Consideration Information"**, **"Principal Investigator (PI) Information"** and **"Co-Principal Investigator (Co-PI) Information":** These sections will automatically populate.
 
-![Announcements and Consideration fields]({{ site.baseurl }}/assets/img/fastlane/12a-announcement-and-consideration-information-AND-PI-information.jpg)
+![Announcements and Consideration fields]({{ site.baseurl }}/assets/img/fastlane/12a-announcement-and-consideration-information-AND-PI-information2017.jpg)
 Principal Investigator fields
-![Announcements and Consideration fields 2]({{ site.baseurl }}/assets/img/fastlane/12b-announcement-and-consideration-information-AND-PI-information.jpg)
+![Announcements and Consideration fields 2]({{ site.baseurl }}/assets/img/fastlane/12b-announcement-and-consideration-information-AND-PI-information2017.jpg)
 
 **"Previous NSF Award":** **Do not check the box.**
 
