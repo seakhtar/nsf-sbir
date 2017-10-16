@@ -75,11 +75,11 @@ At this point, the Sponsored Research Officer (SRO) has to take the following st
 
 5a. **"Debarment and Suspension":** click the **radio button for "Yes or No"** if there are any debarments or suspensions of you or of your organization from transactions with federal agencies. (_If you answered Yes, provide an explanation in the text box._)
 
-![Debarment and Suspension radio buttons and text field]({{ site.baseurl }}/assets/img/fastlane/6_SRO_DebarmentSuspension.jpg)
+![Debarment and Suspension radio buttons and text field]({{ site.baseurl }}/assets/img/fastlane/6_SRO_DebarmentSuspension2017.jpg)
 
 5b. **Institution Information:** Check the accuracy of your organization's information, then click **"Sign and Submit".**
 
-![Institution information screen listing details of institution]({{ site.baseurl }}/assets/img/fastlane/7_SRO_InstitutionInformation.jpg)
+![Institution information screen listing details of institution]({{ site.baseurl }}/assets/img/fastlane/7_SRO_InstitutionInformation2017.jpg)
 
 5c. **Proposal Submission Confirmation** screen: Displays a message that the proposal has been successfully submitted to NSF. It also displays the official NSF proposal number which has been assigned.
 
