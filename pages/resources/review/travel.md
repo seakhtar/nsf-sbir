@@ -20,19 +20,15 @@ You will receive an email notification with travel guidelines and instructions. 
 For participants who are not federal government employees and are US citizens or US permanent residents and **reside outside the Washington, DC metropolitan area**, the allowances for flat rate payments are as follows:
 
 - $480 for each meeting day and
-- $280 for each travel day (based on geographic point of origin and confirmed travel dates)/*
+- $280 for each travel day (based on geographic point of origin and confirmed travel dates)*
 
-/* To ensure efficiency of a panel, NSF authorizes payment for one (1) travel day so that you, as the reviewer, can **arrive in the Washington, DC metro area the evening before the panel date. Departure times must be scheduled after 5:00 pm on the final panel day.** Depending on your geographic point of origin and confirmed travel dates, you may request a second travel day. Please send an email with your record locator or confirmation number to the points of contact at the bottom of this page. Our travel staff must confirm your actual dates of travel before approving payment for two travel days.
+* To ensure efficiency of a panel, NSF authorizes payment for one (1) travel day so that you, as the reviewer, can **arrive in the Washington, DC metro area the evening before the panel date. Departure times must be scheduled after 5:00 pm on the final panel day.** Depending on your geographic point of origin and confirmed travel dates, you may request a second travel day. Please send an email with your record locator or confirmation number to the points of contact at the bottom of this page. Our travel staff must confirm your actual dates of travel before approving payment for two travel days.
 
 The flat rate payment covers lodging, meals, parking, local transportation and mileage incurred during the entirety of the trip, and incidental expenses. You do not need to submit receipts to NSF.
 
 ## Compensation for Local Panelists
 
-Participants who are not federal government employees and are US citizens or US permanent residents and **reside in the Washington-Metropolitan area**, which includes
-
-1. Maryland counties of Prince Georges and Montgomery
-2. Virginia counties of Arlington, Loudoun and Fairfax
-3. Cities of Washington, DC,Alexandria, Falls Church, and Fairfax
+Participants who are not federal government employees and are US citizens or US permanent residents and **reside in the Washington-Metropolitan area**, which is defined as within 35 miles of the agency’s headquarters at 2415 Eisenhower Avenue, Alexandria, VA  22314.
 
 The flat rate payment for local panelists is $280 per day. Real Time Conferencing (virtual) participants are eligible to receive $200 per day.
 
