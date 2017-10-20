@@ -63,7 +63,7 @@ class: awardees-layout
   <div class="usa-grid">
     <div class="usa-accordion awardees-details-accordion">
     {% for topic in site.data.tech-topics %}
-      {% assign po_name = topic.programDirector[0].api_name | default: topic.programDirector[0].name %}
+      {% assign po_name = topic.programDirector[0].api_name %}
       {% assign matching_awards = site.data[page.dataset] | uniq | where:'poName', po_name | sort_insensitive:'awardeeName' %}
       {% if matching_awards.size > 0 %}
         <div class="border-bottom">
