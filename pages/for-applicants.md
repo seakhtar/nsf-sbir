@@ -29,4 +29,4 @@ Before you start your application, take a look at our [FastLane guide]({{ site.b
 
 ## FAQ
 
-Have lingering questions? Visit our [FAQ](https://www.nsf.gov/pubs/2017/nsf17071/nsf17071.jsp), which covers the pre-application process to post-award reporting (and everything in between).
+Have lingering questions? Visit our [FAQ](https://www.nsf.gov/pubs/2018/nsf18016/nsf18016.jsp), which covers the pre-application process to post-award reporting (and everything in between).
