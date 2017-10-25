@@ -60,24 +60,25 @@ To learn more, visit [biomason.com](http://biomason.com/).
 </section>
 
 
+<section id="drugDelivery" class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+    
+<div class="usa-content">
+ <img src="/preview/18f/nsf-sbir/new-showcase/assets/img/showcase/Shasqi%20-%20Hero%20Image.jpg" alt="Polymer material">
+  <div class="caption"><p> A polymer material (blue) targets drug activation of doxorubicin (red) to tumors, minimizing toxicity because the drug is shielded while in the blood (green).</p></div>
 
-<section class="usa-section showcase-quote" markdown="1">
-<div class="usa-grid" markdown="1">
-
-### Improving LED brightness and reducing power consumption
-
-<div class="quote-content" markdown="1">
-
-![Rob Nordsell]({{ site.baseurl }}/assets/img/showcase/rob-nordsell.jpg)
-
-> &ldquo;The National Science Foundation was instrumental in getting our company off the ground. We had identified a high-value problem in LEDs that demanded a solution and we identified a unique approach to solving that problem. However, acquiring investor capital for seed stage R&D is very difficult and the investors that do participate in such early financings look to external sources and experts to validate the technology and approach. Our NSF award was, in fact, that source of validation and within two weeks of having received our SBIR Phase I award we closed our Seed round. The NSF is a critical resource for deep-tech startups and we are thankful to have received NSF support throughout Phase I and Phase II.&rdquo;  
->  
-> &ldquo;The company started with two founders doing chemistry in a garage, and today the company employs a total of 10 full-time Ph.D. scientists, including the founders, and four part-time Ph.D. scientists. The company is launching its first product by the end of 2017, and this progress would not have been possible without the support of the NSF.&rdquo;
-
+ <h3 id="new-drug-delivery-technology-for-tumor-treatment">New drug delivery technology for tumor treatment</h3>
 </div>
 
-Rob Nordsell  
-CEO, [Lumenari, Inc.](http://www.lumenariinc.com/)  
+<div class="usa-content usa-width-five-sixths" markdown="1">
+Shasqi, a small business funded by the National Science Foundation, is developing a new way to deliver drugs to specific locations within the body to more effectively treat diseases such as cancer. The team, led by physician and chemist Dr. Jose M. Mejia Oneto, has created a targeting system that could enable effective therapy with lower doses of drugs and fewer harmful side effects.  
+  
+The system works by first injecting a gel at the treatment site. The gel contains chemicals that combine with and activate an injected, attenuated form of a drug, such as a chemotherapeutic, to trigger its cancer-fighting effect only at the tumor or other targeted tissue. The experimental treatment has been successfully tested against tumors in mice, which experienced tumor shrinkage while maintaining healthier weights than mice receiving traditional chemotherapeutic treatments. [Shasqi](http://www.shasqi.com/#intro) is funded by America’s Seed Fund powered by NSF. *Photo credit: Shasqi*
+</div>
+<div class="usa-content usa-width-one-sixth" markdown="1">
+![Dr. Jose M. Mejia Oneto]({{ site.baseurl }}/assets/img/showcase/Jose%20-%20Head%20Shot.jpg)
+Jose M. Mejia Oneto, founder and CEO of Shasqi.
+</div>
 
 </div>
 </section>
@@ -123,3 +124,25 @@ To learn more, visit [kepleybiosystems.com/organobait/](https://kepleybiosystems
 
 </div>
 </section>
+
+<section class="usa-section showcase-quote" markdown="1">
+<div class="usa-grid" markdown="1">
+
+### Improving LED brightness and reducing power consumption
+
+<div class="quote-content" markdown="1">
+
+![Rob Nordsell]({{ site.baseurl }}/assets/img/showcase/rob-nordsell.jpg)
+
+> &ldquo;The National Science Foundation was instrumental in getting our company off the ground. We had identified a high-value problem in LEDs that demanded a solution and we identified a unique approach to solving that problem. However, acquiring investor capital for seed stage R&D is very difficult and the investors that do participate in such early financings look to external sources and experts to validate the technology and approach. Our NSF award was, in fact, that source of validation and within two weeks of having received our SBIR Phase I award we closed our Seed round. The NSF is a critical resource for deep-tech startups and we are thankful to have received NSF support throughout Phase I and Phase II.&rdquo;  
+>  
+> &ldquo;The company started with two founders doing chemistry in a garage, and today the company employs a total of 10 full-time Ph.D. scientists, including the founders, and four part-time Ph.D. scientists. The company is launching its first product by the end of 2017, and this progress would not have been possible without the support of the NSF.&rdquo;
+
+</div>
+
+Rob Nordsell  
+CEO, [Lumenari, Inc.](http://www.lumenariinc.com/)  
+
+</div>
+</section>
+
