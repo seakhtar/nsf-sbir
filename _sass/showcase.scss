@@ -152,5 +152,23 @@
     }
 
   }
+}
 
+.usa-content .usa-width-one-sixth p {
+  max-width:100%;
+}
+.usa-content .usa-width-five-sixths p {
+  max-width:100%;
+}
+
+#drugDelivery {
+  background-color:#9BDAF1;
+}
+#drugDelivery img {
+  width:100%;
+  height:auto;
+}
+#drugDelivery div.caption p {
+  max-width:100%;  
+  font-size:80%;
 }
