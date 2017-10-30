@@ -11,6 +11,7 @@ printFields:
 - fundsObligatedAmt
 - fundProgramName
 - poName
+- ttopic
 - title
 - abstractText
 - startDate
