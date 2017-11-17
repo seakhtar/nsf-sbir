@@ -16,8 +16,8 @@
   <section id="{{ topic.topic | slugify }}" class="usa-section section-tech-topic">
     <h2 class="text-medium header-top-bar tech-topic-title">{{ topic.topic }}</h2>
     <div class="usa-width-one-fourth">
-      <h3 class="subhead">Program director</h3>
       {% for programDirector in topic.programDirector %}
+      <h3 class="subhead">Program director</h3>
         <p>
           {{ programDirector.name }}
         </p>
