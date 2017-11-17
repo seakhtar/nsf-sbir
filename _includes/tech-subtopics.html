@@ -52,7 +52,7 @@
       <div class="tech-subtopics">
         <h4 class="tech-subtopics-header"><a href="{{ topic.permalink | relative_url }}">{{ topic.topic }}:</a></h4>
         <ul>
-          {% for subtopic in topic.subtopics %}
+          {% for subtopic in topic.programDirector.subtopics %}
             <li>
               {{ subtopic }}
             </li>
