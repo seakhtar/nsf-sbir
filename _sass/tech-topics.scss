@@ -44,8 +44,9 @@
   h3 {
     margin-top: $space-xl;
   }
-
-
+  h3.text-medium {
+    margin-top: 0rem;
+  }
 
   .usa-width-one-third {
     padding-right: $space-l + $space-m;
