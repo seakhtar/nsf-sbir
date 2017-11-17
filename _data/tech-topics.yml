@@ -368,10 +368,6 @@
   subtopics:
      -Other Topics (OT): The Other Topics category is intended to be a home for any proposed project that doesn't seem to fit into one of the other Technology Topic Areas, but still seems to meet our goals of supporting research and development of innovative, risky, unproven technology with commercial viability and possible social benefit.
   companies:
-  
-  topic: Distributed Ledger and Blockchain (OT)
-  permalink: /topics/other/
-  topic_code: dlb
   programDirector:
     - name: Anna Brady-Estevez
       last_name: Brady-Estevez
