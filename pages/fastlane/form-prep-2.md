@@ -184,7 +184,7 @@ In most cases, every employee listed in line A or B of the budget should fall un
 - [Architecture and Engineering Occupations (17-0000)](http://www.bls.gov/oes/current/oes_nat.htm#17-0000)
 - [Life, Physical, and Social Science Occupations (19-0000)](http://www.bls.gov/oes/current/oes_nat.htm#19-0000)
 
-Click [here](/files/SBIR_Salary_Validation_Guide.pdf) for detailed salary survey guidance
+Click [here]({{ site.baseurl }}/assets/files/awardees/SBIR_Salary_Validation_Guide.pdf) for detailed salary survey guidance
 
 ### Samples
 

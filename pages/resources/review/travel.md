@@ -9,7 +9,7 @@ sidenav: review
 
 **Please note:** Policies on this page reflect those of the Division of Industrial Innovation and Partnerships, NOT the entire National Science Foundation.
 
-If you are selected and confirmed to serve on a panel for the Division of Industrial Innovation and Partnerships (ENG/IIP), you will be authorized to travel on behalf of NSF, a Federal Government agency. Please be aware NSF is operating in line with Executive Order 13589 and [OMB Memorandum 12-12](http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-12.pdf), which require all Federal agencies to reduce costs for travel and conferences.
+If you are selected and confirmed to serve on a panel for the Division of Industrial Innovation and Partnerships (ENG/IIP), you will be authorized to travel on behalf of NSF, a Federal Government agency. Please be aware NSF is operating in line with Executive Order 13589 and [OMB Memorandum 12-12](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2012/m-12-12.pdf), which require all Federal agencies to reduce costs for travel and conferences.
 
 The Directorate for Engineering REQUIRES all panelists to use the [Panelist Function]({{ site.baseurl }}/resources/review/panelist-system/) component of NSF's FastLane system. We request that you submit your travel information and your banking information via FastLane.
 
