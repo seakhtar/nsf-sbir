@@ -16,7 +16,7 @@ All NSF proposals are evaluated through use of the two National Science Board (N
 
 - **[FastLane Instructions for Panelists]({{ site.baseurl }}/resources/review/panelist-system/)**: How to submit the registration required for every review panel, review assigned proposals, submit reviews, and navigate through the interactive panel system (IPS), which is used during the live panel meeting.
 
-- **[FastLane Instructions for Mail Reviewers]({{ site.baseurl }}/review/peer-mail-review/)**: Step-by-step instructions for using FastLane to review a proposal and submit a "mail review" electronically to NSF.
+- **[FastLane Instructions for Mail Reviewers]({{ site.baseurl }}/resources/review/peer-mail-review/)**: Step-by-step instructions for using FastLane to review a proposal and submit a "mail review" electronically to NSF.
 
 - **[Travel Instructions for Panelists]({{ site.baseurl}}/resources/review/travel/)**: Details on compensation rates, federal employees/non-US citizens/non-permanent residents, travel/hotel reservations and payment information.
 
