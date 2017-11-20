@@ -55,4 +55,4 @@ This structured information is vital —-- please supply it using the HTML ques
 
 If you're interested in seeking Phase II funding, you'll need to submit your Phase II proposal through FastLane during the Phase II proposal submission process, which may occur before or after your Phase I project ends.
 
-One requirement of this process is submitting an updated Technical Narrative (of no more than 15 pages) that follows the same format described above. Please include this narrative as a supplementary document to your Phase II proposal. See the [Phase II proposal preparation instructions page]({{ site.baseurl }}/resources/awardees/phase-1/instructions/) for more details.
+One requirement of this process is submitting an updated Technical Narrative (of no more than 15 pages) that follows the same format described above. Please include this narrative as a supplementary document to your Phase II proposal. See the [Phase II proposal preparation instructions page]({{ site.baseurl }}/resources/awardees/phase-2/instructions/) for more details.
