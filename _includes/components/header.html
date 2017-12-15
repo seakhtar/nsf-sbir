@@ -27,6 +27,7 @@
       {% assign _primary = header.primary.links %}
       {% assign primary_links = site.data.navigation[_primary] | default: _primary %}
       {% if primary_links %}
+      <nav aria-label="primary">
       <ul class="usa-nav-primary usa-accordion">
         {% for _section in primary_links %}
         <li>
@@ -65,6 +66,7 @@
           </form>
         </li>
       </ul>
+      </nav>
       {% endif %}
 
       {% assign _secondary = header.secondary %}
@@ -82,6 +84,7 @@
         </form>
         {% endif %}
         <ul class="usa-unstyled-list usa-nav-secondary-links">
+          <nav aria-label="secondary">
           {% if _secondary.search %}
           <li class="js-search-button-container">
             <button class="usa-header-search-button js-search-button">Search</button>
@@ -94,6 +97,7 @@
           </li>
           {% endfor %}
         </ul>
+          </nav>
       </div>
       {% endif %}
 
