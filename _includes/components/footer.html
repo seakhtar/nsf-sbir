@@ -48,7 +48,7 @@
         {% endif %}
         {% if footer.subfooter %}
           {% assign subfooter_links = site.data.navigation[footer.subfooter] | default: subfooter.links %}
-            <nav class="usa-footer-nav">
+            <nav class="usa-footer-nav" aria-label="footer nav">
               <ul class="usa-unstyled-list flex-list ">
                 {% for _link in subfooter_links %}
                 <li class="usa-footer-primary-content">
