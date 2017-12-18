@@ -140,7 +140,7 @@ The commercialization report section should not exceed 10 pages. The Commerciali
 
 5. Please furnish the revenues received from the commercialization of this SBIR project, include: Sales, Manufacturing, Product Licensing, Royalties, Consulting, Contracts, Other.
 
-    [Revenue Breakdown Table]
+[Revenue Breakdown]
     | | Start of SBIR/STTR Grant | Current |
     |---|---|---|
     | Number of Employees | | |
