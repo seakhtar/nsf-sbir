@@ -18,7 +18,7 @@
     </div>
   </div>
 
-  <nav role="navigation" class="usa-nav">
+  <nav role="navigation" class="usa-nav" aria-label="primary">
     <div class="usa-nav-inner">
       <button class="usa-nav-close">
         <img src="{{ site.baseurl }}/assets/uswds/img/close.svg" alt="close">
@@ -27,7 +27,7 @@
       {% assign _primary = header.primary.links %}
       {% assign primary_links = site.data.navigation[_primary] | default: _primary %}
       {% if primary_links %}
-      <nav aria-label="primary">
+      <nav aria-label="primary links">
       <ul class="usa-nav-primary usa-accordion">
         {% for _section in primary_links %}
         <li>
