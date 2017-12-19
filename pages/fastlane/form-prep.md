@@ -13,7 +13,7 @@ At the top of the **Form Preparation** page will be the text **Forms for Temp Pr
 Click on the **"GO"** button to the left of **"Cover Sheet"**.
 
 Cover sheet selection
-![Cover sheet selection]({{ site.baseurl }}/assets/img/fastlane/6-cover-sheet.jpg)
+![Selecting a cover sheet]({{ site.baseurl }}/assets/img/fastlane/6-cover-sheet.jpg)
 
 The Cover Sheet has been divided into 4 sections. **NOTE: To save your data, be sure to click the "OK" button at the bottom of the screen prior to navigating away from the Cover Sheet. If you receive any error messages when you click "OK", you must clear all errors and re-click "OK" to save the data.** 
 
