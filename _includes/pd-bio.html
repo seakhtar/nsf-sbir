@@ -6,7 +6,7 @@
   <li class="pd-bio-content">
 
     {% if director.photo %}
-    <img src="{{ site.baseurl }}/assets/img/pd/{{ director.photo }}">
+    <img src="{{ site.baseurl }}/assets/img/pd/{{ director.photo }}" alt="{{ director.name }}">
     {% endif %}
     {% if director.bio %}
       <p class="bio">

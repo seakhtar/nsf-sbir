@@ -34,7 +34,7 @@
           {% assign _size = footer_links.size | minus: 1 %}
           {% assign _size = _sizes[_size] | default: 'whole' %}
 
-            <nav class="usa-footer-nav">
+            <nav class="usa-footer-nav" aria-label="footer nav">
               <ul class="usa-unstyled-list flex-list ">
                 {% for _link in footer_links %}
                 <li class="usa-footer-primary-content">
@@ -48,7 +48,7 @@
         {% endif %}
         {% if footer.subfooter %}
           {% assign subfooter_links = site.data.navigation[footer.subfooter] | default: subfooter.links %}
-            <nav class="usa-footer-nav">
+            <nav class="usa-footer-nav" aria-label="subfooter nav">
               <ul class="usa-unstyled-list flex-list ">
                 {% for _link in subfooter_links %}
                 <li class="usa-footer-primary-content">
