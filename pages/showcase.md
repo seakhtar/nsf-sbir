@@ -33,7 +33,7 @@ To learn more, visit [https://www.vocalid.co/](https://www.vocalid.co/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe width="100%" height="300" src="https://www.youtube.com/embed/-2g_0dLyz4s" frameborder="0" allowfullscreen></iframe>
+  <iframe title="Custom Voices Video" width="100%" height="300" src="https://www.youtube.com/embed/-2g_0dLyz4s" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
 </section>

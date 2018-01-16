@@ -58,7 +58,7 @@ Read about Taryn Imamura's experience with Modular Genetics, Inc. and her award 
 
 The red dots on the following map represent Phase II NSF SBIR/STTR awardees. Large green markers indicate companies that are looking for students and/or teacher researchers. That said, some of the companies represented by red dots may also be looking for student or teacher researchers; if you're a student or teacher seeking research opportunities, feel free to reach out to them if you feel they'd be a good fit.
 
-<iframe width="100%" style="max-width:500px;" height="350" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col4%3E%3E0+from+1eR5TPghK5so47xxeR_8vCdZcuhNWNyu1CEqw9MSM&amp;viz=MAP&amp;h=false&amp;lat=41.290255474739304&amp;lng=-98.22279560000004&amp;t=1&amp;z=3&amp;l=col4%3E%3E0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe title="Phase II Awardees Map" width="100%" style="max-width:500px;" height="350" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col4%3E%3E0+from+1eR5TPghK5so47xxeR_8vCdZcuhNWNyu1CEqw9MSM&amp;viz=MAP&amp;h=false&amp;lat=41.290255474739304&amp;lng=-98.22279560000004&amp;t=1&amp;z=3&amp;l=col4%3E%3E0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 - [See this map on its own page.](https://www.google.com/fusiontables/data?docid=1eR5TPghK5so47xxeR_8vCdZcuhNWNyu1CEqw9MSM#map:id=3) 
 - [See a searchable table with the same information.](https://www.google.com/fusiontables/data?docid=1eR5TPghK5so47xxeR_8vCdZcuhNWNyu1CEqw9MSM#rows:id=1)
@@ -73,4 +73,4 @@ If you need help or have questions, contact us at SBIRresearchexp@nsf.gov.
 
 Check out these videos and interviews to get a better sense of America's Seed Fund research opportunities.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/GA1hZLbrcOo" frameborder="0" allowfullscreen></iframe>
+<iframe title="Research Experiences" width="640" height="360" src="https://www.youtube.com/embed/GA1hZLbrcOo" frameborder="0" allowfullscreen></iframe>
