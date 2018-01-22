@@ -1,27 +1,31 @@
 ---
-layout: base
 class: landing-layout
 ---
+<div class="usa-section usa-content section-intro background-light-neutral" style="width:90%; margin:auto;margin-top:20px;">
 
-{% assign hero = page.hero %}
-{% include components/hero.html %}
-
-{% if page.tagline and page.intro %}
-<section class="usa-grid usa-section">
-  <div class="usa-width-one-third">
-    <h2>{{ page.tagline }}</h2>
-  </div>
-  <div class="usa-width-two-thirds">
-    {{ page.intro | markdownify }}
-  </div>
-</section>
-{% endif %}
-
-{% capture _graphics %}
-  {% include graphic-list.html graphics=page.graphics %}
-{% endcapture %}
-{% if page.graphics_position != 'after' %}{{ _graphics }}{% endif %}
-
-    {{ content }}
-
-{% if page.graphics_position == 'after' %}{{ _graphics }}{% endif %}
+ <p>
+  “Due to the lapse in government funding, National Science Foundation websites and business applications, including NSF.gov, FastLane, and Research.gov will be unavailable until further notice. We sincerely regret this inconvenience. Updates regarding government operating status and resumption of normal O&M can be found at www.opm.gov."
+ </p>
+ <p>
+Contracts
+ </p>
+ <p>
+  
+— NSF will notify contractors whether they will be expected to continue work in support of an excepted activity, or will issue an order to suspend or stop work, or take other appropriate action during the lapse in appropriations.
+<br/><br/>
+— New contracts will not be issued during a lapse in appropriations, except those that NSF has identified as supporting excepted activities, and then only to the extent and amount necessary to meet those requirements.
+<br/><br/>
+— Contract personnel may be assigned by NSF to work on excepted activities, provided all requirements governing excepted activities are met. Contractors may perform these excepted services, but only to the minimal extent necessary to address emergency situations, such that the suspension of the function would imminently threaten the safety of human life or the protection of property.
+<br/><br/>
+— Contractors may be authorized by NSF to continue to perform under other contracts for work where sufficient funding was obligated prior to the lapse in appropriations, provided performance does not require the use of closed NSF facilities, is not in support of closed NSF facilities, or where the contractor’s work does not require Government oversight or support which would be funded by a lapsed appropriation (such Government oversight or support includes, but is not limited to quality assurance oversight, technical direction, review of deliverables, or similar actions requiring NSF staff).
+<br/><br/>
+— NSF may notify certain cost reimbursement and Time and Materials contractors of work plans outlining the extent and time duration that operations can continue in the absence of NSF oversight and direction.
+<br/>
+ </p>
+ <p>
+Payments
+ </p>
+ <p>
+· No payments will be made during the lapse in appropriations. An extremely limited exception may be made by NSF in circumstances where the payment is made in support of excepted activities, and failure to make the payment itself would result in an imminent threat to life or property.
+ </p>
+</div> 
