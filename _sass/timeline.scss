@@ -60,7 +60,9 @@ $timeline-right-padding: 5rem;
       font-size: $font-size-xs;
       font-weight: 400;
       line-height: $leading-s;
-      margin-top: $space-s;
+      margin-top: 0;
+      padding: 1.5rem 5.5rem 1.5rem 3rem;
+      background-color: $color-white;
     }
     .flex-list li {
       font-size: $font-size-xxs;
