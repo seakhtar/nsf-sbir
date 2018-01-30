@@ -28,7 +28,11 @@ The flat rate payment covers lodging, meals, parking, local transportation and m
 
 ## Compensation for Local Panelists
 
-Participants who are not federal government employees and are US citizens or US permanent residents and **reside within 35 miles of the National Science Foundation headquarters at 2415 Eisenhower Avenue, Alexandria, VA  22314.**
+Participants who are not federal government employees and are US citizens or US permanent residents and **reside in the Washington-Metropolitan area**, which includes
+
+1. Maryland counties of Prince Georges and Montgomery
+2. Virginia counties of Arlington, Loudoun and Fairfax
+3. Cities of Washington, DC,Alexandria, Falls Church, and Fairfax
 
 The flat rate payment for local panelists is $280 per day. Real Time Conferencing (virtual) participants are eligible to receive $200 per day.
 
