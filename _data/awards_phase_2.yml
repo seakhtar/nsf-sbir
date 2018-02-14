@@ -697,6 +697,7 @@
   piEmail: E.Miller@FDSonics.com
   piFirstName: Erik
   piLastName: Miller
+  ttopic:CT
   piPhone: '4135965900'
   poName: Prakash Balan
   date: 08/19/2013
@@ -2324,8 +2325,8 @@
   piLastName: Dorin
   piMiddeInitial: M
   piPhone: '6072802330'
-  poName: Ruth M. Shuman
-  ttopic: BT
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 08/04/2014
   startDate: 09/01/2014
   expDate: 02/28/2018
@@ -2435,6 +2436,7 @@
   piEmail: wzhang@pegllc.org
   piFirstName: Wei
   piLastName: Zhang
+  ttopic: CT
   piPhone: '5402392438'
   poName: Prakash Balan
   date: 04/07/2014
@@ -2482,8 +2484,8 @@
   piLastName: Later
   piMiddeInitial: W
   piPhone: '8015573557'
-  poName: Ruth M. Shuman
-  ttopic: BT
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 03/26/2014
   startDate: 04/01/2014
   expDate: 10/31/2017
@@ -2536,8 +2538,8 @@
   piLastName: Hedin
   piMiddeInitial: E
   piPhone: '6054848532'
-  poName: Ruth M. Shuman
-  ttopic: BT
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 02/10/2014
   startDate: 03/01/2014
   expDate: 08/31/2019
@@ -4528,8 +4530,8 @@
   piFirstName: Justin
   piLastName: Bzdek
   piPhone: '9707972543'
-  poName: Ruth M. Shuman
-  ttopic: BT
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 02/01/2013
   startDate: 02/01/2013
   expDate: 10/31/2018
@@ -7661,8 +7663,8 @@
   piLastName: Morse
   piMiddeInitial: C
   piPhone: '6504270430'
-  poName: Ruth M. Shuman
-  ttopic: BT
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 01/31/2013
   startDate: 02/01/2013
   expDate: 07/31/2018
