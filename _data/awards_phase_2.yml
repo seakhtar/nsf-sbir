@@ -11414,6 +11414,27 @@
   startDate: 11/01/2011
   expDate: 05/31/2018
   title: 'SBIR Phase II:  Energy Efficient COD Removal and De-nitrification for Re-circulating Aquaculture Facilities with a Combined Bio-electrochemical Process'
+- abstractText: |-
+    This Small Business Innovation Research Phase II project will result in the continuing development of novel ultrafast, highly selective, high permeability ion-exchange fiber composites (IXFCs) for removing perchlorate from drinking water. The proposed material removes perchlorate 10-100 times faster than the best available technology and employs a low-cost production method compatible with widely available manufacturing equipment. Rapid contaminant removal is made possible by the use of micron-scale mass transfer distances; whereas commonly used beads and granular media are limited to much larger sizes resulting in drawbacks such as difficult containment and enormous pressure drops. However, IXFCs display both high permeability and self-containment due to their permanently intertwined, self-supporting structure. Serionix demonstrated the feasibility of this technology in Phase I and will continue in the Phase II with the following key goals: 1) optimization of ultra-high capacity IXFCs for perchlorate removal; 2) design/build IXFC purification cartridges for evaluation by industrial partners; 3) identify and validate chemistries for complimentary IXFCs that are selective for heavy metals such as lead and mercury; and 4) produce IXFCs at a pilot scale and develop strategy for commercial production.<br/><br/>The broader impact/commercial potential of this research is the development and commercialization of a low-cost technology enabling regulatory compliance and improved protection of human health. The first targeted application is perchlorate, which the EPA is set to regulate in drinking water by 2014. This represents only the first commercial opportunity for a platform technology with the ultimate potential to transform the industrial and residential water treatment landscape. Future applications may include ultrahigh efficiency water deionization, softening, and industrial wastewater recycling, personal protective equipment and clothing, and high activity solid acid/base catalysts. Dissemination of data and interpretation will contribute to improved understanding of mass transfer characteristics in fibrous sorbent materials used in both water and air treatment.   
+  awardeeAddress: 60 Hazelwood Dr
+  awardeeCity: Champaign
+  awardeeCountryCode: US
+  awardeeName: Serionix Inc.
+  awardeeStateCode: IL
+  awardeeZipCode: '618207460'
+  fundsObligatedAmt: '1023587'
+  fundProgramName: SBIR PHASE II
+  id: '1256639'
+  piEmail: jlanger@serionix.com
+  piFirstName: James
+  piLastName: Langer
+  piPhone: '6515033930'
+  poName: Anna Brady-Estevez
+  ttopic: CT
+  date: 02/01/2013
+  startDate: 02/01/2013
+  expDate: 02/28/2019
+  title: 'SBIR Phase II:  Ion-Exchange Fiber Composites for Rapid and Selective Removal of Perchlorate from Water'
 
 ---
 
