@@ -11394,7 +11394,9 @@
   expDate: 09/30/2019
   title: 'SBIR Phase II:  Novel Proteolysis-based Tools for Metabolic Engineering'
 - abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project will optimize and pilot test a novel, energy-positive approach to de-nitrification for the global aquaculture industry. Recirculating aquaculture systems suffer from high wastewater treatment costs. Leveraging recent advances in bio-electrochemical systems, Cambrian's de-nitrification technology is capable of simultaneously treating chemical oxygen demand (COD) at end of pipe and nitrates in culture tank water while generating electricity directly. Phase I R&D demonstrated the existence of exo-electrogenic microorganisms in aquaculture wastewater. A flow through reactor consistently treated nitrate to below EPA drinking water concentrations (10mg/L) while removing an average of 65% of end-of-pipe COD and generating over 96 Amps/m3. An economic analysis demonstrated potential operating savings of over 70%, and significant bio-security benefits, versus competing systems. Phase II R&D will focus on optimizing treatment rates and reactor parameters with partner firms, and piloting a scaled reactor at an Aquaculture farm.<br/><br/>The broader impacts of this research are to introduce technologies and strategies that solve water and energy problems for the recirculating aquaculture industry. With the collapse of fisheries globally, the aquaculture industry is poised to fill an important gap in our food production. However, recirculating systems in particular are under pressure to limit environmental harm caused by water intensity and pollution. Bio-electrochemical systems represent a novel approach to turn waste resources into energy, thereby increasing farmer?s bottom line and resolving the tension between economics and sustainability. Future research can broaden applications to other industries.
+    This Small Business Innovation Research (SBIR) Phase II project will optimize and pilot test a novel, energy-positive approach to de-nitrification for the global aquaculture industry. Recirculating aquaculture systems suffer from high wastewater treatment costs. Leveraging recent advances in bio-electrochemical systems, Cambrian's de-nitrification technology is capable of simultaneously treating chemical oxygen demand (COD) at end of pipe and nitrates in culture tank water while generating electricity directly. Phase I R&D demonstrated the existence of exo-electrogenic microorganisms in aquaculture wastewater. A flow through reactor consistently treated nitrate to below EPA drinking water concentrations (10mg/L) while removing an average of 65% of end-of-pipe COD and generating over 96 Amps/m3. An economic analysis demonstrated potential operating savings of over 70%, and significant bio-security benefits, versus competing systems. Phase II R&D will focus on optimizing treatment rates and reactor parameters with partner firms, and piloting a scaled reactor at an Aquaculture farm.
+    
+    The broader impacts of this research are to introduce technologies and strategies that solve water and energy problems for the recirculating aquaculture industry. With the collapse of fisheries globally, the aquaculture industry is poised to fill an important gap in our food production. However, recirculating systems in particular are under pressure to limit environmental harm caused by water intensity and pollution. Bio-electrochemical systems represent a novel approach to turn waste resources into energy, thereby increasing farmer?s bottom line and resolving the tension between economics and sustainability. Future research can broaden applications to other industries. 
   awardeeAddress: 27 Drydock Avenue 2nd Floor 
   awardeeCity: Boston
   awardeeCountryCode: US
@@ -11415,7 +11417,9 @@
   expDate: 05/31/2018
   title: 'SBIR Phase II:  Energy Efficient COD Removal and De-nitrification for Re-circulating Aquaculture Facilities with a Combined Bio-electrochemical Process'
 - abstractText: |-
-    This Small Business Innovation Research Phase II project will result in the continuing development of novel ultrafast, highly selective, high permeability ion-exchange fiber composites (IXFCs) for removing perchlorate from drinking water. The proposed material removes perchlorate 10-100 times faster than the best available technology and employs a low-cost production method compatible with widely available manufacturing equipment. Rapid contaminant removal is made possible by the use of micron-scale mass transfer distances; whereas commonly used beads and granular media are limited to much larger sizes resulting in drawbacks such as difficult containment and enormous pressure drops. However, IXFCs display both high permeability and self-containment due to their permanently intertwined, self-supporting structure. Serionix demonstrated the feasibility of this technology in Phase I and will continue in the Phase II with the following key goals: 1) optimization of ultra-high capacity IXFCs for perchlorate removal; 2) design/build IXFC purification cartridges for evaluation by industrial partners; 3) identify and validate chemistries for complimentary IXFCs that are selective for heavy metals such as lead and mercury; and 4) produce IXFCs at a pilot scale and develop strategy for commercial production.<br/><br/>The broader impact/commercial potential of this research is the development and commercialization of a low-cost technology enabling regulatory compliance and improved protection of human health. The first targeted application is perchlorate, which the EPA is set to regulate in drinking water by 2014. This represents only the first commercial opportunity for a platform technology with the ultimate potential to transform the industrial and residential water treatment landscape. Future applications may include ultrahigh efficiency water deionization, softening, and industrial wastewater recycling, personal protective equipment and clothing, and high activity solid acid/base catalysts. Dissemination of data and interpretation will contribute to improved understanding of mass transfer characteristics in fibrous sorbent materials used in both water and air treatment.   
+    This Small Business Innovation Research Phase II project will result in the continuing development of novel ultrafast, highly selective, high permeability ion-exchange fiber composites (IXFCs) for removing perchlorate from drinking water. The proposed material removes perchlorate 10-100 times faster than the best available technology and employs a low-cost production method compatible with widely available manufacturing equipment. Rapid contaminant removal is made possible by the use of micron-scale mass transfer distances; whereas commonly used beads and granular media are limited to much larger sizes resulting in drawbacks such as difficult containment and enormous pressure drops. However, IXFCs display both high permeability and self-containment due to their permanently intertwined, self-supporting structure. Serionix demonstrated the feasibility of this technology in Phase I and will continue in the Phase II with the following key goals: 1) optimization of ultra-high capacity IXFCs for perchlorate removal; 2) design/build IXFC purification cartridges for evaluation by industrial partners; 3) identify and validate chemistries for complimentary IXFCs that are selective for heavy metals such as lead and mercury; and 4) produce IXFCs at a pilot scale and develop strategy for commercial production.
+    
+    The broader impact/commercial potential of this research is the development and commercialization of a low-cost technology enabling regulatory compliance and improved protection of human health. The first targeted application is perchlorate, which the EPA is set to regulate in drinking water by 2014. This represents only the first commercial opportunity for a platform technology with the ultimate potential to transform the industrial and residential water treatment landscape. Future applications may include ultrahigh efficiency water deionization, softening, and industrial wastewater recycling, personal protective equipment and clothing, and high activity solid acid/base catalysts. Dissemination of data and interpretation will contribute to improved understanding of mass transfer characteristics in fibrous sorbent materials used in both water and air treatment.
   awardeeAddress: 60 Hazelwood Dr
   awardeeCity: Champaign
   awardeeCountryCode: US
@@ -11435,6 +11439,122 @@
   startDate: 02/01/2013
   expDate: 02/28/2019
   title: 'SBIR Phase II:  Ion-Exchange Fiber Composites for Rapid and Selective Removal of Perchlorate from Water'
+- abstractText: |-
+    This Small Business Innovation Research Phase II project will determine the technical feasibility and the commercial value proposition for high temperature, highly processable fiber optic coatings across a range of markets to include fiber lasers, fibers for oil and gas, avionics fiber, and medical fiber. Tetramer will perform research to modify the structure of polymer coatings to provide enhanced performance which will extend the capabilities of current fiber optics. Coatings developed will advance our understanding of structure property relationships and establish new boundaries for the polymer system. During this program, Tetramer will synthesize new monomers and polymers and evaluate their properties for use as fiber coatings. At the end of this program, Tetramer anticipates it will have developed 3 new types of polymers with a set of performance characteristics which are not available from any one single material today. New fiber coatings will be developed which are capable of operating at temperatures above 300 deg C, having greater processability, and for laser applications, having lower refractive indices.
+
+    The broader impact/commercial potential of this project will impact society in many ways due to the various markets in which the coatings can have a meaningful impact on the optical fiber performance. Fiber optic lasers are quickly becoming the preferred method for laser fabrication. By enabling fiber lasers to operate at higher temperatures, fiber lasers will immediately see increased output powers and longer service lifetimes. With applications in industrial metal working (welding, cutting, and engraving/marking), micromachining, and medical devices, doubling power output via improved coatings will have a major impact across many industries. Higher temperature fiber coatings will improve down-hole drilling and the overall efficiency of oil drilling operations through better temperature monitoring in deep wells. This has the potential to lower prices of oil and increase oil production. Additionally, these fibers can aid in geothermal well monitoring which would provide a green source of energy. The coatings under development have the potential to generate increased revenue and profit throughout the value chain through increased performance of products and enhanced market sizes through enhanced capabilities. Tetramer will also use this Phase II program to train undergraduate and graduate level students from nearby Clemson University   
+  awardeeAddress: 657 S Mechanic Street
+  awardeeCity: Pendleton
+  awardeeCountryCode: US
+  awardeeName: TETRAMER TECHNOLOGIES, L.L.C.
+  awardeeStateCode: SC
+  awardeeZipCode: '296701808'
+  fundsObligatedAmt: '1667989'
+  fundProgramName: SBIR PHASE II
+  id: '1330948'
+  piEmail: adam.haldeman@tetramer.com
+  piFirstName: Adam
+  piLastName: Haldeman
+  piPhone: '8646534339'
+  poName: Anna Brady-Estevez
+  ttopic: CT
+  date: 09/15/2013
+  startDate: 09/15/2013
+  expDate: 04/30/2019
+  title: 'SBIR Phase II:  Commercialization of Innovative Low Refractive Index, High Temperature Perfluorocyclobutyl Polymers'
+- abstractText: |-
+    This Small Business Innovation Research Phase II project develops positron emission tomography (PET) imaging products to manage neurodegenerative disorders, cancer, and cardiovascular disease. PET is now a key diagnostic and management tool in oncology, and compounds labeled with [18F]-fluoride provide optimal signal to noise ratios and resolution in medical imaging applications. Ground Fluor Pharmaceuticals (GFP) developed proprietary single-step fluorination technology that allows [18F]-labeled medicines to be prepared efficiently from cyclotron-produced [18F]-fluoride. Under this Phase II research project GFP will apply its new technology to produce the imaging agent 6- [18F]fluoro-L-DOPA (FDOPA), a compound useful in diagnosing Parkinson's disease and in cancer imaging, that is not currently readily available because of the difficulty in its production. GFP will scale-up and manufacture pharmaceutical grade ALPDOPA (GFP's precursor to FDOPA) under pharmaceutical cGMP conditions, and offer this material for research studies and for clinical imaging. GFP will develop an FDA drug master file and will provide technical and regulatory assistance to cyclotron pharmacy customers adopting GFP's technology for commercial production of FDOPA. In addition to helping to bring this valuable imaging agent to market, GFP will assist academic and pharmaceutical research groups in the development of new [18F]- fluorinated imaging products. 
+
+    The broader impact/commercial potential is to expand the scope and utility of PET as medical diagnostic tool, thereby improving treatment and management of serious medical problems. Although [18F]-fluoride possesses, perhaps, the most advantageous properties for imaging, is relatively inexpensive, and is widely available, it is difficult to incorporate into medicines for imaging. GFP has developed a general enabling technology that uses the relatively inexpensive and widely available form of [18F]-fluoride to create new molecular imaging agents to advance personalized medicine. This technology, and the compounds it creates, will provide the physician with new opportunities to diagnose, assess, and more efficiently treat unmet medical needs. The manufacturing technology developed here is a broad platform applicable to the preparation of a wide range of new imaging agents. The commercial potential of PET imaging is significant; the worldwide market for PET is expected to grow to $15 billion by 2015.   
+  awardeeAddress: 2124 Y St. Flat 101
+  awardeeCity: Lincoln
+  awardeeCountryCode: US
+  awardeeName: Ground Fluor Pharmaceuticals, Inc.
+  awardeeStateCode: NE
+  awardeeZipCode: '685032495'
+  fundsObligatedAmt: '1361310'
+  fundProgramName: SBIR PHASE II
+  id: '1353246'
+  piEmail: amgreen@alum.mit.edu
+  piFirstName: Allan
+  piLastName: Green
+  ttopic: CT
+  piPhone: '4028750055'
+  poName: Anna Brady-Estevez
+  date: 04/15/2014
+  startDate: 04/15/2014
+  expDate: 06/30/2019
+  title: 'SBIR Phase II:  PET Radiotracer Synthesis'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research Phase II project includes tremendous commercial potential, societal benefits, and scientific advances. Conventional superabsorbent polymers (SAP) are based on polyacrylates or polyacrylamides derived from petroleum feedstock. They are widely used in the absorbent cores of hygiene products, with disposable diapers representing approximately 85% of the global SAP market of $6B. Increasing consumer and supply chain demand for more natural, sustainable materials and products has driven the development of eco-friendly / natural labeled absorbent hygiene products (AHP). Eco-friendly diaper products currently make up about 3% of the global market and are experiencing strong growth at 10-15% compound annual growth rate (CAGR). This project will lead to the commercialization of a low-cost high-performance biobased SAP, offering significant environmental benefits as a more sustainable, eco-friendly alternative to petrobased SAP. This project could also generate positive economic impacts on domestic agriculture by creating new demand for bio-feedstocks such as waste glycerol. Finally, this project advances the scientific and technological state-of-the-art by developing a new bioprocess based on microbial co-cultures that could be extended to render more efficient, cost-effective routes for producing other biobased fuels and chemicals.
+
+    The objectives of this Phase II research project are to develop a new biological route, based on microbial co-cultures, for cost-effective production of gamma-polyglutamic acid (PGA) and to commercialize cross-linked PGA SAP for AHP applications. In Phase I of this project, a microbial co-culture process was developed for efficient production of PGA via in-situ precursor production (ISPP) from low-cost bio-feedstocks. materials. Building on promising results in Phase I, further R&D will aim to reach pilot-scale production by the end of Phase II. Three specific technical objectives will be pursued: Objective 1: Strain engineering and bioprocess optimization to develop an ISPP fermentation process with commercially viable performance metrics. Objective 2: Optimization of downstream purification, SAP cross-linking, and finishing to produce a high performance finished PGA SAP product. Objective 3: Pilot-scale process demonstration to produce commercial quantities of PGA SAP for large scale customer/partner trials. This R&D plan will lead to transformative technological outcomes. The proposed process based on microbial co-cultures represents a distinct shift from the conventional paradigm of utilizing single-species monocultures for bioprocessing and offers substantial cost-savings. The engineering and process development strategies developed during this project will be transferrable for a broad range of other co-culture bioprocessing applications.   
+  awardeeAddress: 600 South Wagner Road
+  awardeeCity: Ann Arbor
+  awardeeCountryCode: US
+  awardeeName: Ecovia Renewables Inc.
+  awardeeStateCode: MI
+  awardeeZipCode: '481039002'
+  fundsObligatedAmt: '749929'
+  fundProgramName: SBIR PHASE II
+  id: '1660217'
+  piEmail: jeremy.minty@gmail.com
+  piFirstName: Jeremy
+  piLastName: Minty
+  ttopic: CT
+  piPhone: '2489530594'
+  poName: Anna Brady-Estevez
+  date: 03/15/2017
+  startDate: 03/15/2017
+  expDate: 02/28/2019
+  title: 'SBIR Phase II:  Efficient Production of a High Performance and Eco-Friendly Superabsorbent Microbial Biopolymer for Hygiene Applications'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project results from the advancement of a novel water treatment process that reduces membrane fouling and significantly lowers water treatment costs. Membrane filtration is one of the primary water treatment technologies to address the global challenge of water scarcity. However, the membrane industry suffers from low productivity and high operational cost caused by fouling. Over 95% of the water treatment plants in US that employ membrane filtration currently operate at only 30-50% of their design capacity. Our revolutionary pretreatment technology not only mitigates fouling, but also increases system productivity by up to 400% and decreases the required membrane cleaning frequency by a factor of 50, thereby saving water, money and energy. The process can reduce both the capital expense and annual operational cost of water treatment plants by roughly 25%. Our innovation is also applicable to saline water, so it can be used as a pretreatment for desalination, and it can address another major environmental challenge by removing phosphorus from wastewater and thereby reducing the prevalence of blooms of toxic algae.
+
+    This SBIR Phase II project will continue our scale-up and commercialization activities for our pretreatment technology to improve the performance of membranes in water treatment processes with respect to contaminant removal, process productivity, and energy efficiency, compared to existing technologies. The process relies on application of a proprietary particle in a novel reactor and has been demonstrated in our Phase I work. The objectives of the Phase II work are (1) scale-up and construction of larger treatment modules using commercially suitable materials and fabrication processes; (2) testing under more aggressive operational conditions; (3) improving particle production, delivery, and disposal processes; and (4) evaluating the particles' suitability as an economic approach to remove and recover phosphorus from wastewater. The economic analysis will also be updated using data collected in Phase II study. The effort will advance the technical readiness level (TRL) of our process to TRL6, while providing essential data for further development and credibility for marketing. On completion of Phase II, we expect to be prepared for deployment in small-scale commercial systems treating one million gallons per day, and for testing in larger systems.
+  awardeeAddress: 8041 Stroud Ave N
+  awardeeCity: Seattle
+  awardeeCountryCode: US
+  awardeeName: MicroHAOPs, Inc
+  awardeeStateCode: WA
+  awardeeZipCode: '981034530'
+  fundsObligatedAmt: '561117'
+  fundProgramName: SBIR PHASE II
+  id: '1738312'
+  piEmail: avetrovs@gmail.com
+  piFirstName: Alexander
+  piLastName: Vetrovs
+  ttopic: CT
+  piPhone: '4258898031'
+  poName: Anna Brady-Estevez
+  date: 09/15/2017
+  startDate: 09/15/2017
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  Further development of the HAOPs water treatment process for membrane pretreatment and phosphorus recovery from wastewater'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project will be the development and demonstration of a new manufacturing technology for lightweight bio-based plastics.  Plastic produced from plant materials can have lower environmental impact than petroleum-based plastics, but price and performance issues have limited their adoption. In Phase I, Grow Plastics demonstrated the ability to produce lightweight, low cost, thermally stable 100% bio-based packaging products.  In Phase II, Grow Plastics will continue the development of its products while also working to develop a full-scale manufacturing line. The goal of the technology is to replace billions of pounds of petroleum-based plastic with a lower density plastic requiring half as much material, which is made from plants.
+
+    This SBIR Phase II research project proposes to continue the development of a new manufacturing process for layered structures in biomaterials.  Grow Plastics has demonstrated the ability to generate novel, high-performance layered cellular structures in biopolymers in a new manufacturing process using new machinery.  The challenge in Phase II will be to continue the development in materials from Phase I while also scaling the technology to industrial scale.  Materials science and manufacturing techniques will include polymer blending, solid state foaming, and thermal crystallization of polymer blends. Analysis techniques will include tensile testing, differential scanning calorimetry, thermo mechanical analysis, and evaluation of final product properties.   
+  awardeeAddress: 7734 15th Ave NE
+  awardeeCity: Seattle
+  awardeeCountryCode: US
+  awardeeName: Grow Plastics LLC
+  awardeeStateCode: WA
+  awardeeZipCode: '981154336'
+  fundsObligatedAmt: '576856'
+  fundProgramName: SBIR PHASE II
+  id: '1738543'
+  piEmail: mikewagg@gmail.com
+  piFirstName: Michael
+  piLastName: Waggoner
+  ttopic: CT
+  piPhone: '2069544564'
+  poName: Anna Brady-Estevez
+  date: 09/15/2017
+  startDate: 09/15/2017
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  High performance biodegradable sandwich core structures'
+
 
 ---
 
