@@ -11393,7 +11393,27 @@
   startDate: 04/15/2013
   expDate: 09/30/2019
   title: 'SBIR Phase II:  Novel Proteolysis-based Tools for Metabolic Engineering'
-
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project will optimize and pilot test a novel, energy-positive approach to de-nitrification for the global aquaculture industry. Recirculating aquaculture systems suffer from high wastewater treatment costs. Leveraging recent advances in bio-electrochemical systems, Cambrian's de-nitrification technology is capable of simultaneously treating chemical oxygen demand (COD) at end of pipe and nitrates in culture tank water while generating electricity directly. Phase I R&D demonstrated the existence of exo-electrogenic microorganisms in aquaculture wastewater. A flow through reactor consistently treated nitrate to below EPA drinking water concentrations (10mg/L) while removing an average of 65% of end-of-pipe COD and generating over 96 Amps/m3. An economic analysis demonstrated potential operating savings of over 70%, and significant bio-security benefits, versus competing systems. Phase II R&D will focus on optimizing treatment rates and reactor parameters with partner firms, and piloting a scaled reactor at an Aquaculture farm.<br/><br/>The broader impacts of this research are to introduce technologies and strategies that solve water and energy problems for the recirculating aquaculture industry. With the collapse of fisheries globally, the aquaculture industry is poised to fill an important gap in our food production. However, recirculating systems in particular are under pressure to limit environmental harm caused by water intensity and pollution. Bio-electrochemical systems represent a novel approach to turn waste resources into energy, thereby increasing farmer?s bottom line and resolving the tension between economics and sustainability. Future research can broaden applications to other industries.
+  awardeeAddress: 27 Drydock Avenue 2nd Floor 
+  awardeeCity: Boston
+  awardeeCountryCode: US
+  awardeeName: Cambrian Innovation Inc
+  awardeeStateCode: MA
+  awardeeZipCode: '022102347'
+  fundsObligatedAmt: '1207998'
+  fundProgramName: SBIR PHASE II
+  id: '1127435'
+  piEmail: silver@cambrianinnovation.com
+  piFirstName: Matthew
+  piLastName: Silver
+  piPhone: '6173071755'
+  poName: Prakash Balan
+  ttopic: CT
+  date: 11/01/2011
+  startDate: 11/01/2011
+  expDate: 05/31/2018
+  title: ‘SBIR Phase II:  Energy Efficient COD Removal and De-nitrification for Re-circulating Aquaculture Facilities with a Combined Bio-electrochemical Process'
 
 ---
 
