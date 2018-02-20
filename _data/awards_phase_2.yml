@@ -47,6 +47,7 @@
   piLastName: Chiu
   piPhone: '6267576663'
   poName: Henry Ahn
+  ttopic: BM
   date: 04/27/2017
   startDate: 05/01/2017
   expDate: 04/30/2019
@@ -70,6 +71,7 @@
   piLastName: McEwen
   piPhone: '2155968552'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 04/18/2016
   startDate: 05/01/2016
   expDate: 04/30/2018
@@ -120,6 +122,7 @@
   piLastName: Acworth
   piPhone: '6174181928'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 09/21/2012
   startDate: 10/01/2012
   expDate: 03/31/2018
@@ -144,6 +147,7 @@
   piMiddeInitial: M
   piPhone: '4018290024'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -193,7 +197,8 @@
   piFirstName: Jeffrey
   piLastName: Harrison
   piPhone: '6093186610'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 02/11/2016
   startDate: 02/15/2016
   expDate: 07/31/2018
@@ -218,6 +223,7 @@
   piMiddeInitial: M
   piPhone: '3309728821'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 03/03/2015
   startDate: 03/01/2015
   expDate: 08/31/2019
@@ -267,6 +273,7 @@
   piLastName: Chiritescu
   piPhone: '2177512245'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 04/07/2014
   startDate: 04/15/2014
   expDate: 10/31/2018
@@ -289,6 +296,7 @@
   piLastName: Green
   piPhone: '4103713128'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -312,6 +320,7 @@
   piLastName: Adams
   piPhone: '3529897717'
   poName: Richard Schwerdtfeger
+  ttopic: I
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -363,6 +372,7 @@
   piMiddeInitial: J
   piPhone: '3369632563'
   poName: Ben Schrag
+  ttopic: MI
   date: 04/18/2016
   startDate: 05/01/2016
   expDate: 04/30/2018
@@ -386,6 +396,7 @@
   piMiddeInitial: J
   piPhone: '5852601030'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 08/12/2015
   startDate: 08/15/2015
   expDate: 01/31/2018
@@ -436,6 +447,7 @@
   piLastName: Donnelly
   piPhone: '2149267576'
   poName: Peter Atherton
+  ttopic: IT
   date: 03/03/2015
   startDate: 03/01/2015
   expDate: 08/31/2018
@@ -491,6 +503,7 @@
   piMiddeInitial: V
   piPhone: '6122077488'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -514,6 +527,7 @@
   piLastName: mathew
   piPhone: '5127757991'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -560,6 +574,7 @@
   piLastName: Zanghellini
   piPhone: '2064026506'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 02/18/2015
   startDate: 03/01/2015
   expDate: 05/31/2018
@@ -583,6 +598,7 @@
   piLastName: Reddy
   piPhone: '4088584808'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 02/18/2015
   startDate: 03/01/2015
   expDate: 08/31/2018
@@ -634,6 +650,7 @@
   piMiddeInitial: T
   piPhone: '4194811160'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 08/25/2014
   startDate: 09/01/2014
   expDate: 08/31/2017
@@ -659,6 +676,7 @@
   piMiddeInitial: S
   piPhone: '4805401324'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 04/03/2014
   startDate: 04/15/2014
   expDate: 09/30/2017
@@ -679,6 +697,7 @@
   piEmail: E.Miller@FDSonics.com
   piFirstName: Erik
   piLastName: Miller
+  ttopic: CT
   piPhone: '4135965900'
   poName: Prakash Balan
   date: 08/19/2013
@@ -729,6 +748,7 @@
   piLastName: Acworth
   piPhone: '6174181928'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 02/29/2012
   startDate: 03/01/2012
   expDate: 11/30/2017
@@ -752,6 +772,7 @@
   piMiddeInitial: M
   piPhone: '3124933140'
   poName: Henry Ahn
+  ttopic: BM
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -775,6 +796,7 @@
   piLastName: Pietsch
   piPhone: '2059104277'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -797,6 +819,7 @@
   piLastName: Olligschlaeger
   piPhone: '4123375427'
   poName: Peter Atherton
+  ttopic: IT
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -845,6 +868,7 @@
   piMiddeInitial: C
   piPhone: '8604626021'
   poName: Richard Schwerdtfeger
+  ttopic: I
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -893,6 +917,7 @@
   piLastName: Dharmadasa
   piPhone: '5025691038'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 04/03/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -946,6 +971,7 @@
   piMiddeInitial: L
   piPhone: '9167474209'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 03/09/2017
   startDate: 03/01/2017
   expDate: 02/28/2019
@@ -995,6 +1021,7 @@
   piLastName: Samarasekere
   piPhone: '8323391793'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 11/07/2016
   startDate: 11/01/2016
   expDate: 10/31/2018
@@ -1018,7 +1045,8 @@
   piLastName: Jeffries
   piMiddeInitial: W
   piPhone: '6086984470'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 09/20/2016
   startDate: 10/01/2016
   expDate: 09/30/2018
@@ -1040,7 +1068,8 @@
   piFirstName: Zhenjie
   piLastName: He
   piPhone: '6503282228'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 09/14/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -1065,6 +1094,7 @@
   piMiddeInitial: k
   piPhone: '5094323265'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 09/13/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -1089,6 +1119,7 @@
   piMiddeInitial: P
   piPhone: '3342249495'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 09/11/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -1142,6 +1173,7 @@
   piMiddeInitial: J
   piPhone: '5022414114'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/07/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -1196,6 +1228,7 @@
   piLastName: Sonwalkar
   piPhone: '6176421767'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 08/17/2016
   startDate: 09/01/2016
   expDate: 08/31/2018
@@ -1247,6 +1280,7 @@
   piMiddeInitial: B
   piPhone: '4107461696'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 08/05/2016
   startDate: 08/15/2016
   expDate: 07/31/2018
@@ -1269,6 +1303,7 @@
   piLastName: Joshi
   piPhone: '3105718447'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 07/31/2016
   startDate: 08/01/2016
   expDate: 07/31/2018
@@ -1324,6 +1359,7 @@
   piLastName: Brachova
   piPhone: '5152940524'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 04/21/2016
   startDate: 05/01/2016
   expDate: 04/30/2018
@@ -1348,6 +1384,7 @@
   piLastName: Schartman
   piPhone: '6092585631'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 04/15/2016
   startDate: 05/01/2016
   expDate: 04/30/2018
@@ -1371,6 +1408,7 @@
   piMiddeInitial: O
   piPhone: '5109199455'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 04/01/2016
   startDate: 04/15/2016
   expDate: 03/31/2018
@@ -1395,6 +1433,7 @@
   piMiddeInitial: D
   piPhone: '4014390159'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 03/27/2016
   startDate: 04/01/2016
   expDate: 03/31/2018
@@ -1418,6 +1457,7 @@
   piLastName: Patel
   piPhone: '3393680416'
   poName: Peter Atherton
+  ttopic: IT
   date: 03/18/2016
   startDate: 04/01/2016
   expDate: 09/30/2018
@@ -1463,6 +1503,7 @@
   piLastName: Hawes
   piPhone: '8592254521'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 03/18/2016
   startDate: 04/01/2016
   expDate: 09/30/2018
@@ -1515,6 +1556,7 @@
   piLastName: Lebedev
   piPhone: '3109880463'
   poName: Ben Schrag
+  ttopic: MI
   date: 02/29/2016
   startDate: 03/01/2016
   expDate: 02/28/2018
@@ -1539,6 +1581,7 @@
   piMiddeInitial: J
   piPhone: '7013881997'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 02/29/2016
   startDate: 03/01/2016
   expDate: 02/28/2018
@@ -1562,6 +1605,7 @@
   piLastName: Zadorozhny
   piPhone: '9492336821'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 02/29/2016
   startDate: 03/01/2016
   expDate: 02/28/2018
@@ -1585,6 +1629,7 @@
   piLastName: Novak
   piPhone: '5202945600'
   poName: Ben Schrag
+  ttopic: MI
   date: 02/17/2016
   startDate: 03/01/2016
   expDate: 02/28/2018
@@ -1608,6 +1653,7 @@
   piLastName: Cesarano
   piPhone: '5058830555'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 09/17/2015
   startDate: 10/01/2015
   expDate: 09/30/2017
@@ -1655,6 +1701,7 @@
   piLastName: Johnson
   piPhone: '7046999680'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 09/15/2015
   startDate: 09/15/2015
   expDate: 08/31/2017
@@ -1707,7 +1754,8 @@
   piLastName: Olafson
   piMiddeInitial: D
   piPhone: '6268447348'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 09/14/2015
   startDate: 09/15/2015
   expDate: 08/31/2018
@@ -1732,6 +1780,7 @@
   piMiddeInitial: S
   piPhone: '4136957043'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 09/14/2015
   startDate: 09/15/2015
   expDate: 08/31/2017
@@ -1776,6 +1825,7 @@
   piLastName: An
   piPhone: '7654303629'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 08/21/2015
   startDate: 09/01/2015
   expDate: 08/31/2018
@@ -1830,6 +1880,7 @@
   piMiddeInitial: M
   piPhone: '9194103286'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 08/21/2015
   startDate: 09/01/2015
   expDate: 02/28/2018
@@ -1853,6 +1904,7 @@
   piLastName: KSHATRIYA
   piPhone: '6508886512'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 08/21/2015
   startDate: 09/01/2015
   expDate: 08/31/2019
@@ -1904,6 +1956,7 @@
   piLastName: Kero
   piPhone: '9063373355'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 08/12/2015
   startDate: 08/15/2015
   expDate: 01/31/2019
@@ -1950,6 +2003,7 @@
   piLastName: Przybyla
   piPhone: '5417401779'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 04/01/2015
   startDate: 04/01/2015
   expDate: 09/30/2018
@@ -1972,6 +2026,7 @@
   piLastName: Shanmugavelayudam
   piPhone: '4056123928'
   poName: Ben Schrag
+  ttopic: MI
   date: 02/26/2015
   startDate: 03/01/2015
   expDate: 12/31/2017
@@ -1994,6 +2049,7 @@
   piLastName: Dietrich
   piPhone: '2817724475'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 02/18/2015
   startDate: 03/01/2015
   expDate: 08/31/2017
@@ -2017,6 +2073,7 @@
   piLastName: Chandak
   piPhone: '9193603095'
   poName: Peter Atherton
+  ttopic: IT
   date: 02/18/2015
   startDate: 03/01/2015
   expDate: 08/31/2017
@@ -2067,6 +2124,7 @@
   piMiddeInitial: W
   piPhone: '4159487659'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 02/18/2015
   startDate: 03/01/2015
   expDate: 08/31/2017
@@ -2114,6 +2172,7 @@
   piMiddeInitial: H
   piPhone: '2404017443'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 09/03/2014
   startDate: 10/01/2014
   expDate: 03/31/2018
@@ -2163,6 +2222,7 @@
   piFirstName: Mark
   piLastName: Kozubal
   piMiddeInitial: A
+  ttopic: CT
   piPhone: '4065798383'
   poName: Prakash Balan
   date: 09/03/2014
@@ -2218,6 +2278,7 @@
   piLastName: He
   piPhone: '5137289462'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 09/03/2014
   startDate: 10/01/2014
   expDate: 09/30/2017
@@ -2241,6 +2302,7 @@
   piMiddeInitial: J
   piPhone: '7812589963'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 08/04/2014
   startDate: 09/01/2014
   expDate: 08/31/2017
@@ -2264,7 +2326,8 @@
   piLastName: Dorin
   piMiddeInitial: M
   piPhone: '6072802330'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 08/04/2014
   startDate: 09/01/2014
   expDate: 02/28/2018
@@ -2374,6 +2437,7 @@
   piEmail: wzhang@pegllc.org
   piFirstName: Wei
   piLastName: Zhang
+  ttopic: CT
   piPhone: '5402392438'
   poName: Prakash Balan
   date: 04/07/2014
@@ -2398,6 +2462,7 @@
   piLastName: Agrawal
   piPhone: '3035887769'
   poName: Ben Schrag
+  ttopic: MI
   date: 04/01/2014
   startDate: 04/01/2014
   expDate: 08/31/2017
@@ -2420,7 +2485,8 @@
   piLastName: Later
   piMiddeInitial: W
   piPhone: '8015573557'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 03/26/2014
   startDate: 04/01/2014
   expDate: 10/31/2017
@@ -2473,7 +2539,8 @@
   piLastName: Hedin
   piMiddeInitial: E
   piPhone: '6054848532'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 02/10/2014
   startDate: 03/01/2014
   expDate: 08/31/2019
@@ -2518,6 +2585,7 @@
   piLastName: Freudiger
   piPhone: '8574139322'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 08/20/2013
   startDate: 07/01/2013
   expDate: 06/30/2018
@@ -2541,6 +2609,7 @@
   piLastName: Lukic
   piPhone: '3129520937'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 04/09/2013
   startDate: 04/15/2013
   expDate: 08/31/2017
@@ -2564,6 +2633,7 @@
   piLastName: Mejia Oneto
   piPhone: '6123537159'
   poName: Henry Ahn
+  ttopic: BM
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -2614,6 +2684,7 @@
   piLastName: Hussain
   piPhone: '8322877308'
   poName: Henry Ahn
+  ttopic: BM
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -2637,6 +2708,7 @@
   piLastName: Pike
   piPhone: '8584498316'
   poName: Richard Schwerdtfeger
+  ttopic: I
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 09/30/2018
@@ -2659,6 +2731,7 @@
   piLastName: Roussie
   piPhone: '5852140585'
   poName: Henry Ahn
+  ttopic: BM
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -2683,6 +2756,7 @@
   piLastName: Finley
   piPhone: '8315158019'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -2705,6 +2779,7 @@
   piLastName: Borrelli
   piPhone: '5096374936'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 03/28/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -2727,6 +2802,7 @@
   piLastName: Liu
   piPhone: '5106847629'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 03/17/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -2766,6 +2842,7 @@
   piLastName: Haghdoost
   piPhone: '5404499168'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 03/17/2017
   startDate: 03/01/2017
   expDate: 02/28/2019
@@ -2807,7 +2884,8 @@
   piFirstName: Yanzhen
   piLastName: Fan
   piPhone: '5417537173'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 03/09/2017
   startDate: 03/01/2017
   expDate: 02/28/2019
@@ -2831,6 +2909,7 @@
   piLastName: Winter
   piPhone: '2485318117'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 03/09/2017
   startDate: 03/01/2017
   expDate: 02/28/2019
@@ -2877,6 +2956,7 @@
   piMiddeInitial: R
   piPhone: '7742327174'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 02/24/2017
   startDate: 03/01/2017
   expDate: 02/28/2019
@@ -2901,6 +2981,7 @@
   piMiddeInitial: J
   piPhone: '6263532098'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 09/21/2016
   startDate: 10/01/2016
   expDate: 03/31/2019
@@ -2952,6 +3033,7 @@
   piLastName: Kosuda
   piPhone: '8579280327'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/20/2016
   startDate: 10/01/2016
   expDate: 09/30/2018
@@ -2973,7 +3055,8 @@
   piFirstName: Jay
   piLastName: James
   piPhone: '5109150152'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 09/16/2016
   startDate: 10/01/2016
   expDate: 09/30/2018
@@ -2996,6 +3079,7 @@
   piLastName: Dioumaev
   piPhone: '4156737371'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 09/16/2016
   startDate: 10/01/2016
   expDate: 09/30/2018
@@ -3019,6 +3103,7 @@
   piLastName: Foo
   piPhone: '7342721460'
   poName: Richard Schwerdtfeger
+  ttopic: I
   date: 09/11/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -3041,7 +3126,8 @@
   piFirstName: Joseph
   piLastName: Michels
   piPhone: '5083796146'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 09/08/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -3064,6 +3150,7 @@
   piLastName: Kolb
   piPhone: '7819850563'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/07/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -3087,6 +3174,7 @@
   piMiddeInitial: L
   piPhone: '9787354438'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 09/07/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -3111,6 +3199,7 @@
   piMiddeInitial: A
   piPhone: '6077380100'
   poName: Ben Schrag
+  ttopic: MI
   date: 09/06/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -3134,6 +3223,7 @@
   piLastName: Karsch
   piPhone: '3148085136'
   poName: Peter Atherton
+  ttopic: IT
   date: 09/06/2016
   startDate: 09/15/2016
   expDate: 02/28/2019
@@ -3158,6 +3248,7 @@
   piMiddeInitial: U
   piPhone: '6175010085'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 08/22/2016
   startDate: 09/01/2016
   expDate: 08/31/2018
@@ -3181,6 +3272,7 @@
   piMiddeInitial: M
   piPhone: '4146873272'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 08/15/2016
   startDate: 09/01/2016
   expDate: 08/31/2018
@@ -3203,6 +3295,7 @@
   piLastName: Provancher
   piPhone: '5105161494'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 08/15/2016
   startDate: 08/15/2016
   expDate: 07/31/2018
@@ -3227,6 +3320,7 @@
   piMiddeInitial: G
   piPhone: '7344769381'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 08/09/2016
   startDate: 08/15/2016
   expDate: 07/31/2018
@@ -3251,6 +3345,7 @@
   piMiddeInitial: F
   piPhone: '5162200119'
   poName: Peter Atherton
+  ttopic: IT
   date: 04/13/2016
   startDate: 04/15/2016
   expDate: 03/31/2018
@@ -3273,6 +3368,7 @@
   piLastName: Ziegler
   piPhone: '5105994444'
   poName: Ben Schrag
+  ttopic: <I
   date: 04/06/2016
   startDate: 04/15/2016
   expDate: 03/31/2018
@@ -3297,6 +3393,7 @@
   piMiddeInitial: L
   piPhone: '6302006177'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 04/04/2016
   startDate: 04/15/2016
   expDate: 03/31/2018
@@ -3320,6 +3417,7 @@
   piLastName: Zhang
   piPhone: '5186056897'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 04/01/2016
   startDate: 04/01/2016
   expDate: 03/31/2018
@@ -3342,6 +3440,7 @@
   piLastName: Michael
   piPhone: '2678086639'
   poName: Peter Atherton
+  ttopic: IT
   date: 03/18/2016
   startDate: 04/01/2016
   expDate: 09/30/2018
@@ -3389,6 +3488,7 @@
   piLastName: Teipel
   piPhone: '9563714505'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 03/04/2016
   startDate: 03/15/2016
   expDate: 08/31/2018
@@ -3412,6 +3512,7 @@
   piLastName: Xing
   piPhone: '5305742853'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 03/03/2016
   startDate: 03/15/2016
   expDate: 02/28/2018
@@ -3435,7 +3536,8 @@
   piLastName: Dellinger
   piMiddeInitial: L
   piPhone: '7036750277'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 02/29/2016
   startDate: 03/01/2016
   expDate: 08/31/2018
@@ -3458,6 +3560,7 @@
   piLastName: Mascia
   piPhone: '7812810226'
   poName: Henry Ahn
+  ttopic: BM
   date: 02/29/2016
   startDate: 03/01/2016
   expDate: 02/28/2018
@@ -3481,6 +3584,7 @@
   piLastName: Camras
   piPhone: '4023121595'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 02/17/2016
   startDate: 03/01/2016
   expDate: 08/31/2018
@@ -3503,6 +3607,7 @@
   piLastName: Harris
   piPhone: '4342022391'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 02/12/2016
   startDate: 02/15/2016
   expDate: 01/31/2018
@@ -3548,6 +3653,7 @@
   piLastName: Thompson
   piPhone: '5018505659'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 02/01/2016
   startDate: 02/15/2016
   expDate: 01/31/2018
@@ -3570,7 +3676,8 @@
   piFirstName: Michael
   piLastName: Ponting
   piPhone: '2162644818'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 09/13/2015
   startDate: 09/15/2015
   expDate: 02/28/2018
@@ -3624,6 +3731,7 @@
   piMiddeInitial: A
   piPhone: '6082165372'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 09/04/2015
   startDate: 09/15/2015
   expDate: 02/28/2018
@@ -3647,6 +3755,7 @@
   piLastName: Wang
   piPhone: '8143878887'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 08/28/2015
   startDate: 09/01/2015
   expDate: 02/28/2018
@@ -3671,6 +3780,7 @@
   piMiddeInitial: J
   piPhone: '6039120484'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 04/02/2015
   startDate: 04/15/2015
   expDate: 09/30/2017
@@ -3720,6 +3830,7 @@
   piLastName: Atria
   piPhone: '9787128742'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 04/02/2015
   startDate: 04/15/2015
   expDate: 09/30/2018
@@ -3773,6 +3884,7 @@
   piMiddeInitial: R
   piPhone: '8882721995'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 03/27/2015
   startDate: 04/01/2015
   expDate: 03/31/2018
@@ -3798,6 +3910,7 @@
   piLastName: Rosen
   piPhone: '7812675992'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 02/26/2015
   startDate: 03/01/2015
   expDate: 08/31/2017
@@ -3848,6 +3961,7 @@
   piMiddeInitial: M
   piPhone: '9713274055'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 02/18/2015
   startDate: 03/01/2015
   expDate: 08/31/2018
@@ -3901,6 +4015,7 @@
   piLastName: Ravenscroft
   piPhone: '7817400076'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 01/06/2015
   startDate: 01/01/2015
   expDate: 12/31/2017
@@ -3954,6 +4069,7 @@
   piLastName: Callaghan
   piPhone: '9172071344'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 11/25/2014
   startDate: 12/01/2014
   expDate: 03/31/2019
@@ -3977,6 +4093,7 @@
   piLastName: McMackin
   piPhone: '5122438751'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 09/09/2014
   startDate: 10/01/2014
   expDate: 09/30/2017
@@ -4000,6 +4117,7 @@
   piLastName: Isaksen
   piPhone: '6179708202'
   poName: Peter Atherton
+  ttopic: IT
   date: 09/08/2014
   startDate: 10/01/2014
   expDate: 12/31/2017
@@ -4023,6 +4141,7 @@
   piMiddeInitial: W
   piPhone: '5592452771'
   poName: Ben Schrag
+  ttopic: MI
   date: 09/04/2014
   startDate: 10/01/2014
   expDate: 02/28/2018
@@ -4046,6 +4165,7 @@
   piMiddeInitial: R
   piPhone: '5408186188'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 08/28/2014
   startDate: 09/01/2014
   expDate: 09/30/2017
@@ -4070,6 +4190,7 @@
   piMiddeInitial: W
   piPhone: '5024158505'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 07/21/2014
   startDate: 08/01/2014
   expDate: 12/31/2018
@@ -4120,6 +4241,7 @@
   piMiddeInitial: J
   piPhone: '6038210991'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 04/07/2014
   startDate: 04/15/2014
   expDate: 12/31/2017
@@ -4144,6 +4266,7 @@
   piMiddeInitial: M
   piPhone: '6173084324'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 09/23/2013
   startDate: 10/01/2013
   expDate: 08/31/2017
@@ -4200,6 +4323,7 @@
   piMiddeInitial: J
   piPhone: '5188940821'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 09/19/2013
   startDate: 10/01/2013
   expDate: 09/30/2018
@@ -4250,6 +4374,7 @@
   piMiddeInitial: W
   piPhone: '8286128191'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/10/2013
   startDate: 09/15/2013
   expDate: 06/30/2019
@@ -4274,6 +4399,7 @@
   piMiddeInitial: R
   piPhone: '5408186188'
   poName: Peter Atherton
+  ttopic: IT
   date: 09/08/2013
   startDate: 09/15/2013
   expDate: 08/31/2017
@@ -4328,6 +4454,7 @@
   piMiddeInitial: D
   piPhone: '4069220334'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 09/08/2013
   startDate: 09/15/2013
   expDate: 12/31/2018
@@ -4351,6 +4478,7 @@
   piLastName: Ravindra
   piPhone: '2692763461'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 08/19/2013
   startDate: 09/01/2013
   expDate: 09/30/2018
@@ -4403,7 +4531,8 @@
   piFirstName: Justin
   piLastName: Bzdek
   piPhone: '9707972543'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 02/01/2013
   startDate: 02/01/2013
   expDate: 10/31/2018
@@ -4428,6 +4557,7 @@
   piMiddeInitial: G
   piPhone: '6173580979'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -4452,6 +4582,7 @@
   piMiddeInitial: Y
   piPhone: '6315592727'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -4475,6 +4606,7 @@
   piLastName: Hulina
   piPhone: '8142374060'
   poName: Peter Atherton
+  ttopic: IT
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -4497,6 +4629,7 @@
   piLastName: Turano
   piPhone: '4435435580'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -4519,7 +4652,8 @@
   piLastName: Neltner
   piMiddeInitial: T
   piPhone: '6179387735'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 03/28/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -4564,7 +4698,8 @@
   piFirstName: Hui
   piLastName: Yu
   piPhone: '6106359319'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 03/24/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -4605,6 +4740,7 @@
   piLastName: Dean
   piPhone: '9196001004'
   poName: Peter Atherton
+  ttopic: IT
   date: 03/24/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -4628,6 +4764,7 @@
   piLastName: Luxon
   piPhone: '4024170740'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 03/24/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -4651,6 +4788,7 @@
   piLastName: Villegas Vaquero
   piPhone: '7324764599'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 03/24/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -4674,6 +4812,7 @@
   piFirstName: Randy
   piLastName: Kerber
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 03/24/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -4698,6 +4837,7 @@
   piMiddeInitial: C
   piPhone: '9498611786'
   poName: Peter Atherton
+  ttopic: IT
   date: 03/17/2017
   startDate: 03/15/2017
   expDate: 08/31/2018
@@ -4721,6 +4861,7 @@
   piMiddeInitial: C
   piPhone: '7653378990'
   poName: Peter Atherton
+  ttopic: IT
   date: 03/14/2017
   startDate: 03/01/2017
   expDate: 02/28/2019
@@ -4744,6 +4885,7 @@
   piLastName: Guth
   piPhone: '2192328655'
   poName: Peter Atherton
+  ttopic: IT
   date: 03/14/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -4798,6 +4940,7 @@
   piLastName: Krenzke
   piPhone: '4145885135'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 02/24/2017
   startDate: 03/01/2017
   expDate: 02/28/2019
@@ -4847,6 +4990,7 @@
   piLastName: Ward
   piPhone: '4807043592'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 02/24/2017
   startDate: 03/01/2017
   expDate: 02/28/2019
@@ -4870,6 +5014,7 @@
   piLastName: Hendrix
   piPhone: '9178488036'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 02/24/2017
   startDate: 03/01/2017
   expDate: 02/28/2019
@@ -4920,6 +5065,7 @@
   piLastName: Bellemare
   piPhone: '6175025636'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 02/24/2017
   startDate: 03/01/2017
   expDate: 02/28/2019
@@ -4944,6 +5090,7 @@
   piMiddeInitial: A
   piPhone: '9567893723'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 11/01/2016
   startDate: 11/01/2016
   expDate: 10/31/2018
@@ -4992,6 +5139,7 @@
   piLastName: Amponsah
   piPhone: '6072620515'
   poName: Ben Schrag
+  ttopic: MI
   date: 09/20/2016
   startDate: 10/01/2016
   expDate: 09/30/2018
@@ -5016,6 +5164,7 @@
   piMiddeInitial: R
   piPhone: '8592570349'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 09/19/2016
   startDate: 10/01/2016
   expDate: 09/30/2018
@@ -5067,7 +5216,8 @@
   piFirstName: David
   piLastName: Alonso
   piPhone: '6087708735'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 09/14/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -5124,6 +5274,7 @@
   piMiddeInitial: R
   piPhone: '6504305526'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 09/14/2016
   startDate: 10/01/2016
   expDate: 09/30/2017
@@ -5171,6 +5322,7 @@
   piLastName: Pastrana
   piPhone: '7874586932'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/13/2016
   startDate: 09/15/2016
   expDate: 02/28/2019
@@ -5194,7 +5346,8 @@
   piLastName: OZDEMIR
   piMiddeInitial: K
   piPhone: '2818990869'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 09/13/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -5219,6 +5372,7 @@
   piLastName: Lim
   piPhone: '6502886635'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 09/06/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -5242,6 +5396,7 @@
   piLastName: Fathi
   piPhone: '4044026384'
   poName: Peter Atherton
+  ttopic: IT
   date: 09/06/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -5265,6 +5420,7 @@
   piLastName: Malamy
   piPhone: '6502248786'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 09/06/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -5318,6 +5474,7 @@
   piMiddeInitial: L
   piPhone: '7742800525'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 08/29/2016
   startDate: 09/01/2016
   expDate: 08/31/2018
@@ -5341,6 +5498,7 @@
   piLastName: Atanasov
   piPhone: '7016309251'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 08/20/2016
   startDate: 09/01/2016
   expDate: 02/28/2019
@@ -5363,6 +5521,7 @@
   piLastName: Berrondo
   piPhone: '8013616880'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 08/20/2016
   startDate: 09/01/2016
   expDate: 08/31/2018
@@ -5387,6 +5546,7 @@
   piMiddeInitial: W
   piPhone: '6088412400'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 08/20/2016
   startDate: 09/01/2016
   expDate: 08/31/2018
@@ -5433,6 +5593,7 @@
   piLastName: MEDL
   piPhone: '7326656280'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 08/20/2016
   startDate: 09/01/2016
   expDate: 08/31/2018
@@ -5456,6 +5617,7 @@
   piLastName: Agi
   piPhone: '5053382380'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 08/20/2016
   startDate: 09/01/2016
   expDate: 08/31/2018
@@ -5478,6 +5640,7 @@
   piLastName: Haselton
   piPhone: '5305310295'
   poName: Peter Atherton
+  ttopic: IT
   date: 08/18/2016
   startDate: 09/01/2016
   expDate: 08/31/2018
@@ -5501,6 +5664,7 @@
   piLastName: Yamamoto
   piPhone: '8582567154'
   poName: Richard Schwerdtfeger
+  ttopic: I
   date: 08/15/2016
   startDate: 09/01/2016
   expDate: 02/28/2019
@@ -5524,6 +5688,7 @@
   piLastName: Budnik
   piPhone: '4083533824'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 08/15/2016
   startDate: 09/01/2016
   expDate: 08/31/2018
@@ -5547,6 +5712,7 @@
   piLastName: Wang
   piPhone: '9496337183'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 08/15/2016
   startDate: 08/15/2016
   expDate: 07/31/2018
@@ -5590,6 +5756,7 @@
   piLastName: Tayebi
   piPhone: '6502132012'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 08/15/2016
   startDate: 08/15/2016
   expDate: 07/31/2018
@@ -5614,6 +5781,7 @@
   piMiddeInitial: J
   piPhone: '4152692956'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 08/09/2016
   startDate: 08/15/2016
   expDate: 07/31/2018
@@ -5640,6 +5808,7 @@
   piLastName: Petit
   piPhone: '2623478404'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 04/25/2016
   startDate: 05/01/2016
   expDate: 04/30/2018
@@ -5662,7 +5831,8 @@
   piLastName: Pettman
   piMiddeInitial: B
   piPhone: '6173311130'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 04/20/2016
   startDate: 05/01/2016
   expDate: 04/30/2018
@@ -5709,6 +5879,7 @@
   piLastName: Tran
   piPhone: '8583546617'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 04/13/2016
   startDate: 05/01/2016
   expDate: 04/30/2018
@@ -5761,7 +5932,8 @@
   piFirstName: Kathy
   piLastName: Ayers
   piPhone: '2036782190'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 04/01/2016
   startDate: 04/01/2016
   expDate: 03/31/2018
@@ -5788,6 +5960,7 @@
   piMiddeInitial: S
   piPhone: '9012290314'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 03/27/2016
   startDate: 04/01/2016
   expDate: 03/31/2018
@@ -5837,6 +6010,7 @@
   piMiddeInitial: A
   piPhone: '7344300979'
   poName: Peter Atherton
+  ttopic: IT
   date: 03/18/2016
   startDate: 04/01/2016
   expDate: 03/31/2018
@@ -5861,6 +6035,7 @@
   piMiddeInitial: K
   piPhone: '6144990120'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 03/14/2016
   startDate: 03/15/2016
   expDate: 02/28/2018
@@ -5906,6 +6081,7 @@
   piLastName: Patel
   piPhone: '9492664083'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 02/18/2016
   startDate: 03/01/2016
   expDate: 02/28/2018
@@ -5930,6 +6106,7 @@
   piLastName: Ye
   piPhone: '8034078648'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 02/17/2016
   startDate: 03/01/2016
   expDate: 02/28/2018
@@ -5952,7 +6129,8 @@
   piFirstName: Volha
   piLastName: Hrechka
   piPhone: '2066012191'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 02/12/2016
   startDate: 02/15/2016
   expDate: 07/31/2018
@@ -6006,6 +6184,7 @@
   piLastName: MacCalla
   piPhone: '6789529976'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 02/12/2016
   startDate: 02/15/2016
   expDate: 01/31/2018
@@ -6055,6 +6234,7 @@
   piMiddeInitial: M
   piPhone: '3108282307'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 02/11/2016
   startDate: 02/15/2016
   expDate: 01/31/2018
@@ -6078,6 +6258,7 @@
   piMiddeInitial: J
   piPhone: '8052849404'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 02/02/2016
   startDate: 02/01/2016
   expDate: 01/31/2018
@@ -6100,6 +6281,7 @@
   piLastName: Krishnan
   piPhone: '6503536724'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 02/02/2016
   startDate: 02/01/2016
   expDate: 01/31/2018
@@ -6149,6 +6331,7 @@
   piMiddeInitial: B
   piPhone: '7047562981'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 02/01/2016
   startDate: 02/01/2016
   expDate: 07/31/2018
@@ -6172,6 +6355,7 @@
   piLastName: Sundaram
   piPhone: '7653378042'
   poName: Peter Atherton
+  ttopic: IT
   date: 09/14/2015
   startDate: 09/15/2015
   expDate: 08/31/2017
@@ -6196,6 +6380,7 @@
   piMiddeInitial: R
   piPhone: '6178558214'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/13/2015
   startDate: 09/15/2015
   expDate: 02/28/2018
@@ -6220,6 +6405,7 @@
   piMiddeInitial: P
   piPhone: '8649215146'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 09/11/2015
   startDate: 09/15/2015
   expDate: 11/30/2017
@@ -6244,6 +6430,7 @@
   piMiddeInitial: G
   piPhone: '3603766124'
   poName: Peter Atherton
+  ttopic: IT
   date: 09/11/2015
   startDate: 09/15/2015
   expDate: 02/28/2018
@@ -6267,6 +6454,7 @@
   piMiddeInitial: G
   piPhone: '2403867097'
   poName: Peter Atherton
+  ttopic: IT
   date: 09/11/2015
   startDate: 09/15/2015
   expDate: 08/31/2017
@@ -6304,7 +6492,8 @@
   piLastName: Sayler
   piMiddeInitial: M
   piPhone: '2056570714'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 09/02/2015
   startDate: 09/15/2015
   expDate: 02/28/2018
@@ -6357,6 +6546,7 @@
   piMiddeInitial: P
   piPhone: '3014056957'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 09/02/2015
   startDate: 09/15/2015
   expDate: 08/31/2017
@@ -6381,6 +6571,7 @@
   piMiddeInitial: B
   piPhone: '4694262485'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 08/28/2015
   startDate: 09/01/2015
   expDate: 02/28/2018
@@ -6432,6 +6623,7 @@
   piLastName: Canavesi
   piPhone: '5853609339'
   poName: Ben Schrag
+  ttopic: MI
   date: 08/21/2015
   startDate: 09/01/2015
   expDate: 10/31/2017
@@ -6455,6 +6647,7 @@
   piLastName: Goyal
   piPhone: '8575406670'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 08/21/2015
   startDate: 09/01/2015
   expDate: 02/28/2018
@@ -6506,6 +6699,7 @@
   piLastName: Bakshi
   piPhone: '5105414434'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 08/21/2015
   startDate: 09/01/2015
   expDate: 02/28/2018
@@ -6530,6 +6724,7 @@
   piMiddeInitial: K
   piPhone: '5202396653'
   poName: Peter Atherton
+  ttopic: IT
   date: 08/12/2015
   startDate: 08/15/2015
   expDate: 10/31/2017
@@ -6581,6 +6776,7 @@
   piLastName: Mullen
   piPhone: '4259225119'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 08/12/2015
   startDate: 08/15/2015
   expDate: 09/30/2017
@@ -6603,7 +6799,8 @@
   piFirstName: Jonathan
   piLastName: Melman
   piPhone: '7328416654'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 07/29/2015
   startDate: 08/01/2015
   expDate: 11/30/2017
@@ -6628,6 +6825,7 @@
   piLastName: Yu
   piPhone: '6145989082'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 05/20/2015
   startDate: 06/01/2015
   expDate: 04/30/2018
@@ -6651,6 +6849,7 @@
   piLastName: Coe
   piPhone: '5133176032'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 04/02/2015
   startDate: 04/15/2015
   expDate: 02/28/2018
@@ -6675,6 +6874,7 @@
   piLastName: Shandler
   piPhone: '2156891042'
   poName: Henry Ahn
+  ttopic: BM
   date: 04/02/2015
   startDate: 04/15/2015
   expDate: 09/30/2017
@@ -6722,7 +6922,8 @@
   piLastName: Corgie
   piMiddeInitial: C
   piPhone: '6073512639'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 03/02/2015
   startDate: 03/01/2015
   expDate: 08/31/2018
@@ -6763,6 +6964,7 @@
   piLastName: Jaiswal
   piPhone: '8585312432'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 02/18/2015
   startDate: 03/01/2015
   expDate: 08/31/2018
@@ -6819,6 +7021,7 @@
   piLastName: Bergo
   piPhone: '6179356019'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 02/18/2015
   startDate: 03/01/2015
   expDate: 08/31/2017
@@ -6842,6 +7045,7 @@
   piLastName: Gallant
   piPhone: '6176424959'
   poName: Peter Atherton
+  ttopic: IT
   date: 02/18/2015
   startDate: 03/01/2015
   expDate: 08/31/2017
@@ -6865,6 +7069,7 @@
   piLastName: Macdonald
   piPhone: '5628816919'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 11/26/2014
   startDate: 12/01/2014
   expDate: 11/30/2018
@@ -6889,6 +7094,7 @@
   piMiddeInitial: C
   piPhone: '9704916505'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 11/25/2014
   startDate: 12/01/2014
   expDate: 11/30/2017
@@ -6934,6 +7140,7 @@
   piMiddeInitial: N
   piPhone: '8065434788'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 11/10/2014
   startDate: 11/15/2014
   expDate: 12/31/2017
@@ -6956,6 +7163,7 @@
   piLastName: Hunt
   piPhone: '9728416126'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 11/10/2014
   startDate: 11/15/2014
   expDate: 06/30/2018
@@ -7011,6 +7219,7 @@
   piMiddeInitial: M
   piPhone: '7325998580'
   poName: Henry Ahn
+  ttopic: BM
   date: 11/10/2014
   startDate: 11/15/2014
   expDate: 04/30/2018
@@ -7061,6 +7270,7 @@
   piLastName: Ladabaum
   piPhone: '6504831035'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 11/10/2014
   startDate: 11/15/2014
   expDate: 10/31/2017
@@ -7112,6 +7322,7 @@
   piLastName: Khurshid
   piPhone: '8473232968'
   poName: Peter Atherton
+  ttopic: IT
   date: 09/11/2014
   startDate: 10/01/2014
   expDate: 08/31/2018
@@ -7135,6 +7346,7 @@
   piMiddeInitial: F
   piPhone: '3303078025'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 09/11/2014
   startDate: 10/01/2014
   expDate: 11/30/2017
@@ -7158,6 +7370,7 @@
   piLastName: Park
   piPhone: '3237845616'
   poName: Peter Atherton
+  ttopic: IT
   date: 09/05/2014
   startDate: 10/01/2014
   expDate: 03/31/2018
@@ -7181,6 +7394,7 @@
   piMiddeInitial: E
   piPhone: '3014558108'
   poName: Peter Atherton
+  ttopic: IT
   date: 09/04/2014
   startDate: 10/01/2014
   expDate: 04/30/2018
@@ -7204,6 +7418,7 @@
   piLastName: Ebrahimi
   piPhone: '3109937910'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 09/04/2014
   startDate: 10/01/2014
   expDate: 12/31/2017
@@ -7227,6 +7442,7 @@
   piMiddeInitial: J
   piPhone: '6503875932'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 09/04/2014
   startDate: 10/01/2014
   expDate: 05/31/2019
@@ -7250,6 +7466,7 @@
   piMiddeInitial: J
   piPhone: '2144183347'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 09/03/2014
   startDate: 10/01/2014
   expDate: 12/31/2017
@@ -7273,6 +7490,7 @@
   piMiddeInitial: F
   piPhone: '5126403295'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 08/28/2014
   startDate: 09/01/2014
   expDate: 12/31/2017
@@ -7296,6 +7514,7 @@
   piLastName: Mazzucco
   piPhone: '2152712811'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 08/06/2014
   startDate: 09/01/2014
   expDate: 02/28/2018
@@ -7348,6 +7567,7 @@
   piLastName: Kotha
   piPhone: '5416023435'
   poName: Peter Atherton
+  ttopic: IT
   date: 08/04/2014
   startDate: 09/01/2014
   expDate: 02/28/2018
@@ -7397,6 +7617,7 @@
   piMiddeInitial: C
   piPhone: '6174167080'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 08/04/2014
   startDate: 09/01/2014
   expDate: 05/31/2018
@@ -7419,6 +7640,7 @@
   piLastName: Hubert
   piPhone: '5122461988'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 04/04/2013
   startDate: 04/15/2013
   expDate: 09/30/2017
@@ -7442,7 +7664,8 @@
   piLastName: Morse
   piMiddeInitial: C
   piPhone: '6504270430'
-  poName: Ruth M. Shuman
+  poName: Anna Brady-Estevez
+  ttopic: CT
   date: 01/31/2013
   startDate: 02/01/2013
   expDate: 07/31/2018
@@ -7482,6 +7705,7 @@
   piMiddeInitial: C
   piPhone: '6145998493'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 01/18/2013
   startDate: 02/01/2013
   expDate: 01/31/2018
@@ -7531,6 +7755,7 @@
   piMiddeInitial: W
   piPhone: '2063840311'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 05/19/2017
   startDate: 05/15/2017
   expDate: 04/30/2019
@@ -7554,6 +7779,7 @@
   piLastName: Elhawary
   piPhone: '6174808200'
   poName: Richard Schwerdtfeger
+  ttopic: I
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -7604,6 +7830,7 @@
   piMiddeInitial: T
   piPhone: '6083341262'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 04/06/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -7656,6 +7883,7 @@
   piLastName: Carder
   piPhone: '6308653177'
   poName: Richard Schwerdtfeger
+  ttopic: SP
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -7709,6 +7937,7 @@
   piMiddeInitial: D
   piPhone: '4152569900'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -7733,6 +7962,7 @@
   piMiddeInitial: K
   piPhone: '9195379753'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 04/04/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -7757,6 +7987,7 @@
   piMiddeInitial: A
   piPhone: '5854666046'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 03/30/2017
   startDate: 04/01/2017
   expDate: 03/31/2019
@@ -7780,6 +8011,7 @@
   piLastName: Khan
   piPhone: '4123271114'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 03/24/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -7804,6 +8036,7 @@
   piLastName: Klein
   piPhone: '3035321198'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 03/17/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -7827,6 +8060,7 @@
   piLastName: Zimber
   piPhone: '8582009520'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 03/17/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -7850,6 +8084,7 @@
   piLastName: Gou
   piPhone: '6824788897'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 03/17/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -7872,6 +8107,7 @@
   piLastName: Nulwala
   piPhone: '8054517947'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 03/14/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -7923,6 +8159,7 @@
   piMiddeInitial: H
   piPhone: '8773600155'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 03/14/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -7945,6 +8182,7 @@
   piLastName: Rockweiler
   piPhone: '3142393059'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 03/09/2017
   startDate: 03/01/2017
   expDate: 02/28/2019
@@ -7969,6 +8207,7 @@
   piMiddeInitial: K
   piPhone: '3013953892'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 02/24/2017
   startDate: 03/01/2017
   expDate: 02/28/2019
@@ -7992,6 +8231,7 @@
   piLastName: Tuncdemir
   piPhone: '5703201777'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 09/22/2016
   startDate: 10/01/2016
   expDate: 09/30/2018
@@ -8015,6 +8255,7 @@
   piLastName: Benton
   piPhone: '3525144094'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/19/2016
   startDate: 10/01/2016
   expDate: 09/30/2018
@@ -8038,6 +8279,7 @@
   piMiddeInitial: J
   piPhone: '9062312011'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/09/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -8091,6 +8333,7 @@
   piMiddeInitial: L
   piPhone: '9196779799'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 09/07/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -8115,6 +8358,7 @@
   piMiddeInitial: K
   piPhone: '9045684759'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/06/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -8138,6 +8382,7 @@
   piLastName: Kang
   piPhone: '4437972584'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/06/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -8161,6 +8406,7 @@
   piLastName: Korfhagen
   piPhone: '5137020376'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/06/2016
   startDate: 09/15/2016
   expDate: 08/31/2018
@@ -8209,6 +8455,7 @@
   piMiddeInitial: J
   piPhone: '2255903553'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 08/29/2016
   startDate: 09/01/2016
   expDate: 08/31/2018
@@ -8233,6 +8480,7 @@
   piMiddeInitial: D
   piPhone: '6173917915'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 08/20/2016
   startDate: 09/01/2016
   expDate: 02/28/2019
@@ -8286,6 +8534,7 @@
   piLastName: Steingrimsson
   piPhone: '7634396905'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 08/20/2016
   startDate: 09/01/2016
   expDate: 08/31/2018
@@ -8309,6 +8558,7 @@
   piMiddeInitial: E
   piPhone: '3158577693'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 08/18/2016
   startDate: 09/01/2016
   expDate: 08/31/2018
@@ -8332,6 +8582,7 @@
   piLastName: Pagar
   piPhone: '6468953027'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 08/05/2016
   startDate: 08/15/2016
   expDate: 07/31/2018
@@ -8354,6 +8605,7 @@
   piLastName: Pondicherry
   piPhone: '7327051198'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 08/03/2016
   startDate: 08/01/2016
   expDate: 07/31/2018
@@ -8377,6 +8629,7 @@
   piMiddeInitial: T
   piPhone: '6096059273'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 08/03/2016
   startDate: 08/01/2016
   expDate: 07/31/2018
@@ -8423,6 +8676,7 @@
   piMiddeInitial: C
   piPhone: '6088526879'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 08/03/2016
   startDate: 08/01/2016
   expDate: 07/31/2018
@@ -8475,6 +8729,7 @@
   piMiddeInitial: H
   piPhone: '5108212610'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 07/31/2016
   startDate: 08/01/2016
   expDate: 07/31/2018
@@ -8497,6 +8752,7 @@
   piLastName: Wettels
   piPhone: '2134770710'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 04/21/2016
   startDate: 05/01/2016
   expDate: 10/31/2018
@@ -8551,6 +8807,7 @@
   piLastName: Ryden
   piPhone: '2067249160'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 04/14/2016
   startDate: 04/15/2016
   expDate: 03/31/2018
@@ -8600,6 +8857,7 @@
   piLastName: Riedl
   piPhone: '2178191322'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 04/13/2016
   startDate: 04/15/2016
   expDate: 03/31/2018
@@ -8622,6 +8880,7 @@
   piLastName: Sciambi
   piPhone: '6507143859'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 04/13/2016
   startDate: 05/01/2016
   expDate: 04/30/2018
@@ -8665,6 +8924,7 @@
   piMiddeInitial: B
   piPhone: '7204700812'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 04/07/2016
   startDate: 04/15/2016
   expDate: 03/31/2018
@@ -8712,6 +8972,7 @@
   piLastName: Wang
   piPhone: '3025336533'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 04/04/2016
   startDate: 04/15/2016
   expDate: 03/31/2018
@@ -8765,6 +9026,7 @@
   piLastName: Pekarskaya
   piPhone: '2038239032'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 04/01/2016
   startDate: 04/01/2016
   expDate: 03/31/2018
@@ -8812,6 +9074,7 @@
   piLastName: Villanueva
   piPhone: '4802541536'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 03/27/2016
   startDate: 04/01/2016
   expDate: 03/31/2018
@@ -8834,6 +9097,7 @@
   piLastName: Beckett
   piPhone: '7819323959'
   poName: Henry Ahn
+  ttopic: BM
   date: 03/04/2016
   startDate: 03/15/2016
   expDate: 08/31/2017
@@ -8857,6 +9121,7 @@
   piLastName: Feng
   piPhone: '4342841073'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 03/03/2016
   startDate: 03/15/2016
   expDate: 02/28/2018
@@ -8910,6 +9175,7 @@
   piLastName: Havel
   piPhone: '3176705681'
   poName: Henry Ahn
+  ttopic: BM
   date: 02/29/2016
   startDate: 03/01/2016
   expDate: 02/28/2018
@@ -8933,6 +9199,7 @@
   piLastName: Hamilton
   piPhone: '2084096345'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 02/29/2016
   startDate: 03/01/2016
   expDate: 02/28/2018
@@ -8977,6 +9244,7 @@
   piLastName: Stripe
   piPhone: '9259471469'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 02/08/2016
   startDate: 02/15/2016
   expDate: 01/31/2018
@@ -9001,6 +9269,7 @@
   piMiddeInitial: J
   piPhone: '8584121839'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 02/08/2016
   startDate: 02/15/2016
   expDate: 01/31/2018
@@ -9025,6 +9294,7 @@
   piMiddeInitial: R
   piPhone: '5132389778'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 11/05/2015
   startDate: 11/15/2015
   expDate: 10/31/2017
@@ -9048,6 +9318,7 @@
   piLastName: Karchin
   piPhone: '2064272705'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/23/2015
   startDate: 10/01/2015
   expDate: 03/31/2018
@@ -9071,6 +9342,7 @@
   piLastName: Hanzal
   piPhone: '6124818723'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 09/14/2015
   startDate: 09/15/2015
   expDate: 08/31/2018
@@ -9112,6 +9384,7 @@
   piLastName: Ghodousi
   piPhone: '4805443192'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 09/14/2015
   startDate: 09/15/2015
   expDate: 08/31/2017
@@ -9149,6 +9422,7 @@
   piLastName: Agrawal
   piPhone: '3035887769'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 09/14/2015
   startDate: 09/15/2015
   expDate: 03/31/2018
@@ -9173,6 +9447,7 @@
   piMiddeInitial: D
   piPhone: '4144698508'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 09/13/2015
   startDate: 09/15/2015
   expDate: 02/28/2018
@@ -9209,6 +9484,7 @@
   piLastName: Muren
   piPhone: '3033302712'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 09/13/2015
   startDate: 09/15/2015
   expDate: 11/30/2017
@@ -9261,6 +9537,7 @@
   piMiddeInitial: A
   piPhone: '2074062669'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/13/2015
   startDate: 09/15/2015
   expDate: 08/31/2017
@@ -9303,6 +9580,7 @@
   piLastName: Isenstein
   piPhone: '3018073780'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/11/2015
   startDate: 09/15/2015
   expDate: 08/31/2018
@@ -9352,6 +9630,7 @@
   piLastName: McCaffrey
   piPhone: '5083402655'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 09/11/2015
   startDate: 09/15/2015
   expDate: 02/28/2018
@@ -9375,6 +9654,7 @@
   piMiddeInitial: C
   piPhone: '9194281639'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/11/2015
   startDate: 09/15/2015
   expDate: 02/28/2018
@@ -9397,6 +9677,7 @@
   piLastName: Fishel
   piPhone: '2139442283'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 09/11/2015
   startDate: 09/15/2015
   expDate: 08/31/2017
@@ -9447,6 +9728,7 @@
   piLastName: Roe
   piPhone: '9258951584'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/11/2015
   startDate: 09/15/2015
   expDate: 02/28/2018
@@ -9471,6 +9753,7 @@
   piMiddeInitial: J
   piPhone: '6107378571'
   poName: Rajesh Mehta
+  ttopic: MN
   date: 09/10/2015
   startDate: 01/01/2016
   expDate: 06/30/2018
@@ -9494,6 +9777,7 @@
   piLastName: Reed
   piPhone: '6082286261'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 09/02/2015
   startDate: 09/15/2015
   expDate: 02/28/2018
@@ -9543,6 +9827,7 @@
   piMiddeInitial: H
   piPhone: '8029998375'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 09/02/2015
   startDate: 09/15/2015
   expDate: 08/31/2017
@@ -9567,6 +9852,7 @@
   piMiddeInitial: W
   piPhone: '3306738784'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 09/02/2015
   startDate: 09/15/2015
   expDate: 08/31/2017
@@ -9590,6 +9876,7 @@
   piMiddeInitial: J
   piPhone: '5133781668'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 08/21/2015
   startDate: 09/01/2015
   expDate: 02/28/2018
@@ -9613,6 +9900,7 @@
   piMiddeInitial: M
   piPhone: '3369085884'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 08/21/2015
   startDate: 09/01/2015
   expDate: 08/31/2017
@@ -9662,6 +9950,7 @@
   piLastName: Pillai
   piPhone: '9258907149'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 04/06/2015
   startDate: 04/15/2015
   expDate: 09/30/2017
@@ -9711,6 +10000,7 @@
   piLastName: Dillingham
   piPhone: '5134691800'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 04/02/2015
   startDate: 04/15/2015
   expDate: 02/28/2018
@@ -9754,6 +10044,7 @@
   piLastName: Gholami
   piPhone: '3477741617'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 04/01/2015
   startDate: 04/01/2015
   expDate: 03/31/2018
@@ -9777,6 +10068,7 @@
   piLastName: Rudenko
   piPhone: '5093393737'
   poName: Debasis Majumdar
+  ttopic: MI
   date: 04/01/2015
   startDate: 04/01/2015
   expDate: 09/30/2017
@@ -9801,6 +10093,7 @@
   piMiddeInitial: A
   piPhone: '6083453530'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 04/01/2015
   startDate: 04/01/2015
   expDate: 09/30/2017
@@ -9848,6 +10141,7 @@
   piLastName: Gao
   piPhone: '8583812488'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 04/01/2015
   startDate: 04/01/2015
   expDate: 12/31/2017
@@ -9873,6 +10167,7 @@
   piMiddeInitial: A
   piPhone: '6179811309'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 03/25/2015
   startDate: 04/01/2015
   expDate: 09/30/2017
@@ -9925,6 +10220,7 @@
   piLastName: Milne
   piPhone: '3034496284'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 02/25/2015
   startDate: 03/01/2015
   expDate: 08/31/2019
@@ -9977,6 +10273,7 @@
   piMiddeInitial: A
   piPhone: '2074062669'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 02/25/2015
   startDate: 03/01/2015
   expDate: 08/31/2017
@@ -10032,6 +10329,7 @@
   piLastName: Miltsakaki
   piPhone: '2158801184'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 02/18/2015
   startDate: 03/01/2015
   expDate: 02/28/2018
@@ -10055,6 +10353,7 @@
   piLastName: Raghavan
   piPhone: '9783942581'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 02/18/2015
   startDate: 03/01/2015
   expDate: 08/31/2017
@@ -10113,6 +10412,7 @@
   piMiddeInitial: M
   piPhone: '6502244508'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 12/22/2014
   startDate: 12/01/2014
   expDate: 11/30/2017
@@ -10164,6 +10464,7 @@
   piLastName: Mandecki
   piPhone: '7323550100'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 12/01/2014
   startDate: 12/01/2014
   expDate: 11/30/2017
@@ -10213,6 +10514,7 @@
   piLastName: Jaramillo
   piPhone: '5108593418'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 11/26/2014
   startDate: 12/01/2014
   expDate: 11/30/2017
@@ -10267,6 +10569,7 @@
   piLastName: Sullivan
   piPhone: '8105229009'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 11/19/2014
   startDate: 12/01/2014
   expDate: 11/30/2018
@@ -10290,6 +10593,7 @@
   piMiddeInitial: W
   piPhone: '4155525306'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 11/10/2014
   startDate: 11/15/2014
   expDate: 04/30/2018
@@ -10312,6 +10616,7 @@
   piLastName: Park
   piPhone: '7655883592'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 09/10/2014
   startDate: 10/01/2014
   expDate: 03/31/2019
@@ -10335,6 +10640,7 @@
   piLastName: Shah
   piPhone: '8606796102'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/09/2014
   startDate: 10/01/2014
   expDate: 09/30/2018
@@ -10388,6 +10694,7 @@
   piMiddeInitial: G
   piPhone: '4019326148'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/05/2014
   startDate: 10/01/2014
   expDate: 09/30/2017
@@ -10412,6 +10719,7 @@
   piMiddeInitial: M
   piPhone: '5185736528'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/05/2014
   startDate: 10/01/2014
   expDate: 12/31/2017
@@ -10435,6 +10743,7 @@
   piLastName: Eckhardt
   piPhone: '9194139898'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 08/28/2014
   startDate: 09/01/2014
   expDate: 02/28/2019
@@ -10484,6 +10793,7 @@
   piLastName: Bakshi
   piPhone: '5105414434'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 08/25/2014
   startDate: 09/01/2014
   expDate: 08/31/2018
@@ -10539,6 +10849,7 @@
   piLastName: Bennett
   piPhone: '6507969517'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 08/03/2014
   startDate: 08/15/2014
   expDate: 12/31/2017
@@ -10578,6 +10889,7 @@
   piLastName: Li
   piPhone: '8033868709'
   poName: Peter Atherton
+  ttopic: IT
   date: 04/09/2014
   startDate: 04/15/2014
   expDate: 12/31/2017
@@ -10601,6 +10913,7 @@
   piMiddeInitial: L
   piPhone: '4087529123'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 04/09/2014
   startDate: 04/15/2014
   expDate: 08/31/2017
@@ -10650,6 +10963,7 @@
   piLastName: Miller
   piPhone: '6502047875'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/10/2013
   startDate: 09/15/2013
   expDate: 11/30/2017
@@ -10674,6 +10988,7 @@
   piMiddeInitial: H
   piPhone: '6175963078'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 09/08/2013
   startDate: 09/15/2013
   expDate: 02/28/2018
@@ -10696,6 +11011,7 @@
   piLastName: Herder
   piPhone: '9725030500'
   poName: Peter Atherton
+  ttopic: IT
   date: 08/19/2013
   startDate: 09/01/2013
   expDate: 08/31/2018
@@ -10718,6 +11034,7 @@
   piLastName: Hong
   piPhone: '6507935015'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 08/09/2013
   startDate: 09/01/2013
   expDate: 02/28/2018
@@ -10742,6 +11059,7 @@
   piMiddeInitial: J
   piPhone: '6122027026'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 07/29/2013
   startDate: 08/01/2013
   expDate: 10/31/2017
@@ -10766,6 +11084,7 @@
   piMiddeInitial: K
   piPhone: '3084403110'
   poName: Muralidharan S. Nair
+  ttopic: EW
   date: 04/04/2013
   startDate: 04/15/2013
   expDate: 02/28/2018
@@ -10789,6 +11108,7 @@
   piLastName: Wang
   piPhone: '6178632383'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 04/02/2013
   startDate: 04/15/2013
   expDate: 09/30/2017
@@ -10812,6 +11132,7 @@
   piMiddeInitial: P
   piPhone: '2158532003'
   poName: Ben Schrag
+  ttopic: MI
   date: 03/28/2013
   startDate: 04/01/2013
   expDate: 09/30/2018
@@ -10836,6 +11157,7 @@
   piMiddeInitial: S
   piPhone: '4159782101'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 08/31/2012
   startDate: 09/01/2012
   expDate: 08/31/2017
@@ -10858,6 +11180,7 @@
   piLastName: Gordon
   piPhone: '6127192636'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 03/14/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -10918,6 +11241,7 @@
   piMiddeInitial: M
   piPhone: '6189719193'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 03/14/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -10941,6 +11265,7 @@
   piLastName: Sethuraman
   piPhone: '7816400526'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 03/14/2017
   startDate: 03/15/2017
   expDate: 02/28/2019
@@ -10964,6 +11289,7 @@
   piLastName: Risteff
   piPhone: '7204601744'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 02/24/2017
   startDate: 03/01/2017
   expDate: 02/28/2019
@@ -10988,6 +11314,7 @@
   piMiddeInitial: M
   piPhone: '3039029093'
   poName: Glenn H. Larsen
+  ttopic: EA
   date: 02/21/2017
   startDate: 03/01/2017
   expDate: 02/28/2019
@@ -11011,33 +11338,11 @@
   piLastName: Lakshmana
   piPhone: '5305744167'
   poName: Ruth M. Shuman
+  ttopic: BT
   date: 08/28/2015
   startDate: 09/01/2015
   expDate: 08/31/2017
   title: 'SBIR Phase II:  Rapid detection of phages in microbial fermentation processes'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) project aims to engineer microbes for the cost-effective production of specialty chemicals. Currently, engineered microbial strains bear mutations that increase the production of chemicals of interest by inhibiting the cell's ability to produce off pathway chemicals. These "loss-of-function" mutations are critical as they effectively channel the cell's metabolic flux toward the product of interest. This both boosts the production efficiency and eases downstream purification by eliminating the accumulation of undesirable but chemically-similar contaminants. Unfortunately, these mutations may also decrease the fitness of the cells and, as a result, the growth media must be supplemented with costly nutrients. Technical research herein will assess the feasibility of applying novel regulated proteolysis technology to simultaneously direct maximal metabolic flux toward the target chemical of interest while avoiding the need to supplement the growth media. If successful, this technology would provide a great cost savings and enable fermentative production to be applied more broadly in the production of specialty chemicals.
-
-    The broader impact/commercial potential of this project is to provide a stable and cost-effective fermentative production route to a specialty chemical.  Fermentative production of chemicals offers many advantages over traditional petrochemical or extraction-based production processes.  Petrochemical production maintains the nation?s reliance on an unsustainable feedstock (oil) and also leads to national security issues as the US is largely dependent on foreign oil sources.  Chemical production via extraction from plant materials also has ecological challenges.  The process often uses toxic solvents, and may rely on unsustainable farming practices for many plants that are not traditional food crops.  Engineered microbes fermented on sugar feedstock produced using high-efficiency agricultural practices offer a stable alternative for producing specialty chemicals, both in terms of supply and price.
-  awardeeAddress: 27 Drydock Ave Floor 8
-  awardeeCity: Boston
-  awardeeCountryCode: US
-  awardeeName: Ginkgo BioWorks
-  awardeeStateCode: MA
-  awardeeZipCode: '022102413'
-  fundsObligatedAmt: '1314964'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1256446'
-  piEmail: jason@ginkgobioworks.com
-  piFirstName: Jason
-  piLastName: Kelly
-  piMiddeInitial: R
-  piPhone: '6177755585'
-  poName: Ruth M. Shuman
-  date: 04/09/2013
-  startDate: 04/15/2013
-  expDate: 09/30/2019
-  title: 'SBIR Phase II:  Novel Proteolysis-based Tools for Metabolic Engineering'
 - abstractText: |-
     The intellectual merit of this proposal is that this program allows highly educated scientists and engineers to acquire real-life research experience and to bring the latest innovative theories and techniques from the academic community o the country?s entrepreneurial technology sector. By working in a cutting-edge laboratory where research and development are accomplished within a framework of expected business outcomes and business constraints, researchers learn to work in multidisciplinary teams and to apply their academic expertise to the important work of product development and application in a globally competitive environment. The small businesses benefit from the fresh insights and most current technological skills and training that the recent postdoctoral students would bring. The program puts those skills and that training to work at creative and inventive research companies which otherwise would not be able to afford such expertise. These pairings would provide active SBIR Phase II companies the opportunity to enhance innovative collaboration, strengthen scientific rigor, and quicken the pace of technological breakthrough. Fellows are also encouraged to publish their work within the overall publishing guidelines set by each participating company.
 
@@ -11059,9 +11364,197 @@
   piMiddeInitial: L
   piPhone: '2023313500'
   poName: Jesus Soriano Molla
+  ttopic: SH
   date: 09/24/2015
   startDate: 10/01/2015
   expDate: 09/30/2018
   title: ASEE/NSF Small Business Postdoctoral Research Diversity Fellowship Program
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) project aims to engineer microbes for the cost-effective production of specialty chemicals. Currently, engineered microbial strains bear mutations that increase the production of chemicals of interest by inhibiting the cell's ability to produce off pathway chemicals. These "loss-of-function" mutations are critical as they effectively channel the cell's metabolic flux toward the product of interest. This both boosts the production efficiency and eases downstream purification by eliminating the accumulation of undesirable but chemically-similar contaminants. Unfortunately, these mutations may also decrease the fitness of the cells and, as a result, the growth media must be supplemented with costly nutrients. Technical research herein will assess the feasibility of applying novel regulated proteolysis technology to simultaneously direct maximal metabolic flux toward the target chemical of interest while avoiding the need to supplement the growth media. If successful, this technology would provide a great cost savings and enable fermentative production to be applied more broadly in the production of specialty chemicals.
+
+    The broader impact/commercial potential of this project is to provide a stable and cost-effective fermentative production route to a specialty chemical.  Fermentative production of chemicals offers many advantages over traditional petrochemical or extraction-based production processes.  Petrochemical production maintains the nation?s reliance on an unsustainable feedstock (oil) and also leads to national security issues as the US is largely dependent on foreign oil sources.  Chemical production via extraction from plant materials also has ecological challenges.  The process often uses toxic solvents, and may rely on unsustainable farming practices for many plants that are not traditional food crops.  Engineered microbes fermented on sugar feedstock produced using high-efficiency agricultural practices offer a stable alternative for producing specialty chemicals, both in terms of supply and price.
+  awardeeAddress: 27 Drydock Ave Floor 8
+  awardeeCity: Boston
+  awardeeCountryCode: US
+  awardeeName: Ginkgo BioWorks
+  awardeeStateCode: MA
+  awardeeZipCode: '022102413'
+  fundsObligatedAmt: '1314964'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1256446'
+  piEmail: jason@ginkgobioworks.com
+  piFirstName: Jason
+  piLastName: Kelly
+  piMiddeInitial: R
+  piPhone: '6177755585'
+  poName: Ruth M. Shuman
+  ttopic: BT
+  date: 04/09/2013
+  startDate: 04/15/2013
+  expDate: 09/30/2019
+  title: 'SBIR Phase II:  Novel Proteolysis-based Tools for Metabolic Engineering'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project will optimize and pilot test a novel, energy-positive approach to de-nitrification for the global aquaculture industry. Recirculating aquaculture systems suffer from high wastewater treatment costs. Leveraging recent advances in bio-electrochemical systems, Cambrian's de-nitrification technology is capable of simultaneously treating chemical oxygen demand (COD) at end of pipe and nitrates in culture tank water while generating electricity directly. Phase I R&D demonstrated the existence of exo-electrogenic microorganisms in aquaculture wastewater. A flow through reactor consistently treated nitrate to below EPA drinking water concentrations (10mg/L) while removing an average of 65% of end-of-pipe COD and generating over 96 Amps/m3. An economic analysis demonstrated potential operating savings of over 70%, and significant bio-security benefits, versus competing systems. Phase II R&D will focus on optimizing treatment rates and reactor parameters with partner firms, and piloting a scaled reactor at an Aquaculture farm.
+    
+    The broader impacts of this research are to introduce technologies and strategies that solve water and energy problems for the recirculating aquaculture industry. With the collapse of fisheries globally, the aquaculture industry is poised to fill an important gap in our food production. However, recirculating systems in particular are under pressure to limit environmental harm caused by water intensity and pollution. Bio-electrochemical systems represent a novel approach to turn waste resources into energy, thereby increasing farmer?s bottom line and resolving the tension between economics and sustainability. Future research can broaden applications to other industries. 
+  awardeeAddress: 27 Drydock Avenue 2nd Floor 
+  awardeeCity: Boston
+  awardeeCountryCode: US
+  awardeeName: Cambrian Innovation Inc
+  awardeeStateCode: MA
+  awardeeZipCode: '022102347'
+  fundsObligatedAmt: '1207998'
+  fundProgramName: SBIR PHASE II
+  id: '1127435'
+  piEmail: silver@cambrianinnovation.com
+  piFirstName: Matthew
+  piLastName: Silver
+  piPhone: '6173071755'
+  poName: Prakash Balan
+  ttopic: CT
+  date: 11/01/2011
+  startDate: 11/01/2011
+  expDate: 05/31/2018
+  title: 'SBIR Phase II:  Energy Efficient COD Removal and De-nitrification for Re-circulating Aquaculture Facilities with a Combined Bio-electrochemical Process'
+- abstractText: |-
+    This Small Business Innovation Research Phase II project will result in the continuing development of novel ultrafast, highly selective, high permeability ion-exchange fiber composites (IXFCs) for removing perchlorate from drinking water. The proposed material removes perchlorate 10-100 times faster than the best available technology and employs a low-cost production method compatible with widely available manufacturing equipment. Rapid contaminant removal is made possible by the use of micron-scale mass transfer distances; whereas commonly used beads and granular media are limited to much larger sizes resulting in drawbacks such as difficult containment and enormous pressure drops. However, IXFCs display both high permeability and self-containment due to their permanently intertwined, self-supporting structure. Serionix demonstrated the feasibility of this technology in Phase I and will continue in the Phase II with the following key goals: 1) optimization of ultra-high capacity IXFCs for perchlorate removal; 2) design/build IXFC purification cartridges for evaluation by industrial partners; 3) identify and validate chemistries for complimentary IXFCs that are selective for heavy metals such as lead and mercury; and 4) produce IXFCs at a pilot scale and develop strategy for commercial production.
+    
+    The broader impact/commercial potential of this research is the development and commercialization of a low-cost technology enabling regulatory compliance and improved protection of human health. The first targeted application is perchlorate, which the EPA is set to regulate in drinking water by 2014. This represents only the first commercial opportunity for a platform technology with the ultimate potential to transform the industrial and residential water treatment landscape. Future applications may include ultrahigh efficiency water deionization, softening, and industrial wastewater recycling, personal protective equipment and clothing, and high activity solid acid/base catalysts. Dissemination of data and interpretation will contribute to improved understanding of mass transfer characteristics in fibrous sorbent materials used in both water and air treatment.
+  awardeeAddress: 60 Hazelwood Dr
+  awardeeCity: Champaign
+  awardeeCountryCode: US
+  awardeeName: Serionix Inc.
+  awardeeStateCode: IL
+  awardeeZipCode: '618207460'
+  fundsObligatedAmt: '1023587'
+  fundProgramName: SBIR PHASE II
+  id: '1256639'
+  piEmail: jlanger@serionix.com
+  piFirstName: James
+  piLastName: Langer
+  piPhone: '6515033930'
+  poName: Anna Brady-Estevez
+  ttopic: CT
+  date: 02/01/2013
+  startDate: 02/01/2013
+  expDate: 02/28/2019
+  title: 'SBIR Phase II:  Ion-Exchange Fiber Composites for Rapid and Selective Removal of Perchlorate from Water'
+- abstractText: |-
+    This Small Business Innovation Research Phase II project will determine the technical feasibility and the commercial value proposition for high temperature, highly processable fiber optic coatings across a range of markets to include fiber lasers, fibers for oil and gas, avionics fiber, and medical fiber. Tetramer will perform research to modify the structure of polymer coatings to provide enhanced performance which will extend the capabilities of current fiber optics. Coatings developed will advance our understanding of structure property relationships and establish new boundaries for the polymer system. During this program, Tetramer will synthesize new monomers and polymers and evaluate their properties for use as fiber coatings. At the end of this program, Tetramer anticipates it will have developed 3 new types of polymers with a set of performance characteristics which are not available from any one single material today. New fiber coatings will be developed which are capable of operating at temperatures above 300 deg C, having greater processability, and for laser applications, having lower refractive indices.
+
+    The broader impact/commercial potential of this project will impact society in many ways due to the various markets in which the coatings can have a meaningful impact on the optical fiber performance. Fiber optic lasers are quickly becoming the preferred method for laser fabrication. By enabling fiber lasers to operate at higher temperatures, fiber lasers will immediately see increased output powers and longer service lifetimes. With applications in industrial metal working (welding, cutting, and engraving/marking), micromachining, and medical devices, doubling power output via improved coatings will have a major impact across many industries. Higher temperature fiber coatings will improve down-hole drilling and the overall efficiency of oil drilling operations through better temperature monitoring in deep wells. This has the potential to lower prices of oil and increase oil production. Additionally, these fibers can aid in geothermal well monitoring which would provide a green source of energy. The coatings under development have the potential to generate increased revenue and profit throughout the value chain through increased performance of products and enhanced market sizes through enhanced capabilities. Tetramer will also use this Phase II program to train undergraduate and graduate level students from nearby Clemson University   
+  awardeeAddress: 657 S Mechanic Street
+  awardeeCity: Pendleton
+  awardeeCountryCode: US
+  awardeeName: TETRAMER TECHNOLOGIES, L.L.C.
+  awardeeStateCode: SC
+  awardeeZipCode: '296701808'
+  fundsObligatedAmt: '1667989'
+  fundProgramName: SBIR PHASE II
+  id: '1330948'
+  piEmail: adam.haldeman@tetramer.com
+  piFirstName: Adam
+  piLastName: Haldeman
+  piPhone: '8646534339'
+  poName: Anna Brady-Estevez
+  ttopic: CT
+  date: 09/15/2013
+  startDate: 09/15/2013
+  expDate: 04/30/2019
+  title: 'SBIR Phase II:  Commercialization of Innovative Low Refractive Index, High Temperature Perfluorocyclobutyl Polymers'
+- abstractText: |-
+    This Small Business Innovation Research Phase II project develops positron emission tomography (PET) imaging products to manage neurodegenerative disorders, cancer, and cardiovascular disease. PET is now a key diagnostic and management tool in oncology, and compounds labeled with [18F]-fluoride provide optimal signal to noise ratios and resolution in medical imaging applications. Ground Fluor Pharmaceuticals (GFP) developed proprietary single-step fluorination technology that allows [18F]-labeled medicines to be prepared efficiently from cyclotron-produced [18F]-fluoride. Under this Phase II research project GFP will apply its new technology to produce the imaging agent 6- [18F]fluoro-L-DOPA (FDOPA), a compound useful in diagnosing Parkinson's disease and in cancer imaging, that is not currently readily available because of the difficulty in its production. GFP will scale-up and manufacture pharmaceutical grade ALPDOPA (GFP's precursor to FDOPA) under pharmaceutical cGMP conditions, and offer this material for research studies and for clinical imaging. GFP will develop an FDA drug master file and will provide technical and regulatory assistance to cyclotron pharmacy customers adopting GFP's technology for commercial production of FDOPA. In addition to helping to bring this valuable imaging agent to market, GFP will assist academic and pharmaceutical research groups in the development of new [18F]- fluorinated imaging products. 
+
+    The broader impact/commercial potential is to expand the scope and utility of PET as medical diagnostic tool, thereby improving treatment and management of serious medical problems. Although [18F]-fluoride possesses, perhaps, the most advantageous properties for imaging, is relatively inexpensive, and is widely available, it is difficult to incorporate into medicines for imaging. GFP has developed a general enabling technology that uses the relatively inexpensive and widely available form of [18F]-fluoride to create new molecular imaging agents to advance personalized medicine. This technology, and the compounds it creates, will provide the physician with new opportunities to diagnose, assess, and more efficiently treat unmet medical needs. The manufacturing technology developed here is a broad platform applicable to the preparation of a wide range of new imaging agents. The commercial potential of PET imaging is significant; the worldwide market for PET is expected to grow to $15 billion by 2015.   
+  awardeeAddress: 2124 Y St. Flat 101
+  awardeeCity: Lincoln
+  awardeeCountryCode: US
+  awardeeName: Ground Fluor Pharmaceuticals, Inc.
+  awardeeStateCode: NE
+  awardeeZipCode: '685032495'
+  fundsObligatedAmt: '1361310'
+  fundProgramName: SBIR PHASE II
+  id: '1353246'
+  piEmail: amgreen@alum.mit.edu
+  piFirstName: Allan
+  piLastName: Green
+  ttopic: CT
+  piPhone: '4028750055'
+  poName: Anna Brady-Estevez
+  date: 04/15/2014
+  startDate: 04/15/2014
+  expDate: 06/30/2019
+  title: 'SBIR Phase II:  PET Radiotracer Synthesis'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research Phase II project includes tremendous commercial potential, societal benefits, and scientific advances. Conventional superabsorbent polymers (SAP) are based on polyacrylates or polyacrylamides derived from petroleum feedstock. They are widely used in the absorbent cores of hygiene products, with disposable diapers representing approximately 85% of the global SAP market of $6B. Increasing consumer and supply chain demand for more natural, sustainable materials and products has driven the development of eco-friendly / natural labeled absorbent hygiene products (AHP). Eco-friendly diaper products currently make up about 3% of the global market and are experiencing strong growth at 10-15% compound annual growth rate (CAGR). This project will lead to the commercialization of a low-cost high-performance biobased SAP, offering significant environmental benefits as a more sustainable, eco-friendly alternative to petrobased SAP. This project could also generate positive economic impacts on domestic agriculture by creating new demand for bio-feedstocks such as waste glycerol. Finally, this project advances the scientific and technological state-of-the-art by developing a new bioprocess based on microbial co-cultures that could be extended to render more efficient, cost-effective routes for producing other biobased fuels and chemicals.
+
+    The objectives of this Phase II research project are to develop a new biological route, based on microbial co-cultures, for cost-effective production of gamma-polyglutamic acid (PGA) and to commercialize cross-linked PGA SAP for AHP applications. In Phase I of this project, a microbial co-culture process was developed for efficient production of PGA via in-situ precursor production (ISPP) from low-cost bio-feedstocks. materials. Building on promising results in Phase I, further R&D will aim to reach pilot-scale production by the end of Phase II. Three specific technical objectives will be pursued: Objective 1: Strain engineering and bioprocess optimization to develop an ISPP fermentation process with commercially viable performance metrics. Objective 2: Optimization of downstream purification, SAP cross-linking, and finishing to produce a high performance finished PGA SAP product. Objective 3: Pilot-scale process demonstration to produce commercial quantities of PGA SAP for large scale customer/partner trials. This R&D plan will lead to transformative technological outcomes. The proposed process based on microbial co-cultures represents a distinct shift from the conventional paradigm of utilizing single-species monocultures for bioprocessing and offers substantial cost-savings. The engineering and process development strategies developed during this project will be transferrable for a broad range of other co-culture bioprocessing applications.   
+  awardeeAddress: 600 South Wagner Road
+  awardeeCity: Ann Arbor
+  awardeeCountryCode: US
+  awardeeName: Ecovia Renewables Inc.
+  awardeeStateCode: MI
+  awardeeZipCode: '481039002'
+  fundsObligatedAmt: '749929'
+  fundProgramName: SBIR PHASE II
+  id: '1660217'
+  piEmail: jeremy.minty@gmail.com
+  piFirstName: Jeremy
+  piLastName: Minty
+  ttopic: CT
+  piPhone: '2489530594'
+  poName: Anna Brady-Estevez
+  date: 03/15/2017
+  startDate: 03/15/2017
+  expDate: 02/28/2019
+  title: 'SBIR Phase II:  Efficient Production of a High Performance and Eco-Friendly Superabsorbent Microbial Biopolymer for Hygiene Applications'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project results from the advancement of a novel water treatment process that reduces membrane fouling and significantly lowers water treatment costs. Membrane filtration is one of the primary water treatment technologies to address the global challenge of water scarcity. However, the membrane industry suffers from low productivity and high operational cost caused by fouling. Over 95% of the water treatment plants in US that employ membrane filtration currently operate at only 30-50% of their design capacity. Our revolutionary pretreatment technology not only mitigates fouling, but also increases system productivity by up to 400% and decreases the required membrane cleaning frequency by a factor of 50, thereby saving water, money and energy. The process can reduce both the capital expense and annual operational cost of water treatment plants by roughly 25%. Our innovation is also applicable to saline water, so it can be used as a pretreatment for desalination, and it can address another major environmental challenge by removing phosphorus from wastewater and thereby reducing the prevalence of blooms of toxic algae.
+
+    This SBIR Phase II project will continue our scale-up and commercialization activities for our pretreatment technology to improve the performance of membranes in water treatment processes with respect to contaminant removal, process productivity, and energy efficiency, compared to existing technologies. The process relies on application of a proprietary particle in a novel reactor and has been demonstrated in our Phase I work. The objectives of the Phase II work are (1) scale-up and construction of larger treatment modules using commercially suitable materials and fabrication processes; (2) testing under more aggressive operational conditions; (3) improving particle production, delivery, and disposal processes; and (4) evaluating the particles' suitability as an economic approach to remove and recover phosphorus from wastewater. The economic analysis will also be updated using data collected in Phase II study. The effort will advance the technical readiness level (TRL) of our process to TRL6, while providing essential data for further development and credibility for marketing. On completion of Phase II, we expect to be prepared for deployment in small-scale commercial systems treating one million gallons per day, and for testing in larger systems.
+  awardeeAddress: 8041 Stroud Ave N
+  awardeeCity: Seattle
+  awardeeCountryCode: US
+  awardeeName: MicroHAOPs, Inc
+  awardeeStateCode: WA
+  awardeeZipCode: '981034530'
+  fundsObligatedAmt: '561117'
+  fundProgramName: SBIR PHASE II
+  id: '1738312'
+  piEmail: avetrovs@gmail.com
+  piFirstName: Alexander
+  piLastName: Vetrovs
+  ttopic: CT
+  piPhone: '4258898031'
+  poName: Anna Brady-Estevez
+  date: 09/15/2017
+  startDate: 09/15/2017
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  Further development of the HAOPs water treatment process for membrane pretreatment and phosphorus recovery from wastewater'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project will be the development and demonstration of a new manufacturing technology for lightweight bio-based plastics.  Plastic produced from plant materials can have lower environmental impact than petroleum-based plastics, but price and performance issues have limited their adoption. In Phase I, Grow Plastics demonstrated the ability to produce lightweight, low cost, thermally stable 100% bio-based packaging products.  In Phase II, Grow Plastics will continue the development of its products while also working to develop a full-scale manufacturing line. The goal of the technology is to replace billions of pounds of petroleum-based plastic with a lower density plastic requiring half as much material, which is made from plants.
+
+    This SBIR Phase II research project proposes to continue the development of a new manufacturing process for layered structures in biomaterials.  Grow Plastics has demonstrated the ability to generate novel, high-performance layered cellular structures in biopolymers in a new manufacturing process using new machinery.  The challenge in Phase II will be to continue the development in materials from Phase I while also scaling the technology to industrial scale.  Materials science and manufacturing techniques will include polymer blending, solid state foaming, and thermal crystallization of polymer blends. Analysis techniques will include tensile testing, differential scanning calorimetry, thermo mechanical analysis, and evaluation of final product properties.   
+  awardeeAddress: 7734 15th Ave NE
+  awardeeCity: Seattle
+  awardeeCountryCode: US
+  awardeeName: Grow Plastics LLC
+  awardeeStateCode: WA
+  awardeeZipCode: '981154336'
+  fundsObligatedAmt: '576856'
+  fundProgramName: SBIR PHASE II
+  id: '1738543'
+  piEmail: mikewagg@gmail.com
+  piFirstName: Michael
+  piLastName: Waggoner
+  ttopic: CT
+  piPhone: '2069544564'
+  poName: Anna Brady-Estevez
+  date: 09/15/2017
+  startDate: 09/15/2017
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  High performance biodegradable sandwich core structures'
+
+
 ---
 
