@@ -14,10 +14,11 @@ timeline:
     inactive_description: Call for proposals (solicitation) released.
     steps:
       - step-4
+      - step-5
   - title: 60 days before<br> the deadline
     steps:
-      - step-5
       - step-6
+      - step-7
   - title: "Deadline<br> {{ site.deadline }}"
     description: "Applications due by 5:00 p.m. in your local time zone."
     inactive_description: "Applications due by 5:00 p.m. in your local time zone."
