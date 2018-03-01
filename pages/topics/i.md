@@ -1,6 +1,6 @@
 ---
-title: Internet of Things, Semiconductors and Photonic Devices and Materials
-permalink: /topics/internet-of-things-semiconductors-and-photonic-devices-and-materials/
+title: Internet of Things
+permalink: /topics/internet-of-things/
 layout: tech-topic
 topic_code: i
 section_image: "/assets/img/bg/iotas-2c-i.jpg"
