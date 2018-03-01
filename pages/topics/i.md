@@ -8,8 +8,6 @@ section_image_caption: |
   Showcasing [IOTAS]({{ site.baseurl }}/portfolio/details/?company=iotas-inc#iotas-inc)'s' Home app, featuring a unique floor plan view and Smart Stories™.
 ---
 
-## Internet of Things (IoT)
-
 The Internet of Things (IoT) is a rapidly evolving field that involves the interconnection and interaction of smart objects (objects or devices with embedded sensors, onboard data processing capability, and a means of communication) to provide automated services that would otherwise not be possible. IoT is not a single technology, but rather involves the convergence of sensor, information, communication, and actuation technologies.
 
 Today, most of what we consider as IoT is a variety of largely stand-alone devices and isolated systems, such as wearable fitness monitors, home thermostats and lighting, remote video streaming, smartphones, and smart watches. Emerging IoT implementations will use smaller and more energy- efficient embedded sensor technologies, enhanced communications, advanced data analytics, and more sophisticated actuators to collect and aggregate information and enable intelligent systems that understand context, track and manage complex interactions, and anticipate requirements.
