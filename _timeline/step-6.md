@@ -1,10 +1,22 @@
 ---
-title: Start your application
-becomes_inactive: true
-description: Once you've reviewed the solicitation, start preparing your Phase I application in FastLane.
-inactive_description: Though we're not currently accepting applications, we encourage you to familiarize yourself with our [FastLane guide]({{ site.baseurl }}/fastlane/). This way, once the next solicitation opens, you'll be ready to craft your application. We'll release our next solicitation in {{ site.solicitation_released }}.
+title: Register your company
+description: If your company hasn't worked with the government before, you'll need to register with these systems.
 ---
+### [System for Award Management (SAM)](https://www.sam.gov/portal/SAM/##11#1)
+**Processing time:** Up to three weeks
 
-### [Start your application in FastLane](https://www.fastlane.nsf.gov/jsp/homepage/proposals.jsp)
-
-Before you start your application, take a look at our [FastLane guide]({{ site.baseurl }}/fastlane/) or [download our FastLane guide]({{ site.baseurl }}/assets/files/applicants/Phase_I_Proposal_Preparation_Booklet.pdf) for detailed steps on how to submit your application and [watch our video on how to apply](https://www.youtube.com/watch?v=sCkBRbQxLx0&feature=youtu.be).
+You MUST register to do business with the U.S. government through System for Award Management (SAM). When you register, you’ll have to share bank account information. This registration process is free and takes only 10-15 minutes to initiate, but can take up to three weeks to complete. An active SAM.gov registration is needed to create a FastLane account and submit a proposal to NSF. Registration expires after one year.
+ 
+### [Dun and Bradstreet (DUNS number)](https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm)
+**Processing time:** Up to five business days
+ 
+A DUNS number is a unique, nine-digit number that identifies each physical location of your company. You’ll need one in order to receive government funding. Because you’re applying for a DUNS number for government funding, processing time should take about five business days.
+ 
+### [FastLane (NSF’s electronic submission system)](https://www.fastlane.nsf.gov/n1/N1AddInst.html)
+**Processing time:** Up to 48 hours
+ 
+Before applying, you need to register your principal investigator and company in FastLane. Within 48 hours, you’ll get a confirmation email with login instructions. We recommend you explore FastLane before submitting your application.
+ 
+ 
+### [SBIR Company Registry](http://sbir.gov/registration)
+Finally, you need to register with the SBIR Company Registry (operated by the Small Business Administration). Post-registration, you’ll receive a Business Concern Control ID (SBC ID), which you’ll need to include in your FastLane application.
