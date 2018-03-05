@@ -340,11 +340,11 @@
       photo: Kamei-compressed.jpg
       bio: "is a Program Director in the NSF Division of Industrial Innovation and Partnerships focused on Medical Technologies and Digital Health. After several years of retirement, she joined NSF in 2017 to serve the United States’ world-leading entrepreneurial ecosystem. She had been serving as a National Instructor for the NSF Innovation Corps program for several years, interacting with NSF and NIH grantees, and this inspired her to join the NSF SBIR/STTR program to continue working with the next generation of innovators and entrepreneurs. Nancy is an experienced investor (>20 years) and serial entrepreneur, having selected and managed billions of dollars of investments both public (Capital Group Companies) and private (Intel Capital), as well as having been on the founding team of several Silicon Valley start-ups (Onyx Pharmaceutical, recently sold to Amgen). After receiving her Doctor of Pharmacy degree from UCSF, she started her career at Merck and then completed her M.B.A. at Stanford Business School. Nancy also has over forty years of uninterrupted service to the non-profit sector. She recently relocated to the Washington, D.C. area after a lifetime in California."
   subtopics:
-    - Business Models for User-centered Healthcare (SH1)
-    - Digital Health Information Infrastructure (SH2)
-    - From Data to Decisions (SH3)
-    - Interoperability of Health Record Systems, Medical Sensors, Devices, and Robotics (SH4)
-    - Empowering Individuals and Communities (SH5)
+    - Business Models for User-centered Healthcare (DH1)
+    - Digital Health Information Infrastructure (DH2)
+    - From Data to Decisions (DH3)
+    - Interoperability of Health Record Systems, Medical Sensors, Devices, and Robotics (DH4)
+    - Empowering Individuals and Communities (DH5)
   companies:
     - name: TAO Connect, Inc.
     - name: Neural Analytics
