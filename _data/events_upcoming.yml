@@ -1,12 +1,4 @@
 ---
-- event 
-  Name: America's Seed Fund Q&A Webinar 1
-  description: Program director Rajesh Mehta will give a short overview presentation and answer your questions. 
-  eventType: Webinar
-  date: 17 Oct 2017
-  time: 2:00 - 3:30 PM ET
-  location:
-  registrationLink: enter link
 - event: 
   Name: “What is NSF SBIR? Am I A Good Fit?”
   description: Program director Anna Brady-Estevez will explain the program, how we evaluate proposals and share our goals. 
