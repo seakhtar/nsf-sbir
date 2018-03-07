@@ -32,11 +32,12 @@ The NSF Conflict-of-Interests and Confidentiality Statement for NSF Panelists mu
 ### Criterion 1: What is the intellectual merit of the proposed activity?
 This criterion addresses the overall quality of the proposed activity to advance science and engineering through research and education.
 
-- Is the proposed plan a sound approach for establishing technical and commercial feasibility?
-- To what extent does the proposal suggest and develop unique or ingenious concepts or applications?
-- How well qualified is the technical team (Principal Investigator, key staff, consultants, and subawardees) to conduct the proposed activity?
-- Is there sufficient access to resources (materials and supplies, analytical services, equipment, facilities, etc.)?
-- Does the proposal reflect state-of-the-art in the major research activities proposed? (Are advancements in state-of-the-art likely?)
+-	Is there a significant market opportunity that could be addressed by the proposed product, process, or service?
+-	Does the company possess a significant and durable competitive advantage, based on scientific or technical innovation, that would be difficult for competitors to neutralize or replicate?
+-	Is there a compelling potential business model?
+-	Does the proposing company/team have the essential elements, including expertise, structure, and experience, that would suggest the potential for strong commercial outcomes?
+-	Will NSF support serve as a catalyst to improve substantially the technical and commercial impact of the underlying commercial endeavor?
+
 - **For Phase II proposals only:** As a result of Phase I, did the firm succeed in providing a solid foundation for the proposed Phase II activity.
 
 ### Criterion 2: What are the broader impacts of the proposed activity?
