@@ -12,7 +12,7 @@ All proposals are carefully reviewed by a minimum of three experts in the partic
 
 All NSF proposals are evaluated through use of the two National Science Board (NSB)-approved merit review criteria: intellectual merit and the broader impacts of the proposed effort. In the case of the NSF SBIR/STTR Program, critical additional review criteria are utilized to highlight the specific objectives of the program and to ensure that all proposals are reviewed for both their technical and commercial merits.
 
-- **[Peer Review Guidelines (Technical/Commercial)]({{ site.baseurl }}/resources/review/peer-review/)**: The SBIR/STTR peer review criteria, the Conflict of Interest (COI) form, and suggestions for writing high quality peer reviews for the SBIR/STTR Program at NSF.
+- **[Peer Review Guidelines (Technical/Commercial)]({{ site.baseurl }}/resources/review/peer-review/)**: The SBIR/STTR peer review criteria.
 
 - **[FastLane Instructions for Panelists]({{ site.baseurl }}/resources/review/panelist-system/)**: How to submit the registration required for every review panel, review assigned proposals, submit reviews, and navigate through the interactive panel system (IPS), which is used during the live panel meeting.
 
