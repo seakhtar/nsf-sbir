@@ -35,5 +35,3 @@ The following criteria should be applied in the review of the Commercial Impact 
 
 - **For Phase II proposals only:** As a result of Phase I, did the firm succeed in providing a solid foundation for the proposed Phase II activity.
 
-## Panelist Conflict of Interest (COI)
-NSF Panelists must be read and sign the NSF [Conflict-of-Interests and Confidentiality Statement]({{ site.baseurl }}/assets/files/awardees/coiform.docx) the morning of the review. Mail Reviewers Only: Prior to receiving access to any proposal in FastLane, mail reviewers must sign the NSF COI and Confidentiality Statement. Please print and sign the COI Form and scan/email it to the NSF staff person that invited you to review. If necessary, you can fax the COI form to 703-292-9057. In the field "Panel Name" please clearly indicate the proposal number that you were invited to review.
