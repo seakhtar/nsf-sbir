@@ -11,7 +11,7 @@ America's Seed Fund powered by NSF encourages proposals from small businesses. A
 
 ## Criterion 1: Intellectual Merit. 
 
-# The following elements should be considered in the review of Intellectual Merit: 
+## The following elements should be considered in the review of Intellectual Merit: 
 The Intellectual Merit criterion encompasses the potential to advance knowledge.
 1. What is the potential for the proposed activity to:
 - Advance knowledge and understanding within its own field or across different fields (Intellectual Merit); and
@@ -23,7 +23,7 @@ The Intellectual Merit criterion encompasses the potential to advance knowledge.
 ## Criterion 2: Broader Impacts. 
 The Broader Impacts criterion encompasses the potential to benefit society and contribute to the achievement of specific, desired societal outcomes.
 
-# The following elements should be considered in the review of Broader Impacts: 
+## The following elements should be considered in the review of Broader Impacts: 
 1. What is the potential for the proposed activity to:
 - Benefit society or advance desired societal outcomes (Broader Impacts)?
 2. To what extent do the proposed activities suggest and explore creative, original, or potentially transformative concepts?
