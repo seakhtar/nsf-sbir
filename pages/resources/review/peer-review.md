@@ -12,26 +12,24 @@ America's Seed Fund powered by NSF encourages proposals from small businesses. A
 ## Criterion 1: Intellectual Merit. 
 The Intellectual Merit criterion encompasses the potential to advance knowledge. The following elements should be considered in the review of Intellectual Merit: 
 
-1. What is the potential for the proposed activity to:
-- Advance knowledge and understanding within its own field or across different fields (Intellectual Merit); and
+1. What is the potential for the proposed activity to advance knowledge and understanding within its own field or across different fields (Intellectual Merit)?
 2. To what extent do the proposed activities suggest and explore creative, original, or potentially transformative concepts?
 3. Is the plan for carrying out the proposed activities well-reasoned, well-organized, and based on a sound rationale? Does the plan incorporate a mechanism to assess success?
 4. How well qualified is the individual, team, or organization to conduct the proposed activities?
-5. Are there adequate resources available to the PI (either at the home organization or through collaborations) to carry out the proposed activities?
+5. Are there adequate resources available to the Principal Investigator (PI) either at the home organization or through collaborations to carry out the proposed activities?
 
 ## Criterion 2: Broader Impacts. 
 The Broader Impacts criterion encompasses the potential to benefit society and contribute to the achievement of specific, desired societal outcomes.
 
 The following elements should be considered in the review of Broader Impacts: 
-1. What is the potential for the proposed activity to:
-- Benefit society or advance desired societal outcomes (Broader Impacts)?
+1. What is the potential for the proposed activity to benefit society or advance desired societal outcomes (Broader Impacts)?
 2. To what extent do the proposed activities suggest and explore creative, original, or potentially transformative concepts?
 3. Is the plan for carrying out the proposed activities well-reasoned, well-organized, and based on a sound rationale? Does the plan incorporate a mechanism to assess success?
 4. How well qualified is the individual, team, or organization to conduct the proposed activities?
-5. Are there adequate resources available to the PI (either at the home organization or through collaborations) to carry out the proposed activities?
+5. Are there adequate resources available to the PI either at the home organization or through collaborations to carry out the proposed activities?
 
 ## Criterion 3: Commercial Impact. 
-The commercial impact criterion focuses on the potential of the activity to lead to significant outcomes in the commercial market.
+The Commercial Impact criterion focuses on the potential of the activity to lead to significant outcomes in the commercial market.
 
 The following criteria should be applied in the review of the Commercial Impact criterion:
 1. Is there a significant market opportunity that could be addressed by the proposed product, process, or service?
