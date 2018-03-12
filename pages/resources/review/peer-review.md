@@ -7,53 +7,35 @@ sidenav: review
 
 # Peer review guidelines
 
-The fundamental mission of NSF is to promote discoveries and to advance education across the frontiers of knowledge in science and engineering. Consistent with that mission, NSF encourages and supports a wide range of proposals from the research and education community and also from the private small business sector. These proposals are reviewed under the NSF merit review criteria, which covers both the quality of research (**intellectual or technical merit**) and its potential impact on society (**broader impacts**).
+America's Seed Fund powered by NSF encourages proposals from small businesses. All proposals are reviewed under the NSF merit review criteria, which cover both the quality of research (**intellectual or technical merit**) and its potential impact on society (**broader impacts**), and commercial potential of the project (**commercial impact**).
 
-NSF has formulated broad solicitation topics that conform to the high-technology investment sector's interest. In preparing your review comments, please consult with the Program Director on the topic that is under consideration.
+## Criterion 1: Intellectual Merit. 
+The Intellectual Merit criterion encompasses the potential to advance knowledge. The following elements should be considered in the review of Intellectual Merit: 
 
-**NSF SBIR/STTR Program Goal:** By increasing the incentive and opportunity for small firms to undertake cutting-edge, high-risk, high-quality scientific, engineering, or science and engineering education research, the NSF SBIR/STTR program seeks to transform scientific discovery into both social and economic benefit by emphasizing private sector commercialization.
+1. What is the potential for the proposed activity to advance knowledge and understanding within its own field or across different fields (Intellectual Merit)?
+2. To what extent do the proposed activities suggest and explore creative, original, or potentially transformative concepts?
+3. Is the plan for carrying out the proposed activities well-reasoned, well-organized, and based on a sound rationale? Does the plan incorporate a mechanism to assess success?
+4. How well qualified is the individual, team, or organization to conduct the proposed activities?
+5. Are there adequate resources available to the Principal Investigator (PI) either at the home organization or through collaborations to carry out the proposed activities?
 
-The NSF SBIR/STTR Program makes awards to small companies developing innovations that demonstrate the following characteristics:
+## Criterion 2: Broader Impacts. 
+The Broader Impacts criterion encompasses the potential to benefit society and contribute to the achievement of specific, desired societal outcomes.
 
-- Involves a high degree of technical risk - for example:
-  - Has never been attempted and/or successfully done before;
-  - Is still facing technical hurdles (that the NSF-funded R&D work is intended to overcome).
-- Has the potential for significant commercial impact and/or societal benefit, as evidenced by:
-  - Having the potential to disrupt the targeted market segment;
-  - Having good product-market fit (as validated by customers);
-  - Presenting barriers to entry for competition;
-  - Offering potential for societal benefit (through commercialization under a sustainable business model).
+The following elements should be considered in the review of Broader Impacts: 
+1. What is the potential for the proposed activity to benefit society or advance desired societal outcomes (Broader Impacts)?
+2. To what extent do the proposed activities suggest and explore creative, original, or potentially transformative concepts?
+3. Is the plan for carrying out the proposed activities well-reasoned, well-organized, and based on a sound rationale? Does the plan incorporate a mechanism to assess success?
+4. How well qualified is the individual, team, or organization to conduct the proposed activities?
+5. Are there adequate resources available to the PI either at the home organization or through collaborations to carry out the proposed activities?
 
-## Panelist Conflict of Interest (COI)
-The NSF Conflict-of-Interests and Confidentiality Statement for NSF Panelists must be read and signed. Please open and review the required [COI Form]({{ site.baseurl }}/assets/files/awardees/coiform.docx), you will be required to sign this form on the morning of the panel. For Mail Reviewers Only: Prior to receiving access to any proposal in FastLane, mail reviewers must sign the NSF Conflict-of-Interest (COI) and Confidentiality Statement for NSF Panelists. Please print and sign the COI Form and scan/email it to the NSF staff person that invited you to review. If necessary, you can fax the COI form to 703-292-9057. In the field "Panel Name" please clearly indicate the proposal number that you were invited to review.
+## Criterion 3: Commercial Impact. 
+The Commercial Impact criterion focuses on the potential of the activity to lead to significant outcomes in the commercial market.
 
-## SBIR/STTR Merit Review Criteria
+The following criteria should be applied in the review of the Commercial Impact criterion:
+1. Is there a significant market opportunity that could be addressed by the proposed product, process, or service?
+2. Does the company possess a significant and durable competitive advantage, based on scientific or technical innovation, that would be difficult for competitors to neutralize or replicate?
+3. Is there a compelling potential business model?
+4. Does the proposing company/team have the essential elements, including expertise, structure, and experience, that would suggest the potential for strong commercial outcomes?
+5. Will NSF support serve as a catalyst to improve substantially the technical and commercial impact of the underlying commercial endeavor?
+6. **For Phase II proposals only:** As a result of Phase I, did the firm succeed in providing a solid foundation for the proposed Phase II activity.
 
-### Criterion 1: What is the intellectual merit of the proposed activity?
-This criterion addresses the overall quality of the proposed activity to advance science and engineering through research and education.
-
-- Is the proposed plan a sound approach for establishing technical and commercial feasibility?
-- To what extent does the proposal suggest and develop unique or ingenious concepts or applications?
-- How well qualified is the technical team (Principal Investigator, key staff, consultants, and subawardees) to conduct the proposed activity?
-- Is there sufficient access to resources (materials and supplies, analytical services, equipment, facilities, etc.)?
-- Does the proposal reflect state-of-the-art in the major research activities proposed? (Are advancements in state-of-the-art likely?)
-- **For Phase II proposals only:** As a result of Phase I, did the firm succeed in providing a solid foundation for the proposed Phase II activity.
-
-### Criterion 2: What are the broader impacts of the proposed activity?
-This criterion addresses the overall impact of the proposed activity.
-
-- What may be the commercial and societal benefits of the proposed activity?
-- Does the outcome of the proposed activity lead to a marketable product or process that warrants significant NSF support?
-- Given the stage of the proposed effort, is the team well-balanced between technical and business skills?
-- Has the proposing firm successfully commercialized SBIR or STTR-supported technology where prior awards have been made? (Or, has the firm been successful at commercializing technology that has not received SBIR or STTR support?)
-- Has the proposer evaluated the competitive advantage of this technology vs. alternate technologies that can meet the same market needs?
-- Does the proposal lead to enabling technologies (instrumentation, software, etc.) for further innovation?
-- How well is the proposed activity positioned to attract further funding from non-SBIR sources once the project ends?
-
-## For Commercial Reviewers
-
-Please see the below links for additional review criterion for commercial reviews:
-
-**Phase I:** [Phase I Commercial Review Form]({{ site.baseurl }}/assets/files/awardees/PhaseICommercialReviewerForm.doc)
-<br>
-**Phase II:** [Phase II Commercial Review Form]({{ site.baseurl }}/assets/files/awardees/PhaseIICommercialReviewerForm.doc)
