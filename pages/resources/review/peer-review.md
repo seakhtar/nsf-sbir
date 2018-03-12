@@ -7,7 +7,7 @@ sidenav: review
 
 # Peer review guidelines
 
-America's Seed Fund powered by NSF encourages proposals from small businesses. All proposals are reviewed under the NSF merit review criteria, which covers both the quality of research (**intellectual or technical merit**) and its potential impact on society (**broader impacts**), and commercial potential of the project (**commercial impact**).
+America's Seed Fund powered by NSF encourages proposals from small businesses. All proposals are reviewed under the NSF merit review criteria, which cover both the quality of research (**intellectual or technical merit**) and its potential impact on society (**broader impacts**), and commercial potential of the project (**commercial impact**).
 
 ## Criterion 1: Intellectual Merit. 
 
