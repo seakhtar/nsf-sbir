@@ -10,9 +10,8 @@ sidenav: review
 America's Seed Fund powered by NSF encourages proposals from small businesses. All proposals are reviewed under the NSF merit review criteria, which cover both the quality of research (**intellectual or technical merit**) and its potential impact on society (**broader impacts**), and commercial potential of the project (**commercial impact**).
 
 ## Criterion 1: Intellectual Merit. 
+The Intellectual Merit criterion encompasses the potential to advance knowledge. The following elements should be considered in the review of Intellectual Merit: 
 
-The following elements should be considered in the review of Intellectual Merit: 
-The Intellectual Merit criterion encompasses the potential to advance knowledge.
 1. What is the potential for the proposed activity to:
 - Advance knowledge and understanding within its own field or across different fields (Intellectual Merit); and
 2. To what extent do the proposed activities suggest and explore creative, original, or potentially transformative concepts?
