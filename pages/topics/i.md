@@ -1,15 +1,13 @@
 ---
-title: Internet of Things (I), Semiconductors (S), and Photonic Devices and Materials (PH)
-permalink: /topics/internet-of-things-semiconductors-and-photonic-devices-and-materials/
+title: Internet of Things
+permalink: /topics/internet-of-things/
 layout: tech-topic
-topic_code: 
-  -i
-  -sp
+topic_code: i
 section_image: "/assets/img/bg/iotas-2c-i.jpg"
 section_image_caption: |
   Showcasing [IOTAS]({{ site.baseurl }}/portfolio/details/?company=iotas-inc#iotas-inc)'s' Home app, featuring a unique floor plan view and Smart Stories™.
 ---
-## Internet of Things (IoT) 
+
 
 The Internet of Things (IoT) is a rapidly evolving field that involves the interconnection and interaction of smart objects (objects or devices with embedded sensors, onboard data processing capability, and a means of communication) to provide automated services that would otherwise not be possible. IoT is not a single technology, but rather involves the convergence of sensor, information, communication, and actuation technologies.
 
