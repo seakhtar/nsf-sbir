@@ -1,13 +1,15 @@
 ---
-title: Internet of Things
-permalink: /topics/internet-of-things/
+title: Internet of Things (I), Semiconductors (S), and Photonic Devices and Materials (PH)
+permalink: /topics/internet-of-things-semiconductors-and-photonic-devices-and-materials/
 layout: tech-topic
-topic_code: i
+topic_code: 
+  -i
+  -sp
 section_image: "/assets/img/bg/iotas-2c-i.jpg"
 section_image_caption: |
   Showcasing [IOTAS]({{ site.baseurl }}/portfolio/details/?company=iotas-inc#iotas-inc)'s' Home app, featuring a unique floor plan view and Smart Stories™.
 ---
-
+## Internet of Things (IoT) 
 
 The Internet of Things (IoT) is a rapidly evolving field that involves the interconnection and interaction of smart objects (objects or devices with embedded sensors, onboard data processing capability, and a means of communication) to provide automated services that would otherwise not be possible. IoT is not a single technology, but rather involves the convergence of sensor, information, communication, and actuation technologies.
 
@@ -75,3 +77,5 @@ Subtopic includes (but is not limited to) processing and metrology technologies 
 ### S4. Integrated Circuit Design 
 Subtopic includes (but is not limited to) low power circuits and architecture, novel chip architectures, and the integration of nano- to micro-scale devices on circuits.
  
+### S4. Integrated Circuit Design
+Subtopic includes (but is not limited to) low power circuits and architecture, novel chip architectures, and the integration of nano- to micro-scale devices on circuits.
