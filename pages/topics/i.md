@@ -74,6 +74,6 @@ Subtopic includes (but is not limited to) advanced semiconductor devices, bioele
 
 Subtopic includes (but is not limited to) processing and metrology technologies that enable low cost, high performance or novel, advanced semiconductor devices.  
 
-### S4. Integrated Circuit Design
+### S4. Integrated Circuit Design 
 Subtopic includes (but is not limited to) low power circuits and architecture, novel chip architectures, and the integration of nano- to micro-scale devices on circuits.
 
