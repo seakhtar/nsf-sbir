@@ -1,6 +1,6 @@
 ---
 title: Smart Health
-permalink: /topics/smart-health/
+permalink: /topics/digital-health-and-medical-devices/
 layout: tech-topic
 topic_code: sh
 section_image: "/assets/img/bg/neural-analytics-2c-sh.jpg"
