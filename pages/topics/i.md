@@ -76,4 +76,4 @@ Subtopic includes (but is not limited to) processing and metrology technologies 
 
 ### S4. Integrated Circuit Design
 Subtopic includes (but is not limited to) low power circuits and architecture, novel chip architectures, and the integration of nano- to micro-scale devices on circuits.
-
+ 
