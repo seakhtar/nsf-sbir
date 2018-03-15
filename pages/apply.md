@@ -4,14 +4,13 @@ permalink: /apply/
 layout: secondary-narrow
 timeline:
   - title: anytime before<br> the deadline
-    description: Call for proposals (solicitation) released {{ site.solicitation_released }}.
     steps:
       - step-1
       - step-2
       - step-3
       - step-4
   - title: 90 days before<br> the deadline
-    description: Call for proposals (solicitation) released.
+    description: Call for proposals (solicitation) released {{ site.solicitation_released }}.
     inactive_description: Call for proposals (solicitation) released.
     steps:
       - step-5
