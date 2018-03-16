@@ -3,7 +3,7 @@ title: Apply
 permalink: /apply/
 layout: secondary-narrow
 timeline:
-  - title: anytime before<br> the deadline
+  - title: anytime before<br> the deadline 
     steps:
       - step-1
       - step-2
