@@ -255,4 +255,4 @@ The total fringe plus indirect cost requested for this project is $38,000, which
 **K. Fee**
 The fee requested is the maximum allowed rate of 7% of the total direct plus indirect costs (line J). This amounts to a total requested fee of $14,630.
 
-[Prev](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/fastlaneUpdate/fastlane/form-prep/) | [Next](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/fastlaneUpdate/fastlane/form-prep-3/)
+[Prev]({{ site.baseurl }}/fastlane/form-prep/) \| [Next]({{ site.baseurl }}/fastlane/form-prep-3/)
