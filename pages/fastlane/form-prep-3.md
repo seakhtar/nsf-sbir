@@ -116,4 +116,4 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 ![Other Supplementary Docs file upload screen]({{ site.baseurl }}/assets/img/fastlane/43-other-supplementary-docs2.jpg)
 
-[Prev]({{ site.baseurl }}/fastlane/form-prep-2/) || [Next]({{ site.baseurl }}e/fastlane/proposal-submission/)
+[Prev]({{ site.baseurl }}/fastlane/form-prep-2/) \| [Next]({{ site.baseurl }}e/fastlane/proposal-submission/)
