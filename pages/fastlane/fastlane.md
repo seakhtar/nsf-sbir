@@ -27,14 +27,14 @@ Once your company is registered in SAM, you must register the organization with 
 * [Dun and Bradstreet Data Universal Numbering System (DUNS)](https://www.nsf.gov/cgi-bin/good-bye?https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm)
 * [System for Award Management (SAM)](https://www.sam.gov/portal/public/SAM)
 * [Small Business Administration (SBA) Company Registry](https://www.sbir.gov/registration)
-* [NSF Research.gov](research.gov) - register company and Principal Investigator (PI)
+* [NSF Research.gov](www.research.gov) - register company and Principal Investigator (PI)
 
 ### Register a New Organization
 
-nOrganizations must be registered with the National Science Foundation (NSF) to submit proposals using NSF’s systems. Before a new organization can register with NSF, it must first be registered in the System for Award Management (SAM - [https://www.sam.gov](https://www.sam.gov)) and have a DUNS number. Note that completion of the SAM registration process may take up to two weeks.Follow the step-by-step process below to register a new organization with NSF.
+Organizations must be registered with the National Science Foundation (NSF) to submit proposals using NSF’s systems. Before a new organization can register with NSF, it must first be registered in the System for Award Management (SAM - [https://www.sam.gov](https://www.sam.gov)) and have a DUNS number. Note that completion of the SAM registration process may take up to two weeks.Follow the step-by-step process below to register a new organization with NSF.
 
 **How do I register a new organization with NSF?**
-* Open [Research.gov](research.gov)
+* Open [Research.gov](www.research.gov)
 * Click “Sign In” located at the top right of the screen.
 * Enter your NSF ID and password and click “Sign In.”
 * Click “My Profile” located at the top right of the screen.
@@ -60,12 +60,16 @@ and you will be able to register the organization and become the first Administr
 * The request to register your organization with NSF will be forwarded via email to your organization’s SAM points of contact for their information only. The SAM points of contact will not need to approve the request. (Figure 6)
 
 ![Figure 3: Add Information]({{ site.baseurl }}/assets/img/fastlane/newOrg3.jpg)
+Figure 3: Add Information
 
 ![Figure 4: Choose Role(s)]({{ site.baseurl }}/assets/img/fastlane/newOrg4.jpg)
+Figure 4: Choose Role(s)
 
 ![Figure 5: Review]({{ site.baseurl }}/assets/img/fastlane/newOrg5.jpg)
+Figure 5: Review
 
 ![Figure 6: Confirmation]({{ site.baseurl }}/assets/img/fastlane/newOrg6.jpg)
+Figure 6: Confirmation
 
 **Helpful Tip:** Once an organization is registered with NSF, any updates to organizational information must be made by an organizational Administrator in the FastLane
 Research Administration module.
