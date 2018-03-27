@@ -93,5 +93,5 @@ _This is the Proposal Number you should reference in all communications with NSF
 
 #### Note: User's lack of familiarity with FastLane is not a valid excuse for submitting a late proposal, nor are warnings/errors received at the time of submission. Therefore, we strongly advise all submitters to ensure the proposal is submitted EARLY (days - not hours - before each deadline).
 
-[Prev]({{ site.baseurl }}/fastlane/form-prep-3/) || [Next]({{ site.baseurl }}/fastlane/proposal-file-update/)
+[Prev]({{ site.baseurl }}/fastlane/form-prep-3/) \| [Next]({{ site.baseurl }}/fastlane/proposal-file-update/)
 
