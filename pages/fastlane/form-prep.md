@@ -144,3 +144,5 @@ Click "Add Non Co-PI Senior Person to Proposal" after inputting the First Name, 
 ![Adding non co-pi senior person form]({{ site.baseurl }}/assets/img/fastlane/24-add-delete-non-copi-senior-personnel.jpg)
 
 After adding all participants, click **"Go Back"** until you return to the "Form Preparation" screen.
+
+[Prev](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/fastlaneUpdate/fastlane/) | [Next](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/fastlaneUpdate/fastlane/form-prep-2/)
