@@ -16,7 +16,13 @@ PDF version is available for [download]({{ site.baseurl }}/assets/files/applican
 
 ### Do you have the required registrations?
 
-**Complete four required registrations as you begin putting a proposal together.** It is imperative that you register your company and enter all information identically in all systems to avoid processing delays later.
+Before you can register your small business with NSF and prepare/submit a proposal - you MUST register your company to do business with the U.S. government through the System for Award Management (SAM).  When you register in SAM, you’ll have to share bank account information. This registration process is free and takes only 10-15 minutes to initiate, but can take up to three weeks to complete.  SAM registration expires after one year and must be updated annually.  
+
+In order to register with SAM, your company must have a "DUNS number".  
+
+Companies submitting SBIR or STTR proposals to the Federal government must also register with the SBA Company Registry.  
+
+Once your company is registered in SAM, you must register the organization with NSF in Research.gov.  Only then can you login to FastLane and begin preparing your proposal.
 
 * [Dun and Bradstreet Data Universal Numbering System (DUNS)](https://www.nsf.gov/cgi-bin/good-bye?https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm)
 * [System for Award Management (SAM)](https://www.sam.gov/portal/public/SAM)
