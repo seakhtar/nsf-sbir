@@ -21,7 +21,49 @@ PDF version is available for [download]({{ site.baseurl }}/assets/files/applican
 * [Dun and Bradstreet Data Universal Numbering System (DUNS)](https://www.nsf.gov/cgi-bin/good-bye?https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm)
 * [System for Award Management (SAM)](https://www.sam.gov/portal/public/SAM)
 * [Small Business Administration (SBA) Company Registry](https://www.sbir.gov/registration)
-* [NSF FastLane](https://www.fastlane.nsf.gov/n1/N1AddInst.html) - register company and Principal Investigator (PI)
+* [NSF Research.gov](research.gov) - register company and Principal Investigator (PI)
+
+### Register a New Organization
+
+nOrganizations must be registered with the National Science Foundation (NSF) to submit proposals using NSF’s systems. Before a new organization can register with NSF, it must first be registered in the System for Award Management (SAM - [https://www.sam.gov](https://www.sam.gov)) and have a DUNS number. Note that completion of the SAM registration process may take up to two weeks.Follow the step-by-step process below to register a new organization with NSF.
+
+**How do I register a new organization with NSF?**
+* Open [Research.gov](research.gov)
+* Click “Sign In” located at the top right of the screen.
+* Enter your NSF ID and password and click “Sign In.”
+* Click “My Profile” located at the top right of the screen.
+* Click “Add New Role” from the left navigation bar.
+* Click “Add Organizational Role” located in the “Add and Manage Organizations” box. 
+    * Note: If an organization is new to NSF, you must start the process by setting yourself up as the Administrator for the new organization. You must have an NSF account to start this process. The system will automatically detect that the organization is new and will walk you through setting up the organization and Administrator role.
+    
+![Add Organizational Role]({{ site.baseurl }}/assets/img/fastlane/newOrg1.jpg)
+
+* Enter your organization is not already registered with NSF, a message will display to confirm that the organization is not found in NSF systems
+and you will be able to register the organization and become the first Administrator.
+* If you need help registering in the System for Award Management (SAM), go to [https://www.sam.gov/sam/transcript/Quick_Guide_for_Grants_Registrations.pdf](https://www.sam.gov/sam/transcript/Quick_Guide_for_Grants_Registrations.pdf).
+* Note that completion of the SAM registration processmay take up to two weeks.
+
+![Find Organization]({{ site.baseurl }}/assets/img/fastlane/newOrg2.jpg)
+
+**Helpful Tip:** If a new organization is registered with NSF without an Administrator, the first user to request a role will become the organization’s first Administrator.
+
+* Enter your contact information for the Administrator role, add your organization’s information, and then click “Next.”
+(Figure 3)
+* Notice the “Administrator” role is pre-selected. Click “Next.” (Figure 4)
+* Review your organization’s information for accuracy and click “Submit.” (Figure 5)
+* The request to register your organization with NSF will be forwarded via email to your organization’s SAM points of contact for their information only. The SAM points of contact will not need to approve the request. (Figure 6)
+
+![Figure 3: Add Information]({{ site.baseurl }}/assets/img/fastlane/newOrg3.jpg)
+
+![Figure 4: Choose Role(s)]({{ site.baseurl }}/assets/img/fastlane/newOrg4.jpg)
+
+![Figure 5: Review]({{ site.baseurl }}/assets/img/fastlane/newOrg5.jpg)
+
+![Figure 6: Confirmation]({{ site.baseurl }}/assets/img/fastlane/newOrg6.jpg)
+
+**Helpful Tip:** Once an organization is registered with NSF, any updates to organizational information must be made by an organizational Administrator in the FastLane
+Research Administration module.
+
 
 ### Formatting Instructions
 
