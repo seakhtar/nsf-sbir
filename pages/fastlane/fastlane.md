@@ -109,4 +109,4 @@ Scroll down past the **Temporary Proposals in Progress** section to the **Create
 
 ![create new proposal]({{ site.baseurl }}/assets/img/fastlane/5-createnewproposal.jpg)
 
-[Next](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/fastlaneUpdate/fastlane/form-prep/)
+[Next]({{ site.baseurl }}/fastlane/form-prep/)
