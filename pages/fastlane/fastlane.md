@@ -108,3 +108,5 @@ Once you select to prepare your proposal, the "Proposal Actions" screen appears.
 Scroll down past the **Temporary Proposals in Progress** section to the **Create New Proposal** section at the bottom, and click on the **"SBIR Phase I"** or **"STTR Phase I"** button.
 
 ![create new proposal]({{ site.baseurl }}/assets/img/fastlane/5-createnewproposal.jpg)
+
+[Continue...](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/fastlaneUpdate/fastlane/form-prep/)
