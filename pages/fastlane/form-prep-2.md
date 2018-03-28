@@ -230,7 +230,7 @@ Printed circuit boards: $200 per board * 10 boards = $2,000
 Total budgeted materials and supplies is $10,000.
 
 **G.3. Consultant Services**
-Dr. I. D. Snow will be work on the project as a consultant. She will work for a total of 40 days at a rate of compensation of $62.50 per hour ($500/day, which is less than the maximum allowed consultant rate of $600/day). Total requested costs are $20,000. A copy of the signed commitment letter from Dr. Snow is included with this budget justification.
+Dr. I. D. Snow will be work on the project as a consultant. She will work for a total of 40 days at a rate of compensation of $62.50 per hour ($500/day, which is less than the maximum allowed consultant rate of $1000/day). Total requested costs are $20,000. A copy of the signed commitment letter from Dr. Snow is included with this budget justification.
 
 **G.5. Subawards**
 One subaward will be executed with Brown University. A signed letter of commitment from the subaward lead, Dr. Fred Johnson, is included in the proposal package. A full subaward budget and budget justification is also included with the proposal. The total subaward amount is $40,000.
