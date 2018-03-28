@@ -24,7 +24,7 @@ Submitting a proposal to NSF involves two steps in the Research Administration p
 
 ![Allow SRO Access screen with selection box of proposals]({{ site.baseurl}}/assets/img/fastlane/44-proposal-action-screen.jpg)
 
-In step 2. At this point, FastLane may notify you of some warnings and/or errors related to the proposal. "Errors" will prevent you from submitting the proposal until they are remedied. You will receive an "error" if modules or required documents are missing that must be included per NSF policy. _Proposers are strongly encouraged to submit their proposal early (days, not hours) to ensure adequate time is afforded to troubleshoot any errors that will prevent submission at this stage. FastLane will not accept any proposals after 5:00 pm (submitter's time zone as registered in FastLane)._
+In step 2. At this point, FastLane may notify you of some warnings and/or errors related to the proposal. "Errors" will prevent you from submitting the proposal until they are remedied. You will receive an "error" if modules or required documents are missing that must be included per NSF policy. _Proposers are strongly encouraged to submit their proposal early (days, not hours) to ensure adequate time is afforded to troubleshoot any errors that will prevent submission at this stage. FastLane will not accept any proposals after 5:00 pm submitter's time.  Your organization's time zone is set in the registration section of Research.gov._
 
 ![Proposal Errors/Warnings screen showing list of errors in red]({{ site.baseurl}}/assets/img/fastlane/45-proposal-errors.jpg)
 
@@ -93,4 +93,5 @@ _This is the Proposal Number you should reference in all communications with NSF
 
 #### Note: User's lack of familiarity with FastLane is not a valid excuse for submitting a late proposal, nor are warnings/errors received at the time of submission. Therefore, we strongly advise all submitters to ensure the proposal is submitted EARLY (days - not hours - before each deadline).
 
+[Prev]({{ site.baseurl }}/fastlane/form-prep-3/) \| [Next]({{ site.baseurl }}/fastlane/proposal-file-update/)
 

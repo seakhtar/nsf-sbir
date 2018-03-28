@@ -71,5 +71,5 @@ The **Proposal Update Control** screen displays with the update now listed as a 
 
 ### **Please note: The SPO must login under “Research Administration” of Fastlane to submit the forwarded update.**
 
-
+[Prev]({{ site.baseurl }}/fastlane/proposal-submission/) \| [Next]({{ site.baseurl }}/fastlane/definitions/)
 
