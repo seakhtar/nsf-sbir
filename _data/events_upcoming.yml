@@ -1,13 +1,5 @@
 ---
 - event: 
-  Name: “What is NSF SBIR? Am I A Good Fit?”
-  description: Program director Anna Brady-Estevez will explain the program, how we evaluate proposals and share our goals. 
-  eventType: Webinar
-  date: 27 March 2018
-  time: 2:00 - 3:30 PM ET
-  location:
-  registrationLink: https://nsf.webex.com/mw3100/mywebex/default.do?service=1&siteurl=nsf&nomenu=true&main_url=%2Fmc3100%2Fe.do%3Fsiteurl%3Dnsf%26AT%3DMI%26EventID%3D666982737%26UID%3D6124728887%26Host%3DQUhTSwAAAARPmAaMbQKGGJcoWLjSYBpBBkmuGdQ8Hu88KR25Ip-G3LJxvx8BIh0bYdeQs7bu3uGyU84Am_v0FbZ5KHsD33360%26RG%3D1%26FrameSet%3D2%26RGID%3Drcd59c708a6fe102ed94ecc30f9f337fd)
-- event: 
   Name: “I Want To Apply. What Now?”
   description: Program director Henry Ahn will explain the proposal process, registrations and what to expect. 
   eventType: Webinar
