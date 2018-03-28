@@ -8,7 +8,7 @@ sidenav: fastlane
 
 Submitting a SBIR/STTR Phase I Proposal in FastLane
 
-The Phase I SBIR solicitation and STTR solicitation explain what information should go into the proposal. The following steps will walk through the process of submitting a proposal into FastLane, NSF's electronic submission system. Remember to submit your proposal early. FastLane will not accept proposals after 5:00 pm (submitter's time as registered in FastLane).
+The Phase I SBIR solicitation and STTR solicitation explain what information should go into the proposal. The following steps will walk through the process of submitting a proposal into FastLane, NSF's electronic submission system. Remember to submit your proposal early. FastLane will not accept proposals after 5:00 p.m. (Your time zone is set during online registration in Research.gov).
 
 PDF version is available for [download]({{ site.baseurl }}/assets/files/applicants/Phase_I_Proposal_Preparation_Booklet.pdf).
 
@@ -16,22 +16,20 @@ PDF version is available for [download]({{ site.baseurl }}/assets/files/applican
 
 ### Do you have the required registrations?
 
-Before you can register your small business with NSF and prepare/submit a proposal - you MUST register your company to do business with the U.S. government through the System for Award Management (SAM).  When you register in SAM, you’ll have to share bank account information. This registration process is free and takes only 10-15 minutes to initiate, but can take up to three weeks to complete.  SAM registration expires after one year and must be updated annually.  
-
-In order to register with SAM, your company must have a "DUNS number".  
-
-Companies submitting SBIR or STTR proposals to the Federal government must also register with the SBA Company Registry.  
-
-Once your company is registered in SAM, you must register the organization with NSF in Research.gov.  Only then can you login to FastLane and begin preparing your proposal.
-
 * [Dun and Bradstreet Data Universal Numbering System (DUNS)](https://www.nsf.gov/cgi-bin/good-bye?https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm)
 * [System for Award Management (SAM)](https://www.sam.gov/portal/public/SAM)
 * [Small Business Administration (SBA) Company Registry](https://www.sbir.gov/registration)
-* [NSF Research.gov](www.research.gov) - register company and Principal Investigator (PI)
+* [NSF Research.gov](www.research.gov) - register your company and Principal Investigator (PI)
+
+Before you can register your small business with NSF and prepare/submit a proposal - you MUST register your company to do business with the U.S. government through the System for Award Management (SAM).  When you register in SAM, you’ll have to share your company's "DUNS number" and bank account information. You'll also have to have an original, signed notarized letter stating that you are the authorized Entity Administrator before your registration will be activated. The SAM.gov registration process is free and takes only 10-15 minutes to initiate, but can take more than three weeks to complete. SAM registration expires after one year and must be updated annually.  
+
+Once your company is registered in SAM, you are able to register the organization with NSF in Research.gov.  Only after registering with Research.gov can you login to FastLane and begin preparing your proposal. (SBIR and STTR proposals are not accepted in Research.gov).
+
+Companies submitting SBIR or STTR proposals to the Federal government must also register with the Small Business Administration's Company Registry. 
 
 ### Register a New Organization
 
-Organizations must be registered with the National Science Foundation (NSF) to submit proposals using NSF’s systems. Before a new organization can register with NSF, it must first be registered in the System for Award Management (SAM - [https://www.sam.gov](https://www.sam.gov)) and have a DUNS number. Note that completion of the SAM registration process may take up to two weeks.Follow the step-by-step process below to register a new organization with NSF.
+Follow the step-by-step process below to register a new organization in Research.gov.
 
 **How do I register a new organization with NSF?**
 * Open [Research.gov](www.research.gov)
