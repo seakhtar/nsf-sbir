@@ -7,7 +7,7 @@ sidenav: fastlane
 # FastLane guide
 
 ## 2. Form Preparation
-At the top of the **Form Preparation** page will be the text **Forms for Temp Proposal #** - this number will be used as a reference throughout the preparation process. When your FastLane Contact/SPO finally submits your proposal to NSF, your proposal will be assigned an official NSF proposal number, the first two digits of which will match the fiscal year in which the proposal was submitted (e.g. proposals submitted between October 1, 2016 and September 30, 2017 will be numbered 17**xxxxx**). This official proposal number should be used in all further communications with NSF.
+At the top of the **Form Preparation** page will be the text **Forms for Temp Proposal #** - this number will be used as a reference throughout the preparation process. When your FastLane Contact/SPO finally submits your proposal to NSF, your proposal will be assigned an official NSF proposal number, the first two digits of which will match the fiscal year in which the proposal was submitted (e.g. proposals submitted between October 1, 2017 and September 30, 2018 will be numbered 18**xxxxx**). This official proposal number should be used in all further communications with NSF.
 
 ### Cover Sheet
 Click on the **"GO"** button to the left of **"Cover Sheet"**.
@@ -101,9 +101,9 @@ Check the appropriate box(s) if your company is a Minority or Woman-Owned Busine
 
 ![Other information options]({{ site.baseurl }}/assets/img/fastlane/15-other-information.jpg)
 
-**"Funding Mechanism:** Select "Research"
+**"Type of Proposal":** Select "Research"
 
-![Funding Mechanism dropdown]({{ site.baseurl }}/assets/img/fastlane/16-funding-mechanism-2017.jpg)
+![Type of Proposal dropdown]({{ site.baseurl }}/assets/img/fastlane/typeproposal.jpg)
 
 **"Collaborative Status":** Select "Not a collaborative proposal". _Note: The inclusion of a subaward to a university does not make this a 'collaborative' proposal. The SBIR/STTR Program does not accept collaborative proposals. The small business must upload all required budgets and subaward files into their single proposal submission._
 
@@ -117,7 +117,7 @@ Check the appropriate box(s) if your company is a Minority or Woman-Owned Busine
 
 ![Small business concern options]({{ site.baseurl }}/assets/img/fastlane/19-small-business-concern.jpg)
 
-NOTE: If the PI responds "YES" to the question "It has received Phase II awards from the Federal Government", the company's Company Commercialization History must be provided in the Supplementary Documents module of the proposal or the entire proposal will be Returned Without Review. The [Company Commercialization History must be submitted on the NSF template]({{ site.baseurl }}/resources/awardees/phase-2/forms/).
+NOTE: If the PI responds "YES" to the question "It has received Phase II awards from the Federal Government", the company's Company Commercialization History must be provided in the Supplementary Documents module of the proposal or the entire proposal will be Returned Without Review. The [Company Commercialization History must be submitted on the NSF template]( https://seedfund.nsf.gov/assets/files/awardees/CommercialHistoryTemplate.xls).
 
 **"Company Officer Information (For Business and Financial Matters)"**, **"Other Information"**, **"Affiliated Companies"**, **"Research Institution Investigator"** and **"Proprietary Notice"**: Fill in all requested information.
 
@@ -144,3 +144,5 @@ Click "Add Non Co-PI Senior Person to Proposal" after inputting the First Name, 
 ![Adding non co-pi senior person form]({{ site.baseurl }}/assets/img/fastlane/24-add-delete-non-copi-senior-personnel.jpg)
 
 After adding all participants, click **"Go Back"** until you return to the "Form Preparation" screen.
+
+[Prev]({{ site.baseurl }}/fastlane/) \| [Next]({{ site.baseurl }}/fastlane/form-prep-2/)

@@ -102,6 +102,16 @@ It is recommended that proposers allot funds for fringe benefits here ONLY if th
   G.4. Computer (ADPE) Services
   G.5. Subcontracts - a separate budget is REQUIRED for each subcontractor; the total amount of all these subcontracts should be entered here. (In the small business concern's Budget Justification, please include a few sentences describing the scope and objective of the subaward.)
   G.6.Other
+  Firstly, the applicant may budget up to $10,000 as a direct charge on line G.6 to this Phase I award for the following specific purposes related to financials and accounting:
+  * Hiring a certified public accountant (CPA) to prepare audited, compiled, or reviewed financial statements
+  * Hiring a CPA to perform an initial financial viability assessment based on standard financial ratios so the awardee organization would have time to improve their financial position prior to submitting the Phase II proposal
+  * Hiring a CPA to review the adequacy of the awardee's project cost accounting system
+  * Purchasing a project cost accounting system
+
+If the applicant elects to budget funds for one of the above purposes, the budget justification should include a brief description of the desired use of funds, and the use of funds must be approved by the cognizant Program Director, prior to award.
+
+Second, the applicant may budget up to $20,000 to cover costs related to NSF's "Beat-The-Odds Boot Camp" which is offered to all Phase I awardees.
+This program is based on the NSF's Innovation Corps program, and more information can be found here. All Phase I awardees are strongly encouraged to participate in this activity. Costs that are allowable are limited to travel costs related to customer discovery (this could include costs associated with registration/attendance at events for the purpose of customer discovery) and salary/wages for team members who participated in the Boot Camp. All costs related to the Boot Camp must be in line with approved salary rates and other relevant Federal guidelines. International travel cannot be reimbursed, nor can any salary/wages for work done while outside of the United States. NSF recommends that, for the purposes of the proposal budget, applicants that plan to participate in this activity budget $10,000 and simply list this as "Boot Camp" costs in the budget justification.
 
 ![Other Direct Costs section with input fields for funds requested]({{ site.baseurl }}/assets/img/fastlane/15-OtherCosts.jpg)
 
@@ -230,7 +240,7 @@ Printed circuit boards: $200 per board * 10 boards = $2,000
 Total budgeted materials and supplies is $10,000.
 
 **G.3. Consultant Services**
-Dr. I. D. Snow will be work on the project as a consultant. She will work for a total of 40 days at a rate of compensation of $62.50 per hour ($500/day, which is less than the maximum allowed consultant rate of $600/day). Total requested costs are $20,000. A copy of the signed commitment letter from Dr. Snow is included with this budget justification.
+Dr. I. D. Snow will be work on the project as a consultant. She will work for a total of 40 days at a rate of compensation of $62.50 per hour ($500/day, which is less than the maximum allowed consultant rate of $1000/day). Total requested costs are $20,000. A copy of the signed commitment letter from Dr. Snow is included with this budget justification.
 
 **G.5. Subawards**
 One subaward will be executed with Brown University. A signed letter of commitment from the subaward lead, Dr. Fred Johnson, is included in the proposal package. A full subaward budget and budget justification is also included with the proposal. The total subaward amount is $40,000.
@@ -244,3 +254,5 @@ The total fringe plus indirect cost requested for this project is $38,000, which
 
 **K. Fee**
 The fee requested is the maximum allowed rate of 7% of the total direct plus indirect costs (line J). This amounts to a total requested fee of $14,630.
+
+[Prev]({{ site.baseurl }}/fastlane/form-prep/) \| [Next]({{ site.baseurl }}/fastlane/form-prep-3/)
