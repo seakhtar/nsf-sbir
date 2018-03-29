@@ -115,3 +115,5 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 Follow the instructions on the below screen, then click **"Upload File"** to upload document. Click **"Go Back"** until you return to the "Proposal Actions" screen.
 
 ![Other Supplementary Docs file upload screen]({{ site.baseurl }}/assets/img/fastlane/43-other-supplementary-docs2.jpg)
+
+[Prev]({{ site.baseurl }}/fastlane/form-prep-2/) \| [Next]({{ site.baseurl }}/fastlane/proposal-submission/)
