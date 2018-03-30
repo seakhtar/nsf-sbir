@@ -343,16 +343,16 @@
   permalink: /topics/other/
   topic_code: ot
   programDirector:
-    - name: Ben Schrag
-      last_name: Schrag
-      api_name: Ben Schrag
-      email: bschrag@nsf.gov
-      photo: Ben-compressed.jpg
-    - name: Anna Brady-Estevez
-      last_name: Brady-Estevez
-      api_name: Ben Schrag
-      email: abrady@nsf.gov
-      photo: Anna-compressed.jpg
+  - name: Ben Schrag
+    last_name: Schrag
+    api_name: Ben Schrag
+    email: bschrag@nsf.gov
+    photo: Ben-compressed.jpg
+  - name: Anna Brady-Estevez
+    last_name: Brady-Estevez
+    api_name: Ben Schrag
+    email: abrady@nsf.gov
+    photo: Anna-compressed.jpg
   subtopics:
-      - The Other Topics category is intended to be a home for any proposed project that doesn't seem to fit into one of the other Technology Topic Areas, but still seems to meet our goals of supporting research and development of innovative, risky, unproven technology with commercial viability and possible social benefit.<br><br><span style="text-decoration:underline;">Distributed Ledger and Blockchain:</span> Distributed Ledger Technologies, including Blockchains, Sidechains, Distributed Acyclic Graphs and Other Implementations — Security, Anonymity and Identification — Scalability and Efficiency Solutions — Consensus Methods — Business Models Innovation —Smart Contract Innovations — Organizational Structure and Collaboration — Ease of Use and Simplification
+  - The Other Topics category is intended to be a home for any proposed project that doesn't seem to fit into one of the other Technology Topic Areas, but still seems to meet our goals of supporting research and development of innovative, risky, unproven technology with commercial viability and possible social benefit.<br><br><span style="text-decoration:underline;">Distributed Ledger and Blockchain:</span> Distributed Ledger Technologies, including Blockchains, Sidechains, Distributed Acyclic Graphs and Other Implementations — Security, Anonymity and Identification — Scalability and Efficiency Solutions — Consensus Methods — Business Models Innovation —Smart Contract Innovations — Organizational Structure and Collaboration — Ease of Use and Simplification
   companies:
