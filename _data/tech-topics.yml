@@ -162,7 +162,7 @@
     - name: Cycladex
     - name: Cambrian Innovation Inc
 
-- topic: Digital Health (DH)
+- topic: Digital Health (DH) and Medical Devices (MD)
   permalink: /topics/digital-health-and-medical-devices/
   topic_code: sh
   programDirector:
@@ -178,6 +178,7 @@
     - From Data to Decisions (DH3)
     - Interoperability of Health Record Systems, Medical Sensors, Devices, and Robotics (DH4)
     - Empowering Individuals and Communities (DH5)
+    - Medical Devices (MD1)
   companies:
     - name: TAO Connect, Inc.
     - name: Neural Analytics
@@ -260,8 +261,8 @@
     - name: Leonardo Innovations Inc.
     - name: RightHand Robotics, LLC
 
-- topic: Internet of Things (I)
-  permalink: /topics/internet-of-things-semiconductors-and-photonic-devices-and-materials/
+- topic: Internet of Things (I), Semiconductors (S), and Photonic (PH) Devices and Materials
+  permalink: /topics/internet-of-things-semiconductors-and-photoic-devices/
   topic_code: 
     -i
     -sp
@@ -277,6 +278,17 @@
     - IoT Energy and Power Systems (IoT2)
     - IoT Communications (IoT3)
     - IoT Integrated Systems (IoT4)
+    - Photonics (PH)
+    - Lighting and Displayss (PH1)
+    - Communications, Information, and Data Storage (PH2)
+    - Energy (PH3)
+    - Advanced Metrology and Sensors (PH4)
+    - Advanced Optical Components and Systems (PH5)
+    - Semiconductors (S)
+    - Electronic Materials (S1)
+    - Electronic Devices (S2)
+    - Processing and Metrology Technology (S3)
+    - Integrated Circuit Design (S4)
   companies:
     - name: Runtime Verification, Inc.
     - name: SensorHound, Inc.
@@ -326,66 +338,6 @@
     - name: NGD Systems, Inc.
     - name: AppScale Systems, Inc.
     - name: Bay Labs, Inc.
-    
-- topic: Medical Devices (MD)
-  permalink: /topics/digital-health-and-medical-devices/
-  topic_code: sh
-  programDirector:
-    - name: Nancy Kamei
-      last_name: Kamei
-      api_name: Jesus Soriano Molla
-      email: nkamei@nsf.gov
-      photo: Kamei-compressed.jpg
-      bio: "is a Program Director focused on Medical Devices and Digital Health. In 2017, after several years of retirement, she joined the Division of Industrial Innovation and Partnerships to serve the United States’ entrepreneurial ecosystem. For several years, she served as a National Instructor for the Innovation Corps (I-Corps™) program, interacting with NSF and National Institutes of Health grantees, which inspired her to join the SBIR/STTR Program and continue working with innovators and entrepreneurs. Nancy has more than 20 years of experience as an investor, having selected and managed billions of dollars of investments of both public equities (Capital Group Companies) and venture capital (Intel Capital). She is also a serial entrepreneur, having been on the founding team of several Silicon Valley startups (Onyx Pharmaceuticals). After receiving her Doctor of Pharmacy degree from University of California, San Francisco, she started her career at Merck and then completed her Master of Business Administration at Stanford Graduate School of Business. Nancy also has more than 40 years of service to the non-profit sector. She recently relocated to the Washington, D.C. area after a lifetime in California."  
-  subtopics:
-    - Medical Devices (MD1)
-  companies:
-    - name: TAO Connect, Inc.
-    - name: Neural Analytics
-    - name: Care Progress, LLC
-    - name: Roundtable Analytics LLC
-    - name: HealthMyne, Inc.
-    - name: Aperiomics, Inc.
-    - name: ConsortiEX, Inc
-    - name: Guiding Technologies Corporation
-    - name: Radial Analytics, Inc.
-
-- topic: Semiconductors (S), and Photonic (PH) Devices and Materials
-  permalink: /topics/internet-of-things-semiconductors-and-photonic-devices-and-materials/
-  topic_code:
-    -i
-    -sp
-  programDirector:
-    - name: Rick Schwerdtfeger
-      last_name: Schwerdtfeger
-      api_name: Richard Schwerdtfeger
-      email: rschwerd@nsf.gov
-      photo: Rick-compressed.jpg
-      bio: "joined the National Science Foundation in August 2016 as the SBIR/STTR Program Director for the Semiconductors and Photonics, and Internet of Things (IoT) portfolios. Prior to joining NSF, Rick was the CTO and Co-Founder of the Advanced RenewableEnergy Company, a clean-tech and semiconductor equipment company, where he led the technology development and customer deployment of nearly $200MM of equipment in the first 4 years. Additionally he was the COO of Pica Solar, a DOE-funded solar cell technologies start-up. Rick is also an advisory board member of ClearCove Systems, a waste water and renewable energy company. In addition to these entrepreneurial ventures, Rick was a Senior Project Scientist at the non-profit Edison Materials Technology Center, a Senior R&D Scientist at Saint Gobain, and the Crystal Growth Group leader at Alpha Spectra. He started his career as a Staff Scientist doing solar energy research at the National Renewable Energy Laboratory. Rick as grown some of the largest sapphire, calcium fluoride, sodium iodide, and copper indium diselenide crystals in the world, which have been used to lower costs of technology for energy, lighting, radiation detection and other industrial and photonic applications. Rick has spent his career taking the “art” out of science, and replacing it with good engineering, experimentation and automation to solve challenging problems in the renewable energy, clean water, smart grid and high-tech world. Rick holds a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied Physics from Pittsburg State University, and a B.S. in Physics and Science Education from the University of Dubuque."
-  subtopics:
-    - Photonics (PH)
-    - Lighting and Displayss (PH1)
-    - Communications, Information, and Data Storage (PH2)
-    - Energy (PH3)
-    - Advanced Metrology and Sensors (PH4)
-    - Advanced Optical Components and Systems (PH5)
-    - Semiconductors (S)
-    - Electronic Materials (S1)
-    - Electronic Devices (S2)
-    - Processing and Metrology Technology (S3)
-    - Integrated Circuit Design (S4)
-  companies:
-    - name: Runtime Verification, Inc.
-    - name: SensorHound, Inc.
-    - name: Arable Labs, Inc.
-    - name: One Million Metrics Corp
-    - name: IOTAS, Inc.
-    - name: Endectra, LLC
-    - name: NGCodec Inc.
-    - name: TexasLDPC Inc.
-      dba: Symbyon Systems
-    - name: Multicore Photonics, Inc.
-    - name: Uniqarta, Inc.
 
 - topic: Other Topics (OT)
   permalink: /topics/other/
