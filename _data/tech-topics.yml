@@ -9,16 +9,19 @@
       photo: Molnar-compressed.jpg
       bio: "has more than 20 years of experience in the life science and chemical industries, integrating her scientific research and engineering background with commercialization for startups, and international, government, and business environments. She joined NSF as an SBIR/STTR Program Director in 2017. Previously, she was co-founder and CEO of Simpatica Medicine, Inc., an artificial intelligence precision medicine company based in San Francisco, California. Linda founded and worked with life science startup companies from many universities. She has also provided strategic consultancy to venture capital firms, public companies, non-profit institutes, and the federal government. Her background includes positions as Managing Director in the Life Sciences Merchant Banking group and Venture Group at Burrill & Company, Executive in Residence at Momentum Biosciences, Program Officer for the National Cancer Institute in the Office of the Director (Center for Strategic Scientific Initiatives), and research and business development roles at Caliper Life Sciences, NASA Ames Research Center, and Rohm & Haas Co. Linda completed the University of Pennsylvania’s Wharton Executive Management Program and holds a Ph.D. from the Program in Polymer Science and Technology (Materials Science and Chemical Engineering) from Massachusetts Institute of Technology and a B.S. in Chemistry (Biology) from the University of Pittsburgh."
   subtopics:
-    - Manufacturing Technologies (M1)
-    - Bio-Inspired Manufacturing (M2)
-    - Additive Manufacturing Components & Systems (M3)
-    - Modeling & Simulation (M4)
-    - Cybermanufacturing (M5)
-    - Personalized Manufacturing / Maker Manufacturing / Maker to Manufacturer (M6)
+    - Personalized Manufacturing (M1)
+    - Maker Manufacturing (M2)
+    - Maker-to-Manufacturer (M3)
+    - Additive Manufacturing (M4)
+    - Modeling and Simulation (M5)
+    - Machines and Equipment (M6)
     - Transportation Technologies (M7)
-    - Human-Centric Industrial Technologies (M8)
-    - Manufacturing for Emerging Markets (M9)
-    - Sustainable Manufacturing Technolog (M10)
+    - Rare Earths and Critical Materials Processing Technology (M8)
+    - Manufacturing Technologies (M9)
+    - Bio-inspired Manufacturing (M10)
+    - People-Centered Industrial Technologies (M11)
+    - Manufacturing for Emerging Markets (M12)
+    - Sustainable Manufacturing Technology (M13)
     - Nanomaterials (N1)
     - Nanomanufacturing (N2)
     - Nanotechnology-Based Solutions to Grand Challenges (N3)
@@ -110,10 +113,11 @@
   subtopics:
     - Pharmaceutical Manufacturing (BM1)
     - Materials for Biomedical Applications (BM2)
-    - Noninvasive Imaging of Brain Function (BM3)
-    - Medical Imaging Technologies (BM4)
-    - Diagnostic Assays and Platforms (BM5)
-    - Drug Delivery (BM6)
+    - Biomedical Engineering (BM3)
+    - Noninvasive Imaging of Brain Function (BM4)
+    - Medical Imaging Technologies (BM5)
+    - Diagnostic Assays and Platforms (BM6)
+    - Drug Delivery (BM7)
   companies:
     - name: Protein Dynamic Solutions, LLC
     - name: Camras Vision, Inc.
@@ -136,15 +140,15 @@
       photo: Anna-compressed.jpg
       bio: "joined the National Science Foundation as SBIR/STTR Program Director leading Chemical and Environmental Technologies. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous start-ups having worked as: an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of ~30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning: nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the US Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a BS in Chemical Engineering and BA in Spanish from The Johns Hopkins University."
   subtopics:
-    - Bio-based Chemicals and Biochemical Processes (CT1)
+    - Biobased Chemicals and Biochemical Processes (CT1)
     - Chemicals, Polymers, Plastics, and Derivatives (CT2)
     - Novel Catalysts and Processes (CT3)
-    - Chemicals and technologies pertaining to Carbon Dioxide and Methane (CT4)
+    - Chemicals from Carbon Dioxide and Methane (CT4)
     - Food Technology (CT5)
     - Energy Efficiency, Capture, Storage, and Use (CT6)
-    - Energy Generation, Oil & Gas Transformation, Bioenergy, Renewable Fuel Technology (CT7)
+    - Energy Generation, Bioenergy, and Renewable Fuel Technology (CT7)
     - Separation Technology (CT8)
-    - Resource and Water Conservation, Treatment and Reuse, Waste Minimization and Environmental Sustainability, Handling of Produced Water (CT9)
+    - Resource and Water Conservation, Treatment and Reuse, Waste Minimization, and Environmental Sustainability (CT9)
     - Environmental Sensing, Environmental Pollution Control, and Mitigation (CT10)
     - Plant-based Products and Sustainable Agricultural Innovations (CT11)
     - Chemical Production Efficiency and Productivity (CT12)
@@ -162,8 +166,8 @@
     - name: Cycladex
     - name: Cambrian Innovation Inc
 
-- topic: Digital Health (DH)
-  permalink: /topics/digital-health/
+- topic: Digital Health (DH) and Medical Devices (MD)
+  permalink: /topics/digital-health-and-medical-devices/
   topic_code: sh
   programDirector:
     - name: Nancy Kamei
@@ -189,6 +193,7 @@
     - name: Guiding Technologies Corporation
     - name: Radial Analytics, Inc.
 
+
 - topic: Educational Technologies and Applications (EA)
   permalink: /topics/educational/
   topic_code: ea
@@ -205,9 +210,6 @@
     - Simulations and Gaming Technologies (EA3)
     - Entrepreneurial, Informal, and Maker Education (EA4)
     - Information, Computer Science, and Engineering (EA5)
-    - Emotional Intelligence (EI) Enhancing Educational Innovations (EA6)
-    - Education & Training for the Emerging Fourth Sector Eco-system (EA7)
-    - Topical Education of Citizens (EA8)
   companies:
     - name: Mgenuity Corporation
     - name: LaunchPad Central Inc.
@@ -236,18 +238,22 @@
       photo: Murali-compressed.jpg
       bio: "is a Program Director in the areas of Electronic Hardware, Robotics, and Wireless Technologies with the SBIR/STTR Program. Prior to joining NSF in January 2003, he was the Founder CEO of a Bluetooth wireless product company. In this capacity, he raised equity capital for worldwide operations in the U.S., China and India. He designed, planned and implemented the product development cycle, and managed the marketing strategy, strategic alliances and business development processes. Before that, he was a Senior Systems Engineer at L-3 Communications where he provided strategic advice to the Executive VP for a complete re-plan of the Hughes contract for real-time, embedded ground control software for the $350M PANAMSAT communications satellite. Prior to joining L-3 Communications, he was a Mission Planner at Motorola Iridium where he was involved in all aspects of satellite operations including orbit determination, generating guidance targets and orbital slot placement. Before joining Iridium, he was a faculty member at Embry-Riddle Aeronautical University, where he developed an entire Space Systems Design Lab from concept inception to fully operational mode and national prominence, and supervised five (5) space system designs, three (3) of which were winners in the National AIAA/Loral Design Competition. He is a recipient of a number of awards including NSF’s second highest award for meritorious service and the President’s Innovation Award for Space Systems Design courses while at Embry-Riddle. Murali is a graduate of the Indian Institute of Technology and the University of Texas. He is a registered professional engineer in the State of Florida."
   subtopics:
-    - Energy and Power Management (EP)
-    - Energy Harvesting, Storage and Management (EP1)
-    - Smart Grids, Infrastructure, and Power Management (EP2)
-    - Micro-electronics Packaging, Thermal Management & Systems Integration (MT)
-    - Robotics and Human Assistive Technologies (RH)
-    - Human-Machine Interfaces and Control/Architecture (RH1)
-    - Robotic Applications (RH2)
-    - Robotics in Agile Manufacturing, and Co-Robots (RH3)
-    - Human Assistive Technologies and Bio-related Robotics (RH4)
     - Wireless Technologies (WT)
-    - Wireless Systems (WT1)
+    - Systems and Devices (WT1)
     - Wireless Devices and Components (WT2)
+    - Energy and Power Management (EP)
+    - Electronic Devices, Boards and Interfaces (EP1)
+    - Device and System Level (EP2)
+    - Smart Grids and Infrastructure (EP3)
+    - Power Management (EP4)
+    - Robotics and Human Assistive Technologies (RH)
+    - Learning, Intelligence, and Motion (RH1)
+    - Robotic Applications (RH2)
+    - Robotics in Agile Manufacturing (RH3)
+    - Co-robots (RH4)
+    - Human-machine Interfaces and Control/Architecture (RH5)
+    - Human Assistive Technologies and Bio-related Robotics (RH6)
+    - Micro-electronics Packaging, Thermal Management, and Systems Integration (MT)
   companies:
     - name: TACTAI
       allow_recent: true
@@ -259,36 +265,7 @@
     - name: nView medical Inc.
     - name: Leonardo Innovations Inc.
     - name: RightHand Robotics, LLC
-    
-- topic: Internet of Things (I)
-  permalink: /topics/internet-of-things/
-  topic_code: 
-    -i
-  programDirector:
-    - name: Rick Schwerdtfeger
-      last_name: Schwerdtfeger
-      api_name: Richard Schwerdtfeger
-      email: rschwerd@nsf.gov
-      photo: Rick-compressed.jpg
-      bio: "joined the National Science Foundation in August 2016 as the SBIR/STTR Program Director for the Semiconductors and Photonics, and Internet of Things (IoT) portfolios. Prior to joining NSF, Rick was the CTO and Co-Founder of the Advanced RenewableEnergy Company, a clean-tech and semiconductor equipment company, where he led the technology development and customer deployment of nearly $200MM of equipment in the first 4 years. Additionally he was the COO of Pica Solar, a DOE-funded solar cell technologies start-up. Rick is also an advisory board member of ClearCove Systems, a waste water and renewable energy company. In addition to these entrepreneurial ventures, Rick was a Senior Project Scientist at the non-profit Edison Materials Technology Center, a Senior R&D Scientist at Saint Gobain, and the Crystal Growth Group leader at Alpha Spectra. He started his career as a Staff Scientist doing solar energy research at the National Renewable Energy Laboratory. Rick as grown some of the largest sapphire, calcium fluoride, sodium iodide, and copper indium diselenide crystals in the world, which have been used to lower costs of technology for energy, lighting, radiation detection and other industrial and photonic applications. Rick has spent his career taking the “art” out of science, and replacing it with good engineering, experimentation and automation to solve challenging problems in the renewable energy, clean water, smart grid and high-tech world. Rick holds a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied Physics from Pittsburg State University, and a B.S. in Physics and Science Education from the University of Dubuque."
-  subtopics:
-    - IoT Sensors and Actuators (IoT1)
-    - IoT Energy and Power Systems (IoT2)
-    - IoT Communications (IoT3)
-    - IoT Integrated Systems (IoT4)
-  companies:
-    - name: Runtime Verification, Inc.
-    - name: SensorHound, Inc.
-    - name: Arable Labs, Inc.
-    - name: One Million Metrics Corp
-    - name: IOTAS, Inc.
-    - name: Endectra, LLC
-    - name: NGCodec Inc.
-    - name: TexasLDPC Inc.
-      dba: Symbyon Systems
-    - name: Multicore Photonics, Inc.
-    - name: Uniqarta, Inc.
-    
+
 - topic: Information Technologies (IT)
   permalink: /topics/information-technologies/
   topic_code: it
@@ -306,11 +283,11 @@
   - Cybersecurity, Authentication, and Privacy (IT4)
   - Cybersecurity for the Internet of Things (IT5)
   - Networking Technology (IT6)
-  - Mobile Computing; Internet of Things (IT7)
-  - Cloud Computing; High-performance Computing (IT8)
+  - Mobile Computing and Internet of Things (IT7)
+  - Cloud Computing and High-performance Computing (IT8)
   - Cloud-based IT Services (IT9)
-  - Big Data and Advanced Analytics (IT10)
-  - Human-computer Interaction; Virtual Reality; and Augmented Reality (IT11)
+  - Big Data and Advanced Data Analytics (IT10)
+  - Human-computer Interaction, Virtual Reality, and Augmented Reality (IT11)
   - Social Media and Collaborative Networking (IT12)
   - Software (IT13)
   - Other (IT14)
@@ -326,32 +303,10 @@
     - name: AppScale Systems, Inc.
     - name: Bay Labs, Inc.
 
-- topic: Medical Devices (MD)
-  permalink: /topics/medical-devices/
-  topic_code: sh
-  programDirector:
-    - name: Nancy Kamei
-      last_name: Kamei
-      api_name: Jesus Soriano Molla
-      email: nkamei@nsf.gov
-      photo: Kamei-compressed.jpg
-      bio: "is a Program Director focused on Medical Devices and Digital Health. In 2017, after several years of retirement, she joined the Division of Industrial Innovation and Partnerships to serve the United States’ entrepreneurial ecosystem. For several years, she served as a National Instructor for the Innovation Corps (I-Corps™) program, interacting with NSF and National Institutes of Health grantees, which inspired her to join the SBIR/STTR Program and continue working with innovators and entrepreneurs. Nancy has more than 20 years of experience as an investor, having selected and managed billions of dollars of investments of both public equities (Capital Group Companies) and venture capital (Intel Capital). She is also a serial entrepreneur, having been on the founding team of several Silicon Valley startups (Onyx Pharmaceuticals). After receiving her Doctor of Pharmacy degree from University of California, San Francisco, she started her career at Merck and then completed her Master of Business Administration at Stanford Graduate School of Business. Nancy also has more than 40 years of service to the non-profit sector. She recently relocated to the Washington, D.C. area after a lifetime in California."  
-  subtopics:
-    - Medical Devices (MD1)
-  companies:
-    - name: TAO Connect, Inc.
-    - name: Neural Analytics
-    - name: Care Progress, LLC
-    - name: Roundtable Analytics LLC
-    - name: HealthMyne, Inc.
-    - name: Aperiomics, Inc.
-    - name: ConsortiEX, Inc
-    - name: Guiding Technologies Corporation
-    - name: Radial Analytics, Inc.
- 
- - topic: Semiconductors (S), and Photonic (PH) Devices and Materials
-  permalink: /topics/semiconductors-and-photonic-devices-and-materials/
+- topic: Internet of Things (I), Semiconductors (S), and Photonic Devices and Materials (PH)
+  permalink: /topics/internet-of-things-semiconductors-and-photonic-devices-and-materials/
   topic_code: 
+    -i
     -sp
   programDirector:
     - name: Rick Schwerdtfeger
@@ -361,8 +316,14 @@
       photo: Rick-compressed.jpg
       bio: "joined the National Science Foundation in August 2016 as the SBIR/STTR Program Director for the Semiconductors and Photonics, and Internet of Things (IoT) portfolios. Prior to joining NSF, Rick was the CTO and Co-Founder of the Advanced RenewableEnergy Company, a clean-tech and semiconductor equipment company, where he led the technology development and customer deployment of nearly $200MM of equipment in the first 4 years. Additionally he was the COO of Pica Solar, a DOE-funded solar cell technologies start-up. Rick is also an advisory board member of ClearCove Systems, a waste water and renewable energy company. In addition to these entrepreneurial ventures, Rick was a Senior Project Scientist at the non-profit Edison Materials Technology Center, a Senior R&D Scientist at Saint Gobain, and the Crystal Growth Group leader at Alpha Spectra. He started his career as a Staff Scientist doing solar energy research at the National Renewable Energy Laboratory. Rick as grown some of the largest sapphire, calcium fluoride, sodium iodide, and copper indium diselenide crystals in the world, which have been used to lower costs of technology for energy, lighting, radiation detection and other industrial and photonic applications. Rick has spent his career taking the “art” out of science, and replacing it with good engineering, experimentation and automation to solve challenging problems in the renewable energy, clean water, smart grid and high-tech world. Rick holds a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied Physics from Pittsburg State University, and a B.S. in Physics and Science Education from the University of Dubuque."
   subtopics:
+    - IoT Sensors and Actuators (IoT1)
+    - IoT Energy and Power Systems (IoT2)
+    - IoT Communications (IoT3)
+    - IoT Integrated Systems (IoT4)
+    - IoT IT, Cloud, Big Data, and Security and Privacy (also see IT portfolio topics)
+    - Semiconductors (S) / Photonic Devices and Materials (PH)
     - Photonics (PH)
-    - Lighting and Displayss (PH1)
+    - Lighting and Displays (PH1)
     - Communications, Information, and Data Storage (PH2)
     - Energy (PH3)
     - Advanced Metrology and Sensors (PH4)
@@ -384,7 +345,7 @@
       dba: Symbyon Systems
     - name: Multicore Photonics, Inc.
     - name: Uniqarta, Inc.
-    
+
 - topic: Other Topics (OT)
   permalink: /topics/other/
   topic_code: ot
