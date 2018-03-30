@@ -7,7 +7,6 @@ section_image: "/assets/img/bg/arable-2c-s-ph.jpg"
 section_image_caption: |
   [Arable Labs Inc.]({{ site.baseurl}}/portfolio/details/?company=arable-labs-inc#arable-labs-inc)’s advanced microclimate and crop growth monitoring device, the Mark.
 ---
-
 ### Photonics (PH) 
 The Photonics topic addresses the research and development of new materials, devices, components, and systems that have the potential for revolutionary change in the optics and photonics industries. Proposals should be motivated by market opportunity, a compelling value proposition, clearly identified end users and customers of the proposed technology, and a viable pathway to commercialization. 
 
