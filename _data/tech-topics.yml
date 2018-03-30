@@ -260,6 +260,35 @@
     - name: Leonardo Innovations Inc.
     - name: RightHand Robotics, LLC
 
+- topic: Internet of Things (I)
+  permalink: /topics/internet-of-things/
+  topic_code: 
+    -i
+  programDirector:
+    - name: Rick Schwerdtfeger
+      last_name: Schwerdtfeger
+      api_name: Richard Schwerdtfeger
+      email: rschwerd@nsf.gov
+      photo: Rick-compressed.jpg
+      bio: "joined the National Science Foundation in August 2016 as the SBIR/STTR Program Director for the Semiconductors and Photonics, and Internet of Things (IoT) portfolios. Prior to joining NSF, Rick was the CTO and Co-Founder of the Advanced RenewableEnergy Company, a clean-tech and semiconductor equipment company, where he led the technology development and customer deployment of nearly $200MM of equipment in the first 4 years. Additionally he was the COO of Pica Solar, a DOE-funded solar cell technologies start-up. Rick is also an advisory board member of ClearCove Systems, a waste water and renewable energy company. In addition to these entrepreneurial ventures, Rick was a Senior Project Scientist at the non-profit Edison Materials Technology Center, a Senior R&D Scientist at Saint Gobain, and the Crystal Growth Group leader at Alpha Spectra. He started his career as a Staff Scientist doing solar energy research at the National Renewable Energy Laboratory. Rick as grown some of the largest sapphire, calcium fluoride, sodium iodide, and copper indium diselenide crystals in the world, which have been used to lower costs of technology for energy, lighting, radiation detection and other industrial and photonic applications. Rick has spent his career taking the “art” out of science, and replacing it with good engineering, experimentation and automation to solve challenging problems in the renewable energy, clean water, smart grid and high-tech world. Rick holds a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied Physics from Pittsburg State University, and a B.S. in Physics and Science Education from the University of Dubuque."
+  subtopics:
+    - IoT Sensors and Actuators (IoT1)
+    - IoT Energy and Power Systems (IoT2)
+    - IoT Communications (IoT3)
+    - IoT Integrated Systems (IoT4)
+  companies:
+    - name: Runtime Verification, Inc.
+    - name: SensorHound, Inc.
+    - name: Arable Labs, Inc.
+    - name: One Million Metrics Corp
+    - name: IOTAS, Inc.
+    - name: Endectra, LLC
+    - name: NGCodec Inc.
+    - name: TexasLDPC Inc.
+      dba: Symbyon Systems
+    - name: Multicore Photonics, Inc.
+    - name: Uniqarta, Inc.
+
 - topic: Information Technologies (IT)
   permalink: /topics/information-technologies/
   topic_code: it
