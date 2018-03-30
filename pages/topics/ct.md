@@ -1,5 +1,5 @@
 ---
-title: Chemical and Environmental Technologies
+title: Chemical and Environmental Technologies (CT)
 permalink: /topics/chemical-and-environmental/
 layout: tech-topic
 topic_code: ct
