@@ -33,7 +33,6 @@ The Semiconductors topic addresses the research and development of new designs, 
 Subtopic includes (but is not limited to) novel semiconductor materials, magnetic materials, advanced thermal management materials for device integration, materials for advanced lithography, and materials for high-temperature, high-power, or high-frequency applications. 
 
 #### S2. Electronic Devices  
-
 Subtopic includes (but is not limited to) advanced semiconductor devices, bioelectronics and biomagnetics, quantum devices, magnetic and multiferrous and spintronics devices, memory devices, power electronics, flexible electronics, and nanoelectronic devices.  
 
 #### S3. Processing and Metrology Technology  
