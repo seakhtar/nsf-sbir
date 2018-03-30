@@ -37,7 +37,6 @@
   piLastName: Abhyankar
   piPhone: '2032041158'
   poName: Peter Atherton
-  ttopic: IT
   date: 12/01/2016
   startDate: 12/01/2016
   expDate: 08/31/2017
@@ -62,7 +61,6 @@
   piMiddeInitial: M
   piPhone: '4437566859'
   poName: Peter Atherton
-  ttopic: IT
   date: 12/23/2015
   startDate: 01/01/2016
   expDate: 08/31/2017
@@ -86,7 +84,6 @@
   piMiddeInitial: S
   piPhone: '8058078816'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 09/30/2017
@@ -141,7 +138,6 @@
   piMiddeInitial: R
   piPhone: '6302108300'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 06/22/2016
   startDate: 07/01/2016
   expDate: 06/30/2018
@@ -166,7 +162,6 @@
   piLastName: Chakraborty
   piPhone: '3304753878'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/21/2016
   startDate: 01/01/2017
   expDate: 12/31/2017
@@ -190,7 +185,6 @@
   piLastName: Smith
   piPhone: '4132180629'
   poName: Richard Schwerdtfeger
-  ttopic: I
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 12/31/2017
@@ -237,7 +231,6 @@
   piLastName: Shekarriz
   piPhone: '5037849804'
   poName: Jesus Soriano Molla
-  ttopic: SH
   date: 06/24/2016
   startDate: 07/01/2016
   expDate: 10/31/2017
@@ -262,7 +255,6 @@
   piMiddeInitial: S
   piPhone: '6504640285'
   poName: Peter Atherton
-  ttopic: IT
   date: 12/12/2016
   startDate: 12/15/2016
   expDate: 08/31/2017
@@ -286,7 +278,6 @@
   piLastName: Sankar
   piPhone: '9199854723'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 12/01/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -338,7 +329,6 @@
   piMiddeInitial: E
   piPhone: '6505213567'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/24/2016
   startDate: 07/01/2016
   expDate: 09/30/2017
@@ -361,7 +351,6 @@
   piLastName: Midha
   piPhone: '6178403213'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/21/2016
   startDate: 07/01/2016
   expDate: 09/30/2017
@@ -413,7 +402,6 @@
   piLastName: Watkins
   piPhone: '5023209373'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 06/21/2016
   startDate: 07/01/2016
   expDate: 10/31/2017
@@ -438,7 +426,6 @@
   piMiddeInitial: B
   piPhone: '5125423333'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 12/13/2016
   startDate: 12/15/2016
   expDate: 12/31/2017
@@ -464,7 +451,6 @@
   piMiddeInitial: M
   piPhone: '2062762944'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 11/30/2016
   startDate: 12/01/2016
   expDate: 11/30/2017
@@ -489,7 +475,6 @@
   piLastName: Oskooi
   piPhone: '4159203025'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 11/30/2016
   startDate: 12/01/2016
   expDate: 11/30/2017
@@ -542,7 +527,6 @@
   piLastName: Ziaei-Moayyed
   piPhone: '5105411320'
   poName: Henry Ahn
-  ttopic: BM
   date: 06/28/2017
   startDate: 07/01/2017
   expDate: 03/31/2018
@@ -567,7 +551,6 @@
   piMiddeInitial: V
   piPhone: '7655431520'
   poName: Henry Ahn
-  ttopic: BM
   date: 06/12/2017
   startDate: 06/01/2017
   expDate: 05/31/2018
@@ -617,7 +600,6 @@
   piLastName: Meruga
   piPhone: '6128594951'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 06/21/2017
   startDate: 06/15/2017
   expDate: 05/31/2018
@@ -668,7 +650,6 @@
   piLastName: Pandey
   piPhone: '5306010911'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/24/2016
   startDate: 07/01/2016
   expDate: 02/28/2018
@@ -724,7 +705,6 @@
   piLastName: Mujeeb-U-Rahman
   piPhone: '6263162177'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 08/31/2017
@@ -774,7 +754,6 @@
   piLastName: Qi
   piPhone: '8652303072'
   poName: Ben Schrag
-  ttopic: CT
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -798,7 +777,6 @@
   piLastName: Reit
   piPhone: '9728837164'
   poName: Debasis Majumdar
-  ttopic: MI
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -823,7 +801,6 @@
   piMiddeInitial: G
   piPhone: '7038591830'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/28/2017
   startDate: 07/01/2017
   expDate: 02/28/2018
@@ -873,7 +850,6 @@
   piLastName: Puzio
   piPhone: '2024685501'
   poName: Glenn H. Larsen
-  ttopic: EA
   date: 06/09/2017
   startDate: 06/01/2017
   expDate: 02/28/2018
@@ -896,7 +872,6 @@
   piLastName: Mafra-Neto
   piPhone: '9516865008'
   poName: Ben Schrag
-  ttopic: CT
   date: 01/04/2017
   startDate: 01/15/2017
   expDate: 12/31/2017
@@ -940,7 +915,6 @@
   piMiddeInitial: D
   piPhone: '8655995233'
   poName: Peter Atherton
-  ttopic: IT
   date: 12/14/2016
   startDate: 12/15/2016
   expDate: 09/30/2017
@@ -963,7 +937,6 @@
   piLastName: Holcomb
   piPhone: '8107282469'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/12/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -986,7 +959,6 @@
   piLastName: Jones
   piPhone: '7162138414'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/12/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -1030,7 +1002,6 @@
   piLastName: Wang
   piPhone: '9787991416'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/11/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -1077,7 +1048,6 @@
   piMiddeInitial: J
   piPhone: '9494078013'
   poName: Peter Atherton
-  ttopic: IT
   date: 12/11/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -1132,7 +1102,6 @@
   piLastName: Ikehata
   piPhone: '7144810662'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/06/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -1182,7 +1151,6 @@
   piLastName: Wardhana
   piPhone: '6503158273'
   poName: Glenn H. Larsen
-  ttopic: EA
   date: 12/04/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -1207,7 +1175,6 @@
   piMiddeInitial: M
   piPhone: '8057700452'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 11/30/2016
   startDate: 12/01/2016
   expDate: 09/30/2017
@@ -1231,7 +1198,6 @@
   piMiddeInitial: H
   piPhone: '7082270175'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/24/2016
   startDate: 07/01/2016
   expDate: 09/30/2017
@@ -1255,7 +1221,6 @@
   piLastName: Genung
   piPhone: '6153063154'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 06/21/2016
   startDate: 07/01/2016
   expDate: 02/28/2018
@@ -1303,7 +1268,6 @@
   piLastName: Adam
   piPhone: '5743293427'
   poName: Ruth M. Shuman
-  ttopic: BT
   date: 06/29/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -1327,7 +1291,6 @@
   piMiddeInitial: N
   piPhone: '6177848715'
   poName: Jesus Soriano Molla
-  ttopic: SH
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 03/31/2018
@@ -1352,7 +1315,6 @@
   piMiddeInitial: L
   piPhone: '9784438636'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 06/26/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -1397,7 +1359,6 @@
   piLastName: Sharma
   piPhone: '5074240500'
   poName: Jesus Soriano Molla
-  ttopic: SH
   date: 12/13/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -1420,7 +1381,6 @@
   piLastName: Klein
   piPhone: '7155727209'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/10/2016
   startDate: 12/01/2016
   expDate: 11/30/2017
@@ -1445,7 +1405,6 @@
   piLastName: Timofeeva
   piPhone: '3123167205'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 12/06/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -1470,7 +1429,6 @@
   piMiddeInitial: W
   piPhone: '6142101145'
   poName: Richard Schwerdtfeger
-  ttopic: SP
   date: 12/04/2016
   startDate: 12/15/2016
   expDate: 08/31/2017
@@ -1520,7 +1478,6 @@
   piMiddeInitial: A
   piPhone: '6308658291'
   poName: Debasis Majumdar
-  ttopic: MI
   date: 12/02/2016
   startDate: 12/01/2016
   expDate: 11/30/2017
@@ -1544,7 +1501,6 @@
   piMiddeInitial: D
   piPhone: '6268932514'
   poName: Henry Ahn
-  ttopic: BM
   date: 12/01/2016
   startDate: 12/15/2016
   expDate: 01/31/2018
@@ -1569,7 +1525,6 @@
   piMiddeInitial: G
   piPhone: '3107025803'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 01/31/2018
@@ -1592,7 +1547,6 @@
   piLastName: Brown
   piPhone: '7274558147'
   poName: Henry Ahn
-  ttopic: BM
   date: 06/29/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -1616,7 +1570,6 @@
   piLastName: Rahimzadeh
   piPhone: '9494665046'
   poName: Peter Atherton
-  ttopic: IT
   date: 12/14/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -1639,7 +1592,6 @@
   piLastName: Basiri
   piPhone: '2023796666'
   poName: Henry Ahn
-  ttopic: BM
   date: 12/13/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -1679,7 +1631,6 @@
   piLastName: Chen
   piPhone: '5122035244'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/24/2016
   startDate: 07/01/2016
   expDate: 12/31/2017
@@ -1702,7 +1653,6 @@
   piLastName: Dutta
   piPhone: '6102629686'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 06/24/2016
   startDate: 07/01/2016
   expDate: 08/31/2017
@@ -1742,7 +1692,6 @@
   piLastName: Jones
   piPhone: '6127872721'
   poName: Debasis Majumdar
-  ttopic: MI
   date: 06/30/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -1766,7 +1715,6 @@
   piLastName: Sabourian
   piPhone: '6504636041'
   poName: Glenn H. Larsen
-  ttopic: EA
   date: 06/12/2017
   startDate: 06/01/2017
   expDate: 05/31/2018
@@ -1790,7 +1738,6 @@
   piLastName: Arhancet
   piPhone: '2027015532'
   poName: Ruth M. Shuman
-  ttopic: BT
   date: 12/16/2016
   startDate: 12/15/2016
   expDate: 08/31/2017
@@ -1814,7 +1761,6 @@
   piLastName: Thawal
   piPhone: '3212053347'
   poName: Glenn H. Larsen
-  ttopic: EA
   date: 12/02/2016
   startDate: 12/01/2016
   expDate: 10/31/2017
@@ -1838,7 +1784,6 @@
   piLastName: Mirowski
   piPhone: '3034472558'
   poName: Henry Ahn
-  ttopic: BM
   date: 06/24/2016
   startDate: 07/01/2016
   expDate: 09/30/2017
@@ -1889,7 +1834,6 @@
   piLastName: Mueller
   piPhone: '6466442034'
   poName: Peter Atherton
-  ttopic: IT
   date: 07/14/2017
   startDate: 07/15/2017
   expDate: 06/30/2018
@@ -1914,7 +1858,6 @@
   piMiddeInitial: B
   piPhone: '6268079276'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -1961,7 +1904,6 @@
   piLastName: Partee
   piPhone: '4125013849'
   poName: Muralidharan S. Nair
-  ttopic: EW 
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 05/31/2018
@@ -1984,7 +1926,6 @@
   piLastName: Barin
   piPhone: '7735640937'
   poName: Ben Schrag
-  ttopic: CT
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -2008,7 +1949,6 @@
   piLastName: Moehring
   piPhone: '2064064954'
   poName: Henry Ahn
-  ttopic: BM
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -2032,7 +1972,6 @@
   piLastName: Sellhorn
   piPhone: '4252731035'
   poName: Henry Ahn
-  ttopic: BM
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 04/30/2018
@@ -2058,7 +1997,6 @@
   piMiddeInitial: M
   piPhone: '7634639381'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 06/30/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -2105,7 +2043,6 @@
   piMiddeInitial: K
   piPhone: '4159902670'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/28/2017
   startDate: 07/01/2017
   expDate: 03/31/2018
@@ -2128,7 +2065,6 @@
   piLastName: Hansen
   piPhone: '3077609317'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/28/2017
   startDate: 08/01/2017
   expDate: 07/31/2018
@@ -2153,7 +2089,6 @@
   piMiddeInitial: D
   piPhone: '3107098190'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/28/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -2176,7 +2111,6 @@
   piLastName: Davidson
   piPhone: '9286075632'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/28/2017
   startDate: 07/01/2017
   expDate: 03/31/2018
@@ -2200,7 +2134,6 @@
   piMiddeInitial: M
   piPhone: '9292409525'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/28/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -2247,7 +2180,6 @@
   piMiddeInitial: K
   piPhone: '8438192067'
   poName: Debasis Majumdar
-  ttopic: MI
   date: 06/28/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -2270,7 +2202,6 @@
   piLastName: Mitchell
   piPhone: '9176861961'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/28/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -2294,7 +2225,6 @@
   piLastName: Kalanithi
   piPhone: '4159947035'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/28/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -2330,7 +2260,6 @@
   piLastName: Herr
   piPhone: '2027318905'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/28/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -2379,7 +2308,6 @@
   piLastName: Rocheford
   piPhone: '2174176766'
   poName: Ruth M. Shuman
-  ttopic: BT
   date: 06/27/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -2403,7 +2331,6 @@
   piLastName: Salfi
   piPhone: '5107083648'
   poName: Ben Schrag
-  ttopic: CT
   date: 06/21/2017
   startDate: 06/15/2017
   expDate: 11/30/2017
@@ -2455,7 +2382,6 @@
   piMiddeInitial: L
   piPhone: '3077609185'
   poName: Ben Schrag
-  ttopic: CT
   date: 06/21/2017
   startDate: 06/15/2017
   expDate: 05/31/2018
@@ -2479,7 +2405,6 @@
   piMiddeInitial: W
   piPhone: '7346122974'
   poName: Ruth M. Shuman
-  ttopic: BT
   date: 06/21/2017
   startDate: 06/15/2017
   expDate: 05/31/2018
@@ -2503,7 +2428,6 @@
   piLastName: Ducao
   piPhone: '4436260565'
   poName: Richard Schwerdtfeger
-  ttopic: I
   date: 06/12/2017
   startDate: 06/01/2017
   expDate: 05/31/2018
@@ -2552,7 +2476,6 @@
   piLastName: Marshall
   piPhone: '2145771925'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/12/2017
   startDate: 07/01/2017
   expDate: 02/28/2018
@@ -2576,7 +2499,6 @@
   piLastName: Kablan
   piPhone: '7206630833'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/12/2017
   startDate: 07/01/2017
   expDate: 03/31/2018
@@ -2600,7 +2522,6 @@
   piMiddeInitial: P
   piPhone: '5172149041'
   poName: Richard Schwerdtfeger
-  ttopic: I
   date: 06/09/2017
   startDate: 06/01/2017
   expDate: 05/31/2018
@@ -2642,7 +2563,6 @@
   piMiddeInitial: C
   piPhone: '6266771806'
   poName: Peter Atherton
-  ttopic: IT
   date: 02/05/2017
   startDate: 02/01/2017
   expDate: 01/31/2018
@@ -2695,7 +2615,6 @@
   piMiddeInitial: M
   piPhone: '8173194417'
   poName: Henry Ahn
-  ttopic: BM
   date: 01/09/2017
   startDate: 01/15/2017
   expDate: 12/31/2017
@@ -2719,7 +2638,6 @@
   piLastName: Bhatia
   piPhone: '4085077322'
   poName: Ben Schrag
-  ttopic: CT
   date: 01/06/2017
   startDate: 01/01/2017
   expDate: 12/31/2017
@@ -2743,7 +2661,6 @@
   piMiddeInitial: A
   piPhone: '3152686574'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/19/2016
   startDate: 01/01/2017
   expDate: 12/31/2017
@@ -2767,7 +2684,6 @@
   piLastName: Ozaeta
   piPhone: '6126073651'
   poName: Peter Atherton
-  ttopic: IT
   date: 12/16/2016
   startDate: 01/01/2017
   expDate: 12/31/2017
@@ -2791,7 +2707,6 @@
   piLastName: Ramezanpour
   piPhone: '9014963254'
   poName: Ruth M. Shuman
-  ttopic: BT
   date: 12/16/2016
   startDate: 01/01/2017
   expDate: 12/31/2017
@@ -2815,7 +2730,6 @@
   piLastName: Li
   piPhone: '3522785099'
   poName: Peter Atherton
-  ttopic: IT
   date: 12/14/2016
   startDate: 12/15/2016
   expDate: 08/31/2017
@@ -2838,7 +2752,6 @@
   piLastName: Nanjundaswamy
   piPhone: '8054556578'
   poName: Peter Atherton
-  ttopic: IT
   date: 12/14/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -2862,7 +2775,6 @@
   piMiddeInitial: E
   piPhone: '7576469080'
   poName: Peter Atherton
-  ttopic: IT
   date: 12/14/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -2885,7 +2797,6 @@
   piLastName: George
   piPhone: '5088409800'
   poName: Richard Schwerdtfeger
-  ttopic: SP
   date: 12/13/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -2910,7 +2821,6 @@
   piMiddeInitial: Y
   piPhone: '6313988746'
   poName: Peter Atherton
-  ttopic: IT
   date: 12/12/2016
   startDate: 12/15/2016
   expDate: 09/30/2017
@@ -2959,7 +2869,6 @@
   piLastName: Mir
   piPhone: '7325450609'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/12/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -2983,7 +2892,6 @@
   piLastName: Shaon
   piPhone: '9727299582'
   poName: Peter Atherton
-  ttopic: IT
   date: 12/12/2016
   startDate: 12/15/2016
   expDate: 12/31/2017
@@ -3034,7 +2942,6 @@
   piMiddeInitial: P
   piPhone: '5759329938'
   poName: Ruth M. Shuman
-  ttopic: BT
   date: 12/12/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -3058,7 +2965,6 @@
   piLastName: Berg
   piPhone: '6465093361'
   poName: Peter Atherton
-  ttopic: IT
   date: 12/12/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -3103,7 +3009,6 @@
   piLastName: Krumm
   piPhone: '2062281571'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/11/2016
   startDate: 12/15/2016
   expDate: 02/28/2018
@@ -3127,7 +3032,6 @@
   piMiddeInitial: M
   piPhone: '5103905121'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/11/2016
   startDate: 12/15/2016
   expDate: 12/31/2017
@@ -3172,7 +3076,6 @@
   piLastName: Masoudi
   piPhone: '4252311686'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/11/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -3197,7 +3100,6 @@
   piMiddeInitial: J
   piPhone: '5102929231'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/11/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -3244,7 +3146,6 @@
   piLastName: Liu
   piPhone: '6467839921'
   poName: Jesus Soriano Molla
-  ttopic: SH
   date: 12/11/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -3269,7 +3170,6 @@
   piMiddeInitial: S
   piPhone: '5029388486'
   poName: Henry Ahn
-  ttopic: BM
   date: 12/11/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -3320,7 +3220,6 @@
   piLastName: Mangarella
   piPhone: '2034178707'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/10/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -3344,7 +3243,6 @@
   piMiddeInitial: F
   piPhone: '9499553129'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/10/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -3367,7 +3265,6 @@
   piLastName: Foellmer
   piPhone: '3104285793'
   poName: Ben Schrag
-  ttopic: CT
   date: 12/02/2016
   startDate: 12/01/2016
   expDate: 11/30/2017
@@ -3418,7 +3315,6 @@
   piLastName: Yenne
   piPhone: '9197498717'
   poName: Ruth M. Shuman
-  ttopic: BT
   date: 11/30/2016
   startDate: 12/01/2016
   expDate: 11/30/2017
@@ -3444,7 +3340,6 @@
   piMiddeInitial: P
   piPhone: '6036304996'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 11/30/2016
   startDate: 12/01/2016
   expDate: 11/30/2017
@@ -3468,7 +3363,6 @@
   piLastName: Ahuja
   piPhone: '2168208849'
   poName: Henry Ahn
-  ttopic: BM
   date: 11/30/2016
   startDate: 12/01/2016
   expDate: 11/30/2017
@@ -3511,7 +3405,6 @@
   piLastName: Kriegstein
   piPhone: '6313936401'
   poName: Jesus Soriano Molla
-  ttopic: SH
   date: 06/29/2016
   startDate: 07/01/2016
   expDate: 12/31/2017
@@ -3535,7 +3428,6 @@
   piLastName: Schmidle
   piPhone: '6199805782'
   poName: Jesus Soriano Molla
-  ttopic: SH
   date: 06/27/2016
   startDate: 07/01/2016
   expDate: 09/30/2017
@@ -3559,7 +3451,6 @@
   piLastName: Mohammadi
   piPhone: '5732016148'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/24/2016
   startDate: 07/01/2016
   expDate: 12/31/2017
@@ -3596,7 +3487,6 @@
   piLastName: Licht
   piPhone: '5616949588'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 06/24/2016
   startDate: 07/01/2016
   expDate: 02/28/2018
@@ -3640,7 +3530,6 @@
   piLastName: Gatewood
   piPhone: '5056700232'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 06/24/2016
   startDate: 07/01/2016
   expDate: 01/31/2018
@@ -3664,7 +3553,6 @@
   piMiddeInitial: P
   piPhone: '8137162262'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 06/24/2016
   startDate: 07/01/2016
   expDate: 06/30/2018
@@ -3688,7 +3576,6 @@
   piLastName: Minarick
   piPhone: '2173901761'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/22/2016
   startDate: 07/01/2016
   expDate: 09/30/2017
@@ -3712,7 +3599,6 @@
   piLastName: Berry
   piPhone: '9085287183'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/22/2016
   startDate: 07/01/2016
   expDate: 09/30/2017
@@ -3767,7 +3653,6 @@
   piMiddeInitial: C
   piPhone: '6503272929'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/22/2016
   startDate: 07/01/2016
   expDate: 12/31/2017
@@ -3790,7 +3675,6 @@
   piLastName: Hafiz
   piPhone: '2177211711'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/22/2016
   startDate: 07/01/2016
   expDate: 12/31/2017
@@ -3814,7 +3698,6 @@
   piLastName: Roy-Choudhary
   piPhone: '5757428845'
   poName: Peter Atherton
-  ttopic: IT
   date: 06/22/2016
   startDate: 07/01/2016
   expDate: 10/31/2017
@@ -3837,7 +3720,6 @@
   piLastName: Gardiner
   piPhone: '8054580550'
   poName: Glenn H. Larsen
-  ttopic: EA
   date: 06/22/2016
   startDate: 07/01/2016
   expDate: 12/31/2017
@@ -3899,7 +3781,6 @@
   piMiddeInitial: J
   piPhone: '9087316606'
   poName: Ruth M. Shuman
-  ttopic: BT
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 12/31/2017
@@ -3922,7 +3803,6 @@
   piLastName: Hopkinson
   piPhone: '5162244612'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 09/30/2017
@@ -3946,7 +3826,6 @@
   piLastName: Din
   piPhone: '7086209310'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 08/31/2017
@@ -3970,7 +3849,6 @@
   piLastName: Cueto
   piPhone: '7166018546'
   poName: Debasis Majumdar
-  ttopic: MI
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 08/31/2017
@@ -3992,8 +3870,7 @@
   piFirstName: Dustin
   piLastName: Bales
   piPhone: '3074219447'
-  poName: Richard Schwerdtfeger
-  ttopic: I 
+  poName: Richard Schwerdtfeger 
   date: 06/20/2016
   startDate: 07/01/2016
   expDate: 09/30/2017
@@ -4016,7 +3893,6 @@
   piLastName: McLauglin
   piPhone: '2156626783'
   poName: Peter Atherton
-  ttopic: IT
   date: 01/14/2016
   startDate: 01/15/2016
   expDate: 11/30/2017
@@ -4058,7 +3934,6 @@
   piMiddeInitial: S
   piPhone: '4128550916'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 01/13/2016
   startDate: 01/15/2016
   expDate: 08/31/2017
@@ -4106,7 +3981,6 @@
   piMiddeInitial: A
   piPhone: '9142609785'
   poName: Richard Schwerdtfeger
-  ttopic: SP
   date: 12/08/2015
   startDate: 01/01/2016
   expDate: 12/31/2017
@@ -4130,7 +4004,6 @@
   piLastName: Gweon
   piPhone: '8312225511'
   poName: Glenn H. Larsen
-  ttopic: EA
   date: 12/08/2015
   startDate: 01/01/2016
   expDate: 12/31/2017
@@ -4155,7 +4028,6 @@
   piMiddeInitial: A
   piPhone: '6506906913'
   poName: Ruth M. Shuman
-  ttopic: BT
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -4205,7 +4077,6 @@
   piLastName: CHATURVEDI
   piPhone: '8082714492'
   poName: Debasis Majumdar
-  ttopic: MI
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -4259,7 +4130,6 @@
   piLastName: Myles
   piPhone: '8605599554'
   poName: Jesus Soriano Molla
-  ttopic: SH
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -4308,7 +4178,6 @@
   piLastName: Garcia
   piPhone: '5182217114'
   poName: Jesus Soriano Molla
-  ttopic: SH
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -4333,7 +4202,6 @@
   piMiddeInitial: R
   piPhone: '6269930305'
   poName: Richard Schwerdtfeger
-  ttopic: SP
   date: 06/12/2017
   startDate: 06/01/2017
   expDate: 01/31/2018
@@ -4380,7 +4248,6 @@
   piLastName: Yadav
   piPhone: '6086984175'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 06/12/2017
   startDate: 06/01/2017
   expDate: 11/30/2017
@@ -4403,7 +4270,6 @@
   piLastName: Lazik
   piPhone: '7816905475'
   poName: Richard Schwerdtfeger
-  ttopic: I
   date: 06/12/2017
   startDate: 06/01/2017
   expDate: 11/30/2017
@@ -4426,7 +4292,6 @@
   piLastName: Voichita
   piPhone: '7349220110'
   poName: Ruth M. Shuman
-  ttopic: BT
   date: 06/12/2017
   startDate: 06/01/2017
   expDate: 11/30/2017
@@ -4471,7 +4336,6 @@
   piLastName: Kohoutek
   piPhone: '3124974971'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 12/07/2016
   startDate: 12/15/2016
   expDate: 03/31/2018
@@ -4525,7 +4389,6 @@
   piMiddeInitial: M
   piPhone: '8456610008'
   poName: Ruth M. Shuman
-  ttopic: BT
   date: 12/07/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -4550,7 +4413,6 @@
   piLastName: Krajewski
   piPhone: '2066195859'
   poName: Glenn H. Larsen
-  ttopic: EA
   date: 12/04/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -4574,7 +4436,6 @@
   piLastName: Liang
   piPhone: '5128383168'
   poName: Richard Schwerdtfeger
-  ttopic: SP
   date: 12/04/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -4627,7 +4488,6 @@
   piLastName: Glazer
   piPhone: '7349268160'
   poName: Glenn H. Larsen
-  ttopic: EA
   date: 06/22/2016
   startDate: 07/01/2016
   expDate: 12/31/2017
@@ -4650,7 +4510,6 @@
   piLastName: Baddipadiga
   piPhone: '5736129695'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -4699,7 +4558,6 @@
   piLastName: Gibson
   piPhone: '2143435387'
   poName: Ben Schrag
-  ttopic: CT
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -4723,7 +4581,6 @@
   piLastName: Schmitt
   piPhone: '5203067639'
   poName: Jesus Soriano Molla
-  ttopic: SH
   date: 07/10/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -4747,7 +4604,6 @@
   piLastName: Saxena
   piPhone: '5104750650'
   poName: Ruth M. Shuman
-  ttopic: BT
   date: 06/21/2017
   startDate: 06/15/2017
   expDate: 05/31/2018
@@ -4771,7 +4627,6 @@
   piLastName: Ellis
   piPhone: '5756393273'
   poName: Peter Atherton
-  ttopic: IT
   date: 12/11/2016
   startDate: 12/15/2016
   expDate: 11/30/2017
@@ -4812,7 +4667,6 @@
   piLastName: Lehmann
   piPhone: '5105089897'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 12/02/2016
   startDate: 12/15/2016
   expDate: 09/30/2017
@@ -4930,7 +4784,6 @@
   piLastName: Hewett
   piPhone: '3124349594'
   poName: Jesus Soriano Molla
-  ttopic: SH
   date: 07/25/2017
   startDate: 07/15/2017
   expDate: 06/30/2018
@@ -4977,7 +4830,6 @@
   piLastName: Moeinzadeh
   piPhone: '7146562927'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 07/14/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -5001,7 +4853,6 @@
   piMiddeInitial: S
   piPhone: '8055090648'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 07/14/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -5046,7 +4897,6 @@
   piLastName: Jin
   piPhone: '7346571229'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 07/14/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -5102,7 +4952,6 @@
   piMiddeInitial: D
   piPhone: '5024241606'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 07/14/2017
   startDate: 07/01/2017
   expDate: 03/31/2018
@@ -5125,7 +4974,6 @@
   piLastName: Bachman
   piPhone: '9497059041'
   poName: Richard Schwerdtfeger
-  ttopic: SP
   date: 07/14/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -5149,7 +4997,6 @@
   piMiddeInitial: A
   piPhone: '2034486767'
   poName: Ben Schrag
-  ttopic: CT
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -5192,7 +5039,6 @@
   piLastName: Walker
   piPhone: '6503020847'
   poName: Jesus Soriano Molla
-  ttopic: SH
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -5216,7 +5062,6 @@
   piLastName: Kim
   piPhone: '5125411925'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -5241,7 +5086,6 @@
   piMiddeInitial: A
   piPhone: '6512537877'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -5264,7 +5108,6 @@
   piLastName: Kuhn
   piPhone: '8314402104'
   poName: Jesus Soriano Molla
-  ttopic: SH
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -5289,7 +5132,6 @@
   piMiddeInitial: S
   piPhone: '5104098782'
   poName: Jesus Soriano Molla
-  ttopic: SH
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -5313,7 +5155,6 @@
   piLastName: Marini
   piPhone: '7873607770'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -5337,7 +5178,6 @@
   piLastName: Madson
   piPhone: '6512787427'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -5361,7 +5201,6 @@
   piLastName: Mozes
   piPhone: '3054092819'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -5385,7 +5224,6 @@
   piMiddeInitial: N
   piPhone: '8086203550'
   poName: Muralidharan S. Nair
-  ttopic: EW
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -5410,7 +5248,6 @@
   piMiddeInitial: F
   piPhone: '2075778745'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 12/31/2017
@@ -5433,7 +5270,6 @@
   piLastName: Caglayan
   piPhone: '6145964251'
   poName: Debasis Majumdar
-  ttopic: MI
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
@@ -5490,7 +5326,6 @@
   piLastName: Johnson
   piPhone: '2064276404'
   poName: Rajesh Mehta
-  ttopic: MN
   date: 07/11/2017
   startDate: 07/01/2017
   expDate: 06/30/2018
