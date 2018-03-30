@@ -162,8 +162,8 @@
     - name: Cycladex
     - name: Cambrian Innovation Inc
 
-- topic: Digital Health (DH) and Medical Devices (MD)
-  permalink: /topics/digital-health-and-medical-devices/
+- topic: Digital Health (DH)
+  permalink: /topics/digital-health/
   topic_code: sh
   programDirector:
     - name: Nancy Kamei
@@ -188,7 +188,6 @@
     - name: ConsortiEX, Inc
     - name: Guiding Technologies Corporation
     - name: Radial Analytics, Inc.
-
 
 - topic: Educational Technologies and Applications (EA)
   permalink: /topics/educational/
