@@ -8,7 +8,7 @@ section_image: "/assets/img/bg/arable-2c-s-ph.jpg"
 section_image_caption: |
   [Arable Labs Inc.]({{ site.baseurl}}/portfolio/details/?company=arable-labs-inc#arable-labs-inc)’s advanced microclimate and crop growth monitoring device, the Mark.
 ---
-## Photonics (PH) 
+### Photonics (PH) 
 The Photonics topic addresses the research and development of new materials, devices, components, and systems that have the potential for revolutionary change in the optics and photonics industries. Proposals should be motivated by market opportunity, a compelling value proposition, clearly identified end users and customers of the proposed technology, and a viable pathway to commercialization. 
 
 #### PH1. Lighting and Displays 
@@ -26,7 +26,7 @@ Subtopic includes (but is not limited to) sources and detectors for advanced IR 
 #### PH5. Advanced Optical Components and Systems 
 Subtopic includes (but is not limited to) the building blocks for next generation optical components and systems, such as new photonic materials, breakthrough process technologies, nanophotonics, biophotonics, plasmonics, photonic integrated circuits, and manufacturing techniques to enable low-cost breakthroughs for advanced photonic components. Proposals in this area should take special care to clearly highlight real market opportunity and a compelling value proposition for the technology. 
 
-## Semiconductors (S)  
+### Semiconductors (S)  
 The Semiconductors topic addresses the research and development of new designs, materials, devices, and manufacturing systems that have the potential for impactful change in the semiconductor industry. Proposals should be motivated by market opportunity, a compelling value proposition, clearly identified end users and customers of the proposed technology, and a viable pathway to commercialization. The program encourages cooperation with the semiconductor industry to address current challenges as well as new frontiers. 
 
 #### S1. Electronic Materials 
