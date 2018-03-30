@@ -1,5 +1,5 @@
 ---
-title: Semiconductors and Photonic Devices and Materials
+title: Semiconductors (S) and Photonic (PH) Devices and Materials
 permalink: /topics/semiconductors-and-photonic-devices-and-materials/
 layout: tech-topic
 topic_code: sp
