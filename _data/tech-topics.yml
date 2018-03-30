@@ -236,22 +236,18 @@
       photo: Murali-compressed.jpg
       bio: "is a Program Director in the areas of Electronic Hardware, Robotics, and Wireless Technologies with the SBIR/STTR Program. Prior to joining NSF in January 2003, he was the Founder CEO of a Bluetooth wireless product company. In this capacity, he raised equity capital for worldwide operations in the U.S., China and India. He designed, planned and implemented the product development cycle, and managed the marketing strategy, strategic alliances and business development processes. Before that, he was a Senior Systems Engineer at L-3 Communications where he provided strategic advice to the Executive VP for a complete re-plan of the Hughes contract for real-time, embedded ground control software for the $350M PANAMSAT communications satellite. Prior to joining L-3 Communications, he was a Mission Planner at Motorola Iridium where he was involved in all aspects of satellite operations including orbit determination, generating guidance targets and orbital slot placement. Before joining Iridium, he was a faculty member at Embry-Riddle Aeronautical University, where he developed an entire Space Systems Design Lab from concept inception to fully operational mode and national prominence, and supervised five (5) space system designs, three (3) of which were winners in the National AIAA/Loral Design Competition. He is a recipient of a number of awards including NSF’s second highest award for meritorious service and the President’s Innovation Award for Space Systems Design courses while at Embry-Riddle. Murali is a graduate of the Indian Institute of Technology and the University of Texas. He is a registered professional engineer in the State of Florida."
   subtopics:
-    - Wireless Technologies (WT)
-    - Systems and Devices (WT1)
-    - Wireless Devices and Components (WT2)
     - Energy and Power Management (EP)
-    - Electronic Devices, Boards and Interfaces (EP1)
-    - Device and System Level (EP2)
-    - Smart Grids and Infrastructure (EP3)
-    - Power Management (EP4)
+    - Energy Harvesting, Storage and Management (EP1)
+    - Smart Grids, Infrastructure, and Power Management (EP2)
+    - Micro-electronics Packaging, Thermal Management & Systems Integration (MT)
     - Robotics and Human Assistive Technologies (RH)
-    - Learning, Intelligence, and Motion (RH1)
+    - Human-Machine Interfaces and Control/Architecture (RH1)
     - Robotic Applications (RH2)
-    - Robotics in Agile Manufacturing (RH3)
-    - Co-robots (RH4)
-    - Human-machine Interfaces and Control/Architecture (RH5)
-    - Human Assistive Technologies and Bio-related Robotics (RH6)
-    - Micro-electronics Packaging, Thermal Management, and Systems Integration (MT)
+    - Robotics in Agile Manufacturing, and Co-Robots (RH3)
+    - Human Assistive Technologies and Bio-related Robotics (RH4)
+    - Wireless Technologies (WT)
+    - Wireless Systems (WT1)
+    - Wireless Devices and Components (WT2)
   companies:
     - name: TACTAI
       allow_recent: true
