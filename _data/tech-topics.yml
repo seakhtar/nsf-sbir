@@ -163,8 +163,8 @@
     - name: Cambrian Innovation Inc
 
 - topic: Digital Health (DH)
-  permalink: /topics/digital-health/
-  topic_code: dh
+  permalink: /topics/digital-health-and-medical-devices/
+  topic_code: sh
   programDirector:
     - name: Nancy Kamei
       last_name: Kamei
@@ -261,9 +261,10 @@
     - name: RightHand Robotics, LLC
 
 - topic: Internet of Things (I)
-  permalink: /topics/internet-of-things/
+  permalink: /topics/internet-of-things-semiconductors-and-photonic-devices-and-materials/
   topic_code: 
     -i
+    -sp
   programDirector:
     - name: Rick Schwerdtfeger
       last_name: Schwerdtfeger
@@ -327,8 +328,8 @@
     - name: Bay Labs, Inc.
     
 - topic: Medical Devices (MD)
-  permalink: /topics/medical-devices/
-  topic_code: md
+  permalink: /topics/digital-health-and-medical-devices/
+  topic_code: sh
   programDirector:
     - name: Nancy Kamei
       last_name: Kamei
@@ -350,8 +351,9 @@
     - name: Radial Analytics, Inc.
 
 - topic: Semiconductors (S), and Photonic (PH) Devices and Materials
-  permalink: /topics/semiconductors-and-photonic-devices-and-materials/
-  topic_code: 
+  permalink: /topics/internet-of-things-semiconductors-and-photonic-devices-and-materials/
+  topic_code:
+    -i
     -sp
   programDirector:
     - name: Rick Schwerdtfeger
