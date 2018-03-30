@@ -1,6 +1,6 @@
 ---
 title: Semiconductors and Photonic Devices and Materials
-permalink: /topics/semiconductors-and-photonic-devices/
+permalink: /topics/semiconductors-and-photonic-devices-and-materials/
 layout: tech-topic
 topic_code: sp
 section_image: "/assets/img/bg/arable-2c-s-ph.jpg"
