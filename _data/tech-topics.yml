@@ -164,7 +164,7 @@
 
 - topic: Digital Health (DH)
   permalink: /topics/digital-health/
-  topic_code: sh
+  topic_code: dh
   programDirector:
     - name: Nancy Kamei
       last_name: Kamei
@@ -328,7 +328,7 @@
     
 - topic: Medical Devices (MD)
   permalink: /topics/medical-devices/
-  topic_code: sh
+  topic_code: md
   programDirector:
     - name: Nancy Kamei
       last_name: Kamei
