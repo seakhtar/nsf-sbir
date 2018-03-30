@@ -9,19 +9,16 @@
       photo: Molnar-compressed.jpg
       bio: "has more than 20 years of experience in the life science and chemical industries, integrating her scientific research and engineering background with commercialization for startups, and international, government, and business environments. She joined NSF as an SBIR/STTR Program Director in 2017. Previously, she was co-founder and CEO of Simpatica Medicine, Inc., an artificial intelligence precision medicine company based in San Francisco, California. Linda founded and worked with life science startup companies from many universities. She has also provided strategic consultancy to venture capital firms, public companies, non-profit institutes, and the federal government. Her background includes positions as Managing Director in the Life Sciences Merchant Banking group and Venture Group at Burrill & Company, Executive in Residence at Momentum Biosciences, Program Officer for the National Cancer Institute in the Office of the Director (Center for Strategic Scientific Initiatives), and research and business development roles at Caliper Life Sciences, NASA Ames Research Center, and Rohm & Haas Co. Linda completed the University of Pennsylvania’s Wharton Executive Management Program and holds a Ph.D. from the Program in Polymer Science and Technology (Materials Science and Chemical Engineering) from Massachusetts Institute of Technology and a B.S. in Chemistry (Biology) from the University of Pittsburgh."
   subtopics:
-    - Personalized Manufacturing (M1)
-    - Maker Manufacturing (M2)
-    - Maker-to-Manufacturer (M3)
-    - Additive Manufacturing (M4)
-    - Modeling and Simulation (M5)
-    - Machines and Equipment (M6)
+    - Manufacturing Technologies (M1)
+    - Bio-Inspired Manufacturing (M2)
+    - Additive Manufacturing Components & Systems (M3)
+    - Modeling & Simulation (M4)
+    - Cybermanufacturing (M5)
+    - Personalized Manufacturing / Maker Manufacturing / Maker to Manufacturer (M6)
     - Transportation Technologies (M7)
-    - Rare Earths and Critical Materials Processing Technology (M8)
-    - Manufacturing Technologies (M9)
-    - Bio-inspired Manufacturing (M10)
-    - People-Centered Industrial Technologies (M11)
-    - Manufacturing for Emerging Markets (M12)
-    - Sustainable Manufacturing Technology (M13)
+    - Human-Centric Industrial Technologies (M8)
+    - Manufacturing for Emerging Markets (M9)
+    - Sustainable Manufacturing Technolog (M10)
     - Nanomaterials (N1)
     - Nanomanufacturing (N2)
     - Nanotechnology-Based Solutions to Grand Challenges (N3)
@@ -113,11 +110,10 @@
   subtopics:
     - Pharmaceutical Manufacturing (BM1)
     - Materials for Biomedical Applications (BM2)
-    - Biomedical Engineering (BM3)
-    - Noninvasive Imaging of Brain Function (BM4)
-    - Medical Imaging Technologies (BM5)
-    - Diagnostic Assays and Platforms (BM6)
-    - Drug Delivery (BM7)
+    - Noninvasive Imaging of Brain Function (BM3)
+    - Medical Imaging Technologies (BM4)
+    - Diagnostic Assays and Platforms (BM5)
+    - Drug Delivery (BM6)
   companies:
     - name: Protein Dynamic Solutions, LLC
     - name: Camras Vision, Inc.
@@ -140,15 +136,15 @@
       photo: Anna-compressed.jpg
       bio: "joined the National Science Foundation as SBIR/STTR Program Director leading Chemical and Environmental Technologies. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous start-ups having worked as: an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of ~30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning: nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the US Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a BS in Chemical Engineering and BA in Spanish from The Johns Hopkins University."
   subtopics:
-    - Biobased Chemicals and Biochemical Processes (CT1)
+    - Bio-based Chemicals and Biochemical Processes (CT1)
     - Chemicals, Polymers, Plastics, and Derivatives (CT2)
     - Novel Catalysts and Processes (CT3)
-    - Chemicals from Carbon Dioxide and Methane (CT4)
+    - Chemicals and technologies pertaining to Carbon Dioxide and Methane (CT4)
     - Food Technology (CT5)
     - Energy Efficiency, Capture, Storage, and Use (CT6)
-    - Energy Generation, Bioenergy, and Renewable Fuel Technology (CT7)
+    - Energy Generation, Oil & Gas Transformation, Bioenergy, Renewable Fuel Technology (CT7)
     - Separation Technology (CT8)
-    - Resource and Water Conservation, Treatment and Reuse, Waste Minimization, and Environmental Sustainability (CT9)
+    - Resource and Water Conservation, Treatment and Reuse, Waste Minimization and Environmental Sustainability, Handling of Produced Water (CT9)
     - Environmental Sensing, Environmental Pollution Control, and Mitigation (CT10)
     - Plant-based Products and Sustainable Agricultural Innovations (CT11)
     - Chemical Production Efficiency and Productivity (CT12)
@@ -182,6 +178,7 @@
     - From Data to Decisions (DH3)
     - Interoperability of Health Record Systems, Medical Sensors, Devices, and Robotics (DH4)
     - Empowering Individuals and Communities (DH5)
+    - Medical Devices (MD1)
   companies:
     - name: TAO Connect, Inc.
     - name: Neural Analytics
@@ -192,7 +189,6 @@
     - name: ConsortiEX, Inc
     - name: Guiding Technologies Corporation
     - name: Radial Analytics, Inc.
-
 
 - topic: Educational Technologies and Applications (EA)
   permalink: /topics/educational/
@@ -210,6 +206,9 @@
     - Simulations and Gaming Technologies (EA3)
     - Entrepreneurial, Informal, and Maker Education (EA4)
     - Information, Computer Science, and Engineering (EA5)
+    - Emotional Intelligence (EI) Enhancing Educational Innovations (EA6)
+    - Education & Training for the Emerging Fourth Sector Eco-system (EA7)
+    - Topical Education of Citizens (EA8)
   companies:
     - name: Mgenuity Corporation
     - name: LaunchPad Central Inc.
@@ -238,22 +237,18 @@
       photo: Murali-compressed.jpg
       bio: "is a Program Director in the areas of Electronic Hardware, Robotics, and Wireless Technologies with the SBIR/STTR Program. Prior to joining NSF in January 2003, he was the Founder CEO of a Bluetooth wireless product company. In this capacity, he raised equity capital for worldwide operations in the U.S., China and India. He designed, planned and implemented the product development cycle, and managed the marketing strategy, strategic alliances and business development processes. Before that, he was a Senior Systems Engineer at L-3 Communications where he provided strategic advice to the Executive VP for a complete re-plan of the Hughes contract for real-time, embedded ground control software for the $350M PANAMSAT communications satellite. Prior to joining L-3 Communications, he was a Mission Planner at Motorola Iridium where he was involved in all aspects of satellite operations including orbit determination, generating guidance targets and orbital slot placement. Before joining Iridium, he was a faculty member at Embry-Riddle Aeronautical University, where he developed an entire Space Systems Design Lab from concept inception to fully operational mode and national prominence, and supervised five (5) space system designs, three (3) of which were winners in the National AIAA/Loral Design Competition. He is a recipient of a number of awards including NSF’s second highest award for meritorious service and the President’s Innovation Award for Space Systems Design courses while at Embry-Riddle. Murali is a graduate of the Indian Institute of Technology and the University of Texas. He is a registered professional engineer in the State of Florida."
   subtopics:
-    - Wireless Technologies (WT)
-    - Systems and Devices (WT1)
-    - Wireless Devices and Components (WT2)
     - Energy and Power Management (EP)
-    - Electronic Devices, Boards and Interfaces (EP1)
-    - Device and System Level (EP2)
-    - Smart Grids and Infrastructure (EP3)
-    - Power Management (EP4)
+    - Energy Harvesting, Storage and Management (EP1)
+    - Smart Grids, Infrastructure, and Power Management (EP2)
+    - Micro-electronics Packaging, Thermal Management & Systems Integration (MT)
     - Robotics and Human Assistive Technologies (RH)
-    - Learning, Intelligence, and Motion (RH1)
+    - Human-Machine Interfaces and Control/Architecture (RH1)
     - Robotic Applications (RH2)
-    - Robotics in Agile Manufacturing (RH3)
-    - Co-robots (RH4)
-    - Human-machine Interfaces and Control/Architecture (RH5)
-    - Human Assistive Technologies and Bio-related Robotics (RH6)
-    - Micro-electronics Packaging, Thermal Management, and Systems Integration (MT)
+    - Robotics in Agile Manufacturing, and Co-Robots (RH3)
+    - Human Assistive Technologies and Bio-related Robotics (RH4)
+    - Wireless Technologies (WT)
+    - Wireless Systems (WT1)
+    - Wireless Devices and Components (WT2)
   companies:
     - name: TACTAI
       allow_recent: true
@@ -266,45 +261,8 @@
     - name: Leonardo Innovations Inc.
     - name: RightHand Robotics, LLC
 
-- topic: Information Technologies (IT)
-  permalink: /topics/information-technologies/
-  topic_code: it
-  programDirector:
-  - name: Peter Atherton
-    last_name: Atherton
-    api_name: Peter Atherton
-    email: patherto@nsf.gov
-    photo: Peter-compressed.jpg
-    bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. Prior to MIKOH he spent approximately 7 years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication. He moved to the US in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
-  subtopics:
-  - Artificial Intelligence, Machine Learning, and Natural Language Processing (IT1)
-  - Image and Video (IT2)
-  - Quantum Information Technologies (IT3)
-  - Cybersecurity, Authentication, and Privacy (IT4)
-  - Cybersecurity for the Internet of Things (IT5)
-  - Networking Technology (IT6)
-  - Mobile Computing and Internet of Things (IT7)
-  - Cloud Computing and High-performance Computing (IT8)
-  - Cloud-based IT Services (IT9)
-  - Big Data and Advanced Data Analytics (IT10)
-  - Human-computer Interaction, Virtual Reality, and Augmented Reality (IT11)
-  - Social Media and Collaborative Networking (IT12)
-  - Software (IT13)
-  - Other (IT14)
-  companies:
-    - name: Geospatial Data Analysis Corporation
-    - name: Waltz Networks, Inc.
-    - name: VOCALID INC
-    - name: Whova
-    - name: Lumenous Co.
-    - name: Mental Canvas, LLC
-    - name: InsightFinder Inc.
-    - name: NGD Systems, Inc.
-    - name: AppScale Systems, Inc.
-    - name: Bay Labs, Inc.
-
-- topic: Internet of Things (I), Semiconductors (S), and Photonic Devices and Materials (PH)
-  permalink: /topics/internet-of-things-semiconductors-and-photonic-devices-and-materials/
+- topic: Internet of Things (I), Semiconductors (S), and Photonic (PH) Devices and Materials
+  permalink: /topics/internet-of-things-semiconductors-and-photoic-devices/
   topic_code: 
     -i
     -sp
@@ -320,10 +278,8 @@
     - IoT Energy and Power Systems (IoT2)
     - IoT Communications (IoT3)
     - IoT Integrated Systems (IoT4)
-    - IoT IT, Cloud, Big Data, and Security and Privacy (also see IT portfolio topics)
-    - Semiconductors (S) / Photonic Devices and Materials (PH)
     - Photonics (PH)
-    - Lighting and Displays (PH1)
+    - Lighting and Displayss (PH1)
     - Communications, Information, and Data Storage (PH2)
     - Energy (PH3)
     - Advanced Metrology and Sensors (PH4)
@@ -345,6 +301,43 @@
       dba: Symbyon Systems
     - name: Multicore Photonics, Inc.
     - name: Uniqarta, Inc.
+
+- topic: Information Technologies (IT)
+  permalink: /topics/information-technologies/
+  topic_code: it
+  programDirector:
+  - name: Peter Atherton
+    last_name: Atherton
+    api_name: Peter Atherton
+    email: patherto@nsf.gov
+    photo: Peter-compressed.jpg
+    bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. Prior to MIKOH he spent approximately 7 years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication. He moved to the US in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
+  subtopics:
+  - Artificial Intelligence, Machine Learning, and Natural Language Processing (IT1)
+  - Image and Video (IT2)
+  - Quantum Information Technologies (IT3)
+  - Cybersecurity, Authentication, and Privacy (IT4)
+  - Cybersecurity for the Internet of Things (IT5)
+  - Networking Technology (IT6)
+  - Mobile Computing; Internet of Things (IT7)
+  - Cloud Computing; High-performance Computing (IT8)
+  - Cloud-based IT Services (IT9)
+  - Big Data and Advanced Analytics (IT10)
+  - Human-computer Interaction; Virtual Reality; and Augmented Reality (IT11)
+  - Social Media and Collaborative Networking (IT12)
+  - Software (IT13)
+  - Other (IT14)
+  companies:
+    - name: Geospatial Data Analysis Corporation
+    - name: Waltz Networks, Inc.
+    - name: VOCALID INC
+    - name: Whova
+    - name: Lumenous Co.
+    - name: Mental Canvas, LLC
+    - name: InsightFinder Inc.
+    - name: NGD Systems, Inc.
+    - name: AppScale Systems, Inc.
+    - name: Bay Labs, Inc.
 
 - topic: Other Topics (OT)
   permalink: /topics/other/
