@@ -1,5 +1,5 @@
 ---
-title: Educational Technologies and Applications
+title: Educational Technologies and Applications (EA)
 permalink: /topics/educational/
 layout: tech-topic
 topic_code: ea
