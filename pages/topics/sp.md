@@ -25,17 +25,3 @@ Subtopic includes (but is not limited to) sources and detectors for advanced IR 
 #### PH5. Advanced Optical Components and Systems 
 Subtopic includes (but is not limited to) the building blocks for next generation optical components and systems, such as new photonic materials, breakthrough process technologies, nanophotonics, biophotonics, plasmonics, photonic integrated circuits, and manufacturing techniques to enable low-cost breakthroughs for advanced photonic components. Proposals in this area should take special care to clearly highlight real market opportunity and a compelling value proposition for the technology. 
 
-## Semiconductors (S)  
-The Semiconductors topic addresses the research and development of new designs, materials, devices, and manufacturing systems that have the potential for impactful change in the semiconductor industry. Proposals should be motivated by market opportunity, a compelling value proposition, clearly identified end users and customers of the proposed technology, and a viable pathway to commercialization. The program encourages cooperation with the semiconductor industry to address current challenges as well as new frontiers. 
-
-#### S1. Electronic Materials 
-Subtopic includes (but is not limited to) novel semiconductor materials, magnetic materials, advanced thermal management materials for device integration, materials for advanced lithography, and materials for high-temperature, high-power, or high-frequency applications. 
-
-#### S2. Electronic Devices  
-Subtopic includes (but is not limited to) advanced semiconductor devices, bioelectronics and biomagnetics, quantum devices, magnetic and multiferrous and spintronics devices, memory devices, power electronics, flexible electronics, and nanoelectronic devices.  
-
-#### S3. Processing and Metrology Technology  
-Subtopic includes (but is not limited to) processing and metrology technologies that enable low cost, high performance or novel, advanced semiconductor devices. 
-  
-#### S4. Integrated Circuit Design
-Subtopic includes (but is not limited to) low power circuits and architecture, novel chip architectures, and the integration of nano- to micro-scale devices on circuits. 
