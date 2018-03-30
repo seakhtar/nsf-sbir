@@ -325,6 +325,29 @@
     - name: NGD Systems, Inc.
     - name: AppScale Systems, Inc.
     - name: Bay Labs, Inc.
+    
+- topic: Medical Devices (MD)
+  permalink: /topics/medical-devices/
+  topic_code: sh
+  programDirector:
+    - name: Nancy Kamei
+      last_name: Kamei
+      api_name: Jesus Soriano Molla
+      email: nkamei@nsf.gov
+      photo: Kamei-compressed.jpg
+      bio: "is a Program Director focused on Medical Devices and Digital Health. In 2017, after several years of retirement, she joined the Division of Industrial Innovation and Partnerships to serve the United States’ entrepreneurial ecosystem. For several years, she served as a National Instructor for the Innovation Corps (I-Corps™) program, interacting with NSF and National Institutes of Health grantees, which inspired her to join the SBIR/STTR Program and continue working with innovators and entrepreneurs. Nancy has more than 20 years of experience as an investor, having selected and managed billions of dollars of investments of both public equities (Capital Group Companies) and venture capital (Intel Capital). She is also a serial entrepreneur, having been on the founding team of several Silicon Valley startups (Onyx Pharmaceuticals). After receiving her Doctor of Pharmacy degree from University of California, San Francisco, she started her career at Merck and then completed her Master of Business Administration at Stanford Graduate School of Business. Nancy also has more than 40 years of service to the non-profit sector. She recently relocated to the Washington, D.C. area after a lifetime in California."  
+  subtopics:
+    - Medical Devices (MD1)
+  companies:
+    - name: TAO Connect, Inc.
+    - name: Neural Analytics
+    - name: Care Progress, LLC
+    - name: Roundtable Analytics LLC
+    - name: HealthMyne, Inc.
+    - name: Aperiomics, Inc.
+    - name: ConsortiEX, Inc
+    - name: Guiding Technologies Corporation
+    - name: Radial Analytics, Inc.
 
 - topic: Internet of Things (I), Semiconductors (S), and Photonic Devices and Materials (PH)
   permalink: /topics/internet-of-things-semiconductors-and-photonic-devices-and-materials/
