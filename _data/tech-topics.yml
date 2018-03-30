@@ -110,11 +110,10 @@
   subtopics:
     - Pharmaceutical Manufacturing (BM1)
     - Materials for Biomedical Applications (BM2)
-    - Biomedical Engineering (BM3)
-    - Noninvasive Imaging of Brain Function (BM4)
-    - Medical Imaging Technologies (BM5)
-    - Diagnostic Assays and Platforms (BM6)
-    - Drug Delivery (BM7)
+    - Noninvasive Imaging of Brain Function (BM3)
+    - Medical Imaging Technologies (BM4)
+    - Diagnostic Assays and Platforms (BM5)
+    - Drug Delivery (BM6)
   companies:
     - name: Protein Dynamic Solutions, LLC
     - name: Camras Vision, Inc.
