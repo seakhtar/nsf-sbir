@@ -1,5 +1,5 @@
 ---
-title: Digital Health
+title: Digital Health (DH)
 permalink: /topics/digital-health/
 layout: tech-topic
 topic_code: dh
