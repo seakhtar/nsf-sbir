@@ -58,7 +58,8 @@ The Internet of Things (IoT) is widely touted as the next wave of internet expan
 Most IoT devices operate in resource constrained environments. Usually they are subject to severe energy usage limits, with low bandwidth (and sometimes sporadic) communications to the internet, limited computing power and little on-board data storage. These characteristics present unique operational challenges and also unique challenges in providing an effective defense against cyber-attacks.
 
 This subtopic calls for new and innovative approaches to providing cybersecurity for IoT systems. Proposed solutions should not be limited to conventional cybersecurity techniques – the unique characteristics of IoT systems are likely to require new and unconventional cybersecurity methods. Proposing companies are encouraged to think outside the box.
-Note: This subtopic is focused on cybersecurity innovations pertaining to IoT. Hardware innovations related to IoT should be submitted to the Internet of Things (I) topic.
+
+*Note: This subtopic is focused on cybersecurity innovations pertaining to IoT. Hardware innovations related to IoT should be submitted to the Internet of Things (I) topic.*
 
 ### IT6. Networking Technology
 This subtopic focuses on information technology innovations that will enhance the performance, functionality and monitoring of information networks, with particular emphasis on the internet and Internet of Things (IoT) networks.
