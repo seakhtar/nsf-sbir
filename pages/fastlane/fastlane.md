@@ -32,7 +32,7 @@ Companies submitting SBIR or STTR proposals to the Federal government must also 
 Follow the step-by-step process below to register a new organization in Research.gov.
 
 **How do I register a new organization with NSF?**
-* Open [Research.gov](www.research.gov)
+* Open [Research.gov](https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_home_page)
 * Click “Sign In” located at the top right of the screen.
 * Enter your NSF ID and password and click “Sign In.”
 * Click “My Profile” located at the top right of the screen.
