@@ -23,9 +23,9 @@ Thinking of applying for Phase I funding? Ask all your application-related quest
 Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://www.youtube.com/watch?v=1Tm_ToVRpqE) and [what you need to know before applying](https://www.youtube.com/watch?v=-0lhmfczIJ8&feature=youtu.be). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.)
 {% endif %}
 
-## Startup and partnership profiles
+## Startup profiles
 
-Get to know our awardees better — we’ve got [video profiles of funded startups and small businesses](https://www.youtube.com/playlist?list=PLGhBP1C7iCOkPp8yv2I3ZGk16LiMIiikb), along with [profiles of funded startup partnerships](https://www.youtube.com/playlist?list=PLGhBP1C7iCOkmWtgG1BKTZpfMMCDkYY61).
+Get to know our awardees better — we’ve got [video profiles of startups and small businesses that have received NSF funding](https://www.youtube.com/playlist?list=PLGhBP1C7iCOkPp8yv2I3ZGk16LiMIiikb).
 
 ## FastLane guide
 

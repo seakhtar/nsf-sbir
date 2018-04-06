@@ -19,7 +19,7 @@ PDF version is available for [download]({{ site.baseurl }}/assets/files/applican
 * [Dun and Bradstreet Data Universal Numbering System (DUNS)](https://www.nsf.gov/cgi-bin/good-bye?https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm)
 * [System for Award Management (SAM)](https://www.sam.gov/portal/public/SAM)
 * [Small Business Administration (SBA) Company Registry](https://www.sbir.gov/registration)
-* [NSF Research.gov](www.research.gov) - register your company and Principal Investigator (PI)
+* [NSF Research.gov](https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_home_page) - register your company and Principal Investigator (PI)
 
 Before you can register your small business with NSF and prepare/submit a proposal - you MUST register your company to do business with the U.S. government through the System for Award Management (SAM).  When you register in SAM, you’ll have to share your company's "DUNS number" and bank account information. You'll also have to have an original, signed notarized letter stating that you are the authorized Entity Administrator before your registration will be activated. The SAM.gov registration process is free and takes only 10-15 minutes to initiate, but can take more than three weeks to complete. SAM registration expires after one year and must be updated annually.  
 
@@ -32,7 +32,7 @@ Companies submitting SBIR or STTR proposals to the Federal government must also 
 Follow the step-by-step process below to register a new organization in Research.gov.
 
 **How do I register a new organization with NSF?**
-* Open [Research.gov](www.research.gov)
+* Open [Research.gov](https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_home_page)
 * Click “Sign In” located at the top right of the screen.
 * Enter your NSF ID and password and click “Sign In.”
 * Click “My Profile” located at the top right of the screen.
