@@ -26,8 +26,5 @@ Proposed projects may include (but are not limited to) novel or improved imaging
 ### BM5. Diagnostic Assays and Platforms 
 Proposed projects should focus on transformational diagnostic technologies. Proposed projects may include (but are not limited to) non- or minimally-invasive sensing, the detection, screening, diagnosis, prognosis and monitoring of syndromes and diseases, software based diagnostic methods, biomarker development, disease-specific assays, personalized medicine, flexible implantable devices, lab-on-a-chip technologies, and low-cost point-of-care testing for diseases. The following projects are strongly encouraged: New technological paradigms to advance personalized medicine, precision medicine, and the diagnosis and management of rare diseases, neurological conditions and disabilities. 
 
-### BM6. Diagnostic Assays and Platforms
-Proposed projects should focus on transformational diagnostic technologies. Proposed projects may include (but are not limited to) non- or minimally-invasive sensing, the detection, screening, diagnosis, prognosis and monitoring of syndromes and diseases, software based diagnostic methods, biomarker development, disease-specific assays, personalized medicine, flexible implantable devices, lab-on-a-chip technologies, and low-cost point-of-care testing for diseases. The following projects are strongly encouraged: New technological paradigms to advance personalized medicine, precision medicine, and the diagnosis and management of rare diseases, neurological conditions and disabilities.
-
-### BM7.Drug Delivery 
+### BM6. Drug Delivery 
 Proposed projects may include novel, early-stage, and transformative platforms, chemical formulations, excipients, devices, or methodology for the delivery of drugs or biological products. 
