@@ -103,7 +103,6 @@ $usa-btn-big-width:     11.6rem;
       }
     }
   }
-}
 
 
 #search_form input[type=search] {
@@ -159,3 +158,12 @@ $usa-btn-big-width:     11.6rem;
 #search_form input::-webkit-input-placeholder {
 	color: transparent;
 }
+#search_form textarea:focus, input:focus{ 
+	outline: none; 
+}
+
+
+
+}
+
+
