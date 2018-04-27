@@ -12,6 +12,8 @@
 primary:
   - text: About
     href: /about/
+  - text: Showcase
+    href: /showcase/
   - text: Portfolio
     href: /portfolio/
   - text: Resources
