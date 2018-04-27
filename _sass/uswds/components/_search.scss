@@ -123,6 +123,7 @@ $usa-btn-big-width:     11.6rem;
 }
 #search_form input[type=search]:focus {
 	width: 130px;
+	outline:none;
 }
 #search_form input:-moz-placeholder {
 	color: #212121;
@@ -142,14 +143,15 @@ $usa-btn-big-width:     11.6rem;
 
 }
 #search_form input[type=search]:hover {
-	background-color: #fff;
 }
 #search_form input[type=search]:focus {
 	width: 130px;
 	padding-left: 15px;
+	padding-right:10px;
 	color: #212121;
 	cursor: auto;
 	border-bottom: 3px solid #00A6D2;
+	outline:none;
 }
 #search_form input:-moz-placeholder {
 	color: transparent;
