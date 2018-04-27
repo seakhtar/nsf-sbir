@@ -104,3 +104,61 @@ $usa-btn-big-width:     11.6rem;
     }
   }
 }
+
+#search_form input[type=search] {
+	-webkit-appearance: textfield;
+	-webkit-box-sizing: content-box;
+	font-family: inherit;
+	font-size: 100%;
+}
+#search_form input::-webkit-search-decoration,
+#search_form input::-webkit-search-cancel-button {
+	display: none; 
+}
+#search_form input[type=search] {	
+	-webkit-transition: all .5s;
+	-moz-transition: all .5s;
+	transition: all .5s;
+}
+#search_form input[type=search]:focus {
+	width: 130px;
+	outline:none;
+}
+#search_form input:-moz-placeholder {
+	color: #212121;
+}
+#search_form input::-webkit-input-placeholder {
+	color: #212121;
+}
+#search_form input[type=search] {
+	width: 15px;
+	padding-left: 10px;
+	color: transparent;
+	cursor: pointer;
+	background-image: url(https://seedfund.nsf.gov/assets/uswds/img/search-alt.svg);
+  background-repeat: no-repeat;
+	background-position:right;
+	border-bottom: none;
+
+}
+#search_form input[type=search]:hover {
+}
+#search_form input[type=search]:focus {
+	width: 130px;
+	padding-left: 15px;
+	padding-right:10px;
+	color: #212121;
+	cursor: auto;
+	/*border-bottom: 3px solid #00A6D2;*/
+	background-color:#fff;
+	outline:none;
+}
+#search_form input:-moz-placeholder {
+	color: transparent;
+}
+#search_form input::-webkit-input-placeholder {
+	color: transparent;
+}
+#search_form textarea:focus, input:focus{ 
+	outline: none; 
+}
