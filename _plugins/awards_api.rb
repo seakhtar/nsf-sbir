@@ -28,7 +28,7 @@ module SiteData
       successful_connection = true
       awards = []
 
-      uri = URI('http://api.nsf.gov/services/v1/awards.json')
+      uri = URI('https://api.nsf.gov/services/v1/awards.json')
       company_logs = awardeeName ? "for company #{params['awardeeName']}" : ""
       puts "expiration start threshhold set to #{expDateStart} #{company_logs}" if expDateStart
 
