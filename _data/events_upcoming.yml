@@ -1,14 +1,6 @@
 ---
 - event:
   Name: General Q&A Webinar 
-  description: Senior program director Ben Schrag will give a short overview presentation and answer your questions. 
-  eventType: Webinar
-  date: 10 May 2018
-  time: 2:00 - 3:30 PM ET
-  location:
-  registrationLink: https://nsf.webex.com/mw3100/mywebex/default.do?service=1&siteurl=nsf&nomenu=true&main_url=%2Fmc3100%2Fe.do%3Fsiteurl%3Dnsf%26AT%3DMI%26EventID%3D667003567%26UID%3D6124993467%26Host%3DQUhTSwAAAAQUQyhpBk8m3NK9tPT7X1lKPva9SLk7VMxpLfmblW7-Rxp5E0pOF4vh67l_BEHIIe__oz_PFIbulv3PHkYzhJPo0%26RG%3D1%26FrameSet%3D2%26RGID%3Dre8a18fd042c3c71b48e337095147cd65
-- event: 
-  Name: General Q&A Webinar 
   description: Program director Rajesh Mehta will give a short overview presentation and answer your questions. 
   eventType: Webinar
   date: 23 May 2018
