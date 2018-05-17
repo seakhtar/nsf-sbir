@@ -40,15 +40,15 @@ Since 2012, America’s Seed Fund powered by NSF has made more than 2,500 awards
 </div>
 </section>
 
-<section class="background-light-neutral" markdown="1">
-<div class="usa-section-tight-top usa-section usa-content usa-grid" markdown="1">
-<h2 class="subhead text-small">Featured alumni and exits</h2>
-{% include featured-companies.html %}
+<section class="background-light-neutral">
+<div class="usa-section usa-content usa-grid">
+<h2 class="text-large">We fund varied tech sectors.</h2>
+ <p class="text-medium">Each year, we fund roughly 400 companies across nearly all technology and market sectors. Download a <a href="{{ site.baseurl }}/assets/files/applicants/combined-topics-03-2018.pdf">searchable PDF</a> of the full list of technology topic areas that also includes descriptions of the subtopics.</p>
+
+{% include tech-subtopics.html %}
+
 </div>
 </section>
-
-<section class="background-light-neutral" markdown="1">
-<div class="usa-section-tight-top usa-section usa-content usa-grid" markdown="1">
 
 **View our current awardees,** who are still completing the research outlined in their proposals and who haven't yet reached the estimated ends of their award terms. [View current Phase I awardees]({{ site.baseurl }}/awardees/phase-1/) or [Current Phase II awardees]({{ site.baseurl }}/awardees/phase-2/).
 
@@ -63,11 +63,14 @@ Since 2012, America’s Seed Fund powered by NSF has made more than 2,500 awards
   </div>
 </section>
 
-<section class="background-light-neutral">
-<div class="usa-section usa-content usa-grid">
-<h2 class="text-large">We fund varied tech sectors.</h2>
- <p class="text-medium">Each year, we fund roughly 400 companies across nearly all technology and market sectors. Download a <a href="{{ site.baseurl }}/assets/files/applicants/combined-topics-03-2018.pdf">searchable PDF</a> of the full list of technology topic areas that also includes descriptions of the subtopics.</p>
+<section class="background-light-neutral" markdown="1">
+<div class="usa-section-tight-top usa-section usa-content usa-grid" markdown="1">
+<h2 class="subhead text-small">Featured alumni and exits</h2>
+{% include featured-companies.html %}
+</div>
+</section>
 
-{% include tech-subtopics.html %}
+<section class="background-light-neutral" markdown="1">
+<div class="usa-section-tight-top usa-section usa-content usa-grid" markdown="1">
 </div>
 </section>
