@@ -44,7 +44,6 @@ Since 2012, America’s Seed Fund powered by NSF has made more than 2,500 awards
 <div class="usa-section-tight-top usa-section usa-content usa-grid">
 <h2 class="text-large">We fund varied tech sectors.</h2>
 <p class="text-medium">Each year, we fund roughly 400 companies across nearly all technology and market sectors. Download a <a href="{{ site.baseurl }}/assets/files/applicants/combined-topics-03-2018.pdf">searchable PDF</a> of the full list of technology topic areas that also includes descriptions of the subtopics.</p>
-</div>
   
   <h2 class="subhead text-small">Technology Topic Areas</h2>
 
@@ -55,6 +54,7 @@ Since 2012, America’s Seed Fund powered by NSF has made more than 2,500 awards
       </li>
     {% endfor %}
   </ul>
+</div>
 </section>
 
 <section class="background-light-neutral" markdown="1">
