@@ -1,15 +1,3 @@
-<section class="usa-section">
-  <h2 class="subhead text-small">Technology Topic Areas</h2>
-
-  <ul class="flex-list list-tech-topics">
-    {% for topic in site.data.tech-topics %}
-      <li class="button-arrow-after button-arrow-down">
-        <a href="#{{ topic.topic | slugify }}">{{ topic.topic }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</section>
-
 {% assign max_companies_shown = site['topics_api']['max_companies_shown'] %}
 
 {% for topic in site.data.tech-topics %}
