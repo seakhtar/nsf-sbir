@@ -47,6 +47,18 @@ Since 2012, America’s Seed Fund powered by NSF has made more than 2,500 awards
 </div>
 </section>
 
+<section class="usa-section">
+  <h2 class="subhead text-small">Technology Topic Areas</h2>
+
+  <ul class="flex-list list-tech-topics">
+    {% for topic in site.data.tech-topics %}
+      <li class="button-arrow-after button-arrow-down">
+        <a href="#{{ topic.topic | slugify }}">{{ topic.topic }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
 <section class="background-light-neutral" markdown="1">
 <div class="usa-section-tight-top usa-section usa-content usa-grid" markdown="1">
 
