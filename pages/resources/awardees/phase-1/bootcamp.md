@@ -17,7 +17,7 @@ The Boot Camp is run twice per year - starting in mid-January and again in mid-J
 
 - Phase I Awardees who participate in the Boot Camp should form a company team that will include the Principal Investigator (representing the technology) and the President/CEO (or other member of the team responsible for driving the commercial effort). 
 - Register for Steve Blank’s free “[How to Build a Start Up](https://www.udacity.com/course/how-to-build-a-startup--ep245)” online course and watch all lectures. 
-- Complete the initial draft of your [Business Model Canvas](/assets/files/awardees/the-business-model-canvas.pdf) (click to download template).  
+- Complete the initial draft of your [Business Model Canvas](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/BootCamp/assets/files/awardees/the-business-model-canvas.pdf) (click to download template).  
 - View customer discovery interviews ([http://venturewell.org/i-corps/llpvideos](http://venturewell.org/i-corps/llpvideos)), specifically those found under these sections: Before Leaving the Building, Outside the Building, Understanding What the Customer is Telling You, Back in the Building.
 - Identify a minimum of 30 prospective customers to interview.
 
@@ -31,6 +31,6 @@ Each team will present their “Lessons Learned” at the Beat-the-Odds Boot Cam
 
 ## Budget Preparation
 
-Phase I applicants may budget up to $20,000 of their Phase I award funds to cover costs for the NSF’s “Beat-the-Odds Boot Camp.” Refer to the Budget Section of the [FastLane Guide](/fastlane/form-prep-2/) for more information.
+Phase I applicants may budget up to $20,000 of their Phase I award funds to cover costs for the NSF’s “Beat-the-Odds Boot Camp.” Refer to the Budget Section of the [FastLane Guide](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/BootCamp/fastlane/form-prep-2/) for more information.
 
-Phase I awardees that participate in NSF’s “Beat-the-Odds Boot Camp” may reallocate up to $20,000 of their Phase I award funds to cover costs that were incurred as a result of participation in the Boot Camp. Please contact your program director and [click here](/resources/awardees/phase-1/revised-budget/) to learn more about revising a budget. 
+Phase I awardees that participate in NSF’s “Beat-the-Odds Boot Camp” may reallocate up to $20,000 of their Phase I award funds to cover costs that were incurred as a result of participation in the Boot Camp. Please contact your program director and [click here](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/BootCamp/resources/awardees/phase-1/revised-budget/) to learn more about revising a budget. 
