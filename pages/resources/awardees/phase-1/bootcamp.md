@@ -25,6 +25,10 @@ The Boot Camp is run twice per year - starting in mid-January and again in mid-J
 
 Each team will be paired with an I-Corps Instructor and will meet for three 20-minute office hour sessions. 
 
+## Culmination
+
+Each team will present their “Lessons Learned” at the Beat-the-Odds Boot Camp event the day before the Phase I Grantees Workshop. NSF I-Corps instructors will critique your work and provide feedback about your business modelssions. 
+
 ## Budget Preparation
 
 Phase I applicants may budget up to $20,000 of their Phase I award funds to cover costs for the NSF’s “Beat-the-Odds Boot Camp.” Refer to the Budget Section of the [FastLane Guide](/fastlane/form-prep-2/) for more information.
