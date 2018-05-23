@@ -24,16 +24,15 @@ Are you an awardee and have a success story to share?  [Tell us about it](https:
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### Custom digital voices for those unable to speak
+### A cheaper, easier way to test for malaria
 
-More than 10 million people worldwide live with voicelessness. Many of them rely on text-to-speech devices and apps, all of which use the same few generic, mechanical voices to mimic human speech — a solution that’s practical but that diminishes users’ unique vocal identities. **VocaliD** creates custom digital voices by taking a tiny sample of someone’s voice.
+For many in sub-saharan Africa, finding out if a fever is due to Malaria often means trekking long miles to a clinic for a relatively pricey blood test, and anxious hours of waiting before the results come in. But the Urine Malaria Test kit developed by Fyodor Biotechnologies has begun to change all that. 
 
-To learn more, visit [https://www.vocalid.co/](https://www.vocalid.co/).
-
+The National Science Foundation helped Fyodor Biotechnologies take this innovation from the lab bench to the market, through NSF's Small Business Innovation Research (SBIR) grants.
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="Custom Voices Video" width="100%" height="300" src="https://www.youtube.com/embed/-2g_0dLyz4s" frameborder="0" allowfullscreen></iframe>
+  <iframe title="Malaria Video" width="100%" height="300" src="https://www.youtube.com/embed/XzgzRg9PwRc" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
 </section>
@@ -44,16 +43,20 @@ To learn more, visit [https://www.vocalid.co/](https://www.vocalid.co/).
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### Growing bricks with bacteria
+### Device to treat stress urinary incontinence in women - Elidah
 
-More than 80% of global construction uses bricks. Each year, 1.23 trillion bricks are produced, resulting in 800 million tons of carbon emissions, according to **bioMASON**, a small business funded by the America’s Seed Fund.
+Elidah, a small business funded by the National Science Foundation, created a medical device to help women with stress urinary incontinence - the inability to control the urge to urinate - a condition which impacts about one in three women.
 
-To learn more, visit [biomason.com](http://biomason.com/).
+For about 20 minutes a day, women would use Elidah’s, non-invasive, wearable device while it delivers an electrical stimulation to tone and strengthen pelvic floor muscles and treat stress incontinence. Within six to eight weeks, the device could help women strengthen their pelvic floor muscles without the need for surgery or diapers, explains Gloria Kolb, CEO and co-founder of Elidah.
+
+Elidah is supported by America’s Seed Fund powered by the National Science Foundation, a nearly $200 million program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact. 
+
+To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="growing-bricks-with-bacteria-video" height="300" width="100%" src="https://www.youtube.com/embed/6BqoM4am8kw" frameborder="0" allowfullscreen></iframe>
+  <iframe title="Elidah" height="300" width="100%" src="https://www.youtube.com/embed/ksxUK6OWpOA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
