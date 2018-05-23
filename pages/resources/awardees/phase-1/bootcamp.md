@@ -31,6 +31,6 @@ Each team will present their “Lessons Learned” at the Beat-the-Odds Boot Cam
 
 ## Budget Preparation
 
-Phase I applicants may budget up to $20,000 of their Phase I award funds to cover costs for the NSF’s “Beat-the-Odds Boot Camp.” Refer to the Budget Section of the [FastLane Guide](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/BootCamp/fastlane/form-prep-2/) for more information.
+Phase I applicants may budget up to $20,000 of their Phase I award funds to cover costs for the NSF’s “Beat-the-Odds Boot Camp.” Refer  to the budget preparation instructions in the solicitation or the [FastLane Guide](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/BootCamp/fastlane/form-prep-2/) for more information.
 
 Phase I awardees that participate in NSF’s “Beat-the-Odds Boot Camp” may reallocate up to $20,000 of their Phase I award funds to cover costs that were incurred as a result of participation in the Boot Camp. Please contact your program director and [click here](https://federalist-proxy.app.cloud.gov/preview/18f/nsf-sbir/BootCamp/resources/awardees/phase-1/revised-budget/) to learn more about revising a budget. 
