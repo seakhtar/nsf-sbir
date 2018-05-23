@@ -72,7 +72,7 @@ To learn more visit: [http://keystonetowersystems.com/](http://keystonetowersyst
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="Manufacturing Video" width="100%" height="300" src="https://youtu.be/Q10zFGxpNoo" frameborder="0" allowfullscreen></iframe>
+  <iframe title="Manufacturing Video" width="100%" height="300" src="https://www.youtube.com/embed/Q10zFGxpNoo" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -117,7 +117,7 @@ To learn more visit: [https://www.branch.technology/](https://www.branch.technol
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="3D Printing Video" height="300" width="100%" src="https://youtu.be/OsLDAevskrA" frameborder="0" allowfullscreen></iframe>
+  <iframe title="3D Printing Video" height="300" width="100%" src="https://www.youtube.com/embed/OsLDAevskrA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -139,7 +139,7 @@ To learn more visit: [https://www.arable.com/](https://www.arable.com/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="sustainable-synthetic-bait-video" width="100%" height="300" src="https://youtu.be/BC7LQRir7L8" frameborder="0" allowfullscreen></iframe>
+  <iframe title="sustainable-synthetic-bait-video" width="100%" height="300" src="https://www.youtube.com/embed/BC7LQRir7L8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -158,7 +158,7 @@ To learn more visit: [https://www.omnity.io/](https://www.omnity.io/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="Words video" width="100%" height="300" src="https://youtu.be/r5EULFTdI0I" frameborder="0" allowfullscreen></iframe>
+  <iframe title="Words video" width="100%" height="300" src="https://www.youtube.com/embed/r5EULFTdI0I" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -198,7 +198,7 @@ To learn more visit: [http://taoconnect.org/](http://taoconnect.org/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="Mental Health video" width="100%" height="300" src="https://youtu.be/Z4mwbSNvlp8" frameborder="0" allowfullscreen></iframe>
+  <iframe title="Mental Health video" width="100%" height="300" src="https://www.youtube.com/embed/Z4mwbSNvlp8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -217,7 +217,7 @@ To learn more visit: [https://baylabs.io/](https://baylabs.io/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="Ultrasound video" width="100%" height="300" src="https://youtu.be/QdCIZE-eKB4" frameborder="0" allowfullscreen></iframe>
+  <iframe title="Ultrasound video" width="100%" height="300" src="https://www.youtube.com/embed/QdCIZE-eKB4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -236,7 +236,7 @@ To learn more visit: [https://spheryx.solutions/](https://spheryx.solutions/).
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="Contaminates" width="100%" height="300" src="https://youtu.be/OyR_i_nPkhA" frameborder="0" allowfullscreen></iframe>
+  <iframe title="Contaminates" width="100%" height="300" src="https://www.youtube.com/embed/OyR_i_nPkhA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
