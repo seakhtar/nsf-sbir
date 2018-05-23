@@ -44,7 +44,7 @@ To learn more visit: [https://www.fyodorbio.com/](https://www.fyodorbio.com/).
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### Device to treat stress urinary incontinence in women - Elidah
+### Device to treat stress urinary incontinence in women
 
 Elidah, a small business funded by the National Science Foundation, created a medical device to help women with stress urinary incontinence - the inability to control the urge to urinate - a condition which impacts about one in three women.
 
@@ -109,7 +109,7 @@ Jose M. Mejia Oneto, founder and CEO of Shasqi.
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### 3D Printing Like Nature - Branch Technology
+### 3D Printing Like Nature
 
 Branch Technology, a small business funded by the National Science Foundation, combines 3D printing, industrial robotics, and conventional building materials to enable a new way to build.
 
