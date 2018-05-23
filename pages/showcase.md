@@ -161,6 +161,33 @@ To learn more visit: [https://www.arable.com/](https://www.arable.com/).
 </div>
 </section>
 
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Rare words uncover strongly-related ideas shared between documents and across languages
+
+Omnity, a small business funded by the National Science Foundation, has developed technology to find shared patterns of rare words across documents— rather than through hyperlinks and tagging —in hundreds of millions of documents and across languages, allowing users to find information close in meaning or idea, even when documents do not directly refer to one another.
+
+In most fields of study, there are thousands of documents published or created per hour, making it challenging to systematically compare and analyze information. “You could spend your entire professional lifetime catching up on the last five years,” says Brian Sager, CEO & co-founder of Omnity.    
+
+Omnity’s semantic search technology allows identification of kindred documents in the, scientific, medical, engineering, legal, and financial; domains by focusing on the patterns of rare words shared across any pair of documents, even across hundreds of millions of documents. Omnity creates a mathematical description of the statistical distribution of the rare words and leveraging machine learning for other documents that have similar distributions. Current online search platforms use hyperlinks and citations to identify related documents, while Omnity’s technology allows users to find related documents that may not cite or link to similar, useful information, explains Sager. 
+
+Omnity does not focus on websites, but rather a massive and growing corpus of documents across many fields. Omnity has customers in the Fortune 500, including customers in the pharmaceutical, biotech, materials science, oil and gas, and aerospace markets. 
+
+Omnity is supported by the NSF’s Small Business Innovation Research (SBIR)/Small Business Technology Transfer (STTR) program, a nearly $190 million program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact. 
+
+To learn more visit: [https://www.omnity.io/](https://www.omnity.io/).
+
+</div>
+
+<div class="usa-width-one-half">
+  <iframe title="Words video" width="100%" height="300" src="https://youtu.be/r5EULFTdI0I" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</div>
+</section>
+
 <section class="usa-section showcase-quote" markdown="1">
 <div class="usa-grid" markdown="1">
 
