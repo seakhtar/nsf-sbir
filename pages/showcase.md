@@ -28,7 +28,8 @@ Are you an awardee and have a success story to share?  [Tell us about it](https:
 
 For many in sub-saharan Africa, finding out if a fever is due to Malaria often means trekking long miles to a clinic for a relatively pricey blood test, and anxious hours of waiting before the results come in. But the Urine Malaria Test kit developed by Fyodor Biotechnologies has begun to change all that. 
 
-The National Science Foundation helped Fyodor Biotechnologies take this innovation from the lab bench to the market, through NSF's Small Business Innovation Research (SBIR) grants.
+To learn more visit: [https://www.fyodorbio.com/](https://www.fyodorbio.com/).
+
 </div>
 
 <div class="usa-width-one-half">
@@ -65,14 +66,6 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 ### Manufacturing equipment to build taller wind turbines on-site
 
 Keystone Tower Systems, a small business funded by the National Science Foundation, has developed tower hub manufacturing equipment to make wind turbines on-site, allowing for the creation of taller towers that can generate more wind power in more places. 
-
-Today’s wind turbine towers are typically assembled from individual pieces that are rolled and welded separately and are size-limited to a 14-foot diameter to be able to be transported from the manufacturing facility to the project site. Current towers are typically about 30 stories tall. 
-
-Keystone Tower Systems has developed a continuous, fully automated manufacturing process for wind turbine towers to create tapered tubes, varying in thickness and diameter. The company can use the equipment on-site, allowing for towers with a larger diameter, which in turn allows the tower to be much taller – 50 stories or taller. 
-
-“Today, we can only cost effectively install wind turbines in a few states that have a good strong wind resource close to the ground,” explains Eric Smith, CEO at Keystone Tower Systems. “As soon as you can make taller towers by making them larger, suddenly you can get a good wind from almost any site so we can bring low-cost wind energy into all 50 states.”
-
-Keystone Tower Systems is supported by the National Science Foundation’s Small Business Innovation Research (SBIR)/Small Business Technology Transfer (STTR) program, a nearly $190 million program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact.
 
 To learn more visit: [http://keystonetowersystems.com/](http://keystonetowersystems.com/).
 
@@ -120,12 +113,6 @@ Jose M. Mejia Oneto, founder and CEO of Shasqi.
 
 Branch Technology, a small business funded by the National Science Foundation, combines 3D printing, industrial robotics, and conventional building materials to enable a new way to build.
 
-“If you look at the creativity and the beauty and the flexibility and the strength that you see in the natural world and begin to think how you can interpret that into buildings, that’s what we’re just on the very beginning steps of exploring,” explains Platt Boyd, founder and CEO of Branch Technology. 
-
-The company is prefabricating architectural wall panels using 3D printing to create a cellular-like structure that they fill in with conventional construction materials, strengthening the structure and function for normal wall assemblies.
-
-Branch Technology is supported by America’s Seed Fund powered by the National Science Foundation, a nearly $200 million program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact. 
-
 To learn more visit: [https://www.branch.technology/](https://www.branch.technology/).
 </div>
 
@@ -146,9 +133,6 @@ To learn more visit: [https://www.branch.technology/](https://www.branch.technol
 ### All-in-one weather and crop monitor delivers agricultural insight to farmers
 
 NSF-funded small business Arable Labs has developed a crop and weather sensor that delivers real-time, precision weather information straight to the hands of farmers in the field.
- 
-The technology packs sensors into portal devices that collect information in the fields on crop health, and then transmits the data to the cloud. Users get a comprehensive overview of weather and plant conditions, according to Arable. At CES 2018, Arable Labs sales manager Andrea McNees explained how the system provides more accurate data than other agricultural technologies and can save farmers time and money. Arable is funded through America’s Seed Fund NSF SBIR/STTR: https://seedfund.nsf.gov/.  
-https://www.arable.com/
 
 To learn more visit: [https://www.arable.com/](https://www.arable.com/).
 
@@ -168,14 +152,6 @@ To learn more visit: [https://www.arable.com/](https://www.arable.com/).
 ### Rare words uncover strongly-related ideas shared between documents and across languages
 
 Omnity, a small business funded by the National Science Foundation, has developed technology to find shared patterns of rare words across documents— rather than through hyperlinks and tagging —in hundreds of millions of documents and across languages, allowing users to find information close in meaning or idea, even when documents do not directly refer to one another.
-
-In most fields of study, there are thousands of documents published or created per hour, making it challenging to systematically compare and analyze information. “You could spend your entire professional lifetime catching up on the last five years,” says Brian Sager, CEO & co-founder of Omnity.    
-
-Omnity’s semantic search technology allows identification of kindred documents in the, scientific, medical, engineering, legal, and financial; domains by focusing on the patterns of rare words shared across any pair of documents, even across hundreds of millions of documents. Omnity creates a mathematical description of the statistical distribution of the rare words and leveraging machine learning for other documents that have similar distributions. Current online search platforms use hyperlinks and citations to identify related documents, while Omnity’s technology allows users to find related documents that may not cite or link to similar, useful information, explains Sager. 
-
-Omnity does not focus on websites, but rather a massive and growing corpus of documents across many fields. Omnity has customers in the Fortune 500, including customers in the pharmaceutical, biotech, materials science, oil and gas, and aerospace markets. 
-
-Omnity is supported by the NSF’s Small Business Innovation Research (SBIR)/Small Business Technology Transfer (STTR) program, a nearly $190 million program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact. 
 
 To learn more visit: [https://www.omnity.io/](https://www.omnity.io/).
 
@@ -217,12 +193,6 @@ CEO, [Lumenari, Inc.](http://www.lumenariinc.com/)
 
 TAO Connect, a small business funded by the National Science Foundation, provides online mental health therapy.  
 
-The company uses artificial intelligence to create low-cost, accessible, software-based practice tools for treatment for anxiety, depression, substance abuse, resiliency and pain management. 
-
-TAO develops a personalized course for each patient’s specific mental health needs – whether they have a therapist or not. They use a method called “low intensity-high engagement therapy,” which combines online and mobile educational modules and practice tools with short phone conversations or video conferences with a therapist. Mental health professionals can also use the company’s dashboard to check on their patients’ progress. People pay a monthly or annual licensing fee to use TAO’s services, which are secure and Health Insurance Portability and Accountability Act (HIPAA) compliant. 
-
-TAO Connect is supported by America’s Seed Fund powered by the National Science Foundation, a nearly $200 million program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact.
-
 To learn more visit: [http://taoconnect.org/](http://taoconnect.org/).
 
 </div>
@@ -242,14 +212,6 @@ To learn more visit: [http://taoconnect.org/](http://taoconnect.org/).
 
 Bay Labs, a small business funded by the National Science Foundation (NSF), uses artificial intelligence to help medical professionals perform and interpret ultrasounds. 
 
-Bay Labs is using deep learning technology to enable a wider range of medical professionals use ultrasound imaging to quickly and reliably detect serious medical conditions. 
-
-Right now, Bay Labs' technology is being used in cardiovascular imaging to diagnose potentially life-threatening heart conditions – something that now requires a highly trained expert. Ultimately, they’d like to see ultrasound technology used routinely for screening in clinics and for triage in emergency rooms. 
-
-“Cardiovascular disease currently kills more than 700,000 people every year in the United States alone,” says Charles Cadieu, co-founder and CEO of Bay Labs. “We think that this technology can help improve early diagnosis and lead to more preventative treatment of this disease.”
-
-Bay Labs is supported by America’s Seed Fund powered by the NSF, a nearly $200 million per year program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact.
-
 To learn more visit: [https://baylabs.io/](https://baylabs.io/).
 
 </div>
@@ -268,12 +230,6 @@ To learn more visit: [https://baylabs.io/](https://baylabs.io/).
 ### Detecting biological contaminants in water & pharmaceuticals
 
 Spheryx, Inc., a small business funded by the National Science Foundation (NSF), created a technology to monitor, count and characterize microscopic particles in a variety of fluids, such as water, chemicals, or even pharmaceuticals.
-
-The Food and Drug Administration has identified groupings of proteins, called protein aggregates, as a significant safety hazard for biologic pharmaceuticals, which are widely considered the most promising class of new drugs. Protein aggregates are very hard to detect, and ingesting them can lead to severe immune reactions, sometimes even leading to death.  
-
-Spheryx’s technology can detect, monitor and characterize protein aggregates suspended within pharmaceutical products, leading to safer products for the consumer and reduced manufacturing cost for the manufacturers. The technology is based on holographic video microscopy, which uses a microscope with laser light to create holograms of particles within cells. The holograms encode the three-dimensional information about the particles, and Spheryx extracts information to determine whether there are protein aggregates in the sample.  
-
-Spheryx is supported by America’s Seed Fund powered by NSF, a $200 million program that awards research and development grants to small businesses and startups, transforming scientific discovery into products and services with commercial and societal impact. 
 
 To learn more visit: [https://spheryx.solutions/](https://spheryx.solutions/).
 
