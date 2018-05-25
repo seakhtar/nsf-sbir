@@ -42,6 +42,10 @@ To learn more visit: [https://www.fyodorbio.com/](https://www.fyodorbio.com/).
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
+<div class="usa-width-one-half">
+  <iframe title="Elidah" height="300" width="100%" src="https://www.youtube.com/embed/ksxUK6OWpOA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 <div class="usa-content usa-width-one-half" markdown="1">
 
 ### Device to treat stress urinary incontinence in women
@@ -52,9 +56,7 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 
 </div>
 
-<div class="usa-width-one-half">
-  <iframe title="Elidah" height="300" width="100%" src="https://www.youtube.com/embed/ksxUK6OWpOA" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 </div>
 </section>
