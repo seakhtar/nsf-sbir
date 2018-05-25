@@ -81,6 +81,10 @@ To learn more visit: [https://baylabs.io/](https://baylabs.io/).
 </section>
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe title="Mental Health video" width="100%" height="300" src="https://www.youtube.com/embed/Z4mwbSNvlp8" frameborder="0" allowfullscreen></iframe>
+</div>
 <div class="usa-content usa-width-one-half" markdown="1">
 
 ### Online access to mental health therapy
@@ -89,10 +93,6 @@ TAO Connect provides online mental health therapy.
 
 To learn more visit: [http://taoconnect.org/](http://taoconnect.org/).
 
-</div>
-
-<div class="usa-width-one-half">
-  <iframe title="Mental Health video" width="100%" height="300" src="https://www.youtube.com/embed/Z4mwbSNvlp8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
@@ -144,6 +144,10 @@ To learn more visit: [https://spheryx.solutions/](https://spheryx.solutions/).
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
+<div class="usa-width-one-half">
+  <iframe title="3D Printing Video" height="300" width="100%" src="https://www.youtube.com/embed/OsLDAevskrA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 <div class="usa-content usa-width-one-half" markdown="1">
 
 ### 3D Printing Like Nature
@@ -153,9 +157,7 @@ Branch Technology combines 3D printing, industrial robotics, and conventional bu
 To learn more visit: [https://www.branch.technology/](https://www.branch.technology/).
 </div>
 
-<div class="usa-width-one-half">
-  <iframe title="3D Printing Video" height="300" width="100%" src="https://www.youtube.com/embed/OsLDAevskrA" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 </div>
 </section>
@@ -223,6 +225,11 @@ To learn more visit: [https://www.omnity.io/](https://www.omnity.io/).
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
+
+
+<div class="usa-width-one-half">
+  <iframe title="Manufacturing Video" width="100%" height="300" src="https://www.youtube.com/embed/Q10zFGxpNoo" frameborder="0" allowfullscreen></iframe>
+</div>
 <div class="usa-content usa-width-one-half" markdown="1">
 
 ### Manufacturing equipment to build taller wind turbines on-site
@@ -232,11 +239,6 @@ Keystone Tower Systems has developed tower hub manufacturing equipment to make w
 To learn more visit: [http://keystonetowersystems.com/](http://keystonetowersystems.com/).
 
 </div>
-
-<div class="usa-width-one-half">
-  <iframe title="Manufacturing Video" width="100%" height="300" src="https://www.youtube.com/embed/Q10zFGxpNoo" frameborder="0" allowfullscreen></iframe>
-</div>
-
 </div>
 </section>
 
