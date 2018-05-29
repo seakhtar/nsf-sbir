@@ -24,16 +24,16 @@ Are you an awardee and have a success story to share?  [Tell us about it](https:
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### Custom digital voices for those unable to speak
+### A cheaper, easier way to test for malaria
 
-More than 10 million people worldwide live with voicelessness. Many of them rely on text-to-speech devices and apps, all of which use the same few generic, mechanical voices to mimic human speech — a solution that’s practical but that diminishes users’ unique vocal identities. **VocaliD** creates custom digital voices by taking a tiny sample of someone’s voice.
+For many in sub-saharan Africa, finding out if a fever is due to Malaria often means trekking long miles to a clinic for a relatively pricey blood test, and anxious hours of waiting before the results come in. But the Urine Malaria Test kit developed by Fyodor Biotechnologies has begun to change all that. 
 
-To learn more, visit [https://www.vocalid.co/](https://www.vocalid.co/).
+To learn more visit: [https://www.fyodorbio.com/](https://www.fyodorbio.com/).
 
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="Custom Voices Video" width="100%" height="300" src="https://www.youtube.com/embed/-2g_0dLyz4s" frameborder="0" allowfullscreen></iframe>
+  <iframe title="Malaria Video" width="100%" height="300" src="https://www.youtube.com/embed/XzgzRg9PwRc" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>
 </section>
@@ -42,18 +42,57 @@ To learn more, visit [https://www.vocalid.co/](https://www.vocalid.co/).
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
+<div class="usa-width-one-half">
+  <iframe title="Elidah" height="300" width="100%" src="https://www.youtube.com/embed/ksxUK6OWpOA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### Growing bricks with bacteria
+### Device to treat stress urinary incontinence in women
 
-More than 80% of global construction uses bricks. Each year, 1.23 trillion bricks are produced, resulting in 800 million tons of carbon emissions, according to **bioMASON**, a small business funded by the America’s Seed Fund.
+Elidah created a medical device to help women with stress urinary incontinence - the inability to control the urge to urinate - a condition which impacts about one in three women.
 
-To learn more, visit [biomason.com](http://biomason.com/).
+To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
+
+</div>
+
+
+
+</div>
+</section>
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### AI helps medical professionals interpret, perform ultrasounds
+
+Bay Lab uses artificial intelligence to help medical professionals perform and interpret ultrasounds. 
+
+To learn more visit: [https://baylabs.io/](https://baylabs.io/).
 
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="growing-bricks-with-bacteria-video" height="300" width="100%" src="https://www.youtube.com/embed/6BqoM4am8kw" frameborder="0" allowfullscreen></iframe>
+  <iframe title="Ultrasound video" width="100%" height="300" src="https://www.youtube.com/embed/QdCIZE-eKB4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</div>
+</section>
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+<div class="usa-width-one-half">
+  <iframe title="Mental Health video" width="100%" height="300" src="https://www.youtube.com/embed/Z4mwbSNvlp8" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Online access to mental health therapy
+
+TAO Connect provides online mental health therapy.  
+
+To learn more visit: [http://taoconnect.org/](http://taoconnect.org/).
+
 </div>
 
 </div>
@@ -75,55 +114,73 @@ Shasqi, a small business funded by the National Science Foundation, is developin
   
 The system works by first injecting a gel at the treatment site. The gel contains chemicals that combine with and activate an injected, attenuated form of a drug, such as a chemotherapeutic, to trigger its cancer-fighting effect only at the tumor or other targeted tissue. The experimental treatment has been successfully tested against tumors in mice, which experienced tumor shrinkage while maintaining healthier weights than mice receiving traditional chemotherapeutic treatments. [Shasqi](http://www.shasqi.com/#intro) is funded by America’s Seed Fund powered by NSF. *Photo credit: Shasqi*
 </div>
-<div class="usa-content usa-width-one-sixth" markdown="1">
+<div class="usa-content usa-width-one-sixth" style="max-width:150px;" markdown="1">
 ![Dr. Jose M. Mejia Oneto]({{ site.baseurl }}/assets/img/showcase/Jose%20-%20Head%20Shot.jpg)
+
 Jose M. Mejia Oneto, founder and CEO of Shasqi.
 </div>
 
 </div>
 </section>
 
-
-
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### Making plastics conductive
+### Detecting biological contaminants in water & pharmaceuticals
 
-**PolyDrop** CEO Volha Hrechka wants to “complete the plastics revolution” by making plastics more conductive. Her company’s revolutionary product has its roots in the aerospace industry. “The Boeing 787 Dreamliner is 70% carbon-fiber composites,” Hrechka said, “but these don’t conduct electricity.” This poses efficiency and safety issues; excess static-charge buildup in planes can interfere with sensitive electronics and navigation systems. Making plastics conductive will make planes lighter and extend the functionality of those plastics, ultimately reducing costs and potentially saving lives.
+Spheryx, Inc. created a technology to monitor, count and characterize microscopic particles in a variety of fluids, such as water, chemicals, or even pharmaceuticals.
 
-To learn more, visit [polydrop.net](http://polydrop.net/).
+To learn more visit: [https://spheryx.solutions/](https://spheryx.solutions/).
+
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="making-plastics-conductive-video" height="300" width="100%" src="https://www.youtube.com/embed/wcUj-jIynHs" frameborder="0" allowfullscreen></iframe>
+  <iframe title="Contaminates" width="100%" height="300" src="https://www.youtube.com/embed/OyR_i_nPkhA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
 </section>
 
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+<div class="usa-width-one-half">
+  <iframe title="3D Printing Video" height="300" width="100%" src="https://www.youtube.com/embed/OsLDAevskrA" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### 3D Printing Like Nature
+
+Branch Technology combines 3D printing, industrial robotics, and conventional building materials to enable a new way to build.
+
+To learn more visit: [https://www.branch.technology/](https://www.branch.technology/).
+</div>
 
 
+
+</div>
+</section>
 
 <section class="usa-section showcase-content background-gray-dark">
 <div class="usa-content usa-grid">
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### Sustainable synthetic bait
+### All-in-one weather and crop monitor delivers agricultural insight to farmers
 
-Each year, commercial crustacean fishing outfits spend nearly $20 billion on forage (bait) fish. The costs incurred aren’t just monetary, however. Bait fish usage in this sector could lead to overfishing and depletion of forage fish species, which may, in turn, harm other animal populations. **Kepley Biosystems** hopes to reduce these harms.
+Arable Labs has developed a crop and weather sensor that delivers real-time, precision weather information straight to the hands of farmers in the field.
 
-To learn more, visit [kepleybiosystems.com/organobait/](https://kepleybiosystems.com/organobait/).
+To learn more visit: [https://www.arable.com/](https://www.arable.com/).
 
 </div>
 
 <div class="usa-width-one-half">
-  <iframe title="sustainable-synthetic-bait-video" width="100%" height="300" src="https://www.youtube.com/embed/aszA1FM6nL4" frameborder="0" allowfullscreen></iframe>
+  <iframe title="sustainable-synthetic-bait-video" width="100%" height="300" src="https://www.youtube.com/embed/BC7LQRir7L8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
 </section>
+
 
 <section class="usa-section showcase-quote" markdown="1">
 <div class="usa-grid" markdown="1">
@@ -143,6 +200,45 @@ To learn more, visit [kepleybiosystems.com/organobait/](https://kepleybiosystems
 Rob Nordsell  
 CEO, [Lumenari, Inc.](http://www.lumenariinc.com/)  
 
+</div>
+</section>
+
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Rare words uncover strongly-related ideas shared between documents and across languages
+
+Omnity has developed technology to find shared patterns of rare words across documents— rather than through hyperlinks and tagging —in hundreds of millions of documents and across languages, allowing users to find information close in meaning or idea, even when documents do not directly refer to one another.
+
+To learn more visit: [https://www.omnity.io/](https://www.omnity.io/).
+
+</div>
+
+<div class="usa-width-one-half">
+  <iframe title="Words video" width="100%" height="300" src="https://www.youtube.com/embed/r5EULFTdI0I" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</div>
+</section>
+
+<section class="usa-section showcase-content background-gray-dark">
+<div class="usa-content usa-grid">
+
+
+<div class="usa-width-one-half">
+  <iframe title="Manufacturing Video" width="100%" height="300" src="https://www.youtube.com/embed/Q10zFGxpNoo" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="usa-content usa-width-one-half" markdown="1">
+
+### Manufacturing equipment to build taller wind turbines on-site
+
+Keystone Tower Systems has developed tower hub manufacturing equipment to make wind turbines on-site, allowing for the creation of taller towers that can generate more wind power in more places. 
+
+To learn more visit: [http://keystonetowersystems.com/](http://keystonetowersystems.com/).
+
+</div>
 </div>
 </section>
 
