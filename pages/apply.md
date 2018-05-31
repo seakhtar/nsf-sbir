@@ -18,7 +18,7 @@ timeline:
     steps:
       - step-6
       - step-7
-  - title: "Deadline<br> {{ site.deadline }}"
+  - title: "Deadline #<br> #{{ site.deadline }}"
     description: "Applications due by 5:00 p.m. in your local time zone."
     inactive_description: "Applications due by 5:00 p.m. in your local time zone."
     note: "Note: Your time zone is based on your company's address as you listed it in your application."
