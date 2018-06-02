@@ -17,9 +17,9 @@ hero:
 
 <head><script type="text/javascript"> setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName("script")[0]; a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0041/5508.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1); </script>
 </head>
-<section class="usa-section usa-section-alt-bg usa-content section-goodfit background-bold-blue">
+<section class="usa-section usa-content section-intro background-light-neutral">
 <div class="usa-grid" markdown="1">
-**America's Seed Fund**<br>
+**Due to new FastLane requirements for NSF SBIR/STTR proposals, the NSF SBIR/STTR Phase I proposal deadline has been extended to July 10, 2018.**<br>
 </div>
 </section>
 <section class="usa-section usa-content section-intro background-light-neutral">
