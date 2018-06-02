@@ -19,9 +19,9 @@ timeline:
       - step-6
       - step-7
   - title: "Deadline<br> {{ site.deadline }}"
-    description: "Applications due by 5:00 p.m. in your local time zone."
+    description: "The proposal deadline has been extended from June 14 to July 10 to provide sufficient time for organizations to complete the new registration requirements to submit a proposal."
     inactive_description: "Applications due by 5:00 p.m. in your local time zone."
-    note: "Note: Your time zone is based on your company's address as you listed it in your application."
+    note: "Note: Applications due by 5:00 p.m. in your local time zone.Your time zone is based on your company's address as you listed it in your application."
     inactive_note: "Note: Your time zone is based on your company's address as you listed it in your application."
     deadline: true
   - title: 1-3 months after<br> the deadline
