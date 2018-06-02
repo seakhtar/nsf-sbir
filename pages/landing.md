@@ -19,7 +19,7 @@ hero:
 </head>
 <section class="usa-section usa-content  background-gray-dark" style="padding-top:2rem; padding-bottom: 0rem;">
 <div class="usa-grid">
-<h2 class="text-medium" style="color:#fff;"><strong>Due to new FastLane requirements for NSF SBIR/STTR proposals, the NSF SBIR/STTR Phase I proposal deadline has been extended to July 10, 2018.</strong></h2><br>
+<h2 class="text-medium" style="color:#fff;"><strong>Due to new registration requirements, the Phase I proposal deadline has been extended from June 14 to July 10.</strong></h2><br>
 </div>
 </section>
 <section class="usa-section usa-content section-intro background-light-neutral">
