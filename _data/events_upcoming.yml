@@ -1,9 +1,17 @@
 ---
 - event: 
   Name: General Q&A Webinar 
-  description: Program director Ruth Shuman will give a short overview presentation and answer your questions. 
+  description: Program directors Peter Atherton and Linda Molnar will give a short overview presentation and answer your questions. 
   eventType: Webinar
-  date: 11 June 2018
+  date: 27 June 2018
   time: 2:00 - 3:30 PM ET
   location:
-  registrationLink: https://nsf.webex.com/mw3100/mywebex/default.do?service=1&siteurl=nsf&nomenu=true&main_url=%2Fmc3100%2Fe.do%3Fsiteurl%3Dnsf%26AT%3DMI%26EventID%3D667014902%26UID%3D6125154392%26Host%3DQUhTSwAAAATHDmgXjHoKxDR4cF1XdtxmL618LMDJM5nvuDsbKqwURzeBY9zXZWbJWSQAJrc5aEaKZTQ8gEJBZYt_Tt6PXyJw0%26RG%3D1%26FrameSet%3D2%26RGID%3Dr709fac70624dc1ba3ad392c02476e517
+  registrationLink: https://nsf.webex.com/nsf/j.php?RGID=r46ce4e8530e9f2d49324434741688cde
+- event: 
+  Name: General Q&A Webinar 
+  description: Program director Henry Ahn will give a short overview presentation and answer your questions. 
+  eventType: Webinar
+  date: 6 July 2018
+  time: 2:00 - 3:30 PM ET
+  location:
+  registrationLink: https://nsf.webex.com/nsf/j.php?RGID=r92cf1c959aee7510105790a75ebf4fe5
