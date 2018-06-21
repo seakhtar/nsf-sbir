@@ -1,6 +1,6 @@
 ---
 title: Internet of Things (I), Semiconductors (S) and Photonic (PH) Devices
-permalink: /topics/internet-of-things-semiconductors-and-photoic-devices/
+permalink: /topics/internet-of-things-semiconductors-and-photonic-devices/
 layout: tech-topic
 topic_code: 
   -i
