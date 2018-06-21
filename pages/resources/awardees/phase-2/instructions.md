@@ -30,7 +30,7 @@ From the [FastLane homepage](http://www.fastlane.nsf.gov) select:
     - RAHSS bottom line for the overall budget is either $6,000 for one student or $12,000 for two. (Funds should only appear on budget line F.1)  
     - RET bottom line for the overall budget is either $10,000 for one teacher or $20,000 for two. **Note** The total cost of an RET supplement is limited to $10,000 per teacher per year.  For both RET Site and RET Supplement, the budget includes a teacher and/or community college faculty stipend of up to $2,000 for the cost of materials, equipment, software and other supplies for developing classroom instructions and experiments. (Funds should only appear on budget lines F.1 and F.4, respectively).  
     - VRS bottom line for the overall budget is either $10,000 for one, $20,000 for two, or $30,000 for three. (Funds should only appear on budget line F.1)  
-    - **CAP Budget Info**: All costs allocated to the service provider are entered under line G.6 as "other costs".  
+    - CAP Budget Info: All costs allocated to the service provider are entered under line G.6 as "other costs".  
     - **For all other supplements**: please refer to the DCL for budgetary guidance.  
     - GO Explanation for Late Request: Provide the reason for the late request. (If Applicable; Phase IICC , RAHSS, REU and RET supplements are not permitted to extend the end date of the award).  
     - GO Revised Expiration Date (if applicable): Provide the number of additional months requested for this award (no more than 1 year). `Always check with your Program Director before adding any additional time.`  
