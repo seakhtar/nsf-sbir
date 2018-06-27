@@ -39,12 +39,12 @@
   permalink: /topics/materials-and-instrumentation/
   topic_code: mi
   programDirector:
-    - name: Ben Schrag
-      last_name: Schrag
+    - name: Steve 
+      last_name: Konsek
       api_name: Debasis Majumdar
-      email: bschrag@nsf.gov
-      photo: Ben-compressed.jpg
-      bio: "is the Senior Program Director for the SBIR/STTR programs. He joined the NSF as a Program Director in 2009, leading the Advanced Materials and Instrumentation portfolio in the Small Business Innovation Research and Small Business Technology Transfer programs. Prior to NSF, he was the Director of Research and Development at Micro Magnetics, where he led a development effort to commercialize a new family of high-performance magnetic microsensor products for demanding consumer and military applications. During this time, he also served as a visiting scientist at Brown University and as the Principal Investigator on a number of federal grants and contracts, including NSF Phase I and Phase II Small Business Innovation Research projects and an Advanced Technology Program award from NIST. Ben received his Ph.D. in Physics from Brown University."
+      email: skonsek@nsf.gov
+      photo: Konsek-compressed.jpg
+      bio: "joined the National Science Foundation’s SBIR/STTR program in 2012 and has served as both a Program Director for the SBIR/STTR and the Innovation Corps (I-Corps™) program. Prior to joining NSF, Steven was the Chief Technology Officer at Illumitex, a venture-backed company developing light emitting diode chips, packages and fixtures for general illumination. He previously served as Chief of Technical Staff at Glo, recognized as one of Europe’s top LED startups. Prior to Glo, Steven was the Director of Device R&D at Nantero, a memory startup. Throughout his career, Steven has developed innovative, game-changing technologies across a range of semiconductor applications. He holds numerous patents and publications in LEDs, memory, process integration and nanoscale devices. Steven has a Ph.D. in Physics from the University of Washington and a B.S. in Mathematics from Purdue University."
   subtopics:
     - Metals and Ceramics (MI1)
     - Structural and Infrastructural Materials (MI2)
