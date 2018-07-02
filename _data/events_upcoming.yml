@@ -1,14 +1,6 @@
 ---
 - event: 
   Name: General Q&A Webinar 
-  description: Program directors Peter Atherton and Linda Molnar will give a short overview presentation and answer your questions. 
-  eventType: Webinar
-  date: 27 June 2018
-  time: 2:00 - 3:30 PM ET
-  location:
-  registrationLink: https://nsf.webex.com/nsf/j.php?RGID=r46ce4e8530e9f2d49324434741688cde
-- event: 
-  Name: General Q&A Webinar 
   description: Program director Henry Ahn will give a short overview presentation and answer your questions. 
   eventType: Webinar
   date: 6 July 2018
