@@ -39,12 +39,12 @@
   permalink: /topics/materials-and-instrumentation/
   topic_code: mi
   programDirector:
-    - name: Ben Schrag
-      last_name: Schrag
+    - name: Steve Konsek
+      last_name: Konsek
       api_name: Debasis Majumdar
-      email: bschrag@nsf.gov
-      photo: Ben-compressed.jpg
-      bio: "is the Senior Program Director for the SBIR/STTR programs. He joined the NSF as a Program Director in 2009, leading the Advanced Materials and Instrumentation portfolio in the Small Business Innovation Research and Small Business Technology Transfer programs. Prior to NSF, he was the Director of Research and Development at Micro Magnetics, where he led a development effort to commercialize a new family of high-performance magnetic microsensor products for demanding consumer and military applications. During this time, he also served as a visiting scientist at Brown University and as the Principal Investigator on a number of federal grants and contracts, including NSF Phase I and Phase II Small Business Innovation Research projects and an Advanced Technology Program award from NIST. Ben received his Ph.D. in Physics from Brown University."
+      email: skonsek@nsf.gov
+      photo: Konsek-compressed.jpg
+      bio: "joined the National Science Foundation’s SBIR/STTR program in 2012 and has served as both a Program Director for the SBIR/STTR and the Innovation Corps (I-Corps™) program. Prior to joining NSF, Steven was the Chief Technology Officer at Illumitex, a venture-backed company developing light emitting diode chips, packages and fixtures for general illumination. He previously served as Chief of Technical Staff at Glo, recognized as one of Europe’s top LED startups. Prior to Glo, Steven was the Director of Device R&D at Nantero, a memory startup. Throughout his career, Steven has developed innovative, game-changing technologies across a range of semiconductor applications. He holds numerous patents and publications in LEDs, memory, process integration and nanoscale devices. Steven has a Ph.D. in Physics from the University of Washington and a B.S. in Mathematics from Purdue University."
   subtopics:
     - Metals and Ceramics (MI1)
     - Structural and Infrastructural Materials (MI2)
@@ -262,7 +262,7 @@
     - name: RightHand Robotics, LLC
 
 - topic: Internet of Things (I), Semiconductors (S), and Photonic (PH) Devices and Materials
-  permalink: /topics/internet-of-things-semiconductors-and-photoic-devices/
+  permalink: /topics/internet-of-things-semiconductors-and-photonic-devices/
   topic_code: 
     -i
     -sp
@@ -272,7 +272,7 @@
       api_name: Richard Schwerdtfeger
       email: rschwerd@nsf.gov
       photo: Rick-compressed.jpg
-      bio: "joined the National Science Foundation in August 2016 as the SBIR/STTR Program Director for the Semiconductors and Photonics, and Internet of Things (IoT) portfolios. Prior to joining NSF, Rick was the CTO and Co-Founder of the Advanced RenewableEnergy Company, a clean-tech and semiconductor equipment company, where he led the technology development and customer deployment of nearly $200MM of equipment in the first 4 years. Additionally he was the COO of Pica Solar, a DOE-funded solar cell technologies start-up. Rick is also an advisory board member of ClearCove Systems, a waste water and renewable energy company. In addition to these entrepreneurial ventures, Rick was a Senior Project Scientist at the non-profit Edison Materials Technology Center, a Senior R&D Scientist at Saint Gobain, and the Crystal Growth Group leader at Alpha Spectra. He started his career as a Staff Scientist doing solar energy research at the National Renewable Energy Laboratory. Rick as grown some of the largest sapphire, calcium fluoride, sodium iodide, and copper indium diselenide crystals in the world, which have been used to lower costs of technology for energy, lighting, radiation detection and other industrial and photonic applications. Rick has spent his career taking the “art” out of science, and replacing it with good engineering, experimentation and automation to solve challenging problems in the renewable energy, clean water, smart grid and high-tech world. Rick holds a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied Physics from Pittsburg State University, and a B.S. in Physics and Science Education from the University of Dubuque."
+      bio: "joined the National Science Foundation in August 2016 as the SBIR/STTR Program Director for the Semiconductors and Photonics, and Internet of Things (IoT) portfolios. Prior to joining NSF, Rick was the CTO and Co-Founder of the Advanced RenewableEnergy Company, a clean-tech and semiconductor equipment company, where he led the technology development and customer deployment of nearly $200MM of equipment in the first 4 years. Additionally he was the COO of Pica Solar, a DOE-funded solar cell technologies start-up. Rick is also an advisory board member of ClearCove Systems, a waste water and renewable energy company. In addition to these entrepreneurial ventures, Rick was a Senior Project Scientist at the non-profit Edison Materials Technology Center, a Senior R&D Scientist at Saint Gobain, and the Crystal Growth Group leader at Alpha Spectra. He started his career as a Staff Scientist doing solar energy research at the National Renewable Energy Laboratory. Rick has grown some of the largest sapphire, calcium fluoride, sodium iodide, and copper indium diselenide crystals in the world, which have been used to lower costs of technology for energy, lighting, radiation detection and other industrial and photonic applications. Rick has spent his career taking the “art” out of science, and replacing it with good engineering, experimentation and automation to solve challenging problems in the renewable energy, clean water, smart grid and high-tech world. Rick holds a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied Physics from Pittsburg State University, and a B.S. in Physics and Science Education from the University of Dubuque."
   subtopics:
     - IoT Sensors and Actuators (IoT1)
     - IoT Energy and Power Systems (IoT2)

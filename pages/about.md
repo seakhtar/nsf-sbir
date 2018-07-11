@@ -94,7 +94,7 @@ Applicants often ask whether they can update their research plan during the cour
 
 If your technology needs more development — and if you’ve met all the Phase I requirements — you can apply for more funding. Phase II awardees receive up to $750,000 over two years.
 
-Phase II awardees can apply for Phase IIB funding to speed up commercialization. To be considered for Phase IIB funding (up to $500,000), you need a third-party investment of at least $100K. [Learn more about Supplemental funding]({{ site.baseurl}}/resources/awardees/supplement/overview/) and visit our awardee resource guide to [apply for Phase IIB supplemental funding]({{ site.baseurl}}/resources/awardees/phase-2/apply/).
+To help current Phase II awardees speed the commercialization of their technology, NSF may match 50 cents on every $1 of qualifying revenues or third-party investment (minimum match $50,000 and maximum $500,000) through a Phase IIB supplement. [Learn more about Supplemental funding]({{ site.baseurl}}/resources/awardees/supplement/overview/) and visit our awardee resource guide to [apply for Phase IIB supplemental funding]({{ site.baseurl}}/resources/awardees/phase-2/apply/).
 
 {% if site.app_process == "active" %}
 For complete program information, check out the latest [{{ site.data.solicitations['SBIR'].title }}]({{ site.data.solicitations['SBIR'].url }}) or [{{ site.data.solicitations['STTR'].title }}]({{ site.data.solicitations['STTR'].url }}).
@@ -131,7 +131,7 @@ In selected cases, we support innovations to existing products and services, but
 
 ## About NSF
 
-America's Seed Fund is a program within the [National Science Foundation](https://www.nsf.gov/) and housed within the [Division of Industrial Innovation and Partnerships](https://www.nsf.gov/div/index.jsp?div=IIP) within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with a $7.5 billion budget.
+America's Seed Fund is a program within the [National Science Foundation](https://www.nsf.gov/) and housed within the [Division of Industrial Innovation and Partnerships](https://www.nsf.gov/div/index.jsp?div=IIP) within the Directorate of Engineering. NSF is a federal agency that supports fundamental research and education across all fields of science and engineering, currently with a $7.8 billion budget.
 
 Through the merit review process, NSF funds the most innovative ideas in science and technology. Notable NSF-supported advances include Doppler radar, the Internet, web browsers, bar codes, magnetic resonance imaging, inkjet printers, computer-aided design systems, tissue engineering, and other technology-based innovations that spur economic activity and improve the quality of life for all Americans.
 </div>
