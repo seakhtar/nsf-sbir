@@ -20,7 +20,7 @@ Thinking of applying for Phase I funding? Ask all your application-related quest
 {% else %}
 ## Q&A videos
 
-Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://www.youtube.com/watch?v=1Tm_ToVRpqE) and [what you need to know before applying](https://www.youtube.com/watch?v=-0lhmfczIJ8&feature=youtu.be). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.)
+Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://www.youtube.com/watch?v=jjhD5sT4a64) and [what you need to know before applying](https://www.youtube.com/watch?v=tKSCgTXkSXc). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.)
 {% endif %}
 
 ## Startup profiles
