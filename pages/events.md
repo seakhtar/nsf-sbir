@@ -12,7 +12,7 @@ layout: secondary
 
 ## Upcoming
 
-We regularly host webinars for startups and small businesses. Check back soon to see an updated schedule of our fall webinar series.
+We regularly host webinars for startups and small businesses. Check back soon to see an updated schedule with our fall webinar series.
 
 <!-- {% include events-table.html %} -->
 
