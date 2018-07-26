@@ -12,7 +12,7 @@ layout: secondary
 
 ## Upcoming
 
-Join a webinar to learn more about funding for your startup or small business. 
+We regularly host webinars for startups and small businesses. Check back soon to see an updated schedule of our fall webinar series.
 
 <!-- {% include events-table.html %} -->
 
@@ -27,7 +27,7 @@ Join a webinar to learn more about funding for your startup or small business.
 
 ## Annual events
 
-You can often find NSF staff at major tradeshows and events throughout the year. Here's a calendar of some of the events we plan on attending in 2017 and 2018:
+You can often find NSF staff at major tradeshows and events throughout the year. Here's a calendar of some of the events we plan on attending in 2018:
 
 {% include events-annual.html %}
 
