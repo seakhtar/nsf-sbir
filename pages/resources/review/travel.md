@@ -20,9 +20,9 @@ You will receive an email notification with travel guidelines and instructions. 
 For participants who are not federal government employees and are US citizens or US permanent residents and **reside outside the Washington, DC metropolitan area**, the allowances for flat rate payments are as follows:
 
 - $480 for each meeting day and
-- $280 for each travel day (based on geographic point of origin and confirmed travel dates)/*
+- $280 for each travel day (based on geographic point of origin and confirmed travel dates)
 
-/* To ensure efficiency of a panel, NSF authorizes payment for one (1) travel day so that you, as the reviewer, can **arrive in the Washington, DC metro area the evening before the panel date. Departure times must be scheduled after 5:00 pm on the final panel day.** Depending on your geographic point of origin and confirmed travel dates, you may request a second travel day. Please send an email with your record locator or confirmation number to the points of contact at the bottom of this page. Our travel staff must confirm your actual dates of travel before approving payment for two travel days.
+To ensure efficiency of a panel, NSF authorizes payment for one (1) travel day so that you, as the reviewer, can **arrive in the Washington, DC metro area the evening before the panel date. Departure times must be scheduled after 5:00 pm on the final panel day.** Depending on your geographic point of origin and confirmed travel dates, you may request a second travel day. Please send an email with your record locator or confirmation number to the points of contact at the bottom of this page. Our travel staff must confirm your actual dates of travel before approving payment for two travel days.
 
 The flat rate payment covers lodging, meals, parking, local transportation and mileage incurred during the entirety of the trip, and incidental expenses. You do not need to submit receipts to NSF.
 
@@ -76,7 +76,7 @@ Travel mode-specific Information:
 Please note that rental cars are not authorized or reimbursable. Additionally, local ground transportation (including parking) will not be reimbursed for any participant (including local participants). All costs associated with ground transportation are already included in your flat rate reimbursement.
 
 ## Hotel Information
-NSF contractor **Accommodations Unlimited** is available to assist you with securing a hotel room. Please contact Wendi Picker at 800-201-4005 or nsf@wedothelegwork.com. Accommodations Unlimited is very familiar with NSF and the panel process and are experts at finding availability at government or discounted rates. Wendi is qualified to take your information and make your reservation, all you need to provide are the dates of travel and a credit card number w/expiration date to guarantee your reservation.
+NSF contractor **Accommodations Unlimited** is available to assist you with securing a hotel room. Please contact Wendi Picker at 800-201-4005 or [nsf@wedothelegwork.com](mailto:nsf@wedothelegwork.com). Accommodations Unlimited is very familiar with NSF and the panel process and are experts at finding availability at government or discounted rates. Wendi is qualified to take your information and make your reservation, all you need to provide are the dates of travel and a credit card number w/expiration date to guarantee your reservation.
 
 If you choose not to use Accommodations Unlimited, please contact any hotel of your choice and make the necessary reservations at least two weeks prior to the panel meeting. The National Science Foundation is located at the Eisenhower Avenue station on the Yellow Line in Virginia.
 
@@ -90,10 +90,7 @@ Foreign travelers receive reimbursement via a paper check mailed by the U.S. Tre
 ## Travel Questions
 For specific travel questions involving participation in a Review Panel for the Division of Industrial Innovation and Partnership, Please contact:
 
-*Doretha Clark*:
-703-292-4514;
-dclark@associates.nsf.gov
+*Stacey Stoby*:
+703-292-8825;
+sstoby@associates.nsf.gov
 
-*Amanda Morris*:
-703-292-7055;
-amorris@associates.nsf.gov
