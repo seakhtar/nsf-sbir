@@ -24,14 +24,14 @@
     - Nanotechnology-Based Solutions to Grand Challenges (N3)
   companies:
     - name: Elementum 3D, Inc.
-    - name: [Vaxess, Inc.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1632434&HistoricalAwards=false)
-    - name: [3DEO, Inc.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1757478&HistoricalAwards=false)
-    - name: [XPEED Turbine Technologies, Inc.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1660224&HistoricalAwards=false)
-    - name: [Branch Technology LLC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1632267&HistoricalAwards=false)
-    - name: [Astrileux, Inc.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1457418&HistoricalAwards=false)
-    - name: [Hummingbird Nano, LLC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1555996&HistoricalAwards=false)
-    - name: [Big Blue Technologies, Inc.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1738536&HistoricalAwards=false)
-    - name: [Briteseed, LLC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1660240&HistoricalAwards=false)
+    - name: Vaxess, Inc.
+    - name: 3DEO, Inc.
+    - name: XPEED Turbine Technologies, Inc.
+    - name: Branch Technology LLC
+    - name: Astrileux, Inc.
+    - name: Hummingbird Nano, LLC
+    - name: Big Blue Technologies, Inc.
+    - name: Briteseed, LLC
 
 - topic: Advanced Materials and Instrumentation (MI)
   permalink: /topics/materials-and-instrumentation/
