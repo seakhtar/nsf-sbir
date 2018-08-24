@@ -23,17 +23,15 @@
     - Nanomanufacturing (N2)
     - Nanotechnology-Based Solutions to Grand Challenges (N3)
   companies:
-    - name: TAG Optics, Inc.
-    - name: Keystone Tower Systems
-    - name: ThermoAura Inc.
-    - name: NuMat Technologies, Inc.
-    - name: Branch Technology LLC
-    - name: Lite Enterprises Inc
-    - name: ZoomEssence, Inc.
-    - name: Coulometrics
-    - name: Persimmon Technologies
-    - name: Clear Motion
-      past: Levant Power Corporation
+    - name: Elementum 3D, Inc.
+    - name: [Vaxess, Inc.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1632434&HistoricalAwards=false)
+    - name: [3DEO, Inc.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1757478&HistoricalAwards=false)
+    - name: [XPEED Turbine Technologies, Inc.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1660224&HistoricalAwards=false)
+    - name: [Branch Technology LLC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1632267&HistoricalAwards=false)
+    - name: [Astrileux, Inc.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1457418&HistoricalAwards=false)
+    - name: [Hummingbird Nano, LLC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1555996&HistoricalAwards=false)
+    - name: [Big Blue Technologies, Inc.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1738536&HistoricalAwards=false)
+    - name: [Briteseed, LLC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1660240&HistoricalAwards=false)
 
 - topic: Advanced Materials and Instrumentation (MI)
   permalink: /topics/materials-and-instrumentation/
@@ -151,16 +149,14 @@
     - Sustainable Chemistry and Green Engineering Technology (CT13)
     - Emerging Technologies and Applications (CT14)
   companies:
-    - name: Flodesign Sonics Inc.
-    - name: Modular Genetics, Inc.
-    - name: Renuvix
+    - name: Cyclopure
+    - name: ESal
+    - name: Azimuth1
     - name: Ground Fluor Pharmaceuticals, Inc.
-    - name: ZYMtronix Catalytic Systems Inc.
-    - name: Ubiquitous Energy, Inc
+    - name: Saratoga Energy 
     - name: Vaporsens Inc.
     - name: Precision Polyolefins, LLC
-    - name: Cycladex
-    - name: Cambrian Innovation Inc
+    - name: Cycladex 
 
 - topic: Digital Health (DH) and Medical Devices (MD)
   permalink: /topics/digital-health-and-medical-devices/
