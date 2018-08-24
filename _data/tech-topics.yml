@@ -23,16 +23,15 @@
     - Nanomanufacturing (N2)
     - Nanotechnology-Based Solutions to Grand Challenges (N3)
   companies:
-    - name: Elementum 3D, Inc.
-    - name: Vaxess, Inc.
-    - name: 3DEO, Inc.
-    - name: XPEED Turbine Technologies, Inc.
-    - name: Branch Technology LLC
-    - name: Astrileux, Inc.
-    - name: Hummingbird Nano, LLC
-    - name: Big Blue Technologies, Inc.
     - name: Briteseed, LLC
-    - name: DropWise Technologies Corp.
+    - name: Big Blue Technologies, Inc.
+    - name: Hummingbird Nano, LLC
+    - name: Astrileux, Inc.
+    - name: Branch Technology LLC
+    - name: XPEED Turbine Technologies, Inc.
+    - name: 3DEO, Inc.
+    - name: Vaxess, Inc.
+    - name: Elementum 3D, Inc.
 
 - topic: Advanced Materials and Instrumentation (MI)
   permalink: /topics/materials-and-instrumentation/
