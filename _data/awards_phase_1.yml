@@ -5926,60 +5926,6 @@
   startDate: 06/15/2018
   expDate: 11/30/2018
   title: 'SBIR Phase I:  Magnetometer Based on Spin Wave Interferometer'
-- abstractText: "The broader impact/commercial potential of this project is to maximize
-    the quality of life of patients currently suffering from Parkinson?s Disease (PD).
-    \ Over 1 million Americans have been diagnosed with PD and this number is expected
-    to double by 2040.  PD is a neurodegenerative disorder without a cure ? once the
-    first Parkinsonian tremor has been detected, over 80% of the brain cells associated
-    with creating dopamine through natural processes have already died. Dopamine is
-    a chemical released by neurons to communicate with other nerve cells and is essential
-    to enable the basal ganglia network to control the body?s movements. By engaging
-    the PD patient with novel, highly-cognitive mobility exercises designed by physical
-    therapists (PTs), automaticity can be reprogrammed to utilize different regions
-    of the brain to control movement. Ultimately, this rewiring will slow (neuroprotection)
-    or possibly reverse the degenerative process.  Although the current technology
-    development will focus on this one disease (PD), the technology may be applicable
-    to other sister diseases (e.g., Alzheimer?s and Dementia) or even other conditions
-    (traumatic brain injury, stroke, concussions, and so on). This computer-adaptive
-    platform may eventually enable researchers to identify a biomarker that may lead
-    to a cure for this idiopathic condition. \n\nThis Small Business Innovation Research
-    (SBIR) Phase I project will produce a prototype for an automated physical-therapy
-    (PT) treatment for patients suffering from Parkinson?s Disease (PD). This automated
-    prototype will act as a virtual coach encouraging patients to perform daily mobility
-    exercises in the comfort and privacy of their own homes. This unique, automated
-    technology will help rewire the brain of the PD patient by engaging both the mind
-    and body which will slow the neurodegeneration inherent to PD. The system will
-    automatically adjust the treatment protocol in terms of duration and difficulty
-    based on the patient?s unique situation including current medication levels. Objective,
-    technology-based outcome measures will be summarized for caregivers working with
-    the PD patient (primary care provider, physical therapists, neurologists, and
-    so on).  In addition, this technology platform will be designed to enable community
-    interaction among PD patients as well as facilitate tele-health communications
-    between the PD patient and his/her healthcare provider.  The overall objective
-    is to develop a PD-specific electronic system that directs PT treatment by developing
-    hardware/software to test the feasibility of the adaptive assessment and the automated
-    PT treatment system.\n\nThis award reflects NSF's statutory mission and has been
-    deemed worthy of support through evaluation using the Foundation's intellectual
-    merit and broader impacts review criteria."
-  awardeeAddress: 1598 White Oak Rd
-  awardeeCity: Stamping Ground
-  awardeeCountryCode: US
-  awardeeName: Active Therapy Systems LLC
-  awardeeStateCode: KY
-  awardeeZipCode: '403799781'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1819997'
-  piEmail: bgatto0@gmail.com
-  piFirstName: Bennett
-  piLastName: Gatto
-  piPhone: '5026094289'
-  poName: Muralidharan S. Nair
-  date: 06/15/2018
-  startDate: 06/15/2018
-  expDate: 11/30/2018
-  title: 'SBIR Phase I:  Engaging the Mind and Body: Technology to Automate Physical
-    Therapy Treatments for Patients with Parkinson''s Disease (PD).'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase I project is a 25% cost reduction in solar panel manufacturing
     and the elimination of up to 2.1 Gigatons of annual CO2 generation. As silicon
@@ -7753,30 +7699,6 @@
   expDate: 12/31/2018
   title: 'SBIR Phase I:  Digital Media Synchronization, Performance and Urban Education
     Enhancement'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to transform the life experiences of youth patients in the Type 1 Diabetes (T1D) community by providing an affordable, comprehensive mobile platform for monitoring health behaviors, tracking biometrics, fostering self-empathy/empowerment, and developing healthy diabetes self-management practices (DSM) through a gamified app. Adherence to DSM behaviors is an exacting issue with conventional T1D treatment and prevention regimens, though the use of features found in gaming technologies has been shown to be motivating in apps for chronic illnesses. Data-tracking applications meant for public health are believed to yield hidden trends on diet, fitness, mood, and compliance in both individuals and populations, identifying behavioral patterns that may be useful for positive behavior change. With a far-reaching and accessible intervention leveraging the motivational power of games, empathy, and social interaction, health professionals can use this intervention to encourage long-term engagement with data-tracking, which in turn creates rich data sets for tapping into the unseen trends of T1D experiences, contributing to the growing body of T1D knowledge, enriching T1D youth's quality of life, and streamline patient-provider communications in a cost-effective way that benefits the health care system as a whole.
-
-    The proposed project aims to provide a better understanding of the affordances of digital technologies in DSM, with emphases on the role of technology as a facilitator of diabetes education, DSM, patient-provider communications, emotional wellness, social and cognitive development, and positive behavior change. T1D diagnoses represent more than 175,000 youth in the United States, and despite significant headway in other areas of mobile health, many families struggle to access T1D tools that dramatically improve the quality of life and health outcomes of their children. To meet this demand, the objectives of this research begin with engineering a full-featured youth-facing prototype¯starring an empathetic virtual pet¯capable of collecting multiple streams of user data and teaching via instructional modules. Data collected during usability studies with stakeholders in the diabetes community will provide insight into effectiveness, efficiency, and satisfaction of users, while a feasibility study also employing interviews, surveys, and think aloud protocols will offer insight into the practical use of the app in everyday life over a weeklong period. After both of these studies have been conducted, transcripts of recorded sessions and log file data will be analyzed, with the goal of improving the feasibility of extended product usage and success.
-  awardeeAddress: 12655 W Jefferson Blvd
-  awardeeCity: Los Angeles
-  awardeeCountryCode: US
-  awardeeName: Mahalo Health Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '900667008'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1747372'
-  piEmail: corp@mahalohealth.io
-  piFirstName: Matthew
-  piLastName: Lucas
-  piMiddeInitial: D
-  piPhone: '9179518443'
-  poName: Nancy Kamei
-  date: 12/29/2017
-  startDate: 01/01/2018
-  expDate: 09/30/2018
-  title: 'SBIR Phase I:  Digital Self-Management Intervention for Empowering Youth
-    with Type 1 Diabetes'
 - abstractText: "The broader impact of this Small Business Innovation Research (SBIR)
     Phase I project is the improved identification of young children who may be at
     risk for Autism Spectrum Disorder (ASD). Autism is a growing concern as rates
@@ -7827,6 +7749,30 @@
   expDate: 11/30/2018
   title: 'SBIR Phase I:  Development of a Smart Pacifier to help parents and pediatricians
     track early signs of Autism Spectrum Disorder'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to transform the life experiences of youth patients in the Type 1 Diabetes (T1D) community by providing an affordable, comprehensive mobile platform for monitoring health behaviors, tracking biometrics, fostering self-empathy/empowerment, and developing healthy diabetes self-management practices (DSM) through a gamified app. Adherence to DSM behaviors is an exacting issue with conventional T1D treatment and prevention regimens, though the use of features found in gaming technologies has been shown to be motivating in apps for chronic illnesses. Data-tracking applications meant for public health are believed to yield hidden trends on diet, fitness, mood, and compliance in both individuals and populations, identifying behavioral patterns that may be useful for positive behavior change. With a far-reaching and accessible intervention leveraging the motivational power of games, empathy, and social interaction, health professionals can use this intervention to encourage long-term engagement with data-tracking, which in turn creates rich data sets for tapping into the unseen trends of T1D experiences, contributing to the growing body of T1D knowledge, enriching T1D youth's quality of life, and streamline patient-provider communications in a cost-effective way that benefits the health care system as a whole.
+
+    The proposed project aims to provide a better understanding of the affordances of digital technologies in DSM, with emphases on the role of technology as a facilitator of diabetes education, DSM, patient-provider communications, emotional wellness, social and cognitive development, and positive behavior change. T1D diagnoses represent more than 175,000 youth in the United States, and despite significant headway in other areas of mobile health, many families struggle to access T1D tools that dramatically improve the quality of life and health outcomes of their children. To meet this demand, the objectives of this research begin with engineering a full-featured youth-facing prototype¯starring an empathetic virtual pet¯capable of collecting multiple streams of user data and teaching via instructional modules. Data collected during usability studies with stakeholders in the diabetes community will provide insight into effectiveness, efficiency, and satisfaction of users, while a feasibility study also employing interviews, surveys, and think aloud protocols will offer insight into the practical use of the app in everyday life over a weeklong period. After both of these studies have been conducted, transcripts of recorded sessions and log file data will be analyzed, with the goal of improving the feasibility of extended product usage and success.
+  awardeeAddress: 12655 W Jefferson Blvd
+  awardeeCity: Los Angeles
+  awardeeCountryCode: US
+  awardeeName: Mahalo Health Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '900667008'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1747372'
+  piEmail: corp@mahalohealth.io
+  piFirstName: Matthew
+  piLastName: Lucas
+  piMiddeInitial: D
+  piPhone: '9179518443'
+  poName: Nancy Kamei
+  date: 12/29/2017
+  startDate: 01/01/2018
+  expDate: 09/30/2018
+  title: 'SBIR Phase I:  Digital Self-Management Intervention for Empowering Youth
+    with Type 1 Diabetes'
 - abstractText: "This Small Business Innovation Research Phase I project will build
     children's motivation to read and help them access books best suited to their
     individual interests, purposes, and abilities. Even though robust research demonstrates
