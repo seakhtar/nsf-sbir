@@ -149,6 +149,7 @@
     - Sustainable Chemistry and Green Engineering Technology (CT13)
     - Emerging Technologies and Applications (CT14)
   companies:
+    - name: Saratoga Energy Research Partners LLC
     - name: Modular Genetics, Inc.
     - name: Renuvix
     - name: Ground Fluor Pharmaceuticals, Inc.
@@ -158,7 +159,6 @@
     - name: CycloPure, Inc.
     - name: ESal
     - name: Azimuth1, LLC
-    - name: Saratoga Energy Research Partners LLC
 
 - topic: Digital Health (DH) and Medical Devices (MD)
   permalink: /topics/digital-health-and-medical-devices/
