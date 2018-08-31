@@ -23,17 +23,15 @@
     - Nanomanufacturing (N2)
     - Nanotechnology-Based Solutions to Grand Challenges (N3)
   companies:
-    - name: TAG Optics, Inc.
-    - name: Keystone Tower Systems
-    - name: ThermoAura Inc.
-    - name: NuMat Technologies, Inc.
     - name: Branch Technology LLC
-    - name: Lite Enterprises Inc
-    - name: ZoomEssence, Inc.
-    - name: Coulometrics
-    - name: Persimmon Technologies
-    - name: Clear Motion
-      past: Levant Power Corporation
+    - name: Elementum 3D, Inc.
+    - name: Vaxess, Inc.
+    - name: 3DEO, Inc.
+    - name: XPEED Turbine Technologies, Inc.
+    - name: Astrileux, Inc.
+    - name: Hummingbird Nano, LLC.
+    - name: Big Blue Technologies, Inc.
+    - name: Briteseed, LLC
 
 - topic: Advanced Materials and Instrumentation (MI)
   permalink: /topics/materials-and-instrumentation/
@@ -151,16 +149,16 @@
     - Sustainable Chemistry and Green Engineering Technology (CT13)
     - Emerging Technologies and Applications (CT14)
   companies:
-    - name: Flodesign Sonics Inc.
     - name: Modular Genetics, Inc.
     - name: Renuvix
     - name: Ground Fluor Pharmaceuticals, Inc.
     - name: ZYMtronix Catalytic Systems Inc.
-    - name: Ubiquitous Energy, Inc
     - name: Vaporsens Inc.
     - name: Precision Polyolefins, LLC
-    - name: Cycladex
-    - name: Cambrian Innovation Inc
+    - name: Cyclopure
+    - name: ESal
+    - name: Azimuth1
+    - name: Saratoga Energy
 
 - topic: Digital Health (DH) and Medical Devices (MD)
   permalink: /topics/digital-health-and-medical-devices/
@@ -291,7 +289,7 @@
     - Integrated Circuit Design (S4)
   companies:
     - name: Runtime Verification, Inc.
-    - name: SensorHound, Inc.
+    - name: SweetSense Inc.
     - name: Arable Labs, Inc.
     - name: One Million Metrics Corp
     - name: IOTAS, Inc.
