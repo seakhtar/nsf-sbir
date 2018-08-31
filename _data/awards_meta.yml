@@ -1,7 +1,7 @@
 ---
 active_date_is_now: true
 fundProgramName: phase i
-reset: true
+reset: false
 recent_date: 2017-06-01
 printFields:
 - id
