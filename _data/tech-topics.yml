@@ -25,7 +25,7 @@
   companies:
     - name: Branch Technology LLC
     - name: Elementum 3D, Inc.
-    - name: Vaxess, Inc.
+    - name: Vaxess Technologies, Inc.
     - name: 3DEO, Inc.
     - name: XPEED Turbine Technologies, Inc.
     - name: Astrileux, Inc.
@@ -149,16 +149,16 @@
     - Sustainable Chemistry and Green Engineering Technology (CT13)
     - Emerging Technologies and Applications (CT14)
   companies:
+    - name: Saratoga Energy Research Partners LLC
     - name: Modular Genetics, Inc.
     - name: Renuvix
     - name: Ground Fluor Pharmaceuticals, Inc.
     - name: ZYMtronix Catalytic Systems Inc.
     - name: Vaporsens Inc.
     - name: Precision Polyolefins, LLC
-    - name: Cyclopure
+    - name: CycloPure, Inc.
     - name: ESal
-    - name: Azimuth1
-    - name: Saratoga Energy
+    - name: Azimuth1, LLC
 
 - topic: Digital Health (DH) and Medical Devices (MD)
   permalink: /topics/digital-health-and-medical-devices/
@@ -288,8 +288,8 @@
     - Processing and Metrology Technology (S3)
     - Integrated Circuit Design (S4)
   companies:
-    - name: Runtime Verification, Inc.
     - name: SweetSense Inc.
+    - name: Runtime Verification, Inc.
     - name: Arable Labs, Inc.
     - name: One Million Metrics Corp
     - name: IOTAS, Inc.
