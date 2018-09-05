@@ -1,7 +1,7 @@
 ---
 active_date_is_now: true
 fundProgramName: phase i
-reset: true
+reset: false
 recent_date: 2017-06-01
 printFields:
 - id
@@ -11,6 +11,7 @@ printFields:
 - fundsObligatedAmt
 - fundProgramName
 - poName
+- ttopic
 - title
 - abstractText
 - startDate
@@ -25,7 +26,7 @@ printFields:
 - piLastName
 - piPhone
 - piEmail
-last_updated: 08/31/2018
-active_date: 08/31/2018
+last_updated: 09/27/2017
+active_date: 09/27/2017
 ---
 

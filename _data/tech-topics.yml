@@ -23,15 +23,17 @@
     - Nanomanufacturing (N2)
     - Nanotechnology-Based Solutions to Grand Challenges (N3)
   companies:
+    - name: TAG Optics, Inc.
+    - name: Keystone Tower Systems
+    - name: ThermoAura Inc.
+    - name: NuMat Technologies, Inc.
     - name: Branch Technology LLC
-    - name: Elementum 3D, Inc.
-    - name: Vaxess Technologies, Inc.
-    - name: 3DEO, Inc.
-    - name: XPEED Turbine Technology LLC
-    - name: Astrileux Corporation
-    - name: Hummingbird Nano, Inc.
-    - name: Big Blue Technologies LLC
-    - name: Briteseed, LLC
+    - name: Lite Enterprises Inc
+    - name: ZoomEssence, Inc.
+    - name: Coulometrics
+    - name: Persimmon Technologies
+    - name: Clear Motion
+      past: Levant Power Corporation
 
 - topic: Advanced Materials and Instrumentation (MI)
   permalink: /topics/materials-and-instrumentation/
@@ -39,7 +41,7 @@
   programDirector:
     - name: Steve Konsek
       last_name: Konsek
-      api_name: Ben Schrag
+      api_name: Debasis Majumdar
       email: skonsek@nsf.gov
       photo: Konsek-compressed.jpg
       bio: "joined the National Science Foundation’s SBIR/STTR program in 2012 and has served as both a Program Director for the SBIR/STTR and the Innovation Corps (I-Corps™) program. Prior to joining NSF, Steven was the Chief Technology Officer at Illumitex, a venture-backed company developing light emitting diode chips, packages and fixtures for general illumination. He previously served as Chief of Technical Staff at Glo, recognized as one of Europe’s top LED startups. Prior to Glo, Steven was the Director of Device R&D at Nantero, a memory startup. Throughout his career, Steven has developed innovative, game-changing technologies across a range of semiconductor applications. He holds numerous patents and publications in LEDs, memory, process integration and nanoscale devices. Steven has a Ph.D. in Physics from the University of Washington and a B.S. in Mathematics from Purdue University."
@@ -149,16 +151,16 @@
     - Sustainable Chemistry and Green Engineering Technology (CT13)
     - Emerging Technologies and Applications (CT14)
   companies:
-    - name: Saratoga Energy Research Partners LLC
+    - name: Flodesign Sonics Inc.
     - name: Modular Genetics, Inc.
     - name: Renuvix
     - name: Ground Fluor Pharmaceuticals, Inc.
     - name: ZYMtronix Catalytic Systems Inc.
+    - name: Ubiquitous Energy, Inc
     - name: Vaporsens Inc.
     - name: Precision Polyolefins, LLC
-    - name: CycloPure, Inc.
-    - name: ESal
-    - name: Azimuth1, LLC
+    - name: Cycladex
+    - name: Cambrian Innovation Inc
 
 - topic: Digital Health (DH) and Medical Devices (MD)
   permalink: /topics/digital-health-and-medical-devices/
@@ -288,8 +290,8 @@
     - Processing and Metrology Technology (S3)
     - Integrated Circuit Design (S4)
   companies:
-    - name: SweetSense Inc.
     - name: Runtime Verification, Inc.
+    - name: SensorHound, Inc.
     - name: Arable Labs, Inc.
     - name: One Million Metrics Corp
     - name: IOTAS, Inc.
