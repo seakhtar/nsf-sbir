@@ -1,256 +1,298 @@
 ---
-- abstractText: |-
-    This Small Business Innovation Research Phase I project seeks to create an ultra-high-speed variable focus optical element meeting the robust performance needs associated with laser manufacturing.  The ability to change the focal spot location in laser processing is necessary to accommodate the rapid throughput and complex materials shapes and structures generally encountered in industrial manufacturing.  However, the state-of-the-art remains slow, mechanically moving lenses, which can lead to increased production times, reduced accuracy, increased system complexity and overall increased cost.  Instead, this work proposes a paradigm-shifting approach to variable focus by developing a new type of liquid lens that uses sound to shape and refocus light.  In order to implement this rapidly growing, high impact technology in the manufacturing arena, the key challenge is to manage and reduce laser heating of the device which can lead to undesirable optical effects.  By using a combination of experimental tests and numerical models we expect to determine the optimum design conditions that minimize heating effects and maximize refractive power of the lens. With the inclusion of passive and active cooling approaches we expect to enable lens operation for production-level laser manufacturing across different power and pulse duration scales.
-
-    The broader impact/commercial potential of this project will have significant repercussions in the laser manufacturing industry, an increasingly important industry which is in many ways responsible for the efficiency and economical cost of every day materials and devices.  Specifically, this project addresses a technological market need which will reduce the manufacturing cycle, and streamline processes by providing additional control of the laser beam in the z axis without effecting the x and y axis resolution; thereby, improving the manufacturing yield by increasing the precision, and speed of laser manufacturing systems. Improvements in manufacturing yield are incredibly important to both societal and environmental conditions as they lead to a reduction in waste, an increase in the quality of the parts produced, and a reduction in manufacturing costs. Additionally this proposal will increase scientific and technical understanding on how to applying ultra-high speed z-scanning optical devices in high power lasers systems for manufacturing operation.  This will not only lead to the incorporation of such devices in already existing systems but more importantly, enable new innovations such as the creation of entirely new manufacturing approaches with increased performance and capabilities.
-  awardeeAddress: 136 Sherwood Ave
-  awardeeCity: Trenton
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase I project will be to increase global access to vaccines
+    and reduce mortality associated with infectious diseases.  As an example, Rotavirus
+    is a major cause of severe gastroenteritis among young children and lack of vaccination
+    results in 450,000 deaths annually.  A thermostable rotavirus vaccine would create
+    cost-savings for vaccine manufacturers, national governments, and non-profit vaccine
+    buyers and enable market access in areas of the world that lack sufficient cold-chain
+    capacity. Successful development of a stable rotavirus vaccine would not only
+    have significant positive impact on global rotavirus immunization efforts, but
+    may also revolutionize the general approach to vaccine delivery and distribution.
+    This Phase I project will advance understanding of silk-vaccine interactions,
+    which is needed to guide formulation development.  Furthermore, insight into the
+    immunogenicity of silk fibroin itself, as well as the impact of silk on the immunogenicity
+    of a vaccine antigen, will be gained in these studies. This technology has significant
+    commercial potential in that it can be broadly applied to numerous emerging and
+    existing vaccines in the $24 Billion global market.  \n\nThe proposed project
+    seeks to leverage the unique properties of silk to meet the global need for robust,
+    thermostable vaccines.  Thermal instability is a long-standing problem in vaccine
+    development. Despite efforts to improve stability, current formulation approaches
+    do not allow product storage under ambient conditions. Temperature excursions
+    during shipment and storage are common and result in wastage or administration
+    of suboptimal vaccines.  The use of silk fibroin, a low-cost biomaterial, represents
+    a novel approach to vaccine stabilization.  The goal of the proposed research
+    is to demonstrate feasibility of the silk-stabilization platform to create a rotavirus
+    formulation that does not require cold storage.  In addition to traditional liquid
+    and lyophilized vaccine formats, development of a dissolvable thin film strip
+    for oral delivery will be investigated.  The proposed research will identify lead
+    candidate silk-rotavirus formulations with improved thermostability and immunogenicity
+    that is at least equivalent to the existing commercial formulation, while offering
+    critical insight into broader issues of vaccine stabilization with silk."
+  awardeeAddress: 700 main street
+  awardeeCity: cambridge
   awardeeCountryCode: US
-  awardeeName: TAG Optics, Inc.
-  awardeeStateCode: NJ
-  awardeeZipCode: 086194316
-  fundsObligatedAmt: '178171'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1315667'
-  piEmail: ctheriault@tagoptics.com
-  piFirstName: Christian
-  piLastName: Theriault
-  piPhone: '6094360107'
-  poName: Rajesh Mehta
-  date: 06/13/2013
-  startDate: 07/01/2013
-  expDate: 06/30/2014
-  title: 'SBIR Phase I:  Ultra-High-Speed Z-Scanning Optics for Laser Manufacturing'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is in developing the world?s first ultra-high-speed variable focus optical lens that can be fully mass-produced with low manufacturing costs and high yield. The company?s proprietary tunable acoustic gradient lens technology provides versatile solutions for unmet market needs across multiple sectors, including health, security, and manufacturing. While valuable as an add-on to existing systems for imaging and processing applications, its use can be extended to other applications such as point of care medical diagnostic imaging and consumer optics/electronics.  The proposed second generation lens is expected to grow the existing market for variable focus optical lens by a factor of 5 to 10 and help transform this small business into a major original equipment components manufacturer and supplier.
-
-
-    This project seeks to engineer a high volume manufacturing process that will increase product yield, reproducibility, and reliability for a novel ultra-high-speed variable focus device.  The company?s patented tunable acoustic gradient lens technology uses sound to shape light, which enables the change of focal position without any moving parts at rates that are 3 orders of magnitude faster than competing technologies.  The innovation is based on propagation of sound waves that can be controlled by the modification of the index of refraction by piezoelectric elements within the liquid lens. Phase II plan is focused on engineering and optimizing new lens designs that preserve the fundamental functionality and benefits of the first generation lens while also capturing the unique and industry leading benefits of the company's core technology. It also includes semi-automated prototype fabrication, careful system optimization, analysis and testing that pave  the path to a next generation product that can be scaled up for mass-production.
-  awardeeAddress: 136 Sherwood Ave
-  awardeeCity: Trenton
-  awardeeCountryCode: US
-  awardeeName: TAG Optics, Inc.
-  awardeeStateCode: NJ
-  awardeeZipCode: 086194316
-  fundsObligatedAmt: '700044'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1431015'
-  piEmail: ctheriault@tagoptics.com
-  piFirstName: Christian
-  piLastName: Theriault
-  piPhone: '6094360107'
-  poName: Rajesh Mehta
-  date: 09/09/2014
-  startDate: 10/01/2014
-  expDate: 06/30/2017
-  title: 'SBIR Phase II:  Development of high-volume manufacturing processes for variable
-    focus TAG Lens technology'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase I project addresses two roadblocks to reducing the cost of wind energy: the labor-intensive construction process, and size limitations imposed by road or rail transport for turbine components. The former issue drives up manufacturing costs and reduces US competitiveness with countries with inexpensive labor, while the latter forces sub-optimized tower designs and prevents turbines from growing larger and taking advantage of faster, steadier winds at higher hub heights. This project addresses both of these problems by adapting spiral welding - a well understood system for pipe and piling manufacturing - to wind tower production. Spiral welding is highly automated, requiring as little as 10% of the labor of the equivalent manual process. It also combines multiple operations into a single machine that can be operated on-site, eliminating transport costs and barriers. This project's innovation is to adapt existing spiral welders - which can manufacture only straight, constant wall-thickness pipe - to producing tapered, variable wall thickness towers. A novel material geometry and automated control of machine parameters are the keys to transforming the standard system to one optimized for turbine tower production. With on-site spiral welding of turbine towers, significant reductions in cost of wind energy are possible.
-
-    The broader impact/commercial potential of this project will be felt in many areas: technical, commercial and environmental. The system?s major contribution is an increase in the use of wind energy for US electricity, enabled by both reduction in energy cost and increase in the number of cost effective wind sites. Reducing the cost of tall towers enables increases in the height and size of wind turbines, allowing them to reach and be optimized for steadier, higher speed winds. With these increase in size and optimization, decreases in cost of wind energy of 12% (for 120m tall towers) or more are possible. In addition, the US land area for which wind energy is cost effective can be doubled at 120m hub heights. Spiral-welding of turbine towers also provides US jobs and increases American competitiveness with overseas producers. Because on-site production is inherently local, manufacturing jobs are created in the communities where wind turbines are installed. Also, this method gives local production a major cost advantage over imports by producing towers that are too large to transport from port to wind farm. This allows domestic manufacturing to not only compete, but dominate in a domestic tower market worth roughly $1B in 2011.
-  awardeeAddress: 10855 Dover St., Ste 700
-  awardeeCity: Westminster
-  awardeeCountryCode: US
-  awardeeName: Keystone Tower Systems
-  awardeeStateCode: CO
-  awardeeZipCode: '800215554'
-  fundsObligatedAmt: '179107'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1248182'
-  piEmail: eric@keystonetowersystems.com
-  piFirstName: Eric
-  piLastName: Smith
-  piMiddeInitial: D
-  piPhone: '8572250552'
-  poName: Rajesh Mehta
-  date: 12/18/2012
-  startDate: 01/01/2013
-  expDate: 12/31/2013
-  title: 'SBIR Phase I:  Optimization of Tapered Spiral Welding for Wind Turbine Towers'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project addresses two roadblocks to reducing the cost of wind energy: the labor-intensive construction process, and size limitations imposed by road or rail transport for turbine components. The former issue drives up manufacturing costs and reduces US competitiveness with countries with inexpensive labor, while the latter forces sub-optimized tower designs and prevents turbines from growing larger and taking advantage of faster, steadier winds at higher hub heights. This project addresses both of these problems by adapting spiral welding - a well-understood system for pipe and piling manufacturing - to wind tower production. Spiral welding is highly automated, requiring as little as 10% of the labor of the equivalent manual process. It also combines multiple operations into a single machine that can be operated on-site, eliminating transport costs and barriers. This project's innovation is to adapt existing spiral welders -that can manufacture only straight,constant wall-thickness pipe - to producing tapered, variable wall thickness towers. A novel material geometry and automated control of machine parameters are the keys to transforming the standard system to one optimized for turbine tower production. With on-site spiral welding of turbine towers, significant reductions in cost of wind energy are possible.
-
-    The broader impact/commercial potential of this project will be felt in many areas: technical,commercial and environmental. The system's major contribution is an increase in the use of wind energy for US electricity, enabled by both reduction in energy cost and increase in the number of cost-effective wind sites. Reducing the cost of tall towers enables increases in the height and size of wind turbines, allowing them to reach and be optimized for steadier, higher speed winds. With these increase in size and optimization, decreases in cost of wind energy of 12% (for 120m tall towers) or more are possible. In addition, the US land area for which wind energy is cost effective can be doubled at 120m hub heights. Spiral-welding of turbine towers also provides US jobs and increases American competitiveness with overseas producers. Because on-site production is inherently local, manufacturing jobs are created in the communities where wind turbines are installed. Also, this method gives local production a major cost advantage over imports by producing towers that are too large to transport from port to wind farm. This allows domestic manufacturing to not only compete, but dominate in a domestic tower market worth roughly $1B in 2011.
-  awardeeAddress: 10855 Dover St., Ste 700
-  awardeeCity: Westminster
-  awardeeCountryCode: US
-  awardeeName: Keystone Tower Systems
-  awardeeStateCode: CO
-  awardeeZipCode: '800215554'
-  fundsObligatedAmt: '1185785'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1353507'
-  piEmail: eric@keystonetowersystems.com
-  piFirstName: Eric
-  piLastName: Smith
-  piMiddeInitial: D
-  piPhone: '8572250552'
-  poName: Rajesh Mehta
-  date: 04/15/2014
-  startDate: 05/01/2014
-  expDate: 04/30/2017
-  title: 'SBIR Phase II:  Optimization of Tapered Spiral Welding for Wind Turbine
-    Towers'
-- abstractText: "This Small Business Innovation Research Phase I project will scale-up
-    a novel manufacturing route to obtain a new class of high-figure-of-merit (ZT)
-    thermoelectric nanomaterials.  Thermoelectrics are attractive for use in heating
-    or cooling systems without moving parts or the use of greenhouse gases, and for
-    generating electricity from waste heat, e.g., from vehicle exhausts and factories.
-    \ The low efficiency (measured by ZT) of presently used thermoelectric materials
-    limits their use in emerging applications. A recently developed method provides
-    a way for obtaining bulk thermoelectric nanomaterials of both p- and n-type with
-    25% higher ZT, through a combination of chemical doping and nanostructuring. The
-    objective of this project is to scale up this method to obtain kilogram quantities
-    of pnictogen chalcogenides with ZT ~ 1.  Our materials synthesis and processing
-    scale up efforts will be guided by thermoelectric property measurements and materials
-    characterization. The structure-processing-property correlations unearthed during
-    our studies will identify the synthesis and processing parameters needed to retain
-    the high ZT during scale-up, and will provide clues to further increase ZT (e.g.,
-    to 1.5). The scaled-up process will serve as a basis for expanding the range of
-    application of thermoelectric materials for applications in high-efficiency refrigeration
-    and heat harvesting. \n\nThe broader impact/commercial potential of this project
-    will be to unlock and access the multi-billion dollar potential of thermoelectrics
-    for transforming solid-state cooling and heat harvesting.  The project findings
-    will be applicable to multiple materials systems that can be used for either solid-state
-    cooling or power generation.  Thermoelectric materials already represent a billion-dollar
-    industry, but have the potential to access a market several times larger, if the
-    conversion efficiency is increased by a factor of two.  The project will scale-up
-    a nanomaterials manufacturing technology targeted to create new high efficiency
-    solid-state cooling devices that can replace the current refrigeration and air-conditioning
-    technologies based on environmentally unfriendly gases, and create high-efficiency
-    electricity generators from waste heat, significantly expanding the thermoelectric
-    markets and impacting global energy usage and addressing global environmental
-    concerns.  This project will also lead to introduction of a new class of nanomaterials
-    with superior properties to those available currently in the marketplace. The
-    project is anticipated to create at least 10-20 jobs in the near-term, and will
-    position New York state and the United States as global leaders in thermoelectrics
-    innovation and nanomaterials manufacturing."
-  awardeeAddress: 132B Railroad Avenue
-  awardeeCity: Colonie
-  awardeeCountryCode: US
-  awardeeName: ThermoAura Inc.
-  awardeeStateCode: NY
-  awardeeZipCode: '122055701'
-  fundsObligatedAmt: '149989'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1215307'
-  piEmail: rutvikjm@thermoaurainc.com
-  piFirstName: Rutvik
-  piLastName: Mehta
-  piMiddeInitial: J
-  piPhone: '5188940821'
-  poName: Rajesh Mehta
-  date: 06/08/2012
-  startDate: 07/01/2012
-  expDate: 12/31/2012
-  title: 'SBIR Phase I:  Process scale-up for Manufacturing a New Class of Bulk Nanomaterials
-    with High Thermoelectric Figure-of-Merit'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase II project seeks
-    to enable the commercialization of a scalable bottom-up microwave synthesis process
-    invented and demonstrated for obtaining bulk thermoelectric nanomaterials with
-    25% higher figure-of-merit ZT at 50% cost savings than the state of the art. We
-    anticipate the results of the project to expand the scope of, and transform, high
-    efficiency thermoelectric refrigeration and waste-heat harvesting technologies.
-    In particular, this project aims to transmute our synthesis approach to a manufacturing
-    technology that consistently yields ton-scale nanothermoelectrics with ZT>1. The
-    objectives are to 1) Complete the design of, and implement a microwave manufacturing
-    platform with a 10 tons/year capacity, 2) Develop protocols for industrial-scale
-    wafer production from the nanomaterials for device fabrication, and 3) Devise
-    methods to further increase ZT through process optimization. The knowhow generated
-    from the demonstration of kilogram-scale production shown in Phase I provides
-    the foundation for the Phase II effort. We will focus on the widely used bismuth
-    and antimony tellurides, and their alloys. We will strive to maximize process
-    flexibility to facilitate greater ZT gains through process optimization and to
-    facilitate the adaptation of our process technology to other thermoelectric nanomaterials
-    for refrigeration and waste-heat harvesting.\n\n\tThe broader impact/commercial
-    potential of this project will be to unlock and access the multi-billion dollar
-    potential of thermoelectrics for transforming solid-state cooling. Thermoelectric
-    materials already support a ~$1B/year industry, but has promise to be multi-fold
-    higher if the conversion efficiency is increased just two-fold by using nanomaterials.
-    The project will scale-up a nanomaterials manufacturing technology targeted to
-    create new high efficiency solid-state cooling devices that can replace the current
-    refrigeration and air-conditioning technologies based on environmentally unfriendly
-    gases, and create high-efficiency electricity generators from waste heat, significantly
-    expanding the thermoelectric markets and impacting global energy usage and addressing
-    global environmental concerns. The work performed in the project will result in
-    low-cost high-value thermoelectric nanomaterials manufacturing to replace extant
-    energy-intensive methods that cannot cost-effectively produce high-efficiency
-    materials. This will lead to introduction of a new class of nanomaterials with
-    superior properties than that available currently in the marketplace. The work
-    will expand the scope of thermoelectric device applications, paving the way for
-    power generation technologies through implementation of our manufacturing method
-    for other materials systems. The project is anticipated to create 10-25 jobs in
-    3-5 years besides making New York State a global player in thermoelectrics innovation
-    and nanomaterials manufacturing."
-  awardeeAddress: 132B Railroad Avenue
-  awardeeCity: Colonie
-  awardeeCountryCode: US
-  awardeeName: ThermoAura Inc.
-  awardeeStateCode: NY
-  awardeeZipCode: '122055701'
-  fundsObligatedAmt: '1407999'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1330650'
-  piEmail: rutvikjm@thermoaurainc.com
-  piFirstName: Rutvik
-  piLastName: Mehta
-  piMiddeInitial: J
-  piPhone: '5188940821'
-  poName: Rajesh Mehta
-  date: 09/19/2013
-  startDate: 10/01/2013
-  expDate: 07/31/2017
-  title: 'SBIR Phase II:  Development and manufacture of a new class of high-figure-of-merit
-    bulk thermoelectric nanomaterials'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase I project searches for better materials to efficiently and safely store gases used in semiconductor manufacturing. Currently these gases are stored in tanks at low pressures in dilute concentrations for safety reasons, which requires the use of many tanks that need to be frequently refilled. This increases the cost of semiconductor manufacturing which drives up the cost of consumer electronics. Porous materials, which soak up gases like bath sponges soak up water, can be used to store these gases in larger concentrations while maintaining safety. However, the number of porous materials that we can use to potentially store these gases is enormous (i.e., hundreds of millions) and so quickly finding the best material requires advanced computational screening methods. This project will computationally generate millions of hypothetical porous materials and screen them for their ability to store gases used in semiconductor manufacturing at industrially relevant temperatures and pressures. The computationally screening data will be used to synthesize and test an optimal material in the laboratory, which could subsequently be manufactured at larger scale.
-
-    The broader impact/commercial potential of this project will be the cheaper production of electronics and a safer working environment in semiconductor manufacturing facilities. This will open the door to designing porous materials for other gas storage applications in such areas such as adsorptive heat exchange, carbon capture, and commodity gas transportation. Even more broadly, the successful determination of an optimal material via large-scale computational screening will further validate the utility of ?big data? in the modern scientific enterprise.
-  awardeeAddress: 8025 Lamon Ave
-  awardeeCity: Skokie
-  awardeeCountryCode: US
-  awardeeName: NuMat Technologies, Inc.
-  awardeeStateCode: IL
-  awardeeZipCode: '600775315'
+  awardeeName: Vaxess Technologies, Inc.
+  awardeeStateCode: MA
+  awardeeZipCode: 021391226
   fundsObligatedAmt: '150000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1315059'
-  piEmail: mitch@numat-tech.com
-  piFirstName: Mitchell
-  piLastName: Weston
-  piPhone: '8479294186'
-  poName: Rajesh Mehta
-  date: 06/21/2013
-  startDate: 07/01/2013
-  expDate: 12/31/2013
-  title: 'SBIR Phase I:  Computational Screening & Synthesis of MOFs for Hazardous
-    Gas Storage'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is in the development of a new hazardous gas storage and delivery system for semiconductor fabrication that will significantly promote worker health and safety benefits at a reduced cost. The new system incorporates a new class of ultra-high performing absorbents, namely Metal-Organic Frameworks (MOFs), that will greatly mitigate the environmental and public health risks by reducing incidents of toxic gas release, chances of equipment damage, and fabrication facility evacuation. Moreover, the use of MOFs enables an increase in the storage capacity while providing savings in ventilation energy, and reducing the risk of leakages over both high pressure mechanical cylinders and sub-atmospheric carbon-based storage. Given the current vast market share of activated carbon cylinders, the higher capacity MOF filled cylinders offer the prospect of substantial decreased in per wafer production costs by minimizing gas cylinder change-outs and fabrication facility downtime. Furthermore, this technology represents the first large scale commercial application for MOFs, thus opening the doors for this promising class of materials for other gas storage applications.
-
-
-
-    This project aims to increase the capacity of gas cylinders for the storage and delivery of highly toxic gases, such as arsine (AsH3), phosphine (PH3), and boron trifluoride (BF3), that are commonly used in semiconductor fabrication.  As a safety measure, these highly toxic gases are currently stored at low pressure in activated carbon-filled cylinders. However, the capacity of activated carbon adsorbents is severely limited by their ill-defined internal pore structure. NuMat is developing higher capacity gas cylinders by focusing on the following key technical objectives: 1) Design highly porous, well-defined, crystalline MOF absorbents to be integrated into cylinders, allowing for high capacity storage of these highly toxic gases at sub-atmospheric pressures, 2) Develop industrially relevant MOF scale-up procedures to minimize the cost of production, 3) Maximize the volumetric storage of MOFs in cylinders by developing high density MOF pellets, and 4) Integrate high density MOF pellets into cylinders to displace the lower performing activated carbon filled cylinders currently used this commercial application. Additionally, the technical milestones achieved in this project will help to establish the necessary foundation for incorporating this class of ultra-high performing materials (MOFs) into other gas storage applications.
-  awardeeAddress: 8025 Lamon Ave
-  awardeeCity: Skokie
+  id: '1448195'
+  piEmail: Kathryn@vaxess.com
+  piFirstName: Kathryn
+  piLastName: Kosuda
+  piPhone: '8579280327'
+  poName: Jesus Soriano Molla
+  date: 12/08/2014
+  startDate: 01/01/2015
+  expDate: 12/31/2015
+  title: 'SBIR Phase I: Silk: A New Approach to Developing a Heat-stable Rotavirus
+    Vaccine'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project will be to increase global access to vaccines
+    and reduce mortality associated with infectious diseases. As an example, Rotavirus
+    is a major cause of severe gastroenteritis among young children and lack of vaccination
+    results in 450,000 deaths annually. A thermostable rotavirus vaccine would create
+    cost-savings for vaccine manufacturers, national governments, and non-profit vaccine
+    buyers and enable market access in areas of the world that lack sufficient cold-chain
+    capacity. Successful development of a stable rotavirus vaccine would not only
+    have significant positive impact on global rotavirus immunization efforts, but
+    may also revolutionize the general approach to vaccine delivery and distribution.
+    This Phase II project will advance towards commercialization a novel platform
+    technology that both stabilizes vaccines and enables novel delivery formats. This
+    technology has significant commercial potential in that it can be broadly applied
+    to numerous emerging and existing vaccines in the $24 Billion global market. \n\nThe
+    proposed project seeks to leverage the unique properties of silk to meet the global
+    need for robust, thermostable vaccines. Thermal instability is a long-standing
+    problem in vaccine development. Despite efforts to improve stability, current
+    formulation approaches do not allow product storage under ambient conditions.
+    Temperature excursions during shipment and storage are common and result in wastage
+    or administration of suboptimal vaccines. The use of silk fibroin, a low-cost
+    biomaterial, represents a novel approach to vaccine stabilization. The goal of
+    the proposed research is to advance the silk-stabilization platform towards commercialization
+    of vaccines that do not require cold storage. Building upon successful Phase I
+    results, advanced formulation optimization studies will define a final product
+    formulation for rotavirus that is compatible with scaled manufacturing and achieves
+    all storage and in vivo attributes necessary for a commercial product. Through
+    process optimization studies, fabrication of a dissolvable thin strip for oral
+    delivery of rotavirus will be translated into a scalable manufacturing process
+    that provides an attractive alternative to traditional drying methods. Evaluation
+    of stabilized rotavirus vaccine films in an improved animal model will enable
+    validation of in vivo immunogenicity and offer insight into vaccine stabilization
+    and oral film delivery more broadly."
+  awardeeAddress: 700 main street
+  awardeeCity: cambridge
   awardeeCountryCode: US
-  awardeeName: NuMat Technologies, Inc.
-  awardeeStateCode: IL
-  awardeeZipCode: '600775315'
-  fundsObligatedAmt: '1249930'
+  awardeeName: Vaxess Technologies, Inc.
+  awardeeStateCode: MA
+  awardeeZipCode: 021391226
+  fundsObligatedAmt: '909999'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1430682'
-  piEmail: mitch@numat-tech.com
-  piFirstName: Mitchell
-  piLastName: Weston
-  piPhone: '8479294186'
+  id: '1632434'
+  piEmail: Kathryn@vaxess.com
+  piFirstName: Kathryn
+  piLastName: Kosuda
+  piPhone: '8579280327'
+  poName: Linda Molnar
+  date: 09/20/2016
+  startDate: 10/01/2016
+  expDate: 03/31/2019
+  title: 'SBIR Phase II:  A New Approach to Developing a Heat-stable Rotavirus Vaccine'
+- abstractText: |-
+    This SBIR Phase I Project aims to tackle the two greatest barriers to technology adoption associated with metal additive manufacturing (AM) - cost and quantities. Current metal AM platforms use expensive core components and consumable materials in high-priced machines that produce 99.9% dense parts. The proposed project introduces a lower performance, affordable stainless steel additive manufacturing technology that will be capable of satisfying the vast majority of customer needs for industrial grade stainless steel parts. The vast majority of the market simply cannot afford to take advantage of AM benefits due to the high costs associated with current technologies. This proposal re-examines the material performance, machine cost and reliability requirements necessary for a novel metal AM system. The goal of the proposal is to allow an estimated 50,000+ American manufacturers to capitalize on the benefits of AM and compete to win in an ultra-competitive, highly globalized manufacturing industry. Furthermore, the proposed invention of a low-cost machine allows for unprecedented scalability in metal AM, allowing smaller manufacturers to compete with the resources of large conglomerates. This research has broad implications in many industries and is considered to be fundamentally enabling for the growth and prosperity of American manufacturing.
+
+
+    The proposed project re-examines the need for high technology, high cost core components in currently available commercial metallic AM machines. Through an innovative deconstruction of the inkjet print head-based, binder jetting process, a method for producing metal end-use parts has been created. The proposed process is based on a novel combination of two low cost and established technologies. The creation of a robust prototype with this novel method is a highly challenging, multi-faceted project involving key advances in materials science through the development of a novel binder system compatible with the new process as well as a fundamental evaluation and improvement of material properties of the as-built parts. In addition, re-designed sintering cycles and development of software prediction algorithms to anticipate shrinkage characteristics will be core challenges to overcome in order to achieve the tight tolerances manufacturing partners require. As such, these challenges will require tight cross-disciplinary collaboration for a meaningful outcome. The ultimate goal of the proposed research is to fabricate powder metallurgy parts of adequate structural integrity to satisfy industrial end-use requirements.
+  awardeeAddress: 14000 Van Ness Ave Ste C
+  awardeeCity: Gardena
+  awardeeCountryCode: US
+  awardeeName: 3DEO, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '902492942'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1646942'
+  piEmail: matt.petros@3deo.co
+  piFirstName: Matthew
+  piLastName: Petros
+  piPhone: '8188352354'
   poName: Rajesh Mehta
-  date: 08/25/2014
-  startDate: 09/01/2014
-  expDate: 10/31/2016
-  title: 'SBIR Phase II:  High Performance MOF-Based Storage and Delivery of Electronic
-    Gases'
+  date: 11/30/2016
+  startDate: 12/01/2016
+  expDate: 05/31/2017
+  title: 'SBIR Phase I:  An Affordable Metal Additive Manufacturing Machine'
+- abstractText: |-
+    This SBIR Phase II Project aims to tackle the two greatest barriers to technology adoption associated with metal additive manufacturing (AM) - cost and quantities. Current metal AM platforms use expensive core components and consumable materials in high-priced machines that produce 99.9% dense parts. The proposed project calls into question the performance requirements that most American manufacturers have for industrial grade stainless steel parts. While these manufacturers require high performance, they cannot currently afford to take advantage of AM benefits due to the high capital expenditure, maintenance, and operating costs associated with current commercial technologies. This proposal re-examines the material performance, machine cost and reliability requirements necessary for a novel metal AM system to satisfy most American manufacturers' needs. In developing a low-cost AM alternative, the goal of the proposal is to allow an estimated over 50,000 American manufacturers to capitalize on the benefits of AM and simultaneously compete in an ultra-competitive, highly globalized manufacturing industry. In addition, procurement for low to medium volume order quantities (1000 - 20,000 pieces) is incredibly challenging with respect to high cost and long lead times. The proposed invention of a low-cost machine allows for never seen scalability in metal AM, allowing for smaller manufacturers to scale by taking advantage of meaningful order quantities and compete with the resources of large conglomerates. This research has broad implications in many industries and could be fundamentally enabling for the growth and prosperity of American manufacturing.
+
+
+    The proposed project re-examines the need for high technology, high cost core components in currently available commercial metallic AM machines. Through an innovative deconstruction of the inkjet print head-based, binder jetting process, a method for producing metal end-use parts has been created. The 3DEO process is based on a novel combination of two low-tech and low cost, established technologies. The creation of a robust prototype with this novel method is a highly challenging, multi-faceted project involving key advances in materials science trough the development of a novel binder system compatible with the new process as well as a fundamental evaluation and improvement of material properties of the as-built parts. In addition, completely re-designed sintering cycles and a lengthy evaluation of shrinkage characteristics will be core challenges to overcome to achieve the tight tolerances manufacturing partners require. As such, these challenges will require tight cross-disciplinary collaboration for a meaningful outcome. The goal of the proposed research is to fabricate powder metallurgy parts of adequate structural integrity to satisfy industrial end-use requirements.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 14000 Van Ness Ave Ste C
+  awardeeCity: Gardena
+  awardeeCountryCode: US
+  awardeeName: 3DEO, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '902492942'
+  fundsObligatedAmt: '899999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1757478'
+  piEmail: matt.petros@3deo.co
+  piFirstName: Matthew
+  piLastName: Petros
+  piPhone: '8188352354'
+  poName: Linda Molnar
+  date: 03/05/2018
+  startDate: 03/01/2018
+  expDate: 02/29/2020
+  title: 'SBIR Phase II:  An Affordable Metal Additive Manufacturing Machine'
+- abstractText: |-
+    The broader impact/commercial potential of this project is in the development of a more efficient wind energy production technology. This technology will make wind energy more economically attractive, improve the energy security of the U.S., create hundreds of jobs and help to reduce coal and natural gas emissions by providing an alternative renewable energy source. An expected reduction in the levelized cost of energy (LCOE) by 8% would help reducing the price of this energy and signing of more wind power purchase agreements. Therefore US citizens would be paying less money out of their pockets on their electric bills. Additionally, big reduction of the cost of wind energy has attracted over $100 billion in private investment since 2008. An expected 10% increase in Annual Energy Production (AEP) would power an extra 1.8 million homes, reduce carbon pollution by 12.5 million metric tons and generate $180 million a year in tax payments to communities. Finally, the innovation proposed in this application has the potential to address both the efficiency demands of wind farm owners (reducing the break-even times) and providing a disruptive design innovation to turbine manufacturers for them to have a sustainable competitive edge.
+
+
+    This Small Business Innovation Research (SBIR) Phase I project will address challenges related to aerodynamic efficiency of wind turbines. It focuses on developing aerodynamic flow deflectors to be mounted on the wind turbine blades. These can be incorporated into new wind turbine designs or retrofitted onto the thousands of currently operating turbines to increase their efficiency. By introducing the proposed flow deflector, the radial component of velocity of the incoming flow is redirected to produce an additional amount of torque and generate the extra power. From discussions with leading wind energy companies, there is a general agreement that this could be a game changer and one of the biggest improvements in wind turbines to date, but large scale field test validation is needed. Therefore, the key technical challenge to bring the technology to market that would be addressed in Phase I is to perform a field test of the flow deflectors in a large scale turbine (1-20 meter diameter) under realistic environmental conditions. The main goal for Phase I is to demonstrate the substantial power increase (AEP >2-3%) while reducing the cost of energy (LCOE >2%) when retrofitting a large scale commercial turbine with the proposed technology.
+  awardeeAddress: 33 Linberger Dr
+  awardeeCity: Bridgewater
+  awardeeCountryCode: US
+  awardeeName: XPEED Turbine Technology LLC
+  awardeeStateCode: NJ
+  awardeeZipCode: 088072380
+  fundsObligatedAmt: '145381'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1549223'
+  piEmail: arturovillegasvaquero@gmail.com
+  piFirstName: Arturo
+  piLastName: Villegas Vaquero
+  piPhone: '7324764599'
+  poName: Rajesh Mehta
+  date: 12/17/2015
+  startDate: 01/01/2016
+  expDate: 08/31/2016
+  title: 'SBIR Phase I:  AERODYNAMIC FLOW DEFLECTOR FOR CURRENT AND FUTURE WIND TURBINES
+    TO INCREASE THE ANNUAL ENERGY PRODUCTION BY 10% AND REDUCE THE LEVELIZED COST
+    OF ENERGY BY 8%'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is in enabling more efficient Annual Wind Energy Production (AEP) while reducing the cost of energy (COE). This will make wind energy more attractive economically, improve the energy security of the U.S, create jobs, and indirectly help reduce greenhouse gas emissions. A 2% AEP increase is generally considered attractive. Two turbines (5kW and 50kW) tested during Phase I have shown an increase in AEP between 2% to 8% while reducing the COE by 1% to 6%. About 150,000 turbines worldwide can be potentially be retrofitted with this technology.
+
+    This project will address challenges related to aerodynamic efficiency of wind turbines and the cost of wind energy. It is based on a deeper understanding of wind turbine aerodynamics from a more 3-dimensional point of view; most wind turbine designs are based on 2- dimensional theories. The key technical challenge in bringing this technology to market is to demonstrate the increase in AEP of utility scale turbines retrofitted with our deflector technology in realistic field conditions while reducing the COE. This will be addressed by performing testing at a few customer wind farms and NREL testing centers. The R&D plan consists of designing, manufacturing, and installing deflectors on a few utility size turbines (30-100 meters diameter rotors). The tests will include power performance comparison between baseline and retrofitted turbines according to international standards.
+  awardeeAddress: 33 Linberger Dr
+  awardeeCity: Bridgewater
+  awardeeCountryCode: US
+  awardeeName: XPEED Turbine Technology LLC
+  awardeeStateCode: NJ
+  awardeeZipCode: 088072380
+  fundsObligatedAmt: '898955'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1660224'
+  piEmail: arturovillegasvaquero@gmail.com
+  piFirstName: Arturo
+  piLastName: Villegas Vaquero
+  piPhone: '7324764599'
+  poName: Linda Molnar
+  date: 03/24/2017
+  startDate: 03/15/2017
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  AERODYNAMIC FLOW DEFLECTOR FOR CURRENT AND FUTURE WIND TURBINES
+    TO INCREASE THE ANNUAL ENERGY PRODUCTION BY 10% AND REDUCE THE LEVELIZED COST
+    OF ENERGY BY 8%'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase I project aims
+    to evaluate the feasibility of customized next generation nanoscale technology
+    which enables high volume manufacture of integrated circuits, leading to faster
+    computing power and performance. Current progress in reaching next generation
+    performance is limited by significant technical challenges in meeting high volume
+    manufacturing requirements driving up the cost of electronics. These problems
+    have plagued the industry for over 10 years. The research activity here considers
+    alternative approaches in addressing   the production rate issues which ultimately
+    reduce cost to chipmakers and reduce energy consumption in the semiconductor industry,
+    thereby providing greener high performance electronics at lower cost. \n\nThe
+    broader impact/commercial potential of this project are firstly to accelerate
+    the arrival of next generation computing technology creating faster, smaller more
+    powerful mobile devices and providing evolutionary advances in quality of life
+    for a globally-social electronic community, and secondly to develop electronics
+    which meet the world?s demand at reasonable cost and without substantial adverse
+    impact on the environment, and thirdly to maintain the competitiveness in global
+    supply and accessibility of next generation electronics."
+  awardeeAddress: 4225 Executive Sq Ste 490
+  awardeeCity: La Jolla
+  awardeeCountryCode: US
+  awardeeName: Astrileux Corporation
+  awardeeStateCode: CA
+  awardeeZipCode: '920378411'
+  fundsObligatedAmt: '150000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1343877'
+  piEmail: supriya@astrileux.com
+  piFirstName: Supriya
+  piLastName: Jaiswal
+  piPhone: '8585312432'
+  poName: Steven Konsek
+  date: 12/19/2013
+  startDate: 01/01/2014
+  expDate: 06/30/2014
+  title: 'SBIR Phase I:  Novel Technologies to Enable High Volume EUV Manufacturing
+    of Integrated Circuits'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to drive the next generation of advanced computing power and performance, by manufacturing integrated circuits, the fundamental units of electronic systems, at length scales of 7 nm and smaller. Today?s central processing units (CPUs) each contain 7.2 Bn chips and over 1.2 sextillion chips are manufactured per year to meet computing demands. Next generation technology is expected to enable artificial intelligence and machine learning through both conventional computing and potentially neuromorphic paradigms, bringing to reality transformative applications such as self-driving cars and smart buildings. As Moore?s law continues to set the pace of technological advancement, chipmakers will deploy new EUV (Extreme Ultraviolet) lithography tools, using light of 13.5 nm to pattern integrated circuits or chip architecture into silicon wafers, for the next three generations of technology. Chipmakers strive to bring about the readiness of EUV technology in 2019. The global demand for next generation electronics is forever increasing as the population grows above 7 Bn. However, the global supply of electronics constantly faces challenges to reduce costs and deliver technology beyond Moore?s Law.
+
+    The proposed project addresses the challenges related to high volume manufacturing at the 7 nm node for lithography tools and its components. For example, an EUV photomask, a high commodity component, patterns and replicates integrated circuit design into silicon wafers. Current EUV photomasks have a sub-optimal manufacturing yield of ~60% and suffer from defectivity which arises during fabrication of its architecture. During operational use the photomask sustains damage from the debris generated by the EUV plasma light source that implants in the mask and inevitably replicates in the wafer, destroying the integrated chip pattern. In high volume manufacturing, these issues manifest in the wafer yield, the reusability of a mask, and drive the need for high cost real-time inspection and metrology. A new EUV photomask which promises greater robustness to defects, a higher manufacturing yield, more reusability of masks in operations and a longer lifetime is presented. The goals of the project are to evaluate new integrated architecture for the EUV mask design, develop a higher yield fabrication process and characterize the EUV performance. More robust photomasks reduce the capital outlay required for in-situ metrology and inspection and ultimately bring down the cost of next generation electronics.
+  awardeeAddress: 4225 Executive Sq Ste 490
+  awardeeCity: La Jolla
+  awardeeCountryCode: US
+  awardeeName: Astrileux Corporation
+  awardeeStateCode: CA
+  awardeeZipCode: '920378411'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1747341'
+  piEmail: supriya@astrileux.com
+  piFirstName: Supriya
+  piLastName: Jaiswal
+  piPhone: '8585312432'
+  poName: Richard Schwerdtfeger
+  date: 12/18/2017
+  startDate: 01/01/2018
+  expDate: 12/31/2018
+  title: 'SBIR Phase I:  High Fidelity EUV PhotoMasks'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project are to accelerate the arrival of next generation
+    computing technology creating faster, smaller more powerful mobile devices, renewing
+    the expected technological pace of development set by Moore's law, and to enable
+    global access to next generation electronics. The technology developed here will
+    enable new extreme ultraviolet lithography in semiconductor manufacturing.  The
+    developments will promote learning, understanding and capability in commercialization
+    and scalability of nanotechnology engineering. \n\nThis Small Business Innovation
+    Research (SBIR) Phase II project aims to evaluate the feasibility of new extreme
+    ultraviolet (EUV) technologies which enable high volume manufacture of Integrated
+    Circuits at 14nm and smaller. Currently capital equipment manufacturers are facing
+    significant challenges in meeting the International Technology Roadmap for Semiconductors
+    requirements for high volume manufacturing of integrated circuit chips.  This
+    has caused severe ramifications to chipmakers on the success of next generation
+    IC manufacturing and fabrication facility costs. Successful results from the work
+    proposed would represent notable progress in high volume manufacturing using EUV
+    capital equipment. The intellectual merit of this proposed work forms the basis
+    of new state of the art industry architecture designed for volume manufacturing;
+    a pursuit that would subsequently encourage new markets and applications using
+    next generation technology overcoming cost challenges in high volume manufacturing
+    processes."
+  awardeeAddress: 4225 Executive Sq Ste 490
+  awardeeCity: La Jolla
+  awardeeCountryCode: US
+  awardeeName: Astrileux Corporation
+  awardeeStateCode: CA
+  awardeeZipCode: '920378411'
+  fundsObligatedAmt: '1048654'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1457418'
+  piEmail: supriya@astrileux.com
+  piFirstName: Supriya
+  piLastName: Jaiswal
+  piPhone: '8585312432'
+  poName: Linda Molnar
+  date: 02/18/2015
+  startDate: 03/01/2015
+  expDate: 08/31/2018
+  title: 'SBIR Phase II:  Novel Technologies to Enable High Volume, Extreme Ultraviolet
+    Manufacturing of Integrated Circuits'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is in the availability of an additive manufacturing (3D printing) process suitable for full-scale building construction. The construction industry represents a critical nexus in the American economy. Building construction impacts nearly every economic sector, particularly manufacturing, transportation, energy, consumer products and appliances, and real estate. Simply, a building is perhaps the most essential economic stimulus there is. Yet, the practice of building has seen little of the technological revolution that has transformed virtually every other industry. As a result, the construction industry produces significant material and financial waste, and its productivity has steadily declined over the past several decades. Additive manufacturing is the most efficient and cost-effective approach to creating custom products, of which buildings are by far the most valuable and most widely purchased. Customization is increasingly driving demand by today?s consumers. Additive manufacturing in construction could reduce costs and material waste while providing unparalleled design freedom and driving innovation through the consolidation of many isolated industrial activities into one highly flexible and efficient manufacturing process, which directly serves industry professionals and clients at an individual level.
 
@@ -298,354 +340,297 @@
   expDate: 02/28/2019
   title: 'SBIR Phase II:  Additive Manufacturing in Construction'
 - abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase I project will demonstrate the technical and commercial viability of a high-brightness ultraviolet light-emitting diode (UVLED) system for inducing an involuntary avoidance response of birds and bats.  The purpose of this system is to reduce the mortality rates of birds and bats by deterring them from entering the active rotor zone area of an operating wind turbine and thus minimizing the risk of mortality or injury from direct collision or barotrauma.  Many avian and bat species have spectral sensitivity to ultraviolet light and are known to react to signal colors and bright light sources, whereas humans do not have spectral sensitivity to ultraviolet light and would not have an overall awareness to the operation of a UVLED system.  Strict regulations for species protection by the Endangered Species Act as well as general bird and bat mortality are guiding the permitting approval process for siting new wind farms (both on land and off-shore) and the operations of existing wind farms.
+    This SBIR Phase I project will reduce health costs and increase accessibility to diagnostics by reducing the cost of manufacture, and increasing manufacturing volume of superior quality microfluidic devices. The proposal seeks to develop a platform technology that produces the same manufacturing benefits as rapid prototyping and rapid manufacturing, though the resolution and surface finish will be optical grade on the micro scale. This may enable a variety of things including less expensive drug making, to faster disease diagnosis, to health benefits to the third world, to eliminating the backlog of rape-kits awaiting analysis. The end results - the lowering of medical expenses, faster diagnosis of disease, a boost in research, lowered pharmaceutical costs - are likely to be broadly beneficial. The technical innovation is a leap forward in the conceptual basis of Small Form Factor designs. The novelty of the idea opens and enables new research areas in engineering and chemical disciplines.
 
-    The broader/commercial potential of this project is that it addresses a major problem affecting the permitting of new and existing wind farms.  In addition, there are other numerous additional potential applications for the UVLED system.  These applications include protecting airports? landing and take-off airspaces from bird strikes; integrating UVLEDs into airplane landing lights to protect against bird strikes; mounting on radio/TV and other towers to minimize bird mortality; mounting on large buildings where bird mortality is known to be high; protecting tar pits and similar hazards from bird mortality; and protecting bridges, rooftops, and similar spaces from the nuisance of bird droppings.  Also, bats save farmers about $74 per acre by providing natural pest control.  Pest control services provided by insect-eating bats in the U.S. likely save the U.S. agricultural industry at least $3 billion a year.
-  awardeeAddress: 4 Bud Way, Ste. 15
-  awardeeCity: Nashua
+    The project will address manufacture of very low cost (~1/10th the current market price) capillary electrophoresis (CE) chips by developing a platform technology for fast prototyping microfluidic chip layouts. The technology allows the formation of a three dimensional ?shell? of micron sized scale parts. The research will take a two-pronged approach: developing an improved understanding of interactions of the prototyping components and combining it with experimental development of a prototype ?T-shaped? CE chip. The theoretical aspect of the microfluidic molding, which has been demonstrated by a laboratory proof-of-concept experiment, will focus on understanding the feasible operating range and defining the performance limitations of the system. The experimental aspect will be dedicated to manipulation of the system to reveal the configuration required for the ?T-shaped? CE chip.
+  awardeeAddress: '1500 Bull Lea Rd. #9'
+  awardeeCity: Lexington
   awardeeCountryCode: US
-  awardeeName: Lite Enterprises Inc
-  awardeeStateCode: NH
-  awardeeZipCode: '030631740'
-  fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1215067'
-  piEmail: liteenterprises@yahoo.com
-  piFirstName: Donald
-  piLastName: Ronning
-  piMiddeInitial: J
-  piPhone: '6038210991'
-  poName: Prakash Balan
-  date: 06/13/2012
-  startDate: 07/01/2012
-  expDate: 03/31/2013
-  title: 'SBIR Phase I:  Protecting Birds and Bats from Wind Turbine Hazards Using
-    Ultraviolet Light Emitting Diodes'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase II project represents
-    a new development in man?s ability to keep birds away from the airspace surrounding
-    an airplane or out of the way of the massive rotors of wind turbines. Animals
-    respond to a bright ultraviolet light in the same way as humans respond to a bright
-    flashlight in their eyes. If the light is strong enough, it causes an involuntary
-    behavioral response resulting in the animal being deterred from the area of the
-    light source. Ultraviolet light has the advantage of being visible to most species
-    of animals while being invisible to humans. This Phase II project builds on the
-    Phase I project that demonstrated with 98% confidence that bird behavior is influenced
-    by the presence of the wildlife deterrence system?s bright ultraviolet light in
-    a completely natural environment with no human presence. \n\n\nThe broader impact/commercial
-    potential of this project is focused on three high value applications of the wildlife
-    deterrence system. They are renewable alternative energy (wind farms), air transportation
-    (planes and airports), and agriculture (aquaculture and agriculture). Renewable
-    energy is at the top of the U.S. priority list. Wind energy is one of the most
-    promising forms of alternative energy. At the same time, there is an immediate
-    and pressing need to reduce the mortality rate of endangered and protected species
-    at wind farms. A compelling global need for the wildlife deterrence system is
-    exemplified by the aviation industry and the incidence of bird strikes. The U.S.
-    Department of Transportation Inspector General reported in August 2012 that in
-    the past two decades, wildlife strikes have increased from 1,770 reported in 1990
-    to 9,840 reported in 2011, a greater than five-fold increase. Thirdly, although
-    not at the level of importance as protection of aircraft and deterrence of birds
-    from wind farm turbine rotors, worldwide seafood demand has grown annually by
-    8.3 percent since 1970. This means that worldwide aquaculture production has rapidly
-    expanded. Of particularly promising potential are solutions to the mussel farming
-    problems of the international aquaculture industry which is well established in
-    many parts of the world. All producing locations in North America and Europe share
-    a common problem of severe predation loss from diving ducks such as the Common
-    Eider that can be devastating to the mussel producer, with the potential to wipe
-    out an entire crop (100%)."
-  awardeeAddress: 4 Bud Way, Ste. 15
-  awardeeCity: Nashua
-  awardeeCountryCode: US
-  awardeeName: Lite Enterprises Inc
-  awardeeStateCode: NH
-  awardeeZipCode: '030631740'
-  fundsObligatedAmt: '1031882'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1350562'
-  piEmail: liteenterprises@yahoo.com
-  piFirstName: Donald
-  piLastName: Ronning
-  piMiddeInitial: J
-  piPhone: '6038210991'
-  poName: Linda Molnar
-  date: 04/07/2014
-  startDate: 04/15/2014
-  expDate: 12/31/2017
-  title: 'SBIR Phase II:  WIldlife Deterrence from Hazards Using High Brightness Ultraviolet
-    Light'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase I project aims
-    to eliminate the use of heat during the process of spray drying liquid emulsions
-    into powders. Typically, a liquid emulsion consists of a high-value liquid ingredient
-    emulsified with a carrier system that when dried captures the liquid ingredient
-    in a powdered form.  Traditional spray drying employs air heated up to 400 degrees
-    Fahrenheit to dry the liquids into powders. However, exposing sensitive, volatile
-    liquid ingredients to high temperatures causes molecular degradation that negatively
-    impacts performance.  By eliminating the use of heat, it is expected that the
-    quality, solubility, stability and overall performance of powders will be significantly
-    improved. This project will focus on designing novel drying equipment, formulating
-    emulsions, and reducing moisture content in the finished powders.  \n\nThe broader/commercial
-    impact of this project will be the potential to provide an innovative, commercially
-    viable no-heat spray drying technology with the ability to manufacture significant
-    amounts of powdered products for applications in foods, chemicals, probiotics
-    and pharmaceuticals where the production of a free-flowing powder is required.
-    This no-heat spray drying process is anticipated to improve shelf life, create
-    better solubility, reduce costs and deliver a more efficacious product, enabling
-    liquid quality flavors and ingredients in a powder form."
-  awardeeAddress: 1131 Victory Place
-  awardeeCity: Hebron
-  awardeeCountryCode: US
-  awardeeName: ZoomEssence, Inc.
+  awardeeName: Hummingbird Nano, Inc.
   awardeeStateCode: KY
-  awardeeZipCode: '410480000'
-  fundsObligatedAmt: '180000'
+  awardeeZipCode: '405111268'
+  fundsObligatedAmt: '149265'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1142550'
-  piEmail: cbeetz@zoomessence.com
-  piFirstName: Charles
-  piLastName: Beetz
-  piMiddeInitial: P
-  piPhone: '8595345974'
-  poName: Ben Schrag
-  date: 11/18/2011
-  startDate: 01/01/2012
-  expDate: 12/31/2012
-  title: 'SBIR Phase I:  No Heat Spray Drying Technology'
-- abstractText: |-
-    This Small Business Innovation Research Phase II Project of ?No Heat Spray Drying? fundamentally changes the process of spray drying liquids to powders by eliminating the use of heat.  Typically, a liquid emulsion consists of a high value liquid ingredient that is emulsified with a carrier system that when dried captures the liquid ingredient in a powdered form.  High temperature spray drying remains the preferred method of drying many thermally sensitive materials such as foods, chemicals, probiotics, pharmaceuticals, and in many other applications where the production of a free-flowing powder is required.  The current spray drying process employs air heated up to 400° Fahrenheit to dry the liquid into a powder.  Exposing sensitive, volatile liquid ingredients to high temperatures causes molecular degradation that negatively impacts performance.  By eliminating the use of heat the end result is a significantly improved powder in terms of product quality, solubility, stability and overall performance.  Our research will be focused on improving our proprietary technology through dryer optimization and atomization development.  This research should yield an innovative, commercially viable ?no heat? spray drying technology with the ability to manufacture significant amounts of powdered products.
-
-    The broader impact/commercial potential of this project spans markets including food & beverage, chemicals, pharmaceuticals, infant formula, coffee, vitamins and numerous other segments where the production of a free flowing powder ingredient is desired.  The challenge:  how to eliminate the use of heat in converting liquids to powders.  By eliminating the use of heat in the manufacturing process, we create significantly improved powder products.  Our process is more economical, delivers products with longer shelf life, better encapsulation and improves solubility. Our technology has several societal benefits including decreasing energy consumption and preventing the evaporation of volatile ingredients into the atmosphere.  Our technology may be able impact the bioavailability of drugs, decrease tablet sizes, deliver stable Omega 3 ingredients and improve dried milk powder.  We are only beginning to explore the potential applications of our revolutionary process technology
-  awardeeAddress: 1131 Victory Place
-  awardeeCity: Hebron
+  id: '1415497'
+  piEmail: hawes@hummingbirdnano.com
+  piFirstName: Eleanor
+  piLastName: Hawes
+  piPhone: '8592254521'
+  poName: Rajesh Mehta
+  date: 05/20/2014
+  startDate: 07/01/2014
+  expDate: 06/30/2015
+  title: 'SBIR Phase I:  Innovative Platform Technology for Rapid Three Dimensional
+    Micro Fabrication'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project is in developing a novel method of manufacturing
+    micro sized parts in three-dimensions without layers at high volume.  With no
+    parting lines, the technology represents a significant advancement over current
+    state of the art molding and 3D technologies for certain applications.  As this
+    represents an entirely new field of research, not merely an extension of solid
+    freeform fabrication (SFF) techniques, it opens and enables wide research areas
+    in engineering and chemical disciplines.  More imminent is using the technology
+    to create capillary electrophoresis (CE) chips that vastly reduce the amount of
+    reagents, provide previously unattainable properties, and at a significantly lower
+    price.  By doing so, the technology will accelerate and broaden the adoption of
+    microfluidics which are currently used in applications such as forensics, genomics,
+    drug making, drug analysis, clinical diagnostics, biosensors, and environmental
+    testing, among countless others. \n \n\nThis project automates and expands a novel
+    platform technology to manufacture high resolution micro parts. The technology
+    is focused on a unique and inexpensive method to fabricate microfluidic channels
+    and wells, which form the basis of all microfluidic chips. The objectives for
+    Phase II are to: 1) Expand the versatility of the system by inclusion to the platform
+    system of fiber optic cables, temperature control capillaries, microfluidic design
+    of static mixer and expansion of molding materials, 2) Design and construct a
+    pilot automation system to increase control and reduce variability, 3) Test the
+    automation system, 4) Test chips produced via the automated system and test additional
+    versatility components from (1), and 5) Continue to commercialize the products.
+    The technological outcome is an automated system with expanded versatility that
+    will center on the construction of capillary electrophoresis chips, with the objective
+    of making the system on that can manufacture a wide variety of microfluidic chips."
+  awardeeAddress: '1500 Bull Lea Rd. #9'
+  awardeeCity: Lexington
   awardeeCountryCode: US
-  awardeeName: ZoomEssence, Inc.
+  awardeeName: Hummingbird Nano, Inc.
   awardeeStateCode: KY
-  awardeeZipCode: '410480000'
-  fundsObligatedAmt: '1000000'
+  awardeeZipCode: '405111268'
+  fundsObligatedAmt: '906123'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1254328'
-  piEmail: cbeetz@zoomessence.com
-  piFirstName: Charles
-  piLastName: Beetz
-  piMiddeInitial: P
-  piPhone: '8595345974'
-  poName: Rajesh Mehta
-  date: 03/07/2013
-  startDate: 03/15/2013
-  expDate: 02/28/2017
-  title: 'SBIR Phase II:  No Heat Spray Drying Technology'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase I Project seeks
-    to solve the problems of limited voltage, energy density, and lifetime in Electric
-    Double Layer Capacitors (EDLCs). These issues have largely lead to the failure
-    of EDLCs to become a significant part of the energy storage landscape. Over the
-    years, many different efforts have focused on developing new carbon materials
-    for EDLCs, including those focused on exotic and expensive materials such as carbon
-    nanotubes, carbide derived carbons and Graphene.  None of these have so far succeeded
-    at matching the energy density, lifetime, or voltage range of 15 year old commercial
-    carbon materials. This project will attempt to prove that this is related to functional
-    groups on the carbon surface that, when assembled in an EDLC and charged, are
-    REDOX active to form water in the electrolyte. The objective of the research will
-    be to eliminate these species and other surface functional groups, while maintaining
-    the exceptionally high surface area necessary for high capacitance, through precisely
-    controlled thermal treatment of activated carbon.  This will result in dramatic
-    increases in the voltage, energy density, and life of current EDLC products. \n\nThe
-    broader impact/commercial potential of this project will involve dramatically
-    expanding the value of ultracapacitors to various applications and enhancing their
-    societal impact. Supercapacitors have failed to meet expectations for market growth
-    largely due to high cost, premature failure, low voltage (matching Li-ion battery
-    voltages requires two devices in series) and low energy density, and have seen
-    minimal technical progress over the last decade. Our technology would increase
-    the energy density, lifetime and voltage to levels that would enable much more
-    widespread adoption in applications currently restricted to batteries alone.  Additional
-    societal impact, and directly related commercial advantage, would stem from the
-    fact that this technology could eliminate the requirement for exotic and expensive
-    precursors for carbon production, allowing, for the first time, the use of inexpensive
-    water filtration carbons. The combined lower cost and improved performance would
-    expand EDLCs use in applications like hybrid cars, buses, wind turbine pitch control
-    and grid storage, all of which have tremendous societal impact and where cost
-    is the primary barrier to entry for EDLC manufacturers."
-  awardeeAddress: 100 Cherokee Boulevard
-  awardeeCity: Chattanooga
-  awardeeCountryCode: US
-  awardeeName: Coulometrics
-  awardeeStateCode: TN
-  awardeeZipCode: '374053860'
-  fundsObligatedAmt: '148138'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1315040'
-  piEmail: ebuiel@coulometrics.com
-  piFirstName: Edward
-  piLastName: Buiel
-  piMiddeInitial: R
-  piPhone: '4239547766'
-  poName: Rajesh Mehta
-  date: 06/17/2013
-  startDate: 07/01/2013
-  expDate: 12/31/2013
-  title: 'SBIR Phase I:  The Development of Higher Voltage, Longer Life and Lower
-    Cost Activated Carbon Materials for Supercapacitors'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is in significantly increasing the ways supercapacitors and lithium ion batteries are used today.  Supercapacitors offer very high power capabilities and high energy efficiency and have been used in many renewable energy applications such as hybrid buses and wind turbines.  Currently, their use is limited due to high cost and low energy density relative to Li-ion batteries.  Coulometrics has developed a proprietary process that can modify low cost activated carbon materials into supercapacitor grade carbons with 25% higher energy density and twice the current lifespan of existing materials.   These critical developments will lower the overall system cost and improve cell life allowing for more widespread use of supercapacitors in renewable energy applications.  Coulometrics has also shown that a very similar process can be used to convert natural graphite to lithium ion grade anode materials with higher energy density and significantly lower cost.  This process will also enable a Northern American company to become the first producer of graphite for lithium ion batteries on the continent which can significantly reduce lithium ion battery cost for applications such as electric vehicles.   Both projects will have additional environmental benefits including reduced greenhouse gas emissions, less burning of fossil fuels, and help protect the environment.
-
-
-
-    The project seeks to break through a significant barrier that has kept ultracapacitor voltage and energy density stagnant for over a decade and significantly reduce costs of lithium ion battery carbon materials.  Supercapacitor companies all produce products with different carbons, electrolytes, cell construction, etc. and yet are all confined to the same performance specifications. We believe that this is related to oxidation/reduction reactions that occur on the carbon surface; a fairly intuitive hypothesis; however attempts at solutions have been futile. The surface treatment we developed in Phase I has resulted in a reduction of these oxidation/reduction currents by more than 50%. This technology will lead to the largest performance gains in the ultracapacitor industry in over 10 years.  Additionally, one of the most challenging factors limiting market growth for ultracapacitors is their high cost, of which activated carbon accounts for 27%. Coulometrics' treatment applied to inexpensive water filtration carbon, also developed in Phase I, has shown very similar performance enhancements, and will cost up to 95% less than commercial activated carbon materials.  The surface modification process for graphitic carbons will enable the low cost and high quality production of carbon anode materials for lithium ion batteries based on natural graphite.  This breakthrough can significantly reduce lithium ion battery cost which is a key element for more wide spread adoption of electric vehicles which will help reduce our nation's dependence on the need to import foreign oil.
-  awardeeAddress: 100 Cherokee Boulevard
-  awardeeCity: Chattanooga
-  awardeeCountryCode: US
-  awardeeName: Coulometrics
-  awardeeStateCode: TN
-  awardeeZipCode: '374053860'
-  fundsObligatedAmt: '649434'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1430918'
-  piEmail: ebuiel@coulometrics.com
-  piFirstName: Edward
-  piLastName: Buiel
-  piMiddeInitial: R
-  piPhone: '4239547766'
-  poName: Rajesh Mehta
-  date: 09/02/2014
-  startDate: 10/01/2014
-  expDate: 09/30/2016
-  title: 'SBIR Phase II:  The Development of Higher Voltage, Longer Life and Lower
-    Cost Activated Carbon Materials for Supercapacitors'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase I project aims to develop a novel soft magnetic material for electric motor cores, a fabrication process to make components from the material, and an electric motor configuration leveraging the benefits of the material and fabrication process. The approach is to utilize a new single-step net-shape fabrication technique based on uniform-droplet spray deposition in a reactive atmosphere to produce an isotropic metal microstructure characterized by small domains of high permeability and low coercivity with a controlled formation of insulation boundaries that limit electrical conductivity between neighboring domains.  This design is expected to provide a superior magnetic path while minimizing losses due to eddy currents, and eliminating design constraints associated with anisotropic laminated cores of conventional motors.
-
-    The broader/commercial impact of this project will be the potential to provide spray-formed winding cores for hybrid-field motors to increase output, improve efficiency and reduce material scrap during fabrication, thus lowering the cost of electric motors. Considering the extensive use of electric motors in numerous applications, including industrial machinery and automation, robotics, heating, ventilation and air conditioning systems, appliances, power tools, medical devices, automotive applications, electric vehicles, military equipment etc., there is an increasing need for electric motors with improved performance, higher efficiency, and lower cost. This project is expected to have a significant commercial and environmental impact by providing low-cost and high-efficiency electric motor cores.
-  awardeeAddress: 200 Harvard Mill Square
-  awardeeCity: Wakefield
-  awardeeCountryCode: US
-  awardeeName: Persimmon Technologies Corporation
-  awardeeStateCode: MA
-  awardeeZipCode: 018803239
-  fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1113202'
-  piEmail: mhosek@persimmontech.com
-  piFirstName: Martin
-  piLastName: Hosek
-  piPhone: '9783873219'
-  poName: Ben Schrag
-  date: 04/28/2011
-  startDate: 07/01/2011
-  expDate: 12/31/2011
-  title: 'SBIR Phase I:  Spray-Formed Soft Magnetic Material for Efficient Hybrid-Field
-    Electric Machines'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project aims to develop a novel soft magnetic material and fabrication process for magnetic circuits of electric machines, such as winding cores of electric motors. The technology utilizes a unique single-step near net-shape fabrication process based on metal spray deposition to produce an isotropic metal microstructure characterized by small domains with high permeability, high saturation and low coercivity with a controlled formation of insulation boundaries that limit electric conductivity between neighboring domains. The resulting material provides an excellent three-dimensional magnetic path while minimizing energy losses associated with eddy currents. It can replace anisotropic laminated winding cores, which currently constrain the design of conventional electric motors to geometries with two-dimensional magnetic paths. As a further objective of the project, a new hybrid-field motor topology, with three-dimensional magnetic paths enabled by the proposed material and fabrication process, is being developed.
-
-    The broader impact/commercial potential of this project is to enable production of electric motors with improved performance and efficiency while reducing cost and material scrap associated with manufacturing of motor winding cores. Electric motors are used extensively in a growing number of applications, including robotics, semiconductor and LED process equipment, industrial automation, electric vehicles, heating, ventilation and air conditioning systems, appliances, power tools, medical devices, and military and space exploration applications.  These markets drive an increasing demand for electric motors with improved performance, higher efficiency, and lower cost. Considering the extensive use of electric motors globally, the disruptive change resulting from the proposed hybrid-field motor technology with spray-formed winding cores is expected to provide significant commercial, societal and environmental benefits, including improved manufacturing efficiency, waste reduction, and energy conservation.
-  awardeeAddress: 200 Harvard Mill Square
-  awardeeCity: Wakefield
-  awardeeCountryCode: US
-  awardeeName: Persimmon Technologies Corporation
-  awardeeStateCode: MA
-  awardeeZipCode: 018803239
-  fundsObligatedAmt: '1027658'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1230458'
-  piEmail: mhosek@persimmontech.com
-  piFirstName: Martin
-  piLastName: Hosek
-  piPhone: '9783873219'
-  poName: Rajesh Mehta
-  date: 08/31/2012
-  startDate: 09/01/2012
-  expDate: 08/31/2015
-  title: 'SBIR Phase II:  SBIR Phase II Spray-Formed Soft Magnetic Material for Efficient
-    Hybrid-Field Electric Machines'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase I project proposes to develop a hydraulic regenerative shock absorber and charge system for hybrid trucks. An appreciable amount of energy is lost in a typical suspension as heat, especially in heavy vehicles. Existing technologies have been unable to efficiently capture this energy in a cost-effective manner. This project will entail the modeling, design, fabrication, and testing of a hydraulic-electric energy harvesting unit, along with the power electronics and energy storage subsystem to charge hybrid truck batteries. The objective of the project is to study and prove the feasibility of a regenerative shock absorber as a disruptive hydraulic energy harvesting mechanism on heavy trucks. Emphasis will be on the specific challenges of converting high force small amplitude oscillations into electricity that can interface with hybrid charge systems. Work will focus on a proof-of-concept demonstration and a determination of the increased efficiency possible on a hybrid vehicle using the internal piston/integrated-generator regenerative shock absorber mechanism.
-
-
-    The broader impact/commercial potential of this project is significant as the foundational technology can be applied to a wide range of vehicles, systems and industrial applications in diverse industries. The technology has the potential to save millions of dollars per year in fuel for fleet operators, and simultaneously reduce carbon emissions across the United States. Hybrid vehicles traditionally have a single energy regeneration source (braking) to charge batteries. Effectively incorporating a secondary regenerative charge system may open doors to many new regenerative technologies that work in unison to charge hybrid vehicle batteries, thus allowing for significant reductions in waste energy. The market potential for the technology is considerable, and includes trucks, military vehicles, transit buses, passenger vehicles, and rail. When incorporated into conventional non-hybrid platforms, the technology can improve fuel economy by displacing alternator load. In addition to vehicular applications, the research may, on a broader scale, lead to enabling technologies for compact, sealed, and efficient hydraulic actuators and energy harvesters. This will have applications in other fields such as aviation, industrial machinery, and robotics.
-  awardeeAddress: 475 Wildwood Ave
-  awardeeCity: Woburn
-  awardeeCountryCode: US
-  awardeeName: Levant Power Corporation
-  awardeeStateCode: MA
-  awardeeZipCode: 018012027
-  fundsObligatedAmt: '180000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1014124'
-  piEmail: zack@levantpower.com
-  piFirstName: Zackary
-  piLastName: Anderson
-  piPhone: '6173130919'
-  date: 05/17/2010
-  startDate: 07/01/2010
-  expDate: 06/30/2011
-  title: 'SBIR Phase I:  Integrated Hydraulic Suspension Energy Recovery System for
-    Hybrid Trucks'
-- abstractText: |-
-    The broader impact/commercial potential of this project is expected to be realized in two principal areas. There have been extensive efforts to mask hydraulic noise, but the proposed effort is directed at eliminating the hydraulic ripple before it is created at the source. Traditional passive methods of masking noise are insufficient because they work effectively only in a limited operating range. This is inadequate because hydraulic systems typically must operate over a wide range of speed and loads. First this project is expected to make hydraulic active suspension systems quieter, more responsive and robust and, therefore, more readily and widely adopted by industry. The resulting likely increased use of active suspension systems will, therefore, have the added societal benefit of improved vehicle safety and comfort. This project is also expected to have a much wider impact on the hydraulic noise that has been a chronic pain point for the hydraulics industry for decades. It will allow for the manufacture of quieter and more durable hydraulic pumps for many applications beyond active suspension.
-
-
-    This Small Business Innovation Research (SBIR) Phase I project is an investigation of the feasibility of using an active buffer to eliminate flow ripple from a hydraulic pump, such as a gerotor pump. In a representative hydraulic system, the gerotor pump is at the heart of an advanced electro-hydraulic, active suspension actuator. Due to their geometry, positive displacement pumps provide small fluctuations in their fluid flow rate at a constant pump RPM. These small changes in flow rate create pressure fluctuations that can create significant mechanical movement that results in objectionable or unhealthy noise. The proposed effort is directed specifically at mitigating acoustic and structural vibration noise caused by such a pump. The proposed effort will utilize a combination of advanced experimental and computer simulation techniques to demonstrate the viability of the approach in the representative hydraulic system (an active suspension actuator). Hydraulic system noise is a widespread pain point in numerous applications involving hydraulic pumps. A key difficulty with hydraulic pumps is that they are often required to perform over a wide range of speeds and pressures. Conventional noise control devices typically can only be optimized for a relatively narrow portion of this range.
-  awardeeAddress: 475 Wildwood Ave
-  awardeeCity: Woburn
-  awardeeCountryCode: US
-  awardeeName: Levant Power Corporation
-  awardeeStateCode: MA
-  awardeeZipCode: 018012027
-  fundsObligatedAmt: '149804'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1549239'
-  piEmail: jack@levantpower.com
-  piFirstName: Jack
-  piLastName: Ekchian
-  piPhone: '6174535361'
-  poName: Rajesh Mehta
-  date: 12/21/2015
-  startDate: 01/01/2016
-  expDate: 07/31/2016
-  title: 'SBIR Phase I:  Feed Forward Hydraulic Ripple Cancellation'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase II project proposes
-    to develop a fully functional turnkey regenerative semi-active shock absorber
-    for heavy-duty transit buses and other commercial vehicles. An appreciable amount
-    of energy is lost in a typical suspension as heat, especially in heavy vehicles.
-    Existing technologies have been unable to efficiently capture this energy in a
-    cost-effective manner. This project entails hydraulic and electronic model optimization,
-    design of vehicle-ready prototypes, fabrication, lab testing, installation, and
-    operational testing of a hydraulic adaptive damping energy harvesting system.
-    The objective of the project is to demonstrate real-world benefits of an efficient,
-    adjustable damping regenerative shock absorber on a transit bus in operation with
-    a municipal transit agency. Emphasis will be on efficiency improvements, semi-active
-    ride control, and application specific integration requirements to ensure seamless
-    installation and operation. Work will culminate in a fully fielded pilot demonstration
-    and quantification of regenerated energy (improved fuel efficiency) and ride improvement
-    benefits using the regenerative semi-active shock absorber.     \n\n\nThe broader
-    impact/commercial potential of this project is significant if the challenges of
-    inexpensively, reliably, and efficiently capturing suspension energy are overcome.
-    The technology has the potential to save millions of dollars per year in fuel
-    for large fleets, and significantly reduce carbon emissions in the United States
-    and abroad. Effectively incorporating an aftermarket or OEM retrofit-able regenerative
-    energy capture system may open doors to many new regenerative technologies in
-    the transportation and automotive sector, facilitating significant reductions
-    in waste energy. In addition, the research may lead to enabling technology for
-    compact, sealed, and efficient hydraulic actuators and energy harvesters across
-    several industrial applications. This may have applications in other fields such
-    as off grid marine (hydrokinetic) energy, aerospace actuators, heavy machinery
-    dampers, orthotics/prosthetics, and robotics."
-  awardeeAddress: 475 Wildwood Ave
-  awardeeCity: Woburn
-  awardeeCountryCode: US
-  awardeeName: Levant Power Corporation
-  awardeeStateCode: MA
-  awardeeZipCode: 018012027
-  fundsObligatedAmt: '1100000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1127397'
-  piEmail: zack@levantpower.com
-  piFirstName: Zackary
-  piLastName: Anderson
-  piPhone: '6173130919'
+  id: '1555996'
+  piEmail: hawes@hummingbirdnano.com
+  piFirstName: Eleanor
+  piLastName: Hawes
+  piPhone: '8592254521'
   poName: Linda Molnar
-  date: 11/10/2011
-  startDate: 11/15/2011
+  date: 03/18/2016
+  startDate: 04/01/2016
+  expDate: 09/30/2018
+  title: 'SBIR Phase II:  Innovative Platform Technology for Rapid Three Dimensional
+    Fabrication of Capillary Electrophoresis Chips: Phase II Proposal'
+- abstractText: "This STTR Phase I project addresses the problem of embedded energy
+    in the manufacture of magnesium metal for use in vehicle light-weighting. Improving
+    fuel economy by incorporation of light metals, especially magnesium, does not
+    save on total lifecycle energy consumed if the magnesium was produced using conventional
+    methods. The most energy efficient production method known is a process technology
+    that was commercially viable during the 2nd World War but not at any other time
+    in history. The project innovation is based on reinvestigation and reinvention
+    of this dated process, discovering and addressing the reasons for technical and
+    economic failure. Domestic magnesium production using the proposed state-of-the-art
+    energy-efficient practices will lead to opportunity and growth for downstream
+    manufacturing methods that support a wide range of military, industrial, and consumer
+    products such as car parts, electronic devices, titanium production, and canned
+    beverages. The economic and environmental benefits of the innovation in the long
+    term will be ever more prescient given the unprecedented rise in use of magnesium
+    metal over the past 100 years and expected continuance of this rate of adoption.\n
+    \n\nProduction of magnesium using carbothermic chemistry can be realized at temperatures
+    below 1250 degree C using a combination of three operational parameters: 1) reduced
+    pressure atmosphere, 2) addition of a catalytic material, and 3) extensive size
+    reduction of the reactant materials. In conjunction with a continuous condensation
+    and collection system, magnesium produced from this process entails at least a
+    50% reduction in energy consumption and greenhouse gas emissions compared to the
+    predominant Pidgeon process. The project will employ a variety of high temperature
+    experimental systems and methods to investigate performance of pelletized reactant
+    materials and obtain recovered metal yields above 85%. An optimized composition
+    will be statistically determined and used in a low-temperature prototype reactor
+    system for continuous production of crude magnesium. The goal of the project is
+    to produce a casted magnesium product and prove the reduction of energy intensity
+    and economic feasibility with a techno-economic analysis."
+  awardeeAddress: 10526 W 106TH Pl
+  awardeeCity: Westminster
+  awardeeCountryCode: US
+  awardeeName: Big Blue Technologies LLC
+  awardeeStateCode: CO
+  awardeeZipCode: '800213604'
+  fundsObligatedAmt: '225000'
+  fundProgramName: STTR PHASE I
+  id: '1622824'
+  piEmail: palumbo@bigbluetec.com
+  piFirstName: Aaron
+  piLastName: Palumbo
+  piPhone: '9706923384'
+  poName: Rajesh Mehta
+  date: 06/24/2016
+  startDate: 07/01/2016
+  expDate: 06/30/2017
+  title: 'STTR Phase I:  Continuous Production and Collection of Magnesium via Carbothermal
+    Reduction'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Technology Transfer Research (STTR) Phase II project stems from addressing the problem of embedded energy in the manufacture of magnesium metal for use in vehicle light-weighting. Improving fuel economy by incorporation of the lightest structural metal, magnesium, does not save on total lifecycle energy consumed if the magnesium was produced using conventional methods. The most energy efficient and economical production method is known is a process technology that was commercially viable during World War II but not at any other time in history. The project innovation reinvestigates and reinvents this dated process, discovering the reasons for technical and economic failure. Domestic magnesium production using state-of-the-art energy-efficient practices will lead to opportunity and growth for downstream manufacturers that support a wide range of military, industrial, and consumer products such as car parts, electronic devices, titanium and steel production, and canned beverages. The economic and environmental benefits of the innovation in the long term will be ever more prescient given the unprecedented rise in use of magnesium metal over the past 100 years. This innovation creates a clean and economic route to magnesium production, helping to reinvigorate light metals industries within the U.S.
+
+    The intellectual merit of this project is derived from a new paradigm in the condensation of magnesium metal gas produced by carbothermal reduction of magnesium oxide. Previously, shock cooling through a meta-stable temperature range was employed, generating pyrophoric powders that are dangerous and difficult to handle. This Phase II research uses both rapid cooling and controlled heterogeneous condensation for the formation of robust, oxidation resistance magnesium condensate. This process is executed in a novel and continuous condenser for high metal throughput. This effort is also made possible through the development of a reduction reactor technology that operates under milder conditions than previously used while maintaining high production rates. Total plant energy consumption will be at least 50% less than the dominant incumbent process. The Phase II project will result in a scaled ore-to-ingot pilot facility for the manufacture of magnesium metal as a raw material into manufacturing processes. Product quality, process feasibility, and proven scale-up will be demonstrated.
+  awardeeAddress: 6710 W 112TH PL
+  awardeeCity: Westminster
+  awardeeCountryCode: US
+  awardeeName: Big Blue Technologies LLC
+  awardeeStateCode: CO
+  awardeeZipCode: '800203040'
+  fundsObligatedAmt: '750000'
+  fundProgramName: STTR PHASE II
+  id: '1738536'
+  piEmail: palumbo@bigbluetec.com
+  piFirstName: Aaron
+  piLastName: Palumbo
+  piPhone: '9706923384'
+  poName: Linda Molnar
+  date: 09/19/2017
+  startDate: 09/15/2017
+  expDate: 11/30/2019
+  title: 'STTR Phase II:  Continuous Production and Collection of Magnesium via Carbothermal
+    Reduction'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase I project is to develop a novel, intraoperative imaging
+    technology to addresse the problem of inadvertent cuts to vasculature during minimally
+    invasive surgeries. Patients who suffer vascular injury face increased risks of
+    developing nosocomial infections and, in up to 32% of cases, mortality. These
+    patients are burdened with longer hospital stays and corrective procedures that
+    add tens of thousands of dollars to their healthcare expenses. This is compounded
+    by obesity, a risk factor that is associated with higher rates of conversion from
+    minimally invasive to open surgery due to limitations in the surgeon?s ability
+    to visualize and navigate vasculature. Hence, there is a critical need to identify
+    and assess hidden vasculature in real time. The proposed technology provides users
+    with blood vessel visualization and size metrics before a cut is made. Importantly,
+    this system will be designed for seamless integration into a suite of surgical
+    instruments for multiple applications. Long term, the company aims to provide
+    surgeons with the preeminent imaging platform to view, assess, and characterize
+    a range of vessels (i.e. arteries/veins, ureters and bile ducts) in real-time
+    for improved surgical guidance and outcomes. \n\nThe proposed project will develop
+    a novel blood vessel detection and visualization platform using low-cost optical
+    imaging sensors and light-emitting diodes (LEDs). The proposed technology will
+    provide visual and quantitative information about vessel presence and size in
+    real-time that can supplement a surgeon?s technique. This system will be simple,
+    cost-effective, easy to employ, and highly accurate, and will be based on science
+    similar to that found in pulse oximetry technology. Traditionally, the avoidance
+    of blood vessels during minimally invasive surgery is accomplished by visualization
+    or costly intraoperative imaging. The proposed technology will use pulsatile light
+    absorption characteristics of blood vessels to provide quantitative information
+    about vessel presence and size in real-time, supplementing a surgeon?s technique.
+    This project will also add significant value to the body of research conducted
+    in the areas of signal processing and image analysis. In addition, the proposed
+    technology will remove the risk of data loss due to artifacts in general and motion
+    artifacts in particular. The proposed technology will be validated ex vivo and
+    in vivo using a porcine animal model."
+  awardeeAddress: 4660 N Ravenswood Avenue
+  awardeeCity: Chicago
+  awardeeCountryCode: US
+  awardeeName: BriteSeed, LLC
+  awardeeStateCode: IL
+  awardeeZipCode: '606404510'
+  fundsObligatedAmt: '174997'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1520502'
+  piEmail: j.w.gunn@briteseed.com
+  piFirstName: Jonathan
+  piLastName: Gunn
+  piMiddeInitial: W
+  piPhone: '2063840311'
+  poName: Jesus Soriano Molla
+  date: 06/22/2015
+  startDate: 07/01/2015
   expDate: 04/30/2016
-  title: 'SBIR Phase II:  Integrated Hydraulic Suspension Energy Recovery System for
-    Heavy Vehicles'
+  title: 'SBIR Phase I:  Label-free imaging for real-time, intraoperative blood vessel
+    visualization'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase I project is to develop a novel, intraoperative imaging
+    technology to address the problem of inadvertent cuts to vasculature during minimally
+    invasive surgeries. More than 17% of patients who undergo these types of in-patient
+    surgeries suffer from an intraoperative bleeding event. When a vessel is injured,
+    there is a higher probability of hospital borne infection due to the loss of blood,
+    and the added cost of care per patient increases by thousands of dollars due to
+    corrective action and extended length of stay for the patient. The risk of vascular
+    injury is compounded by risk factors, such as obesity, which limit the surgeon's
+    ability to visualize and navigate vasculature. Therefore, there is a critical
+    need to identify and assess hidden vasculature in real time. The proposed technology
+    helps identify blood vessel before a cut is made. Importantly, this system will
+    be designed for seamless integration into a suite of surgical instruments for
+    multiple applications. Long term, the company will provide surgeons with the preeminent
+    imaging platform to view, assess, and characterize a range of vessels (i.e. arteries/veins,
+    ureters and bile ducts) in real-time for improved surgical guidance and outcomes.
+    \n\nThe proposed project will develop a novel blood vessel detection and visualization
+    platform using low-cost optical imaging sensors and light-emitting diodes (LEDs).
+    The proposed technology will provide visual and quantitative information about
+    vessel presence and size in real-time that can supplement a surgeon's technique.
+    This system will be simple, cost-effective, easy to employ, and highly accurate.
+    Traditionally, the avoidance of blood vessels during minimally invasive surgery
+    is accomplished by visualization or costly intraoperative imaging. The proposed
+    technology will use pulsatile light absorption characteristics of blood vessels
+    to provide quantitative information about vessel presence and size in real-time,
+    supplementing a surgeon's technique. This project will also add significant value
+    to the body of research conducted in the areas of signal processing and image
+    analysis. In addition, the proposed technology will remove the risk of data loss
+    due to artifacts in general and motion artifacts in particular. The proposed technology
+    will be validated ex vivo and in vivo using a porcine animal model."
+  awardeeAddress: 4660 N Ravenswood Avenue
+  awardeeCity: Chicago
+  awardeeCountryCode: US
+  awardeeName: BriteSeed, LLC
+  awardeeStateCode: IL
+  awardeeZipCode: '606404510'
+  fundsObligatedAmt: '925981'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1660240'
+  piEmail: j.w.gunn@briteseed.com
+  piFirstName: Jonathan
+  piLastName: Gunn
+  piMiddeInitial: W
+  piPhone: '2063840311'
+  poName: Linda Molnar
+  date: 05/19/2017
+  startDate: 05/15/2017
+  expDate: 10/31/2019
+  title: 'SBIR Phase II:  Label-free imaging for real-time, intraoperative blood vessel
+    visualization'
+- abstractText: |-
+    This SBIR Phase I project addresses the lack of materials available for advanced 3D printing. 3D printing is and will likely be used to produce products that encompass every aspect of day-to-day life. Current technology is primarily focused on the aerospace and medical fields. New metallic materials and more efficient processing methods are needed to transition to other more ubiquitous markets. This project is aimed at broadening the materials selection through a new production technique that complements existing technologies. The growth of the 3D printing industry will bring very competitive manufacturing jobs back to The United States.
+
+
+    This project will investigate the feasibility of an innovative reactive additive manufacturing (RAM) process to create a range of materials including nickel metal matrix composites, tungsten carbide composites, and nickel titanium intermetallic compounds. Each material system will be designed, fabricated, and characterized for a range of properties including microstructure, product phases, density, porosity, and hardness. For each of the three materials systems, the iterative development process will include modification of composition and process parameters to determine their effect on the material microstructure and properties and determine the feasibility of the RAM process to produce each material type commercially. The expected outcome of this activity is that the RAM process will be proven feasible for one or more of the investigated materials systems. The results of this work will be developed further and will subsequently lead to commercialization and sales of the novel materials mixtures and RAM process parameters for use in commercial powder bed fusion additive manufacturing systems already in use.
+  awardeeAddress: 405 Young Ct
+  awardeeCity: Erie
+  awardeeCountryCode: US
+  awardeeName: Sinter Print Inc
+  awardeeStateCode: CO
+  awardeeZipCode: '805162401'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1647373'
+  piEmail: jacob@elementum3d.com
+  piFirstName: Jacob
+  piLastName: Nuechterlein
+  piMiddeInitial: S
+  piPhone: '7205459013'
+  poName: Rajesh Mehta
+  date: 11/30/2016
+  startDate: 12/01/2016
+  expDate: 05/31/2017
+  title: 'SBIR Phase I:  Reactive Additive Manufacturing'
+- abstractText: |-
+    This SBIR Phase II project will address the lack of high application temperature materials available for additive manufacturing. Additive manufacturing, often called 3D printing, provides increased design freedom and complex features such as part consolidation and conformal cooling channels. The performance and efficiency of gas turbines and other applications can be increased by combining design improvements enabled by additive manufacturing with a suitable high temperature material. Unfortunately, existing materials either do not have sufficient high temperature performance or are not compatible with high quality printing methods. This project will develop new nickel superalloy composite additive manufacturing materials for use with high temperature gas turbine components. Successful completion of this project will result in more efficient turbines to reduce energy costs, transportation costs, and carbon emissions. The manufacturing, power generation, and aerospace industries are expected to be impacted from this project. In addition, history has demonstrated that new materials and manufacturing technologies often lead to additional unexpected innovations. This project will help the country lead in the innovation of high performance materials technology to address the needs of the $86 billion gas turbine market and to grow advanced manufacturing jobs in the US.
+
+
+
+    This project will utilize innovative reactive additive manufacturing materials technology to develop 3D printable advanced high temperature superalloys. During additive fabrication, high melting temperature product phases will be synthesized in-situ within a superalloy matrix to significantly improve high temperature performance and improve printability. This innovative reactive additive manufacturing technology has been shown to be applicable to a wide range of materials systems including nickel superalloys in an NSF Phase I project. Metal matrix composites produced using this technology have demonstrated greatly increased strength, wear resistance, and high temperature performance relative to comparable traditional alloys. In addition, this technology has demonstrated the ability to eliminate micro and macro cracking problems with alloys that had previously been considered unprintable. This project aims to further develop one or more high temperature superalloys compatible with laser powder bed fusion additive manufacturing for use in the hot sections of gas turbines. The scope of the project includes theoretical and experimental development and evaluation of novel material feedstocks, additive manufacturing processing conditions, and heat treatments. Evaluation of printed components will include measurement of density, hardness, standard and high temperature tensile properties, creep, and microstructure and phase analysis. Turbine components will be additively fabricated for pilot studies.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 405 Young Ct
+  awardeeCity: Erie
+  awardeeCountryCode: US
+  awardeeName: Sinter Print Inc
+  awardeeStateCode: CO
+  awardeeZipCode: '805162400'
+  fundsObligatedAmt: '893092'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1758865'
+  piEmail: jacob@elementum3d.com
+  piFirstName: Jacob
+  piLastName: Nuechterlein
+  piMiddeInitial: S
+  piPhone: '7205459013'
+  poName: Linda Molnar
+  date: 02/26/2018
+  startDate: 03/01/2018
+  expDate: 02/29/2020
+  title: 'SBIR Phase II:  Reactive Additive Manufacturing of Advanced Superalloys
+    for Turbine Engines'
 - abstractText: "This Small Business Innovation Research Phase I project will address
     the challenge of retrofit cleaning and pretreatment of steam condenser tubes prior
     to the deposition of a performance-enhancing coating. By eliminating the buildup
@@ -2398,105 +2383,6 @@
   startDate: 09/15/2016
   expDate: 02/28/2019
   title: 'SBIR Phase II:  Novel Treatment for Stress Urinary Incontinence'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) Phase I project will be to increase global access to vaccines
-    and reduce mortality associated with infectious diseases.  As an example, Rotavirus
-    is a major cause of severe gastroenteritis among young children and lack of vaccination
-    results in 450,000 deaths annually.  A thermostable rotavirus vaccine would create
-    cost-savings for vaccine manufacturers, national governments, and non-profit vaccine
-    buyers and enable market access in areas of the world that lack sufficient cold-chain
-    capacity. Successful development of a stable rotavirus vaccine would not only
-    have significant positive impact on global rotavirus immunization efforts, but
-    may also revolutionize the general approach to vaccine delivery and distribution.
-    This Phase I project will advance understanding of silk-vaccine interactions,
-    which is needed to guide formulation development.  Furthermore, insight into the
-    immunogenicity of silk fibroin itself, as well as the impact of silk on the immunogenicity
-    of a vaccine antigen, will be gained in these studies. This technology has significant
-    commercial potential in that it can be broadly applied to numerous emerging and
-    existing vaccines in the $24 Billion global market.  \n\nThe proposed project
-    seeks to leverage the unique properties of silk to meet the global need for robust,
-    thermostable vaccines.  Thermal instability is a long-standing problem in vaccine
-    development. Despite efforts to improve stability, current formulation approaches
-    do not allow product storage under ambient conditions. Temperature excursions
-    during shipment and storage are common and result in wastage or administration
-    of suboptimal vaccines.  The use of silk fibroin, a low-cost biomaterial, represents
-    a novel approach to vaccine stabilization.  The goal of the proposed research
-    is to demonstrate feasibility of the silk-stabilization platform to create a rotavirus
-    formulation that does not require cold storage.  In addition to traditional liquid
-    and lyophilized vaccine formats, development of a dissolvable thin film strip
-    for oral delivery will be investigated.  The proposed research will identify lead
-    candidate silk-rotavirus formulations with improved thermostability and immunogenicity
-    that is at least equivalent to the existing commercial formulation, while offering
-    critical insight into broader issues of vaccine stabilization with silk."
-  awardeeAddress: 700 main street
-  awardeeCity: cambridge
-  awardeeCountryCode: US
-  awardeeName: Vaxess Technologies, Inc.
-  awardeeStateCode: MA
-  awardeeZipCode: 021391226
-  fundsObligatedAmt: '150000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1448195'
-  piEmail: Kathryn@vaxess.com
-  piFirstName: Kathryn
-  piLastName: Kosuda
-  piPhone: '8579280327'
-  poName: Jesus Soriano Molla
-  date: 12/08/2014
-  startDate: 01/01/2015
-  expDate: 12/31/2015
-  title: 'SBIR Phase I: Silk: A New Approach to Developing a Heat-stable Rotavirus
-    Vaccine'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) Phase II project will be to increase global access to vaccines
-    and reduce mortality associated with infectious diseases. As an example, Rotavirus
-    is a major cause of severe gastroenteritis among young children and lack of vaccination
-    results in 450,000 deaths annually. A thermostable rotavirus vaccine would create
-    cost-savings for vaccine manufacturers, national governments, and non-profit vaccine
-    buyers and enable market access in areas of the world that lack sufficient cold-chain
-    capacity. Successful development of a stable rotavirus vaccine would not only
-    have significant positive impact on global rotavirus immunization efforts, but
-    may also revolutionize the general approach to vaccine delivery and distribution.
-    This Phase II project will advance towards commercialization a novel platform
-    technology that both stabilizes vaccines and enables novel delivery formats. This
-    technology has significant commercial potential in that it can be broadly applied
-    to numerous emerging and existing vaccines in the $24 Billion global market. \n\nThe
-    proposed project seeks to leverage the unique properties of silk to meet the global
-    need for robust, thermostable vaccines. Thermal instability is a long-standing
-    problem in vaccine development. Despite efforts to improve stability, current
-    formulation approaches do not allow product storage under ambient conditions.
-    Temperature excursions during shipment and storage are common and result in wastage
-    or administration of suboptimal vaccines. The use of silk fibroin, a low-cost
-    biomaterial, represents a novel approach to vaccine stabilization. The goal of
-    the proposed research is to advance the silk-stabilization platform towards commercialization
-    of vaccines that do not require cold storage. Building upon successful Phase I
-    results, advanced formulation optimization studies will define a final product
-    formulation for rotavirus that is compatible with scaled manufacturing and achieves
-    all storage and in vivo attributes necessary for a commercial product. Through
-    process optimization studies, fabrication of a dissolvable thin strip for oral
-    delivery of rotavirus will be translated into a scalable manufacturing process
-    that provides an attractive alternative to traditional drying methods. Evaluation
-    of stabilized rotavirus vaccine films in an improved animal model will enable
-    validation of in vivo immunogenicity and offer insight into vaccine stabilization
-    and oral film delivery more broadly."
-  awardeeAddress: 700 main street
-  awardeeCity: cambridge
-  awardeeCountryCode: US
-  awardeeName: Vaxess Technologies, Inc.
-  awardeeStateCode: MA
-  awardeeZipCode: 021391226
-  fundsObligatedAmt: '909999'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1632434'
-  piEmail: Kathryn@vaxess.com
-  piFirstName: Kathryn
-  piLastName: Kosuda
-  piPhone: '8579280327'
-  poName: Linda Molnar
-  date: 09/20/2016
-  startDate: 10/01/2016
-  expDate: 03/31/2019
-  title: 'SBIR Phase II:  A New Approach to Developing a Heat-stable Rotavirus Vaccine'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to develop and commercialize a high resolution, protein-based retinal implant intended to restore vision to the millions of patients suffering from retinal degenerative diseases, particularly retinitis pigmentosa and age-related macular degeneration. These currently incurable and blinding diseases affect between 30-50 million people worldwide, and lead to a loss of independence for the individual, as well as an increased burden on their caregivers. Additionally besides the emotional and physical burden of vision loss, the cost of vision problems in the US alone is estimated at $139 billion. The work outlined in this SBIR proposal has the potential to significantly impact our understanding of retinal degenerative diseases, as well as the field of retinal prosthetics. The subretinal implant under development provides the framework for the next generation of high-resolution retinal prosthetics, while offering a cost-effective solution to vision restoration, and will help these patients regain independence and thus improve their quality of life.   ------------------
 
@@ -2573,86 +2459,54 @@
   expDate: 12/31/2018
   title: 'SBIR Phase II:  Design and Optimization of a Biocompatible Protein-Based
     Retinal Implant for the Treatment of End-Stage Retinal Degeneration'
-- abstractText: "This Small Business Innovation Research Phase I project focuses on
-    the development of a novel ultrasonic acoustophoretic separation technology that
-    is economic, efficient, sustainable, and environmentally benign.  Current technologies,
-    e.g., hydrocyclones, and membrane filtration, suffer from problems, such as high
-    cost of energy, use of consumables, fouling, and limited efficiency in separation
-    of micron-sized particles.  The proposed large volume flow rate acoustophoretic
-    separation technology does not generate waste, does not use consumables, operates
-    at a low cost of energy, and provides efficient separation for micron-size particles.
-    \ Ultrasonic standing waves are used to trap secondary phase particles in a fluid
-    stream, when the acoustic radiation force exerted on the particles is stronger
-    than the combined effect of fluid drag force and buoyancy.  The action of the
-    acoustic forces on the trapped particles results in concentration, agglomeration
-    and/or coalescence of particles and droplets.  Heavier than water particles are
-    separated through enhanced gravitational settling, and lighter particles through
-    enhanced buoyancy.  This project combines experiment and computer modeling to
-    probe the interaction between piezo-electric transducers and the acoustic field
-    to maximize the acoustic trapping potential and to provide results to create scalable
-    systems and economic models of capital and operational expense of the technology.
-    \ \n\nThe broader impact/commercial potential of this project is that the novel
-    acoustophoretic separation technology provides for a cheaper and lower cost of
-    energy separation of multi-component phase mixtures.  It can function as a drop-in
-    replacement for conventional separation technology, such as hydrocyclones and
-    other methods.   The societal impact is the development of separation technologies
-    that are sustainable and environmentally benign since they do not generate any
-    waste or use consumables.  Enhanced extraction of micron-sized oil droplets from
-    water offer opportunities for enhanced oil recovery and oil-spill cleanup and
-    reduce the emission of micron-sized oil droplets into the environment.  This project
-    increases the science and technology of acoustic radiation force in ultrasonic
-    standing waves.  A full three-dimensional accounting of the acoustic radiation
-    force in realistic geometries will be done.  Dissemination of this work will be
-    done by publishing our results in peer reviewed journals and conferences.  This
-    project provides several internships to undergraduate engineering students, an
-    opportunity to learn and practice engineering, innovation, and entrepreneurship
-    at a small start-up company.  FD Sonics has a strong history and commitment to
-    integrating undergraduate students in the development of their technology through
-    offering internships and providing supervision for senior capstone design projects."
-  awardeeAddress: 380 Main Street
-  awardeeCity: Wilbraham
-  awardeeCountryCode: US
-  awardeeName: Flodesign Sonics Inc.
-  awardeeStateCode: MA
-  awardeeZipCode: 010951639
-  fundsObligatedAmt: '148750'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1215021'
-  piEmail: j.dionne@fdsonics.com
-  piFirstName: Jason
-  piLastName: Dionne
-  piMiddeInitial: P
-  piPhone: '2076539299'
-  poName: Prakash Balan
-  date: 06/13/2012
-  startDate: 07/01/2012
-  expDate: 12/31/2012
-  title: 'SBIR Phase I:  A novel economic, efficient, environmentally benign, and
-    sustainable multi-component separation technology based on acoustophoresis'
 - abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project focuses on a novel ultrasonic acoustophoretic separation technology that is economic, efficient, sustainable, and environmentally benign.  Current technologies, e.g., hydrocyclones, and membrane filtration, suffer from problems, such as high energy costs, use of consumables, fouling, and limited efficiency in separation of micron-sized particles.  The proposed technology does not generate waste, does not use consumables, operates at a low energy cost, and provides efficient separation for micron-size particles.  Ultrasonic standing waves are used to trap secondary phase particles in a fluid stream, when the acoustic radiation force exerted on the particles is stronger than the combined effect of fluid drag and buoyancy.  The action of the acoustic forces on the trapped particles results in agglomeration and/or coalescence of particles and droplets.  Heavier than water particles are separated through enhanced gravitational settling, and lighter particles through enhanced buoyancy.  During Phase I, successful prototypes were designed with a separation efficiency of more than 90% of a 1000 ppm emulsion at flow rates of 2500 Liters per minute.  Phase II focuses on the development of a system capable of processing 4 gpm, with fully integrated customized electronics, and testing of the system on real-world emulsions.
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to remove organic pollutants using newly developed adsorbent materials derived from cyclodextrins. The chemical contamination of water resources due to agricultural, industrial, and human activities is known to have adverse effects on the environment, especially aquatic ecosystems, and human health. Currently utilized adsorbents, particularly activated carbons, typically have limitations in removing micropollutants effectively at environmentally relevant concentrations, ranging from parts per trillion (ppt) to parts per billion (ppb). This project will focus on the fundamental development and manufacture of polymer adsorbents from building blocks derived from corn starch that rapidly sequester many pollutants more effectively than activated carbons. These polymers exhibit tiny pores and high surface areas, and are structurally programmable to target specific contaminants and separation challenges. Current water filtration systems found in homes, hospitals, industrial settings, and municipal wastewater treatment sites will benefit from these activities.
 
-    The broader impact/commercial potential of this project is that the novel acoustophoretic separation technology provides for a cheaper and lower cost of energy separation of multi- component phase mixtures.  It can function as a drop-in replacement for conventional separation technology, such as hydrocyclones and other methods.   The societal impact is the development of separation technologies that are sustainable and environmentally benign since they do not generate any waste or use consumables.  Enhanced extraction of micron-sized oil droplets from water offer opportunities for enhanced oil recovery and oil-spill cleanup and reduce the emission of micron-sized oil droplets into the environment. This project increases the science and technology behind the use of acoustic radiation force on large volume flow rate. Full numerical models will be created to use in conjunction with experimental results. Dissemination of this work will be done by publishing our results in peer reviewed journals and conferences.  This project provides several internships to undergraduate engineering students, an opportunity to learn and practice engineering, innovation, and entrepreneurship at a small start-up company.  FloDesign Sonics has a strong history and commitment to integrating undergraduate students in the development of their technology through offering internships and providing supervision for senior capstone design projects.
-  awardeeAddress: 380 Main Street
-  awardeeCity: Wilbraham
+    This SBIR Phase I project will develop a sustainable materials solution to address the problem of emerging organic contaminants in water. Promising materials are derived from a cyclodextrin monomer and a crosslinker, which react to provide a rigid porous network. Materials derived from this approach remove contaminants from water more effectively than leading adsorbents, such as activated carbons. Previously, initial polymers were prepared at laboratory scales in relatively low yields. The objective of this proposal is to develop polymerization conditions that provide high yields and are amenable to large-scale manufacturing processes, while maintaining the pollutant removal performance of the polymer. This objective will require a systematic study of reaction conditions to minimize side reactions and maximize polymerization efficiency. Structural characterization using various spectroscopies and porosimetry will be used to evaluate the polymerization process as a function of the reaction conditions. The polymer's ability to bind pollutants will also ensure that improved yields still maintain performance. Determining the optimal polymerization conditions and processing protocols will be critical for validating the technical feasibility of the proposed porous cyclodextrin polymer and will also be criteria for the success of this SBIR Phase I project.
+  awardeeAddress: '171 Saxony Road,  #208'
+  awardeeCity: Encinitas
   awardeeCountryCode: US
-  awardeeName: Flodesign Sonics Inc.
-  awardeeStateCode: MA
-  awardeeZipCode: 010951639
-  fundsObligatedAmt: '1486654'
+  awardeeName: CycloPure, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '920240000'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1721809'
+  piEmail: gbarin@cyclopure.com
+  piFirstName: Gokhan
+  piLastName: Barin
+  piPhone: '7735640937'
+  poName: Anna Brady-Estevez
+  date: 07/10/2017
+  startDate: 07/01/2017
+  expDate: 12/31/2017
+  title: 'SBIR Phase I:  Porous Cyclodextrin Polymers: A Sustainable and Highly Effective
+    Platform for Water Treatment'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to provide a solution to the problem of drinking water contamination by developing an advanced adsorbent for point-of-use/home filtration applications. Micropollutants, pharmaceutical residues, pesticides, industrial chemicals and other organic compounds present in water resources at trace concentrations of one part per billion and less, are recognized as a major factor of contamination. Consumers around the world no longer trust the safety of their drinking water due to the presence of micropollutants and other contaminants. These compounds are pervasive and can present toxicity at trace concentrations. As a result, consumers have significantly increased the non-sustainable use of plastic bottled water, now a $260 billion market. Current point-of-use filtration products are primarily designed to improve taste and odor, and are generally ineffective in removing micropollutants. CycloPure's technology has been developed specifically to target and remove micropollutants from water. This project focuses on the further development of the company's cyclodextrin adsorbent to improve the effectiveness of point-of-use filters. This material can be used as a drop-in replacement without changes in filter design. CycloPure's materials will allow households to safely use readily available tap water.
+
+    This SBIR Phase II project proposes to identify strategies to develop a suitable form factor to incorporate CycloPure's high-affinity cyclodextrin adsorbent into point-of-use filters. The company's adsorbent is formed by reacting cyclodextrins, which are derived from corn starch, with readily available monomers in a single step process. During the Phase I period of this project, scalable reaction conditions were identified for production of the adsorbent in powder form. Flow-through applications, such as gravity filters, frequently require granular particles to achieve desired flow rates. Early activities will focus on the preparation of the adsorbent in granular form to demonstrate scalability and retention of removal performance similar to powder form. Thereafter, column studies will be performed in order to assess the removal performance of granular media under flow-through conditions at environmentally relevant micropollutant concentrations. Following identification of adsorption characteristics and appropriate flow conditions, a prototype point-of-use filter will be constructed and tested for the removal of micropollutants from tap water using advanced analytical techniques, including a combination of target and non-target screening approaches.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: '171 Saxony Road,  #208'
+  awardeeCity: Encinitas
+  awardeeCountryCode: US
+  awardeeName: CycloPure, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '920240000'
+  fundsObligatedAmt: '725665'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1330287'
-  piEmail: k.chitale@fdsonics.com
-  piFirstName: Kedar
-  piLastName: Chitale
-  piMiddeInitial: C
-  piPhone: '4135965900'
-  poName: Ben Schrag
-  date: 08/19/2013
-  startDate: 09/01/2013
-  expDate: 02/28/2019
-  title: 'SBIR Phase II:  A novel economic, efficient, environmentally benign, and
-    sustainable multi-component separation technology based on acoustophoresis'
+  id: '1831206'
+  piEmail: gbarin@cyclopure.com
+  piFirstName: Gokhan
+  piLastName: Barin
+  piPhone: '7735640937'
+  poName: Anna Brady-Estevez
+  date: 09/04/2018
+  startDate: 09/01/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  High-Affinity Cyclodextrin Polymers for Point-of-Use Filtration
+    Products'
 - abstractText: |-
     This Small Business Innovative Research Phase I project is aimed at demonstrating that acyl glycinate surfactant can be produced by a novel bacterial fermentation route. The objective of this project is to construct a bacterial strain that produces acyl glycinate, and to provide a sample of that surfactant for commercial evaluation. A successful outcome will demonstrate that acyl glycine can be produced by fermentation. Surfactants are the bubbly components of cleaning products that give them their cleansing power. Surfactants are currently manufactured from petroleum or from seed oils, such as palm oil. The use of those raw materials increases greenhouse gas pollution and also leads to deforestation of rainforests. Retailers are demanding greener products, and regulatory agencies are demanding new minimally toxic chemicals. The demand for greener chemicals creates an opportunity to replace current surfactants with greener alternatives.
 
@@ -2969,133 +2823,56 @@
   expDate: 08/31/2018
   title: 'SBIR Phase II:  Enzyme-based Magnetic Catalysts for Active Pharmaceutical
     Intermediates (APIs) Manufacturing'
-- abstractText: "This Small Business Innovation Research Program (SBIR) Phase I project
-    explores a transformational visibly transparent photovoltaic (PV) device. Building-integrated
-    photovoltaics (BIPV) are a promising energy pathway to capturing large areas of
-    solar energy and increasing U.S. building efficiency at the point of utilization.
-    However, the widespread adoption of such technologies is severely hampered by
-    the cost and aesthetics associated with mounting traditional PV modules on siding
-    and windows. Here, these challenges are overcome by exploiting the excitonic character
-    of molecular and organic semiconductors that lead to \"oscillator bunching\" to
-    produce PV architectures with selective absorption, i.e. exhibiting visible minima
-    and ultra-violet (UV) and near-infrared (NIR) maxima, uniquely distinct from the
-    band-absorption of traditional inorganic semiconductors. By using excitonic molecular
-    semiconductors with structured absorption in the NIR/UV these devices are simultaneously
-    optimized for high power conversion efficiency, visible light transmission, and
-    color rendering index. Accordingly, the aim of this program is to reach relevant
-    size, lifetime, aesthetic, and form-factor objectives that will demonstrate the
-    feasibility of developing the proof-of-concept prototypes into a commercially
-    viable, transparent, PV window film that can be applied to glass surfaces at the
-    point of window fabrication or as a retrofit on existing windows. \n\n\nThe broader
-    impact/commercial potential of this project enables unprecedented freedom for
-    architectural PV adoption by maintaining the aesthetics of existing building materials
-    and the quality of natural indoor lighting: (1) increasing building efficiency
-    and energy independence by producing electricity at the point of utilization,
-    (2) reducing building cooling demands by rejecting infrared solar heat, supplementing
-    or replacing existing low-E and solar-control window coatings, and (3) achieving
-    low levelized energy costs by piggybacking on the installation, framing, and maintenance
-    of the existing building envelope. Installed window surface area in the U.S. equipped
-    with such films represents hundreds of terawatt-hours of potential energy, comprising
-    energy generation and energy savings. Moreover, this project will result in a
-    core knowledge from which future generations of transparent photovoltaic devices
-    and materials will be designed. Visibly transparent PVs are also amenable to seamless
-    energy harvesting within non-window surfaces such as electronic displays and mobile
-    electronic accessories, enhancing the functionality of those products without
-    impacting aesthetics or functionality. The deployment of transparent PVs, both
-    domestically and abroad, supports American efforts to maintain technological and
-    economic leadership in developing and implementing advanced technologies, by revolutionizing
-    the way electricity is generated and consumed."
-  awardeeAddress: 3696 Haven Ave, Suite B
-  awardeeCity: Redwood City
+- abstractText: "The broader impact/commercial potential of this STTR Phase I project
+    is to develop a new water flood technology to increase oil recovery.  The best
+    current technology is limited to 30 - 50% recovery leaving significant resources
+    in the ground.  The available methods to further increase recovery are expensive,
+    have limited application and can cause environmental damage.  The proposed method
+    is much lower cost and has minimal environmental impact.  Our technique does not
+    use chemicals or additives thus avoiding the risk of contaminating ground and
+    surface water resources.  Rather than drill thousands of new wells, our approach
+    revitalizes old fields and requires little modification to the existing infrastructure
+    and operational procedures.  It would allow older fields to continue to operate,
+    providing revenues, jobs and taxes while increasing and further diversifying our
+    domestic oil reserves.  Development of these currently unrecoverable oil resources
+    could enable long-term stabilization of oil prices at reasonable levels and offer
+    new business opportunities for small operators.  \n\nThis STTR Phase I project
+    proposes to measure the wettability in several petroleum reservoirs and to determine
+    the equilibrium constants required to better describe the interaction between
+    mineral surfaces and surface-active components of crude oil.  These constants
+    will be added to a geochemical model to evaluate the capability of the models
+    to predict wettability.  Wettability in petroleum reservoirs is poorly constrained,
+    and current formulations that depend on interfacial energy cannot accurately portray
+    the observations and offer little predictive capability.  The current wettability
+    measurement methodologies rely on flow properties to infer interfacial energy
+    because it is difficult to directly measure the interfacial energy between rock
+    and oil.  Using a geochemical approach, we can explicitly represent the electrostatic
+    and van der Waals force that make up the interfacial energy.  This approach will
+    produce quantitative formulations of wettability that can be implemented in standard
+    geochemical models.  Our goals are to demonstrate that we can measure the important
+    reactions using standard chemical methodologies, that these measurements can be
+    used in geochemical models to calculate wettability and that the models can be
+    used to predict wettability as a function of water chemistry, for enabling techniques
+    for more effective water flooding and enhanced oil recovery."
+  awardeeAddress: 1938 Harney St Ste 216
+  awardeeCity: Laramie
   awardeeCountryCode: US
-  awardeeName: Ubiquitous Energy, Inc
-  awardeeStateCode: CA
-  awardeeZipCode: '940634604'
-  fundsObligatedAmt: '146039'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1248850'
-  piEmail: miles@ubiquitous-energy.com
-  piFirstName: Miles
-  piLastName: Barr
-  piMiddeInitial: C
-  piPhone: '6174167080'
-  poName: Muralidharan S. Nair
-  date: 11/13/2012
-  startDate: 01/01/2013
-  expDate: 06/30/2013
-  title: 'SBIR Phase I:  Transparent Molecular Photovoltaic Devices'
-- abstractText: |-
-    This Small Business Technology Transfer Phase I project explores an autonomous electrochromic (EC) window enabled by a visibly transparent photovoltaic coating technology. EC windows, which transition from a transparent state to a dark state (and vice-versa) based on an electrical input, represent a promising pathway to increasing building energy efficiency by effectively regulating the solar flux into the building. Though well-developed technologically, broad adoption of EC windows is limited by installation challenges rooted in a lack of autonomy (i.e. wiring to an external energy source, sensors, and control systems). The team has identified a key solution in which visibly-transparent photovoltaic coatings are integrated over the EC to serve as (1) an onboard energy source that harvests ambient light to power EC transitions, and (2) a photodetector that enables dynamic transparency control in response to changes in external lighting conditions. This project will demonstrate relevant performance and durability specifications of the photovoltaic coating to initiate large-area window integration and commercial deployment of autonomous EC windows.
-
-    The broader impact/commercial potential of this project is embodied by unprecedented freedom for architectural EC window adoption, which can reduce electricity consumption for cooling, lighting, and peak power demands in buildings by up to 15%-50%. By integrating power and sensing functionalities onboard with the EC window without impacting visual aesthetics, a fully autonomous insulated glazing unit (IGU) can be constructed that requires no specialized installation or external balance of systems. Ultimately this will significantly broaden adoption of EC windows, by eliminating concerns related to the cost and complexity of EC installation, thus improving payback period and simplifying the decision-making process within the supply chain of the built environment. Moreover, this project will result in the development of knowledge that will guide future generations of visibly-transparent photovoltaics for other products in which a local energy source and light detection functionality can provide significant value (e.g. electronic displays and mobile electronic accessories), enhancing the functionality of those products without impacting aesthetics.
-  awardeeAddress: 3696 Haven Ave, Suite B
-  awardeeCity: Redwood City
-  awardeeCountryCode: US
-  awardeeName: Ubiquitous Energy, Inc
-  awardeeStateCode: CA
-  awardeeZipCode: '940634604'
-  fundsObligatedAmt: '225000'
+  awardeeName: ESal
+  awardeeStateCode: WY
+  awardeeZipCode: '820725388'
+  fundsObligatedAmt: '224740'
   fundProgramName: STTR PHASE I
-  id: '1332110'
-  piEmail: miles@ubiquitous-energy.com
-  piFirstName: Miles
-  piLastName: Barr
-  piMiddeInitial: C
-  piPhone: '6174167080'
-  poName: Ben Schrag
-  date: 06/17/2013
-  startDate: 07/01/2013
-  expDate: 06/30/2014
-  title: 'STTR Phase I:  Autonomous Electrochromic Windows Enabled by Visibly Transparent
-    Energy Harvesting Coatings'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase II project will
-    enable unprecedented freedom for architectural photovoltaic adoption by maintaining
-    the aesthetics of existing building materials and the quality of natural indoor
-    lighting. This unique approach offers to achieve levelized photovoltaic energy
-    costs of 0.05-0.1 $/kWhr by (1) producing 10-40% of DC building electricity at
-    the point of utilization, eliminating the need for DC-AC-DC power electronics,
-    (2) simultaneously reducing building cooling demands 10-30% through rejection
-    of infrared solar heat, increasing the effective PV efficiency by over 5% (absolute),
-    and (3) piggybacking on the materials, installation, framing, customer acquisition,
-    and maintenance of the existing building envelope, reducing non-module costs by
-    over 50%. This project will also result in a core knowledge from which future
-    generations of transparent photovoltaic devices and materials will be designed.
-    Visibly transparent photovoltaics are also amenable to seamless energy harvesting
-    within non-window surfaces such as electronic displays and mobile electronic accessories,
-    enhancing the functionality of those products without impacting aesthetics or
-    functionality. \n\nThis Small Business Innovation Research Phase I project develops
-    a transformational visibly transparent photovoltaic device. Building-integrated
-    photovoltaics are a promising energy pathway to capturing large areas of solar
-    energy and increasing US building efficiency at the point of utilization. However,
-    the widespread adoption of such technologies is severely hampered by the cost
-    and aesthetics associated with mounting traditional photovoltaic cells on siding
-    and windows. In this project, these challenges are overcome by exploiting the
-    excitonic character of molecular and organic semiconductors that lead to oscillator
-    bunching to produce photovoltaic architectures with selective absorption, i.e.
-    exhibiting visible minima and ultra-violet (UV) and near-infrared (NIR) maxima,
-    uniquely distinct from the band-absorption of traditional inorganic semiconductors.
-    By using excitonic molecular semiconductors with structured absorption in the
-    UV/NIR these devices are simultaneously optimized for high power conversion efficiency,
-    visible light transmission, and color rendering index."
-  awardeeAddress: 3696 Haven Ave, Suite B
-  awardeeCity: Redwood City
-  awardeeCountryCode: US
-  awardeeName: Ubiquitous Energy, Inc
-  awardeeStateCode: CA
-  awardeeZipCode: '940634604'
-  fundsObligatedAmt: '1415999'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1431010'
-  piEmail: miles@ubiquitous-energy.com
-  piFirstName: Miles
-  piLastName: Barr
-  piMiddeInitial: C
-  piPhone: '6174167080'
-  poName: Richard Schwerdtfeger
-  date: 08/04/2014
-  startDate: 09/01/2014
-  expDate: 05/31/2018
-  title: 'SBIR Phase II:  Transparent Molecular Photovoltaic Devices'
+  id: '1721290'
+  piEmail: tnealon@esalinity.com
+  piFirstName: Teresa
+  piLastName: Nealon
+  piMiddeInitial: L
+  piPhone: '3077609185'
+  poName: Anna Brady-Estevez
+  date: 06/21/2017
+  startDate: 06/15/2017
+  expDate: 11/30/2018
+  title: 'STTR Phase I:  Novel Water Flooding Technique to Enhance Oil Recovery'
 - abstractText: "This Small Business Innovation Research Phase I project will develop
     a new and improved sensor material to detect the vapors of peroxide-based homemade
     explosives. The Department of Homeland Security and Department of Defense have
@@ -3283,258 +3060,53 @@
   title: 'SBIR Phase II:  Commercially Viable Ton-Scale Production of Stereoblock
     Polypropylene Thermoplastic Elastomers and XPURE? Oils'
 - abstractText: |-
-    The broader impact/commercial potential of this Small Business Research Phase 1 project is to develop a new, cheaper process to mine gold and silver without using and polluting the environment with sodium cyanide. This will allow the development of new "green" mines, that are environmentally friendly and economically viable. The current state of the art is to use the 120yrs old sodium cyanide process carried out at vast scale worldwide. The new process, discovered at Northwestern University is being further developed by Cycladex. Gold and silver mining is still an important industry for the US with substantial yet untapped reserves and this new process if successful will generate jobs and increase the US development of its own resources. The proposed technology development with in this project will help directly address the environmental, economic, health and social impacts and benefits of current gold mining technology, improving workers' health and safety, enhancing the participation of local and indigenous communities and women and fostering sustainable mining practices in the developing and developed world. About 18% of all gold is still mined by the poor in the third world who use liquid mercury to extract gold.
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to help environmental engineers identify and delineate the bounds and concentrations of soil and groundwater contaminants with greater speed and accuracy. Over 30,000 contaminant spills have been identified in the United States alone, with thousands yet to be investigated and returned to safe levels.  The resources and effort being applied to these sites is insufficient to ensure the safety of the affected communities across America.  Focusing the remediation resources available, in the right place increases the rate at which federal and state regulators can close site investigations. As a result, environmental professionals will perform remediation earlier, making the site safe and productive again for local communities. The innovations developed in this project will enhance understanding of contaminant migration and develop a technical capability to use these findings to prepare more accurate conceptual site models during a contaminant investigation.  Faster site models resulting in successful remediation directly translates into cost savings for environmental clean-ups, reduction in damage to the environment, as well as increased throughput and efficiency for the environmental engineering industry.
 
-    The objectives of this Phase 1 research are to develop a commercial process using the new Cycladex technology, prove the economics and to develop a manufacturing process, which can be scaled up at a gold mine. There are two parts to be developed, the initial extraction of gold using environmentally benign agents and then the isolation of the gold by crystallization using a commercially available natural product. The project will focus on establishing a novel and superior sustainable gold production process with high selectivity, productivity, capital cost and process economics compared to today's technologies.
-  awardeeAddress: 1319 N New York Avenue
-  awardeeCity: Winter Park
+         This SBIR Phase I project proposes to create unique summary models for the flow, extent, depth, and shape of contaminant plumes, with the goal of targeting resources to accelerate the remediation process for local communities. The project leverages algorithmically derived models of contaminant migration combined with public and private data from decades of environmental investigations across the country. Once the data are aggregated and analyzed, the project team will produce a collection of guideline statistics and software tools for use by engineers investigating future sites that are mathematically similar to those in the combined database. The project uses predictive algorithms to determine the likely extent of underground contaminations and applies statistical uncertainty measures to the conceptual site model. These mechanisms will enable environmental professionals to understand when and where additional data is required. In addition, by using a more accurate and sophisticated measure of uncertainty, the project?s models will provide definitive guidance to field engineers on where to collect new sample data and where they have sufficient certainty to remediate the site using excavation or other means.  These innovations will lead to the goal of safer and cleaner communities in less time, with fewer costs, with reduced environmental damage.
+  awardeeAddress: 501 Church St NE
+  awardeeCity: Vienna
   awardeeCountryCode: US
-  awardeeName: Cycladex
-  awardeeStateCode: FL
-  awardeeZipCode: '327892527'
-  fundsObligatedAmt: '179999'
+  awardeeName: Azimuth1, LLC
+  awardeeStateCode: VA
+  awardeeZipCode: '221804711'
+  fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1446175'
-  piEmail: roger.pettman@cycladex.com
-  piFirstName: Roger
-  piLastName: Pettman
-  piMiddeInitial: B
-  piPhone: '6173311130'
-  poName: Prakash Balan
-  date: 12/08/2014
-  startDate: 01/01/2015
-  expDate: 12/31/2015
-  title: 'SBIR Phase I:  An Economic, Sustainable, Green, Gold Isolation Process'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research Phase II project is the potential to change the way gold mining is carried out by improving the process economics and reducing the environmental impact of mining operations. Current gold isolation methods involve the consumption of vast quantities of sodium cyanide, where cyanide is contained in large tailing dams, posing an environmental threat as exemplified by documented breaches. In the United States there are gold deposits which have not been exploited because of technology limitations and environmental concerns. The technology being developed in this project will improve the profitability of existing mines, as it can be employed with only minor changes in plant design. It will also  but will also lead to new jobs. Another opportunity is to extract gold from copper tailings dams. The proposed technology will potentially make cleanup of these sites profitable and can be applied worldwide. In the longer term, the process could be adopted in third world countries which still rely on mercury which pollutes, not only the environment, but also the food chain.
-
-    The objectives of this Phase II research project are to (i) scale up the extraction of gold using both the heap and vat leach processes, (ii) optimize the crystallization of Au(III) in the presence of the natural product á-cyclodextrin, and (iii) isolate the gold. For heap leaching, it is proposed to operate at the 400-MT level, concentrate the gold salt and crystallize the gold-cyclodextrin complex. Scale-up will require designing the process to utilize existing equipment (built originally for the sodium cyanide process) and introducing new chemicals. For vat leaching, a small pilot system will be built to accept crushed ore as the feed, and the resulting gold-containing extract will be taken through the crystallization process. Optimization of the leaching agent, mass transfer, kinetics and materials consumption will be ongoing.  Regulatory approval for vat leaching, once secured, can be applied on-site globally to demonstrate the environmental and economic benefits of the process. This technology has the potential to significantly make existing and new mining operations more environmentally sustainable.
-  awardeeAddress: 1319 N New York Avenue
-  awardeeCity: Winter Park
-  awardeeCountryCode: US
-  awardeeName: Cycladex
-  awardeeStateCode: FL
-  awardeeZipCode: '327892527'
-  fundsObligatedAmt: '712215'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1555601'
-  piEmail: roger.pettman@cycladex.com
-  piFirstName: Roger
-  piLastName: Pettman
-  piMiddeInitial: B
-  piPhone: '6173311130'
+  id: '1721607'
+  piEmail: jason.dalton@azimuth1.com
+  piFirstName: Jason
+  piLastName: Dalton
+  piMiddeInitial: R
+  piPhone: '7036188866'
   poName: Anna Brady-Estevez
-  date: 04/20/2016
-  startDate: 05/01/2016
-  expDate: 04/30/2018
-  title: 'SBIR Phase II:  An Economic, Sustainable, Green, Gold Isolation Process'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase I project will
-    demonstrate the feasibility of a revolutionary, low-cost, real-time, amperometric
-    sensor technology based on bio-electrochemical systems. The proposed device utilizes
-    exo-electrogen microbes to detect levels of target substances, primarily nitrate
-    and oxygen. The sensor takes advantage of highly specific biological processes
-    and the capability of certain microbes to transfer electrical current directly
-    to electrodes. Because of the nature of the design, the sensor is low cost, requires
-    no additional power, and continuously self-regenerates. These capabilities will
-    enable sensors to be deployed in remote locations to monitor nitrate and oxygen
-    levels in a network spanning large geographical regions.\n \nThe broader/commercial
-    impacts of this research are in the environmental management, agricultural, and
-    defense sectors. Nitrate levels in US waterways have increased dramatically in
-    the past half-century. Nitrate in surface water run-off from agriculture activities
-    is a particularly serious environmental problem, creating large anoxic dead zones
-    and straining fisheries. Tracing this pollutant is difficult because existing
-    sensors are very expensive or short-lived and cannot cover wide areas. Maintaining
-    optimized levels of nitrate in sustainable precision agriculture not only reduces
-    environmental impact, it is also a critical economic issue - nitrate monitoring
-    in run-off from cropland can help to maximize yields while minimizing expensive
-    fertilizer inputs. Finally, once proven for nitrates, the patented sensor concept
-    has the potential to be adapted to other substances by utilizing additional capabilities
-    of exo-electrogenic bacteria, thus producing a new class of amperometric sensors
-    based on bio-electrochemical phenomena."
-  awardeeAddress: 27 Drydock Avenue 2nd Floor
-  awardeeCity: Boston
-  awardeeCountryCode: US
-  awardeeName: Cambrian Innovation Inc
-  awardeeStateCode: MA
-  awardeeZipCode: '022102347'
-  fundsObligatedAmt: '180000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1046608'
-  piEmail: jbuck@cambrianinnovation.com
-  piFirstName: Justin
-  piLastName: Buck
-  piMiddeInitial: D
-  piPhone: '6173071755'
-  date: 11/23/2010
-  startDate: 01/01/2011
-  expDate: 12/31/2011
-  title: 'SBIR Phase I: A low-cost real-time bio-electrochemical nitrate sensor for
-    surface water monitoring'
+  date: 07/10/2017
+  startDate: 07/01/2017
+  expDate: 06/30/2018
+  title: 'SBIR Phase I:  Envimetric - Soil and water contamination predictive modeling
+    tools'
 - abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase I project investigates a novel bioelectrochemical system for combined treatment of carbon and nitrogen in the wastewater of re-circulating and semi-re-circulating aquaculture facilities. The aquaculture industry is currently held-back by high levels of wastewater and expensive treatment technologies. Elevated levels of nitrogen versus carbon in aquaculture wastewater require several expensive and energy-intensive steps for complete treatment. Bioelectrochemical systems (BES) represent a new technology capable of treating wastewater in an energy-positive manner while producing fewer byproducts than existing technologies. The project will construct and evaluate a novel three-cell BES that can treat several of the most important water pollutants in a combined, energy-positive step. Phase I will prove feasibility of the technology and quantify system performance. Phase II studies will develop detailed designs and begin pilot studies at IntAct or in the field, pending Phase I results.
+    The broader impact/commercial potential of this Small Business Innovation Research Phase I project is the commercialization of a novel electrolytic process to manufacture low-cost, high-power graphite for electric vehicle batteries. Electrolytically synthesized graphite offers the opportunity to utilize domestically available sources of renewable electricity and carbon dioxide and secure the supply chain for battery production with domestic production capacity. The impact on society that will be created by the commercialization of a novel graphite synthesis process is a significant decrease in graphite manufacturing cost and a more sustainable manufacturing process from domestically available sources of renewable electricity and carbon dioxide.
 
-    The broader/commercial impacts of this research are to demonstrate a novel approach to aquaculture wastewater treatment with the potential to significantly enhance the economic of re-circulating and semi-recirculating aquaculture systems. Fish farming is emerging as a critical 21st century industry, with global annual production already more than 60 million tons. Yet industry growth is constrained by competition for water and the high cost of wastewater treatment technologies. By reducing energy-intensiveness and combining treatment processes, bio-electrochemical systems have the potential to greatly enhance the economics of re-circulating and semi-recirculation aquaculture facilities and the environmental sustainability of the industry.
-  awardeeAddress: 27 Drydock Avenue 2nd Floor
-  awardeeCity: Boston
+    The technical objectives in this Phase I research project are to 1) demonstrate effective purification of electrolytically synthesized graphite using supercritical carbon dioxide and 2) recover a high yield of extracted by-products. Currently the purification process mimics the high-temperature thermal purification step of the commercial graphite manufacturing process. However, this process is time consuming, energy intensive, and therefore costly. Supercritical fluids purification has the potential to significantly reduce the purification time, energy cost, and the environmental footprint of electrolytically manufactured graphite. The purification process will be optimized by controlling carbon dioxide pressure, temperature, flow rate, water addition, and extraction time.
+  awardeeAddress: 820 Heinz Ave
+  awardeeCity: Berkeley
   awardeeCountryCode: US
-  awardeeName: Cambrian Innovation Inc
-  awardeeStateCode: MA
-  awardeeZipCode: '022102347'
-  fundsObligatedAmt: '137760'
+  awardeeName: Saratoga Energy Research Partners LLC
+  awardeeStateCode: CA
+  awardeeZipCode: '947102737'
+  fundsObligatedAmt: '225000'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: 0945620
-  piEmail: silver@cambrianinnovation.com
-  piFirstName: Matthew
-  piLastName: Silver
-  piMiddeInitial: R
-  piPhone: '6173071755'
-  date: 11/17/2009
-  startDate: 01/01/2010
-  expDate: 12/31/2010
-  title: 'SBIR Phase I:  Energy Efficient BOD Removal and Denitrifcation for Recirculating
-    Aquaculture Facilities with a Combined Bioelectrochemical Process'
-- abstractText: |-
-    This SBIR Phase I project will develop an anaerobic digestion system which utilizes bio-electrodes to more efficiently convert wastewater into biogas and ultimately energy.  Bio-electrochemical systems have received significant attention in recent years with the discovery of electricigen microbes capable of transferring electrons to and from electrodes at high rates. To date, most research has focused on using these processes in fuel-cell-like devices to produce electricity or hydrogen. In this project, IntAct will build and demonstrate a simplified process for enhanced anaerobic digestion based on adding electrodes and applying voltage directly into an AD chamber. The resulting proprietary system makes use of an applied voltage to modulate the growth of electricigen microbes on electrodes thus overcoming thermodynamic limitations to methane production and enabling pH control.
-
-    The broader/commercial impact of the proposed project will be the ability to recover increased amounts of energy from the wastewater treatment process.
-  awardeeAddress: 27 Drydock Avenue 2nd Floor
-  awardeeCity: Boston
-  awardeeCountryCode: US
-  awardeeName: Cambrian Innovation Inc
-  awardeeStateCode: MA
-  awardeeZipCode: '022102347'
-  fundsObligatedAmt: '160620'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1013737'
-  piEmail: silver@cambrianinnovation.com
-  piFirstName: Matthew
-  piLastName: Silver
-  piMiddeInitial: R
-  piPhone: '6173071755'
-  date: 06/07/2010
-  startDate: 07/01/2010
-  expDate: 06/30/2011
-  title: 'SBIR Phase I:  Enhanced Anaerobic Digestion of Wastewater Using Bioelectrodes'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase II project will
-    continue the development of a low-cost real-time bio-electrochemical nitrate sensor
-    for surface water monitoring initially funded as an NSF SBIR Phase I project.
-    In Phase I, Cambrian Innovation demonstrated the feasibility of a bio-electrochemical
-    sensor for measuring the level of nitrate in a water sample. Following the initial
-    proof-of-principle, a microscale sensor prototype was developed and tested. The
-    Phase II project will continue the development of the bio-electrochemical nitrate
-    sensor to reach a detection level of less than 1 mg-N/L with a stable deployment
-    of 6 months. Phase II development will optimize the sensor architecture and operational
-    conditions for improved performance and develop a long-lasting substrate for microbial
-    growth. Phase II will also include the design and construction of prototype electronic
-    components, including the signal processing algorithm for interpreting the signal
-    emitted by the bio-electrochemical cell. Finally, the sensor performance will
-    be validated by extensive laboratory testing under controlled conditions followed
-    by the initiation of field testing. Upon Phase II completion, Cambrian will be
-    prepared for final development and testing of a first-generation nitrate sensor
-    system in a Phase IIB project. \n\nThe broader impact/commercial potential of
-    this project addresses environmental nitrogen management, one of the most pressing
-    issues facing society in the 21st century. Nitrate contamination of waterways
-    has become a high profile topic due to anoxic dead zones and drops in fish populations.
-    A significant portion of this environmental impact has been attributed to agricultural
-    run-off (USGS, DOI, 2000). The need for regulation, monitoring, enforcement, and
-    remediation of nitrate pollution is limited by a lack of cost-effective technology
-    for continuous monitoring of nitrate in the environment. Simultaneously, an increased
-    thrust in precision agriculture has been fueled not only by environmental concerns
-    but also by the dramatic improvements in crop yield and quality that can be obtained
-    through careful control of nutrient addition. The development of a low-cost real-time
-    nitrate sensor will transform the management of agricultural facilities, resulting
-    in dramatic improvements in fertilizing efficiency and the environmental impact
-    of the food production industry. Cambrian Innovation is developing a bioelectrochemical
-    nitrate sensor to fill this unmet need and establish a new paradigm in environmental
-    sensing."
-  awardeeAddress: 27 Drydock Avenue 2nd Floor
-  awardeeCity: Boston
-  awardeeCountryCode: US
-  awardeeName: Cambrian Innovation Inc
-  awardeeStateCode: MA
-  awardeeZipCode: '022102347'
-  fundsObligatedAmt: '574865'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1230363'
-  piEmail: jbuck@cambrianinnovation.com
-  piFirstName: Justin
-  piLastName: Buck
-  piMiddeInitial: D
-  piPhone: '6173071755'
-  poName: Prakash Balan
-  date: 08/13/2012
-  startDate: 08/15/2012
-  expDate: 05/31/2017
-  title: 'SBIR Phase II:  A low-cost real-time bio-electrochemical nitrate sensor
-    for surface water monitoring'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase II project will
-    optimize and pilot test the \npatent-pending Exogen system for the generation
-    of biogas during wastewater \ntreatment. Based on a newly discovered process called
-    electromethanogenesis, ExogenTM \nuses applied voltages and bio-electrodes to
-    increase wastewater treatment rates and \nmethane fraction compared to competing
-    fixed-film anaerobic digestion processes. Phase \nI R&D demonstrated (1) 30% -
-    50% increase in chemical oxygen demand removal rate, \n(2) 30%-60% increase in
-    biogas production, (3) 5 - 18% increase in methane \nconcentrations with both
-    artificial and real-world wastewater, resulting in a payback \nperiod of 1.7 -
-    3.7 years. Further benefits include reduction in start-up time and the \npotential
-    for real-time automation via direct electrical feedback. During Phase II R&D \nCambrian
-    Innovation will optimize the technology and build a scaled demonstration plant
-    \nat a customer site \n\nThe broader impact/commercial potential of this project
-    is to help alleviate the conflicting \ndemands for water and energy in the United
-    States and across the industrialized world by \nenhancing the process of generating
-    energy from wastewater treatment. Anaerobic \ndigestion can generate energy from
-    wastewater. A recent AgSTAR report has highlighted \nthe potential for this technology
-    in the U.S., identifying over 8,000 livestock facilities \nand numerous industrial
-    sites suitable for the technology. Cambrian's ExogenTM platform \naims to decrease
-    the costs and increase the benefit associated with deploying anaerobic \ndigestion
-    in key industry segments, resulting in faster diffusion. Eventually the \ntechnology
-    could open up new industries for anaerobic digestion processes. Exogen  \nfurther
-    has the potential for carbon sequestration via the direct reduction of CO2 to
-    CH4. \nAs such, ExogenTM technology offers a broad range of applications with
-    significant \nsocietal benefit."
-  awardeeAddress: 27 Drydock Avenue 2nd Floor
-  awardeeCity: Boston
-  awardeeCountryCode: US
-  awardeeName: Cambrian Innovation Inc
-  awardeeStateCode: MA
-  awardeeZipCode: '022102347'
-  fundsObligatedAmt: '1008000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1152409'
-  piEmail: silver@cambrianinnovation.com
-  piFirstName: Matthew
-  piLastName: Silver
-  piMiddeInitial: R
-  piPhone: '6173071755'
-  poName: Prakash Balan
-  date: 06/21/2012
-  startDate: 06/15/2012
-  expDate: 03/31/2015
-  title: 'SBIR Phase II:  Exogen: Enhanced Anaerobic Digestion of Wastewater Using
-    Bio-electrodes'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project will optimize and pilot test a novel, energy-positive approach to de-nitrification for the global aquaculture industry. Recirculating aquaculture systems suffer from high wastewater treatment costs. Leveraging recent advances in bio-electrochemical systems, Cambrian's de-nitrification technology is capable of simultaneously treating chemical oxygen demand (COD) at end of pipe and nitrates in culture tank water while generating electricity directly. Phase I R&D demonstrated the existence of exo-electrogenic microorganisms in aquaculture wastewater. A flow through reactor consistently treated nitrate to below EPA drinking water concentrations (10mg/L) while removing an average of 65% of end-of-pipe COD and generating over 96 Amps/m3. An economic analysis demonstrated potential operating savings of over 70%, and significant bio-security benefits, versus competing systems. Phase II R&D will focus on optimizing treatment rates and reactor parameters with partner firms, and piloting a scaled reactor at an Aquaculture farm.
-
-    The broader impacts of this research are to introduce technologies and strategies that solve water and energy problems for the recirculating aquaculture industry. With the collapse of fisheries globally, the aquaculture industry is poised to fill an important gap in our food production. However, recirculating systems in particular are under pressure to limit environmental harm caused by water intensity and pollution. Bio-electrochemical systems represent a novel approach to turn waste resources into energy, thereby increasing farmer?s bottom line and resolving the tension between economics and sustainability. Future research can broaden applications to other industries.
-  awardeeAddress: 27 Drydock Avenue 2nd Floor
-  awardeeCity: Boston
-  awardeeCountryCode: US
-  awardeeName: Cambrian Innovation Inc
-  awardeeStateCode: MA
-  awardeeZipCode: '022102347'
-  fundsObligatedAmt: '1207998'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1127435'
-  piEmail: zhuang@cambrianinnovation.com
-  piFirstName: Zhen
-  piLastName: Huang
-  piPhone: '6173071755'
-  poName: Prakash Balan
-  date: 10/20/2011
-  startDate: 11/01/2011
-  expDate: 05/31/2018
-  title: 'SBIR Phase II:  Energy Efficient COD Removal and De-nitrification for Re-circulating
-    Aquaculture Facilities with a Combined Bio-electrochemical Process'
+  id: '1647601'
+  piEmail: ben@saratoga-energy.com
+  piFirstName: Benjamin
+  piLastName: Rush
+  piMiddeInitial: M
+  piPhone: '5103905121'
+  poName: Anna Brady-Estevez
+  date: 12/11/2016
+  startDate: 12/15/2016
+  expDate: 12/31/2017
+  title: 'SBIR Phase I: Supercritical Carbon Dioxide Assisted Purification of Electrolytically
+    Synthesized Graphite'
 - abstractText: "The broader impact/commercial potential of this Small Business Technology
     Transfer, Phase I project is to help make therapy more consistent with patient
     preferences, beliefs, and values to maximize engagement in therapy and improve
@@ -6291,51 +5863,49 @@
   expDate: 02/28/2019
   title: 'SBIR Phase II:  RV-Embedded: Runtime Verification for Embedded Systems'
 - abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase I project aims to develop an efficient remote monitoring and diagnostic software system to detect and diagnose software defects in cyber-physical systems (CPSs). CPSs have the potential to bring about a revolution in efficiency, robustness, and safety in application domains such as smart utility grids and smart health care. To unleash their potential, CPSs must themselves be robust. However, despite state-of-the-art testing, software defects currently do escape into deployed CPSs. Current state-of-practice monitoring and diagnostic systems cannot improve the situation as they were not designed with the constraints of CPSs in mind, which include real-time execution, unreliable links, and resource constrained processors. The proposed technology is aimed at creating a software system capable of monitoring embedded nodes in CPSs for anomalies and providing detailed execution information to quickly diagnose the software defects responsible for any anomalies. The proposed work extends the company's extensive research in efficient collection of information for diagnosing software defects. The company expects to create a prototype monitoring and diagnostic software system for CPSs and demonstrate its effectiveness on existing software defects in CPSs.
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is in creating a market for financially sustained and accountable water services in developing countries. The impact of improved water, sanitation, and hygiene on public health is significant, and has the potential to prevent at least 9.1% of the global disease burden and 6.3% of all deaths. Present-day approaches for delivering water services in developing countries typically focus on deploying, maintaining, and monitoring aid-projects for only a few years. Impact is nominally evaluated by implementers (non-profit, private and government alike) directly. However, even when a positive impact is measured, the majority of these environmental service and monitoring interventions are short-term, and measurements may be misleading. For example, a multi-decade project apparently increased access to clean water supplies in rural areas from 58% in 1990 to 91% in 2015. Improved services may be realized through preventative and "just in time" maintenance activities, enabled through instrumentation and predictive failure data analysis algorithms. This may, critically, enable zero-interruption in water supply. Intermediate access to water, caused by water point failure, to clean water is known to increase health risks.
 
-    The broader impact/commercial potential of this project derives from the fact that increasing the reliability and robustness of CPSs will directly increase their adoption in real world applications. CPS technology is directly applicable to a broad range of sectors, including utility grids, smart buildings, manufacturing, health care, transportation, etc. These sectors account for more than $32.3 trillion in economic activity, with the potential to grow to $82 trillion by 2025 - about one half of the global economy. CPSs are thus critical to the national interest in areas such as manufacturing competitiveness, defense, health care, energy production and usage, and disaster monitoring and recovery. Due to the increasing reliance on CPSs in the future, system defects could have drastic consequences. The proposed technology could significantly improve reliability of CPSs by catching defects before they result in significant loss, outages, or failures.
-  awardeeAddress: 1281 Win Hentschel Blvd
-  awardeeCity: West Lafayette
+    This Small Business Innovation Research (SBIR) Phase I project intends to develop predicative machine learning algorithms for water point failures derived from cellular reporting electronic sensors installed on rural water infrastructure in developing countries. The innovation proposed for research in this proposal consists of employing an ensemble of robust machine learning classification techniques, using cross-validation methods to tune model parameters and evaluate performance, in order to develop a data-adaptive system capable of predicting failure well enough in advance to allow preventive maintenance, repair or replacement.  Specifically, we will first examine condition based maintenance. Condition based maintenance has several advantages over time based maintenance, especially the ability to allocate limited maintenance resources where they are needed, instead of spreading maintenance resources evenly, including where they may not be needed. Our proposed Phase 1 SBIR focuses on developing predictive algorithms for water point failures using our existing sensor hardware and applied to existing customers. Our success criteria for a Phase 1 SBIR is a predictive algorithm that can accurately identify water points in near-failure.
+  awardeeAddress: 5548 NE 18th Ave
+  awardeeCity: Portland
   awardeeCountryCode: US
-  awardeeName: SensorHound, Inc.
-  awardeeStateCode: IN
-  awardeeZipCode: '479064182'
-  fundsObligatedAmt: '165197'
+  awardeeName: SweetSense Inc.
+  awardeeStateCode: OR
+  awardeeZipCode: '972115543'
+  fundsObligatedAmt: '224562'
   fundProgramName: SMALL BUSINESS PHASE I
-  id: '1345940'
-  piEmail: vinai@sensorhound.com
-  piFirstName: Vinaitheerthan
-  piLastName: Sundaram
-  piPhone: '7653378042'
-  poName: Peter Atherton
-  date: 12/03/2013
-  startDate: 01/01/2014
-  expDate: 12/31/2014
-  title: 'SBIR Phase I:  Resource-efficient Remote Monitoring and Diagnostics for
-    Cyber-Physical Systems'
+  id: '1621444'
+  piEmail: evan.thomas@sweetsensors.com
+  piFirstName: Evan
+  piLastName: Thomas
+  piPhone: '3035504671'
+  poName: Richard Schwerdtfeger
+  date: 06/20/2016
+  startDate: 07/01/2016
+  expDate: 07/31/2017
+  title: 'SBIR Phase I:  Predictive Algorithms for Water Point Failure'
 - abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project derives from the fact that increasing the reliability and robustness of cyber-physical systems (CPSs) will directly increase their adoption in real world applications. CPS technology is directly applicable to a broad range of sectors, including utility grids, smart buildings, manufacturing, healthcare, transportation, etc. These sectors account for more than $32.3 trillion in economic activity, with the potential to grow to $82 trillion by 2025 - about one half of the global economy. CPSs are thus critical to the national interest in areas such as manufacturing competitiveness, defense, health care, energy production and usage, and disaster monitoring and recovery. Due to the increasing reliance on CPSs in the future, system defects could have drastic consequences. The proposed technology could significantly improve reliability of CPSs by catching defects before they result in significant loss, outages, or failures.
+    This Small Business Innovation Research (SBIR) Phase II project will develop and apply machine learning statistical tools to Internet of Things (IoT) water delivery and water quality sensors. This will enable prediction and preemptive response to water point failures. The resilience of these environmental services is dependent upon credible and continuous indicators of reliability, leveraged by funding agencies to incentivize performance among service providers. In many locations, these service providers are utilities providing access to clean water, safe sanitation, and reliable energy. However, in some rural areas, there remains a significant gap between the intent of service providers and the impacts measured over time. Achieving the SBIR Phase II core objectives will help close the loop on effective and clean water delivery.  IoT sensors and services will address one of the most critical public health gaps by enabling delivery of reliable and safe water.
 
-    This Small Business Innovation Research (SBIR) Phase II project aims to develop an efficient remote monitoring and diagnostic software system to detect and diagnose software defects in cyber-physical systems (CPSs). CPSs have the potential to bring about a revolution in efficiency, robustness, and safety in application domains such as smart utility grids and smart healthcare. To unleash their potential, CPSs must themselves be robust. However, despite state-of-the-art testing, software defects currently do escape into deployed CPSs. Current state-of-practice monitoring and diagnostic systems cannot improve the situation as they were not designed with the constraints of CPSs in mind, which include real-time execution, unreliable links, and resource constrained processors. The proposed technology is aimed at creating a software system capable of monitoring embedded nodes in CPSs for anomalies and providing detailed execution information to quickly diagnose the software defects responsible for any anomalies. The proposed work extends the company's extensive research in efficient collection of information for diagnosing software defects. The company expects to create a monitoring and diagnostic software system for CPSs and demonstrate its effectiveness on existing software defects in CPSs.
-  awardeeAddress: 3495 Kent Ave Ste B100
-  awardeeCity: West Lafayette
+    IoT solutions for this environment may help address these information asymmetries and enable improved decisions and response. However, given the remote and power constrained environments and the high degree of variability between fixed infrastructure including age, materials, pipe diameters, power quality, rotating equipment vendors (pumps and generators), servicing, and functionality, any IOT solution would have to either be bespoke engineering, or compensate for these site-wise complexities through analytics. Instead, our SBIR II approach is to develop universal, solar powered cellular and satellite IOT hardware for each service type, and addresses site complexities through cloud-based sensor fusion and statistical learning. In this way, we significantly reduce hardware and logistical costs, and provide value to our customers through service delivery analytics. In Phase I, we demonstrated the application of simple sensors and sophisticated machine learning to identify off-nominal service delivery across a cohort of water pumps of various designs. We developed a universal electrical borehole sensor compatible with disparate fixed infrastructure, and we demonstrated solving the problem of heterogeneous customer hardware with a homogeneous sensor platform and adaptive machine learning backend.
+  awardeeAddress: 5548 NE 18th Ave
+  awardeeCity: Portland
   awardeeCountryCode: US
-  awardeeName: SensorHound, Inc.
-  awardeeStateCode: IN
-  awardeeZipCode: '479064182'
-  fundsObligatedAmt: '909999'
+  awardeeName: SweetSense Inc.
+  awardeeStateCode: OR
+  awardeeZipCode: '972115543'
+  fundsObligatedAmt: '899475'
   fundProgramName: SMALL BUSINESS PHASE II
-  id: '1534707'
-  piEmail: vinai@sensorhound.com
-  piFirstName: Vinaitheerthan
-  piLastName: Sundaram
-  piPhone: '7653378042'
-  poName: Peter Atherton
-  date: 09/14/2015
-  startDate: 09/15/2015
-  expDate: 02/28/2019
-  title: 'SBIR Phase II:  Resource-efficient Remote Monitoring and Diagnostics for
-    Cyber-Physical Systems'
+  id: '1738321'
+  piEmail: evan.thomas@sweetsensors.com
+  piFirstName: Evan
+  piLastName: Thomas
+  piPhone: '3035504671'
+  poName: Richard Schwerdtfeger
+  date: 08/30/2017
+  startDate: 09/01/2017
+  expDate: 02/29/2020
+  title: 'SBIR Phase II:  Predictive Algorithms for Water Point Failure'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to empower farmers to capture a greater share of revenue from the marketing of their crops.  Agriculture is a significant engine to the U.S. economy, and farming itself is vital to creating economically vibrant rural areas.  Farmers are often at a disadvantage when it comes to capturing good prices from their crops because there are significant information asymmetries in the marketing supply chain.  This project develops a combination of hardware and analytics that greatly improves crop forecasts at dramatically more accessible prices, which allows farmers and their trusted buyers to make more informed marketing decisions.  An addition to the narrow application of sensing hardware and analytics for forecasting, the data collected by the platform can also be used by growers to make decisions that improve operational performance of complex agribusinesses and improve the agronomy of the farm. These tools make it easier to compare performance of crops to improve yields and reduce resource costs.  Together this technology continues to raise productivity and profitability per farmer.
 
@@ -7454,6 +7024,52 @@
   expDate: 03/31/2012
   title: 'SBIR Phase II:   Automated Community and Sentiment Mining for Global Media
     Preference Understanding'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase I project aims to develop a novel soft magnetic material for electric motor cores, a fabrication process to make components from the material, and an electric motor configuration leveraging the benefits of the material and fabrication process. The approach is to utilize a new single-step net-shape fabrication technique based on uniform-droplet spray deposition in a reactive atmosphere to produce an isotropic metal microstructure characterized by small domains of high permeability and low coercivity with a controlled formation of insulation boundaries that limit electrical conductivity between neighboring domains.  This design is expected to provide a superior magnetic path while minimizing losses due to eddy currents, and eliminating design constraints associated with anisotropic laminated cores of conventional motors.
+
+    The broader/commercial impact of this project will be the potential to provide spray-formed winding cores for hybrid-field motors to increase output, improve efficiency and reduce material scrap during fabrication, thus lowering the cost of electric motors. Considering the extensive use of electric motors in numerous applications, including industrial machinery and automation, robotics, heating, ventilation and air conditioning systems, appliances, power tools, medical devices, automotive applications, electric vehicles, military equipment etc., there is an increasing need for electric motors with improved performance, higher efficiency, and lower cost. This project is expected to have a significant commercial and environmental impact by providing low-cost and high-efficiency electric motor cores.
+  awardeeAddress: 200 Harvard Mill Square
+  awardeeCity: Wakefield
+  awardeeCountryCode: US
+  awardeeName: Persimmon Technologies Corporation
+  awardeeStateCode: MA
+  awardeeZipCode: 018803239
+  fundsObligatedAmt: '150000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1113202'
+  piEmail: mhosek@persimmontech.com
+  piFirstName: Martin
+  piLastName: Hosek
+  piPhone: '9783873219'
+  poName: Ben Schrag
+  date: 04/28/2011
+  startDate: 07/01/2011
+  expDate: 12/31/2011
+  title: 'SBIR Phase I:  Spray-Formed Soft Magnetic Material for Efficient Hybrid-Field
+    Electric Machines'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project aims to develop a novel soft magnetic material and fabrication process for magnetic circuits of electric machines, such as winding cores of electric motors. The technology utilizes a unique single-step near net-shape fabrication process based on metal spray deposition to produce an isotropic metal microstructure characterized by small domains with high permeability, high saturation and low coercivity with a controlled formation of insulation boundaries that limit electric conductivity between neighboring domains. The resulting material provides an excellent three-dimensional magnetic path while minimizing energy losses associated with eddy currents. It can replace anisotropic laminated winding cores, which currently constrain the design of conventional electric motors to geometries with two-dimensional magnetic paths. As a further objective of the project, a new hybrid-field motor topology, with three-dimensional magnetic paths enabled by the proposed material and fabrication process, is being developed.
+
+    The broader impact/commercial potential of this project is to enable production of electric motors with improved performance and efficiency while reducing cost and material scrap associated with manufacturing of motor winding cores. Electric motors are used extensively in a growing number of applications, including robotics, semiconductor and LED process equipment, industrial automation, electric vehicles, heating, ventilation and air conditioning systems, appliances, power tools, medical devices, and military and space exploration applications.  These markets drive an increasing demand for electric motors with improved performance, higher efficiency, and lower cost. Considering the extensive use of electric motors globally, the disruptive change resulting from the proposed hybrid-field motor technology with spray-formed winding cores is expected to provide significant commercial, societal and environmental benefits, including improved manufacturing efficiency, waste reduction, and energy conservation.
+  awardeeAddress: 200 Harvard Mill Square
+  awardeeCity: Wakefield
+  awardeeCountryCode: US
+  awardeeName: Persimmon Technologies Corporation
+  awardeeStateCode: MA
+  awardeeZipCode: 018803239
+  fundsObligatedAmt: '1027658'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1230458'
+  piEmail: mhosek@persimmontech.com
+  piFirstName: Martin
+  piLastName: Hosek
+  piPhone: '9783873219'
+  poName: Rajesh Mehta
+  date: 08/31/2012
+  startDate: 09/01/2012
+  expDate: 08/31/2015
+  title: 'SBIR Phase II:  SBIR Phase II Spray-Formed Soft Magnetic Material for Efficient
+    Hybrid-Field Electric Machines'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase I project aims to develop a scale-up manufacturing process of nitric oxide-releasing silica nanoparticles. The main challenge is controlling the nanoparticle crystal size while maintaining high levels of nitric oxide storage.  In this project, critical process parameters including reactant addition rate, reaction temperature and mixing rate will be studied. The Balanced-Nucleation and Growth (BNG) Model will be utilized to transform process data into predictors of controlled particle size.
 
