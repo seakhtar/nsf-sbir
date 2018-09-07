@@ -1,27 +1,44 @@
 ---
-- photo: Rajesh-compressed.jpg
-  name: Rajesh Mehta
-  last_name: Mehta
-  email: rmehta@nsf.gov
-  bio: is a Program Director in the Small Business Innovation Research Program at
-    the National Science Foundation. His focus areas include Advanced Manufacturing
-    and Nanotechnology. Prior to joining NSF in 2012, he was a senior research technologist
-    at Kodak where his 26-year career spanned work at Kodak Research Laboratories,
-    and Manufacturing Research and Engineering Organization. His work covered a broad
-    range of materials science based technologies related to photographic film and
-    paper manufacturing, thermal, inkjet, and electro-photographic printing, and OLED
-    device manufacturing. He has a B. Tech. degree in Chemical Engineering from Indian
-    Institute of Technology, Bombay, M.S. and Ph.D. degrees in Chemical Engineering
-    from Penn State, a post-doctoral fellowship at Imperial College, and a M.S. degree
-    in New Product Development from Rochester Institute of Technology.
+- photo: Molnar-compressed.jpg
+  name: Linda Molnar
+  last_name: Molnar
+  email: lmolnar@nsf.gov
+  bio: has more than 20 years of experience in the life science and chemical industries,
+    integrating her scientific research and engineering background with commercialization
+    for startups, and international, government, and business environments. She joined
+    NSF as an SBIR/STTR Program Director in 2017. Previously, she was co-founder and
+    CEO of Simpatica Medicine, Inc., an artificial intelligence precision medicine
+    company based in San Francisco, California. Linda founded and worked with life
+    science startup companies from many universities. She has also provided strategic
+    consultancy to venture capital firms, public companies, non-profit institutes,
+    and the federal government. Her background includes positions as Managing Director
+    in the Life Sciences Merchant Banking group and Venture Group at Burrill & Company,
+    Executive in Residence at Momentum Biosciences, Program Officer for the National
+    Cancer Institute in the Office of the Director (Center for Strategic Scientific
+    Initiatives), and research and business development roles at Caliper Life Sciences,
+    NASA Ames Research Center, and Rohm & Haas Co. Linda completed the University
+    of Pennsylvania’s Wharton Executive Management Program and holds a Ph.D. from
+    the Program in Polymer Science and Technology (Materials Science and Chemical
+    Engineering) from Massachusetts Institute of Technology and a B.S. in Chemistry
+    (Biology) from the University of Pittsburgh.
   topic: Advanced Manufacturing and Nanotechnology (MN)
   topic_permalink: "/topics/manufacturing-and-nanotechnology/"
   topics: []
 - photo: Konsek-compressed.jpg
-  name: Steven Konsek
+  name: Steve Konsek
   last_name: Konsek
   email: skonsek@nsf.gov
-  bio: joined the National Science Foundation’s SBIR/STTR program in 2012 and has served as both a Program Director for the SBIR/STTR and the Innovation Corps (I-Corps™) program. Prior to joining NSF, Steven was the Chief Technology Officer at Illumitex, a venture-backed company developing light emitting diode chips, packages and fixtures for general illumination. He previously served as Chief of Technical Staff at Glo, recognized as one of Europe’s top LED startups. Prior to Glo, Steven was the Director of Device R&D at Nantero, a memory startup. Throughout his career, Steven has developed innovative, game-changing technologies across a range of semiconductor applications. He holds numerous patents and publications in LEDs, memory, process integration and nanoscale devices. Steven has a Ph.D. in Physics from the University of Washington and a B.S. in Mathematics from Purdue University.
+  bio: joined the National Science Foundation’s SBIR/STTR program in 2012 and has
+    served as both a Program Director for the SBIR/STTR and the Innovation Corps (I-Corps™)
+    program. Prior to joining NSF, Steven was the Chief Technology Officer at Illumitex,
+    a venture-backed company developing light emitting diode chips, packages and fixtures
+    for general illumination. He previously served as Chief of Technical Staff at
+    Glo, recognized as one of Europe’s top LED startups. Prior to Glo, Steven was
+    the Director of Device R&D at Nantero, a memory startup. Throughout his career,
+    Steven has developed innovative, game-changing technologies across a range of
+    semiconductor applications. He holds numerous patents and publications in LEDs,
+    memory, process integration and nanoscale devices. Steven has a Ph.D. in Physics
+    from the University of Washington and a B.S. in Mathematics from Purdue University.
   topic: Advanced Materials and Instrumentation (MI)
   topic_permalink: "/topics/materials-and-instrumentation/"
   topics: []
@@ -93,28 +110,48 @@
   topic: Chemical and Environmental Technologies (CT)
   topic_permalink: "/topics/chemical-and-environmental/"
   topics: []
-- photo: Ben-compressed.jpg
-  name: Ben Schrag
-  last_name: Schrag
-  email: bschrag@nsf.gov
-  bio: is the Senior Program Director for the SBIR/STTR programs. He joined the NSF
-    as a Program Director in 2009, leading the Advanced Materials and Instrumentation
-    portfolio in the Small Business Innovation Research and Small Business Technology
-    Transfer programs. Prior to NSF, he was the Director of Research and Development
-    at Micro Magnetics, where he led a development effort to commercialize a new family
-    of high-performance magnetic microsensor products for demanding consumer and military
-    applications. During this time, he also served as a visiting scientist at Brown
-    University and as the Principal Investigator on a number of federal grants and
-    contracts, including NSF Phase I and Phase II Small Business Innovation Research
-    projects and an Advanced Technology Program award from NIST. Ben received his
-    Ph.D. in Physics from Brown University.
-  topic: 
-  topic_permalink: 
-  topics:
-  - topic: Educational Technologies and Applications (EA)
-    permalink: "/topics/educational/"
-  - topic: Other Topics (OT)
-    permalink: "/topics/other/"
+- photo: Kamei-compressed.jpg
+  name: Nancy Kamei
+  last_name: Kamei
+  email: nkamei@nsf.gov
+  bio: is a Program Director focused on Medical Devices and Digital Health. In 2017,
+    after several years of retirement, she joined the Division of Industrial Innovation
+    and Partnerships to serve the United States’ entrepreneurial ecosystem. For several
+    years, she served as a National Instructor for the Innovation Corps (I-Corps™)
+    program, interacting with NSF and National Institutes of Health grantees, which
+    inspired her to join the SBIR/STTR Program and continue working with innovators
+    and entrepreneurs. Nancy has more than 20 years of experience as an investor,
+    having selected and managed billions of dollars of investments of both public
+    equities (Capital Group Companies) and venture capital (Intel Capital). She is
+    also a serial entrepreneur, having been on the founding team of several Silicon
+    Valley startups (Onyx Pharmaceuticals). After receiving her Doctor of Pharmacy
+    degree from University of California, San Francisco, she started her career at
+    Merck and then completed her Master of Business Administration at Stanford Graduate
+    School of Business. Nancy also has more than 40 years of service to the non-profit
+    sector. She recently relocated to the Washington, D.C. area after a lifetime in
+    California.
+  topic: Digital Health (DH) and Medical Devices (MD)
+  topic_permalink: "/topics/digital-health-and-medical-devices/"
+  topics: []
+- photo: Rajesh-compressed.jpg
+  name: Rajesh Mehta
+  last_name: Mehta
+  email: rmehta@nsf.gov
+  bio: is a Program Director for Educational Technologies and Applications in the
+    Small Business Innovation Research Program at the National Science Foundation.
+    Until early 2018, his topic area was Advanced Manufacturing and Nanotechnology.
+    Prior to joining NSF in 2012, he was a senior research technologist at Kodak where
+    his 26-year career spanned work at Kodak Research Laboratories, and Manufacturing
+    Research and Engineering Organization. His work covered a broad range of materials
+    science based technologies related to photographic film and paper manufacturing,
+    thermal, inkjet, and electro-photographic printing, and OLED device manufacturing.
+    He has a B. Tech. degree in Chemical Engineering from Indian Institute of Technology,
+    Bombay, M.S. and Ph.D. degrees in Chemical Engineering from Penn State, a post-doctoral
+    fellowship at Imperial College, and a M.S. degree in New Product Development from
+    Rochester Institute of Technology.
+  topic: Educational Technologies and Applications (EA)
+  topic_permalink: "/topics/educational/"
+  topics: []
 - photo: Murali-compressed.jpg
   name: Muralidharan S. Nair
   last_name: Nair
@@ -143,31 +180,6 @@
   topic: Electronic Hardware, Robotics and Wireless Technologies (EW)
   topic_permalink: "/topics/electronic-hardware-robotics-and-wireless/"
   topics: []
-- photo: Peter-compressed.jpg
-  name: Peter Atherton
-  last_name: Atherton
-  email: patherto@nsf.gov
-  bio: comes to the NSF with a broad background in the physical sciences, and extensive
-    experience in technology development and commercialization. Before joining NSF
-    Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly
-    traded company that he founded in Sydney, Australia. Prior to MIKOH he spent approximately
-    7 years at the Overseas Telecommunications Commission (OTC Australia) where he
-    managed optical fiber communications R&D, including approximately 14 months in
-    the UK at British Telecom’s Martlesham Heath R&D laboratories. While at OTC his
-    research group made world-leading advances in high-speed optical communications
-    technologies, some of which were commercialized via spin-off companies. He also
-    managed the externally contracted development and commercialization of a number
-    of optical fiber and optoelectronic technologies, and was instrumental in establishing
-    a commercialization center for specialized optical fibers at the University of
-    Sydney. While at MIKOH Corporation he was instrumental in developing and commercializing
-    technologies in a range of fields including diffractive optics, laser-based marking,
-    radio frequency identification and internet-based personal authentication. He
-    moved to the US in 1998 to further develop the company’s technologies and markets.
-    Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from
-    the University of Queensland (Australia).
-  topic: Information Technologies (IT)
-  topic_permalink: "/topics/information-technologies/"
-  topics: []
 - photo: Rick-compressed.jpg
   name: Rick Schwerdtfeger
   last_name: Schwerdtfeger
@@ -193,40 +205,52 @@
     a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied
     Physics from Pittsburg State University, and a B.S. in Physics and Science Education
     from the University of Dubuque.
-  topic: 
-  topic_permalink: 
-  topics:
-  - topic: Internet of Things (I)
-    permalink: "/topics/internet-of-things/"
-  - topic: Semiconductors (S) and Photonic Devices and Materials (PH)
-    permalink: "/topics/semiconductors-and-photonic-devices/"
-- photo: Jesus-compressed.jpg
-  name: Jesus Soriano
-  last_name: Soriano
-  email: jsoriano@nsf.gov
-  bio: joined the NSF in February 2012 as SBIR/STTR Program Director for Biomedical
-    and Smart Health Technologies, after 20 years of international experience in executive
-    leadership in the biopharmaceutical and non-profit sectors, start-up formation
-    and funding, technology commercialization, and academic teaching and research.
-    Prior to NSF, he was the Senior Advisor to the Puerto Rico Trust for Science,
-    Technology and Research, a technology-based development organization. Previously,
-    he was Executive Vice President at QRxPharma, Ltd., a clinical-stage specialty
-    pharmaceutical company focused in pain management and central nervous system disorders.
-    Before, he was Senior Director of Business Development at Osiris Therapeutics,
-    Inc. Previously, he held several executive leadership positions at the global
-    bioresource center ATCC, including Vice President for IP, Licensing and International
-    Business Development, and was Associate Director for R&D Operations and Business
-    Development at Entremed, Inc, a clinical-stage pharmaceutical company developing
-    therapeutics for the treatment of cancer. Jesus began his career as a family doctor
-    in Spain; he then worked at the University of Geneva Medical School, Switzerland
-    initially as Research Scientist and then as Assistant Professor. He initially
-    came to the US as a visiting scientist to the National Cancer Institute (NIH)
-    under an advanced researcher fellowship from the Swiss National Science Foundation.
-    He holds a MBA in Corporate Finance from the Johns Hopkins Carey Business School;
-    a Ph.D. in Medical Sciences from the University of Geneva, Switzerland; and a
-    M.D. from the University of Alicante, Spain.
-  topic: Smart Health (SH)
-  topic_permalink: "/topics/smart-health/"
+  topic: Internet of Things (I), Semiconductors (S), and Photonic (PH) Devices and
+    Materials
+  topic_permalink: "/topics/internet-of-things-semiconductors-and-photonic-devices/"
+  topics: []
+- photo: Peter-compressed.jpg
+  name: Peter Atherton
+  last_name: Atherton
+  email: patherto@nsf.gov
+  bio: comes to the NSF with a broad background in the physical sciences, and extensive
+    experience in technology development and commercialization. Before joining NSF
+    Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly
+    traded company that he founded in Sydney, Australia. Prior to MIKOH he spent approximately
+    7 years at the Overseas Telecommunications Commission (OTC Australia) where he
+    managed optical fiber communications R&D, including approximately 14 months in
+    the UK at British Telecom’s Martlesham Heath R&D laboratories. While at OTC his
+    research group made world-leading advances in high-speed optical communications
+    technologies, some of which were commercialized via spin-off companies. He also
+    managed the externally contracted development and commercialization of a number
+    of optical fiber and optoelectronic technologies, and was instrumental in establishing
+    a commercialization center for specialized optical fibers at the University of
+    Sydney. While at MIKOH Corporation he was instrumental in developing and commercializing
+    technologies in a range of fields including diffractive optics, laser-based marking,
+    radio frequency identification and internet-based personal authentication. He
+    moved to the US in 1998 to further develop the company’s technologies and markets.
+    Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from
+    the University of Queensland (Australia).
+  topic: Information Technologies (IT)
+  topic_permalink: "/topics/information-technologies/"
+  topics: []
+- photo: Ben-compressed.jpg
+  name: Ben Schrag
+  last_name: Schrag
+  email: bschrag@nsf.gov
+  bio: is the Senior Program Director for the SBIR/STTR programs. He joined the NSF
+    as a Program Director in 2009, leading the Advanced Materials and Instrumentation
+    portfolio in the Small Business Innovation Research and Small Business Technology
+    Transfer programs. Prior to NSF, he was the Director of Research and Development
+    at Micro Magnetics, where he led a development effort to commercialize a new family
+    of high-performance magnetic microsensor products for demanding consumer and military
+    applications. During this time, he also served as a visiting scientist at Brown
+    University and as the Principal Investigator on a number of federal grants and
+    contracts, including NSF Phase I and Phase II Small Business Innovation Research
+    projects and an Advanced Technology Program award from NIST. Ben received his
+    Ph.D. in Physics from Brown University.
+  topic: Other Topics (OT)
+  topic_permalink: "/topics/other/"
   topics: []
 ---
 
