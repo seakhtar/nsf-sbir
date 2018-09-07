@@ -284,7 +284,7 @@
   awardeeName: Branch Technology LLC
   awardeeStateCode: TN
   awardeeZipCode: '374053878'
-  fundsObligatedAmt: '750000'
+  fundsObligatedAmt: '899999'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1632267'
   piEmail: platt@branchtechnology.co
@@ -1798,7 +1798,7 @@
   awardeeName: Data2Discovery Inc
   awardeeStateCode: IN
   awardeeZipCode: '474083912'
-  fundsObligatedAmt: '750000'
+  fundsObligatedAmt: '899999'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660155'
   piEmail: randy@d2discovery.com
@@ -1807,7 +1807,7 @@
   poName: Ruth M. Shuman
   date: 03/24/2017
   startDate: 03/15/2017
-  expDate: 02/28/2019
+  expDate: 08/31/2019
   title: 'SBIR Phase II:  Semantic Link Association Prediction for Phenotypic Drug
     Discovery'
 - abstractText: |-
@@ -2485,7 +2485,7 @@
   awardeeName: Vaxess Technologies, Inc.
   awardeeStateCode: MA
   awardeeZipCode: 021391226
-  fundsObligatedAmt: '760000'
+  fundsObligatedAmt: '909999'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1632434'
   piEmail: Kathryn@vaxess.com
@@ -2495,7 +2495,7 @@
   poName: Linda Molnar
   date: 09/20/2016
   startDate: 10/01/2016
-  expDate: 09/30/2018
+  expDate: 03/31/2019
   title: 'SBIR Phase II:  A New Approach to Developing a Heat-stable Rotavirus Vaccine'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to develop and commercialize a high resolution, protein-based retinal implant intended to restore vision to the millions of patients suffering from retinal degenerative diseases, particularly retinitis pigmentosa and age-related macular degeneration. These currently incurable and blinding diseases affect between 30-50 million people worldwide, and lead to a loss of independence for the individual, as well as an increased burden on their caregivers. Additionally besides the emotional and physical burden of vision loss, the cost of vision problems in the US alone is estimated at $139 billion. The work outlined in this SBIR proposal has the potential to significantly impact our understanding of retinal degenerative diseases, as well as the field of retinal prosthetics. The subretinal implant under development provides the framework for the next generation of high-resolution retinal prosthetics, while offering a cost-effective solution to vision restoration, and will help these patients regain independence and thus improve their quality of life.   ------------------
@@ -2570,7 +2570,7 @@
   poName: Nancy Kamei
   date: 08/29/2016
   startDate: 09/01/2016
-  expDate: 08/31/2018
+  expDate: 12/31/2018
   title: 'SBIR Phase II:  Design and Optimization of a Biocompatible Protein-Based
     Retinal Implant for the Treatment of End-Stage Retinal Degeneration'
 - abstractText: "This Small Business Innovation Research Phase I project focuses on
@@ -2887,11 +2887,11 @@
   fundsObligatedAmt: '1361310'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1353246'
-  piEmail: amgreen@alum.mit.edu
-  piFirstName: Allan
-  piLastName: Green
-  piMiddeInitial: M
-  piPhone: '4028750055'
+  piEmail: elyons@gfpharma.com
+  piFirstName: Edward
+  piLastName: Lyons
+  piMiddeInitial: L
+  piPhone: '6105510697'
   poName: Anna Brady-Estevez
   date: 04/03/2014
   startDate: 04/15/2014
@@ -3579,7 +3579,7 @@
   awardeeName: TAO Connect, Inc.
   awardeeStateCode: FL
   awardeeZipCode: '326016280'
-  fundsObligatedAmt: '719003'
+  fundsObligatedAmt: '860802'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1631871'
   piEmail: sherry.benton@taoconnect.org
@@ -3589,7 +3589,7 @@
   poName: Nancy Kamei
   date: 09/19/2016
   startDate: 10/01/2016
-  expDate: 09/30/2018
+  expDate: 03/31/2019
   title: 'SBIR Phase II:  An Intelligent Mental Health Therapy System'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to improve the treatment and decrease the high costs associated with treating patients who suffer severe traumatic brain injuries. This project aims to develop an accurate, affordable (<$100 per use) and non-invasive device to monitor a patient?s intracranial pressure following traumatic brain injury. Increased intracranial pressure can result in serious condition or death, if left untreated. However, the only available method to monitor intracranial pressure is expensive (~$10,000 per patient) and requires neurosurgery. The lack of a method to accurately screen patients to determine who needs surgery results in misdiagnoses and incorrect treatment in about 46% of patients among an estimated 50,000 patients in the US alone, and hundreds of thousands more globally. Successful commercialization of product is expected to result in savings in the range $250 million ever year to the US healthcare system.
@@ -3852,7 +3852,7 @@
   poName: Ben Schrag
   date: 09/11/2015
   startDate: 09/15/2015
-  expDate: 06/30/2018
+  expDate: 10/31/2018
   title: 'SBIR Phase II:  Rapid Pathogen Diagnostics and Biosurveillance using Multiplexed
     High-throughput Sequencing'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
@@ -4095,7 +4095,7 @@
   awardeeName: Radial Analytics, Inc.
   awardeeStateCode: MA
   awardeeZipCode: '017420000'
-  fundsObligatedAmt: '766000'
+  fundsObligatedAmt: '776000'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1758650'
   piEmail: thaddeus@radialanalytics.com
@@ -4212,7 +4212,7 @@
   awardeeName: Mgenuity Corporation
   awardeeStateCode: NJ
   awardeeZipCode: 077381209
-  fundsObligatedAmt: '782749'
+  fundsObligatedAmt: '928897'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1632573'
   piEmail: ATTILA@MGENUITY.COM
@@ -4222,7 +4222,7 @@
   poName: Rajesh Mehta
   date: 08/20/2016
   startDate: 09/01/2016
-  expDate: 08/31/2018
+  expDate: 02/28/2019
   title: 'SBIR Phase II:  Avatar-guided system to develop mastery in mathematical
     problem solving.'
 - abstractText: |-
@@ -5003,6 +5003,57 @@
   expDate: 06/30/2000
   title: 'SBIR Phase I:  Understanding ''Construction/Deconstruction'' and the Role
     of Resistance in Accelerated Learning'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase I project concerns
+    the development of an assessment tool that will enable users to profile a decision-maker's
+    cognitive agility and expertise in high-level business situations.  It is appropriate
+    for evaluating decision makers in organizations and for evaluating students.  It
+    is based on results from WTRI's recent basic research that has uncovered mechanisms
+    that may be involved in the determination of business expertise.  It uses knowledge
+    elicitation technology that WTRI has developed over several years to support research
+    on the identification of intuitive expertise (in the sense of Dreyfus, 1997).
+    \ The project outlines a plan to develop an on-line internet based version that
+    is self-scoring and has been tested among well-known experts. The product will
+    also be field-tested for its ability to predict general vs. industry specific
+    expertise.  The expected outcome is an easy to administer technology that can
+    used by professional evaluators, professors, students or individuals and will
+    assist in staff development and education.  The profiles of expertise generated
+    by the product will identify hidden strengths, areas of weakness, and suggestions
+    for further development.  A long-term goal is to create versions that can be distributed
+    by qualified resellers and universities. \n\nIn the current climate of rapid workplace
+    change, decision-makers need to continually evaluate their ability to adapt to
+    changes and re-invent their organization's value and competitive future.  Few
+    assessment tools address the cognitive underpinnings involved in the skill set
+    involved.  Rather, they evaluate personal traits or sub-skills that have some
+    correlation with leadership, broadly defined.  Using an empirically verified model
+    of expertise in business strategy development and performance prediction, WTRI
+    has built an assessment tool that locates an individual against this model, much
+    like chess players are evaluated against a notion of a Chess Grand Master.  When
+    applied to individual client situations, this tool has shown itself to have powerful
+    predictive capability and has successfully informed staff development efforts.
+    \ Its distinctive feature is assessment of the ability to analyze disparate sources
+    of information in order to make strategy level decisions and supporting tactical
+    plans.  Making it more widely available and usable by non-scientists would greater
+    contribute to efforts to increase the performance of both organizations and decision
+    makers.  Organizations, distributors and several institutions of higher learning
+    have expressed interest in this project to address what they consider to be an
+    unmet need area."
+  awardeeAddress: 3333 Camino Del Rio S
+  awardeeCity: San Diego
+  awardeeCountryCode: US
+  awardeeName: Workplace Technologies Research Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '921083837'
+  fundsObligatedAmt: '100000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '0441737'
+  piEmail: Lia@wtri.com
+  piFirstName: Lia
+  piLastName: DiBello
+  piPhone: '6192328054'
+  date: 11/24/2004
+  startDate: 01/01/2005
+  expDate: 06/30/2005
+  title: 'SBIR Phase I:     Cognitive Agility Assessment Tool'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase I project aims
     to enable users to develop expertise in Project Management in the context of emulated
     businesses, using 3D Virtual World platforms with the goal of developing expertise
@@ -5055,57 +5106,6 @@
   expDate: 06/30/2014
   title: 'SBIR Phase I: Learning PM Skills Through "Experience"; Realistic Rehearsal
     for Project Teams in 3D Virtual Environments.'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase I project concerns
-    the development of an assessment tool that will enable users to profile a decision-maker's
-    cognitive agility and expertise in high-level business situations.  It is appropriate
-    for evaluating decision makers in organizations and for evaluating students.  It
-    is based on results from WTRI's recent basic research that has uncovered mechanisms
-    that may be involved in the determination of business expertise.  It uses knowledge
-    elicitation technology that WTRI has developed over several years to support research
-    on the identification of intuitive expertise (in the sense of Dreyfus, 1997).
-    \ The project outlines a plan to develop an on-line internet based version that
-    is self-scoring and has been tested among well-known experts. The product will
-    also be field-tested for its ability to predict general vs. industry specific
-    expertise.  The expected outcome is an easy to administer technology that can
-    used by professional evaluators, professors, students or individuals and will
-    assist in staff development and education.  The profiles of expertise generated
-    by the product will identify hidden strengths, areas of weakness, and suggestions
-    for further development.  A long-term goal is to create versions that can be distributed
-    by qualified resellers and universities. \n\nIn the current climate of rapid workplace
-    change, decision-makers need to continually evaluate their ability to adapt to
-    changes and re-invent their organization's value and competitive future.  Few
-    assessment tools address the cognitive underpinnings involved in the skill set
-    involved.  Rather, they evaluate personal traits or sub-skills that have some
-    correlation with leadership, broadly defined.  Using an empirically verified model
-    of expertise in business strategy development and performance prediction, WTRI
-    has built an assessment tool that locates an individual against this model, much
-    like chess players are evaluated against a notion of a Chess Grand Master.  When
-    applied to individual client situations, this tool has shown itself to have powerful
-    predictive capability and has successfully informed staff development efforts.
-    \ Its distinctive feature is assessment of the ability to analyze disparate sources
-    of information in order to make strategy level decisions and supporting tactical
-    plans.  Making it more widely available and usable by non-scientists would greater
-    contribute to efforts to increase the performance of both organizations and decision
-    makers.  Organizations, distributors and several institutions of higher learning
-    have expressed interest in this project to address what they consider to be an
-    unmet need area."
-  awardeeAddress: 3333 Camino Del Rio S
-  awardeeCity: San Diego
-  awardeeCountryCode: US
-  awardeeName: Workplace Technologies Research Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '921083837'
-  fundsObligatedAmt: '100000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '0441737'
-  piEmail: Lia@wtri.com
-  piFirstName: Lia
-  piLastName: DiBello
-  piPhone: '6192328054'
-  date: 11/24/2004
-  startDate: 01/01/2005
-  expDate: 06/30/2005
-  title: 'SBIR Phase I:     Cognitive Agility Assessment Tool'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase I project proposes a dynamic modeling technology that helps manufacturers visualize the top and bottom line financial impact of changes made at the strategic, tactical and operational levels of a business.  WTRI has a long history of research and applications that work with the way that people become intuitive experts, the ways that experts use technologies and the cognitive triggers underlying shifts in cognitive frameworks and capabilities.  One of the intellectual merits of the proposed research is that it will further add to knowledge on how technologies extend complex cognitive capabilities in manufacturing settings.  This tool promises to address two well-known problems limiting manufacturing competitiveness: decision making rigidity (e.g., recipe driven solutions) and the inability to think simultaneously on strategic and tactical levels.  Currently, complex and difficult to use versions of these models exist and have proven successful when used by WTRI principals and maintained by the firm's technicians. The research will explore the core features of the technology that have made it successful.  It will result in the development of cost effective versions that can be easily used by customers and which can be modified to their business issues without extensive re-programming.
 
@@ -6552,7 +6552,7 @@
   awardeeName: NGCodec Inc.
   awardeeStateCode: CA
   awardeeZipCode: '951262620'
-  fundsObligatedAmt: '760000'
+  fundsObligatedAmt: '909999'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1632567'
   piEmail: Adam.Malamy@NGCodec.com
@@ -6562,7 +6562,7 @@
   poName: Richard Schwerdtfeger
   date: 09/06/2016
   startDate: 09/15/2016
-  expDate: 08/31/2018
+  expDate: 08/31/2019
   title: 'SBIR Phase II:  A hardware FPGA implementation of H.265/HEVC low latency
     video encoder algorithms for professional applications'
 - abstractText: |-
@@ -6669,7 +6669,7 @@
   awardeeName: Multicore Photonics, Inc.
   awardeeStateCode: FL
   awardeeZipCode: '328173249'
-  fundsObligatedAmt: '750000'
+  fundsObligatedAmt: '760000'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660213'
   piEmail: chris.adams@multicore-photonics.com
@@ -6878,7 +6878,7 @@
   awardeeName: Waltz Networks, Inc.
   awardeeStateCode: NY
   awardeeZipCode: '148506281'
-  fundsObligatedAmt: '899999'
+  fundsObligatedAmt: '1399999'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1556120'
   piEmail: nithin.michael@gmail.com
@@ -6888,7 +6888,7 @@
   poName: Peter Atherton
   date: 03/18/2016
   startDate: 04/01/2016
-  expDate: 09/30/2018
+  expDate: 09/30/2019
   title: 'SBIR Phase II:  High Frequency Network Traffic Optimization'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase I project is to create custom crafted voices for text-to-speech
@@ -7196,7 +7196,7 @@
   awardeeName: NGD Systems, Inc.
   awardeeStateCode: CA
   awardeeZipCode: '926182932'
-  fundsObligatedAmt: '898973'
+  fundsObligatedAmt: '1398973'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660071'
   piEmail: vladimir.alves@ngdsystems.com
@@ -7207,7 +7207,7 @@
   poName: Peter Atherton
   date: 03/17/2017
   startDate: 03/15/2017
-  expDate: 02/28/2019
+  expDate: 02/29/2020
   title: 'SBIR Phase II:  SSD In-Situ Processing'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase I project will establish the feasibility and commercial potential of developing software technologies that enable disaster recovery and high availability for cloud-based web applications and mobile app back-ends (apps). The innovations address the key pain points associated with public cloud use as revealed by interviews conducted as part of the NSF I-Corps program: disruption, privacy, and lock-in.  The project plan is to design, develop, and empirically evaluate the utility, scale, and commercial potential of cutting edge proprietary software products that automate and make migration and failover easy for app developers that employ cloud-based services to implement their apps.
