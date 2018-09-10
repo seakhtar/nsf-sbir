@@ -17,7 +17,7 @@ Click on the "Go" button to the left of "References Cited":
 
 _All proposals must have something in the References Cited section. If you do not have any references to cite, put a statement to that effect into this module._
 
-![References cited button on main form preparation screen]({{ site.baseurl }}/assets/img/fastlane/25-MainScreen-references-cited.jpg)
+![References cited button on main form preparation screen]({{ site.baseurl }}/assets/img/fastlane/Sep-referencesCited.png)
 
 When this section is completed, click **"Go Back"** to return to the "Form Preparation" screen.
 
@@ -29,7 +29,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 Click on the **"Go"** button to left of **"Budgets (Including Justification)":**
 
-![Budget button on main screen]({{ site.baseurl }}/assets/img/fastlane/26-MainScreen-project-budget.jpg)
+![Budget button on main screen]({{ site.baseurl }}/assets/img/fastlane/Sep-budgets.png)
 
 The budget should reflect the needs of the **proposed R&D project.**
 
