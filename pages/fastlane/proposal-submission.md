@@ -48,22 +48,28 @@ At this point, the Sponsored Research Officer (SRO) has to take the following st
 
 1. Go to the FastLane Home Page and select the "Research Administration" link.
 
-![FastLane homepage navigation bar]({{ site.baseurl }}/assets/img/fastlane/1_SRO_ResearchAdministration.jpg)
+![FastLane homepage navigation bar]({{ site.baseurl }}/assets/img/fastlane/Sep-SROlinks.png)
 
 2. The authorized organizational representative will be asked to provide the following Log-in information:
 - Last Name
 - NSF ID
 - Password
 
-![SRO login box]({{ site.baseurl }}/assets/img/fastlane/2_SRO_LogIn.jpg)
+![SRO login box]({{ site.baseurl }}/assets/img/fastlane/Sep-researchAdmin.png)
 
-3. Click **"Proposals/Supplements/File Updates/Withdrawals".** The screen displays on the **Documents in Progress** tab.
+3. Login to Research.gov with your NSF ID and Password
 
-![SRO dashboard screen]({{ site.baseurl }}/assets/img/fastlane/3_SRO_DocumentsInProgress.jpg)
+![NSF User Signin]({{ site.baseurl }}/assets/img/fastlane/Sep-signIn.png)
 
-4. Click **"Submit"** in the row for the proposal you want to submit.
+4. Navigate to 'Research Administration' from the 'My Desktop'
 
-![SRO documents in progress tab with table of documents]({{ site.baseurl}}/assets/img/fastlane/4_SRO_Submit.jpg)
+![Fastlane Desktop]({{ site.baseurl }}/assets/img/fastlane/Sep-fastlaneDesktop.png)
+
+![Research Admin]({{ site.baseurl }}/assets/img/fastlane/Sep-fastlaneResearchAdmin.png)
+
+Navigate to the SBIR proposal and select select ‘Edit’ to update the proposal and ‘Submit’ to submit the proposal to NSF.  Note:  The ‘ Submit’ link is only enabled once the user has AOR permissions!
+
+![Submit]({{ site.baseurl }}/assets/img/fastlane/Sep-proposalSubmission.png)
 
 5. The "Proposal Errors/Warnings" screen gives you the capability to submit the proposal, if there are no errors that prevent submission. Warnings will not prevent submission, but may alert you to missing items that are required by the specific program or solicitation. You are urged to address and correct these issues.
 
