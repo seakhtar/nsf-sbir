@@ -20,25 +20,25 @@ Submitting a proposal to NSF involves two steps in the Research Administration p
 
 ### Allow SRO Access
 
-1. To begin the submission process, return to the Proposal Actions screen; select and highlight the proposal you wish to submit and click on the button **"Allow SPO Access".**
+1. To begin the submission process, return to the Proposal Actions screen; select and highlight the proposal you wish to submit and click on the button **"Allow SPO Access".**  
 
  ![Allow SRO Access screen with selection box of proposals]({{ site.baseurl}}/assets/img/fastlane/44-proposal-action-screen.jpg)
 
-2. At this point, FastLane may notify you of some warnings and/or errors related to the proposal. "Errors" will prevent you from submitting the proposal until they are remedied. You will receive an "error" if modules or required documents are missing that must be included per NSF policy. _Proposers are strongly encouraged to submit their proposal early (days, not hours) to ensure adequate time is afforded to troubleshoot any errors that will prevent submission at this stage. FastLane will not accept any proposals after 5:00 pm submitter's time.  Your organization's time zone is set in the registration section of Research.gov._
+2. At this point, FastLane may notify you of some warnings and/or errors related to the proposal. "Errors" will prevent you from submitting the proposal until they are remedied. You will receive an "error" if modules or required documents are missing that must be included per NSF policy. _Proposers are strongly encouraged to submit their proposal early (days, not hours) to ensure adequate time is afforded to troubleshoot any errors that will prevent submission at this stage. FastLane will not accept any proposals after 5:00 pm submitter's time.  Your organization's time zone is set in the registration section of Research.gov.  
 
- ![Proposal Errors/Warnings screen showing list of errors in red]({{ site.baseurl}}/assets/img/fastlane/45-proposal-errors.jpg)
+ ![Proposal Errors/Warnings screen showing list of errors in red]({{ site.baseurl}}/assets/img/fastlane/45-proposal-errors.jpg)  
 
- FastLane may also give you **"warnings"** that do not prevent proposal submission, but could indicate missing items that are required by the solicitation. _Please be sure to review and address these warnings in the context of the specific solicitation requirements._
+ FastLane may also give you **"warnings"** that do not prevent proposal submission, but could indicate missing items that are required by the solicitation. _Please be sure to review and address these warnings in the context of the specific solicitation requirements.  
 
- ![Proposal Errors/Warnings screen showing list of warnings in black]({{ site.baseurl }}/assets/img/fastlane/46-proposal-warnings.jpg)
+ ![Proposal Errors/Warnings screen showing list of warnings in black]({{ site.baseurl }}/assets/img/fastlane/46-proposal-warnings.jpg)  
 
- When you are ready to continue, click **"Proceed"** to continue the submission process.
+ When you are ready to continue, click **"Proceed"** to continue the submission process.  
 
-3. If you are ready to complete the submission process, select the third *"Go"* button for "Allow AOR to view, edit and submit proposal."
+3. If you are ready to complete the submission process, select the third *"Go"* button for "Allow AOR to view, edit and submit proposal."  
 
-![SRO Access control screen]({{ site.baseurl }}/assets/img/fastlane/46-proposal-warnings.jpg)
+![SRO Access control screen]({{ site.baseurl }}/assets/img/fastlane/46-proposal-warnings.jpg)  
 
-4. Then click the **"OK"** button on the below screen.
+4. Then click the **"OK"** button on the below screen.  
 
  ![SRO Access control completion screen]({{ site.baseurl }}/assets/img/fastlane/49-AOR-complete-access.jpg)
 
