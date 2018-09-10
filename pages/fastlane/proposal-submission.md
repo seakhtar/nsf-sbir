@@ -50,10 +50,7 @@ At this point, the Sponsored Research Officer (SRO) has to take the following st
 
 ![FastLane homepage navigation bar]({{ site.baseurl }}/assets/img/fastlane/Sep-SROlinks.png)
 
-2. The authorized organizational representative will be asked to provide the following Log-in information:
-- Last Name
-- NSF ID
-- Password
+2. Select Sign in to Fastlane/Research.gov
 
 ![SRO login box]({{ site.baseurl }}/assets/img/fastlane/Sep-researchAdmin.png)
 
@@ -67,7 +64,7 @@ At this point, the Sponsored Research Officer (SRO) has to take the following st
 
 ![Research Admin]({{ site.baseurl }}/assets/img/fastlane/Sep-fastlaneResearchAdmin.png)
 
-Navigate to the SBIR proposal and select select ‘Edit’ to update the proposal and ‘Submit’ to submit the proposal to NSF.  Note:  The ‘ Submit’ link is only enabled once the user has AOR permissions!
+Navigate to the SBIR proposal and select select ‘Edit’ to update the proposal and ‘Submit’ to submit the proposal to NSF.  **Note:  The ‘ Submit’ link is only enabled once the user has AOR permissions!**
 
 ![Submit]({{ site.baseurl }}/assets/img/fastlane/Sep-proposalSubmission.png)
 
