@@ -13,7 +13,7 @@ At the top of the **Form Preparation** page will be the text **Forms for Temp Pr
 Click on the **"GO"** button to the left of **"Cover Sheet"**.
 
 Cover sheet selection
-![Selecting a cover sheet]({{ site.baseurl }}/assets/img/fastlane/6-cover-sheet.jpg)
+![Selecting a cover sheet]({{ site.baseurl }}/assets/img/fastlane/Sep-coverSheetSelection.png)
 
 The Cover Sheet has been divided into 4 sections. **NOTE: To save your data, be sure to click the "OK" button at the bottom of the screen prior to navigating away from the Cover Sheet. If you receive any error messages when you click "OK", you must clear all errors and re-click "OK" to save the data.** 
 
@@ -135,7 +135,7 @@ NOTE: If the PI responds "YES" to the question "It has received Phase II awards 
 
 Click on the **"Go"** button to the left of **"Add/Delete Non Co-PI Senior Personnel":**
 
-![Main screen]({{ site.baseurl }}/assets/img/fastlane/24-MainScreen-add-delete-non-copi-senior-personnel.jpg)
+![Main screen]({{ site.baseurl }}/assets/img/fastlane/Sep-add-delete-personnel.png)
 
 Click "Add Non Co-PI Senior Person to Proposal" after inputting the First Name, Middle Initial and Last Name of each person. STTR has 1 Co-PI and SBIR has 0 Co-PIs.
 
