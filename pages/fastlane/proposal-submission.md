@@ -68,7 +68,7 @@ Navigate to the SBIR proposal and select select ‘Edit’ to update the proposa
 
 ![Submit]({{ site.baseurl }}/assets/img/fastlane/Sep-proposalSubmission.png)
 
-5. The "Proposal Errors/Warnings" screen gives you the capability to submit the proposal, if there are no errors that prevent submission. Warnings will not prevent submission, but may alert you to missing items that are required by the specific program or solicitation. You are urged to address and correct these issues.
+The "Proposal Errors/Warnings" screen gives you the capability to submit the proposal, if there are no errors that prevent submission. Warnings will not prevent submission, but may alert you to missing items that are required by the specific program or solicitation. You are urged to address and correct these issues.
 
 ![SRO proposal Error/Warnings screen with list of warnings]({{ site.baseurl }}/assets/img/fastlane/5_SRO_ProposalErrors.jpg)
 
