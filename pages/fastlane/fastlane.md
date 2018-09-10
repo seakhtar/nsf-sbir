@@ -90,6 +90,10 @@ Fill in Log In information in the "PI/CO-PI Log In" box on the right side of the
 
 ![PI Log In]({{ site.baseurl }}/assets/img/fastlane/1PILogIn.jpg)
 
+After logging into Research.gov as the Primary Investigator, click "Proposals, Awards & Status"
+
+![Proposal Awards and Status]({{ site.baseurl }}/assets/img/fastlane/Sep-desktop.png)
+
 On the **Principal Investigator (PI)/Co-Principal Investigator (CO-PI) Management** screen, select **"Proposal Functions"**
 
 ![Proposal Functions]({{ site.baseurl }}/assets/img/fastlane/2Proposal-functions.jpg)
