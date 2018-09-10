@@ -90,17 +90,17 @@ Fill in Log In information in the "PI/CO-PI Log In" box on the right side of the
 
 ![PI Log In]({{ site.baseurl }}/assets/img/fastlane/1PILogIn.jpg)
 
-After logging into Research.gov as the Primary Investigator, click "Proposals, Awards & Status"
+After logging into Research.gov as the Primary Investigator, click "**Proposals, Awards & Status**"
 
 ![Proposal Awards and Status]({{ site.baseurl }}/assets/img/fastlane/Sep-desktop.png)
 
 On the **Principal Investigator (PI)/Co-Principal Investigator (CO-PI) Management** screen, select **"Proposal Functions"**
 
-![Proposal Functions]({{ site.baseurl }}/assets/img/fastlane/2Proposal-functions.jpg)
+![Proposal Functions]({{ site.baseurl }}/assets/img/fastlane/Sep-proposalFunctions.png)
 
 On the **Proposal Functions** screen, click **"Proposal Preparation"**
 
-![Proposal preparation]({{ site.baseurl }}/assets/img/fastlane/3Proposal-prep.jpg)
+![Proposal preparation]({{ site.baseurl }}/assets/img/fastlane/Sep-proposalPrep.png)
 
 On the **Principal Investigator (PI) Information** screen, check the PI information for accuracy. You may choose to update or edit the PI information by selecting the **"Edit PI Information"** button. You cannot change the PI here. Once finished, click the **"Prepare Proposal"** button.
 
