@@ -221,6 +221,28 @@
   expDate: 08/31/2019
   title: 'SBIR Phase II:  Prototyping Reusable Dry Adhesives based on Scalable Fiber
     Spinning Technologies'
+- abstractText: |-
+    This Small Business Innovation Research Phase II project is focused on establishing full-scale production parameters, quality control procedures, operational testing and commercialization of cutting-edge compartmentalized vacuum composites. The broader impact/commercial potential of this project is in cold chain shipping, storage, building insulation, automobiles, aerospace and other advanced markets. The first application is in the cold chain shipping industry, for packaging and storage of temperature sensitive materials. A new generation of thin (less than 1"), light weight, highly insulated (R value 25-30), durable, and long service life boxes will meet a critical need in this area. Temperature-sensitive products such as vaccines, blood, organs, and diagnostic specimens are shipped using insulated containers, and the new materials to be developed will permit longer shipping duration, higher impact resistance, and re-usability. The cold chain shipping market includes the Red Cross, blood banks, pharmacies, clinical trial shippers, diagnostic centers, life science material providers and whole sale distributors. The annual United States market potential in life sciences packaging is estimated at $291 million.  The resulting materials also have significant potential for uses in permanent and temporary structures, and in a variety of transportation applications.
+
+    Successful completion of the Phase I work has resulted in cost-effective (an order of magnitude lower expected cost), stronger (ten times the impact resistance of Styrofoam), lightweight, thin (less than 1"), highly-insulating (R 16-22), compartmentalized vacuum composite materials.  An exclusive machining capability was also demonstrated, whereby vacuum composites can be cut and sized on-site without degradation in thermal performance, an issue which affects current vacuum insulation panels (VIPs).  Optimization of the developed composites to achieve targeted insulation rating, cost, and service life characteristics will be conducted during Phase II. Thermal performance, mechanical characteristics and operational performance will be evaluated for their application in cold chain shipping and in building/structural insulation. The team will also validate boxes fabricated using these materials in cold chain shipping to verify safe transportation of blood products, organs, and/or pharmaceuticals.  Based on the Phase II work, it is anticipated that these materials will be poised to replace petroleum-based foam materials and vacuum insulation panels as a high-performance and economical solution in these markets.
+  awardeeAddress: 8712 W 6th Avenue
+  awardeeCity: Stillwater
+  awardeeCountryCode: US
+  awardeeName: MaxQ Research LLC
+  awardeeStateCode: OK
+  awardeeZipCode: '740741192'
+  fundsObligatedAmt: '784023'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1456711'
+  piEmail: saravan@flymaxq.com
+  piFirstName: SaravanKumar
+  piLastName: Shanmugavelayudam
+  piPhone: '4056123928'
+  poName: Ben Schrag
+  date: 02/26/2015
+  startDate: 03/01/2015
+  expDate: 11/30/2018
+  title: 'SBIR Phase II:  Development of long service life vacuum insulation composites'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase II project extends to industry stakeholders holding financial
     interests that are impacted by climate change. Climate change has a scientifically
@@ -552,7 +574,7 @@
   awardeeName: Grow Plastics LLC
   awardeeStateCode: WA
   awardeeZipCode: '981154336'
-  fundsObligatedAmt: '692226'
+  fundsObligatedAmt: '807371'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1738543'
   piEmail: mikewagg@gmail.com
@@ -565,6 +587,28 @@
   startDate: 09/15/2017
   expDate: 08/31/2019
   title: 'SBIR Phase II:  High performance biodegradable sandwich core structures'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project seeks to de-risk the volume manufacturability and reliability of thin crystalline power MOSFETs fabricated with a novel exfoliation technology demonstrated in Phase 1.  The broader impact/commercial potential of this project is to enable lower cost and better performance for power devices in switching or transferring electricity under varying power requirements across the voltage spectrum in a variety of applications ranging from consumer, to communications, automotive and industrial applications.  In all of these applications, the ON resistance of the power MOSFET and IGBTs can be reduced and the switching speed and performance further improved by reducing the device thickness.  Additionally, in consumer and mobile applications, reducing the form factor of the power MOSFET devices can enable slimmer and lighter products.  A significant broader impact of this technology will be the reduction of expensive and environmentally hazardous waste treatment processes associated with wafer grinding technology used in the power MOSFET industry.  While the power MOSFETs developed using this technology can have broad commercial and societal impact, the use of this thin crystalline technology can have even broader impact across all modern semiconductor devices such as LED, PV, flexible CMOS and passive devices.
+
+    This Small Business Innovation Research (SBIR) Phase I project addresses challenges to further scaling of Power MOSFETs which are one of the key building blocks of the electronic revolution over the last few decades. While the feature size of transistors has been constantly shrinking, the substrate thickness has been increasing. These substrates are currently mechanically thinned to minimize the negative impact of this increased thickness on performance and form-factor. There are significant challenges to continue this trend and the thin crystalline technology and device architecture proposed here can enable continued scaling of device metrics over the next decade with favorable cost structures.  During phase I, functional power MOSFETs were demonstrated with this thin crystalline technology to establish the feasibility of this technology for power devices. This phase II effort will focus on the following specific technical challenges to bring it to market. (1) Develop power MOSFETs with improved switching characteristics using the thin crystalline technology (2) High voltage high current characterization of the thin crystalline power MOSFETs (3) Process yield and reliability characterization of package thin crystalline power MOSFET parts and (4) Convert existing process line to use thin crystalline exfoliation technology in high volume manufacturing flow.
+  awardeeAddress: 15844 garrison circle
+  awardeeCity: Austin
+  awardeeCountryCode: US
+  awardeeName: applied novel devices
+  awardeeStateCode: TX
+  awardeeZipCode: '787173005'
+  fundsObligatedAmt: '909999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1660078'
+  piEmail: leomathew@yahoo.com
+  piFirstName: leo
+  piLastName: mathew
+  piPhone: '5127757991'
+  poName: Richard Schwerdtfeger
+  date: 04/06/2017
+  startDate: 04/01/2017
+  expDate: 09/30/2019
+  title: 'SBIR Phase II:  Thin crystalline technologies for advanced power transistors'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase II project is to provide a sustainable, low-cost, and replicable
     method for large-scale production of micro-algal biomass. Microalgae production
@@ -621,28 +665,6 @@
   title: 'SBIR Phase II:  Large Scale Cultivation of Phytoplankton via Novel Photo-Bioreactor
     Technology'
 - abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project seeks to de-risk the volume manufacturability and reliability of thin crystalline power MOSFETs fabricated with a novel exfoliation technology demonstrated in Phase 1.  The broader impact/commercial potential of this project is to enable lower cost and better performance for power devices in switching or transferring electricity under varying power requirements across the voltage spectrum in a variety of applications ranging from consumer, to communications, automotive and industrial applications.  In all of these applications, the ON resistance of the power MOSFET and IGBTs can be reduced and the switching speed and performance further improved by reducing the device thickness.  Additionally, in consumer and mobile applications, reducing the form factor of the power MOSFET devices can enable slimmer and lighter products.  A significant broader impact of this technology will be the reduction of expensive and environmentally hazardous waste treatment processes associated with wafer grinding technology used in the power MOSFET industry.  While the power MOSFETs developed using this technology can have broad commercial and societal impact, the use of this thin crystalline technology can have even broader impact across all modern semiconductor devices such as LED, PV, flexible CMOS and passive devices.
-
-    This Small Business Innovation Research (SBIR) Phase I project addresses challenges to further scaling of Power MOSFETs which are one of the key building blocks of the electronic revolution over the last few decades. While the feature size of transistors has been constantly shrinking, the substrate thickness has been increasing. These substrates are currently mechanically thinned to minimize the negative impact of this increased thickness on performance and form-factor. There are significant challenges to continue this trend and the thin crystalline technology and device architecture proposed here can enable continued scaling of device metrics over the next decade with favorable cost structures.  During phase I, functional power MOSFETs were demonstrated with this thin crystalline technology to establish the feasibility of this technology for power devices. This phase II effort will focus on the following specific technical challenges to bring it to market. (1) Develop power MOSFETs with improved switching characteristics using the thin crystalline technology (2) High voltage high current characterization of the thin crystalline power MOSFETs (3) Process yield and reliability characterization of package thin crystalline power MOSFET parts and (4) Convert existing process line to use thin crystalline exfoliation technology in high volume manufacturing flow.
-  awardeeAddress: 15844 garrison circle
-  awardeeCity: Austin
-  awardeeCountryCode: US
-  awardeeName: applied novel devices
-  awardeeStateCode: TX
-  awardeeZipCode: '787173005'
-  fundsObligatedAmt: '760000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1660078'
-  piEmail: leomathew@yahoo.com
-  piFirstName: leo
-  piLastName: mathew
-  piPhone: '5127757991'
-  poName: Richard Schwerdtfeger
-  date: 04/06/2017
-  startDate: 04/01/2017
-  expDate: 03/31/2019
-  title: 'SBIR Phase II:  Thin crystalline technologies for advanced power transistors'
-- abstractText: |-
     This Small Business Technology Transfer (STTR) Phase II project aims to develop a sensor with the ability to provide an accurate, small, cost-effective, and low-power device for the detection and quantification of natural gas. The current U.S. industrial natural gas leak detector market is estimated to be $325 million, while the residential natural gas detector market exceeds $2 billion, both of which indicate the strong market potential of this technology. Phage-based colorimetric sensing is a new sensing mechanism, and has the potential to replace and improve detection across many applications. This project, if successful, will have a number of broader impacts.  Firstly, 670 billion cubic feet (cf) of methane is leaked annually in the U.S. natural gas industry. Better monitoring and recapturing of the lost gas will result in less reliance on imported gas (3 trillion cf in 2015), thus stimulating economic growth and reducing waste.  Additionally, a new type of sensor that provides accurate, compact, inexpensive, and power-efficient natural gas monitoring with wireless communication capabilities will enable large scale natural gas emission monitoring studies, providing a tool for scientists and regulators.  Finally, a reduction of methane emissions will help combat climate change, as methane is a powerful greenhouse gas.
 
     During the Phase I project, we have successfully fabricated colorimetric thin-film sensors, developed a data analysis algorithm, and shown our sensors are both consistent and selective against individual components of natural gas at industrially-suitable sensitivity. In Phase II, we will further improve the production and performance of the phage sensors. There are six objectives in this Phase II project. The first is to do sensor calibration using precise gas calibration instrumentation to improve sensor accuracy. Secondly, the sensors will undergo environmental stress testing to evaluate longevity. Third, a scale-up feasibility study will be undertaken to determine and optimize sensor cost. The fourth task involves the development of improved and more inexpensive sensor designs, while the fifth task will optimize the production process of the new sensor. The sixth objective involves a more comprehensive characterization of the sensor.  It is anticipated that by the end of Phase II, we will have a precisely- calibrated gas sensor with data recognition algorithms, and an established and scalable manufacturing model, resulting in an improved colorimetric sensor development kit for natural gas that better meets customer needs in the field.
@@ -674,7 +696,7 @@
   awardeeName: Ecovia Renewables Inc.
   awardeeStateCode: MI
   awardeeZipCode: '481039002'
-  fundsObligatedAmt: '749929'
+  fundsObligatedAmt: '1249929'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660217'
   piEmail: jeremy.minty@gmail.com
@@ -685,7 +707,7 @@
   poName: Anna Brady-Estevez
   date: 03/14/2017
   startDate: 03/15/2017
-  expDate: 02/28/2019
+  expDate: 02/28/2021
   title: 'SBIR Phase II:  Efficient Production of a High Performance and Eco-Friendly
     Superabsorbent Microbial Biopolymer for Hygiene Applications'
 - abstractText: |-
@@ -721,7 +743,7 @@
   awardeeName: ThoughtSTEM, LLC
   awardeeStateCode: CA
   awardeeZipCode: '921928025'
-  fundsObligatedAmt: '766000'
+  fundsObligatedAmt: '1095356'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1632539'
   piEmail: stephen@thoughtstem.com
@@ -732,7 +754,7 @@
   poName: Rajesh Mehta
   date: 07/31/2016
   startDate: 08/01/2016
-  expDate: 09/30/2018
+  expDate: 09/30/2020
   title: 'SBIR Phase II:  A Cloud-Based Tutoring Software For Teaching Coding to K-12
     Students through Integration with Popular Video Games'
 - abstractText: |-
@@ -745,7 +767,7 @@
   awardeeName: Aperiomics, Inc.
   awardeeStateCode: VA
   awardeeZipCode: '201472766'
-  fundsObligatedAmt: '914151'
+  fundsObligatedAmt: '1143384'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1534469'
   piEmail: ychen@aperiomics.com
@@ -755,7 +777,7 @@
   poName: Ben Schrag
   date: 09/11/2015
   startDate: 09/15/2015
-  expDate: 10/31/2018
+  expDate: 10/31/2019
   title: 'SBIR Phase II:  Rapid Pathogen Diagnostics and Biosurveillance using Multiplexed
     High-throughput Sequencing'
 - abstractText: |-
@@ -809,13 +831,13 @@
     at scale. Then, (3) using an experimental screening setup, the DNA for all the
     proposed pathways will be assembled screened at high-throughput for detectable
     production of the target chemicals."
-  awardeeAddress: 2715 W Fort St
+  awardeeAddress: 3421 Thorndyke Ave W
   awardeeCity: Seattle
   awardeeCountryCode: US
   awardeeName: ARZEDA Corp.
   awardeeStateCode: WA
-  awardeeZipCode: '981991224'
-  fundsObligatedAmt: '760814'
+  awardeeZipCode: '981190000'
+  fundsObligatedAmt: '1260814'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1456372'
   piEmail: alexandre.zanghellini@arzeda.com
@@ -825,7 +847,7 @@
   poName: Ruth M. Shuman
   date: 02/18/2015
   startDate: 03/01/2015
-  expDate: 09/30/2018
+  expDate: 09/30/2020
   title: 'SBIR Phase II:  A computational and experimental platform for the automated
     design of organisms used in the production of biochemicals'
 - abstractText: |-
@@ -1056,7 +1078,7 @@
   awardeeName: Sinter Print Inc
   awardeeStateCode: CO
   awardeeZipCode: '805162400'
-  fundsObligatedAmt: '893092'
+  fundsObligatedAmt: '1393092'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1758865'
   piEmail: jacob@elementum3d.com
@@ -1067,7 +1089,7 @@
   poName: Linda Molnar
   date: 02/26/2018
   startDate: 03/01/2018
-  expDate: 02/29/2020
+  expDate: 02/28/2022
   title: 'SBIR Phase II:  Reactive Additive Manufacturing of Advanced Superalloys
     for Turbine Engines'
 - abstractText: |-
@@ -1354,28 +1376,6 @@
   expDate: 03/31/2019
   title: 'SBIR Phase II:  Development of a Barrier Film to Prevent Post-operative
     Internal Scarring'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to combat modern day slavery in the United States and Canada. In this project the company will go beyond the public sector, selling its capabilities to the hospitality industry, which shares a role in tackling this problem. Banks also play a part in detecting financial transactions which stem from criminal revenue streams. These new markets expand the revenue opportunity and social impact of the technology. The proposed Phase II research and development will solve huge challenges voiced by the company's law enforcement users. The deployment of these research products through a platform that enables evidence management and collaboration will accelerate the impact by increasing communication among the fragmented law enforcement jurisdictions in the United States. This will enable agencies to conduct more effective investigations, and empower them to take on larger cases involving organized crime across state lines. Finally, human expertise will be developed within the company and through its partnership with Carnegie Mellon University to commercialize advanced computing research for real-world, social impact. These innovations will empower more victim rescues and exploiter prosecutions. The project will create a culture within the company to nurture engineers in social entrepreneurship.
-
-    This Small Business Innovation Research (SBIR) Phase II project will expand on machine learning technology created in Phase I to deobfuscate escort ads and implement end-to-end innovations for investigations. Each day, there are thousands of online data points related to prostitution. Hidden behind this content are victims of sex trafficking, those forced or coerced into sex work, including juveniles who have not reached the age of consent. Big Data presents the opportunity to seize this information to disrupt traffickers and organized groups who drive the cycle of exploitation. The company's research objectives include maximizing evidence recall using sophisticated crawlers and deobfuscation methods, as well as generating leads using natural language processing and multi-modal machine learning. The project will further develop computer vision capabilities to interpret features of an image and enable visual search for missing victims. It will formalize methods for collecting ground truth, preventing false positives, and diagnosing algorithmic performance relevant to users' needs. Finally, the company will deploy this research into accessible software products that provide real-time, digestible, and actionable information to law enforcement, resulting in the rescue of hundreds, or potentially thousands, of sex trafficking victims.
-  awardeeAddress: 4620 Henry Street
-  awardeeCity: Pittsburgh
-  awardeeCountryCode: US
-  awardeeName: Marinus Analytics LLC
-  awardeeStateCode: PA
-  awardeeZipCode: '152133715'
-  fundsObligatedAmt: '909894'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1660190'
-  piEmail: olli@marinusanalytics.com
-  piFirstName: Andreas
-  piLastName: Olligschlaeger
-  piPhone: '4123375427'
-  poName: Peter Atherton
-  date: 04/04/2017
-  startDate: 04/01/2017
-  expDate: 09/30/2019
-  title: 'SBIR Phase II:  Decoding Obfuscated Text to Find Trafficking Victims'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase II project focuses
     on the development of a low-cost, wireless, and energy harvesting environmental
     sensor, and a data aggregation / visualization platform to enable effective communication
@@ -1411,7 +1411,7 @@
   awardeeName: Radiator Labs, Inc.
   awardeeStateCode: NY
   awardeeZipCode: '112050000'
-  fundsObligatedAmt: '909278'
+  fundsObligatedAmt: '1408789'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1659038'
   piEmail: rigers@radiatorlabs.com
@@ -1421,8 +1421,30 @@
   poName: Richard Schwerdtfeger
   date: 04/04/2017
   startDate: 04/01/2017
-  expDate: 09/30/2019
+  expDate: 09/30/2021
   title: 'SBIR Phase II:  Low-cost, Wireless, Energy Harvesting Environmental Sensors'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to combat modern day slavery in the United States and Canada. In this project the company will go beyond the public sector, selling its capabilities to the hospitality industry, which shares a role in tackling this problem. Banks also play a part in detecting financial transactions which stem from criminal revenue streams. These new markets expand the revenue opportunity and social impact of the technology. The proposed Phase II research and development will solve huge challenges voiced by the company's law enforcement users. The deployment of these research products through a platform that enables evidence management and collaboration will accelerate the impact by increasing communication among the fragmented law enforcement jurisdictions in the United States. This will enable agencies to conduct more effective investigations, and empower them to take on larger cases involving organized crime across state lines. Finally, human expertise will be developed within the company and through its partnership with Carnegie Mellon University to commercialize advanced computing research for real-world, social impact. These innovations will empower more victim rescues and exploiter prosecutions. The project will create a culture within the company to nurture engineers in social entrepreneurship.
+
+    This Small Business Innovation Research (SBIR) Phase II project will expand on machine learning technology created in Phase I to deobfuscate escort ads and implement end-to-end innovations for investigations. Each day, there are thousands of online data points related to prostitution. Hidden behind this content are victims of sex trafficking, those forced or coerced into sex work, including juveniles who have not reached the age of consent. Big Data presents the opportunity to seize this information to disrupt traffickers and organized groups who drive the cycle of exploitation. The company's research objectives include maximizing evidence recall using sophisticated crawlers and deobfuscation methods, as well as generating leads using natural language processing and multi-modal machine learning. The project will further develop computer vision capabilities to interpret features of an image and enable visual search for missing victims. It will formalize methods for collecting ground truth, preventing false positives, and diagnosing algorithmic performance relevant to users' needs. Finally, the company will deploy this research into accessible software products that provide real-time, digestible, and actionable information to law enforcement, resulting in the rescue of hundreds, or potentially thousands, of sex trafficking victims.
+  awardeeAddress: 4620 Henry Street
+  awardeeCity: Pittsburgh
+  awardeeCountryCode: US
+  awardeeName: Marinus Analytics LLC
+  awardeeStateCode: PA
+  awardeeZipCode: '152133715'
+  fundsObligatedAmt: '909894'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1660190'
+  piEmail: olli@marinusanalytics.com
+  piFirstName: Andreas
+  piLastName: Olligschlaeger
+  piPhone: '4123375427'
+  poName: Peter Atherton
+  date: 04/04/2017
+  startDate: 04/01/2017
+  expDate: 09/30/2019
+  title: 'SBIR Phase II:  Decoding Obfuscated Text to Find Trafficking Victims'
 - abstractText: "This Small Business Innovation Research Phase II project aims to
     develop copper based pastes for the metallization of silicon solar cells. Photovoltaics
     (PV) offer an opportunity for clean and affordable energy and over the past decade
@@ -1631,7 +1653,7 @@
   awardeeName: Branch Technology LLC
   awardeeStateCode: TN
   awardeeZipCode: '374053878'
-  fundsObligatedAmt: '899999'
+  fundsObligatedAmt: '1399999'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1632267'
   piEmail: platt@branchtechnology.co
@@ -1642,7 +1664,7 @@
   poName: Linda Molnar
   date: 09/11/2016
   startDate: 09/15/2016
-  expDate: 02/28/2019
+  expDate: 02/28/2021
   title: 'SBIR Phase II:  Additive Manufacturing in Construction'
 - abstractText: "The broader impact/commercial potential of this Small Business Technology
     Transfer (STTR) Phase II project, in which a non-invasive respiratory muscle stimulation
@@ -1684,7 +1706,7 @@
   awardeeName: Liberate Medical LLC
   awardeeStateCode: KY
   awardeeZipCode: '400146773'
-  fundsObligatedAmt: '759408'
+  fundsObligatedAmt: '1257774'
   fundProgramName: STTR PHASE II
   id: '1632402'
   piEmail: angus@liberatemedical.com
@@ -1695,7 +1717,7 @@
   poName: Nancy Kamei
   date: 09/07/2016
   startDate: 09/15/2016
-  expDate: 12/31/2018
+  expDate: 12/31/2019
   title: 'STTR Phase II:  A Novel Abdominal Stimulator to Assist with Ventilator Weaning
     in Patients'
 - abstractText: "This Phase II project will commercialize a big-data analytics-based
@@ -1812,7 +1834,7 @@
   awardeeName: Active Layer Parametrics, Inc.
   awardeeStateCode: CA
   awardeeZipCode: '950663571'
-  fundsObligatedAmt: '909938'
+  fundsObligatedAmt: '1110105'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1632322'
   piEmail: ajoshi@alpinc.net
@@ -1822,7 +1844,7 @@
   poName: Richard Schwerdtfeger
   date: 07/31/2016
   startDate: 08/01/2016
-  expDate: 01/31/2019
+  expDate: 01/31/2020
   title: 'SBIR Phase II:  Activation and Mobility Profiling for High-mobility Semiconductor
     Materials'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
@@ -1890,7 +1912,7 @@
   awardeeName: Cinder Biological, Inc.
   awardeeStateCode: CA
   awardeeZipCode: '945212919'
-  fundsObligatedAmt: '749893'
+  fundsObligatedAmt: '899893'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1556089'
   piEmail: jillfuss@cinderbio.com
@@ -1901,7 +1923,7 @@
   poName: Ruth M. Shuman
   date: 04/01/2016
   startDate: 04/15/2016
-  expDate: 09/30/2018
+  expDate: 09/30/2019
   title: 'SBIR Phase II:  Improving food safety using hyper-stable enzyme cleaning
     products'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
@@ -1936,7 +1958,7 @@
   awardeeName: Hummingbird Nano, Inc.
   awardeeStateCode: KY
   awardeeZipCode: '405111268'
-  fundsObligatedAmt: '906123'
+  fundsObligatedAmt: '1406123'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1555996'
   piEmail: hawes@hummingbirdnano.com
@@ -1953,12 +1975,12 @@
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to offer custom crafted digital voices for text-to-speech applications. Each one of us has a unique voiceprint - an essential part of our self-identity. Though the quality of text-to-speech technology has improved, voice options remain limited. For the 2.5 million Americans (and tens of millions worldwide) living with voicelessness who rely on devices to talk, access to a custom digital voice is a game changer. It's the difference between a functional solution and being heard, uniquely, as oneself. Enhanced opportunities for social connection increase quality of life, independence, and access to educational and vocational resources that can narrow the gap between those with and without disability. This immediate unmet societal need, coupled with the increasing proliferation of devices that speak to us and for us, creates a compelling, timely and significant commercial opportunity for high quality, personalized digital voices that can be produced at scale. By leveraging the company's crowdsourced human voicebank and proprietary voice matching and blending algorithms the technology has the potential to empower everyone to express themselves through their own voice.
 
     This Small Business Innovation Research Phase II project builds on the company's NSF-funded research and Phase I results that support feasibility and commercialization of a customized voice building technology. The text-to-speech market, encompassing assistive technologies, enterprise and consumer applications, is currently valued at around $1B and is rapidly growing and ripe for innovation. To create custom voices, the company leverages the source-filter theory of speech production. From those who are unable or unwilling to record several hours of speech the company extracts a brief vocal sample - even a single vowel contains enough 'vocal DNA' to seed the personalization process. Identity cues of the source are then combined with filter properties of a demographically and acoustically matched donor in the company's voicebank. The result is a voice that captures the vocal identity of the recipient but the clarity of the donor. Phase II technical objectives address the need for 1) customer-driven voice customization, 2) quality assurance of crowdsourced recordings, 3) voice aging algorithms, and 4) targeted donor recruitment algorithms. These advances will help secure the assistive technology beachhead and spur innovations for broader applications such as virtual reality, personal robotics, and digital persona for the Internet of Things.
-  awardeeAddress: 15 Hickory Lane
+  awardeeAddress: 50 Leonard Street
   awardeeCity: Belmont
   awardeeCountryCode: US
   awardeeName: VOCALID INC
   awardeeStateCode: MA
-  awardeeZipCode: 024783303
+  awardeeZipCode: 024782517
   fundsObligatedAmt: '945299'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1555608'
@@ -1972,28 +1994,6 @@
   expDate: 09/30/2018
   title: 'SBIR Phase II:  VocaliD - Infusing Unique Vocal Identities into Synthesized
     Speech'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research Phase II project is to provide the paint and coatings industry with new high-performance, cost-competitive polymer/resin systems that reduce solvent emissions and use of petrochemicals.  In addition, these new polymer/resin systems enable one-component, ambient-cure coatings to be produced.  This means that highly protective coatings can be produced without the need for mixing multiple components together prior to application or applying heat or light to cure the coatings.  The one-component, ambient-cure features of these polymer/resin systems largely eliminate waste and energy costs associated with coating application and lend themselves to the production of paints and coatings that can be applied by the average person.  Compared to the current state-of-the-art in one-component, ambient-cured resins, these new polymer/resin systems provide dramatically shorter drying times, dramatically better chemical resistance, and much higher film hardness, while exhibiting excellent impact resistance and flexibility.  The highly desirable properties of these new cost-competitive polymer/resin systems will enable commercial success, while their low solvent emissions and high renewable content will reduce impact on the environment.
-
-    The objectives of this Phase II research project are to: 1) further optimize the polymer/resin systems to produce compositions that minimize solvent content and maximize performance, while meeting the cost constraints of the market; 2) put in place a pilot-line to provide potential customers with adequate sample sizes to enable their own evaluation of potential products, 3) generate weathering, corrosion, and storage/shelf stability data to further understand the application potential of optimized polymer/resin systems; and 4) optimize the polymer/resin production process to minimize cost and minimize production waste.  By meeting these objectives, the Phase II project will result in the generation of new polymer/resin systems that will enable the development and commercialization of new paints and coatings that are one-component, ambient-cured, low in solvent content that exhibit exceptional properties, while being primarily based on renewable materials.  Optimized polymer/resin systems will be provided to potential customers for their own internal evaluation.  If necessary, feedback from customer evaluations will be used to modify polymer/resin system composition to meet customer needs.  By the end of the Phase II project, the technology will be ready to proceed to manufacturing scale-up and product commercialization.
-  awardeeAddress: 1854 NDSU Research Cir N
-  awardeeCity: Fargo
-  awardeeCountryCode: US
-  awardeeName: Renuvix
-  awardeeStateCode: ND
-  awardeeZipCode: '581025706'
-  fundsObligatedAmt: '760000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1556069'
-  piEmail: andriy.popadyuk@renuvix.com
-  piFirstName: Andriy
-  piLastName: Popadyuk
-  poName: Ben Schrag
-  date: 02/29/2016
-  startDate: 03/01/2016
-  expDate: 08/31/2019
-  title: 'SBIR Phase II:  High-Performance, Environmentally Friendly Polymer Systems
-    for Paints and Coatings'
 - abstractText: "This Small Business Innovation Research Phase II project aims to
     deliver a cost-effective automated quality control (QC) system for manufacturing
     of radioactive drugs used in Positron Emission Tomography (PET). This system will
@@ -2033,7 +2033,7 @@
   awardeeName: Trace-Ability, Inc.
   awardeeStateCode: CA
   awardeeZipCode: '904052716'
-  fundsObligatedAmt: '909999'
+  fundsObligatedAmt: '1104929'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1555815'
   piEmail: artem.lebedev@traceabilityinc.com
@@ -2043,9 +2043,31 @@
   poName: Ben Schrag
   date: 02/29/2016
   startDate: 03/01/2016
-  expDate: 02/28/2019
+  expDate: 02/29/2020
   title: 'SBIR Phase II:  Development of a simple device that eliminates bottlenecks
     in radiopharmaceutical production'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research Phase II project is to provide the paint and coatings industry with new high-performance, cost-competitive polymer/resin systems that reduce solvent emissions and use of petrochemicals.  In addition, these new polymer/resin systems enable one-component, ambient-cure coatings to be produced.  This means that highly protective coatings can be produced without the need for mixing multiple components together prior to application or applying heat or light to cure the coatings.  The one-component, ambient-cure features of these polymer/resin systems largely eliminate waste and energy costs associated with coating application and lend themselves to the production of paints and coatings that can be applied by the average person.  Compared to the current state-of-the-art in one-component, ambient-cured resins, these new polymer/resin systems provide dramatically shorter drying times, dramatically better chemical resistance, and much higher film hardness, while exhibiting excellent impact resistance and flexibility.  The highly desirable properties of these new cost-competitive polymer/resin systems will enable commercial success, while their low solvent emissions and high renewable content will reduce impact on the environment.
+
+    The objectives of this Phase II research project are to: 1) further optimize the polymer/resin systems to produce compositions that minimize solvent content and maximize performance, while meeting the cost constraints of the market; 2) put in place a pilot-line to provide potential customers with adequate sample sizes to enable their own evaluation of potential products, 3) generate weathering, corrosion, and storage/shelf stability data to further understand the application potential of optimized polymer/resin systems; and 4) optimize the polymer/resin production process to minimize cost and minimize production waste.  By meeting these objectives, the Phase II project will result in the generation of new polymer/resin systems that will enable the development and commercialization of new paints and coatings that are one-component, ambient-cured, low in solvent content that exhibit exceptional properties, while being primarily based on renewable materials.  Optimized polymer/resin systems will be provided to potential customers for their own internal evaluation.  If necessary, feedback from customer evaluations will be used to modify polymer/resin system composition to meet customer needs.  By the end of the Phase II project, the technology will be ready to proceed to manufacturing scale-up and product commercialization.
+  awardeeAddress: 1854 NDSU Research Cir N
+  awardeeCity: Fargo
+  awardeeCountryCode: US
+  awardeeName: Renuvix
+  awardeeStateCode: ND
+  awardeeZipCode: '581025706'
+  fundsObligatedAmt: '760000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1556069'
+  piEmail: andriy.popadyuk@renuvix.com
+  piFirstName: Andriy
+  piLastName: Popadyuk
+  poName: Ben Schrag
+  date: 02/29/2016
+  startDate: 03/01/2016
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  High-Performance, Environmentally Friendly Polymer Systems
+    for Paints and Coatings'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to produce a new type of computer memory called Ferroelectric Dynamic Random Access Memory (FEDRAM). FEDRAM is cheap and can be mass-produced in current semiconductor manufacturing facilities. It also uses much less energy than current-state-of-the-art memories, and enables electronic devices to be much smaller in physical size. Commercially, FEDRAM works best as an embedded memory, which means they are ideally suited for products such as mobile phones where the processor and memory are on the same chip. Additionally, the same block of FEDRAM can be configured for high performance applications in addition to longer storage applications. This means that future devices will adapt to maximize power, performance, and usability. Due to the factors of price, performance, and low power, once FEDRAM is proven to work, it can potenitally be adopted in nearly every electronic device.
 
@@ -2079,7 +2101,7 @@
   awardeeName: 4 D Technology Corporation
   awardeeStateCode: AZ
   awardeeZipCode: '857065024'
-  fundsObligatedAmt: '848048'
+  fundsObligatedAmt: '1348048'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1556049'
   piEmail: erik.novak@4dtechnology.com
@@ -2089,7 +2111,7 @@
   poName: Ben Schrag
   date: 02/17/2016
   startDate: 03/01/2016
-  expDate: 02/28/2019
+  expDate: 08/31/2020
   title: 'SBIR Phase II:  High-Resolution Shop Floor Video-Rate Surface Metrology
     System'
 - abstractText: |-
@@ -2178,7 +2200,7 @@
   awardeeName: bioMASON Inc.
   awardeeStateCode: NC
   awardeeZipCode: '288041642'
-  fundsObligatedAmt: '873774'
+  fundsObligatedAmt: '1373774'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1534787'
   piEmail: ginger@biomason.com
@@ -2189,7 +2211,7 @@
   poName: Ben Schrag
   date: 08/21/2015
   startDate: 09/01/2015
-  expDate: 10/31/2018
+  expDate: 10/31/2020
   title: 'SBIR Phase II:  Efficacy of scaled up optimized urease producing microorganisms
     for manufacturing biocement binders towards a viable masonry construction material'
 - abstractText: |-
@@ -2446,7 +2468,7 @@
   awardeeName: Modular Genetics, Inc.
   awardeeStateCode: MA
   awardeeZipCode: 018010000
-  fundsObligatedAmt: '1121998'
+  fundsObligatedAmt: '1596998'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1353912'
   piEmail: kjarrell@modulargenetics.com
@@ -2456,7 +2478,7 @@
   poName: Anna Brady-Estevez
   date: 04/15/2014
   startDate: 05/01/2014
-  expDate: 11/30/2018
+  expDate: 09/30/2020
   title: 'SBIR Phase II:  Production of an Acyl Glycinate Surfactant by Fermentation'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase II project from
     Nanofiber Separations, LLC will establish an innovative type of bioseparation
@@ -2512,6 +2534,51 @@
   title: 'SBIR Phase II:  Efficient and Scalable Production of Functionalized Electrospun
     Nanofiber Felts of Regenerated Cellulose with Superior Capacity and Throughput
     for Bioseparations'
+- abstractText: "The broader impact/commercial potential of this STTR Phase II project
+    will result in significant economic activity through the utilization of waste
+    carbon dioxide. The photo-catalytic reactors funded in the project will lead to
+    novel methods to chemically store energy from the sun.  Each year, human activity
+    releases 38 billion tons of carbon dioxide into the atmosphere.  Dimensional Energy
+    envisions a future in which we can utilize this carbon dioxide as a feedstock
+    for industrial production of hydrocarbon fuels and chemical intermediaries by
+    harnessing the power of the sun. \n\nThis STTR Phase II project proposes to develop
+    HI-Light - a photo-thermo-catalytic reactor platform technology that enables the
+    conversion of CO2 and water to synthesis gas at a rate significantly greater than
+    the state of the art.  The unique feature of the technology is that it uses embedded
+    optical waveguides to evenly distribute light within the reactor, increasing the
+    efficacy of the catalyst and ultimately the productivity of the system.  In Phase
+    I a fully functional integrated prototype reactor was constructed, demonstrating
+    continuous operation, and showing productivity in terms of the grams of hydrocarbon
+    produced per gram of catalyst per hour more than 10x greater than the state of
+    the art.  The approach solves the two major roadblocks in photo-conversion of
+    CO2: (1) the semiconductor catalysts can only use photons with energies greater
+    than their bandgap, which is a small fraction of those present in sunlight and
+    (2) a large fraction of the catalyst material in these reactors is under-utilized
+    due to sub-optimal light and reactant delivery.  Our unique reactor uses a patented,
+    multi-scale approach to enhance light and reagent transport directly to the reaction
+    site and makes use of traditionally unused photons to provide heat and enhance
+    reaction efficiency.\n\nThis award reflects NSF's statutory mission and has been
+    deemed worthy of support through evaluation using the Foundation's intellectual
+    merit and broader impacts review criteria."
+  awardeeAddress: 107 Penny Ln
+  awardeeCity: Ithaca
+  awardeeCountryCode: US
+  awardeeName: Dimensional Energy Inc.
+  awardeeStateCode: NY
+  awardeeZipCode: '148506273'
+  fundsObligatedAmt: '734607'
+  fundProgramName: STTR PHASE II
+  id: '1831166'
+  piEmail: jason@dimensionalenergy.net
+  piFirstName: Jason
+  piLastName: Salfi
+  piPhone: '5107083648'
+  poName: Anna Brady-Estevez
+  date: 09/07/2018
+  startDate: 09/15/2018
+  expDate: 08/31/2020
+  title: 'STTR Phase II: HI-LIGHT - Solar Thermal Chemical Reactor Technology for
+    Converting CO2 to Hydrocarbons'
 - abstractText: |-
     This SBIR Phase II project, the Engineering Design Instruction Software for implementing Objectives of Next generation standards (EDISON), will combine Science Technology Engineering and Mathematics (STEM) concepts together with engineering design, simulation, Augmented Reality (AR), 3-D printing, and real-world experiments. The project will create a collaborative platform for middle school engineering projects where students create, analyze, simulate, and construct designs for several types of projects like bridges, cars, circuits, simple machines, drones, and robots. This project will provide positive experiences with STEM and engineering in middle school, when many students lose interest in these economically vital fields. EDISON will foster STEM engagement and inquiry in middle school, by leveraging gaming, team collaboration, 3D printing, and augmented reality. The project will create engineering experiences that connect math and science content directly to real world applications to improve student academic performance in traditional science and math subjects. This work has the potential to promote effective integration of engineering in K-12, prepare students for future careers, expand scientific literacy, and engage diverse groups of students in STEM, supporting NSF's mission.
 
@@ -2714,34 +2781,6 @@
   expDate: 08/31/2020
   title: 'STTR Phase II:  Autonomous Landing of Small Unmanned Aircraft Systems onto
     Moving Platforms'
-- abstractText: |-
-    This SBIR Phase II project addresses low student engagement through a dynamic video delivery environment with a novel, real-time algorithm that adjusts the instructional pathway to each student's readiness level. According to research, the greatest challenge facing teachers is overcoming the fact that between 25-66% of students are disengaged. Adapting instruction to each student's learning background has long been touted as the most effective method to drive student engagement; when instruction is individualized, engagement and outcomes increase dramatically. By calibrating video segments to student readiness, this project delivers appropriately challenging instruction to most effectively sustain engagement. Building on promising results in Phase I, the project aims to improve engagement and outcomes for all Science, Technology, Engineering and Math (STEM) students and, most pointedly, impacts English Language Learners (ELL) who often fall behind in STEM classes because instruction is beyond their readiness and in-class support is insufficient. Considering that ELL population is the fastest-growing population of public school students in the United States, this project has a significant potential to drive a STEM proficient workforce. Furthermore, given a strong, pre-existing client base, the project team is well positioned to penetrate the $110 million immediately addressable market. By 2020, the project team expects to be changing how 10% of U.S. middle schoolers absorb STEM instruction, opening a pathway to the adoption of powerful blended classroom techniques that enhance engagement, improve learning, and promote STEM careers.
-
-
-
-    The core innovation is a research-founded algorithm to deliver appropriately complex instruction through all video segments. For successful delivery of appropriately complex instructional video segments, the project (1) measures student complexity readiness, (2) maintains a database of video segments categorized by complexity (using factors such as syntactic and lexical complexity), and (3) uniquely unifies that information to identify a real-time next step for that student (which video segment should be shown). The aim is to enhance outcomes by providing each student an appropriately complex instructional pathway forward. With roots in the leading interactive video solution, this project is made possible through access to a large database of tagged and curated videos (hundreds of thousands) and questions (millions) and provides an unprecedented opportunity to develop adaptive instructional pathways for a diverse learning spectrum. For Phase II, the project team's goal is to deploy a fully functioning classroom prototype of a product built around a middle school Physical Science unit and measure impact on engagement and learning. The team will employ stimulated recall interviewing techniques, speak aloud interview protocols, and quantitative usage logs to assess the feasibility of highly-adaptive video instruction to increase student engagement. Evaluation will include both formative components (to gauge implementation and iterative improvement) as well as summative components to assess impact on engagement and learning outcomes in a mixed-methods design including multiple pilot studies with control and experiment groups.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 4846 Church Lane
-  awardeeCity: Galesville
-  awardeeCountryCode: US
-  awardeeName: PlayPosit, Inc.
-  awardeeStateCode: MD
-  awardeeZipCode: '207650316'
-  fundsObligatedAmt: '749999'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1758114'
-  piEmail: benjaminalevy@gmail.com
-  piFirstName: Benjamin
-  piLastName: Levy
-  piMiddeInitial: A
-  piPhone: '9099088044'
-  poName: Rajesh Mehta
-  date: 03/05/2018
-  startDate: 03/01/2018
-  expDate: 02/29/2020
-  title: 'SBIR Phase II:  Increasing Student Engagement through Adaptive Instructional
-    Video Delivery'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase II project is to develop a manufacturing platform for opioid
     medicines. Opioids enable physicians to provide compassionate care to patients
@@ -2784,7 +2823,7 @@
   awardeeName: Antheia, Inc.
   awardeeStateCode: CA
   awardeeZipCode: '940255222'
-  fundsObligatedAmt: '733952'
+  fundsObligatedAmt: '1233952'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1758423'
   piEmail: kristy.m.hawkins@gmail.com
@@ -2794,8 +2833,36 @@
   poName: Ruth M. Shuman
   date: 03/05/2018
   startDate: 03/01/2018
-  expDate: 02/29/2020
+  expDate: 02/28/2022
   title: 'SBIR Phase II:  A complete bioprocess for medicinal plant opioids'
+- abstractText: |-
+    This SBIR Phase II project addresses low student engagement through a dynamic video delivery environment with a novel, real-time algorithm that adjusts the instructional pathway to each student's readiness level. According to research, the greatest challenge facing teachers is overcoming the fact that between 25-66% of students are disengaged. Adapting instruction to each student's learning background has long been touted as the most effective method to drive student engagement; when instruction is individualized, engagement and outcomes increase dramatically. By calibrating video segments to student readiness, this project delivers appropriately challenging instruction to most effectively sustain engagement. Building on promising results in Phase I, the project aims to improve engagement and outcomes for all Science, Technology, Engineering and Math (STEM) students and, most pointedly, impacts English Language Learners (ELL) who often fall behind in STEM classes because instruction is beyond their readiness and in-class support is insufficient. Considering that ELL population is the fastest-growing population of public school students in the United States, this project has a significant potential to drive a STEM proficient workforce. Furthermore, given a strong, pre-existing client base, the project team is well positioned to penetrate the $110 million immediately addressable market. By 2020, the project team expects to be changing how 10% of U.S. middle schoolers absorb STEM instruction, opening a pathway to the adoption of powerful blended classroom techniques that enhance engagement, improve learning, and promote STEM careers.
+
+
+
+    The core innovation is a research-founded algorithm to deliver appropriately complex instruction through all video segments. For successful delivery of appropriately complex instructional video segments, the project (1) measures student complexity readiness, (2) maintains a database of video segments categorized by complexity (using factors such as syntactic and lexical complexity), and (3) uniquely unifies that information to identify a real-time next step for that student (which video segment should be shown). The aim is to enhance outcomes by providing each student an appropriately complex instructional pathway forward. With roots in the leading interactive video solution, this project is made possible through access to a large database of tagged and curated videos (hundreds of thousands) and questions (millions) and provides an unprecedented opportunity to develop adaptive instructional pathways for a diverse learning spectrum. For Phase II, the project team's goal is to deploy a fully functioning classroom prototype of a product built around a middle school Physical Science unit and measure impact on engagement and learning. The team will employ stimulated recall interviewing techniques, speak aloud interview protocols, and quantitative usage logs to assess the feasibility of highly-adaptive video instruction to increase student engagement. Evaluation will include both formative components (to gauge implementation and iterative improvement) as well as summative components to assess impact on engagement and learning outcomes in a mixed-methods design including multiple pilot studies with control and experiment groups.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 4846 Church Lane
+  awardeeCity: Galesville
+  awardeeCountryCode: US
+  awardeeName: PlayPosit, Inc.
+  awardeeStateCode: MD
+  awardeeZipCode: '207650316'
+  fundsObligatedAmt: '749999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1758114'
+  piEmail: benjaminalevy@gmail.com
+  piFirstName: Benjamin
+  piLastName: Levy
+  piMiddeInitial: A
+  piPhone: '9099088044'
+  poName: Rajesh Mehta
+  date: 03/05/2018
+  startDate: 03/01/2018
+  expDate: 02/29/2020
+  title: 'SBIR Phase II:  Increasing Student Engagement through Adaptive Instructional
+    Video Delivery'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase II project is aimed to develop and commercialize an extendable/retractable telescopic structural wall for flood protection. This technology will enable more resilient infrastructure in flood-prone areas.  Coastal cities and riverine communities are vulnerable to flooding hazards. These population centers tend to be located near bodies of water, and finding the space to accommodate increasing populations, as well as hazard-resilient infrastructure, represents a challenge for city officials and the engineering community in general.  The commercial opportunity of the technology lies on the increasing worldwide need for flood protection. In fact, the World Bank estimates that 50 billion dollars a year will be spent worldwide in measures to mitigate this hazard. In U.S. only, floods are considered one of the costliest and deadliest natural hazards with an estimated 7.9 billion dollars in damages and 82 fatalities per year. This technology, when developed, will provide a paradigm shift for the prefabricated concrete industry. It will also develop and validate new methods for telescopic interconnection of structural elements.
 
@@ -3499,7 +3566,7 @@
   awardeeName: Maxterial, Inc.
   awardeeStateCode: CA
   awardeeZipCode: '948061971'
-  fundsObligatedAmt: '745060'
+  fundsObligatedAmt: '1245012'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660246'
   piEmail: ati.haghdoost@maxterial.com
@@ -3509,7 +3576,7 @@
   poName: Ben Schrag
   date: 03/17/2017
   startDate: 03/01/2017
-  expDate: 02/28/2019
+  expDate: 02/29/2020
   title: 'SBIR Phase II:  Non-Stick / Easy-Clean Coatings for High Temperature Applications'
 - abstractText: |-
     The broader impact/commercial potential of this project is the potential dollars saved in healthcare costs to environmental protection. The greatest overall savings cannot be judged only in dollars, but in helping to preserve human lives and end diseases and illnesses caused by problems with water. The product will provide unique opportunity to populations to test their water for safety and health benefits, in locations where good water treatment facilities do not exist. The water testing equipment market is divided into low-end, low-cost on-field test equipment (such as nitrate strip) that gives qualitative information about the analytes, and high-end testing devices used in labs (such as mass spectrometer) providing accurate quantitative information. If successful, the sensor technology will bridge the gap by providing low-cost, sensitive, accurate tools for quantitative measurement of analytes. The portable, low-cost, plug and play sensor product will cater to the needs of the water quality monitoring market. The product will also mobilize ?citizen scientist? to partake in environmental data collection and popularize sustainability education.
@@ -3534,6 +3601,28 @@
   expDate: 02/28/2019
   title: 'SBIR Phase II:  Multiplexed Smartphone-Based Handheld Sensor for Ion Contaminants
     Detection in Environmental Water'
+- abstractText: |-
+    This Small Business Innovation Research Phase II project answers the call that science students go beyond memorizing facts to understand content on a deeper, conceptual level. In chemistry, this goal is particularly difficult to achieve because the underlying concepts describe the behaviors of particles that are not directly observable to students. College instructors are also under added pressure to transform their teaching methods to help ensure student retention and success. In the subject area of organic chemistry, this transformation is even more important, due to the relatively high fail-rate in the course, especially for under-represented minorities and first generation students. The mobile learning tools and data collection platform in this project would help to solve both of these issues with an innovative method for intuitive learning and assessment which helps to make molecules and reactions come alive with game-based mobile applications. The game apps are playable by students of all ages, so the concepts of organic chemistry, as well as other science courses, become familiar and accessible as early as middle school. The broader vision is to open the pipeline for students to progress into STEM careers which have been difficult to reach in the past.
+
+    This project makes the theoretical touchable for organic chemistry students by building mobile game-based learning tools based on mechanisms, a key underlying concept used to teaching the course. This project will produce the Mechanisms suite of game apps, and bring an intuitive, tactile interface to learning chemistry. The research and development of this phase of the project will expand the user interaction model from Phase I to multiple modules of content for students. The data from the mobile learning tools will be synthesized with machine learning techniques to create an adaptive method to ensure the applications provide the appropriate level of challenge to the student learner. Clinical and longitudinal efficacy studies will be part of the research effort as the game modules are developed and released. The data platform will be optimized to integrate with multiple learning management systems and to be readily expandable to subjects beyond organic chemistry. The dashboard of the platform will allow both instructors and students to access the data and inform learning processes to achieve greater comprehension and success in the course. Commercialization will be achieved through direct-to-student downloads, subscriptions of the data platform by institutions, and licensing the technology to courseware providers.
+  awardeeAddress: 4735 Walnut Lake Road
+  awardeeCity: Bloomfield Hills
+  awardeeCountryCode: US
+  awardeeName: Alchemie Solutions, Inc.
+  awardeeStateCode: MI
+  awardeeZipCode: '483011328'
+  fundsObligatedAmt: '717355'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1659983'
+  piEmail: julia@alchem.ie
+  piFirstName: Julia
+  piLastName: Winter
+  piPhone: '2485318117'
+  poName: Rajesh Mehta
+  date: 03/09/2017
+  startDate: 03/01/2017
+  expDate: 02/28/2019
+  title: 'SBIR Phase II:  Game-Based Learning for Organic Chemistry Using Mechanisms'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research Phase II project, if successful, will be to advance the development of
     a novel microbial fuel cell (MFC) system that generates energy from the wastewater
@@ -3577,28 +3666,6 @@
   expDate: 02/28/2019
   title: 'SBIR Phase II:  Next-Generation Microbial Fuel Cell for Highly Efficient
     Wastewater Treatment'
-- abstractText: |-
-    This Small Business Innovation Research Phase II project answers the call that science students go beyond memorizing facts to understand content on a deeper, conceptual level. In chemistry, this goal is particularly difficult to achieve because the underlying concepts describe the behaviors of particles that are not directly observable to students. College instructors are also under added pressure to transform their teaching methods to help ensure student retention and success. In the subject area of organic chemistry, this transformation is even more important, due to the relatively high fail-rate in the course, especially for under-represented minorities and first generation students. The mobile learning tools and data collection platform in this project would help to solve both of these issues with an innovative method for intuitive learning and assessment which helps to make molecules and reactions come alive with game-based mobile applications. The game apps are playable by students of all ages, so the concepts of organic chemistry, as well as other science courses, become familiar and accessible as early as middle school. The broader vision is to open the pipeline for students to progress into STEM careers which have been difficult to reach in the past.
-
-    This project makes the theoretical touchable for organic chemistry students by building mobile game-based learning tools based on mechanisms, a key underlying concept used to teaching the course. This project will produce the Mechanisms suite of game apps, and bring an intuitive, tactile interface to learning chemistry. The research and development of this phase of the project will expand the user interaction model from Phase I to multiple modules of content for students. The data from the mobile learning tools will be synthesized with machine learning techniques to create an adaptive method to ensure the applications provide the appropriate level of challenge to the student learner. Clinical and longitudinal efficacy studies will be part of the research effort as the game modules are developed and released. The data platform will be optimized to integrate with multiple learning management systems and to be readily expandable to subjects beyond organic chemistry. The dashboard of the platform will allow both instructors and students to access the data and inform learning processes to achieve greater comprehension and success in the course. Commercialization will be achieved through direct-to-student downloads, subscriptions of the data platform by institutions, and licensing the technology to courseware providers.
-  awardeeAddress: 4735 Walnut Lake Road
-  awardeeCity: Bloomfield Hills
-  awardeeCountryCode: US
-  awardeeName: Alchemie Solutions, Inc.
-  awardeeStateCode: MI
-  awardeeZipCode: '483011328'
-  fundsObligatedAmt: '717355'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1659983'
-  piEmail: julia@alchem.ie
-  piFirstName: Julia
-  piLastName: Winter
-  piPhone: '2485318117'
-  poName: Rajesh Mehta
-  date: 03/09/2017
-  startDate: 03/01/2017
-  expDate: 02/28/2019
-  title: 'SBIR Phase II:  Game-Based Learning for Organic Chemistry Using Mechanisms'
 - abstractText: "This project seeks to develop, manufacture, and evaluate a novel
     nervous system simulation platform consisting of freely connectable electronic
     neuron modules. These devices will be used in the secondary education and post-secondary
@@ -3708,7 +3775,7 @@
   awardeeName: Vaxess Technologies, Inc.
   awardeeStateCode: MA
   awardeeZipCode: 021391226
-  fundsObligatedAmt: '909999'
+  fundsObligatedAmt: '1409999'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1632434'
   piEmail: Kathryn@vaxess.com
@@ -3718,7 +3785,7 @@
   poName: Linda Molnar
   date: 09/20/2016
   startDate: 10/01/2016
-  expDate: 03/31/2019
+  expDate: 03/31/2021
   title: 'SBIR Phase II:  A New Approach to Developing a Heat-stable Rotavirus Vaccine'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase II project will develop a robust, in-line plasmonic sensor for the detection of mercury in natural gas. Mercury naturally contaminates natural gas at the parts per million levels and can corrode critical aluminum components in processing facilities. Heat exchangers at Liquid Natural Gas (LNG) plants have failed catastrophically due to mercury corrosion, costing hundreds of millions of dollars of damage and injuring workers.  Current monitoring methods cannot operate at the high pressures found in the process gas lines, leading to inaccurate measurements and unreliable instruments. LNG is a growing share of global energy as natural gas replaces more carbon intensive fossil fuels. By 2020, 30 LNG plants will be operating world wide, for a total mercury monitoring market of $136 million. Mercury monitoring at petrochemical facilities broadly is a $216 million per year market.  Mercury itself is a neurotoxin and a global pollutant; our sensor has the potential to aid in efforts to detect and remove mercury before it can impact human health. Beyond mercury, plasmonic sensing is a novel technology with applications for a variety of chemical and biological species.
@@ -3766,6 +3833,28 @@
   expDate: 09/30/2018
   title: 'SBIR Phase II:  Simple and Effective Fouling Release Coatings To Make Industrial
     Heat Exchangers More Energy Efficient'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project seeks to improve the commercial viability of technology that enables the real time measurement and control of landfill gas extraction systems. It has the potential to improve the economics of the Landfill Gas to Energy (LFG-E) market and reduce the environmental impact of landfills. With industry-wide implementation, annual revenues from existing LFG-E projects could be increased by over $450 million. The additional energy produced would power over 350,000 homes. Methane is a powerful greenhouse gas (GHG), and the EPA estimates that in 2011, emissions from landfills accounted for nearly 17.5% of generation from all manmade sources in the US. The associated reduction in GHG emissions from improved landfill gas collection would be equivalent to the emissions of over 3.6 billion gallons of gasoline or 76 million barrels of oil. Furthermore, because of the improved economics, this Phase II project could encourage the development of new LFG-E projects, further expanding the size and value of this market. According to EPA estimates, currently undeveloped sites could account for an additional 850 MW of power generation, enough to power over 508,000 homes.
+
+    The technical objectives of the project are 1) to reduce the cost of various system components, and 2) to address new product requirements related to third party safety and other certifications that are demanded by the market. The approach to cost reduction is to replace several commercially available off-the-shelf components (specifically, NDIR gas sensors and an electrically-actuated control valve) with custom designed alternatives that can meet product functional requirements at a 30% reduction in cost. In order to achieve the certifications that are demanded by the market it will be necessary to define the specific standards and protection concepts that are applicable, and then re-engineer hardware in accordance with these standards. This will involve a combination of component substitution and system re-design, depending on the specific protection concept(s) and hazardous location classification that are identified. The research will build upon the reliability and product functionality improvements that were a key outcome of the Phase I project, and successful completion of the research goals will enable more widespread adoption of real time control technology in the landfill gas industry.
+  awardeeAddress: 99 South Main Street, Suite 310
+  awardeeCity: Fall River
+  awardeeCountryCode: US
+  awardeeName: Loci Controls, Inc
+  awardeeStateCode: MA
+  awardeeZipCode: 027215349
+  fundsObligatedAmt: '1250000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1632439'
+  piEmail: joe.michels@locicontrols.com
+  piFirstName: Joseph
+  piLastName: Michels
+  piPhone: '9172255950'
+  poName: Anna Brady-Estevez
+  date: 09/08/2016
+  startDate: 09/15/2016
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  Automatic Control of Landfill Gas Collection'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research Phase II project is to help protect the environment by replacing existing toxic and environmentally-hazardous corrosion inhibitors used as lubricant additives with more eco-friendly alternatives. Release of lubricants (for example from loss during use, improper disposal of waste lubricants, accidental spillage, or off-shore drilling) has the potential to cause damage to the environment. Awareness of the toxic nature of current lubricant additives is a driver to develop new technologies for more environmentally friendly products. This project addresses the development of novel, environmentally friendly corrosion inhibitor lubricant additives. Besides the environmental benefits of the new technology, the lubricant industry  may also benefit by expansion into environmentally sensitive market sectors (for example, marine lubricants used on ships) through the use of safer and less toxic additives. The new products also utilize non-petroleum based raw materials from renewable and sustainable resources, thus reducing dependence on petroleum. Apart from being non-toxic and environmentally friendly, the proposed products are also expected to be more effective inhibitors as compared to the products currently used in the market.
 
@@ -4008,7 +4097,7 @@
   awardeeName: SQZ Biotechnologies Company
   awardeeStateCode: MA
   awardeeZipCode: '021443142'
-  fundsObligatedAmt: '750000'
+  fundsObligatedAmt: '1249996'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1555789'
   piEmail: tia.ditommaso@sqzbiotech.com
@@ -4018,7 +4107,7 @@
   poName: Ruth M. Shuman
   date: 04/04/2016
   startDate: 04/15/2016
-  expDate: 10/31/2018
+  expDate: 10/31/2020
   title: 'SBIR Phase II:  Development of an Intracellular Delivery Platform for Accelerated
     Drug Discovery Using Genetically Engineered Human Immune Cells'
 - abstractText: |-
@@ -4145,7 +4234,7 @@
   awardeeName: Camras Vision, Inc.
   awardeeStateCode: NC
   awardeeZipCode: '277092076'
-  fundsObligatedAmt: '865805'
+  fundsObligatedAmt: '1365805'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1555923'
   piEmail: lucinda.camras@camrasvision.com
@@ -4155,7 +4244,7 @@
   poName: Nancy Kamei
   date: 02/17/2016
   startDate: 03/01/2016
-  expDate: 11/30/2018
+  expDate: 11/30/2019
   title: 'SBIR Phase II:  Adjustable Eye Pressure Control within an External Shunt'
 - abstractText: |-
     This Small Business Innovation Research Phase II project will develop a new analytical chemistry instrument for rapid quantitation of residual chemical impurities in complex mixtures. The target application for this project is the detection of genotoxic impurities during early drug development in pharmaceutical manufacturing. The instrument to be developed uses Fourier transform molecular rotational resonance (FT-MRR) spectroscopy to identify molecules based on their three dimensional geometry, which permits high chemical specificity.  FT-MRR is a high-resolution spectroscopy technique that makes it possible to directly analyze gas mixtures containing a large number of chemicals without the need for prior chemical separation using chromatography - a time-consuming step of current analysis methods that requires significant technical supervision.  As a result, FT-MRR based chemical analysis instruments have the potential to speed up innovation for pharmaceutical manufacturers by reducing analytical development cycles from weeks to hours during the high-throughput drug innovation process.  Chemical analysis instruments using FT-MRR spectroscopy enable faster innovation in research and development labs with the added benefit of seamless method transferability to on-line process monitoring applications and routine quality control for final product release.
@@ -4212,7 +4301,7 @@
   awardeeName: WattGlass LLC
   awardeeStateCode: AR
   awardeeZipCode: '727017175'
-  fundsObligatedAmt: '905638'
+  fundsObligatedAmt: '1298004'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1556072'
   piEmail: corey@wattglass.com
@@ -4222,7 +4311,7 @@
   poName: Ben Schrag
   date: 02/01/2016
   startDate: 02/15/2016
-  expDate: 01/31/2019
+  expDate: 01/31/2021
   title: 'SBIR Phase II:  High-Performance Self-Cleaning, Anti-Reflective Coating
     for Photovoltaic Glass'
 - abstractText: |-
@@ -4379,6 +4468,28 @@
   expDate: 03/31/2019
   title: 'SBIR Phase II:  A novel and cost effective mechanical ventilator for pandemic
     preparedness and emergency stockpiling'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project results from the development  of a new class of graphical-media-design system that lies between today's 2D digital paint systems and 3D computer-aided design systems. This technology will allow architects, engineers, artists, and school children to create compelling 3D experiences directly from their drawings without extensive training. Furthermore, it will accelerate the creation of interactive 3D content and significantly reduce the time, cost and expertise currently required to create it. By bridging the gap between traditional drawings and 3D modeling, this project will provide the unique ability to reuse and "reproject" drawn strokes, thus enabling the creation of expressive 3D drawings with minimal effort. The technology developed in this project will help lower the barrier and generate new business opportunities in content creation for electronic publishing and for other creative professionals, such as architects, designers, and ad-agency art directors. Finally, this project includes specific outreach activities, through collaboration with the American Museum of Natural History, that will provide unique educational services to the local community, while simultaneously introducing this new technology to the world.
+
+    This Small Business Innovation Research (SBIR) Phase II project will focus on making the creation of this new type of graphical media as intuitive and fluid as paper and pencil. This Phase II project will support system improvements - including user-interface improvements - to simplify 3D navigation for the consumers of this media. This will be needed for using this media in digital children's picture books, which have already been identified as early adopters of this technology as well as an important market. Another technical objective will be to develop a hybrid vector-raster representation, which will provide a wider range of artistic expression, while improving rendering performance of large scenes. A third objective is to develop stroke deformation algorithms to support direct manipulation of objects and characters to provide sketch-driven animation capabilities.
+  awardeeAddress: 61 Hartford Avenue
+  awardeeCity: Madison
+  awardeeCountryCode: US
+  awardeeName: Mental Canvas, LLC
+  awardeeStateCode: CT
+  awardeeZipCode: '064432743'
+  fundsObligatedAmt: '1204673'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1431013'
+  piEmail: info@mentalcanvas.com
+  piFirstName: Aaron
+  piLastName: Isaksen
+  piPhone: '6179708202'
+  poName: Peter Atherton
+  date: 09/08/2014
+  startDate: 10/01/2014
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  Reimagining Sketch in the Digital Age'
 - abstractText: |-
     This Small Business Innovation Research Phase II project will eliminate remaining barriers to the production of bamboo fibers for use as a reinforcement in polymer composites. The broader impact/commercial potential of this project will be an increased usage of sustainable materials, increased revenue for US agriculture, and increased domestic and international sales of a new and innovative product line.  Success in this project will also lead to domestic job creation needed to support the research, manufacturing, and sales of these composites. The processes to be finalized during this Phase II project will support the growth of a nascent based on US-manufactured, environmentally-friendly products. Within three years of launch, it is expected that over $4 million in revenue will be generated by sales of bamboo fiber.  Moreover, increases in bamboo cultivation as a result of these new products will help mitigate adverse environmental impacts and improve public health. This will be done by the inherent sequestration of carbon dioxide in the plant growth cycle, and a reduction in the pollution associated with the use of high-energy glass fiber and plastics processing techniques.
 
@@ -4629,6 +4740,32 @@
   expDate: 02/28/2019
   title: 'SBIR Phase II:  Ion-Exchange Fiber Composites for Rapid and Selective Removal
     of Perchlorate from Water'
+- abstractText: |-
+    This STTR Phase II project will focus on the development of cost effective, high temperature molten salt heat transfer fluids for third generation concentrated solar power (CSP) plants with operating temperatures >700?C. In the Phase I of this research, an additive package was developed that formed an adherent ceramic oxide coating on 316/316L stainless steel at the temperatures >700?C when added to specific chloride salt blends and inhibit corrosion. The utilization of the inhibitor package strategy will enable the utilization of economical stainless-steel alloys in the CSP plants and would reduce the infra-structure cost. Such solutions will have a direct impact on the renewable energy market which would help to lower the Levelized Cost of Energy (LCOE) for thermal solar from the current cost of 12?/kwh to the target 3?/kwh by 2030. The scientific and technological insight gained in this project could be beneficial to many other applications, such as molten carbonate fuel cells, thermal energy storage systems, nuclear molten fluoride/chloride reactors, and other high-temperature systems that are susceptible to aggressive corrosion. Incorporation of the inhibited molten chloride salt in the CSP plants will also provide sustainable green energy, reduce water usage, create more jobs and offer U.S. energy independence and security. On a societal level, impact will be achieved by the continued delivery and development of educational activities based on the research topics embodied by this work.
+
+
+    The core innovation in this proposed program is the development of a chemical mixture, an additive package that would minimize the corrosion of stainless steel induced by molten chloride salts at temperatures >700?C. The additive package reacts with the stainless steel and forms a corrosion inhibiting ceramic oxide coating in-situ when added to the molten chlorides at operating temperatures>700?C. The chloride salts are proposed to be the heat transfer fluids for third generation CSP plants. The feasibility of the inhibitor package strategy in a real world CSP plant will be critically assessed in this proposed research. A prototype bench scale molten test loop will be designed and built to mimic the flow conditions in a CSP plant. The effect of prolonged exposure to high temperature molten salts on the mechanical properties of the base metal under dynamic conditions will be studied with attention to the molten salt induced degradation of strength and toughness at elevated temperatures. The degradation behavior of the salt with the inhibitor package will be studied as well. Additional research will be performed to gain fundamental insight on the nucleation and growth of the ceramic oxide coating and its thermal and mechanical stability in dynamic flow conditions.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 5250 West Coplay Road
+  awardeeCity: Whitehall
+  awardeeCountryCode: US
+  awardeeName: Dynalene Inc.
+  awardeeStateCode: PA
+  awardeeZipCode: '180522212'
+  fundsObligatedAmt: '737213'
+  fundProgramName: STTR PHASE II
+  id: '1831220'
+  piEmail: sreyad@dynalene.com
+  piFirstName: Sreya
+  piLastName: Dutta
+  piPhone: '6102629686'
+  poName: Rajesh Mehta
+  date: 09/08/2018
+  startDate: 09/15/2018
+  expDate: 08/31/2020
+  title: 'STTR Phase II:  Corrosion Inhibition of Stainless Steel Alloys in High Temperature
+    Chloride Salts for Concentrated Solar Power Applications'
 - abstractText: |-
     This SBIR Phase II project aims to transform intravenous (IV) infusions of biologic medicines into simple subcutaneous (SC) injections. Biologics have improved the treatment of human disease. Unfortunately, their delivery is burdensome. The standard of administration of these biologics is often by IV infusion at low concentrations, which can take multiple hours to deliver, cause patient discomfort, and increase the risk of infection. Although SC injection is preferred, constraints on SC volume (1.5-2.0 mL) would necessitate concentrations much greater than 100 mg/mL, which are often unfeasible. Solutions at concentrations exceeding 100 mg/mL are highly viscous (honey-like), making them difficult to inject and leading to unstable products. This project's microparticle suspension technology can deliver high concentrations while fully preserving the protein structure, function, and efficacy. Transforming the delivery of biologics offers advantages to patients, healthcare providers, payers, and biopharmaceutical companies. Patients will experience less pain and discomfort, save time, have fewer infections, and have better access to biologics. Healthcare providers will be able to process more patients, decrease the chance of complications, and use fewer human resources. Payers will have decreased reimbursement costs. Biopharmaceutical companies will have patented product differentiation and the ability to develop otherwise intractable biologics.
 
@@ -5178,6 +5315,29 @@
   title: 'SBIR Phase II:  Automating the Design of Photonic Devices using Cloud-Based
     Computational Electromagnetics'
 - abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to establish a broadly applicable, breakthrough biocatalytic technology to produce an important class of compounds called chiral cyclopropanes.  Cyclopropanes are key intermediates that are used in the synthesis of drugs, crop protection agents, and high-value electronic chemicals. Products accessible using this technology have markets totaling more than $10 billion annually. If successful, the technology under development will create safer, cleaner, more sustainable routes to important chemical products that will lower cost by reducing the number of production steps, lowering the required capital investment, significantly decreasing waste. Replacing existing chemical routes with the more efficient and sustainable enzyme-catalyzed steps will also improve the purity of many advanced pharmaceutical intermediates used in the manufacture of drugs and crop protection chemicals.
+
+    This STTR Phase I project proposes to build on the results from Phase 1 in which a highly efficient biocatalytic process for the manufacture of the drug ticagrelor was developed using a novel, engineered enzyme. We will create an expanded set of cyclopropanation biocatalysts with the capability to act on a wider range of starting materials, thereby broadening the scope and utility of this new enzymatic reaction. We will complete the development and commercialization of the process for production of the key intermediate for ticagrelor and initiate work to develop novel biocatalysts to produce ley intermediates for anti-viral drugs. We will also develop and commercialize a set of enzymes that can be used by drug discovery chemists to establish efficient routes for next-generation drugs.
+  awardeeAddress: 1701 Colorado Ave
+  awardeeCity: Santa Monica
+  awardeeCountryCode: US
+  awardeeName: Provivi Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '904043436'
+  fundsObligatedAmt: '600000'
+  fundProgramName: STTR PHASE II
+  id: '1738308'
+  piEmail: drozzell@provivi.com
+  piFirstName: David
+  piLastName: Rozzell
+  piPhone: '3108282307'
+  poName: Anna Brady-Estevez
+  date: 09/21/2017
+  startDate: 09/15/2017
+  expDate: 08/31/2019
+  title: 'STTR Phase II:  Enzymatic Synthesis of Chiral Cyclopropanes for Pharmaceutical
+    Drug Synthesis  and Agricultural Crop Protection Applications'
+- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be the development of software and monitoring system for the conservation of water resources and the economic sustainability of agricultural crop producers. Agricultural production uses a great deal of water. In California alone, 80% percent of all water usage goes to agriculture. As communities expand and drought conditions develop, the competition for scarce and expensive water resources has become intense. Growers need to minimize costs and water needs by making their irrigation practices more efficient. While new irrigation application technologies have reduced losses from wind drift, leakages and evaporation, large amounts of water are still be wasted as it washes through the soil past crop roots. The technology developed in this project will allow producers to track soil moisture movement through the soil profile and across fields. This will allow producers to develop irrigation strategies based on the unique conditions of their soil types and topography and reduce water waste. It will save producers money and enable them to stay in business and meet new governmental regulations regarding irrigation. Improvements in water management efficiencies and better crop management practices can increase crop production and uniformity, reduce food costs, and help preserve the environment.
 
     This SBIR Phase II project addresses priority challenges currently facing growers, producers, and agricultural scientists in effectively using water for crop (food) production. Soil and crop scientists have been examining the need for acquiring higher resolution moisture and temperature data throughout the root zone and across the landscape. A science-based approach is needed to optimally determine the number, location, and depths of sensors to accurately measure, and then model, soil properties for use in precise, effective and efficient water and crop management. Moreover, for perennial crops such as wine grapes, there also is a need to develop models and predictions relating these environmental conditions and historical data to crop quality and volume as well as long-term tree/vine health. The proposed technology uses novel visual analytics to organize the resulting massive data flows and novel predictive models to allow stakeholders to perform precision management of crops based on soil moisture conditions and other field conditions that have not been possible to date.
@@ -5200,29 +5360,6 @@
   title: 'SBIR Phase II:  Visual Information eNvironment for Effective agricultural
     management and Sustainability'
 - abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to establish a broadly applicable, breakthrough biocatalytic technology to produce an important class of compounds called chiral cyclopropanes.  Cyclopropanes are key intermediates that are used in the synthesis of drugs, crop protection agents, and high-value electronic chemicals. Products accessible using this technology have markets totaling more than $10 billion annually. If successful, the technology under development will create safer, cleaner, more sustainable routes to important chemical products that will lower cost by reducing the number of production steps, lowering the required capital investment, significantly decreasing waste. Replacing existing chemical routes with the more efficient and sustainable enzyme-catalyzed steps will also improve the purity of many advanced pharmaceutical intermediates used in the manufacture of drugs and crop protection chemicals.
-
-    This STTR Phase I project proposes to build on the results from Phase 1 in which a highly efficient biocatalytic process for the manufacture of the drug ticagrelor was developed using a novel, engineered enzyme. We will create an expanded set of cyclopropanation biocatalysts with the capability to act on a wider range of starting materials, thereby broadening the scope and utility of this new enzymatic reaction. We will complete the development and commercialization of the process for production of the key intermediate for ticagrelor and initiate work to develop novel biocatalysts to produce ley intermediates for anti-viral drugs. We will also develop and commercialize a set of enzymes that can be used by drug discovery chemists to establish efficient routes for next-generation drugs.
-  awardeeAddress: 1701 Colorado Ave
-  awardeeCity: Santa Monica
-  awardeeCountryCode: US
-  awardeeName: Provivi Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '904043436'
-  fundsObligatedAmt: '500001'
-  fundProgramName: STTR PHASE II
-  id: '1738308'
-  piEmail: drozzell@provivi.com
-  piFirstName: David
-  piLastName: Rozzell
-  piPhone: '3108282307'
-  poName: Anna Brady-Estevez
-  date: 09/21/2017
-  startDate: 09/15/2017
-  expDate: 08/31/2019
-  title: 'STTR Phase II:  Enzymatic Synthesis of Chiral Cyclopropanes for Pharmaceutical
-    Drug Synthesis  and Agricultural Crop Protection Applications'
-- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will result from greatly improving mobile app user experience, boosting developer productivity, and speeding up mobile innovations by automating the mundane and simplifying the complex in Android app testing.  Apps are now everywhere.  They innovate almost every industry.  By making it easy to build high-quality apps, users enjoy better experience and developers enjoy better productivity, benefiting every industry and person that use apps.
 
     This Small Business Innovation Research (SBIR) Phase II project seeks to modernize the software development process by combining both program analysis research breakthroughs and big data technologies. Toward this vision, this project aims to build a unique product with innovative technologies to help developers automatically test Android apps. The product continuously tests apps across code changes to detect issues such as performance regressions, crashes, and memory leaks, as soon as problematic code is introduced. In contrast, existing tools often alert developers too late, after real users have been affected and many code changes have been merged, making it both stressful and difficult to find the problematic code. The proposed product gives actionable diagnosis by pinpointing what problematic code developers need to fix and explaining the why and how of the fix. It is thus much more intelligent and easy to use than existing tools.
@@ -5232,7 +5369,7 @@
   awardeeName: NimbleDroid, Inc.
   awardeeStateCode: NY
   awardeeZipCode: '100125244'
-  fundsObligatedAmt: '909999'
+  fundsObligatedAmt: '1409999'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1738335'
   piEmail: ilya+nsf@nimbledroid.com
@@ -5242,7 +5379,7 @@
   poName: Peter Atherton
   date: 09/19/2017
   startDate: 09/15/2017
-  expDate: 02/29/2020
+  expDate: 02/28/2021
   title: 'SBIR Phase II:  Combining Program Analysis Breakthroughs and Big Data to
     Improve Mobile App Quality'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
@@ -5962,7 +6099,7 @@
   awardeeName: Visolis, Inc
   awardeeStateCode: CA
   awardeeZipCode: '947041910'
-  fundsObligatedAmt: '687510'
+  fundsObligatedAmt: '1187510'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660232'
   piEmail: yinglinlouie@gmail.com
@@ -5972,7 +6109,7 @@
   poName: Anna Brady-Estevez
   date: 03/28/2017
   startDate: 04/01/2017
-  expDate: 03/31/2019
+  expDate: 03/31/2020
   title: 'SBIR Phase II:  High performance monomers from biomass'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is in enabling more efficient Annual Wind Energy Production (AEP) while reducing the cost of energy (COE). This will make wind energy more attractive economically, improve the energy security of the U.S, create jobs, and indirectly help reduce greenhouse gas emissions. A 2% AEP increase is generally considered attractive. Two turbines (5kW and 50kW) tested during Phase I have shown an increase in AEP between 2% to 8% while reducing the COE by 1% to 6%. About 150,000 turbines worldwide can be potentially be retrofitted with this technology.
@@ -6234,7 +6371,7 @@
   awardeeName: Massachusetts Materials Technologies LLC
   awardeeStateCode: MA
   awardeeZipCode: 021394662
-  fundsObligatedAmt: '899965'
+  fundsObligatedAmt: '1399965'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660214'
   piEmail: s.bellemare@bymmt.com
@@ -6244,9 +6381,32 @@
   poName: Ben Schrag
   date: 02/24/2017
   startDate: 03/01/2017
-  expDate: 08/31/2019
+  expDate: 02/28/2021
   title: 'SBIR Phase II:  Hardness Strength and Ductility Tester for Field Assessment
     of Structures'
+- abstractText: |-
+    This SBIR Phase II project will develop an easy to use real-time formative assessment tool for educators that will be uniquely aligned to each student and deployed via a virtual reality learning game that uses venomous marine snails as a conduit for exploring scientific issues in nature. The USA is currently ranked 52nd in the world in science, technology, engineering, and mathematics (STEM) education. This is detrimental intellectually and economically to the future of American society. Recent studies indicate it is not what is taught, but how it is taught that enhances student-learning abilities, particularly as it pertains to STEM. As a result, this project is driven by the research objectives to understand how children learn specific science content and why certain game elements are better suited to convey scientific material. The outcome of this project is a proprietary multi-tiered formative assessment tool that can measure real time student learning of novel STEM content obtained through a virtual reality learning game experience. This project will enable teachers to nimbly tailor future instruction with individualized student learning goals.  Commercialization of the products created in this project will transform scientific learning and measurable engagement in educational games for social and economic benefit to meet the NSF?s mission of supporting education initiatives that improve the lives of U.S. Citizens, and generate income for tax revenue and jobs via the employment of software designers, educators and scientists.
+
+    The proprietary technology developed in this SBIR Phase II will be a first-of-its-kind assessment dashboard that will link virtual reality and web-based learning environments with formative assessment to fuel instruction and deepen learning. This project will build proprietary assessment tools into online and virtual reality games which continuously engage users in the process of scientific inquiry and discovery using novel formative assessments customized to each player. The proprietary assessment dashboard allows teachers and players to measure their progress in real-time and identify opportunities to enhance their STEM learning. Using Unity as the platform, player actions and decisions will be met with tailored formative assessments and ongoing feedback throughout game play. This feedback helps teachers delineate where their students are along their learning progressions and fuels further instruction. The novel approach of this assessment dashboard transforms qualitative and quantitative learning and has the potential to significantly enhance student engagement and commitment to scientific inquiry to support emerging science changemakers. The research objective of the player/teacher dashboard is to align feedback on student learning during game play with dynamic quantitative and qualitative formative assessment that create a seamless demonstration of knowledge acquisition while providing teachers with multiple opportunities to engage learners in deeper and more meaningful levels of inquiry before, during, and after gameplay. The products generated from this project are aligned to the Next Generation Science Standards (NGSS) and the International Baccalaureate (IB) program to ensure the content is of the highest caliber and distribution is to a large global customer base. The anticipated results from exposing teachers and students to this project will be increased competencies in STEM, which will transform players into lifelong learners and enhance engagement in STEM fields and careers.
+  awardeeAddress: 3203 Beverley Road
+  awardeeCity: Brooklyn
+  awardeeCountryCode: US
+  awardeeName: Killer Snails, LLC
+  awardeeStateCode: NY
+  awardeeZipCode: '112265519'
+  fundsObligatedAmt: '929999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1660065'
+  piEmail: jessica.o.hendrix@gmail.com
+  piFirstName: Jessica
+  piLastName: Hendrix
+  piPhone: '9178488036'
+  poName: Rajesh Mehta
+  date: 02/24/2017
+  startDate: 03/01/2017
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  Learning From Nature: Marine Educational Games With Big
+    IDEAS (Innovative Differentiated Educational Assessments in Science)'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase I project is aimed at improving healthcare patient outcomes,
     potentially saving lives, and decreasing healthcare costs. The Drug Quality and
@@ -6351,29 +6511,6 @@
   expDate: 02/28/2019
   title: 'SBIR Phase II:  Quasi-Active Prosthetic Ankle System:  Dynamic Angle and
     Stiffness Optimizations for Multiple Gait Activities'
-- abstractText: |-
-    This SBIR Phase II project will develop an easy to use real-time formative assessment tool for educators that will be uniquely aligned to each student and deployed via a virtual reality learning game that uses venomous marine snails as a conduit for exploring scientific issues in nature. The USA is currently ranked 52nd in the world in science, technology, engineering, and mathematics (STEM) education. This is detrimental intellectually and economically to the future of American society. Recent studies indicate it is not what is taught, but how it is taught that enhances student-learning abilities, particularly as it pertains to STEM. As a result, this project is driven by the research objectives to understand how children learn specific science content and why certain game elements are better suited to convey scientific material. The outcome of this project is a proprietary multi-tiered formative assessment tool that can measure real time student learning of novel STEM content obtained through a virtual reality learning game experience. This project will enable teachers to nimbly tailor future instruction with individualized student learning goals.  Commercialization of the products created in this project will transform scientific learning and measurable engagement in educational games for social and economic benefit to meet the NSF?s mission of supporting education initiatives that improve the lives of U.S. Citizens, and generate income for tax revenue and jobs via the employment of software designers, educators and scientists.
-
-    The proprietary technology developed in this SBIR Phase II will be a first-of-its-kind assessment dashboard that will link virtual reality and web-based learning environments with formative assessment to fuel instruction and deepen learning. This project will build proprietary assessment tools into online and virtual reality games which continuously engage users in the process of scientific inquiry and discovery using novel formative assessments customized to each player. The proprietary assessment dashboard allows teachers and players to measure their progress in real-time and identify opportunities to enhance their STEM learning. Using Unity as the platform, player actions and decisions will be met with tailored formative assessments and ongoing feedback throughout game play. This feedback helps teachers delineate where their students are along their learning progressions and fuels further instruction. The novel approach of this assessment dashboard transforms qualitative and quantitative learning and has the potential to significantly enhance student engagement and commitment to scientific inquiry to support emerging science changemakers. The research objective of the player/teacher dashboard is to align feedback on student learning during game play with dynamic quantitative and qualitative formative assessment that create a seamless demonstration of knowledge acquisition while providing teachers with multiple opportunities to engage learners in deeper and more meaningful levels of inquiry before, during, and after gameplay. The products generated from this project are aligned to the Next Generation Science Standards (NGSS) and the International Baccalaureate (IB) program to ensure the content is of the highest caliber and distribution is to a large global customer base. The anticipated results from exposing teachers and students to this project will be increased competencies in STEM, which will transform players into lifelong learners and enhance engagement in STEM fields and careers.
-  awardeeAddress: 3203 Beverley Road
-  awardeeCity: Brooklyn
-  awardeeCountryCode: US
-  awardeeName: Killer Snails, LLC
-  awardeeStateCode: NY
-  awardeeZipCode: '112265519'
-  fundsObligatedAmt: '780000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1660065'
-  piEmail: jessica.o.hendrix@gmail.com
-  piFirstName: Jessica
-  piLastName: Hendrix
-  piPhone: '9178488036'
-  poName: Rajesh Mehta
-  date: 02/24/2017
-  startDate: 03/01/2017
-  expDate: 02/28/2019
-  title: 'SBIR Phase II:  Learning From Nature: Marine Educational Games With Big
-    IDEAS (Innovative Differentiated Educational Assessments in Science)'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase II project will develop new alloys whose thermal expansion properties can be tailored for laser applications. The tailored thermal expansion alloys will prevent shifts in laser output frequencies, i.e. laser color, by preventing the natural temperature-induced thermal expansion and contraction that occurs in laser housings. This temperature stability is extremely important for fiber-optic systems that are the backbone of the telecommunications industry. According to Strategies Unlimited, the telecommunications laser market was $3.515 billion in 2014, and it is expected to increase with the increasing number of mobile devices and growing demand for high-speed internet. While oil and gas telecommunications systems were identified as the beachhead market, the alloys developed through this project will also have potential to add value to the wider telecommunications market and a number of other industrial and electronics applications.
 
@@ -6522,6 +6659,30 @@
   expDate: 06/30/2019
   title: 'SBIR Phase II:  Catalytic Conversion of Lignocellulosic Biomass into Furfural
     and Dissolving Pulp using Green Solvents'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research Phase II project is to provide a usable stranded and associated gas collection capacity for oil & gas exploration companies. During drilling operations, valuable gas is lost through intentional venting and flaring, causing losses in natural gas delivered to the power plant or city gate. With the sector's expansion into more remote low-volume sites, these losses are increasing dramatically. Through this project's proposed novel Metal-Organic Framework (MOF) based storage technology, this project seeks to deliver a re-usable and transport ready intermodal container, to store gas at low pressure, eliminating the need to use expensive gas capture, purification and multi-stage compression systems. An economically feasible unprocessed natural gas storage technology would provide a useful tool for the domestic oil & gas industry in capturing what would be flared or vented and delivering it to the American economy. Taking the proposed novel MOF technology to the bench and pilot scale will show the feasibility of a flexible, transportable, low-cost infrastructure to abate flaring and venting. Successful developments in this project will help develop the knowledge for scale-up to large-scale vehicular tanks to allow for commercial implementation.
+
+    The objectives of this Phase II research project are the development of stable and low-cost Metal-Organic framework (MOF) based storage technologies for the collection of usable stranded associated gas during drilling operations. In order to harness point source emissions, before being vented or flared, the project will develop a nano-engineered, MOF based sorbent for low-pressure capture and storage of unprocessed natural gas. The project will seek to develop a robust and scalable method to synthesize new MOFs containing other high-valence transition metal ions such as Al3+, Fe3+ and Cr3+. Furthermore, the project will screen a range of organic ligands for improving MOFs' surface property and storage capacity. Finally, by following alternative synthesis routes with low cost catalysts, the project will identify sorbent synthesis cost reduction strategies. The sorbent material will be tested with simulated vent/flare-gas compositions in a cyclic pressure range and the sorbent stability will be verified by an assortment of X-ray, spectroscopy, and microscopy methods. Following sorbent development, an ANG tank will be built and flare gas slipstream testing will be conducted in shale gas sites.
+  awardeeAddress: 108 West 13th Street
+  awardeeCity: Wilmington
+  awardeeCountryCode: US
+  awardeeName: framergy, Inc.
+  awardeeStateCode: DE
+  awardeeZipCode: '198011145'
+  fundsObligatedAmt: '1228083'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1632486'
+  piEmail: ray@framergy.com
+  piFirstName: OSMAN
+  piLastName: OZDEMIR
+  piMiddeInitial: K
+  piPhone: '2818990869'
+  poName: Anna Brady-Estevez
+  date: 09/13/2016
+  startDate: 09/15/2016
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  A Novel Metal-Organic Framework Material for the Separation
+    and Recovery of Unprocessed Natural Gas During Oil and Gas Production'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase II project will address ALL of the factors attributing to
     protein aggregation by determining the: size, identity, extent, mechanism of aggregation
@@ -6556,7 +6717,7 @@
   awardeeName: Protein Dynamic Solutions, LLC
   awardeeStateCode: MA
   awardeeZipCode: 018800000
-  fundsObligatedAmt: '925999'
+  fundsObligatedAmt: '1425999'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1632420'
   piEmail: belinda@pdsbio.com
@@ -6566,7 +6727,7 @@
   poName: Ruth M. Shuman
   date: 09/13/2016
   startDate: 09/15/2016
-  expDate: 02/28/2019
+  expDate: 02/28/2021
   title: 'SBIR Phase II:  Novel, Accurate and Reproducible Platform for the Developability
     Assessment of Protein Therapeutics'
 - abstractText: |-
@@ -6678,7 +6839,7 @@
   awardeeName: LambdaVision, Inc.
   awardeeStateCode: CT
   awardeeZipCode: 060321913
-  fundsObligatedAmt: '742188'
+  fundsObligatedAmt: '1037071'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1632465'
   piEmail: nicole.wagner508@gmail.com
@@ -6689,7 +6850,7 @@
   poName: Nancy Kamei
   date: 08/29/2016
   startDate: 09/01/2016
-  expDate: 12/31/2018
+  expDate: 12/31/2019
   title: 'SBIR Phase II:  Design and Optimization of a Biocompatible Protein-Based
     Retinal Implant for the Treatment of End-Stage Retinal Degeneration'
 - abstractText: |-
@@ -6853,6 +7014,29 @@
   title: 'SBIR Phase II:  Rapid Calculation of Earthquake Repair Costs for Pricing
     of Building Risk'
 - abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project in the long term has two main components.  First, the development has potential to reduce the country's overall energy consumption by funding the development of low cost air quality sensors for energy efficient buildings.  And second, the project will enhance the safety of our natural gas infrastructure with a low cost, low power methane (natural gas) sensor technology.    This work will develop a methane (natural gas) sensor prototype with 10x lower cost, size and power consumption than current solutions.  The proposed methane sensor will meet several currently unmet needs.  These include enhanced public safety by enabling methane leak detection for natural gas distribution systems, and protecting first responders by enabling more and better methane detection in hazardous environments.
+
+    This Small Business Innovation Research (SBIR) Phase II project will develop the world's most porous materials, Metal-organic frameworks (MOFs) as a sensing material.  MOFs have been an active topic in material science research for over a decade, but they have yet to find a commercial application.  This project promises to be the first commercialization of this exciting new class of materials.  Nearly 40,000 different MOF structures have been identified to date.  The crux of this work is to use a combination of computer models and laboratory experimentation to optimize a MOF structure that selectively and rapidly absorbs methane gas.  The end goal of this project is to develop a commercial prototype methane sensor 'on a chip' that consists of a solid state mass transducer with the MOF coating that has been tuned for sensing methane.
+  awardeeAddress: 10655 Roselle Street
+  awardeeCity: San Diego
+  awardeeCountryCode: US
+  awardeeName: Matrix Sensors Inc
+  awardeeStateCode: CA
+  awardeeZipCode: '921211557'
+  fundsObligatedAmt: '1409462'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1632269'
+  piEmail: syamamoto@matrixsensorsinc.com
+  piFirstName: Steve
+  piLastName: Yamamoto
+  piPhone: '8582567154'
+  poName: Richard Schwerdtfeger
+  date: 08/15/2016
+  startDate: 09/01/2016
+  expDate: 02/29/2020
+  title: 'SBIR Phase II:  Reliable low-cost, low-power methane sensors for explosive
+    limit detection'
+- abstractText: |-
     The broader impact/commercial potential of this project can lead to a revolution in the consumer electronics market
     (mobile handsets, tablets, game consoles and wearables), wherein high performance, low power, small footprint
     multisensing (not limited to inertial sensing) platforms with timing devices, are all directly microfabricated on a common
@@ -6919,29 +7103,6 @@
   expDate: 02/28/2019
   title: 'SBIR Phase II:  Area and Energy Efficient Error Floor Free Low-Density Parity-Check
     Codes Decoder Architecture for Flash Based Storage'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project in the long term has two main components.  First, the development has potential to reduce the country's overall energy consumption by funding the development of low cost air quality sensors for energy efficient buildings.  And second, the project will enhance the safety of our natural gas infrastructure with a low cost, low power methane (natural gas) sensor technology.    This work will develop a methane (natural gas) sensor prototype with 10x lower cost, size and power consumption than current solutions.  The proposed methane sensor will meet several currently unmet needs.  These include enhanced public safety by enabling methane leak detection for natural gas distribution systems, and protecting first responders by enabling more and better methane detection in hazardous environments.
-
-    This Small Business Innovation Research (SBIR) Phase II project will develop the world's most porous materials, Metal-organic frameworks (MOFs) as a sensing material.  MOFs have been an active topic in material science research for over a decade, but they have yet to find a commercial application.  This project promises to be the first commercialization of this exciting new class of materials.  Nearly 40,000 different MOF structures have been identified to date.  The crux of this work is to use a combination of computer models and laboratory experimentation to optimize a MOF structure that selectively and rapidly absorbs methane gas.  The end goal of this project is to develop a commercial prototype methane sensor 'on a chip' that consists of a solid state mass transducer with the MOF coating that has been tuned for sensing methane.
-  awardeeAddress: 10655 Roselle Street
-  awardeeCity: San Diego
-  awardeeCountryCode: US
-  awardeeName: Matrix Sensors Inc
-  awardeeStateCode: CA
-  awardeeZipCode: '921211557'
-  fundsObligatedAmt: '909562'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1632269'
-  piEmail: syamamoto@matrixsensorsinc.com
-  piFirstName: Steve
-  piLastName: Yamamoto
-  piPhone: '8582567154'
-  poName: Richard Schwerdtfeger
-  date: 08/15/2016
-  startDate: 09/01/2016
-  expDate: 02/28/2019
-  title: 'SBIR Phase II:  Reliable low-cost, low-power methane sensors for explosive
-    limit detection'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project can be found across the semiconductor industry with its initial market in wireless communications.  Due to the extraordinary properties of carbon nanotubes (CNTs), applications include low noise amplifiers (LNAs), mixers, and RF power amplifiers (PAs). Looking forward, carbon nanotube transistors (CFETs) can reshape analog radio frequency electronics, enabling the higher data rates and improved capacity demanded by next generation wireless systems due to their intrinsic linearity and associated low out of band interference . CFETs are highly efficient, dissipating less unwanted power than current state of the art technologies while handling high power levels. This translates into more battery life for mobile devices with lower cooling costs. With more linear RF transistors, many billions of dollars of spending on additional base stations, larger batteries, and radio spectrum can be avoided, at great savings to consumers and industry. More speculatively, the creation of reliable grwoth techniques for CFETs and associated manufacturing processes may offer an excellent sensor platform or better ways to form on chip interconnects. The key problems being investigating of in situ growth of high performance nanotubes are applicable to the fabrication of CNT based devices for many electronic applications.
 
@@ -7257,6 +7418,29 @@
   expDate: 03/31/2019
   title: 'SBIR Phase II:  Handheld and Low-cost Pulmonary Function Testing Device
     using Smart Coherent Multi-signal Oscillometry Technique'
+- abstractText: |-
+    This Small Business Innovation Research Phase II project aims to continue the development of a family of new nanostructured conductive additives for use in high-performance coatings and composite resins. Static charge buildup from the environment is a critical problem in a number of vehicular applications, which increasingly utilize lightweight components constructed from non-conductive plastic or composite materials.  Static charge buildup interferes with electronic components, such as distributed sensors, so that mitigation of this effect is essential for safe vehicle operation. The design of lightweight vehicles using composite materials, which requires high-performing antistatic coatings, will lead to large reductions in fuel consumption and carbon emissions in transportation.  In 2011, emissions from transportation accounted for 28% of U.S. greenhouse gas emissions. Modern aircraft designs, utilizing composite materials, show more than 20% reduction in fuel consumption compared to traditional vehicles.  Imminent increases in fuel efficiency standards in automobiles will also drive manufacturers to adopt the use of composite materials. The development of the proposed antistatic coatings is essential to enabling these new lightweight material technologies.
+
+    The new additives are based on the synthesis of self-assembling nanostructures from conductive polymers and structure-directing agents. When successfully incorporated in commercial paints and primers, the conductive properties of the coating are enhanced without compromising adhesion and durability. In this Phase II effort, we will further optimize these additives, based on key customer requirements, and develop a plan to scale up their production tenfold with reduced waste and production time.  Corrosion properties for marine applications will also be evaluated, and the product portfolio will be expanded to address follow-on applications.
+  awardeeAddress: 4915 University View Pl NE
+  awardeeCity: Seattle
+  awardeeCountryCode: US
+  awardeeName: PolyDrop
+  awardeeStateCode: WA
+  awardeeZipCode: '981054019'
+  fundsObligatedAmt: '1176123'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1556434'
+  piEmail: volhahrechka@polydrop.net
+  piFirstName: Volha
+  piLastName: Hrechka
+  piPhone: '2066012191'
+  poName: Anna Brady-Estevez
+  date: 02/12/2016
+  startDate: 02/15/2016
+  expDate: 03/31/2019
+  title: 'SBIR Phase II:  Porous Conductive Polymer Nanostructures as Antistatic Additives
+    for Coatings and Plastics'
 - abstractText: "This SBIR Phase II project focuses on developing an accessible educational
     platform that combines mobile interfaces and adaptive educational tablet applications
     (Apps) to support the needs of children with special needs. Tablet devices are
@@ -7310,29 +7494,6 @@
   expDate: 10/31/2018
   title: 'SBIR Phase II:  An Accessible Platform for Engaging Children with Motor
     Impairments in the Classroom Environment'
-- abstractText: |-
-    This Small Business Innovation Research Phase II project aims to continue the development of a family of new nanostructured conductive additives for use in high-performance coatings and composite resins. Static charge buildup from the environment is a critical problem in a number of vehicular applications, which increasingly utilize lightweight components constructed from non-conductive plastic or composite materials.  Static charge buildup interferes with electronic components, such as distributed sensors, so that mitigation of this effect is essential for safe vehicle operation. The design of lightweight vehicles using composite materials, which requires high-performing antistatic coatings, will lead to large reductions in fuel consumption and carbon emissions in transportation.  In 2011, emissions from transportation accounted for 28% of U.S. greenhouse gas emissions. Modern aircraft designs, utilizing composite materials, show more than 20% reduction in fuel consumption compared to traditional vehicles.  Imminent increases in fuel efficiency standards in automobiles will also drive manufacturers to adopt the use of composite materials. The development of the proposed antistatic coatings is essential to enabling these new lightweight material technologies.
-
-    The new additives are based on the synthesis of self-assembling nanostructures from conductive polymers and structure-directing agents. When successfully incorporated in commercial paints and primers, the conductive properties of the coating are enhanced without compromising adhesion and durability. In this Phase II effort, we will further optimize these additives, based on key customer requirements, and develop a plan to scale up their production tenfold with reduced waste and production time.  Corrosion properties for marine applications will also be evaluated, and the product portfolio will be expanded to address follow-on applications.
-  awardeeAddress: 4915 University View Pl NE
-  awardeeCity: Seattle
-  awardeeCountryCode: US
-  awardeeName: PolyDrop
-  awardeeStateCode: WA
-  awardeeZipCode: '981054019'
-  fundsObligatedAmt: '998371'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1556434'
-  piEmail: volhahrechka@polydrop.net
-  piFirstName: Volha
-  piLastName: Hrechka
-  piPhone: '2066012191'
-  poName: Anna Brady-Estevez
-  date: 02/12/2016
-  startDate: 02/15/2016
-  expDate: 09/30/2018
-  title: 'SBIR Phase II:  Porous Conductive Polymer Nanostructures as Antistatic Additives
-    for Coatings and Plastics'
 - abstractText: |-
     This SBIR Phase II project addresses the issue that while mobile devices hold great promise for education, most of the kids' apps that claim to be educational ultimately amount to little more than brain candy. Furthermore, the few apps that are based on educational research are resource-intensive to develop and therefore have limited opportunity to scale their success. This project is building an educational platform that addresses the problems of both quality and scale in this market. It is creating a content enhancement system designed specifically for creating research-based educational content that allows developers and content studios to build mobile and web apps at a fraction (10%-20%) of the cost of traditional app development. The content built using this system is automatically integrated with analytics and personalization technology that tailors the content to each child based on the child's responses. The personalization technology applies methods from psychometrics and cognitive development to ensure that the content adapts to the child and facilitates learning in an engaging way. The project will deliver a large library of context-based and personalized learning content for preK and primary grades that parents know is based on sound research, and ultimately helps increase school readiness and learning outcomes. Given the growing demand for age-appropriate mobile educational content for children, this project has the potential to generate significant returns as a commercial enterprise and, importantly, through the economic gains resulting from improvements in educational outcomes. It will also give content developers the opportunity to economically develop and deploy new content that uses personalization technology, without having to build this complex technology themselves, thereby applying this innovation at a large scale.
 
@@ -7389,7 +7550,7 @@
   awardeeName: Radial Analytics, Inc.
   awardeeStateCode: MA
   awardeeZipCode: '017420000'
-  fundsObligatedAmt: '925999'
+  fundsObligatedAmt: '1425999'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1534781'
   piEmail: thaddeus@radialanalytics.com
@@ -7400,7 +7561,7 @@
   poName: Nancy Kamei
   date: 09/13/2015
   startDate: 09/15/2015
-  expDate: 02/28/2019
+  expDate: 02/29/2020
   title: 'SBIR Phase II:  System for Patient Risk Stratification through Electronic
     Health Record Analytics'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
@@ -7427,7 +7588,7 @@
   awardeeName: ThruPore Technologies
   awardeeStateCode: DE
   awardeeZipCode: '197014885'
-  fundsObligatedAmt: '881749'
+  fundsObligatedAmt: '1131749'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1534759'
   piEmail: franchessa@thrupore.com
@@ -7438,7 +7599,7 @@
   poName: Anna Brady-Estevez
   date: 09/02/2015
   startDate: 09/15/2015
-  expDate: 02/28/2019
+  expDate: 02/29/2020
   title: 'SBIR Phase II:  Increasing Production of Palladium Supported on Hierarchically
     Porous Monolithic Carbon Catalysts'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase II project will
@@ -7724,7 +7885,7 @@
   awardeeName: Prescient Surgical
   awardeeStateCode: CA
   awardeeZipCode: '940254834'
-  fundsObligatedAmt: '890945'
+  fundsObligatedAmt: '1390216'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1456070'
   piEmail: coe.jonathan@gmail.com
@@ -7734,7 +7895,7 @@
   poName: Nancy Kamei
   date: 04/02/2015
   startDate: 04/15/2015
-  expDate: 02/28/2019
+  expDate: 02/29/2020
   title: 'SBIR Phase II:  Preventing surgical wound infections following high-risk
     abdominal surgery'
 - abstractText: |-
@@ -7807,6 +7968,50 @@
   expDate: 11/30/2018
   title: 'SBIR Phase II:  Real-Time Biosensor for Measuring Hazardous Chemical Contaminants
     in Ground Water'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project is the ability to rapidly engineer yeast for
+    production of fuels, chemicals, enzymes, and other valuable molecules. Yeast offers
+    high value production capabilities; however, engineering new strains is very complex
+    and expensive - costing approximately $75-100 million, and requiring 7-10 years
+    for development with current engineering methods. This project will develop a
+    genome engineering technology for yeast that can substantially reduce the cost
+    and time for developing new strains for industrial biotechnology applications.
+    This technology will increase the ability of companies to use yeast to efficiently
+    produce high-quality products from renewable feedstocks, and help grow the overall
+    industrial biotechnology market. \n \nThis SBIR Phase II project proposes to develop
+    the ability to perform rapid whole-genome engineering in industrial yeast strains.
+    Current technologies to engineer cells for specific functions (e.g., chemical
+    or fuel production) are inefficient, expensive and extremely time consuming. Multiplex
+    Automated Genome Engineering (MAGE) is a disruptive technology that provides a
+    powerful platform to engineer microorganisms at tremendously reduced cost. Until
+    recently, MAGE was limited to a laboratory strain of E. coli, possessing key genetic
+    features that enable MAGE. Recent advances have allowed us to port MAGE to yeast,
+    and the goal of this project is to increase efficiency of the system and endow
+    existing industrial yeasts with the capacity to undergo MAGE. The goal is to improve
+    MAGE efficiency in yeast by developing a high-throughput system to rapidly create
+    and quantify strain variants for their capacity to undergo the MAGE process itself.
+    This project will establish a system to identify and optimize the requisite genetic
+    features for MAGE in yeast, in order to rapidly engineer industrial yeast strains
+    for specific function."
+  awardeeAddress: 200 Boston Ave
+  awardeeCity: Medford
+  awardeeCountryCode: US
+  awardeeName: Enevolv, Inc.
+  awardeeStateCode: MA
+  awardeeZipCode: '021554243'
+  fundsObligatedAmt: '1230423'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1430813'
+  piEmail: n.taylor@enevolv.com
+  piFirstName: Noah
+  piLastName: Taylor
+  piMiddeInitial: D
+  piPhone: '6178175315'
+  poName: Ruth M. Shuman
+  date: 11/10/2014
+  startDate: 11/15/2014
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  Ultra Rapid Genome Engineering in Industrial Yeast Strains'
 - abstractText: |-
     The broader impact/ commercial potential of this Small Business Innovation Research (SBIR) Phase II project is aimed at reducing the impact of knee arthritis and improving the quality of life for those suffering from this debilitating condition, while simultaneously strengthening the bond between academia and industry by providing students with unique research opportunities through the development of a novel Total Knee Replacement technology.  Over 600,000 total knee replacement procedures are performed annually, comprising 8% of all Medicare spending.  Total hospital charges for this procedure approached $40 billion for 2012.  The revision rates for this procedure are significant: 10% at 10 years and 20% at 20 years.  Considering the aging population of the United States, the number of total knee replacements and revisions are steadily increasing and the majority of these will be completed under Medicare coverage.  The primary cause for revision surgery is loosening of the implants.  This innovation aims to develop an anchoring method for implantable orthopedic devices that will reduce the total number of revision procedures performed by creating a more stable interface between the bone and the device, and therefore enhance the scientific and technological understanding of orthopedic implants in general.
 
@@ -7900,6 +8105,62 @@
   startDate: 10/01/2014
   expDate: 02/28/2019
   title: 'SBIR Phase II:  Analog/Mixed-Signal Integrated Circuit Verification Coverage'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase II project couples
+    the precision of microtechnology with low-power microfluidics to realize a fully-implantable
+    micropump specifically tailored for drug delivery applications in rodents. Currently,
+    drug administration is predominantly conducted by manual handling and needle injection
+    which is labor-intensive, induces stress and other ?white-coat? effects and is
+    limited to simple drug release profiles. There is a need for advanced drug administration
+    capability in animals that enables new complex dosing profiles, provides automation
+    for chronic studies, and improves scientific validity. Technical challenges include
+    the development of a low-power inductively-powered pump actuator, ten-fold pump
+    miniaturization and wireless control of a large number of implanted pumps. The
+    research objectives are (1) to optimize pump performance and usability (2) to
+    extend cage size compatibility and connectivity (3) to optimize software usability
+    (4) to optimize system design and establish quality assurance processes for scale-up
+    and (5) to conduct an in-vivo validation study.  Successful demonstration of the
+    remotely-controlled implantable infusion pump system will enable new dosing schemes,
+    provide precise temporally controlled dosing for more reproducible results from
+    acute and chronic studies, and enable new approaches to drug therapy that would
+    not otherwise be possible. \n\n\nThe broader impact/commercial potential of this
+    project lies in uniquely improving scientific outcomes and facilitating the drug
+    development/discovery process. Currently, only one in 10,000 drug candidates successfully
+    attain FDA approval with a significant number of candidates failing or discarded
+    due to inadequate drug administration.  Rapid and accurate evaluation of efficacy,
+    safety and toxicity early in the drug development process is improved through
+    the fully automated, wirelessly-controlled drug dosing technology supported by
+    this Phase II project.  This project targets the international laboratory animal
+    market estimated at $3.4B in 2012. Animal models are employed throughout the drug
+    development pipeline and in particular, rodents are critical to drug candidate
+    target validation, screening, and optimization. Included in this effort are several
+    significant first-to-market capabilities such as chronic dosing capability in
+    freely-moving, tether-free mice and high-throughput evaluation of multiple new
+    drugs through automation. The controlled delivery of agents, including emerging
+    biologics, siRNA, peptides, and small molecules, is an important capability in
+    a multitude of clinical and preclinical research applications including neuroscience,
+    pharmacology, toxicology, and physiology. More importantly, this project will
+    enable drug studies that to be performed in a manner that will facilitate and
+    enhance the translation of candidate therapies from animal to human."
+  awardeeAddress: 892 N Fair Oaks Ave
+  awardeeCity: Pasadena
+  awardeeCountryCode: US
+  awardeeName: Fluid Synchrony, LLC
+  awardeeStateCode: CA
+  awardeeZipCode: '911033046'
+  fundsObligatedAmt: '1497949'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1353643'
+  piEmail: tuan.hoang@fluidsynchrony.com
+  piFirstName: Tuan
+  piLastName: Hoang
+  piMiddeInitial: Q
+  piPhone: '6263790858'
+  poName: Henry Ahn
+  date: 04/07/2014
+  startDate: 04/15/2014
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  Wirelessly Operated Implantable Micropump for On-demand
+    Drug Administration in Laboratory Animals'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase II project will
     prototype, characterize, and verify performance merits and the commercial viability
     of an Adaptive Dual-Fuel (ADF) Injector. Diesel engines are 30~40% more efficient
@@ -8068,6 +8329,89 @@
   startDate: 09/15/2013
   expDate: 05/31/2019
   title: 'SBIR Phase II:  Real-Time Rehab to Improve Gait Symmetry in Amputees'
+- abstractText: "This SBIR Phase I project addresses the need to reduce the time associated
+    with conducting tests currently used to establish targeted antibiotic (and dose)
+    to treat infections.  Sepsis and septic shock are one of the leading contributors
+    to death in US Hospitals, responsible for 250,000 deaths annually (estimated at
+    30-50% of all hospital deaths).  To combat these high death rates, time is of
+    the essence.  The administration of targeted (versus broad-spectrum) antibiotic
+    therapy in the first five to six hours of septic shock increases the likelihood
+    of survival by roughly fifty percent.  This project combines electronics and microchannel
+    fluidics to rapidly obtain results on antibiotic susceptibility.  The project
+    requires engineering, software development, and method development, resulting
+    in an instrument that utilizes disposable cards to conduct the testing.  The resulting
+    product will allow transition from broad spectrum to targeted antibiotic therapy
+    faster (1 day - weeks), leading to major benefits: (1) patient outcomes are greatly
+    improved by faster transition to directed antibiotic therapy; (2) Reduced hospitalization
+    stays (reduced intensive care stays), resulting in significant monetary saving
+    for healthcare systems (estimated at a cost savings of at least $3.75B annually).
+    \ (3) Reduced broad-spectrum antibiotic therapy reduces the current fostering
+    of antibiotic resistance in healthcare settings globally. \n\nThis project uses
+    Microchannel Electrical Impedance Spectroscopy (m-EIS) to measure the \"bulk capacitance\"
+    (Cb) of a suspension. Cb is a measure of the amount of charge transiently accumulated
+    at the membranes of living cells in a suspension. Cell proliferation results in
+    an increase in Cb, whereas cell death results in a decrease.  Using m-EIS to measure
+    bacteria in the presence of candidate antibiotics and doses, is robust, sensitive,
+    and extremely fast, determining, in real time, cell growth, stasis, or death (in
+    approximately 4 hrs).  This project will develop a rapid, direct-from-sample,
+    inexpensive commercial system. This is achieved by using commercial MNPs to isolate
+    microorganisms from clinical samples such as blood culture broth, urine, sputum
+    etc., and re-suspending the pathogens in specified volumes of growth media to
+    obtain a suspension containing optimized concentrations of bacteria.  Pathogen
+    growth or death is then monitored using m-EIS in microfluidic cards where they
+    are exposed to a range of antibiotic concentrations. The result is a phenotypic
+    antibiotic susceptibility (AST) profile, yielding the minimal inhibitory concentration
+    (MIC) of multiple candidate antibiotics within 4 hours of sample collection. The
+    AST and MIC information is then used to treat infections with targeted therapeutic.
+    \ The first products utilizing this system/method will focus on urine and positive
+    blood culture broth samples.\n\nThis award reflects NSF's statutory mission and
+    has been deemed worthy of support through evaluation using the Foundation's intellectual
+    merit and broader impacts review criteria."
+  awardeeAddress: 8318 W 102nd Street
+  awardeeCity: Overland Park
+  awardeeCountryCode: US
+  awardeeName: Impedx Diagnostics
+  awardeeStateCode: KS
+  awardeeZipCode: '662123420'
+  fundsObligatedAmt: '720181'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1831243'
+  piEmail: steve@impedx.com
+  piFirstName: Stephen
+  piLastName: OConnor
+  piMiddeInitial: D
+  piPhone: '6268932514'
+  poName: Henry Ahn
+  date: 09/08/2018
+  startDate: 09/15/2018
+  expDate: 02/29/2020
+  title: 'SBIR Phase II:  Universal electronic platform and system for rapid (direct
+    from sample) phenotypic Antibiotic Susceptibility Testing (AST)'
+- abstractText: |-
+    The broader impact/commercial potential of this project will extend to a number of applications, including smart buildings, home automation, and security. The development of this new technology for efficient indoor sensing, and development of new algorithms for occupancy sensing and counting techniques, will have immediate implications in the building automation and home construction industries, where improved occupancy sensing is necessary to achieve the promise of Smart Buildings that adjust environmental conditions such as lighting and air conditioning automatically to suit the needs of the occupants. Implementing this false-alarm free technology will realize millions of dollars in cost savings from reduced energy use. Such energy savings would impact the US energy independence while helping to cut greenhouse gas emissions. In addition to "smart building"/energy efficiency applications there are also significant opportunities to apply these highly-reliable and difficult-to-defeat sensors to facility security, military, law-enforcement/correctional facilities and in-home care monitoring. This project represents Broadening Participation: As a woman-owned minority business in an underrepresented geographical location (Hawaii), the success of Adnoviv will bring opportunity for graduate students through our relationship with the University of Hawaii and encourage young girls to enter Science, Technology, Engineering and Mathematics (STEM) related fields.
+
+    This Small Business Technology Transfer Research (STTR) Phase II project will result in a revolutionary advance in occupancy sensing for smart buildings and energy-use reduction by providing a low-cost sensor capable of real human presence detection and occupant count and eliminating the issues that have limited the utility of occupancy sensors in many applications. The feasibility of using radio frequency Doppler radar to detect human cardiopulmonary activity and estimate number of occupants using a low power system-on-chip (SoC) platform will be demonstrated. In particular, reliable occupant detection without false alarms, and occupant count estimation will be investigated to further enhance energy savings potential, especially in conjunction with heating, ventilation, and air conditioning (HVAC) loads. The significant commercial potential of such True Presence Occupancy Detection Sensors in energy-saving applications will be demonstrated in partnership with one of the largest building automation companies in the world.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 2800 Woodlawn Dr
+  awardeeCity: Honolulu
+  awardeeCountryCode: US
+  awardeeName: Adnoviv LLC
+  awardeeStateCode: HI
+  awardeeZipCode: '968221862'
+  fundsObligatedAmt: '750000'
+  fundProgramName: STTR PHASE II
+  id: '1831303'
+  piEmail: ehsan@adnoviv.com
+  piFirstName: Ehsan
+  piLastName: Yavari
+  piPhone: '8089795519'
+  poName: Muralidharan S. Nair
+  date: 09/07/2018
+  startDate: 09/15/2018
+  expDate: 08/31/2020
+  title: 'STTR Phase II:  Occupancy Estimation and Energy Savings with True Presence
+    Sensors'
 - abstractText: |-
     The broader impact/commercial potential of this project will address two societal needs. It will enable mass charging infrastructure for electric vehicles (EVs) at minimal cost, and will enable the provisioning of energy services to help integrate renewable energy
     sources. This is critical as electricity generation and transportation together consume close to two-thirds of all US energy and emit more than half of all US greenhouse gases. To drastically reduce greenhouse gases will therefore require electrification of our
@@ -8455,7 +8799,7 @@
   awardeeName: Radial Analytics, Inc.
   awardeeStateCode: MA
   awardeeZipCode: '017420000'
-  fundsObligatedAmt: '776000'
+  fundsObligatedAmt: '925999'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1758650'
   piEmail: thaddeus@radialanalytics.com
@@ -8466,7 +8810,7 @@
   poName: Nancy Kamei
   date: 03/20/2018
   startDate: 03/01/2018
-  expDate: 02/29/2020
+  expDate: 08/31/2020
   title: 'SBIR Phase II:  User-Centered System for Improved Coordination across the
     Continuum of Care'
 - abstractText: |-
@@ -9043,6 +9387,29 @@
   expDate: 08/31/2019
   title: 'SBIR Phase II: Adaptable Invention Disclosure System'
 - abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to demonstrate the feasibility of Battery Resourcers recycling process on a scale that has commercial significance. This will further allow Battery Resourcers to scale its process such that it can be a player in the lithium ion battery recycling market place. Battery Resourcers' ultimate goal is into increase recycling rates of spent Li-ion batteries by providing an economically viable domestic recycling option.  Additionally, Battery Resourcers process produces low cost cathode materials for the battery industry which may ultimately further enable green technologies like solar, wind and electric vehicles.
+
+    This SBIR Phase 1 award proposes to scale the Battery Resourcers recycling process from 50kg to 0.5 tons of spent Li-ion batteries. The proposed research focuses on process speed, safety and the quality of the recovered materials. Rate limiting steps in Battery Resourcers recycling process will be studied with an effort to improve process speed. Specifically, Battery Resourcers will look at new filtering methods for the solutions generated in its process. A method to safety shred Li-ion batteries is examined by controlling the atmosphere and removing the batteries' stored energy. Finally, the production of quality cathode materials from spent Li-ion batteries is scaled from 50kg to 0.5 tons.  Battery Resourcers' goal is to produce commercial quality cathode powder on a scale that matters to industry.
+  awardeeAddress: 94 Francis Ave
+  awardeeCity: Shrewsbury
+  awardeeCountryCode: US
+  awardeeName: Battery Resourcers LLC
+  awardeeStateCode: MA
+  awardeeZipCode: '015453014'
+  fundsObligatedAmt: '669913'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1738027'
+  piEmail: egratz@gmail.com
+  piFirstName: Eric
+  piLastName: Gratz
+  piPhone: '2069486325'
+  poName: Anna Brady-Estevez
+  date: 09/06/2017
+  startDate: 09/15/2017
+  expDate: 08/31/2019
+  title: 'SBIR Phase II:  A Closed Loop Process for the recycle of End-of-Life Li-ion
+    Batteries'
+- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project lies in the development of a novel cost-effective 3D printing process to manufacture footwear. Currently most footwear is mass manufactured, typically overseas, using fixed molds that do not meet the specific needs of an individual. 3D printing of footwear offers the promise of providing individual customization tailored not just to fit, style, and colors, but also to individual biomechanics and/or medical needs. However, a number of technical challenges exist to make 3D printing of footwear sufficiently cost-effective that it can be provided beyond just a select few individuals. This project develops a novel and cost-effective 3D printing process to manufacture the critical components of footwear, using readily available and recyclable thermoplastic pellets. This novel 3D printing process will enable the manufacture of new, innovative footwear designs that cannot be made with any other manufacturing process. Additionally, it will make mass customization of footwear a reality, providing access to healthy customizable footwear for many individuals. Unlike traditional manufacturing processes currently being done overseas, this novel manufacturing technology is very amenable to implementing in the United States on a local level. Thus, this project will not only help move footwear manufacturing back to the United States, generating income for tax revenue, it will create entirely new clean, safe jobs in manufacturing.
 
 
@@ -9065,29 +9432,6 @@
   startDate: 09/15/2017
   expDate: 08/31/2019
   title: 'SBIR Phase II:  Pellet based 3D print extrusion process for shoe manufacturing'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to demonstrate the feasibility of Battery Resourcers recycling process on a scale that has commercial significance. This will further allow Battery Resourcers to scale its process such that it can be a player in the lithium ion battery recycling market place. Battery Resourcers' ultimate goal is into increase recycling rates of spent Li-ion batteries by providing an economically viable domestic recycling option.  Additionally, Battery Resourcers process produces low cost cathode materials for the battery industry which may ultimately further enable green technologies like solar, wind and electric vehicles.
-
-    This SBIR Phase 1 award proposes to scale the Battery Resourcers recycling process from 50kg to 0.5 tons of spent Li-ion batteries. The proposed research focuses on process speed, safety and the quality of the recovered materials. Rate limiting steps in Battery Resourcers recycling process will be studied with an effort to improve process speed. Specifically, Battery Resourcers will look at new filtering methods for the solutions generated in its process. A method to safety shred Li-ion batteries is examined by controlling the atmosphere and removing the batteries' stored energy. Finally, the production of quality cathode materials from spent Li-ion batteries is scaled from 50kg to 0.5 tons.  Battery Resourcers' goal is to produce commercial quality cathode powder on a scale that matters to industry.
-  awardeeAddress: 94 Francis Ave
-  awardeeCity: Shrewsbury
-  awardeeCountryCode: US
-  awardeeName: Battery Resourcers LLC
-  awardeeStateCode: MA
-  awardeeZipCode: '015453014'
-  fundsObligatedAmt: '559913'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1738027'
-  piEmail: egratz@gmail.com
-  piFirstName: Eric
-  piLastName: Gratz
-  piPhone: '2069486325'
-  poName: Anna Brady-Estevez
-  date: 09/06/2017
-  startDate: 09/15/2017
-  expDate: 08/31/2019
-  title: 'SBIR Phase II:  A Closed Loop Process for the recycle of End-of-Life Li-ion
-    Batteries'
 - abstractText: "This SBIR Phase II project was initiated as a direct result of extensive
     research into the US math crisis and the complexity of the problem. As a nation,
     we must invest resources directly into the breaking point: the mid school math
@@ -9224,7 +9568,7 @@
   awardeeName: BriteSeed, LLC
   awardeeStateCode: IL
   awardeeZipCode: '606404510'
-  fundsObligatedAmt: '925981'
+  fundsObligatedAmt: '1250969'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660240'
   piEmail: j.w.gunn@briteseed.com
@@ -9235,20 +9579,20 @@
   poName: Linda Molnar
   date: 05/19/2017
   startDate: 05/15/2017
-  expDate: 10/31/2019
+  expDate: 04/30/2021
   title: 'SBIR Phase II:  Label-free imaging for real-time, intraoperative blood vessel
     visualization'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase II project has the objective of demonstrating that discrete, belt mounted internet-connected wearable devices used by industrial workers can detect high risk lifting activities, promote safe lifting practices and behavior change, and predict the risk of musculoskeletal injuries due to unsafe lifting. Each year over 600,000 workers suffer a musculoskeletal injury due to lifting related activities, which cost US companies over $15bn annually. Worker injuries affect employee morale, absenteeism, productivity loss and employee turnover, all of which are challenges to the efficient running of a company and are a unnecessary cause of human suffering. By developing a wearable device that can detect high risk lifting activity and provide immediate feedback to workers, safer lifting practices can be promoted and a reduction in the number of unsafe lifts registered, leading to a reduction in injuries.
 
     The project includes three main technical objectives: i) the development of machine learning algorithms to detect lifting events from sensor data, and to measure risk related metrics associated to those lifting events. When a lift is considered high risk, real-time feedback will be provided to the worker; ii) the deployment of the device in an industrial setting at several customer sites for 12 months, with the number of high risk lifts performed by workers quantified over time to measure the ability of the system to drive behavior change in the workforce; and ii) the development of a model that can predict the likelihood of musculoskeletal injures based on the risk metrics measured. It is expected that the outcomes of the project demonstrate a significant reduction in the risk of suffering musculoskeletal injuries, paving the way for a clear return on investment value proposition for the industrial companies and their insurance carriers who are potential customers.
-  awardeeAddress: 341 West 11th Street
+  awardeeAddress: 450 West 33rd Street
   awardeeCity: New York
   awardeeCountryCode: US
   awardeeName: One Million Metrics Corp
   awardeeStateCode: NY
-  awardeeZipCode: '100146235'
-  fundsObligatedAmt: '917999'
+  awardeeZipCode: '100010000'
+  fundsObligatedAmt: '1417997'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660093'
   piEmail: haytham@1mmcorp.com
@@ -9258,7 +9602,7 @@
   poName: Richard Schwerdtfeger
   date: 04/06/2017
   startDate: 04/01/2017
-  expDate: 09/30/2019
+  expDate: 09/30/2021
   title: 'SBIR Phase II:  Predicting Musculoskeletal Injury Risk of Material Handling
     Workers with Novel Wearable Devices'
 - abstractText: "The broader impact/commercial potential of this project is to enable
@@ -9800,6 +10144,30 @@
   title: 'SBIR Phase II:  Boron Nitride Nanotube Cyclotron Targets for Recoil-Escape
     Production of Carbon-11 For PET/CT Medical Imaging'
 - abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is very significant. Suboptimal operational decision-making in emergency departments and hospitals leads to inefficiencies that result in excessive patient wait-times, the diversion of ambulances to other emergency departments, wasted resources and patients who either leave before being treated or against medical advice. By connecting modern analytical approaches, including statistical modeling and systems engineering methods, to real-time data routinely collected by hospitals, the proposed project promises to result in a tremendously valuable analytics platform that will assist administrators in making dozens of operational and staffing decisions each day. This informed decision-making will not only improve hospital efficiency, it will lead to both healthier and more satisfied patients and simultaneous dramatic increases in revenue and profit. The technology proposed will have the potential to add significant value to the approximately 5,000 hospitals in the U.S., often on the order of millions of dollars annually. Hospitals and health systems now realize the value of effective analytics, and the analytics platform proposed here will be an obvious investment for any emergency department or hospital whose goal is to provide the best care to its patients at lower costs.
+
+    The proposed project promises to yield a set of decision-support applications upon which emergency departments and hospitals will base their decisions each day. Substantial investments by hospitals and health systems on information technology, and in particular, electronic health records, have set the stage for evidence-based, data-driven decisions. These decisions will effectively leverage real-time data along with analytical methods such as statistical forecasting and event-simulation modeling. In particular, this proposed project will develop software applications, based on these analytical methods and linking to real-time data sources, tailored to emergency departments and hospitals. This project will involve 1) addressing the real-time needs of hospital operational decision-makers, 2) further developing a statistical and simulation modeling platform to inform these real-time needs, specifically reflecting emergency departments and whole hospitals, and 3) ultimately ensuring that actionable insights are delivered in a timely and intuitive manner to key stakeholders. These actionable insights that derive from the data and sophisticated methods must be delivered to the right decision-maker at the right time and in the right format, but will then have the capacity to substantially improve both the quality and efficiency of care-delivery throughout the hospital.
+  awardeeAddress: 1100 Larkspur Landing Cir
+  awardeeCity: Larkspur
+  awardeeCountryCode: US
+  awardeeName: Roundtable Analytics, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '949391824'
+  fundsObligatedAmt: '1409998'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1632410'
+  piEmail: klopiano@roundtableanalytics.com
+  piFirstName: Kenneth
+  piLastName: Lopiano
+  piMiddeInitial: K
+  piPhone: '9045684759'
+  poName: Nancy Kamei
+  date: 09/06/2016
+  startDate: 09/15/2016
+  expDate: 02/29/2020
+  title: 'SBIR Phase II:  Data-Driven Decision Support Services for Emergency Department
+    Operations'
+- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research Phase II project is the reduction of deaths and long-term disabilities in people suffering from bleeding in the brain caused by intracerebral hemorrhage (ICH) or traumatic brain injury. Currently, physicians detect worsening bleeding through a clinical exam where a patient shows outward signs of deterioration in their neurological status. By the time these signs of additional bleeding appear, much of the damage to the brain has already occurred. About a third of people who suffer a severe traumatic brain injury either die or are left disabled. For hemorrhagic stroke, 60% die and 70% of survivors are left with significant disabilities. A device which transmits and receives very low power radiofrequency signals has been created that can be put on a patients head. The presence of blood outside of the brain's vessels and arteries creates a characteristic change in the radio signal used by the device. Using radio waves to non-invasively detect brain bleeds will allow treatment to start sooner, which will save lives, reduce disabilities and lower the cost of treating severe brain injuries.
 
     The proposed project tests (i) the ability of the device to detect and characterize small changes in ICH size and location over time and (ii) the ability to display changes in the bleed in a meaningful way to physicians. An algorithm for determining the size and location of the hemorrhage will be tested using both a phantom model that mimics the human brain and an IACUC-approved pig ICH model. Multiple hemorrhage volumes and locations will be used to test the algorithm's ability to detect hemorrhage volume changes within 1 mL, location within 1 cm, and distinguish changes due to the hemorrhage from physiological changes in a living pig's brain. Signal measurements taken before, during, and after infusion of blood will be captured at each time point to test the accuracy of the algorithm. Software will be developed to display the information from the algorithm in three-dimensions while giving doctors and nurses control over thresholds for triggering an alarm and how often the device scans. To test the software, the data collected during the pig experiments will be used to determine how accurate the display matches the location and size of the hemorrhage from CT images collected during testing.
@@ -9822,30 +10190,6 @@
   expDate: 02/28/2019
   title: 'SBIR Phase II:  Novel Device for monitoring brain hemorrhage using radio
     waves.'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is very significant. Suboptimal operational decision-making in emergency departments and hospitals leads to inefficiencies that result in excessive patient wait-times, the diversion of ambulances to other emergency departments, wasted resources and patients who either leave before being treated or against medical advice. By connecting modern analytical approaches, including statistical modeling and systems engineering methods, to real-time data routinely collected by hospitals, the proposed project promises to result in a tremendously valuable analytics platform that will assist administrators in making dozens of operational and staffing decisions each day. This informed decision-making will not only improve hospital efficiency, it will lead to both healthier and more satisfied patients and simultaneous dramatic increases in revenue and profit. The technology proposed will have the potential to add significant value to the approximately 5,000 hospitals in the U.S., often on the order of millions of dollars annually. Hospitals and health systems now realize the value of effective analytics, and the analytics platform proposed here will be an obvious investment for any emergency department or hospital whose goal is to provide the best care to its patients at lower costs.
-
-    The proposed project promises to yield a set of decision-support applications upon which emergency departments and hospitals will base their decisions each day. Substantial investments by hospitals and health systems on information technology, and in particular, electronic health records, have set the stage for evidence-based, data-driven decisions. These decisions will effectively leverage real-time data along with analytical methods such as statistical forecasting and event-simulation modeling. In particular, this proposed project will develop software applications, based on these analytical methods and linking to real-time data sources, tailored to emergency departments and hospitals. This project will involve 1) addressing the real-time needs of hospital operational decision-makers, 2) further developing a statistical and simulation modeling platform to inform these real-time needs, specifically reflecting emergency departments and whole hospitals, and 3) ultimately ensuring that actionable insights are delivered in a timely and intuitive manner to key stakeholders. These actionable insights that derive from the data and sophisticated methods must be delivered to the right decision-maker at the right time and in the right format, but will then have the capacity to substantially improve both the quality and efficiency of care-delivery throughout the hospital.
-  awardeeAddress: 1100 Larkspur Landing Cir
-  awardeeCity: Larkspur
-  awardeeCountryCode: US
-  awardeeName: Roundtable Analytics, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '949391824'
-  fundsObligatedAmt: '909999'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1632410'
-  piEmail: klopiano@roundtableanalytics.com
-  piFirstName: Kenneth
-  piLastName: Lopiano
-  piMiddeInitial: K
-  piPhone: '9045684759'
-  poName: Nancy Kamei
-  date: 09/06/2016
-  startDate: 09/15/2016
-  expDate: 02/28/2019
-  title: 'SBIR Phase II:  Data-Driven Decision Support Services for Emergency Department
-    Operations'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project includes the reduction in severe patient morbidity and elimination of hundreds of millions of dollars of expenditures by the U.S. healthcare system each year on revision surgeries and unnecessary procedures associated with late detection of post-surgical blood clots. Surgeons have the ability to prevent these catastrophic events, but only if the onset of the clot can be detected in a timely manner. Currently, of the patients who form clots after the targeted surgeries, half will suffer from a surgical failure due to the shortcomings of current modalities. This technology gives clinicians the ability to non-invasively track changes in blood flow within critical vessels to enable intervention prior to any compromise in health and prevent a majority of these catastrophic incidents. Beyond significant decreases in patient suffering and morbidity, such interventions will have an enormous positive economic impact on the health care system. This technology can also substantially improve clinical understanding of the clotting process and possibly enable non-invasive therapeutic treatments for these patients who otherwise would receive surgery.
 
@@ -11397,7 +11741,7 @@
   awardeeName: Edify Technologies, Inc.
   awardeeStateCode: CO
   awardeeZipCode: '802063330'
-  fundsObligatedAmt: '778000'
+  fundsObligatedAmt: '927999'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660072'
   piEmail: jacob@edify.co
@@ -11408,7 +11752,7 @@
   poName: Rajesh Mehta
   date: 02/21/2017
   startDate: 03/01/2017
-  expDate: 02/28/2019
+  expDate: 05/31/2019
   title: 'SBIR Phase II:  Empowering Music Learning Through Composition on Mobile
     Devices'
 - abstractText: |-
