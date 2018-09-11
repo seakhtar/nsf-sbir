@@ -73,7 +73,7 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 
 Mohit Lad, CEO & Co-Founder of ThousandEyes.
 </div>
-<div class="usa-content" markdown="1">
+<div class="usa-content">
 ThousandEyes delivers Network Intelligence—performance visibility and actionable insights on digital experience for every user and application over any network. It arms network engineers, operations teams, support/service desk staff, developers, and even business users with an accurate, up-to-the-moment understanding of the link between application delivery and underlying network dependencies and behaviors– both inside and outside the organization.
 </div>
 <div class="usa-content">
