@@ -61,6 +61,23 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 </div>
 </section>
 
+<section id="drugDelivery" class="usa-section showcase-content">
+<div class="usa-content usa-grid">
+
+<div class="usa-content usa-width-five-sixths" markdown="1">
+Shasqi, a small business funded by the National Science Foundation, is developing a new way to deliver drugs to specific locations within the body to more effectively treat diseases such as cancer. The team, led by physician and chemist Dr. Jose M. Mejia Oneto, has created a targeting system that could enable effective therapy with lower doses of drugs and fewer harmful side effects.  
+  
+The system works by first injecting a gel at the treatment site. The gel contains chemicals that combine with and activate an injected, attenuated form of a drug, such as a chemotherapeutic, to trigger its cancer-fighting effect only at the tumor or other targeted tissue. The experimental treatment has been successfully tested against tumors in mice, which experienced tumor shrinkage while maintaining healthier weights than mice receiving traditional chemotherapeutic treatments. [Shasqi](http://www.shasqi.com/#intro) is funded by America’s Seed Fund powered by NSF. *Photo credit: Shasqi*
+</div>
+<div class="usa-content usa-width-one-sixth" style="max-width:150px;" markdown="1">
+![Mohit Lad]({{ site.baseurl }}/assets/img/showcase/thousandEyes.jpg)
+
+Jose M. Mejia Oneto, founder and CEO of Shasqi.
+</div>
+ ![Path Visualization]({{ site.baseurl  }}/assets/img/showcase/pathvisualization.jpg)
+</div>
+</section>
+
 <section class="usa-section showcase-quote" markdown="1">
 <div class="usa-grid" markdown="1">
 
