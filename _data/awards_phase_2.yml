@@ -875,6 +875,32 @@
   title: 'SBIR Phase II:  A novel economic, efficient, environmentally benign, and
     sustainable multi-component separation technology based on acoustophoresis'
 - abstractText: |-
+    This SBIR Phase I project will produce an innovative reading application and administrative portal to support science learning. Although the science textbook is a central curricular resource, this resource is often inaccessible and difficult to read. Science textbooks are syntactically (grammatically) and semantically (word meaning) complex. Specifically, elementary and secondary science texts are often written 3 to 5 years beyond what is developmentally appropriate. Because of these complexities, science textbooks often overwhelm students' working memory, preventing them from constructing accurate mental representations of the target concepts. Thus, this project will develop and test a multiplatform, personalizable e-reader with embedded reading and language support. The intellectual merit of the effort resides in its ability to improve science comprehension through personalized and adaptive content. This project will produce content and assessments targeting the Next Generation Science Standards associated with Earth and Space Science. The customizable features will make fundamental science knowledge more accessible and interesting to students -- and thus the Public. Given these benefits, it has strong potential to support future generations of STEM professionals and a more scientifically literate citizenry.
+
+
+    This project will produce a multiplatform reading application to support science learning. The key innovation will be to make science content adaptable and adjustable for learners. This Phase II project has five technical goals: (a) develop and test the e-reader to work via tablet and mobile web; (b) develop and test enhanced reading features; (c) develop and test administrative and payment portals; (d) develop and curate NGSS-aligned content and assessments; (e) conduct user testing with students and teachers. During Phase II, the project team will address some technological challenges in bringing this innovation to market. The key features of the interactive reading application create a potential for unnecessary memory load. This technological challenge will be overcome by architecting the program to be highly preprocessed and modular. A second challenge is providing secure access to multi-tiered users. This technical challenge will be overcome by architecting the program to allow for secure, multiple group membership, ensuring data visibility and security. A diverse SquidBooks team, with expertise in business, software design and engineering, educational research and measurement, science education, writing, and science will achieve these goals of this Phase II project.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 3525 S Crestline
+  awardeeCity: Spokane
+  awardeeCountryCode: US
+  awardeeName: Squid Books, LLC
+  awardeeStateCode: WA
+  awardeeZipCode: '992034051'
+  fundsObligatedAmt: '707342'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1831039'
+  piEmail: kelly@squidbooks.com
+  piFirstName: Kelly
+  piLastName: Puzio
+  piPhone: '5093882278'
+  poName: Rajesh Mehta
+  date: 09/11/2018
+  startDate: 09/15/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  An interactive digital textbook that supports earth science
+    learning'
+- abstractText: |-
     The broader impact/commercial potential of this project will be in helping batteries exceed the quality, performance, and safety demands of mass-market electric vehicles, renewable energy generation, and next-generation consumer electronic devices. The need for high-performance batteries is accelerating, and as batteries grow in energy density, size, and production volumes, so will the issues that persist with quality. Unless these issues are addressed, they will continue to have major implications for the performance, safety, and adoption of these important technologies. The challenge is that outside of R&D labs, the industry relies on essentially the same basic data as when batteries were first invented: voltage, current, and temperature. As a result, at commercial scales, only a small percentage of batteries are inspected in a meaningful way, with methods that only provide indirect information about physical condition. This Phase 2 project is focused on developing a new platform for production-level battery inspection that directly probes the physical condition of batteries with a high testing throughput. This could lead to better decisions in manufacturing environments and could decrease system costs, increase capacity and operational lifetime, and accelerate the scale-up of promising new materials.
 
     This Small Business Innovation Research (SBIR) Phase 2 project addresses the need for a physical mode of inspection in battery production environments that is capable of screening every cell with high fidelity. Currently, inspection in production-level environments are limited to electrical measurements and X-rays. Electrical methods provide only indirect and cell-averaged information about physical condition, and X-rays are not practically able to detect the distribution of electrolyte within batteries nor the formation of the solid electrolyte interphase (SEI) layer (both of which strongly affect long-term reliability, performance, and safety of batteries). This Phase 2 project aims to develop a platform that utilizes sound-based methods to inspect batteries in production-environments. This will involve developing a scaled, automated hardware system as well as software and computational methods for processing and analyzing the acoustic signals. The Phase 2 project will also include various testing and validation efforts to assess the ability of acoustic analysis to both directly determine the performance quality and reliability of cells beyond beginning of life capacity and resistance, as well as to improve the performance of strings of cells and modules.
@@ -1340,7 +1366,7 @@
   awardeeName: RedLeaf Biologics Inc.
   awardeeStateCode: KY
   awardeeZipCode: '403568729'
-  fundsObligatedAmt: '750000'
+  fundsObligatedAmt: '760000'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1659039'
   piEmail: Jordan@redleafbiologics.com
@@ -1991,7 +2017,7 @@
   poName: Peter Atherton
   date: 03/18/2016
   startDate: 04/01/2016
-  expDate: 09/30/2018
+  expDate: 09/30/2019
   title: 'SBIR Phase II:  VocaliD - Infusing Unique Vocal Identities into Synthesized
     Speech'
 - abstractText: "This Small Business Innovation Research Phase II project aims to
@@ -3317,7 +3343,7 @@
   awardeeName: LiloTree
   awardeeStateCode: WA
   awardeeZipCode: '980728492'
-  fundsObligatedAmt: '750000'
+  fundsObligatedAmt: '760000'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1739047'
   piEmail: kunal.shah@lilotree.com
@@ -3505,7 +3531,7 @@
   awardeeName: Carnot Compression LLC
   awardeeStateCode: CA
   awardeeZipCode: '950663237'
-  fundsObligatedAmt: '899999'
+  fundsObligatedAmt: '909999'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1660248'
   piEmail: chris@carnotcompression.com
@@ -5162,30 +5188,6 @@
   expDate: 02/29/2020
   title: 'SBIR Phase II:  Quantum Dot-Tinted Glass Luminescent Solar Concentrator
     Windows'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase II project will be to develop a new tool to safely and nondestructively deliver genes and other materials into large numbers cells at the same time. New forms of therapies for cancer and other intractable diseases take advantage of a patient's own cells, re-engineered in the laboratory to target a tumor or other diseased tissue. However, generating these cells is currently inefficient, slow, and expensive. Patient-derived cells resist transfection using standard non-viral biochemical approaches of lipid delivery systems, cell-penetrating peptides, and high-voltage electroporation, requiring an engineering alternative. The proposed technology provides a safe, turnkey, and scalable technology with a potential transformative impact in research and life sciences laboratories and companies, representing a high-growth and high-value market opportunity.
-
-    This STTR Phase I project proposes a new nanomaterial delivery system to introduce reprogramming agents into immune cells efficiently and with low cell toxicity. This project will examine how the proposed nanostraw design, transfection protocol, and cell preparation improves immune cell delivery efficiency, and optimize the process to achieve >50% transfection efficiency with primary immune cells. Market analysis has found this level of transfection efficiency would be transformative to researchers and clinicians using primary immune cells. The transfection protocol will be optimized and codified into a simple to follow set of instructions. A turn-key instrument will be developed to carry out these procedures for use by life science researchers, with reduced device costs through improved manufacturing techniques to be competitive with currently available methods. The market-ready product will be evaluated by eight preclinical immune cell research beta sites to discover new treatment pathways.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 2880 Zanker Rd Suite 203
-  awardeeCity: San Jose
-  awardeeCountryCode: US
-  awardeeName: Navan Technologies Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '951342122'
-  fundsObligatedAmt: '750000'
-  fundProgramName: STTR PHASE II
-  id: '1759075'
-  piEmail: ryan@navan-tech.com
-  piFirstName: Ryan
-  piLastName: Swoboda
-  piPhone: '9044027442'
-  poName: Ruth M. Shuman
-  date: 03/08/2018
-  startDate: 03/01/2018
-  expDate: 02/29/2020
-  title: 'STTR Phase II:  Nanostraw-mediated Immune Cell Reprogramming'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase II project is developing a safe and sustainable ink for
     the global ink industry. Approximately nine billion pounds of ink is produced
@@ -5224,7 +5226,7 @@
   awardeeName: Living Ink Technologies, LLC
   awardeeStateCode: CO
   awardeeZipCode: '805212025'
-  fundsObligatedAmt: '750000'
+  fundsObligatedAmt: '760000'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1758587'
   piEmail: scott.fulbright@livinginktechnologies.com
@@ -5238,6 +5240,30 @@
   expDate: 02/29/2020
   title: 'SBIR Phase II:  Engineering novel pigmented cyanobacteria for the use in
     the ink, printing and colorant industries'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase II project will be to develop a new tool to safely and nondestructively deliver genes and other materials into large numbers cells at the same time. New forms of therapies for cancer and other intractable diseases take advantage of a patient's own cells, re-engineered in the laboratory to target a tumor or other diseased tissue. However, generating these cells is currently inefficient, slow, and expensive. Patient-derived cells resist transfection using standard non-viral biochemical approaches of lipid delivery systems, cell-penetrating peptides, and high-voltage electroporation, requiring an engineering alternative. The proposed technology provides a safe, turnkey, and scalable technology with a potential transformative impact in research and life sciences laboratories and companies, representing a high-growth and high-value market opportunity.
+
+    This STTR Phase I project proposes a new nanomaterial delivery system to introduce reprogramming agents into immune cells efficiently and with low cell toxicity. This project will examine how the proposed nanostraw design, transfection protocol, and cell preparation improves immune cell delivery efficiency, and optimize the process to achieve >50% transfection efficiency with primary immune cells. Market analysis has found this level of transfection efficiency would be transformative to researchers and clinicians using primary immune cells. The transfection protocol will be optimized and codified into a simple to follow set of instructions. A turn-key instrument will be developed to carry out these procedures for use by life science researchers, with reduced device costs through improved manufacturing techniques to be competitive with currently available methods. The market-ready product will be evaluated by eight preclinical immune cell research beta sites to discover new treatment pathways.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 2880 Zanker Rd Suite 203
+  awardeeCity: San Jose
+  awardeeCountryCode: US
+  awardeeName: Navan Technologies Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '951342122'
+  fundsObligatedAmt: '750000'
+  fundProgramName: STTR PHASE II
+  id: '1759075'
+  piEmail: ryan@navan-tech.com
+  piFirstName: Ryan
+  piLastName: Swoboda
+  piPhone: '9044027442'
+  poName: Ruth M. Shuman
+  date: 03/08/2018
+  startDate: 03/01/2018
+  expDate: 02/29/2020
+  title: 'STTR Phase II:  Nanostraw-mediated Immune Cell Reprogramming'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project has the potential to help enhance disease resistance in poultry and increase yields due to the delivery of only healthy, fully vaccinated chicks to farms. These healthier chicks will reduce the need for antibiotics in poultry, aiding to combat antimicrobial resistance.  This technology has immediate applications in other food animal industries and fisheries, and allows for data capture on numbers of animals and types of treatments given. Broader applications would include any image capture and analysis that relies on analytics to identify target areas for delivery of substances to live animals or humans.
 
