@@ -69,13 +69,13 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
   
 ThousandEyes delivers Network Intelligence—performance visibility and actionable insights on digital experience for every user and application over any network. It arms network engineers, operations teams, support/service desk staff, developers, and even business users with an accurate, up-to-the-moment understanding of the link between application delivery and underlying network dependencies and behaviors– both inside and outside the organization.
 </div>
-<div class="usa-content usa-width-one-sixth" style="max-width:150px;" markdown="1">
+<div class="usa-content usa-width-one-sixth" style="max-width:300px;" markdown="1">
 ![Mohit Lad]({{ site.baseurl }}/assets/img/showcase/thousandEyes.jpg)
-
-Jose M. Mejia Oneto, founder and CEO of Shasqi.
+Mohit Lad, CEO & Co-Founder of ThousandEyes.
 </div>
 <div class="usa-content" markdown="1">
  ![Path Visualization]({{ site.baseurl  }}/assets/img/showcase/pathvisualization.jpg)
+ <div class="caption"><p> ThousandEyes' patented Path Visualization provides detailed hop-by-hop visibility and performance metrics from any network, even if it's outside your enterprise boundaries. A global inference engine correlates multiple streams of data and visually pinpoints the location of outages (shown as red circles), and provides additional contextual information about the specific location.</p></div>
  </div>
 </div>
 </section>
