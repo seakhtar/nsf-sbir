@@ -61,28 +61,27 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 </div>
 </section>
 
+<section class="usa-section showcase-quote" markdown="1">
+<div class="usa-grid" markdown="1">
 
-<section id="thousandEyes" class="usa-section showcase-content">
-<div class="usa-content usa-grid">
-    
+<div class="quote-content" markdown="1">
+
+![Mohit Lad]({{ site.baseurl }}/assets/img/showcase/thousandEyes.jpg)
+
+> &ldquo;“The grants we received from NSF were instrumental in bootstrapping ThousandEyes and allowing us to focus on building the first version of our product and acquiring customers. By the time we raised our series A from Sequoia capital, we had a handful of well-known brands as customers with annual bookings of more than $250k, i.e. real revenue. Thanks to NSF, we were on our way to commercializing our technology.” &rdquo;  
+
+</div>
+
+Mohit Lad, CEO & Co-Founder of ThousandEyes, a network intelligence platform for businesses, was founded by Lad and Ricardo Oliviera in 2010. In 2018, they have 220 employees and have raised nearly $61 million.
+
+ThousandEyes delivers Network Intelligence—performance visibility and actionable insights on digital experience for every user and application over any network. It arms network engineers, operations teams, support/service desk staff, developers, and even business users with an accurate, up-to-the-moment understanding of the link between application delivery and underlying network dependencies and behaviors– both inside and outside the organization.
+</div>
+
 <div class="usa-content" markdown="1">
  <img src="../assets/img/showcase/pathvisualization.jpg" alt=Path Visualization">
   <div class="caption"><p> ThousandEyes' patented Path Visualization provides detailed hop-by-hop visibility and performance metrics from any network, even if it's outside your enterprise boundaries. A global inference engine correlates multiple streams of data and visually pinpoints the location of outages (shown as red circles), and provides additional contextual information about the specific location.</p></div>
 </div>
 
-<div class="usa-content" style="width:70%;" markdown="1">
-“The grants we received from NSF were instrumental in bootstrapping ThousandEyes and allowing us to focus on building the first version of our product and acquiring customers. By the time we raised our series A from Sequoia capital, we had a handful of well-known brands as customers with annual bookings of more than $250k, i.e. real revenue. Thanks to NSF, we were on our way to commercializing our technology.” - Mohit Lad, CEO & Co-Founder of ThousandEyes, a network intelligence platform for businesses, was founded by Lad and Ricardo Oliviera in 2010. In 2018, they have 220 employees and have raised nearly $61 million.
-
-ThousandEyes delivers Network Intelligence—performance visibility and actionable insights on digital experience for every user and application over any network. It arms network engineers, operations teams, support/service desk staff, developers, and even business users with an accurate, up-to-the-moment understanding of the link between application delivery and underlying network dependencies and behaviors– both inside and outside the organization.
-</div>
-
-<div class="usa-content" style="style="width:25%;"" markdown="1">
-![Mohit Lad]({{ site.baseurl }}/assets/img/showcase/thousandEyes.jpg)
-
-Mohit Lad, CEO & Co-Founder of ThousandEyes.
-</div>
-
-</div>
 </section>
 
 
