@@ -65,16 +65,18 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 <div class="usa-content usa-grid">
 
 <div class="usa-content usa-width-five-sixths" markdown="1">
-Shasqi, a small business funded by the National Science Foundation, is developing a new way to deliver drugs to specific locations within the body to more effectively treat diseases such as cancer. The team, led by physician and chemist Dr. Jose M. Mejia Oneto, has created a targeting system that could enable effective therapy with lower doses of drugs and fewer harmful side effects.  
+“The grants we received from NSF were instrumental in bootstrapping ThousandEyes and allowing us to focus on building the first version of our product and acquiring customers. By the time we raised our series A from Sequoia capital, we had a handful of well-known brands as customers with annual bookings of more than $250k, i.e. real revenue. Thanks to NSF, we were on our way to commercializing our technology.” -Mohit Lad, CEO & Co-Founder of ThousandEyes, a network intelligence platform for businesses, was founded by Lad and Ricardo Oliviera in 2010. In 2018, they have 220 employees and have raised nearly $61 million. 
   
-The system works by first injecting a gel at the treatment site. The gel contains chemicals that combine with and activate an injected, attenuated form of a drug, such as a chemotherapeutic, to trigger its cancer-fighting effect only at the tumor or other targeted tissue. The experimental treatment has been successfully tested against tumors in mice, which experienced tumor shrinkage while maintaining healthier weights than mice receiving traditional chemotherapeutic treatments. [Shasqi](http://www.shasqi.com/#intro) is funded by America’s Seed Fund powered by NSF. *Photo credit: Shasqi*
+ThousandEyes delivers Network Intelligence—performance visibility and actionable insights on digital experience for every user and application over any network. It arms network engineers, operations teams, support/service desk staff, developers, and even business users with an accurate, up-to-the-moment understanding of the link between application delivery and underlying network dependencies and behaviors– both inside and outside the organization.
 </div>
 <div class="usa-content usa-width-one-sixth" style="max-width:150px;" markdown="1">
 ![Mohit Lad]({{ site.baseurl }}/assets/img/showcase/thousandEyes.jpg)
 
 Jose M. Mejia Oneto, founder and CEO of Shasqi.
 </div>
+<div class="usa-content" markdown="1">
  ![Path Visualization]({{ site.baseurl  }}/assets/img/showcase/pathvisualization.jpg)
+ </div>
 </div>
 </section>
 
@@ -85,11 +87,7 @@ Jose M. Mejia Oneto, founder and CEO of Shasqi.
 
 ![Mohit Lad]({{ site.baseurl }}/assets/img/showcase/thousandEyes.jpg)
 
-> &ldquo;“The grants we received from NSF were instrumental in bootstrapping ThousandEyes and allowing us to focus on building the first version of our product and acquiring customers. By the time we raised our series A from Sequoia capital, we had a handful of well-known brands as customers with annual bookings of more than $250k, i.e. real revenue. Thanks to NSF, we were on our way to commercializing our technology.” &rdquo;  
-
-</div>
-
-Mohit Lad, CEO & Co-Founder of ThousandEyes, a network intelligence platform for businesses, was founded by Lad and Ricardo Oliviera in 2010. In 2018, they have 220 employees and have raised nearly $61 million.
+> &ldquo;“The grants we received from NSF were instrumental in bootstrapping ThousandEyes and allowing us to focus on building the first version of our product and acquiring customers. By the time we raised our series A from Sequoia capital, we had a handful of well-known brands as customers with annual bookings of more than $250k, i.e. real revenue. Thanks to NSF, we were on our way to commercializing our technology.” -Mohit Lad, CEO & Co-Founder of ThousandEyes, a network intelligence platform for businesses, was founded by Lad and Ricardo Oliviera in 2010. In 2018, they have 220 employees and have raised nearly $61 million.
 
 ThousandEyes delivers Network Intelligence—performance visibility and actionable insights on digital experience for every user and application over any network. It arms network engineers, operations teams, support/service desk staff, developers, and even business users with an accurate, up-to-the-moment understanding of the link between application delivery and underlying network dependencies and behaviors– both inside and outside the organization.
 </div>
