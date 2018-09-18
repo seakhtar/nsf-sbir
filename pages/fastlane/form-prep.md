@@ -7,7 +7,7 @@ sidenav: fastlane
 # FastLane guide
 
 ## 2. Form Preparation
-At the top of the **Form Preparation** page will be the text **Forms for Temp Proposal #** - this number will be used as a reference throughout the preparation process. When your FastLane Contact/SPO finally submits your proposal to NSF, your proposal will be assigned an official NSF proposal number, the first two digits of which will match the fiscal year in which the proposal was submitted (e.g. proposals submitted between October 1, 2017 and September 30, 2018 will be numbered 18**xxxxx**). This official proposal number should be used in all further communications with NSF.
+At the top of the **Form Preparation** page will be the text **Forms for Temp Proposal #** - this number will be used as a reference throughout the preparation process. *When your FastLane Contact/SPO finally submits your proposal to NSF, your proposal will be assigned an official NSF proposal number, the first two digits of which will match the fiscal year in which the proposal was submitted (e.g. proposals submitted between October 1, 2017 and September 30, 2018 will be numbered 18**xxxxx**). This official proposal number should be used in all further communications with NSF.*
 
 ### Cover Sheet
 Click on the **"GO"** button to the left of **"Cover Sheet"**.
@@ -15,10 +15,8 @@ Click on the **"GO"** button to the left of **"Cover Sheet"**.
 Cover sheet selection
 ![Selecting a cover sheet]({{ site.baseurl }}/assets/img/fastlane/Sep-coverSheetSelection.png)
 
-The Cover Sheet has been divided into 4 sections. **NOTE: To save your data, be sure to click the "OK" button at the bottom of the screen prior to navigating away from the Cover Sheet. If you receive any error messages when you click "OK", you must clear all errors and re-click "OK" to save the data.** 
-
-To complete the Cover Sheet you must complete all 4 sections.
-The first Cover Sheet **"GO"** Button is **"Awardee Organization/Primary Place of Performance Selection"**
+The Cover Sheet has been divided into 4 sections. To complete the Cover Sheet you must complete all 4 sections. 
+ The first Cover Sheet **"GO"** Button is **"Awardee Organization/Primary Place of Performance Selection"**
 
 ![Cover sheet component page]({{ site.baseurl }}/assets/img/fastlane/7-cover-sheet-components.jpg)
 
@@ -33,7 +31,7 @@ The Awardee Organization information is pre-populated from the PI information. C
 
 When inputting an address for the "Primary Place of Performance", you **must** include the **nine-digit zip code**.
 
-_(Proposers are advised to use the United States Postal Service website to look up their nine-digit zip code at www.usps.com)_
+_(Proposers are advised to use the United States Postal Service website to look up their nine-digit zip code at [www.usps.com](www.usps.com))_
 
 After the Primary Place of Performance is identified, click **"Save Primary Place of Performance"**.
 
@@ -59,8 +57,8 @@ Click the **"GO"** button and provide the required information to complete the c
 ![Remainder of the cover sheet button]({{ site.baseurl }}/assets/img/fastlane/10a-remainder-of--the-cover-sheet.jpg)
 
 **"Title of Proposed Project":** The system has already been programmed for each title to begin with **SBIR Phase I:** or **STTR Phase I:**  
-\* _Please do include two spaces after the colon before typing the project title._
-\* _Please do not use acronyms in the proposal title._
+* Please do include two spaces after the colon before typing the project title.
+* Please do not use acronyms in the proposal title.
 
 ![Title of proposed project field]({{ site.baseurl }}/assets/img/fastlane/11a-title-of-proposed-project--and-budget.duration.jpg)
 
