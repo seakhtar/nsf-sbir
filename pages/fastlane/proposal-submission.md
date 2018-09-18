@@ -10,15 +10,14 @@ sidenav: fastlane
 
 ### Print Proposal
 
-If you have completed all the above actions you are now ready to submit your proposal. If you want to print out your proposal before moving to the submission and printing section below, return to the "Proposal Actions" screen and click on the **"Print"** button. **This will allow you to have a hard copy of what you have entered into FastLane.** (_The printed proposal is not your official proposal_). **Note that only those persons listed as official Sponsored Research Officers (SROs) have the ability to complete submission of the proposal to NSF.**
+If you have completed all the above actions you are now ready to submit your proposal. If you want to print out your proposal before moving to the submission and printing section  below, return to the "Proposal Actions" screen and click on the "Print" button. **This will allow you to have a hard copy of what you have entered into FastLane**. (The printed  proposal is not your official proposal). NOTE: Only the organization's Authorized Representative (interchangeably referred to as AOR and SPO (Sponsored Project Officer) SRO (Sponsored Research Officer) can submit the proposal to NSF.
 
-- If you have SRO Access Rights, you can click the **"Submit SBIR"** or **"Submit STTR"** button and the proposal will be submitted to NSF. You will receive a confirmation email with the new NSF Proposal ID.
-- If you **do not** see the "Submit SBIR" or "Submit STTR" button on the "Proposal Action" screen, you do not have the FastLane SRO Access Rights and should follow the directions below.
-Submitting a proposal to NSF involves two steps in the Research Administration portal:
-- Submitting the proposal to NSF
-- Electronically signing the proposal
+-If you have SPO Access Rights, you can click the **"Submit SBIR"** or **"Submit STTR"** button and the proposal will be submitted to NSF. You will receive a confirmation email with the new NSF Proposal ID.
 
-### Allow SRO Access
+-If you **do not** see the "Submit SBIR" or "Submit STTR" button on the "Proposal Action" screen, you do not have the FastLane SPO Access Rights.  **Follow the instructions outlined below.**
+
+
+### Allow SPO Access
 
 1\. To begin the submission process, return to the Proposal Actions screen; select and highlight the proposal you wish to submit and click on the button **"Allow SPO Access".**  
 
@@ -34,7 +33,7 @@ Submitting a proposal to NSF involves two steps in the Research Administration p
 
  When you are ready to continue, click **"Proceed"** to continue the submission process.  
 
-3\. If you are ready to complete the submission process, select the third *"Go"* button for "Allow AOR to view, edit and submit proposal."  
+3\. If you are ready to complete the submission process, select the third **"Go"** button for "Allow AOR to view, edit and submit proposal."  
 
 ![SRO Access control screen]({{ site.baseurl }}/assets/img/fastlane/46-proposal-warnings.jpg)  
 
@@ -44,31 +43,36 @@ Submitting a proposal to NSF involves two steps in the Research Administration p
 
 ### SRO Access Steps
 
-At this point, the Sponsored Research Officer (SRO) has to take the following steps to submit the proposal to NSF.
+At this point, the Sponsored Project Officer (SPO) has to take the following steps to submit the proposal to NSF.
 
 1\. Go to the FastLane Home Page and select the "Research Administration" link.
 
  ![FastLane homepage navigation bar]({{ site.baseurl }}/assets/img/fastlane/Sep-SROlinks.png)
 
-2\. Select Sign in to Fastlane/Research.gov
+2\. Click on the "Sign In to FastLane/Research.gov" button to log in.
 
  ![SRO login box]({{ site.baseurl }}/assets/img/fastlane/Sep-researchAdmin.png)
 
-3\. Login to Research.gov with your NSF ID and Password
+2a. The authorized organizational representative will be asked to provide the follower Sign-in information: 
+-Last name
+-NSF ID
+-Password
 
  ![NSF User Signin]({{ site.baseurl }}/assets/img/fastlane/Sep-signIn.png)
 
-4\. Navigate to 'Research Administration' from the 'My Desktop'
+2b. Navigate to 'Research Administration' from the 'My Desktop'
 
  ![Fastlane Desktop]({{ site.baseurl }}/assets/img/fastlane/Sep-fastlaneDesktop.png)
 
- ![Research Admin]({{ site.baseurl }}/assets/img/fastlane/Sep-fastlaneResearchAdmin.png)
+3\. Click **"Proposals/File Updates/Withdrawals"**. The screen displays on the **Documents in Progress** tab.
 
- Navigate to the SBIR proposal and select select ‘Edit’ to update the proposal and ‘Submit’ to submit the proposal to NSF. **Note:  The ‘ Submit’ link is only enabled once the user has AOR permissions!**
+ ![Research Admin]({{ site.baseurl }}/assets/img/fastlane/proposalSupplementsRA.png)
 
- ![Submit]({{ site.baseurl }}/assets/img/fastlane/Sep-proposalSubmission.png)
+4\. Click **"Submit"** in the row for the proposal you want to submit.
 
- The "Proposal Errors/Warnings" screen gives you the capability to submit the proposal, if there are no errors that prevent submission. Warnings will not prevent submission, but may alert you to missing items that are required by the specific program or solicitation. You are urged to address and correct these issues.
+ ![Submit]({{ site.baseurl }}/assets/img/fastlane/documentsInProgress.png)
+
+The "Proposal Errors/Warnings" screen gives you the capability to submit the proposal, if there are no errors that prevent submission. Warnings will not prevent submission, but may alert you to missing items that are required by the specific program or solicitation. You are urged to address and correct these issues.
 
  ![SRO proposal Error/Warnings screen with list of warnings]({{ site.baseurl }}/assets/img/fastlane/5_SRO_ProposalErrors.jpg)
 
