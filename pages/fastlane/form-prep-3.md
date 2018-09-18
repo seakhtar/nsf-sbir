@@ -13,7 +13,7 @@ sidenav: fastlane
 13. Click on the **"Go"** button to the left of **"Facilities, Equipment, and Other Resources":** **Upload a document that addresses the requirements from the solicitation.**
 
 
-_A Facilities, Equipment and Other Resources document is required for all proposals to NSF. If your proposed project does not require any facilities, equipment or other resources - please include a statement to that effect in this module._
+**A Facilities, Equipment and Other Resources document is required for all proposals to NSF.** If your proposed project does not require any facilities, equipment or other resources - please include a statement to that effect in this module._
 
 ![Main screen with Facilities, Equipment, and Other Resources highlighted]({{ site.baseurl }}/assets/img/fastlane/Sep-facilities.png)
 
@@ -23,11 +23,13 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 ### Project Summary
 
-14. Click the **"Go"** button to the left of the **"Project Summary"** Type the "Project Summary" in the provided text boxes. The aggregate of the three text boxes cannot exceed 4,600 characters, including spaces. The maximum number of lines that may be included on a page is 51. When this section is completed, click **"Save" and then "OK"** to return to the "Form Preparation" screen. **Information MUST be entered into all three text boxes, or the proposal will not be accepted.**
+Follow the instructions on the below screen, then click "Upload File" to upload document. Click "Go Back" until you return to the "Form Preparation" screen.
 
 ![Main screen with Project Summary highlighted]({{ site.baseurl }}/assets/img/fastlane/Sep-projectSummary.png)
 
-** DO NOT CHECK THE BOX TO ENTER YOUR PROJECT SUMMARY AS A SUPPLEMENTARY DOCUMENT. **
+Type the "Project Summary" in the provided text boxes. The aggregate of the three text boxes cannot exceed 4,600 characters, including spaces. The maximum number of lines  that may be included on a page is 51. When this section is completed, click **"Save" and then "OK"** to return to the "Form Preparation" screen. **Information MUST be entered  into all three text boxes, or the proposal will not be accepted.**
+
+**DO NOT CHECK THE BOX TO ENTER YOUR PROJECT SUMMARY AS A SUPPLEMENTARY DOCUMENT.**
 
 ![Project Summary textboxes, with checkbox for supplementary document option at upper left corner highlighted]({{ site.baseurl }}/assets/img/fastlane/33-project-summary.jpg)
 
@@ -39,7 +41,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 ![Main screen with Project Description highlighted]({{ site.baseurl }}/assets/img/fastlane/Sep-projectDescription.png)
 
-Follow the instructions on the below screen, then click **"Upload File"** to upload the document. Click **"Go Back"** until you return to the "Form Preparation" screen.
+Follow the instructions on the below screen, then click **"Upload File"** to upload the document. This takes a few minutes! You will be required to review and accept the PDF version of the Project Description created by FastLane. Click **"Go Back"** until you return to the "Form Preparation" screen.
 
 ![Project Description file upload screen]({{ site.baseurl }}/assets/img/fastlane/34-project-description.jpg)
 
@@ -67,7 +69,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 Use the NSF Current & Pending Support form provided by FastLane. A form must be submitted for the PI (and co-PI for STTR) as well as any senior personnel.
 
-_NSF considers the Phase I proposal being submitted as "Pending Support". Therefore, ALL proposals to NSF must have at least one entry in the "Current & Pending Support" form for the PI and senior personnel (this proposal)._  
+**NSF considers the Phase I proposal being submitted as "Pending Support". Therefore, ALL proposals to NSF must have at least one entry in the "Current & Pending Support" form for the PI and senior personnel (this proposal).**  
 
 ![Main screen with Current and Pending Support highlighted]({{ site.baseurl }}/assets/img/fastlane/Sep-support.png)
 
@@ -79,10 +81,15 @@ Fill in all the required information, click **"Save Text"** and then **"Go Back"
 
 ![Current and Pending Support form creation screen]({{ site.baseurl }}/assets/img/fastlane/38-current-and-pending-support2.jpg)
 
+Follow the instructions on the below screen, then click **"Upload File"** to upload the document. Click **"Go Back"** until you return to the "Form Preparation" screen.
+
+![Current and Pending Support Upload screen]({{ site.baseurl }}/assets/img/fastlane/cpSupportUpload.png)
+
+
 ### Data Management Plan
 18. Click on the **"Go"** button to the left of **"Data Management Plan":**
 
-Proposals _must_ contain a supplementary document labeled "Data Management Plan" which can simply consist of the statement, **"All data generated in this SBIR (or STTR) Phase I project is considered proprietary."**
+Proposals **must** contain a supplementary document labeled "Data Management Plan" which can simply consist of the statement, **"All data generated in this SBIR (or STTR) Phase I project is considered proprietary."**
 
 ![Main screen with Data Management Plan highlighted]({{ site.baseurl }}/assets/img/fastlane/Sep-dataManagementPlan.png)
 
@@ -94,7 +101,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 19. Click on the **"Go"** button to the left of **"Mentoring Plan":**
 
-If the SBIR or STTR project will include a sub-award to an academic institution, and that institution is requesting funding for postdoctoral researchers, a "Post Doc Mentoring Plan" must be included as a supplementary document in this proposal. Otherwise, you may skip this section. _Note that employees of the small business or other for-profit companies DO NOT count as postdocs, as they relate to this requirement, and should not be budgeted on line B.1._
+If the SBIR or STTR project will include a sub-award to an academic institution, and that institution is requesting funding for postdoctoral researchers, a "Post Doc Mentoring  Plan" must be included as a supplementary document in this proposal. Otherwise, you may skip this section. **Note that employees of the small business or other for-profit  companies DO NOT count as postdocs, as they relate to this requirement, and should not be budgeted on line B.1.**
 
 Please consult the solicitation for more information and you can now download [the sample post-doc mentoring plan here]({{ site.baseurl }}/assets/files/applicants/Sample_Postdoc_Mentoring_Plan.doc)
 
@@ -110,9 +117,9 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 ![Main screen with Other Supplementary Docs highlighted]({{ site.baseurl }}/assets/img/fastlane/Sep-otherSupplementaryDocs.png)
 
-**Reference the current solicitation for restrictions and explanations of what NSF requires and what NSF allows in the Supplementary Documents. Items beyond those specifically requested and permitted should not be included.** You are encouraged to compile and convert all of your Supplementary Documents into a single PDF file and upload using the "Transfer File" button below.
+**Reference the current solicitation for restrictions and explanations of what NSF requires and what NSF allows in the Supplementary Documents. Items beyond those  specifically requested and permitted should not be included.** You are encouraged to compile and convert all of your Supplementary Documents into a single PDF file and  upload using the "Transfer File" button below.
 
-Follow the instructions on the below screen, then click **"Upload File"** to upload document. Click **"Go Back"** until you return to the "Proposal Actions" screen.
+Type/Upload your necessary information in the below text box. When this section is completed, click **"Go Back"**" to return to the "Proposal Actions" screen.
 
 ![Other Supplementary Docs file upload screen]({{ site.baseurl }}/assets/img/fastlane/43-other-supplementary-docs2.jpg)
 
