@@ -137,10 +137,12 @@ Click on the **"Go"** button to the left of **"Add/Delete Non Co-PI Senior Perso
 
 Click "Add Non Co-PI Senior Person to Proposal" after inputting the First Name, Middle Initial and Last Name of each person. STTR has 1 Co-PI and SBIR has 0 Co-PIs.
 
->For the SBIR/STTR Program, senior personnel are individuals with critical expertise who will be working on the project and are employed >at the proposing company or at a subaward institution. The company should upload a Bio Sketch and Current & Pending Support form (see >relevant sections later in this document) for each person included as Senior Personnel.
+**>For the SBIR/STTR Program, senior personnel are individuals with critical expertise who will be working on the project and are employed >at the proposing company or at a subaward institution. The company should upload a Bio Sketch and Current & Pending Support form (see >relevant sections later in this document) for each person included as Senior Personnel.**
 
 ![Adding non co-pi senior person form]({{ site.baseurl }}/assets/img/fastlane/24-add-delete-non-copi-senior-personnel.jpg)
 
 After adding all participants, click **"Go Back"** until you return to the "Form Preparation" screen.
+
+For most proposal sections, there is a specific module in FastLane to which you should upload a PDF file prepared outside the system.  Please note that FastLane will need to 'distill' each PDF and you will be prompted to review and approve each file as it is saved.  For this reason, you are urged to allow ample time to prepare and submit your proposal.  We strongly discourage waiting until the deadline date to submit as common compliance errors and processing delays could cause you to miss the deadline.  Proposals cannot be accepted after the deadline per NSF policy.
 
 [Prev]({{ site.baseurl }}/fastlane/) \| [Next]({{ site.baseurl }}/fastlane/form-prep-2/)
