@@ -15,7 +15,7 @@ Click on the "Go" button to the left of "References Cited":
 
 **Provide a comprehensive listing of relevant references in this module.** You can directly enter the references into the text box or you can transfer a file. It is recommended that you do the file transfer.
 
-_All proposals must have something in the References Cited section. If you do not have any references to cite, put a statement to that effect into this module._
+**All proposals must have something in the References Cited section. If you do not have any references to cite, put a statement to that effect into this module.**
 
 ![References cited button on main form preparation screen]({{ site.baseurl }}/assets/img/fastlane/Sep-referencesCited.png)
 
@@ -73,7 +73,7 @@ Provide the number of **CALENDAR months** and proposed cost for all "Senior Pers
 
 ![Other Personnel input table with columns for number of personnel, calendar months, academic months, summer months, and funds requested]({{ site.baseurl }}/assets/img/fastlane/10-OtherPersonnel.jpg)
 
-- Provide names and titles of all personnel in the budget justification, as well as a clear description of their responsibilities in the project. _Note: If you proposed new employees that are yet to be hired, simply list that position as a "potential hire" and proceed with the balance of the information as if they were already in your organization)._
+- Provide names and titles of all personnel in the budget justification, as well as a clear description of their responsibilities in the project.**Note: If you proposed new employees that are yet to be hired, simply list that position as a "potential hire" and proceed with the balance of the information as if they were already in your organization).**
 - **The small business concern should NOT budget any personnel or funds for "Post-Doctoral Scholars", "Graduate Students" or "Undergraduate Students".**
 - In the Budget Justification, please include the actual annual salary information that justifies the calculation of the amounts requested (which should match the line item in the Budget) for all personnel in the project.
 
@@ -91,7 +91,7 @@ It is recommended that proposers allot funds for fringe benefits here ONLY if th
 
 ![Travel section with input fields for funds requested for foriegn and domestic travel]({{ site.baseurl }}/assets/img/fastlane/13-Travel.jpg)
 
-**F. Participant Support Costs section:** _SBIR/STTR Phase I proposals do not use this budget line item; this section should be left blank._
+**F. Participant Support Costs section:** SBIR/STTR Phase I proposals do not use this budget line item; this section should be left blank.
 
 ![Participant support section with a total cost of 0]({{ site.baseurl }}/assets/img/fastlane/14-Support.jpg)
 
@@ -182,7 +182,7 @@ Return to the **"Project Budget"** screen and follow the previous instructions f
 - Indirect Costs
 - Total Direct and Indirect Costs
 - Total Cost and Small business fee
-\* _Items with a total cost exceeding $5,000 should be accompanied by pricing documentation (e.g. quote, link to online price list, prior purchase order or invoice), to be included in the budget justification. Do not upload quotes to the Supplementary Documents module._
+**When applicable, provide quotes, price lists etc. (same as the main budget) in the budget justification. Do not upload quotes to the Supplementary Documents  module.**
 
 ![Project Budget table displaying organizations, funds, and options to edit]({{ site.baseurl }}/assets/img/fastlane/28-ProjectBudget-Overview.jpg)
 
@@ -209,50 +209,44 @@ Click [here]({{ site.baseurl }}/assets/files/awardees/SBIR_Salary_Validation_Gui
 
 #### Sample Budget Justification:
 
-_The FastLane system will indicate that the Budget justification should be no more than three pages. Please note that this 3 page limit is waived for the SBIR/STTR program as the solicitation requires thatletters of collaboration from Consultants and Subawardees be included in this section (following thebudget justification document.) Please include pricing documentation for items on lines G.1 and G.6 with an extended cost that exceeds $5000._
-
 **A.1 Senior Personnel**
 Dr. Jane Smith, Chief Technical Officer, will work four person-months on the project (line A.1) at an hourly rate of $46.16/hour. (4 months * 173.33hrs/month * $46.16/hr = $32,000).
-
-Mr. John Doe, Senior Engineer, will work 4 person-months on the project (line A.2) at an hourly rate of $36.06/hour. (4 months * 173.33 hrs/month * $36.06/hr = $25,000).
 
 **B. Other Personnel**
 Three other personnel will work on the project (line B.2).
 
-An electrical engineer, Mr. Mike Jordan, will spend four months of effort building the prototype amplifier circuitry, at a rate of $25.96/hour. (4 months * 173.33hrs/month * $25.96/hr = $18,000).
+An electrical engineer, Mr. Michael Jones, will spend four months of effort building the prototype amplifier circuitry, at a rate of $24/hour. 4 months * 173.33hrs/month * $24/hr =  $16,640.
 
-Two technicians will spend a total of three months each doing electrical and mechanical characterization, respectively, at a rate of $19.23/hour. (6 months * 173.33hrs/month * $19.23/hr = $20,000).
+Two technicians will spend a total of three months each doing electrical and mechanical characterization, respectively, at a rate of $18/hour. 6 months * 173.33hrs/month * $18/hr  = $18,720.
 
 **C. Fringe Benefits**
-Fringe benefits are requested to cover medical, dental, and vision coverage for employees. The fringe benefits rate, based on company records, is approximately 20% of direct labor costs. Therefore, requested fringe benefits are 0.20 * $95,000 (total direct labor) = $19,000.
+Fringe benefits are requested to cover medical, dental, and vision coverage for employees. The fringe benefits rate, based on company records, is 20% of direct labor costs.  Therefore, requested fringe benefits are 0.20 * $52,000 (total direct labor) = $10,400.
 
 **E. Travel**
-Dr. Smith and Mr. Doe will travel to the Phase I Grantees Workshop in Arlington, VA at an estimated cost of $2,000 per person. Total cost for this trip is $4,000.
+Dr. Smith and Mr. Jones will travel to the Grantees Workshop, at an estimated cost of $2,000 per person. Total cost for this trip is $4,000. Dr. Smith will also make one two-day  trip to visit collaborators at Brown University. This trip will include round-trip airfare ($400), two nights at a hotel ($300), meals ($80), and a rental car ($150). Total cost for this trip  is $930. Total budgeted travel is $4,930.
 
 **G.1. Materials and Supplies**
-The following is a list of materials and supplies to purchase, with quantity, unit cost, and total cost. Items with a total line item cost over $5,000 are justified by inclusion of a quote or pricing documentation with this budget justification.
+The following is a list of materials and supplies to purchase, with quantity, unit cost, and total cost. Items with a total line item cost over $5,000 have quotes or pricing  documentation included as separate pages in this budget justification.
+Chemical precursors: $150/unit, 20 units, $3,000.  
+Specialized alloys: $600/kg, 10 kg, $6,000. 
+Temperature sensors: $250/unit, 8 units, $2,000. 
 
-Chemical precursors: $100/unit, 10 units, $1,000.
-Specialized alloys: $200/kg, 5 kg = $1,000.
-Specialty compressed gases: $400/cylinder * 15 cylinders = $6,000 (see pricing documentation included as part of this budget justification)
-Temperature sensors: $250/unit, 8 units, $2,000.
-Printed circuit boards: $200 per board * 10 boards = $2,000
-Total budgeted materials and supplies is $10,000.
+Total budgeted materials and supplies is $11,000.
+
 
 **G.3. Consultant Services**
-Dr. I. D. Snow will be work on the project as a consultant. She will work for a total of 40 days at a rate of compensation of $62.50 per hour ($500/day, which is less than the maximum allowed consultant rate of $1000/day). Total requested costs are $20,000. A copy of the signed commitment letter from Dr. Snow is included with this budget justification.
+Dr. I. D. Snow will be our consultant. She will work for a total of ten days (80 hours/8 hours per day) at the maximum consultant rate of $600/day. Total requested costs are  $6,000. A copy of the signed commitment letter from Dr. Snow is included with this budget justification.
 
 **G.5. Subawards**
-One subaward will be executed with Brown University. A signed letter of commitment from the subaward lead, Dr. Fred Johnson, is included in the proposal package. A full subaward budget and budget justification is also included with the proposal. The total subaward amount is $40,000.
+One subaward has been reached with Brown University. A signed letter of commitment from the subaward lead, Dr. Fred Johnson, is included in the proposal package. A full  subaward budget and budget justification is also included with the proposal (see below). The total subaward amount is $35,000.
 
-**G.6 Other Direct Costs**
-We request $1000 for machining costs for prototype fabrication ($100/hour with an estimated 10 hours of machining required). We also have budgeted $1000 for external testing services (4 tests at $250 each) at XYZ Testing Co. The total requested other direct costs are $2,000.
+**G.6 Other**
+ABC Machining will manufacture two sample holders, requiring an estimated 20 hours of effort. The rate for this service is $75/hour. Total cost is 20 * $75 = $1,500. We will also  pay for use of electron microscopes at Purdue University, with a total of 10 hours budgeted. The cost for outside industrial users (see attached price list) is $200/hour, for a total  cost of $2,000. Total "other" costs are $3,500.
 
 **I. Indirect Costs**
-The indirect rate for this project is 20% of total direct salaries and wages, for a total cost of $19,000.
-The total fringe plus indirect cost requested for this project is $38,000, which is 40% of total salaries and wages and therefore less than the 50% "safe rate".
+The indirect rate for this project is 40% of total salaries and wages, for a total of $52,000 * 40% = $20,800.
 
 **K. Fee**
-The fee requested is the maximum allowed rate of 7% of the total direct plus indirect costs (line J). This amounts to a total requested fee of $14,630.
+The fee is calculated as 4.43% of the total direct plus indirect costs (line J), or $6,370. Taking the maximum allowed fee of 7% would lead to a project budget over the $150,000  limit for Phase I.
 
 [Prev]({{ site.baseurl }}/fastlane/form-prep/) \| [Next]({{ site.baseurl }}/fastlane/form-prep-3/)
