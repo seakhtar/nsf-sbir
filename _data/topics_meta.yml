@@ -2,7 +2,7 @@
 max_companies_shown: 9
 active_date_is_now: true
 fundProgramName: phase i
-reset: false
+reset: true
 recent_date: 2018-06-01
 allow_recent_all: true
 printFields:
