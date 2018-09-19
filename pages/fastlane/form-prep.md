@@ -16,7 +16,8 @@ Cover sheet selection
 ![Selecting a cover sheet]({{ site.baseurl }}/assets/img/fastlane/Sep-coverSheetSelection.png)
 
 The Cover Sheet has been divided into 4 sections. To complete the Cover Sheet you must complete all 4 sections. 
- The first Cover Sheet **"GO"** Button is **"Awardee Organization/Primary Place of Performance Selection"**
+
+The first Cover Sheet **"GO"** Button is **"Awardee Organization/Primary Place of Performance Selection"**
 
 ![Cover sheet component page]({{ site.baseurl }}/assets/img/fastlane/7-cover-sheet-components.jpg)
 
@@ -54,7 +55,7 @@ The third Cover Sheet **"GO"** Button is **"NSF Unit Consideration"**.
 The fourth Cover Sheet **"GO"** Button is **"Remainder of the Cover Sheet"**
 Click the **"GO"** button and provide the required information to complete the cover sheet.
 
-![Remainder of the cover sheet button]({{ site.baseurl }}/assets/img/fastlane/10a-remainder-of--the-cover-sheet.jpg)
+![Remainder of the cover sheet button]({{ site.baseurl }}/assets/img/fastlane/Sep-remainderCoverSheet.png)
 
 **"Title of Proposed Project":** The system has already been programmed for each title to begin with **SBIR Phase I:** or **STTR Phase I:**  
 * Please do include two spaces after the colon before typing the project title.
@@ -72,7 +73,7 @@ Click the **"GO"** button and provide the required information to complete the c
 **"Announcement and Consideration Information"**, **"Principal Investigator (PI) Information"** and **"Co-Principal Investigator (Co-PI) Information":** These sections will automatically populate.
 
 ![Announcements and Consideration fields]({{ site.baseurl }}/assets/img/fastlane/12a-announcement-and-consideration-information-AND-PI-information2017.jpg)
-Principal Investigator fields
+
 ![Announcements and Consideration fields 2]({{ site.baseurl }}/assets/img/fastlane/12b-announcement-and-consideration-information-AND-PI-information2017.jpg)
 
 **"Previous NSF Award":** **Do not check the box.**
@@ -85,7 +86,7 @@ _Preliminary proposals are not accepted by the SBIR/STTR Program._
 
 ![Other federal agencies boxes]({{ site.baseurl }}/assets/img/fastlane/13b-Previous-NSF-award-AND-Other-federal-agencies.jpg)
 
-**"Awardee Organization Information":** This section has your Organization Name, Address, and Organization Code (this is a code assigned by NSF to your organization). All of this information should be pre-populated. The company's Employer Identification Number (EIN) and Taxpayer Identification Number (TIN) must be provided. Under the "Check all that apply to the Awardee Organization (see GPG for Definitions)" you should always check the following two boxes:
+**"Awardee Organization Information":** This section has your Organization Name, Address, and Organization Code (this is a code assigned by NSF to your organization). All of this information should be pre-populated. The company's Employer Identification Number (**EIN**) and Taxpayer Identification Number (**TIN**) must be provided. Under the "Check all that apply to the Awardee Organization (see GPG for Definitions)" you should always check the following two boxes:
 - For Profit
 - Small Business
 
