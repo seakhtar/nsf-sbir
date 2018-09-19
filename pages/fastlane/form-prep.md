@@ -138,7 +138,7 @@ Click on the **"Go"** button to the left of **"Add/Delete Non Co-PI Senior Perso
 
 Click "Add Non Co-PI Senior Person to Proposal" after inputting the First Name, Middle Initial and Last Name of each person. STTR has 1 Co-PI and SBIR has 0 Co-PIs.
 
-**>For the SBIR/STTR Program, senior personnel are individuals with critical expertise who will be working on the project and are employed >at the proposing company or at a subaward institution. The company should upload a Bio Sketch and Current & Pending Support form (see >relevant sections later in this document) for each person included as Senior Personnel.**
+**For the SBIR/STTR Program, senior personnel are individuals with critical expertise who will be working on the project and are employed >at the proposing company or at a subaward institution. The company should upload a Bio Sketch and Current & Pending Support form (see >relevant sections later in this document) for each person included as Senior Personnel.**
 
 ![Adding non co-pi senior person form]({{ site.baseurl }}/assets/img/fastlane/24-add-delete-non-copi-senior-personnel.jpg)
 
