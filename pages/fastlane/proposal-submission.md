@@ -80,15 +80,15 @@ The "Proposal Errors/Warnings" screen gives you the capability to submit the pro
 
 5\. There are two options at this point: **Submit and Sign the Proposal** or **Submit the Proposal Only.** The steps below are for the **Submit and Sign the Proposal** option. (_If you are an SPO with AOR permissions, you have the capability to submit and sign the proposal. If you submit without signing, please have the AOR sign the proposal within 5 days of submission._)
 
-5\a. **"Debarment and Suspension":** click the **radio button for "Yes or No"** if there are any debarments or suspensions of you or of your organization from transactions with federal agencies. (_If you answered Yes, provide an explanation in the text box._)
+5a. **"Debarment and Suspension":** click the **radio button for "Yes or No"** if there are any debarments or suspensions of you or of your organization from transactions with federal agencies. (_If you answered Yes, provide an explanation in the text box._)
 
 ![Debarment and Suspension radio buttons and text field]({{ site.baseurl }}/assets/img/fastlane/6_SRO_DebarmentSuspension2017.jpg)
 
-5\b. **Institution Information:** Check the accuracy of your organization's information, then click **"Sign and Submit".**
+5b. **Institution Information:** Check the accuracy of your organization's information, then click **"Sign and Submit".**
 
 ![Institution information screen listing details of institution]({{ site.baseurl }}/assets/img/fastlane/7_SRO_InstitutionInformation2017.jpg)
 
-5\c. **Proposal Submission Confirmation** screen: Displays a message that the proposal has been successfully submitted to NSF. It also displays the official NSF proposal number which has been assigned.
+5c. **Proposal Submission Confirmation** screen: Displays a message that the proposal has been successfully submitted to NSF. It also displays the official NSF proposal number which has been assigned.
 
 - Write down the NSF proposal number
 - Print a copy of the **Proposal Submission Confirmation** screen, if desired
