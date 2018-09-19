@@ -23,11 +23,11 @@ If you have completed all the above actions you are now ready to submit your pro
 
  ![Allow SRO Access screen with selection box of proposals]({{ site.baseurl}}/assets/img/fastlane/44-proposal-action-screen.jpg)
 
-2\. At this point, FastLane may notify you of some warnings and/or errors related to the proposal. "Errors" will prevent you from submitting the proposal until they are remedied. You will receive an "error" if modules or required documents are missing that must be included per NSF policy. _Proposers are strongly encouraged to submit their proposal early (days, not hours) to ensure adequate time is afforded to troubleshoot any errors that will prevent submission at this stage. FastLane will not accept any proposals after 5:00 pm submitter's time.  Your organization's time zone is set in the registration section of Research.gov.  
+2\. At this point, FastLane may notify you of some warnings and/or errors related to the proposal. **"Errors"** will prevent you from submitting the proposal until they are remedied. You will receive an "error" if modules or required documents are missing that must be included per NSF policy. Proposers are strongly encouraged to submit their proposal early (days, not hours) to ensure adequate time is afforded to troubleshoot any errors that will prevent submission at this stage. FastLane will not accept any proposals after 5:00 pm submitter's time.  Your organization's time zone is set in the registration section of Research.gov.  
 
  ![Proposal Errors/Warnings screen showing list of errors in red]({{ site.baseurl}}/assets/img/fastlane/45-proposal-errors.jpg)  
 
- FastLane may also give you **"warnings"** that do not prevent proposal submission, but could indicate missing items that are required by the solicitation. _Please be sure to review and address these warnings in the context of the specific solicitation requirements.  
+ FastLane may also give you **"warnings"** that do not prevent proposal submission, but could indicate missing items that are required by the solicitation. Please be sure to review and address these warnings in the context of the specific solicitation requirements.  
 
  ![Proposal Errors/Warnings screen showing list of warnings in black]({{ site.baseurl }}/assets/img/fastlane/46-proposal-warnings.jpg)  
 
@@ -35,7 +35,7 @@ If you have completed all the above actions you are now ready to submit your pro
 
 3\. If you are ready to complete the submission process, select the third **"Go"** button for "Allow AOR to view, edit and submit proposal."  
 
-![SRO Access control screen]({{ site.baseurl }}/assets/img/fastlane/46-proposal-warnings.jpg)  
+![SRO Access control screen]({{ site.baseurl }}/assets/img/fastlane/Sep-SPOAccessControl.png)  
 
 4\. Then click the **"OK"** button on the below screen.  
 
@@ -53,10 +53,10 @@ At this point, the Sponsored Project Officer (SPO) has to take the following ste
 
  ![SRO login box]({{ site.baseurl }}/assets/img/fastlane/Sep-researchAdmin.png)
 
-2a. The authorized organizational representative will be asked to provide the follower Sign-in information: 
--Last name
--NSF ID
--Password
+2a. The authorized organizational representative will be asked to provide the follower Sign-in information:   
+-Last name  
+-NSF ID  
+-Password  
 
  ![NSF User Signin]({{ site.baseurl }}/assets/img/fastlane/Sep-signIn.png)
 
@@ -98,7 +98,7 @@ The "Proposal Errors/Warnings" screen gives you the capability to submit the pro
 
 _This is the Proposal Number you should reference in all communications with NSF regarding this proposal henceforward._
 
-#### Note: User's lack of familiarity with FastLane is not a valid excuse for submitting a late proposal, nor are warnings/errors received at the time of submission. Therefore, we strongly advise all submitters to ensure the proposal is submitted EARLY (days - not hours - before each deadline).
+**Note: User's lack of familiarity with FastLane is not a valid excuse for submitting a late proposal, nor are warnings/errors received at the time of submission. Therefore, we strongly advise all submitters to ensure the proposal is submitted EARLY (days - not hours - before each deadline).**
 
 [Prev]({{ site.baseurl }}/fastlane/form-prep-3/) \| [Next]({{ site.baseurl }}/fastlane/proposal-file-update/)
 
