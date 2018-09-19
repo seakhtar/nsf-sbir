@@ -66,7 +66,7 @@ To learn more visit: [https://www.elidah.com/](https://www.elidah.com/).
 
 <div class="usa-content usa-width-one-half" markdown="1">
 
-### A cheaper, easier way to test for malaria
+### Thousand Eyes
 
 “The grants we received from NSF were instrumental in bootstrapping ThousandEyes and allowing us to focus on building the first version of our product and acquiring customers. By the time we raised our series A from Sequoia capital, we had a handful of well-known brands as customers with annual bookings of more than $250k, i.e. real revenue. Thanks to NSF, we were on our way to commercializing our technology.” -Mohit Lad, CEO & Co-Founder of ThousandEyes, a network intelligence platform for businesses, was founded by Lad and Ricardo Oliviera in 2010. In 2018, they have 220 employees and have raised nearly $61 million. 
   
@@ -74,7 +74,7 @@ ThousandEyes delivers Network Intelligence—performance visibility and actionab
 
 </div>
 
-<div class="usa-width-one-half">
+<div class="usa-width-one-half" markdown="1">
   ![Mohit Lad]({{ site.baseurl }}/assets/img/showcase/thousandEyes.jpg)
 </div>
 </div>
