@@ -8,11 +8,13 @@ sidenav: fastlane
 
 Submitting a SBIR/STTR Phase I Proposal in FastLane
 
-The Phase I SBIR solicitation and STTR solicitation explain what information should go into the proposal. The following steps will walk through the process of submitting a proposal into FastLane, NSF's electronic submission system. Remember to submit your proposal early. FastLane will not accept proposals after 5:00 p.m. (Your time zone is set during online registration in Research.gov).
+The Phase I SBIR solicitation and STTR solicitation explain what information should go into the proposal. The following steps will walk through the process of submitting a proposal to FastLane, NSF's electronic submission system. Remember to submit your proposal early. Fastlane will not accept proposals after 5:00 pm submitter's time.  The time zone of the submitting company is set during online registration in Research.gov.
+
+ADA & 508 Compliance Assistance - Please Call the FastLane Help Desk at 1-800-673-6188.
 
 PDF version is available for [download]({{ site.baseurl }}/assets/files/applicants/Phase_I_Proposal_Preparation_Booklet.pdf).
 
-## 1. FastLane Overview
+## 1. Application Overview
 
 ### Do you have the required registrations?
 
@@ -29,7 +31,7 @@ PDF version is available for [download]({{ site.baseurl }}/assets/files/applican
 
 ### Register a New Organization
 
-Organizations must be registered with the National Science Foundation (NSF) to submit proposals using NSF’s systems. Before a new organization can register with NSF, it must first be registered in the System for Award Management (SAM - [https://www.sam.gov](https://www.sam.gov)]  and have a DUNS number. Note that completion of the SAM registration process may take up to two weeks.
+Organizations must be registered with the National Science Foundation (NSF) to submit proposals using NSF’s systems. Before a new organization can register with NSF, it must first be registered in the System for Award Management (SAM - [https://www.sam.gov]([https://www.sam.gov](https://www.sam.gov))  and have a DUNS number. Note that completion of the SAM registration process may take up to two weeks.
 
 Follow the step-by-step process below to register a new organization in Research.gov.
 
@@ -45,15 +47,10 @@ Follow the step-by-step process below to register a new organization in Research
 ![Add Organizational Role]({{ site.baseurl }}/assets/img/fastlane/newOrg1.jpg)
 
 * Enter your organization is not already registered with NSF, a message will display to confirm that the organization is not found in NSF systems and you will be able to register the organization and become the first Administrator. 
-* If you need help registering in the System for Award Management (SAM), go to [https://www.sam.gov/sam/transcript/Quick_Guide_for_Grants_Registrations.pdf.](https://www.sam.gov/sam/transcript/Quick_Guide_for_Grants_Registrations.pdf) 
-* Note that completion of the SAM registration process may take up to two weeks.
+* If you need help registering in the System for Award Management (SAM), go to [https://www.sam.gov/sam/transcript/Quick_Guide_for_Grants_Registrations.pdf](https://www.sam.gov/sam/transcript/Quick_Guide_for_Grants_Registrations.pdf) 
+* Note that completion of the SAM registration process **may take up to two weeks**.
 
 ![Find Organization]({{ site.baseurl }}/assets/img/fastlane/newOrg2.jpg)
-
-* If you need help registering in the System for Award Management (SAM), go to [https://www.sam.gov/sam/transcript/Quick_Guide_for_Grants_Registrations.pdf](https://www.sam.gov/sam/transcript/Quick_Guide_for_Grants_Registrations.pdf).
-* Note that completion of the SAM registration processmay take up to two weeks.
-
-
 
 **Helpful Tip:** If a new organization is registered with NSF without an Administrator, the first user to request a role will become the organization’s first Administrator.
 
@@ -61,27 +58,24 @@ Follow the step-by-step process below to register a new organization in Research
 (Figure 3)
 * Notice the “Administrator” role is pre-selected. Click “Next.” (Figure 4)
 * Review your organization’s information for accuracy and click “Submit.” (Figure 5)
-* The request to register your organization with NSF will be forwarded via email to your organization’s SAM points of contact for their information only. The SAM points of contact will not need to approve the request. (Figure 6)
+* The request to register your organization with NSF will be forwarded via email to your organization’s SAM points of contact for their information only. The SAM points of contact will **not** need to approve the request. (Figure 6)
 
 ![Figure 3: Add Information]({{ site.baseurl }}/assets/img/fastlane/newOrg3.jpg)
-Figure 3: Add Information
+
 
 ![Figure 4: Choose Role(s)]({{ site.baseurl }}/assets/img/fastlane/newOrg4.jpg)
-Figure 4: Choose Role(s)
+
 
 ![Figure 5: Review]({{ site.baseurl }}/assets/img/fastlane/newOrg5.jpg)
-Figure 5: Review
+
 
 ![Figure 6: Confirmation]({{ site.baseurl }}/assets/img/fastlane/newOrg6.jpg)
-Figure 6: Confirmation
 
-**Helpful Tip:** Once an organization is registered with NSF, any updates to organizational information must be made by an organizational Administrator in the FastLane
-Research Administration module.
+
+**Helpful Tip:** Once an organization is registered with NSF, any updates to organizational information must be made by an organizational Administrator in the FastLane Research Administration module.
 
 
 ### Formatting Instructions
-
-As a reminder, any documents uploaded into FastLane should follow the formatting rules:
 
 - Arial, Courier New, or Palatino Linotype at a font size 10 or larger should be used; or
 - Times New Roman or Computer Modern fonts at a font size of 12 points or larger.
@@ -112,6 +106,7 @@ On the **Principal Investigator (PI) Information** screen, check the PI informat
 ![Proposal information screen]({{ site.baseurl }}/assets/img/fastlane/4-PI-information.jpg)
 
 Once you select to prepare your proposal, the "Proposal Actions" screen appears.
+
 Scroll down past the **Temporary Proposals in Progress** section to the **Create New Proposal** section at the bottom, and click on the **"SBIR Phase I"** or **"STTR Phase I"** button.
 
 ![create new proposal]({{ site.baseurl }}/assets/img/fastlane/5-createnewproposal.jpg)
