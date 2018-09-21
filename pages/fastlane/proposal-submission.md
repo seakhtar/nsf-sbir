@@ -10,7 +10,7 @@ sidenav: fastlane
 
 ### Print Proposal
 
-If you have completed all the above actions you are now ready to submit your proposal. If you want to print out your proposal before moving to the submission and printing section  below, return to the "Proposal Actions" screen and click on the "Print" button. **This will allow you to have a hard copy of what you have entered into FastLane**. (The printed  proposal is not your official proposal). NOTE: Only the organization's Authorized Representative (interchangeably referred to as AOR and SPO (Sponsored Project Officer) SRO (Sponsored Research Officer) can submit the proposal to NSF.
+If you have completed all the above actions you are now ready to submit your proposal. If you want to print out your proposal before moving to the submission and printing section  below, return to the "Proposal Actions" screen and click on the "Print" button. **This will allow you to have a hard copy of what you have entered into FastLane**. (The printed  proposal is not your official proposal). NOTE:  Only the organization’s AOR (Authorized Organizational Representative) can submit the proposal to NSF.  The AOR is also sometimes referred to as the SPO (Sponsored Project Officer) in the NSF systems.
 
 -If you have SPO Access Rights, you can click the **"Submit SBIR"** or **"Submit STTR"** button and the proposal will be submitted to NSF. You will receive a confirmation email with the new NSF Proposal ID.
 
