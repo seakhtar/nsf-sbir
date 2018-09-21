@@ -31,7 +31,7 @@ PDF version is available for [download]({{ site.baseurl }}/assets/files/applican
 
 ### Register a New Organization
 
-Organizations must be registered with the National Science Foundation (NSF) to submit proposals using NSF’s systems. Before a new organization can register with NSF, it must first be registered in the System for Award Management (SAM - [https://www.sam.gov]<span markdown="0"><a ref="https://www.sam.gov"]ttps://www.sam.gov /a></span>) and have a DUNS number. Note that completion of the SAM registration process may take up to one month.
+Organizations must be registered with the National Science Foundation (NSF) to submit proposals using NSF’s systems. Before a new organization can register with NSF, it must first be registered in the System for Award Management <span markdown="0">(SAM - <a ref="https://www.sam.gov"> https://www.sam.gov /a>)</span> and have a DUNS number. Note that completion of the SAM registration process may take up to one month.
 
 Follow the step-by-step process below to register a new organization in Research.gov.
 
