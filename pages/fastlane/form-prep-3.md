@@ -27,7 +27,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 
 ![Main screen with Project Summary highlighted]({{ site.baseurl }}/assets/img/fastlane/Sep-projectSummary.png)
 
-Type the "Project Summary" in the provided text boxes. The aggregate of the three text boxes cannot exceed 4,600 characters, including spaces. The maximum number of lines  that may be included on a page is 51. When this section is completed, click **"Save" and then "OK"** to return to the "Form Preparation" screen. **Information MUST be entered  into all three text boxes, or the proposal will not be accepted.**
+Type the "Project Summary" in the provided text boxes. When this section is completed, click **"Save" and then "OK"** to return to the "Form Preparation" screen. **Information MUST be entered  into all three text boxes, or the proposal will not be accepted.**
 
 **DO NOT CHECK THE BOX TO ENTER YOUR PROJECT SUMMARY AS A SUPPLEMENTARY DOCUMENT.**
 
