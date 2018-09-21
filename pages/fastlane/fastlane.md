@@ -18,7 +18,7 @@ PDF version is available for [download]({{ site.baseurl }}/assets/files/applican
 
 ### Do you have the required registrations?
 
-*Before you can register your small business with NSF and prepare/submit a proposal - you MUST register your company to do business with the U.S. government through the System for Award Management (SAM). When you register in SAM, you’ll have to share your company’s “DUNS number” and bank account information. You’ll also have to have an original, signed notarized letter stating that you are the authorized Entity Administrator before your registration will be activated. The SAM.gov registration process is free and takes only 10-15 minutes to initiate but can take* more than three weeks to complete. *SAM registration expires after one year and must be updated annually.*
+*Before you can register your small business with NSF and prepare/submit a proposal - you MUST register your company to do business with the U.S. government through the System for Award Management (SAM). When you register in SAM, you’ll have to share your company’s “DUNS number” and bank account information. You’ll also have to have an original, signed notarized letter stating that you are the authorized Entity Administrator before your registration will be activated. The SAM.gov registration process is free and takes only 10-15 minutes to initiate but can take up to one month to complete. SAM registration expires after one year and must be updated annually.*
 
 *Once your company is registered in SAM, you are able to register the organization with NSF in Research.gov. Only after registering with Research.gov can you login to FastLane and begin preparing your proposal. (SBIR and STTR proposals are not accepted in Research.gov).*
 
@@ -31,7 +31,7 @@ PDF version is available for [download]({{ site.baseurl }}/assets/files/applican
 
 ### Register a New Organization
 
-Organizations must be registered with the National Science Foundation (NSF) to submit proposals using NSF’s systems. Before a new organization can register with NSF, it must first be registered in the System for Award Management (SAM - [https://www.sam.gov]([https://www.sam.gov](https://www.sam.gov))  and have a DUNS number. Note that completion of the SAM registration process may take up to two weeks.
+Organizations must be registered with the National Science Foundation (NSF) to submit proposals using NSF’s systems. Before a new organization can register with NSF, it must first be registered in the System for Award Management (SAM - [https://www.sam.gov]([https://www.sam.gov](https://www.sam.gov))\ and have a DUNS number. Note that completion of the SAM registration process may take up to one month.
 
 Follow the step-by-step process below to register a new organization in Research.gov.
 
@@ -43,12 +43,11 @@ Follow the step-by-step process below to register a new organization in Research
 * Click “Add New Role” from the left navigation bar.
 * Click “Add Organizational Role” located in the “Add and Manage Organizations” box. 
     * Note: If an organization is new to NSF, you must start the process by setting yourself up as the Administrator for the new organization. You must have an NSF account to start this process. The system will automatically detect that the organization is new and will walk you through setting up the organization and Administrator role.
-    
-![Add Organizational Role]({{ site.baseurl }}/assets/img/fastlane/newOrg1.jpg)
+ <div markdown="0">   
+<img src="../assets/img/fastlane/newOrg1.jpg">
+</div>
 
-* Enter your organization is not already registered with NSF, a message will display to confirm that the organization is not found in NSF systems and you will be able to register the organization and become the first Administrator. 
-* If you need help registering in the System for Award Management (SAM), go to [https://www.sam.gov/sam/transcript/Quick_Guide_for_Grants_Registrations.pdf](https://www.sam.gov/sam/transcript/Quick_Guide_for_Grants_Registrations.pdf) 
-* Note that completion of the SAM registration process **may take up to two weeks**.
+* If your organization is not already registered with NSF, a message will display to confirm that the organization is not found in NSF systems and you will be able to register the organization and become the first Administrator. 
 
 ![Find Organization]({{ site.baseurl }}/assets/img/fastlane/newOrg2.jpg)
 
@@ -69,11 +68,15 @@ Follow the step-by-step process below to register a new organization in Research
 ![Figure 5: Review]({{ site.baseurl }}/assets/img/fastlane/newOrg5.jpg)
 
 
-![Figure 6: Confirmation]({{ site.baseurl }}/assets/img/fastlane/newOrg6.jpg)
-
+<div markdown="0">   
+<img src="../assets/img/fastlane/newOrg6.jpg">
+</div>
 
 **Helpful Tip:** Once an organization is registered with NSF, any updates to organizational information must be made by an organizational Administrator in the FastLane Research Administration module.
-
+<div markdown="0">   
+<img src="../assets/img/fastlane/helpfulTip.png">
+</div>
+<span style="color:red;">It is recommended that the Principal Investigator also register as an “Authorized Organizational Representative – AOR” for the organization.  The PI creates and uploads all proposal components to FastLane and the AOR formally submits the proposal to NSF.  Only PIs with AOR privileges can submit the proposal.  Failing to register as an AOR is not a valid excuse for missing the solicitation deadline.</span>
 
 ### Formatting Instructions
 
