@@ -23,34 +23,39 @@ Select the **Proposal, Awards & Status** link on the top (blue) menu bar.
 <img style="margin:0px;" src="../assets/img/fastlane/Sep-CreateProposal.png" alt="menu bar">
 </div>
 
-On the right side of the page, click “Sign In to FastLane/Research.gov
+On the right side of the page, click “Sign In to FastLane/Research.gov"
 
 <div markdown="0">   
-<img style="margin:0px;" src="../assets/img/fastlane/loginSingleSignon.png" alt="Sign in"/>
+<img style="margin:0px;" src="../assets/img/fastlane/loginSingleSignon.png" alt="Sign in">
   </div>
 
 You will be taken to Research.gov Sign In page. Fill in Sign In information (NSF ID and Password) in the "NSF User Sign In" box on the left side of the screen.
 **Note: The Principal Investigator (PI) for the proposed Phase I project MUST login and prepare the proposal**
 
-![NSF User Sign In]({{ site.baseurl }}/assets/img/fastlane/Sep-signIn.png)
+<div markdown="0">   
+<img style="margin:0px;" src="../assets/img/fastlane/Sep-signIn.png"></div>
 
 On the **Principal Investigator (PI)/Co-Principal Investigator (CO-PI) Management** screen, select **"Proposal Functions"**
 
-![Proposal Functions]({{ site.baseurl }}/assets/img/fastlane/Sep-proposalFunctions.png)
+<div markdown="0">   
+<img style="margin:0px;" src="../assets/img/fastlane/Sep-proposalFunctions.png"></div>
 
 On the **Proposal Functions** screen, click **"Proposal Preparation"**
 
-![Proposal preparation]({{ site.baseurl }}/assets/img/fastlane/Sep-proposalPrep.png)
+<div markdown="0">   
+<img style="margin:0px;" src="../assets/img/fastlane/Sep-proposalPrep.png"></div>
 
 On the **Principal Investigator (PI) Information** screen, check the PI information for accuracy. You may choose to update or edit the PI information by selecting the **"Edit PI Information"** button. You cannot change the PI here. Once finished, click the **"Prepare Proposal"** button.
 
-![Proposal information screen]({{ site.baseurl }}/assets/img/fastlane/4-PI-information.jpg)
+<div markdown="0">   
+  <img style="margin:0px;" src="../assets/img/fastlane/4-PI-information.jpg"></div>
 
 Once you select to prepare your proposal, the "Proposal Actions" screen appears.
 
 Scroll down past the **Temporary Proposals in Progress** section to the **Create New Proposal** section at the bottom, and click on the **"SBIR Phase I"** or **"STTR Phase I"** button.
 
-![create new proposal]({{ site.baseurl }}/assets/img/fastlane/5-createnewproposal.jpg)
+<div markdown="0">   
+<img style="margin:0px;" src="../assets/img/fastlane/5-createnewproposal.jpg"></div>
 
 ### Form Preparation
 At the top of the **Form Preparation** page will be the text **Forms for Temp Proposal #** - this number will be used as a reference throughout the preparation process. *When your FastLane Contact/SPO finally submits your proposal to NSF, your proposal will be assigned an official NSF proposal number, the first two digits of which will match the fiscal year in which the proposal was submitted (e.g. proposals submitted between October 1, 2018 and September 30, 2019 will be numbered 98**xxxxx**). This official proposal number should be used in all further communications with NSF.*
