@@ -6,7 +6,7 @@ sidenav: fastlane
 ---
 # FastLane guide
 
-## 2. Create Ppoposal
+## 2. Create Proposal
 
 ### Formatting Instructions
 
@@ -26,7 +26,7 @@ Select the **Proposal, Awards & Status** link on the top (blue) menu bar.
 On the right side of the page, click “Sign In to FastLane/Research.gov
 
 <div markdown="0">   
-<img style="margin:0px;" sr="../assets/img/fastlane/loginSingleSignon.png" alt="Sign in"/>
+<img style="margin:0px;" src="../assets/img/fastlane/loginSingleSignon.png" alt="Sign in"/>
   </div>
 
 You will be taken to Research.gov Sign In page. Fill in Sign In information (NSF ID and Password) in the "NSF User Sign In" box on the left side of the screen.
