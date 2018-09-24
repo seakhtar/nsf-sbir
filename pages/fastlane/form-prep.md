@@ -28,11 +28,11 @@ On the right side of the page, click “Sign In to FastLane/Research.gov"
 You will be taken to Research.gov Sign In page. Fill in Sign In information (NSF ID and Password) in the "NSF User Sign In" box on the left side of the screen.
 **Note: The Principal Investigator (PI) for the proposed Phase I project MUST login and prepare the proposal**
 
-![Sign In]({{ site.baseurl }}/assets/img/fastlane/Sep-signIn.png)>
+![Sign In]({{ site.baseurl }}/assets/img/fastlane/Sep-signIn.png)
 
 On the **Principal Investigator (PI)/Co-Principal Investigator (CO-PI) Management** screen, select **"Proposal Functions"**
 
-![Proposal Functions]({{ site.baseurl }}/Sep-proposalFunctions.png)
+![Proposal Functions]({{ site.baseurl }}/assets/img/fastlane/Sep-proposalFunctions.png)
 
 On the **Proposal Functions** screen, click **"Proposal Preparation"**
 
