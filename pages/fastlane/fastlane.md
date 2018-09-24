@@ -13,7 +13,6 @@ The Phase I SBIR solicitation and STTR solicitation explain what information sho
 ADA & 508 Compliance Assistance - Please Call the FastLane Help Desk at 1-800-673-6188.
 
 PDF version is available for [download]({{ site.baseurl }}/assets/files/applicants/Phase_I_Proposal_Preparation_Booklet.pdf).
-
 ## 1. Application Overview
 
 ### Do you have the required registrations?
@@ -49,7 +48,8 @@ Follow the step-by-step process below to register a new organization in Research
 
 * If your organization is not already registered with NSF, a message will display to confirm that the organization is not found in NSF systems and you will be able to register the organization and become the first Administrator. 
 
-![Find Organization]({{ site.baseurl }}/assets/img/fastlane/newOrg2.jpg)
+<div markdown="0">   
+<img style="margin:0px;" src="../assets/img/fastlane/newOrg2.jpg"></div>
 
 **Helpful Tip:** If a new organization is registered with NSF without an Administrator, the first user to request a role will become the organization’s first Administrator.
 
@@ -59,13 +59,16 @@ Follow the step-by-step process below to register a new organization in Research
 * Review your organization’s information for accuracy and click “Submit.” (Figure 5)
 * The request to register your organization with NSF will be forwarded via email to your organization’s SAM points of contact for their information only. The SAM points of contact will **not** need to approve the request. (Figure 6)
 
-![Figure 3: Add Information]({{ site.baseurl }}/assets/img/fastlane/newOrg3.jpg)
+<div markdown="0">   
+<img style="margin:0px;" src="../assets/img/fastlane/newOrg3.jpg"></div>
 
 
-![Figure 4: Choose Role(s)]({{ site.baseurl }}/assets/img/fastlane/newOrg4.jpg)
+<div markdown="0">   
+<img style="margin:0px;" src="../assets/img/fastlane/newOrg4.jpg"></div>
 
 
-![Figure 5: Review]({{ site.baseurl }}/assets/img/fastlane/newOrg5.jpg)
+<div markdown="0">   
+<img style="margin:0px;" src="../assets/img/fastlane/newOrg5.jpg"></div>
 
 
 <div markdown="0">   
@@ -89,29 +92,35 @@ Follow the step-by-step process below to register a new organization in Research
 Go to the FastLane home page at [https://www.FastLane.nsf.gov](https://www.FastLane.nsf.gov).
 Select the **Proposal, Awards & Status** link on the top (blue) menu bar.
 
-![Single Sign On]({{ site.baseurl }}/assets/img/fastlane/loginSingleSignon.png)
+<div markdown="0">   
+<img style="margin:0px;" src="../assets/img/fastlane/loginSingleSignon.png"></div>
 
 You will be taken to Research.gov Sign In page. Fill in Sign In information (NSF ID and Password) in the "NSF User Sign In" box on the left side of the screen.
 **Note: The Principal Investigator (PI) for the proposed Phase I project MUST login and prepare the proposal**
 
-![NSF User Sign In]({{ site.baseurl }}/assets/img/fastlane/Sep-signIn.png)
+<div markdown="0">   
+<img style="margin:0px;" src="../assets/img/fastlane/Sep-signIn.png">
 
 On the **Principal Investigator (PI)/Co-Principal Investigator (CO-PI) Management** screen, select **"Proposal Functions"**
 
-![Proposal Functions]({{ site.baseurl }}/assets/img/fastlane/Sep-proposalFunctions.png)
+<div markdown="0">   
+<img style="margin:0px;" src="../assets/img/fastlane/Sep-proposalFunctions.png"></div>
 
 On the **Proposal Functions** screen, click **"Proposal Preparation"**
 
-![Proposal preparation]({{ site.baseurl }}/assets/img/fastlane/Sep-proposalPrep.png)
+<div markdown="0">   
+<img style="margin:0px;" src="../assets/img/fastlane/Sep-proposalPrep.png"></div>
 
 On the **Principal Investigator (PI) Information** screen, check the PI information for accuracy. You may choose to update or edit the PI information by selecting the **"Edit PI Information"** button. You cannot change the PI here. Once finished, click the **"Prepare Proposal"** button.
 
-![Proposal information screen]({{ site.baseurl }}/assets/img/fastlane/4-PI-information.jpg)
+<div markdown="0">   
+<img style="margin:0px;" src="../assets/img/fastlane/4-PI-information.jpg"></div>
 
 Once you select to prepare your proposal, the "Proposal Actions" screen appears.
 
 Scroll down past the **Temporary Proposals in Progress** section to the **Create New Proposal** section at the bottom, and click on the **"SBIR Phase I"** or **"STTR Phase I"** button.
 
-![create new proposal]({{ site.baseurl }}/assets/img/fastlane/5-createnewproposal.jpg)
+<div markdown="0">   
+<img style="margin:0px;" src="../assets/img/fastlane/5-createnewproposal.jpg"></div>
 
 [Next]({{ site.baseurl }}/fastlane/form-prep/)
