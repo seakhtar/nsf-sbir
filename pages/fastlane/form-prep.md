@@ -49,7 +49,7 @@ Scroll down past the **Temporary Proposals in Progress** section to the **Create
 ![Create new proposal]({{ site.baseurl }}/assets/img/fastlane/5-createnewproposal.jpg)
 
 ### Form Preparation
-At the top of the **Form Preparation** page will be the text **Forms for Temp Proposal #** - this number will be used as a reference throughout the preparation process. *When your FastLane Contact/SPO finally submits your proposal to NSF, your proposal will be assigned an official NSF proposal number, the first two digits of which will match the fiscal year in which the proposal was submitted (e.g. proposals submitted between October 1, 2018 and September 30, 2019 will be numbered 98**xxxxx**). This official proposal number should be used in all further communications with NSF.*
+At the top of the **Form Preparation** page will be the text **Forms for Temp Proposal #** - this number will be used as a reference throughout the preparation process. *When your FastLane Contact/SPO finally submits your proposal to NSF, your proposal will be assigned an official NSF proposal number, the first two digits of which will match the fiscal year in which the proposal was submitted (e.g. proposals submitted between October 1, 2018 and September 30, 2019 will be numbered 19**xxxxx**). This official proposal number should be used in all further communications with NSF.*
 
 ### Cover Sheet
 Click on the **"GO"** button to the left of **"Cover Sheet"**.
