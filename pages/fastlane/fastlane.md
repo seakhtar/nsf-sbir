@@ -99,7 +99,7 @@ You will be taken to Research.gov Sign In page. Fill in Sign In information (NSF
 **Note: The Principal Investigator (PI) for the proposed Phase I project MUST login and prepare the proposal**
 
 <div markdown="0">   
-<img style="margin:0px;" src="../assets/img/fastlane/Sep-signIn.png">
+<img style="margin:0px;" src="../assets/img/fastlane/Sep-signIn.png"></div>
 
 On the **Principal Investigator (PI)/Co-Principal Investigator (CO-PI) Management** screen, select **"Proposal Functions"**
 
