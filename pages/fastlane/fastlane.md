@@ -81,46 +81,5 @@ Follow the step-by-step process below to register a new organization in Research
 </div>
 <span style="color:red;">It is recommended that the Principal Investigator also register as an “Authorized Organizational Representative – AOR” for the organization.  The PI creates and uploads all proposal components to FastLane and the AOR formally submits the proposal to NSF.  Only PIs with AOR privileges can submit the proposal.  Failing to register as an AOR is not a valid excuse for missing the solicitation deadline.</span>
 
-### Formatting Instructions
-
-- Arial, Courier New, or Palatino Linotype at a font size 10 or larger should be used; or
-- Times New Roman or Computer Modern fonts at a font size of 12 points or larger.
-- Proposals formatted with multiple columns are not accepted.
-
-### Create Proposal
-
-Go to the FastLane home page at [https://www.FastLane.nsf.gov](https://www.FastLane.nsf.gov).
-Select the **Proposal, Awards & Status** link on the top (blue) menu bar.
-
-<div markdown="0">   
-<img style="margin:0px;" src="../assets/img/fastlane/loginSingleSignon.png"></div>
-
-You will be taken to Research.gov Sign In page. Fill in Sign In information (NSF ID and Password) in the "NSF User Sign In" box on the left side of the screen.
-**Note: The Principal Investigator (PI) for the proposed Phase I project MUST login and prepare the proposal**
-
-<div markdown="0">   
-<img style="margin:0px;" src="../assets/img/fastlane/Sep-signIn.png"></div>
-
-On the **Principal Investigator (PI)/Co-Principal Investigator (CO-PI) Management** screen, select **"Proposal Functions"**
-
-<div markdown="0">   
-<img style="margin:0px;" src="../assets/img/fastlane/Sep-proposalFunctions.png"></div>
-
-On the **Proposal Functions** screen, click **"Proposal Preparation"**
-
-<div markdown="0">   
-<img style="margin:0px;" src="../assets/img/fastlane/Sep-proposalPrep.png"></div>
-
-On the **Principal Investigator (PI) Information** screen, check the PI information for accuracy. You may choose to update or edit the PI information by selecting the **"Edit PI Information"** button. You cannot change the PI here. Once finished, click the **"Prepare Proposal"** button.
-
-<div markdown="0">   
-<img style="margin:0px;" src="../assets/img/fastlane/4-PI-information.jpg"></div>
-
-Once you select to prepare your proposal, the "Proposal Actions" screen appears.
-
-Scroll down past the **Temporary Proposals in Progress** section to the **Create New Proposal** section at the bottom, and click on the **"SBIR Phase I"** or **"STTR Phase I"** button.
-
-<div markdown="0">   
-<img style="margin:0px;" src="../assets/img/fastlane/5-createnewproposal.jpg"></div>
 
 [Next]({{ site.baseurl }}/fastlane/form-prep/)
