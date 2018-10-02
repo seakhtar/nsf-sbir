@@ -2669,9 +2669,10 @@
   fundsObligatedAmt: '760000'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1556069'
-  piEmail: andriy.popadyuk@renuvix.com
-  piFirstName: Andriy
-  piLastName: Popadyuk
+  piEmail: ihor.tarnavchyk@renuvix.com
+  piFirstName: Ihor
+  piLastName: Tarnavchyk
+  piPhone: '7013188305'
   poName: Ben Schrag
   date: 02/29/2016
   startDate: 03/01/2016
@@ -4661,57 +4662,6 @@
   expDate: 06/30/2000
   title: 'SBIR Phase I:  Understanding ''Construction/Deconstruction'' and the Role
     of Resistance in Accelerated Learning'
-- abstractText: "This Small Business Innovation Research (SBIR) Phase I project concerns
-    the development of an assessment tool that will enable users to profile a decision-maker's
-    cognitive agility and expertise in high-level business situations.  It is appropriate
-    for evaluating decision makers in organizations and for evaluating students.  It
-    is based on results from WTRI's recent basic research that has uncovered mechanisms
-    that may be involved in the determination of business expertise.  It uses knowledge
-    elicitation technology that WTRI has developed over several years to support research
-    on the identification of intuitive expertise (in the sense of Dreyfus, 1997).
-    \ The project outlines a plan to develop an on-line internet based version that
-    is self-scoring and has been tested among well-known experts. The product will
-    also be field-tested for its ability to predict general vs. industry specific
-    expertise.  The expected outcome is an easy to administer technology that can
-    used by professional evaluators, professors, students or individuals and will
-    assist in staff development and education.  The profiles of expertise generated
-    by the product will identify hidden strengths, areas of weakness, and suggestions
-    for further development.  A long-term goal is to create versions that can be distributed
-    by qualified resellers and universities. \n\nIn the current climate of rapid workplace
-    change, decision-makers need to continually evaluate their ability to adapt to
-    changes and re-invent their organization's value and competitive future.  Few
-    assessment tools address the cognitive underpinnings involved in the skill set
-    involved.  Rather, they evaluate personal traits or sub-skills that have some
-    correlation with leadership, broadly defined.  Using an empirically verified model
-    of expertise in business strategy development and performance prediction, WTRI
-    has built an assessment tool that locates an individual against this model, much
-    like chess players are evaluated against a notion of a Chess Grand Master.  When
-    applied to individual client situations, this tool has shown itself to have powerful
-    predictive capability and has successfully informed staff development efforts.
-    \ Its distinctive feature is assessment of the ability to analyze disparate sources
-    of information in order to make strategy level decisions and supporting tactical
-    plans.  Making it more widely available and usable by non-scientists would greater
-    contribute to efforts to increase the performance of both organizations and decision
-    makers.  Organizations, distributors and several institutions of higher learning
-    have expressed interest in this project to address what they consider to be an
-    unmet need area."
-  awardeeAddress: 3333 Camino Del Rio S
-  awardeeCity: San Diego
-  awardeeCountryCode: US
-  awardeeName: Workplace Technologies Research Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '921083837'
-  fundsObligatedAmt: '100000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '0441737'
-  piEmail: Lia@wtri.com
-  piFirstName: Lia
-  piLastName: DiBello
-  piPhone: '6192328054'
-  date: 11/24/2004
-  startDate: 01/01/2005
-  expDate: 06/30/2005
-  title: 'SBIR Phase I:     Cognitive Agility Assessment Tool'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase I project aims
     to enable users to develop expertise in Project Management in the context of emulated
     businesses, using 3D Virtual World platforms with the goal of developing expertise
@@ -4764,6 +4714,57 @@
   expDate: 06/30/2014
   title: 'SBIR Phase I: Learning PM Skills Through "Experience"; Realistic Rehearsal
     for Project Teams in 3D Virtual Environments.'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase I project concerns
+    the development of an assessment tool that will enable users to profile a decision-maker's
+    cognitive agility and expertise in high-level business situations.  It is appropriate
+    for evaluating decision makers in organizations and for evaluating students.  It
+    is based on results from WTRI's recent basic research that has uncovered mechanisms
+    that may be involved in the determination of business expertise.  It uses knowledge
+    elicitation technology that WTRI has developed over several years to support research
+    on the identification of intuitive expertise (in the sense of Dreyfus, 1997).
+    \ The project outlines a plan to develop an on-line internet based version that
+    is self-scoring and has been tested among well-known experts. The product will
+    also be field-tested for its ability to predict general vs. industry specific
+    expertise.  The expected outcome is an easy to administer technology that can
+    used by professional evaluators, professors, students or individuals and will
+    assist in staff development and education.  The profiles of expertise generated
+    by the product will identify hidden strengths, areas of weakness, and suggestions
+    for further development.  A long-term goal is to create versions that can be distributed
+    by qualified resellers and universities. \n\nIn the current climate of rapid workplace
+    change, decision-makers need to continually evaluate their ability to adapt to
+    changes and re-invent their organization's value and competitive future.  Few
+    assessment tools address the cognitive underpinnings involved in the skill set
+    involved.  Rather, they evaluate personal traits or sub-skills that have some
+    correlation with leadership, broadly defined.  Using an empirically verified model
+    of expertise in business strategy development and performance prediction, WTRI
+    has built an assessment tool that locates an individual against this model, much
+    like chess players are evaluated against a notion of a Chess Grand Master.  When
+    applied to individual client situations, this tool has shown itself to have powerful
+    predictive capability and has successfully informed staff development efforts.
+    \ Its distinctive feature is assessment of the ability to analyze disparate sources
+    of information in order to make strategy level decisions and supporting tactical
+    plans.  Making it more widely available and usable by non-scientists would greater
+    contribute to efforts to increase the performance of both organizations and decision
+    makers.  Organizations, distributors and several institutions of higher learning
+    have expressed interest in this project to address what they consider to be an
+    unmet need area."
+  awardeeAddress: 3333 Camino Del Rio S
+  awardeeCity: San Diego
+  awardeeCountryCode: US
+  awardeeName: Workplace Technologies Research Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '921083837'
+  fundsObligatedAmt: '100000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '0441737'
+  piEmail: Lia@wtri.com
+  piFirstName: Lia
+  piLastName: DiBello
+  piPhone: '6192328054'
+  date: 11/24/2004
+  startDate: 01/01/2005
+  expDate: 06/30/2005
+  title: 'SBIR Phase I:     Cognitive Agility Assessment Tool'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase I project proposes a dynamic modeling technology that helps manufacturers visualize the top and bottom line financial impact of changes made at the strategic, tactical and operational levels of a business.  WTRI has a long history of research and applications that work with the way that people become intuitive experts, the ways that experts use technologies and the cognitive triggers underlying shifts in cognitive frameworks and capabilities.  One of the intellectual merits of the proposed research is that it will further add to knowledge on how technologies extend complex cognitive capabilities in manufacturing settings.  This tool promises to address two well-known problems limiting manufacturing competitiveness: decision making rigidity (e.g., recipe driven solutions) and the inability to think simultaneously on strategic and tactical levels.  Currently, complex and difficult to use versions of these models exist and have proven successful when used by WTRI principals and maintained by the firm's technicians. The research will explore the core features of the technology that have made it successful.  It will result in the development of cost effective versions that can be easily used by customers and which can be modified to their business issues without extensive re-programming.
 
@@ -4854,6 +4855,27 @@
   expDate: 03/31/2004
   title: 'SBIR Phase II:   Understanding ''Construction/Deconstruction'' and the Role
     of Resistance in Accelerated Learning'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project focuses on the development of an assessment tool that will enable users to profile a decision-maker's cognitive agility and expertise in high-level business situations. It is appropriate for evaluating decision makers in organizations and students who aspire to leadership roles.  This version of the product can also be self-administered.  It is based on results from recent basic research conducted by Workplace Technologies Research Inc. (WTRI) that revealed the cognitive mechanisms involved in the thinking of highly accomplished experts in business.  It uses knowledge elicitation technology that WTRI has developed over several years to support research on the identification of intuitive expertise (in the sense of Dreyfus 1997). The proposal outlines a plan to develop an on-line Internet based version that is self-scoring and tested among well-known experts.  The product will be field-tested for its ability to predict general vs. industry specific expertise.  The expected outcome is an easy to use tool for professional evaluators, professors, students or individuals, which will assist in staff development and education.  The profiles generated by the product will identify hidden strengths, areas of weakness, and suggestions for further development.  The long-term goal is distribution by recruiters, coaches, universities and consultancies.
+
+    In the current climate of rapid workplace change, decision-makers need to continually evaluate their ability to adapt to changes and re-invent their organization's value and competitive future.  Few assessment tools address the cognitive underpinnings of the skill set involved.  Rather, they evaluate personal traits or sub-skills that have some correlation with leadership, broadly defined.  Using an empirically verified model of expertise in business strategy development and performance prediction, the research team at WTRI has built an assessment tool that locates an individual with regard to this model; much like chess players are evaluated against a notion of a Chess Grand Master.  When applied to individual client situations, this tool has been shown to have powerful predictive capability and thus has successfully informed staff development efforts.  Its distinctive feature is assessment of the ability to analyze disparate sources information in order to make strategy level decisions and supporting tactical plans.  Making the tool more widely available and usable by non-scientists could importantly contribute to efforts to increase the performance of both organizations and decision makers.  Organizations, distributors and several institutions of higher learning have expressed interest in this technology, which they consider to be addressing an area of unmet need.
+  awardeeAddress: 3333 Camino Del Rio S
+  awardeeCity: San Diego
+  awardeeCountryCode: US
+  awardeeName: Workplace Technologies Research Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '921083837'
+  fundsObligatedAmt: '1038388'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: 0548631
+  piEmail: Lia@wtri.com
+  piFirstName: Lia
+  piLastName: DiBello
+  piPhone: '6192328054'
+  date: 01/06/2006
+  startDate: 04/01/2006
+  expDate: 09/30/2010
+  title: 'SBIR Phase II: Cognitive Agility Assessment Tool'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase II project accelerates
     the development of project management expertise by enabling users to rehearse
     tough, real-world challenges in an immersive, Virtual World environment. Studies
@@ -4937,27 +4959,6 @@
   startDate: 02/15/2007
   expDate: 01/31/2010
   title: 'SBIR Phase II:   Strategic Model for Manufacturing Organizations (DSMMO)'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project focuses on the development of an assessment tool that will enable users to profile a decision-maker's cognitive agility and expertise in high-level business situations. It is appropriate for evaluating decision makers in organizations and students who aspire to leadership roles.  This version of the product can also be self-administered.  It is based on results from recent basic research conducted by Workplace Technologies Research Inc. (WTRI) that revealed the cognitive mechanisms involved in the thinking of highly accomplished experts in business.  It uses knowledge elicitation technology that WTRI has developed over several years to support research on the identification of intuitive expertise (in the sense of Dreyfus 1997). The proposal outlines a plan to develop an on-line Internet based version that is self-scoring and tested among well-known experts.  The product will be field-tested for its ability to predict general vs. industry specific expertise.  The expected outcome is an easy to use tool for professional evaluators, professors, students or individuals, which will assist in staff development and education.  The profiles generated by the product will identify hidden strengths, areas of weakness, and suggestions for further development.  The long-term goal is distribution by recruiters, coaches, universities and consultancies.
-
-    In the current climate of rapid workplace change, decision-makers need to continually evaluate their ability to adapt to changes and re-invent their organization's value and competitive future.  Few assessment tools address the cognitive underpinnings of the skill set involved.  Rather, they evaluate personal traits or sub-skills that have some correlation with leadership, broadly defined.  Using an empirically verified model of expertise in business strategy development and performance prediction, the research team at WTRI has built an assessment tool that locates an individual with regard to this model; much like chess players are evaluated against a notion of a Chess Grand Master.  When applied to individual client situations, this tool has been shown to have powerful predictive capability and thus has successfully informed staff development efforts.  Its distinctive feature is assessment of the ability to analyze disparate sources information in order to make strategy level decisions and supporting tactical plans.  Making the tool more widely available and usable by non-scientists could importantly contribute to efforts to increase the performance of both organizations and decision makers.  Organizations, distributors and several institutions of higher learning have expressed interest in this technology, which they consider to be addressing an area of unmet need.
-  awardeeAddress: 3333 Camino Del Rio S
-  awardeeCity: San Diego
-  awardeeCountryCode: US
-  awardeeName: Workplace Technologies Research Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '921083837'
-  fundsObligatedAmt: '1038388'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: 0548631
-  piEmail: Lia@wtri.com
-  piFirstName: Lia
-  piLastName: DiBello
-  piPhone: '6192328054'
-  date: 01/06/2006
-  startDate: 04/01/2006
-  expDate: 09/30/2010
-  title: 'SBIR Phase II: Cognitive Agility Assessment Tool'
 - abstractText: |-
     This SBIR Phase I project will culminate in an application which teaches beginners to compose their own music. Music is traditionally taught using physical instruments and sheet music, both of which are complex and present imposing financial and practical barriers to creativity. As a result, even though parents value music education highly and research has shown that studying music is beneficial to cognitive and emotional development, the majority of beginning music students drop out during the first year of instruction, before having a chance to express their creativity through music. By using mobile devices as modular teaching tools, the proposed solution will make composition accessible as a first step in learning music. Increasing creativity in beginning music education will decrease the dropout rate for people already studying music, and also make music education accessible for the millions of families nationwide who value music but cannot afford private lessons. By expanding a market for lessons that is already roughly $3 billion per year in the United States, this project has significant revenue and growth potential, in addition to increasing the accessibility and quality of education in the U.S. and worldwide.
 
@@ -5983,10 +5984,10 @@
   fundsObligatedAmt: '899475'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1738321'
-  piEmail: evan.thomas@sweetsensors.com
-  piFirstName: Evan
-  piLastName: Thomas
-  piPhone: '3035504671'
+  piEmail: daniel.wilson@sweetsensors.com
+  piFirstName: Daniel
+  piLastName: Wilson
+  piPhone: '9709809812'
   poName: Richard Schwerdtfeger
   date: 08/30/2017
   startDate: 09/01/2017
@@ -6898,7 +6899,7 @@
   awardeeName: AppScale Systems, Inc.
   awardeeStateCode: CA
   awardeeZipCode: '931013301'
-  fundsObligatedAmt: '917719'
+  fundsObligatedAmt: '1344579'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1456088'
   piEmail: graziano@appscale.com
@@ -6908,7 +6909,7 @@
   poName: Peter Atherton
   date: 02/10/2015
   startDate: 02/15/2015
-  expDate: 08/31/2018
+  expDate: 08/31/2019
   title: 'SBIR Phase II:  Disaster Recovery and Migration Technologies for Cloud Applications
     and Data'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
@@ -6970,7 +6971,7 @@
   awardeeName: Bay Labs, Inc.
   awardeeStateCode: CA
   awardeeZipCode: '941033734'
-  fundsObligatedAmt: '884762'
+  fundsObligatedAmt: '1376062'
   fundProgramName: SMALL BUSINESS PHASE II
   id: '1556103'
   piEmail: mgmt@baylabs.io
@@ -6981,7 +6982,7 @@
   poName: Peter Atherton
   date: 04/13/2016
   startDate: 04/15/2016
-  expDate: 03/31/2019
+  expDate: 03/31/2020
   title: 'SBIR Phase II:  Guided Positioning System for Ultrasound'
 - abstractText: "This Small Business Innovation Research Phase I project will develop
     new technology that will enable precise search of sports videos. Users will be
@@ -7156,6 +7157,105 @@
   expDate: 08/31/2015
   title: 'SBIR Phase II:  SBIR Phase II Spray-Formed Soft Magnetic Material for Efficient
     Hybrid-Field Electric Machines'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase I project will
+    demonstrate the commercial feasibility of producing high-toughness spider silk
+    fibers for use in personal ballistic armor.  Spider silk is one of nature's most
+    remarkable materials, possessing high tensile strength and high extensibility,
+    giving it an unrivaled toughness as compared with common synthetic fibers.  In
+    addition, it is lightweight, breathable, and flexible making it an ideal material
+    for use in protective clothing such as body armor.  Previous approaches to produce
+    synthetic spider silk proteins have been based on incomplete silk sequences and
+    previous efforts to create a silk spinneret have not sufficiently replicated the
+    conditions inside the silk gland.  In this project, the latest advances in genetic
+    engineering and synthetic biology will be used to redesign a natural silk gene
+    to enable expression of silk protein in a recombinant host.  This methodology
+    is similar to recent work which enabled the production of chemicals and fuels
+    from renewable sources.  Advanced microfluidics manufacturing will be used to
+    create a spinneret that replicates a natural spider's silk gland.  Combined, these
+    technologies will result in a reproducible, scalable, and \"green\" method of
+    manufacturing the next generation of high performance fibers for personal protective
+    armor.  \n\nThe broader impact/commercial potential of this project is the creation
+    of high-performance and lightweight body armor utilizing a better material at
+    a lower price than current ballistic fibers.  The market for body armor in the
+    US is in the hundreds of millions of dollars annually; the proposed product will
+    be able to achieve a significant profit margin due to its low initial costs and
+    straightforward scale-up. Tougher, more comfortable, and cheaper bulletproof vests
+    will benefit police, soldiers, guards, and anyone else who faces harm from projectiles.
+    Lightweight and tough fibers have applications in numerous other markets, ranging
+    from textiles to sporting goods.  In addition, the ability to precisely control
+    silk fiber properties will enable better understanding the assembly mechanisms
+    of protein-based fibers and enable the creation of novel materials with mechanical
+    properties tailored to application requirements.  Finally, the research proposed
+    herein will enable the inexpensive production of protein materials (specifically,
+    silk materials) for use in a wide variety of non-fibrous systems including tissue
+    engineering scaffolds, medical devices, and optical sensors."
+  awardeeAddress: 344A PRENTISS ST
+  awardeeCity: San Francisco
+  awardeeCountryCode: US
+  awardeeName: Refactored Materials, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '941106141'
+  fundsObligatedAmt: '175000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1013948'
+  piEmail: dan.widmaier@refactoredmaterials.com
+  piFirstName: Dan
+  piLastName: Widmaier
+  piPhone: '4152795585'
+  poName: Ben Schrag
+  date: 04/23/2010
+  startDate: 07/01/2010
+  expDate: 06/30/2011
+  title: 'SBIR Phase I:  High Performance Ballistics Fibers from Spider''s Silk'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase II project will
+    continue the development and commercialization of spider silk fibers commenced
+    in the Phase I effort.  Spider silk is a unique material in nature that is currently
+    inaccessible on a commercial scale.  Spider silk and other protein polymers are
+    broadly useful in fields ranging from specialty textiles, to medical devices and
+    advanced composites.  The critical limitation in producing artificial spider silk
+    fibers has been the lack of availability of bulk silk material and the knowledge
+    of how to appropriately process the polymer into a product of native quality.
+    \ This project will continue prior work to deliver scalable quantities of material
+    through microbial production of spider silk protein using a commercially viable
+    cost structure.  In addition, this project will examine the key parameters for
+    processing silk polymer into fibers whose properties surpass those of native spider
+    silk.  The ability to produce prototype silk fibers from recombinant protein will
+    enable the initial steps towards commercializing spider silk fiber-based products.
+    \ \n\nThe broader impact/commercial potential of this project is important to
+    the adoption of a job-creating bio-based economy in the United States.  The ability
+    to produce protein polymers has bedeviled biological researchers for decades.
+    \ Many important structural proteins and enticing commercially-useful materials
+    have remained effectively impossible to produce.  The advent of cutting-edge techniques
+    in synthetic biology, microfabrication, and materials processing now make the
+    production of protein polymers and the processing of them into beneficial technologies
+    a realistic goal.  Potential applications of protein-based polymers include a
+    full range of sophisticated materials that are furthermore \"green\" and sustainable.
+    \ Spider silk polymers, due to their mechanical properties, can potentially be
+    used to create the next generation of ballistic fibers in the production of armor
+    for military, law enforcement, and private users.  In addition, the ability to
+    produce advanced polymers independent of petroleum sources is a key goal of the
+    emerging bio-based economy.  Lastly, many protein polymers (including silk) are
+    biocompatible and biodegradable and thus can form the basis for new classes of
+    medical materials used to replace or re-grow connective tissues with implants
+    or devices."
+  awardeeAddress: 344A PRENTISS ST
+  awardeeCity: San Francisco
+  awardeeCountryCode: US
+  awardeeName: Refactored Materials, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '941106141'
+  fundsObligatedAmt: '1000000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1151896'
+  piEmail: dan.widmaier@refactoredmaterials.com
+  piFirstName: Dan
+  piLastName: Widmaier
+  piPhone: '4152795585'
+  poName: Ben Schrag
+  date: 03/05/2012
+  startDate: 03/01/2012
+  expDate: 02/29/2016
+  title: 'SBIR Phase II:  Commercial Scale Production of Synthetic Spider Silk Fibers'
 - abstractText: |-
     This Small Business Innovation Research (SBIR) Phase II project seeks to create a new, innovative system to manage a highly-scalable, geographically-distributed labor force through wireless technology - what is refered to as " mobile crowdsourcing."  The plunging cost of handsets and the introduction of prepaid call plans have allowed individuals throughout the world to have the ability to communicate and transact electronically. This project will create the infrastructure needed to provide wireless subscribers the ability to do work and earn money - leveraging today's mobile phone's ability to send, receive and display images, audio files and text. The system will: deconstruct a client's work into "micro-tasks;" preferentially route micro-tasks to individuals most likely able to complete them; statistically analyze completed work across individual responses to automatically reach a decision on when work is complete, and who has provided the most useful input; compensate workers in proportion to the value they have added; and, finally, reconstruct the completed task for the client, with a statistical assurance the work has been accomplished correctly.
 
@@ -7727,6 +7827,54 @@
   startDate: 08/15/2012
   expDate: 07/31/2014
   title: 'SBIR Phase II:  Microporous Carbons with Aligned Pores for Supercapacitors'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase I research project will explore technologies that will enable an improvement in trust in the converged telephony infrastructure without negatively impacting user experience. Telephony has long been viewed as a trusted communications medium and a variety of transactions conducted over the telephone depend on such trust. For example, to combat credit card and other financial fraud, banks rely on their ability to securely communicate with their customers via the phone. Unfortunately, while the convergence of traditional telephony with cellular and IP networks offers many benefits, it has opened it to additional security threats. Call metadata such as caller identifier can now be easily manipulated and attacks including voice phishing have already resulted in financial losses for banks. The intellectual merit of this research project lies in demonstrating that the source and intermediary networks in a phone call introduce artifacts in the audio that can be used to uniquely identify its source. The project will investigate features that capture key call artifacts and apply machine learning techniques to fingerprint call sources. A key goal will be the validation of the preliminary results at the scale that will arise in real-world deployments.
+
+    The broader impact of the project will come from the development of a secure Caller-ID alternative with applicability both in the enterprise setting as well as at the consumer end. Because the proposed approach only relies on analysis of audio at the receiving end, it requires no changes to be made to the telephony infrastructure. This is especially advantageous not only because of the complex and diverse nature of this infrastructure, but also because unlike a cryptographic solution both ends of a call do not need to participate in the process. The ubiquitous nature of the telephone and possible erosion of trust in this medium will have serious consequences for both businesses and citizens. The success of this project will help maintain this trust and thus it will have broad commercial and societal impact.
+  awardeeAddress: 742 CHARLES ALLEN DRIVE NE APT 1
+  awardeeCity: Atlanta
+  awardeeCountryCode: US
+  awardeeName: Telineage, Inc.
+  awardeeStateCode: GA
+  awardeeZipCode: '303083741'
+  fundsObligatedAmt: '175000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1113793'
+  piEmail: vijay@telineage.com
+  piFirstName: Vijay
+  piLastName: Balasubramaniyan
+  piMiddeInitial: A
+  piPhone: '9082650096'
+  poName: Glenn H. Larsen
+  date: 06/13/2011
+  startDate: 07/01/2011
+  expDate: 06/30/2012
+  title: 'SBIR Phase I:  A Robust Caller-ID Alternative for Securing Telephony Based
+    Transactions'
+- abstractText: |-
+    The innovation in this project comes from the novel call audio analysis techniques that can be used to create a fingerprint of the source of a telephone call. Such fingerprints can reveal valuable information about the call source, including the type of the calling device (landline, Voice-over IP or mobile), its geographical location and the networks over which the call audio may have been transported prior to it reaching the called party. To detect potentially fraudulent calls in real-time with such fingerprints, this proposal plans to extend the identification of the geography of a call source and the creation of an active call analyzer that performs audio analysis in real-time. The focus of this Phase II project is on exploring design options for an active call analyzer; including accuracy, scalability and timeliness tradeoffs and its integration in call center infrastructures. The call analyzer will also be used to build a phone fraud intelligence service that proactively detects phone numbers used for committing fraud. Such a service, including mechanisms for sharing of intelligence with partners and customers, can help secure the telephony channel from a variety of attacks.
+
+    The broader impact and commercialization potential of this project can be seen readily from the observation that phone fraud is already a serious problem for multiple sectors, including banking, healthcare and even law enforcement. Also, because fraudulent calls are already responsible for considerable financial loss, customer agents in call centers are asking multiple knowledge-based questions to authenticate a caller. This leads to higher costs for call handling and also degrades customer experience. A successful active call analyzer solution that can automatically generate a risk score for caller authentication will have broad impact because the entire service sector relies on call centers for customer contact and it could reduce costs and improve customer experience. The project will also enable Pindrop to play a leadership role in organizing the broader community to launch a phone anti-fraud alliance similar to the anti-phishing working group. The thought leadership provided by such a group will be necessary to define the telephony security challenges and approaches for addressing them.  Again, this will ensure broad impact of the project across several industries.
+  awardeeAddress: 742 CHARLES ALLEN DRIVE NE APT 1
+  awardeeCity: Atlanta
+  awardeeCountryCode: US
+  awardeeName: Telineage, Inc.
+  awardeeStateCode: GA
+  awardeeZipCode: '303083741'
+  fundsObligatedAmt: '500000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1256637'
+  piEmail: vijay@telineage.com
+  piFirstName: Vijay
+  piLastName: Balasubramaniyan
+  piMiddeInitial: A
+  piPhone: '9082650096'
+  poName: Glenn H. Larsen
+  date: 03/18/2013
+  startDate: 04/01/2013
+  expDate: 03/31/2015
+  title: 'SBIR Phase II:  A Robust Caller-ID Alternative for Securing Telephony Based
+    Transactions'
 - abstractText: "This Small Business Innovation Research (SBIR) Phase I project proposes
     to develop an effective solution for Internet route hijack detection, analysis,
     and mitigation. The Internet routing system is a critical component in the global

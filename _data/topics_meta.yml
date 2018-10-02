@@ -1,9 +1,9 @@
 ---
 max_companies_shown: 9
-active_date_is_now: false
+active_date_is_now: true
 fundProgramName: phase i
 reset: true
-recent_date: 2010-06-01
+recent_date: 2010-01-01
 allow_recent_all: true
 printFields:
 - id

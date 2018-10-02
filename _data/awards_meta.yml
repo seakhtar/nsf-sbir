@@ -1,8 +1,8 @@
 ---
-active_date_is_now: false
+active_date_is_now: true
 fundProgramName: phase i
 reset: true
-recent_date: 2010-06-01
+recent_date: 2010-01-01
 printFields:
 - id
 - awardeeName
@@ -26,6 +26,5 @@ printFields:
 - piPhone
 - piEmail
 last_updated: 10/02/2018
-active_date: 10/02/2018
 ---
 
