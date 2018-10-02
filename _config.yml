@@ -49,10 +49,10 @@ gems:
   - jekyll-sitemap
 
 awards_api:
-  active_date_is_now: false
+  active_date_is_now: true
   fundProgramName: phase i
-  reset: false
-  recent_date: 2010-06-01
+  reset: true
+  recent_date: 2010-01-01
   printFields:
     - id
     - awardeeName
@@ -79,10 +79,10 @@ awards_api:
 
 topics_api:
   max_companies_shown: 9
-  active_date_is_now: false 
+  active_date_is_now: true 
   fundProgramName: phase i
-  reset: false
-  recent_date: 2010-06-01
+  reset: true
+  recent_date: 2010-01-01
   allow_recent_all: true
   printFields:
     - id
