@@ -34,11 +34,11 @@ module SiteData
     end
 
     def to_date_string(date_obj)
-      DateTime.parse(date_obj.to_s).strftime('%m/%d/%Y') || '06/14/2017'
+      DateTime.parse(date_obj.to_s).strftime('%m/%d/%Y') || '10/01/2018'
     end
 
     def to_date(date_string)
-      date_string ||= '06/14/2017'
+      date_string ||= '10/01/2018'
       date_string = to_date_string(date_string) unless date_string.class == String
       DateTime.strptime(date_string, '%m/%d/%Y')
     end
