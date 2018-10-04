@@ -168,7 +168,7 @@
 
 - topic: Distributed Ledger (OT)
   permalink: /topics/distributed-ledger/
-  topic_code: dl
+  topic_code: dl-ot
   programDirector:
     - name: Anna Brady-Estevez
       last_name: Brady-Estevez
@@ -327,7 +327,7 @@
     - name: 
     
 - topic: Internet of Things (I)
-  permalink: /topics/internet-of-things/
+  permalink: /topics/IoT/
   topic_code: 
     -i
   programDirector:
@@ -380,7 +380,7 @@
     
 - topic: Nanotechnology (MN)
   permalink: /topics/nanotechnology/
-  topic_code: n
+  topic_code: n-mn
   programDirector:
     - name: Linda Molnar
       last_name: Molnar
@@ -431,7 +431,7 @@
     
 - topic: Quantum Information Technologies (IT)
   permalink: /topics/quantum-information/
-  topic_code: qi
+  topic_code: qi-it
   programDirector:
     - name: Peter Atherton
       last_name: Atherton
@@ -446,7 +446,7 @@
 
 - topic: Robotics (EW)
   permalink: /topics/robotics/
-  topic_code: r
+  topic_code: r-ew
   programDirector:
     - name: Muralidharan S. Nair
       last_name: Nair
@@ -464,7 +464,7 @@
     
 - topic: Semiconductors (S)
   permalink: /topics/semiconductors/
-  topic_code: sc
+  topic_code: s
   programDirector:
     - name: Steve Konsek
       last_name: Konsek
@@ -483,7 +483,7 @@
     
 - topic: Sensors (S)
   permalink: /topics/sensors/
-  topic_code: s
+  topic_code: s-ew
   programDirector:
     - name: Rick Schwerdtfeger
       last_name: Schwerdtfeger
@@ -498,7 +498,7 @@
     
 - topic: Wireless Technologies (EW)
   permalink: /topics/wireless-technologies/
-  topic_code: wt
+  topic_code: wt-ew
   programDirector:
     - name: Muralidharan S. Nair
       last_name: Nair
