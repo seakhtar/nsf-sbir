@@ -1,6 +1,6 @@
 ---
 title: Advanced Materials and Instrumentation
-permalink: /topics/materials-and-instrumentation/
+permalink: /topics/advanced-materials/
 layout: tech-topic
 topic_code: mi
 section_image: "/assets/img/bg/biomason-2c-mi.jpg"
@@ -9,7 +9,7 @@ section_image_caption: |
 
 ---
 
-The Advanced Materials and Instrumentation (MI) topic addresses the development of new and improved materials and instruments for a wide variety of commercial and industrial applications. Proposals in Advanced Materials may focus on the creation of innovative material systems and/or on critical fabrication, processing, or manufacturing challenges involved in the successful commercialization of materials. Proposals in Instrumentation may focus on new instruments for use in scientific, industrial, engineering, or manufacturing environments, among others. Types of instruments that will be considered include systems and tools designed for the purposes of detection, characterization, measurement, processing, control, and/or monitoring. A wide variety of applications areas will be considered as part of this topic. 
+The Advanced Materials (MI) topic addresses the development of new and improved materials for a wide variety of commercial and industrial applications. Proposals in Advanced Materials may focus on the creation of innovative material systems and/or on critical fabrication, processing, or manufacturing challenges involved in the successful commercialization of materials. A wide variety of applications areas will be considered as part of this topic.  
 
 ### MI1. Metals and Ceramics
 Material innovations to improve the performance of and/or allow new functions in metallic and ceramic materials. This topic includes bulk materials (e.g. superalloys, ceramics, and composites) and coatings (e.g. thermal and environmental barrier coatings, and tribological coatings), as well as other morphologies (e.g. foams). This subtopic also includes composites of metallic and ceramic materials (metal-matrix and ceramicmatrix composites). 
@@ -28,12 +28,3 @@ Material innovations designed for improved sustainability, mitigating adverse en
 
 ### MI6. Other Materials
 New innovations in materials that do not fit into any of the above five materials topics but that nevertheless meet the intellectual merit and broader/commercial impact criteria of the NSF SBIR/STTR program.
-
-### MI7. Instrumentation for Characterization and Imaging
-New innovations in instrumentation whose primary purpose is measurement, characterization, or imaging. Includes (but is not limited to) optical and electron microscopy, scanning probe methods, magnetic imaging (NMR, MRI, etc.), spectroscopic and chemical methods, and other scientific instrumentation.
-
-### MI8. Instrumentation for Detection, Actuation, Control, and Manipulation
-New innovations in instrumentation whose primary function is detection, control, or manipulation. Includes (but is not limited to) new instruments for use in industrial processes, manufacturing, research, engineering, military, and/or consumer applications.
-
-### MI9. Other Instrumentation
-New innovations in instrumentation that do not fit into either of the above two instrumentation topics but that nevertheless meet the intellectual merit and broader/commercial impact criteria of the NSF SBIR/STTR program. Refer to the BT topic for bioinstrumentation.
