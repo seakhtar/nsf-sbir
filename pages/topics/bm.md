@@ -1,5 +1,5 @@
 ---
-title: Biomedical Technologies 
+title: Biomedical Technologies (BM)
 permalink: /topics/biomedical/
 layout: tech-topic
 topic_code: bm
