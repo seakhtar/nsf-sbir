@@ -1,5 +1,5 @@
 ---
-title: Internet of Things
+title: Internet of Things (IoT)
 permalink: /topics/IoT/
 layout: tech-topic
 topic_code: 
