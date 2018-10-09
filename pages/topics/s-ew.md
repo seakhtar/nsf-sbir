@@ -1,5 +1,5 @@
 ---
-title: Sensors 
+title: Sensors (EW)
 permalink: /topics/sensors/
 layout: tech-topic
 topic_code: s-ew
