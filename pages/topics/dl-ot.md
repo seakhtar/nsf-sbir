@@ -1,5 +1,5 @@
 ---
-title: Distributed Ledger
+title: Distributed Ledger (OT)
 permalink: /topics/distributed-ledger/
 layout: tech-topic
 topic_code: dl-ot
