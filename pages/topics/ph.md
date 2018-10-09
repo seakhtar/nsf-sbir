@@ -2,8 +2,7 @@
 title: Photonics (PH)
 permalink: /topics/photonics/
 layout: tech-topic
-topic_code: 
-  -ph
+topic_code: ph
 section_image: "/assets/img/bg/arable-2c-s-ph.jpg"
 section_image_caption: |
   [Arable Labs Inc.]({{ site.baseurl}}/portfolio/details/?company=arable-labs-inc#arable-labs-inc)’s advanced microclimate and crop growth monitoring device, the Mark.
