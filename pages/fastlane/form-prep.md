@@ -89,18 +89,18 @@ After saving, click **"Go Back"** on the "Add/Change Primary Place of Performanc
 
 The second Cover Sheet **"GO"** Button is **"Program Announcement / Solicitation / Program Description"**
 
-![Program announcement/solicitation/program descriptions button]({{ site.baseurl }}/assets/img/fastlane/10a-remainder-of--the-cover-sheet.jpg)
+![Program announcement/solicitation/program descriptions button]({{ site.baseurl }}/assets/img/fastlane/coverSheetProgramAnnouncement.png)
 
 The third Cover Sheet **"GO"** Button is **"NSF Unit Consideration"**.
 
-![NSF unit consideration button]({{ site.baseurl }}/assets/img/fastlane/10a-remainder-of--the-cover-sheet.jpg)
+![NSF unit consideration button]({{ site.baseurl }}/assets/img/fastlane/coverSheetUnitConsideration.png)
 
 ### Remainder of the Cover Sheet
 
 The fourth Cover Sheet **"GO"** Button is **"Remainder of the Cover Sheet"**
 Click the **"GO"** button and provide the required information to complete the cover sheet.
 
-![Remainder of the cover sheet button]({{ site.baseurl }}/assets/img/fastlane/Sep-remainderCoverSheet.png)
+![Remainder of the cover sheet button]({{ site.baseurl }}/assets/img/fastlane/coverSheetRemainder.png)
 
 **"Title of Proposed Project":** The system has already been programmed for each title to begin with **SBIR Phase I:** or **STTR Phase I:**  
 * Please do include two spaces after the colon before typing the project title.
