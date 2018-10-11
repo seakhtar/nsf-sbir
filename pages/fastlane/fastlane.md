@@ -47,7 +47,7 @@ Follow the step-by-step process below to register a new organization in Research
 </div>
 
 * If your organization is not already registered with NSF, a message will display to confirm that the organization is not found in NSF systems and you will be able to register the organization and become the first Administrator. 
-* o	Enter your organization is not already registered with NSF, a message will display to confirm that the organization is not found in NSF systems and you will be able to register the organization and become the first Administrator
+* Enter your organization is not already registered with NSF, a message will display to confirm that the organization is not found in NSF systems and you will be able to register the organization and become the first Administrator
 
 <div markdown="0">   
 <img style="margin:0px;" src="../assets/img/fastlane/newOrg2.jpg"></div>
