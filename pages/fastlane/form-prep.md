@@ -10,9 +10,12 @@ sidenav: fastlane
 
 ### Formatting Instructions
 
-- Arial, Courier New, or Palatino Linotype at a font size 10 or larger should be used; or
-- Times New Roman or Computer Modern fonts at a font size of 12 points or larger.
-- Proposals formatted with multiple columns are not accepted.
+- Arial, Courier New, or Palatino Linotype at a font size of 10 points or larger
+- Times New Roman or Computer Modern family of fonts at a size of 11 points or larger
+- A font size of less than 10 points may be used for mathematical formulas or equations, figures, table or diagram captions and when using a Symbol font to insert Greek letters or special characters, but the text must still be readable.
+- No more than six lines of text within a vertical space of one inch.
+- Margins, in all directions, must be at least an inch.
+- Proposers are strongly encouraged to use only a standard, single-column format for the text.
 
 ### Create Proposal
 
