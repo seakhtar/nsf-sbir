@@ -61,18 +61,18 @@ Follow the step-by-step process below to register a new organization in Research
 * The request to register your organization with NSF will be forwarded via email to your organization’s SAM points of contact for their information only. The SAM points of contact will **not** need to approve the request. (Figure 6)
 
 <div markdown="0">   
-<img style="margin-bottom:20px;" src="../assets/img/fastlane/newOrg3.jpg"></div>
+<img style="margin-bottom:30px;" src="../assets/img/fastlane/newOrg3.jpg"></div>
 
 <div markdown="0">   
-<img style="margin-bottom:20px;" src="../assets/img/fastlane/newOrg4.jpg"></div>
-
-
-<div markdown="0">   
-<img style="margin-bottom:20px;" src="../assets/img/fastlane/newOrg5.jpg"></div>
+<img style="margin-bottom:30px;" src="../assets/img/fastlane/newOrg4.jpg"></div>
 
 
 <div markdown="0">   
-<img style="margin-bottom:20px;" src="../assets/img/fastlane/newOrg6.jpg">
+<img style="margin-bottom:30px;" src="../assets/img/fastlane/newOrg5.jpg"></div>
+
+
+<div markdown="0">   
+<img style="margin-bottom:30px;" src="../assets/img/fastlane/newOrg6.jpg">
 </div>
 
 **Helpful Tip:** Once an organization is registered with NSF, any updates to organizational information must be made by an organizational Administrator in the FastLane Research Administration module.
