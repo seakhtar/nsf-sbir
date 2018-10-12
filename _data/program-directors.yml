@@ -21,9 +21,13 @@
     the Program in Polymer Science and Technology (Materials Science and Chemical
     Engineering) from Massachusetts Institute of Technology and a B.S. in Chemistry
     (Biology) from the University of Pittsburgh.
-  topic: Advanced Manufacturing and Nanotechnology (MN)
-  topic_permalink: "/topics/manufacturing-and-nanotechnology/"
-  topics: []
+  topic: 
+  topic_permalink: 
+  topics:
+  - topic: Advanced Manufacturing(MN)
+    permalink: "/topics/advanced-manufacturing/"
+  - topic: Nanotechnology (MN)
+    permalink: "/topics/nanotechnology/"
 - photo: Konsek-compressed.jpg
   name: Steve Konsek
   last_name: Konsek
@@ -39,9 +43,13 @@
     semiconductor applications. He holds numerous patents and publications in LEDs,
     memory, process integration and nanoscale devices. Steven has a Ph.D. in Physics
     from the University of Washington and a B.S. in Mathematics from Purdue University.
-  topic: Advanced Materials and Instrumentation (MI)
-  topic_permalink: "/topics/materials-and-instrumentation/"
-  topics: []
+  topic: 
+  topic_permalink: 
+  topics:
+  - topic: Advanced Materials(MI)
+    permalink: "/topics/advanced-materials/"
+  - topic: Semiconductors (S)
+    permalink: "/topics/semiconductors/"
 - photo: Ruth-compressed.jpg
   name: Ruth Shuman
   last_name: Shuman
@@ -107,32 +115,44 @@
     University in Chemical and Environmental Engineering, where she held a National
     Science Foundation Graduate Research Fellowship; and a BS in Chemical Engineering
     and BA in Spanish from The Johns Hopkins University.'
-  topic: Chemical and Environmental Technologies (CT)
-  topic_permalink: "/topics/chemical-and-environmental/"
-  topics: []
+  topic: 
+  topic_permalink: 
+  topics:
+  - topic: Chemical and Advanced Energy Technologies (CT)
+    permalink: "/topics/chemical-and-environmental/"
+  - topic: Distributed Ledger (OT)
+    permalink: "/topics/distributed-ledger/"
+  - topic: Environmental Technologies (CT)
+    permalink: "/topics/environmental-technologies/"
 - photo: Kamei-compressed.jpg
   name: Nancy Kamei
   last_name: Kamei
   email: nkamei@nsf.gov
-  bio: is a Program Director focused on Medical Devices and Digital Health. In 2017,
-    after several years of retirement, she joined the Division of Industrial Innovation
-    and Partnerships to serve the United States’ entrepreneurial ecosystem. For several
-    years, she served as a National Instructor for the Innovation Corps (I-Corps™)
-    program, interacting with NSF and National Institutes of Health grantees, which
-    inspired her to join the SBIR/STTR Program and continue working with innovators
-    and entrepreneurs. Nancy has more than 20 years of experience as an investor,
-    having selected and managed billions of dollars of investments of both public
-    equities (Capital Group Companies) and venture capital (Intel Capital). She is
-    also a serial entrepreneur, having been on the founding team of several Silicon
-    Valley startups (Onyx Pharmaceuticals). After receiving her Doctor of Pharmacy
-    degree from University of California, San Francisco, she started her career at
-    Merck and then completed her Master of Business Administration at Stanford Graduate
-    School of Business. Nancy also has more than 40 years of service to the non-profit
-    sector. She recently relocated to the Washington, D.C. area after a lifetime in
-    California.
-  topic: Digital Health (DH) and Medical Devices (MD)
-  topic_permalink: "/topics/digital-health-and-medical-devices/"
-  topics: []
+  bio: has more than 20 years of experience in the life science and chemical industries,
+    integrating her scientific research and engineering background with commercialization
+    for startups, and international, government, and business environments. She joined
+    NSF as an SBIR/STTR Program Director in 2017. Previously, she was co-founder and
+    CEO of Simpatica Medicine, Inc., an artificial intelligence precision medicine
+    company based in San Francisco, California. Linda founded and worked with life
+    science startup companies from many universities. She has also provided strategic
+    consultancy to venture capital firms, public companies, non-profit institutes,
+    and the federal government. Her background includes positions as Managing Director
+    in the Life Sciences Merchant Banking group and Venture Group at Burrill & Company,
+    Executive in Residence at Momentum Biosciences, Program Officer for the National
+    Cancer Institute in the Office of the Director (Center for Strategic Scientific
+    Initiatives), and research and business development roles at Caliper Life Sciences,
+    NASA Ames Research Center, and Rohm & Haas Co. Linda completed the University
+    of Pennsylvania’s Wharton Executive Management Program and holds a Ph.D. from
+    the Program in Polymer Science and Technology (Materials Science and Chemical
+    Engineering) from Massachusetts Institute of Technology and a B.S. in Chemistry
+    (Biology) from the University of Pittsburgh.
+  topic: 
+  topic_permalink: 
+  topics:
+  - topic: Digital Health (DH)
+    permalink: "/topics/digital-health/"
+  - topic: Medical Devices (MD)
+    permalink: "/topics/medical-devices/"
 - photo: Rajesh-compressed.jpg
   name: Rajesh Mehta
   last_name: Mehta
@@ -177,9 +197,46 @@
     Design courses while at Embry-Riddle. Murali is a graduate of the Indian Institute
     of Technology and the University of Texas. He is a registered professional engineer
     in the State of Florida.
-  topic: Electronic Hardware, Robotics and Wireless Technologies (EW)
-  topic_permalink: "/topics/electronic-hardware-robotics-and-wireless/"
-  topics: []
+  topic: 
+  topic_permalink: 
+  topics:
+  - topic: Energy and Power Systems (EW)
+    permalink: "/topics/energy-power/"
+  - topic: Instrumentation and Hardware Systems (MI)
+    permalink: "/topics/instrumentation-hardware/"
+  - topic: Robotics (EW)
+    permalink: "/topics/robotics/"
+  - topic: Wireless Technologies (EW)
+    permalink: "/topics/wireless-technologies/"
+- photo: Peter-compressed.jpg
+  name: Peter Atherton
+  last_name: Atherton
+  email: patherto@nsf.gov
+  bio: comes to the NSF with a broad background in the physical sciences, and extensive
+    experience in technology development and commercialization. Before joining NSF
+    Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly
+    traded company that he founded in Sydney, Australia. Prior to MIKOH he spent approximately
+    7 years at the Overseas Telecommunications Commission (OTC Australia) where he
+    managed optical fiber communications R&D, including approximately 14 months in
+    the UK at British Telecom’s Martlesham Heath R&D laboratories. While at OTC his
+    research group made world-leading advances in high-speed optical communications
+    technologies, some of which were commercialized via spin-off companies. He also
+    managed the externally contracted development and commercialization of a number
+    of optical fiber and optoelectronic technologies, and was instrumental in establishing
+    a commercialization center for specialized optical fibers at the University of
+    Sydney. While at MIKOH Corporation he was instrumental in developing and commercializing
+    technologies in a range of fields including diffractive optics, laser-based marking,
+    radio frequency identification and internet-based personal authentication. He
+    moved to the US in 1998 to further develop the company’s technologies and markets.
+    Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from
+    the University of Queensland (Australia).
+  topic: 
+  topic_permalink: 
+  topics:
+  - topic: Information Technologies (IT)
+    permalink: "/topics/information-technologies/"
+  - topic: Quantum Information Technologies (IT)
+    permalink: "/topics/quantum-information/"
 - photo: Rick-compressed.jpg
   name: Rick Schwerdtfeger
   last_name: Schwerdtfeger
@@ -205,35 +262,15 @@
     a Ph.D. in Materials Science from the Colorado School of Mines, an M.S. in Applied
     Physics from Pittsburg State University, and a B.S. in Physics and Science Education
     from the University of Dubuque.
-  topic: Internet of Things (I), Semiconductors (S), and Photonic (PH) Devices and
-    Materials
-  topic_permalink: "/topics/internet-of-things-semiconductors-and-photonic-devices/"
-  topics: []
-- photo: Peter-compressed.jpg
-  name: Peter Atherton
-  last_name: Atherton
-  email: patherto@nsf.gov
-  bio: comes to the NSF with a broad background in the physical sciences, and extensive
-    experience in technology development and commercialization. Before joining NSF
-    Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly
-    traded company that he founded in Sydney, Australia. Prior to MIKOH he spent approximately
-    7 years at the Overseas Telecommunications Commission (OTC Australia) where he
-    managed optical fiber communications R&D, including approximately 14 months in
-    the UK at British Telecom’s Martlesham Heath R&D laboratories. While at OTC his
-    research group made world-leading advances in high-speed optical communications
-    technologies, some of which were commercialized via spin-off companies. He also
-    managed the externally contracted development and commercialization of a number
-    of optical fiber and optoelectronic technologies, and was instrumental in establishing
-    a commercialization center for specialized optical fibers at the University of
-    Sydney. While at MIKOH Corporation he was instrumental in developing and commercializing
-    technologies in a range of fields including diffractive optics, laser-based marking,
-    radio frequency identification and internet-based personal authentication. He
-    moved to the US in 1998 to further develop the company’s technologies and markets.
-    Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from
-    the University of Queensland (Australia).
-  topic: Information Technologies (IT)
-  topic_permalink: "/topics/information-technologies/"
-  topics: []
+  topic: 
+  topic_permalink: 
+  topics:
+  - topic: Internet of Things (IoT)
+    permalink: "/topics/IoT/"
+  - topic: Photonics (PH)
+    permalink: "/topics/photonics/"
+  - topic: Sensors (EW)
+    permalink: "/topics/sensors/"
 - photo: Ben-compressed.jpg
   name: Ben Schrag
   last_name: Schrag

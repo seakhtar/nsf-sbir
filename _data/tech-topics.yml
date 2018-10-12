@@ -151,7 +151,6 @@
     - Interoperability of Health Record Systems, Medical Sensors, Devices and Robotics (DH4)
     - Empowering Individuals and Communities (DH5)
   companies:
-    - name:
 
 - topic: Distributed Ledger (OT)
   permalink: /topics/distributed-ledger/
@@ -165,7 +164,7 @@
       bio: "joined the National Science Foundation as SBIR/STTR Program Director leading Chemical and Environmental Technologies. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous start-ups having worked as: an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of ~30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning: nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the US Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a BS in Chemical Engineering and BA in Spanish from The Johns Hopkins University."
   subtopics:
     - Cryptography and Security, Identity and Anonymity Solutions, Trusted Devices (DL2)  
-    - ``Advanced Protocols:`` Blockchain, DAGs, and Next Gen Protocols (DL1)
+    - Advanced Protocols``:`` Blockchain, DAGs, and Next Gen Protocols (DL1)
     - Smart Contracts, Next-Generation Financial Technologies (DL3)
     - Scalability Solutions, Enhanced Consensus Methods, Organizational Structures (DL4)
     - Human to Technology Interface Innovations, Disruptive Business Model Innovations for Distributed Ledger Technologies (DL5)
@@ -173,7 +172,6 @@
     - Autonomous Systems and Economies (DL7)
     - Other Technologies and Approaches Potentially Relevant to Distributed Ledger (DL7)
   companies:
-    - name:
     
 - topic: Educational Technologies and Applications (EA)
   permalink: /topics/educational/
@@ -208,7 +206,7 @@
     - name: Edify Technologies, Inc.
     - name: Triad Interactive Media
     - name: starMobile, Inc.
-
+    
 - topic: Energy and Power Systems (EW)
   permalink: /topics/energy-power/
   topic_code: ew
@@ -223,7 +221,6 @@
     - Energy Harvesting and Storage (EW8)
     - Infrastructure and Smart Grids (EW9)
   companies:
-      allow_recent: true
     - name: VECARIUS
     - name: Imprint Energy, Inc.
     - name: GridBridge, Inc
@@ -408,8 +405,7 @@
       bio: "comes to the NSF with a broad background in the physical sciences, and extensive experience in technology development and commercialization. Before joining NSF Peter was originally CEO, and most recently CTO, at MIKOH Corporation Ltd, a publicly traded company that he founded in Sydney, Australia. Prior to MIKOH he spent approximately 7 years at the Overseas Telecommunications Commission (OTC Australia) where he managed optical fiber communications R&D, including approximately 14 months in the UK at British Telecom’s Martlesham Heath R&D laboratories. While at OTC his research group made world-leading advances in high-speed optical communications technologies, some of which were commercialized via spin-off companies. He also managed the externally contracted development and commercialization of a number of optical fiber and optoelectronic technologies, and was instrumental in establishing a commercialization center for specialized optical fibers at the University of Sydney. While at MIKOH Corporation he was instrumental in developing and commercializing technologies in a range of fields including diffractive optics, laser-based marking, radio frequency identification and internet-based personal authentication. He moved to the US in 1998 to further develop the company’s technologies and markets. Peter holds a Ph.D. in physics (Quantum Optics), and a BEng (Mech) – both from the University of Queensland (Australia)."
   subtopics:
     - Quantum Information Technologies (IT3)
-  companies:
-    - name: 
+  companies: 
 
 - topic: Robotics (EW)
   permalink: /topics/robotics/
