@@ -155,7 +155,7 @@
 
 - topic: Distributed Ledger (OT)
   permalink: /topics/distributed-ledger/
-  topic_code: dl
+  topic_code: dl-ot
   programDirector:
     - name: Anna Brady-Estevez
       last_name: Brady-Estevez
@@ -164,8 +164,8 @@
       photo: Anna-compressed.jpg
       bio: "joined the National Science Foundation as SBIR/STTR Program Director leading Chemical and Environmental Technologies. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous start-ups having worked as: an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of ~30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning: nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the US Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a BS in Chemical Engineering and BA in Spanish from The Johns Hopkins University."
   subtopics:
-    - Advanced Protocols:  Blockchain, DAGs, and Next Gen Protocols (DL1)
     - Cryptography and Security, Identity and Anonymity Solutions, Trusted Devices (DL2)  
+    - ``Advanced Protocols:`` Blockchain, DAGs, and Next Gen Protocols (DL1)
     - Smart Contracts, Next-Generation Financial Technologies (DL3)
     - Scalability Solutions, Enhanced Consensus Methods, Organizational Structures (DL4)
     - Human to Technology Interface Innovations, Disruptive Business Model Innovations for Distributed Ledger Technologies (DL5)
@@ -306,8 +306,8 @@
     - name: 4 D Technology Corporation
     - name: Spheryx, Inc
     
-- topic: Internet of Things (I)
-  permalink: /topics/internet-of-things/
+- topic: Internet of Things (IoT)
+  permalink: /topics/IoT/
   topic_code: 
     -i
   programDirector:
@@ -346,7 +346,7 @@
     
 - topic: Nanotechnology (MN)
   permalink: /topics/nanotechnology/
-  topic_code: n
+  topic_code: n-mn
   programDirector:
     - name: Linda Molnar
       last_name: Molnar
@@ -374,7 +374,8 @@
       desc:
       bio: "is the Senior Program Director for the SBIR/STTR programs. He joined the NSF as a Program Director in 2009, leading the Advanced Materials and Instrumentation portfolio in the Small Business Innovation Research and Small Business Technology Transfer programs. Prior to NSF, he was the Director of Research and Development at Micro Magnetics, where he led a development effort to commercialize a new family of high-performance magnetic microsensor products for demanding consumer and military applications. During this time, he also served as a visiting scientist at Brown University and as the Principal Investigator on a number of federal grants and contracts, including NSF Phase I and Phase II Small Business Innovation Research projects and an Advanced Technology Program award from NIST. Ben received his Ph.D. in Physics from Brown University."
   subtopics:
-    - Other Topics (OT1)  companies:
+    - Other Topics (OT1)  
+  companies:
  
 - topic: Photonics (PH)
   permalink: /topics/photonics/
@@ -397,7 +398,7 @@
     
 - topic: Quantum Information Technologies (IT)
   permalink: /topics/quantum-information/
-  topic_code: qi
+  topic_code: qi-it
   programDirector:
     - name: Peter Atherton
       last_name: Atherton
@@ -412,7 +413,7 @@
 
 - topic: Robotics (EW)
   permalink: /topics/robotics/
-  topic_code: r
+  topic_code: r-ew
   programDirector:
     - name: Muralidharan S. Nair
       last_name: Nair
@@ -432,7 +433,7 @@
     
 - topic: Semiconductors (S)
   permalink: /topics/semiconductors/
-  topic_code: sc
+  topic_code: s
   programDirector:
     - name: Steve Konsek
       last_name: Konsek
@@ -450,9 +451,9 @@
     - name: Runtime Verification, Inc.
     - name: NGCodec Inc.
     
-- topic: Sensors (S)
+- topic: Sensors (EW)
   permalink: /topics/sensors/
-  topic_code: s
+  topic_code: s-ew
   programDirector:
     - name: Rick Schwerdtfeger
       last_name: Schwerdtfeger
@@ -467,7 +468,7 @@
     
 - topic: Wireless Technologies (EW)
   permalink: /topics/wireless-technologies/
-  topic_code: wt
+  topic_code: wt-ew
   programDirector:
     - name: Muralidharan S. Nair
       last_name: Nair
