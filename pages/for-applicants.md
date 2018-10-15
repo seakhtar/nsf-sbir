@@ -15,12 +15,12 @@ Read the [Peer Review Guidelines](https://seedfund.nsf.gov/resources/review/peer
 {% if site.app_process == "active" %}
 ## Q&A webinars
 
-Thinking of applying for Phase I funding? Ask all your application-related questions during our [Q&A webinars](https://seedfund.nsf.gov/events/). Can’t make it to a webinar? Check out our videos covering [program basics](https://youtu.be/oJSYhyJ06Wk) and [what you need to know before applying](https://youtu.be/tKSCgTXkSXc). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2018.pdf), too.)
+Thinking of applying for Phase I funding? Ask all your application-related questions during our [Q&A webinars](https://seedfund.nsf.gov/events/). Can’t make it to a webinar? Check out our videos covering [program basics](https://youtu.be/oJSYhyJ06Wk) and [tips and tricks for submitting a proposal](https://youtu.be/sogjxLBLhzk). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2018.pdf), too.)
 
 {% else %}
 ## Q&A videos
 
-Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://www.youtube.com/watch?v=jjhD5sT4a64) and [what you need to know before applying](https://www.youtube.com/watch?v=tKSCgTXkSXc). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.)
+Thinking of applying for Phase I funding? Check out our videos covering [program basics](https://youtu.be/oJSYhyJ06Wk) and [tips and tricks for submitting a proposal](https://youtu.be/sogjxLBLhzk). (We offer a [PDF version of program basics](https://www.nsf.gov/eng/iip/sbir/documents/About_NSF_SBIR_STTR.pdf), too.)
 {% endif %}
 
 ## Startup profiles
