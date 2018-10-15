@@ -1,8 +1,8 @@
 ---
 title: Biomedical Technologies (BM)
-permalink: /topics/distributed-ledger/
+permalink: /topics/distributed/
 layout: tech-topic
-topic_code: dl-ot
+topic_code: dlot
 section_image: "/assets/img/bg/flexdex-surgical-2c-bm.jpg"
 section_image_caption: |
   A close-up view of the end-effector of [FlexDex Surgical]({{ site.baseurl }}/portfolio/details/?company=flexdex-inc#flexdex-inc)'s articulating needle-driver. This instrument is for use in laparoscopic or minimally invasive surgeries. © FlexDex, Inc.
