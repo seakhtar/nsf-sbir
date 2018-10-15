@@ -151,7 +151,14 @@
     - Interoperability of Health Record Systems, Medical Sensors, Devices and Robotics (DH4)
     - Empowering Individuals and Communities (DH5)
   companies:
-
+    - name: Guiding Technologies Corporation
+    - name: Roundtable Analytics LLC
+    - name: Care Progress, LLC
+    - name: ConsortiFX, Inc
+    - name: Radial Analytics, Inc.
+    - name: HealthMyne, Inc.
+    - name: TAO Connect, Inc.
+    
 - topic: Distributed Ledger (OT)
   permalink: /topics/distributed-ledger/
   topic_code: dl-ot
