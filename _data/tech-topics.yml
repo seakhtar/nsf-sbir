@@ -24,6 +24,7 @@
     - name: Branch Technology LLC
     - name: Big Blue Technologies LLC
     - name: Sinter Print Inc
+    - name: Construction Robotics, LLC
 
 - topic: Advanced Materials(MI)
   permalink: /topics/advanced-materials/
@@ -109,6 +110,7 @@
     - name: Elidah, Inc.
     - name: Vaxess Technologies, Inc.
     - name: LambdaVision, Inc.
+    - name: BriteSeed, LLC
 
 - topic: Chemical and Advanced Energy Technologies (CT)
   permalink: /topics/chemical-and-environmental/
@@ -290,6 +292,7 @@
     - name: InsightFinder Inc.
     - name: NGD Systems, Inc.
     - name: AppScale Systems, Inc.
+    - name: Leonardo Innovations Inc.
     
 - topic: Instrumentation and Hardware Systems (MI)
   permalink: /topics/instrumentation-hardware/
@@ -309,6 +312,9 @@
     - name: Massachusetts Materials Technologies LLC
     - name: 4 D Technology Corporation
     - name: Spheryx, Inc
+    - name: Chirp Microsystems
+    - name: nView medical Inc.
+    - name: Molecular Vista, Inc.
     
 - topic: Internet of Things (IoT)
   permalink: /topics/IoT/
@@ -364,6 +370,7 @@
     - Other topics in nanotechnology (N3)
   companies:
     - name: Xallent LLC
+    - name: Hummingbird Nano, Inc.
 
 - topic: Other Topics (OT)
   permalink: /topics/other/
@@ -399,6 +406,7 @@
     - Advanced Optical Components and Systems (PH5)
   companies:
     - name: Clerio Vision, Inc.
+    - name: Endectra, LLC
     
 - topic: Quantum Information Technologies (IT)
   permalink: /topics/quantum-information/
@@ -433,6 +441,7 @@
     - name: TACTAI
     - name: Blue River Technology Inc
     - name: Artaic LLC
+    - name: RightHand Robotics, LLC
     
 - topic: Semiconductors (S)
   permalink: /topics/semiconductors/
@@ -453,6 +462,8 @@
   companies:
     - name: Runtime Verification, Inc.
     - name: NGCodec Inc.
+    - name: Astrileux Corporation
+    - name: TexasLDPC Inc., dba Symbyon Systems
     
 - topic: Sensors (EW)
   permalink: /topics/sensors/
