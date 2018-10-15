@@ -8529,6 +8529,29 @@
   title: 'SBIR Phase I:  Combined endorectal prostatic Magnetic Resonance Imaging
     and Biopsy Device to Enable Single Combined Procedures'
 - abstractText: |-
+    This SBIR Phase I project aims to further the development a novel nanoparticle-based synthetic platelet technology for the treatment of internal, non-compressible hemorrhage after traumatic injury. Trauma is the leading killer of people aged 1-46, and uncontrollable hemorrhage after injury is the cause of 35% of pre-hospital trauma deaths and 90% of military combat casualties. This is because there are currently no pre-hospital treatment options for internal, non-compressible hemorrhage. If the patient reaches a medical treatment facility in time, the current standard of care is transfusion with blood products, including platelets. However, natural platelet products suffer from shortage in supply (due to donor shortage), difficulty in portability, high risk of bacterial contamination, very short shelf life (3-5 days), requirement of blood typing and cross matching, and multiple biologic side effects (e.g. immune response). Therefore, there exists a significant clinical need for a synthetic platelet surrogate that can address the above limitations and can be administered at point-of-injury or during en route care to stop the bleeding earlier and potentially save lives. Beyond the potential clinical and commercial impact, the proposed research will also provide multi-disciplinary educational and research opportunities in major STEM areas at undergraduate level to create future scientists and engineers.
+
+    A synthetic platelet technology has been developed that can simulate the hemostatic mechanisms and capabilities of natural platelets while allowing large-scale manufacturing, sterilization, long shelf-life and portability. The technology consists of a platelet-mimetic lipid-based nanoparticle, heteromultivalently surface-decorated with three types of small synthetic peptide ligands that render cooperative mechanisms of binding to von Willebrand Factor (vWF) and collagen (platelet-mimetic injury site-selective adhesion mechanisms) and binding to stimulated form of GPIIb-IIIa on active platelets (platelet-mimetic injury site-directed aggregation mechanism). This patented design is unique in that it is currently the only design that combines these adhesion and aggregation properties of natural platelets on a single synthetic platform. Preliminary studies have established the platelet-mimetic functional mechanisms in vitro as well as its significant hemostatic therapy capability in vivo in small (mouse) and large (pig) animal models of hemorrhage in both prophylactic and emergency administration frameworks. Building on these promising results, this project aims to conduct translationally-directed studies to address technical hurdles associated with manufacturing the synthetic platelets with batch-to-batch consistency and long shelf life (>1 year) at a range of storage conditions (widely varying temperatures, altitudes, etc), which would be highly relevant in austere civilian and military applications.
+  awardeeAddress: 11000 Cedar Ave Ste 100
+  awardeeCity: Cleveland
+  awardeeCountryCode: US
+  awardeeName: Haima Therapeutics, LLC
+  awardeeStateCode: OH
+  awardeeZipCode: '441063056'
+  fundsObligatedAmt: '224998'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1745881'
+  piEmail: mikebruckman@gmail.com
+  piFirstName: Michael
+  piLastName: Bruckman
+  piPhone: '8037279487'
+  poName: Henry Ahn
+  date: 12/18/2017
+  startDate: 01/01/2018
+  expDate: 12/31/2018
+  title: 'SBIR Phase I:  Manufacturing and Characterization of a Synthetic Platelet
+    (SynthoPlateTM) Technology'
+- abstractText: |-
     The broader impact/commercial potential of this project directly addresses the estimated $3.2 billion healthcare burden that develops from iatrogenic ureteral injuries that occur across the three million abdominal and pelvic surgeries being performed annually in the United States. Allotrope Medical creates innovative surgical solutions to improve patient outcomes and reduce procedure costs, directly addressing this situation.  Allotrope?s devices improve anatomical structure location and tissue identification thereby reducing the potential for injury while enhancing a surgeon?s confidence for reduced procedure time. Using smooth muscle stimulation, Allotrope?s StimSite is a sterile single-use, battery powered device that safely and reliably identifies the ureter location to avoid injury during these abdominal and pelvic surgical procedures. The ureter naturally contracts while draining urine from the kidneys into the bladder.  This smooth muscle structure is at risk of injury during dissection and pinching, the current standard surgical method, to mechanically elicit this contraction and thereby locating the ureter during surgery.  Allotrope has demonstrated StimSite?s ability to elicit the same contraction without surgical dissection, thereby diminishing the injury risk while also significantly reducing the surgical procedure time.
 
     This Small Business Innovation Research (SBIR Phase I project will advance the smooth muscle electrical stimulation technology used in StimSite. The project will improve product development and clinical understanding of the design's operating limits while increasing the product's clinical utility through better integration with the laparoscope's imaging system to display a stable indication of the ureter position.  This project encompasses three objectives:  First, using an instrumented breadboard device, the proprietary electrical pulse waveform will be studied characterizing how varying the waveform parameters affect tissue contraction responses.  Second, the performance of the preferred waveform will be evaluated in a porcine model to confirm in-vivo performance of a stand-alone configuration. Third, available image processing software will be evaluated to track and trace the ureter contraction and retain a road-map of the ureter position displayed on the monitor after the ureter has relaxed and is no longer directly visualized.  These three objectives will substantially advance Allotrope's smooth muscle electrical stimulation technology platform for the current device use and targeted future applications in esophageal, stomach and bowel tissue identification, etc.
@@ -8994,29 +9017,6 @@
   expDate: 12/31/2018
   title: 'SBIR Phase I:  Achieving a scalable Earthquake Early Warning System (EEWS)
     with a sub-second response'
-- abstractText: |-
-    This SBIR Phase I project aims to further the development a novel nanoparticle-based synthetic platelet technology for the treatment of internal, non-compressible hemorrhage after traumatic injury. Trauma is the leading killer of people aged 1-46, and uncontrollable hemorrhage after injury is the cause of 35% of pre-hospital trauma deaths and 90% of military combat casualties. This is because there are currently no pre-hospital treatment options for internal, non-compressible hemorrhage. If the patient reaches a medical treatment facility in time, the current standard of care is transfusion with blood products, including platelets. However, natural platelet products suffer from shortage in supply (due to donor shortage), difficulty in portability, high risk of bacterial contamination, very short shelf life (3-5 days), requirement of blood typing and cross matching, and multiple biologic side effects (e.g. immune response). Therefore, there exists a significant clinical need for a synthetic platelet surrogate that can address the above limitations and can be administered at point-of-injury or during en route care to stop the bleeding earlier and potentially save lives. Beyond the potential clinical and commercial impact, the proposed research will also provide multi-disciplinary educational and research opportunities in major STEM areas at undergraduate level to create future scientists and engineers.
-
-    A synthetic platelet technology has been developed that can simulate the hemostatic mechanisms and capabilities of natural platelets while allowing large-scale manufacturing, sterilization, long shelf-life and portability. The technology consists of a platelet-mimetic lipid-based nanoparticle, heteromultivalently surface-decorated with three types of small synthetic peptide ligands that render cooperative mechanisms of binding to von Willebrand Factor (vWF) and collagen (platelet-mimetic injury site-selective adhesion mechanisms) and binding to stimulated form of GPIIb-IIIa on active platelets (platelet-mimetic injury site-directed aggregation mechanism). This patented design is unique in that it is currently the only design that combines these adhesion and aggregation properties of natural platelets on a single synthetic platform. Preliminary studies have established the platelet-mimetic functional mechanisms in vitro as well as its significant hemostatic therapy capability in vivo in small (mouse) and large (pig) animal models of hemorrhage in both prophylactic and emergency administration frameworks. Building on these promising results, this project aims to conduct translationally-directed studies to address technical hurdles associated with manufacturing the synthetic platelets with batch-to-batch consistency and long shelf life (>1 year) at a range of storage conditions (widely varying temperatures, altitudes, etc), which would be highly relevant in austere civilian and military applications.
-  awardeeAddress: 11000 Cedar Ave Ste 100
-  awardeeCity: Cleveland
-  awardeeCountryCode: US
-  awardeeName: Haima Therapeutics, LLC
-  awardeeStateCode: OH
-  awardeeZipCode: '441063056'
-  fundsObligatedAmt: '224998'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1745881'
-  piEmail: mikebruckman@gmail.com
-  piFirstName: Michael
-  piLastName: Bruckman
-  piPhone: '4125808423'
-  poName: Henry Ahn
-  date: 12/18/2017
-  startDate: 01/01/2018
-  expDate: 12/31/2018
-  title: 'SBIR Phase I:  Manufacturing and Characterization of a Synthetic Platelet
-    (SynthoPlateTM) Technology'
 - abstractText: "Much as a river current carries a pebble, fluid flows can carry particulates
     such as nanoparticles and microcapsules. While mechanical pumps are conventionally
     used to drive fluid flow, chemical \"pumps\" can also propel fluid by using chemical
@@ -35479,29 +35479,6 @@
   expDate: 12/31/2018
   title: 'I-Corps: Wideband Contactless Current Sensors'
 - abstractText: |-
-    The broader impact/commercial potential of this I-Corps project would be in the development of a new approach to anti-fouling that can be used synergistically with other existing approaches. Surface fouling is encountered in a vast range of situations: biofouling of ships, biofouling of medical implant devices, thrombus formation on blood-contacting surfaces, mineral scale formation, and a variety of foulants in the food and chemicals industries. Surface fouling has high costs ranging from increased fuel cost in ships, poorer heat exchange in the chemical industry, infection or repeated surgery in the medical contexts, and increased equipment costs in water treatment. The technology offers wide-ranging benefits to society ranging from reduced infection of implanted medical devices, reduced operating costs in membrane filtration, and longer equipment life in the chemical industry.
-
-    This I-Corps project seeks to evaluate the commercial potential of a new approach to anti-fouling surfaces. The fundamental principle underlying the strategy is to focus mechanical stress to the interface between the foulant and the surface, and thereby force deadhesion of the foulant. Successful in vitro experiments have been conducted showing that this principle can greatly reduce the fouling of surfaces placed in contact with blood or with platelet-enriched plasma. These results suggest that the principle can be applied regardless of the chemical nature of the surface.  The anti-fouling principle is purely mechanical and therefore may be used in conjunction with chemical modification approaches, such as fluorination. The technology is presently being evaluated with other foulants in a non-medical context, for instance in algal growth or mineral scale formation.
-  awardeeAddress: University Club
-  awardeeCity: Pittsburgh
-  awardeeCountryCode: US
-  awardeeName: University of Pittsburgh
-  awardeeStateCode: PA
-  awardeeZipCode: '152132303'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1744148'
-  piEmail: velankar@pitt.edu
-  piFirstName: Sachin
-  piLastName: Velankar
-  piMiddeInitial: S
-  piPhone: '4126249984'
-  poName: Nancy Kamei
-  date: 06/09/2017
-  startDate: 06/15/2017
-  expDate: 10/31/2018
-  title: 'I-Corps: Morphing surfaces for anti-fouling applications'
-- abstractText: |-
     The broader impact/commercial potential of this I-Corps project is to create a closed loop synthetic carbon cycle that addresses both carbon dioxide (CO2) mitigation as well as generating high value hydrocarbons from waste CO2 feedstock. Currently, fossil-fuel-fired power plants typically exhibit significant emissions of CO2.  The process developed here has the potential to capture this waste CO2 and repurpose it towards generation of hydrocarbon fuels and other high value hydrocarbons. It presents an opportunity for these electricity generation units to add profit margin in their business model based on these hydrocarbon chemicals. Similar opportunities are available to positively impact many other industries, as well.
 
     This I-Corps project develops a sustainable repurposing of CO2. The process, reverse water gas shift chemical looping (RWGS-CL) has demonstrated capability of converting CO2 to CO at high rates and at low temperatures, paving the way for implementation at large scale. The temperatures of operation of RWGS-CL allows for thermal integration with Fischer Tropsch process (FTS). With FTS reactors already being used in industrial scale, the reactor module developed here can potentially find an appropriate use in those industries. This process involves the use of stable catalysts that can be used for several cycles without loss of activity. The process is designed such that there is no intermixing of CO and H2O or H2, thereby restricting any methane formation or any backward reaction.
@@ -35525,6 +35502,29 @@
   expDate: 05/31/2019
   title: 'I-Corps: Scalable conversion of carbon dioxide to value-added commodity
     chemicals'
+- abstractText: |-
+    The broader impact/commercial potential of this I-Corps project would be in the development of a new approach to anti-fouling that can be used synergistically with other existing approaches. Surface fouling is encountered in a vast range of situations: biofouling of ships, biofouling of medical implant devices, thrombus formation on blood-contacting surfaces, mineral scale formation, and a variety of foulants in the food and chemicals industries. Surface fouling has high costs ranging from increased fuel cost in ships, poorer heat exchange in the chemical industry, infection or repeated surgery in the medical contexts, and increased equipment costs in water treatment. The technology offers wide-ranging benefits to society ranging from reduced infection of implanted medical devices, reduced operating costs in membrane filtration, and longer equipment life in the chemical industry.
+
+    This I-Corps project seeks to evaluate the commercial potential of a new approach to anti-fouling surfaces. The fundamental principle underlying the strategy is to focus mechanical stress to the interface between the foulant and the surface, and thereby force deadhesion of the foulant. Successful in vitro experiments have been conducted showing that this principle can greatly reduce the fouling of surfaces placed in contact with blood or with platelet-enriched plasma. These results suggest that the principle can be applied regardless of the chemical nature of the surface.  The anti-fouling principle is purely mechanical and therefore may be used in conjunction with chemical modification approaches, such as fluorination. The technology is presently being evaluated with other foulants in a non-medical context, for instance in algal growth or mineral scale formation.
+  awardeeAddress: University Club
+  awardeeCity: Pittsburgh
+  awardeeCountryCode: US
+  awardeeName: University of Pittsburgh
+  awardeeStateCode: PA
+  awardeeZipCode: '152132303'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1744148'
+  piEmail: velankar@pitt.edu
+  piFirstName: Sachin
+  piLastName: Velankar
+  piMiddeInitial: S
+  piPhone: '4126249984'
+  poName: Nancy Kamei
+  date: 06/09/2017
+  startDate: 06/15/2017
+  expDate: 10/31/2018
+  title: 'I-Corps: Morphing surfaces for anti-fouling applications'
 - abstractText: |-
     The broader impact/commercial potential of this I-Corps proposal lies in its potential to enable a new degree of precise control over medicines that could substantially increase the efficacy of many current therapeutics as well as re-invigorate the potential of drugs that previously failed clinical trials owing to unfavorable toxicity profiles. By enabling clinician-defined control over when and where a drug is active in the body, this technology has the potential to improve the efficacy of on-target effects while mitigating toxic side-effects that decrease patients' quality of life. Not only do pharmaceutical companies invest significant time and money honing the pharmacokinetics of each drug they bring to market, once a drug is in the clinic, companies have no means of altering the final product to adapt to the individual needs of patients. This project could streamline the costly process of tuning drugs' pharmacokinetics, while also improving their efficacy for a broader patient population.
 

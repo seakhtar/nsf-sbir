@@ -2285,6 +2285,381 @@
   title: 'SBIR Phase II:  Electrolytic Generation of Low-Cost, High-Density Carbon
     Nanotubes for High-Performance Lithium-Ion Batteries'
 - abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project includes innovations in data mining and the treatment of autism.  Applied Behavior Analysis (ABA) therapy is the gold standard in treating autism.  Applying data analytics to data from ABA therapy sessions will contribute in several important ways:  a) patterns may be discerned across individuals with autism to better understand variations in autism and create therapies to target these differences; b) patterns may be matched with other data, such as genomic data, to identify cross-patterns that may be useful in better understanding autism and ways to improve therapy; and c) the frontiers of data mining will be expanded to provide guidance in real time. This project will have the following societal impacts: 1) many more individuals with autism across the globe will receive early, quality, cost-effective treatment regimens that will enable them to live more fulfilled lives and reach their full potential; 2) families whose children are good candidates for treatment and receive it will experience reduced stress and better family life; and 3) the additional lifetime cost of not effectively treating children with autism, which is approximately ten-fold the cost of treatment, will be reduced.
+
+    The proposed project is to extract informative sequential patterns from trial sequences of an individual student, use them to accurately predict trial outcomes, and utilize the predictive model to provide individualized recommendations about how to modify trials and steps of student training. To achieve this goal, predictive data mining will be used. To develop accurate predictive models, the project will build on a large body of recent work in machine learning on temporal predictive modeling and sequential pattern mining, including some of the previous results of the project team. Special attention will be paid to the recent work in educational data mining and intelligent tutoring. Specific key objectives include: 1) Representation of Trial Data for Predictive Modeling: how to represent the raw sequential data in a way that is most suitable for prediction modeling; 2) Development of Models for Prediction of Trial Outcomes: which model is the most suitable for prediction of outcomes in sequential trials and how to train a prediction model from highly-dimensional multi-therapy recipient sequential data; and 3) Guiding Therapy of a Child with Autism Based on an Early Classification Model: how to adjust and extend the previously developed approach by the project team to guide trials.
+  awardeeAddress: 1500 JFK Blvd Suite 1825 2 Penn
+  awardeeCity: Philadelphia
+  awardeeCountryCode: US
+  awardeeName: Guiding Technologies Corporation
+  awardeeStateCode: PA
+  awardeeZipCode: '191021710'
+  fundsObligatedAmt: '169999'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1448289'
+  piEmail: johnnosek@verizon.net
+  piFirstName: John
+  piLastName: Nosek
+  piMiddeInitial: T
+  piPhone: '6096059273'
+  poName: Jesus Soriano Molla
+  date: 12/02/2014
+  startDate: 01/01/2015
+  expDate: 12/31/2015
+  title: 'SBIR Phase I:  Using Data Mining to Optimally Customize Therapy for Individuals
+    with Autism'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will revolutionize the treatment of individuals with autism. One of every sixty-eight US children has autism (over 1.1 million). The estimated cost of providing Applied Behavior Analysis (ABA) therapy to those who could benefit is $7.5 billion dollars annually. Societal impacts include: 1) more individuals with autism across the globe will receive treatment regimens that will enable them to live more fulfilled lives and reach their full potential; 2) families whose children are good candidates for treatment and receive it will experience reduced stress and better family life; and 3) the additional lifetime cost of not effectively treating children with autism, which is approximately ten-fold the cost of treatment, will be reduced. Because high-quality, contextually rich ABA performance data will be collected for the first time, efforts to apply data analytics will contribute in two important ways: a) patterns may be discerned across individuals with autism to better understand variations in autism and create therapies to target these differences; b) expansion of the frontiers of data mining to provide guidance in real time will contribute to a number of areas within and beyond ABA therapy.
+
+    The proposed project will optimize therapy outcomes for individuals with autism by transforming agent-based guiding technology into an adaptive and intelligent ABA therapy assistant for supervisors and instructors. The project pushes the boundaries in providing cost-effective, adaptable, intelligent, real-time guidance and data-collection support to instructors that integrates naturally into the instructional process and is easy to learn and use. ABA therapy experts, supervisors and instructors will verify the analyses and resulting guidance incorporated into the technology.  Advanced theories of usability engineering, including some developed by the project team, will be used to build interfaces that supervisors and instructors can intuit without the need for learning new concepts and syntax. The project will utilize the collected logs from multiple sessions with multiple therapy recipients and multiple therapy providers to uncover hidden patterns and assist supervisors in selecting appropriate therapy steps personalized for the individual with autism. The project will build on a large body of recent work in visualization, machine learning on temporal predictive modeling and sequential pattern mining, including some of the previous results of the project team. Special attention will be paid to the recent work in educational data mining and intelligent tutoring.
+  awardeeAddress: 1500 JFK Blvd Suite 1825 2 Penn
+  awardeeCity: Philadelphia
+  awardeeCountryCode: US
+  awardeeName: Guiding Technologies Corporation
+  awardeeStateCode: PA
+  awardeeZipCode: '191021710'
+  fundsObligatedAmt: '932657'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1632257'
+  piEmail: johnnosek@verizon.net
+  piFirstName: John
+  piLastName: Nosek
+  piMiddeInitial: T
+  piPhone: '6096059273'
+  poName: Nancy Kamei
+  date: 08/03/2016
+  startDate: 08/01/2016
+  expDate: 01/31/2019
+  title: 'SBIR Phase II:  Using Data Mining to Optimally Customize Therapy for Individuals
+    with Autism'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is very significant. Suboptimal operational decision-making in emergency departments leads to inefficiencies that result in extreme patient wait-times, the diversion of ambulances to other emergency departments, wasted resources and patients who either leave before being treated or against medical advice. By connecting modern analytical approaches, including statistical modeling and systems engineering methods, to real-time data routinely collected in emergency departments, the proposed project promises to result in a tremendously valuable analytics platform that will assist emergency departments in making dozens of operational and staffing decisions each day. This informed decision-making will not only improve emergency department efficiency, it will lead to both healthier and more satisfied patients and simultaneous dramatic increases in revenue and profit. The technology proposed will have the potential to add significant value to the approximately 5,000 emergency departments in the U.S., often on the order of millions of dollars annually. Hospitals and health systems now realize the value of effective analytics, and the analytics platform proposed here will be an obvious investment for any emergency department whose goal is to provide the best care to its patients at lower costs.
+
+    The proposed project promises to yield a decision-support platform upon which emergency departments will base their decisions each day. Substantial investments by hospitals and health systems on information technology, and in particular, electronic health records, have set the stage for evidence-based, data-driven decisions. These decisions will effectively leverage real-time data along with analytical methods such as statistical forecasting and event-simulation modeling. In particular, this proposed project will create a software platform, based on these analytical methods and linking to real-time data sources, tailored to emergency departments. This project will involve 1) understanding the capacity and real-time availability of data in emergency rooms, 2) developing a statistical and simulation modeling platform that maximizes the potential of these data, in real-time, and specifically reflects emergency departments, and 3) ultimately ensuring that actionable insights are delivered in a timely and intuitive manner to key stakeholders. These actionable insights that derive from the data and sophisticated methods must be delivered to the right decision-maker at the right time and in the right format, but will then have the capacity to substantially improve both the quality and efficiency of care-delivery in an emergency department.
+  awardeeAddress: 1601 Crafton Way
+  awardeeCity: Raleigh
+  awardeeCountryCode: US
+  awardeeName: Roundtable Analytics LLC
+  awardeeStateCode: NC
+  awardeeZipCode: '276076032'
+  fundsObligatedAmt: '269999'
+  fundProgramName: STTR PHASE I
+  id: '1448898'
+  piEmail: klopiano@gmail.com
+  piFirstName: Kenneth
+  piLastName: Lopiano
+  piPhone: '9045684759'
+  poName: Jesus Soriano Molla
+  date: 12/18/2014
+  startDate: 01/01/2015
+  expDate: 06/30/2016
+  title: 'STTR Phase I:  Data-Driven Decision Support Services for Emergency Department
+    Operations'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase I project is to improve outcomes for patients in cancer
+    treatment. Such patients often suffer from side effects of cancer treatment, such
+    as dehydration and nausea. By enhancing communication between providers and patients,
+    the project seeks to better manage such symptoms and thereby improve outcomes
+    for patients, including lower readmission and emergency department visits and
+    associated costs for Medicare, Medicaid and private payors. The project will enhance
+    scientific and technological understanding by creating a knowledge base of symptoms
+    patients are experiencing. If we are successful we will be able to improve cancer
+    treatment and lower costs in the United States at a time when the number of cancer
+    patients is projected to increase significantly. These benefits are likely to
+    create strong commercial demand for our product from hospitals, Accountable Care
+    Organizations and outpatient cancer centers, which are increasingly under pressure
+    by legislation and private payors to reduce treatment costs. \n\n\tThe proposed
+    project seeks to address the problem of poor communication between providers and
+    cancer patients (which is partially responsible for extremely high readmission
+    and emergency department visits) who are experiencing nausea, dehydration, neutropenia
+    and other side effects. The project seeks to obtain patient symptoms and report
+    them to providers for potential earlier intervention and outcome improvement.
+    The methods to be employed include assembling an expert panel, creating software
+    and then conducting a feasibility trial. Key goals include demonstrating the feasibility
+    of obtaining patient symptoms and that providers find the information useful and
+    actionable."
+  awardeeAddress: 7315 Wisconsin Ave.
+  awardeeCity: Bethesda
+  awardeeCountryCode: US
+  awardeeName: Care Progress, LLC
+  awardeeStateCode: MD
+  awardeeZipCode: '208143202'
+  fundsObligatedAmt: '149683'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1415819'
+  piEmail: hisenstein@careprogress.com
+  piFirstName: Howard
+  piLastName: Isenstein
+  piPhone: '3018073780'
+  poName: Jesus Soriano Molla
+  date: 06/02/2014
+  startDate: 07/01/2014
+  expDate: 12/31/2014
+  title: 'SBIR Phase I:   Leveraging health information technology to improve communication
+    between cancer patients and providers'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project is to improve outcomes for patients in cancer
+    treatment. Such patients often suffer from side effects of cancer treatment, such
+    as dehydration and nausea. By enhancing communication between providers and patients,
+    the project seeks to better manage such symptoms and thereby improve outcomes
+    for patients, including lower readmission and emergency department visits and
+    associated costs for Medicare, Medicaid and private payors. The project will enhance
+    scientific and technological understanding by creating a knowledge base of symptoms
+    patients are experiencing. If we are successful we will be able to improve cancer
+    treatment and lower costs in the United States at a time when the number of cancer
+    patients is projected to increase significantly. These benefits are likely to
+    create strong commercial demand for our product from hospitals, Accountable Care
+    Organizations and outpatient cancer centers, which are increasingly under pressure
+    by legislation and private payors to reduce treatment costs. \n\nThe proposed
+    project seeks to address the problem of poor communication between providers and
+    cancer patients (which is partially responsible for extremely high readmission
+    and emergency department visits) who are experiencing nausea, dehydration, neutropenia
+    and other side effects. The project seeks to obtain patient symptoms and report
+    them to providers for potential earlier intervention and outcome improvement.
+    The methods to be employed include assembling an expert panel, creating software
+    and then conducting a feasibility trial. Key goals include demonstrating the feasibility
+    of obtaining patient symptoms and that providers find the information useful and
+    actionable"
+  awardeeAddress: 7315 Wisconsin Ave.
+  awardeeCity: Bethesda
+  awardeeCountryCode: US
+  awardeeName: Care Progress, LLC
+  awardeeStateCode: MD
+  awardeeZipCode: '208143202'
+  fundsObligatedAmt: '1024282'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1534685'
+  piEmail: hisenstein@careprogress.com
+  piFirstName: Howard
+  piLastName: Isenstein
+  piPhone: '3018073780'
+  poName: Nancy Kamei
+  date: 09/11/2015
+  startDate: 09/15/2015
+  expDate: 11/30/2018
+  title: 'SBIR Phase II:  Leveraging Health Information Technology to Improve Communication
+    Between Cancer Patients and Providers'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project focuses on using analytics and technology to drive greater efficiency and effectiveness in healthcare. Recent legislative changes are driving all players within the healthcare ecosystem toward greater accountability. This Phase I project specifically includes technologies to automatically assess patient risk and thereby reduce post-discharge readmissions rates. This Phase I project has the potential to support a broad range of customers across both the provider and the payer landscape, by providing cost-effective readmissions control solutions that respond to new legislative pressures. In terms of commercial potential, the Institute of Medicine of the National Academies has estimated that preventable hospital readmissions account for $20 billion/year in wasteful healthcare spending. The addressable market for the proposed Phase I proof-of-concept for patient risk stratification to support readmission control is approximately $100MM. In the future, this research project will serve as a foundation to support broader population health analytics, the addressable market for which exceeds $500MM/year and is growing at a rate of 24% annually.
+
+    The proposed project aims to develop a data mining system to capture and analyze information from electronic medical records in order to risk-stratify patients after they have been discharged from hospital. Leveraging interoperability standards that are required by federal regulation, the system will seamlessly aggregate data from multiple electronic medical record systems in a vendor-agnostic manner. A custom analytics engine will detect emergent patterns and draw inferences about each patient?s risk of readmission. If successful, this research will validate the end-to-end concept and suggest the broader applicability of this approach to some of the greatest challenges in population health.
+  awardeeAddress: 50 Beharrell Street Suite A
+  awardeeCity: Concord
+  awardeeCountryCode: US
+  awardeeName: Radial Analytics, Inc.
+  awardeeStateCode: MA
+  awardeeZipCode: '017420000'
+  fundsObligatedAmt: '179999'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1416215'
+  piEmail: thaddeus@radialanalytics.com
+  piFirstName: Thaddeus
+  piLastName: Fulford-Jones
+  piMiddeInitial: R
+  piPhone: '6178558214'
+  poName: Jesus Soriano Molla
+  date: 06/03/2014
+  startDate: 07/01/2014
+  expDate: 06/30/2015
+  title: 'SBIR Phase I:   System for Patient Risk Stratification through Electronic
+    Health Record Analytics'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project focuses on using analytics and technology to benefit patients who require recovery care to get fully well after being discharged from the hospital. Transitions of care from acute (hospital) to post-acute (short-term rehabilitation and skilled nursing) settings impact millions of Americans every year. Seniors overindex on utilization of post-acute care, as a consequence of natural age-related degeneration and the need for longer recovery periods. By improving post-hospital coordination of care across the continuum, clinical outcomes and patient satisfaction stand to improve for America?s aging population. If successful, this project will help reduce costs of care for healthcare providers, payers, and government/society.
+
+    The proposed project aims to incorporate and improve upon methods for user-centered data capture in healthcare. Our proposed platform will combine advanced machine learning techniques with a patient/family-centered business model. The innovation will harness multiple streams of healthcare data, such as electronic health records and claims data from both acute and post-acute care settings. If successful, this research will impact the state-of-the-art in healthcare analytics and outcomes measurement.
+  awardeeAddress: 50 Beharrell Street Suite A
+  awardeeCity: Concord
+  awardeeCountryCode: US
+  awardeeName: Radial Analytics, Inc.
+  awardeeStateCode: MA
+  awardeeZipCode: '017420000'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1621996'
+  piEmail: thaddeus@radialanalytics.com
+  piFirstName: Thaddeus
+  piLastName: Fulford-Jones
+  piMiddeInitial: R
+  piPhone: '6178558214'
+  poName: Jesus Soriano Molla
+  date: 06/24/2016
+  startDate: 07/01/2016
+  expDate: 06/30/2017
+  title: 'SBIR Phase I:  User-Centered System for Improved Coordination across the
+    Continuum of Care'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is significant; transitions of care impact millions of Americans every year. The healthcare system bears substantial cost and inefficiency&#8232;on account of suboptimal care transitions and overspending. This Phase II project will support progress towards a "learning healthcare system" and will extend the capabilities of data mining and machine learning in healthcare
+
+    The proposed project seeks to improve data mining technologies for healthcare decision support. This project will focus on the analysis of a broad variety&#8232;of data types that are common in healthcare settings. The anticipated improvements would allow frontline care staff, operational managers, and healthcare executives to assess and make stronger evidence-driven decisions regarding quality, cost, and access as patients move through the healthcare system. The enhanced data mining system would utilize state-of-the-art pattern recognition and machine learning techniques to dynamically process and interpret clinical, claims, and other types of healthcare data. If successful, this research will impact the state-of-the-art in healthcare analytics.
+  awardeeAddress: 50 Beharrell Street Suite A
+  awardeeCity: Concord
+  awardeeCountryCode: US
+  awardeeName: Radial Analytics, Inc.
+  awardeeStateCode: MA
+  awardeeZipCode: '017420000'
+  fundsObligatedAmt: '1425999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1534781'
+  piEmail: thaddeus@radialanalytics.com
+  piFirstName: Thaddeus
+  piLastName: Fulford-Jones
+  piMiddeInitial: R
+  piPhone: '6178558214'
+  poName: Nancy Kamei
+  date: 09/13/2015
+  startDate: 09/15/2015
+  expDate: 02/29/2020
+  title: 'SBIR Phase II:  System for Patient Risk Stratification through Electronic
+    Health Record Analytics'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project focuses on using analytics and technology to benefit patients who require additional care to fully recover - or simply to maintain their health - after being discharged from the hospital. Whether subacute or community-based care, significant opportunity exists to leverage machine learning, decision science, and advance data mining techniques to better support patients. State and federal budgets cover the costs of care for millions of Americans every year. This expenditure is growing faster than inflation, prompting the development of both optional and mandatory payment reform efforts that stand to simultaneously reduce costs and improve care outcomes. If successful, this project will help reduce costs of care for healthcare providers, payers, and government/society.
+
+    The proposed project aims to incorporate and improve upon user-centered decision science in healthcare. The proposed platform will combine advanced machine learning techniques with a patient/family-centered business model. The innovation will harness multiple streams of healthcare data, such as claims/billing data from acute, subacute, and community care settings. If successful, this research will impact the state-of-the-art in healthcare analytics and outcomes measurement.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 50 Beharrell Street Suite A
+  awardeeCity: Concord
+  awardeeCountryCode: US
+  awardeeName: Radial Analytics, Inc.
+  awardeeStateCode: MA
+  awardeeZipCode: '017420000'
+  fundsObligatedAmt: '925999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1758650'
+  piEmail: thaddeus@radialanalytics.com
+  piFirstName: Thaddeus
+  piLastName: Fulford-Jones
+  piMiddeInitial: R
+  piPhone: '6178558214'
+  poName: Nancy Kamei
+  date: 03/20/2018
+  startDate: 03/01/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  User-Centered System for Improved Coordination across the
+    Continuum of Care'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase I Project proposes
+    to develop and deliver to health care enterprises a next generation imaging, analytics,
+    and search solution that meets not only the current needs of multi-enterprise
+    medical image viewing, but satisfies emerging demands related to clinical decision
+    support and mobile health. The project addresses one of the ?Big Data? problems
+    of medical imaging, i.e. providing access anywhere within the healthcare enterprise
+    to large studies, advanced imaging tools, and image-based analytics across a spectrum
+    of devices from powerful personal computers to mobile devices. \n\nThe broader
+    impact/commercial potential of this project is to translate novel research using
+    quantitative imaging biomarkers into actual clinical practice. Medical imaging
+    is commonly used for cancer screening, treatment planning, and monitoring but
+    the results that come from purely qualitative interpretations of these images
+    are not always definitive. Recent progress has shown that high-throughput extraction
+    and analysis of advanced quantitative imaging features from medical images (?radiomics?)
+    can be used to increase the accuracy and confidence of cancer screening in certain
+    cases. The goals of this project are to incorporate these analytics into a commercially
+    available system for medical image display and distribution which is necessary
+    for widespread clinical adoption. These advances will enable health care providers
+    to lower costs associated with unnecessary follow up exams as well as to improve
+    patient outcomes through identification of tumors that are more likely to be resistant
+    to treatment and to more efficiently and accurately monitor the response to treatment
+    using medical imaging."
+  awardeeAddress: 918, Deming Way, 3rd Floor
+  awardeeCity: Madison
+  awardeeCountryCode: US
+  awardeeName: HealthMyne, Inc.
+  awardeeStateCode: WI
+  awardeeZipCode: '537171945'
+  fundsObligatedAmt: '179999'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1345927'
+  piEmail: roger.chylla@healthmyne.com
+  piFirstName: Roger
+  piLastName: Chylla
+  piMiddeInitial: A
+  piPhone: '6083453530'
+  poName: Jesus Soriano Molla
+  date: 11/27/2013
+  startDate: 01/01/2014
+  expDate: 12/31/2014
+  title: 'SBIR Phase I:  An Integrated Search, Analytics, and Imaging (SAI) Platform
+    for Clinical Decision Support and Mobile Health'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to significantly improve the care of cancer patients by providing an integrated platform for clinical data and image analytics to their care providers for better clinical decision making. Tight integration of clinical data with radiology images will enable evidence-based approaches to be used by care providers in oncology. The tools being developed in this project will enable accelerated transition of comprehensive data-driven cancer research into clinical practice for decision making related to diagnosis and treatment of cancer. Recent trends, such as wide adoption of electronic medical records and radiological images and availability of powerful computing at reasonable prices have made it possible to improve the prognostic and diagnostic power of data, in particular imaging data analysis in healthcare.  The integrated analytics platform being developed will streamline treatment monitoring by imaging and reduce diagnostic errors; hence increasing the quality to cancer care.
+
+    The proposed project aims to develop an integrated, minable, clinical and imaging data analytics platform for oncology. The platform combines recent advances in data mining, context search, image segmentation and deformable registration into an imaging system deployed at the point of care. The diagnostic potential of clinical and image data will be enhanced by the ability to compare lesion characteristics of the current case to a large repository of lesions from other studies with known diagnosis. The proposed search tool will generate patient cohorts with a given set of diagnosis and treatment conditions and present the related images to the diagnostician. Additional technology will locate and track tumors and provide detailed characterization such as size, shape, location and texture with detailed analytics. A large, minable database of segmented tumors and detailed metrics will advance research into identifying ?imaging biomarkers?. The embedded imaging platform will allow clinicians to access these decision support tools across a wide spectrum of devices from powerful personal computers to tablets and other mobile devices.
+  awardeeAddress: 918, Deming Way, 3rd Floor
+  awardeeCity: Madison
+  awardeeCountryCode: US
+  awardeeName: HealthMyne, Inc.
+  awardeeStateCode: WI
+  awardeeZipCode: '537171945'
+  fundsObligatedAmt: '1176541'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1456353'
+  piEmail: roger.chylla@healthmyne.com
+  piFirstName: Roger
+  piLastName: Chylla
+  piMiddeInitial: A
+  piPhone: '6083453530'
+  poName: Nancy Kamei
+  date: 04/01/2015
+  startDate: 04/01/2015
+  expDate: 09/30/2018
+  title: 'SBIR Phase II:  A Minable, Quantitative Imaging Platform for Evidence-Based
+    Medicine within Oncology'
+- abstractText: "The broader impact/commercial potential of this Small Business Technology
+    Transfer, Phase I project is to help make therapy more consistent with patient
+    preferences, beliefs, and values to maximize engagement in therapy and improve
+    patient outcomes.  Therapy for mental health problems is highly effective, yet
+    many patients drop out before getting the full benefit because they are not satisfied
+    or engaged in the therapy.   Therapist Assisted Online (TAO) provides an array
+    of tools for online psychotherapy including educational materials, homework on
+    mobile devices, video conferencing with a therapist, and weekly monitoring of
+    progress. \n \nThe proposed project involves collecting data on all of patients?
+    actions in the TAO system along with their ratings of each activity and their
+    symptom improvement over time.  The research and development team will use this
+    data to create a machine learning system that will make suggestions for best next
+    steps in therapy based on what thousands of other users experienced.   This is
+    the intelligent counseling system.  It will work very similarly to movie streaming
+    services or online book sellers who recommend movies or books to you based on
+    a person?s  past preferences and the preferences of thousands of other users."
+  awardeeAddress: 747 SW 2nd Avenue STE 258
+  awardeeCity: Gainesville
+  awardeeCountryCode: US
+  awardeeName: TAO Connect, Inc.
+  awardeeStateCode: FL
+  awardeeZipCode: '326016280'
+  fundsObligatedAmt: '269999'
+  fundProgramName: STTR PHASE I
+  id: '1448967'
+  piEmail: sherry.benton@taoconnect.org
+  piFirstName: Sherry
+  piLastName: Benton
+  piPhone: '3525144094'
+  poName: Jesus Soriano Molla
+  date: 12/18/2014
+  startDate: 01/01/2015
+  expDate: 06/30/2016
+  title: 'STTR Phase I:  An Intelligent Mental Health Therapy Tool'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research, Phase II project is to help make therapy more consistent with patient preferences, beliefs, and values to maximize engagement in therapy and improve patient outcomes. Therapy for mental health problems is highly effective, yet many patients drop out before getting the full benefit because they are not satisfied or engaged in the therapy. The proposed project involves collecting data on all of patients actions in the online treatment system along with their ratings of each activity and their symptom improvement over time. The research and development team will use this data to create a machine learning system that will make suggestions for best next steps in therapy based on what thousands of other users experienced. This is the intelligent counseling system. It will work very similarly to movie streaming services or online book sellers who recommend movies or books to you based on your past preferences and the preferences of thousands of other users.
+
+    The proposed project will develop a feedback and recommendation system based on advanced analytics and machine learning techniques to provide personalized treatments to customize and individualize online mental health treatment, the Intelligent Counseling System (ICS). This personalized system will contain a number of alternative treatment items from several theoretical perspectives, using a variety of patient interactive activities, varying in format, length, pace, and other characteristics. In such a setting, a recommendation system can predict the users' preferences and recommend the subsequent treatment component. In addition, to achieve maximum adherence and to decrease the attrition rate, the platform will enable personalized motivational interventions and supportive messaging. The delivery times and the content of supportive messaging will adapt and vary depending on the projected treatment progress. Our machine learning based system will be trained incrementally as more data becomes available over time, thus it will benefit from improved accuracy over time. We will extract local, semi-local, and global temporal features at multiple temporal resolutions and will use feature selection techniques to identify which factors contribute to the success of treatments for patients, and to predict if a user is improving or is deteriorating. This will result in adaptive motivational messages and recommendation for tailoring treatment in term of important identified treatment features.
+  awardeeAddress: 747 SW 2nd Avenue STE 258
+  awardeeCity: Gainesville
+  awardeeCountryCode: US
+  awardeeName: TAO Connect, Inc.
+  awardeeStateCode: FL
+  awardeeZipCode: '326016280'
+  fundsObligatedAmt: '860802'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1631871'
+  piEmail: sherry.benton@taoconnect.org
+  piFirstName: Sherry
+  piLastName: Benton
+  piPhone: '3525144094'
+  poName: Nancy Kamei
+  date: 09/19/2016
+  startDate: 10/01/2016
+  expDate: 03/31/2019
+  title: 'SBIR Phase II:  An Intelligent Mental Health Therapy System'
+- abstractText: |-
     This Small Business Innovation Research (SBIR) Phase I project will develop and test a construction kit toy and accompanying activities for teaching and learning engineering design synthesis. Routine engineering analysis can be automated, but design synthesis still remains largely the province of creative and knowledgeable human beings.  The problem is that design synthesis is taught poorly, if at all. Construction kit toys offer a way to solve this problem: they invite young people into engineering design synthesis in playful yet intellectually challenging ways.   Beyond teaching specific domain knowledge, construction kits engage young learners in goal-directed experimental exploration, acquiring and practicing skills central to creativity and invention in engineering design. Current mechatronics construction kit toys are either too simple or limited to allow serious designing, or they are powerful but so technically demanding as to exclude many who otherwise might like to play. The specific innovation of our EYVO construction kit for mechatronics through elegant encapsulation of function and simplicity of physical design?will dramatically lower barriers for young people to engage significantly with engineering design synthesis.  This project will develop the EYVO prototype and accompanying educational materials, test it with children, and investigate its commercial potential.
 
 
