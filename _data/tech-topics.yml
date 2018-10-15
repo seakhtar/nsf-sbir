@@ -283,16 +283,16 @@
   - Social Media and Collaborative Networking (IT12)
   - Software (IT13)
   companies:
-    - name: Geospatial Data Analysis Corporation
-    - name: Waltz Networks, Inc.
-    - name: VOCALID INC
-    - name: Whova
-    - name: Lumenous Co.
+    - name: QC Ware Corp.
+    - name: DeepScale, Inc
+    - name: Openspace
+    - name: Stateless, Inc
+    - name: KANDRA LABS INC
+    - name: Intentionet, Inc.
+    - name: GrokStyle Inc.
+    - name: Bay Labs, Inc.
     - name: Mental Canvas, LLC
     - name: InsightFinder Inc.
-    - name: NGD Systems, Inc.
-    - name: AppScale Systems, Inc.
-    - name: Leonardo Innovations Inc.
     
 - topic: Instrumentation and Hardware Systems (MI)
   permalink: /topics/instrumentation-hardware/
@@ -421,16 +421,6 @@
   subtopics:
     - Quantum Information Technologies (IT3)
   companies: 
-    - name: QC Ware Corp.
-    - name: DeepScale, Inc
-    - name: Openspace
-    - name: Stateless, Inc
-    - name: KANDRA LABS INC
-    - name: Intentionet, Inc.
-    - name: GrokStyle Inc.
-    - name: Bay Labs, Inc.
-    - name: Mental Canvas, LLC
-    - name: InsightFinder Inc.
     
 - topic: Robotics (EW)
   permalink: /topics/robotics/
