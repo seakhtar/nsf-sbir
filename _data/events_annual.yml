@@ -36,7 +36,7 @@
   events:
     - eventname: National SBIR Conference
       href: https://www.techconnectworld.com/
-      desc: Join NSF and other government agencies with similiar programs for the annual conference.
+      desc: Join NSF and other government agencies with similar programs for the annual conference.
     - eventname: Collision Conference
       href: https://collisionconf.com/
 - month: Jun
@@ -46,16 +46,16 @@
       desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
     - eventname: International Society for Technology in Education
       href: https://www.iste.org/
-   - eventname: BIO International Convention
+    - eventname: BIO International Convention
       href: http://convention.bio.org/ 
-   - eventname: Forbes Women's Conference
-      href: https://www.forbes.com/forbes-live/event/womens-summit-2018/ 
-   - eventname: Women in Technology Summit
+    - eventname: Forbes Women's Conference
+      href: https://www.forbes.com/forbes-live/event/womens-summit-2018/
+    - eventname: Women in Technology Summit
       href: https://www.witi.com/conferences/2018/summit/business-and-technology-expo.php 
-   - eventname: Kauffman's ESHIP Summit
+    - eventname: Kauffman's ESHIP Summit
       href: http://www.kauffman.org/what-we-do/events/the-eship-summit 
-   - eventname: WEAR Conference
-      href: https://www.wearconferences.com/
+    - eventname: WEAR Conference
+      href: https://www.wearconferences.com/   
 - month: Jul
   events:
     - eventname: SBIR Road Tour
@@ -65,19 +65,19 @@
       href: https://www.youngstartup.com/events/
       desc: NSF staff introduces investors and startups to the program.
     - eventname: ARPA-E's Tech Showcase
-      href: https://arpa-e.energy.gov/
-      desc: Find program staff at the Tech Showcase.
+      href: https://arpa-e.energy.gov//
+      desc: Find program staff at the Tech Showcase.      
 - month: Aug
   events:
     - eventname: SBIR Road Tour
       href: http://www.sbirroadtour.com/
       desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
 - month: Sep
-  events: 
+  events:
     - eventname: SynBioBeta
       href: https://synbiobeta.com/
     - eventname: Black Enterprise - Tech Connext
-      href: https://www.blackenterprise.com/techconnext/
+      href: https://www.blackenterprise.com/techconnext/  
 - month: Oct
   events:
     - eventname: TechCrunch Disrupt
@@ -89,15 +89,14 @@
     - eventname: EmTech
       href: https://events.technologyreview.com/emtech/
     - eventname: SOCAP - Social Capital Markets
-      href: https://socialcapitalmarkets.net/
- - month: Nov
+      href: https://socialcapitalmarkets.net/      
+- month: Nov
   events:
     - eventname: ACS Entrepreneur Summit
       href: https://www.acs.org/content/acs/en/meetings/acs-entrepreneur-summit.html?sc=170503_acq_mtg_em_entsum_od
     - eventname: NSF Fall 2018 Grants Conference
-      href: https://nsfgrantsconferences.com/fall-18-conf/
+      href: https://nsfgrantsconferences.com/fall-18-conf     
 - month: Dec
   events:
-
 
 ---
