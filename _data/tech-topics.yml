@@ -163,8 +163,8 @@
     - name: TAO Connect, Inc.
     
 - topic: Distributed Ledger (OT)
-  permalink: /topics/distributed-ledger/
-  topic_code: dl-ot
+  permalink: /topics/distributed/
+  topic_code: dlot
   programDirector:
     - name: Anna Brady-Estevez
       last_name: Brady-Estevez
