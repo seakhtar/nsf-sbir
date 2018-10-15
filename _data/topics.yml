@@ -264,6 +264,109 @@
   expDate: 02/28/2022
   title: 'SBIR Phase II:  Reactive Additive Manufacturing of Advanced Superalloys
     for Turbine Engines'
+- abstractText: "This Small Business Innovation Research Phase I project is aimed
+    at developing an automated mortar dispensing system, a major component of a semi-automated
+    masonry (SAM) robotic system.  The current technology challenge is the development
+    of a mortar dispensing system that can accurately replicate the art of manual
+    mortar preparation and application. This means a system that can account for the
+    variability of mortar batch production as well as maintaining the chemical and
+    material requirements to relevant standards.  This technical effort will focus
+    on key variables involved, such as reaction heat, pH, viscosity, moisture retention,
+    time variables and temperature/humidity conditions.  One of the major challenges
+    of an automated mortar dispensing system is the variability created by onsite
+    weather conditions.  This Phase I project will allow us to investigate the feasibility
+    of developing a measurement and control system that can accurately determine the
+    quality of the mortar and adjust as necessary to produce consistent mortar that
+    meets the requirements of the SAM system.  Masonry jobs are dynamic work environments
+    that need to be adjusted and corrected in real time, presenting numerous challenges
+    for automation, but if successful, the potential benefits are enormous. \n\nThe
+    broader impact/commercial potential of this project, the SAM robotic system, is
+    intended to revolutionize the masonry construction industry.  The system will
+    significantly increase the throughput of brick masonry production.  Our core technology
+    incorporates proprietary sensing and control systems, with the dispensing of mortar
+    to achieve information-driven automated bricklaying.  Brick-based construction
+    represents a significant portion of the global and US economies with over $20
+    billion spent on all masonry work in the US, and over $5 billion spent on commercial
+    brick masonry.  This segment of the construction industry has seen little innovation
+    over the recent decades. The SAM system will provide a per-job cost savings of
+    over 30% based on increased productivity of the masonry crew.  This significant
+    increase in the efficiency of masons will make brick masonry more affordable.
+    By using more technology in the masonry industry, it will be easier to recruit
+    younger talent to an industry with an aging work force.  The increase in the use
+    of bricks in construction, especially in regions that are susceptible to extreme
+    weather conditions, will provide many environmental and customer benefits such
+    as increased durability, insulation, fire resistance, and lower maintenance.  These
+    in turn will lead to energy and resource conservation."
+  awardeeAddress: 3966 Kinder Lane
+  awardeeCity: Jamesville
+  awardeeCountryCode: US
+  awardeeName: Construction Robotics, LLC
+  awardeeStateCode: NY
+  awardeeZipCode: '130789664'
+  fundsObligatedAmt: '150000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1215340'
+  piEmail: npodkaminer@construction-robotics.com
+  piFirstName: Nate
+  piLastName: Podkaminer
+  piPhone: '3154477654'
+  poName: Ben Schrag
+  date: 06/13/2012
+  startDate: 07/01/2012
+  expDate: 12/31/2012
+  title: 'SBIR Phase I:  Automated Mortar Dispensing for a Semi-Automated Masonry
+    Robotic System'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase II project will
+    focus on the development of a commercially-viable robotic Semi-Automated Masonry
+    (SAM) system.  This SAM system will revolutionize the construction industry by
+    significantly increasing the efficiency and throughput of brick wall construction
+    using automation.  The SAM system will be leased or sold to masonry contractors.
+    \ The core technology being developed incorporates proprietary sensing, control
+    systems, and mortar dispensing to achieve computer aided design (CAD)-driven,
+    highly accurate automated bricklaying capability.  The Phase II project will focus
+    on developing and integrating key technical components of the system.  The main
+    technical objectives for the Phase II grant are to (1) fully integrate a mortar
+    pumping and measurement system, (2) achieve brick placement accuracy during all
+    jobsite conditions, (3) develop CAD to brick mapping software, and (4) to prepare
+    the product for commercial viability.  In addition, we will perform a number of
+    site demonstrations to prove commercial viability.  This project will stretch
+    the bounds of commercial robotics as well as expand the scope of possibilities
+    across the construction industry.  Many new technologies will continue to be developed
+    during the Phase II project in order to progress from prototyping to testing,
+    and eventually commercial readiness.  \n\nThe broader impact/commercial potential
+    of this project is a technology to revolutionize the masonry construction industry.
+    \ The SAM robotic system will provide many significant societal benefits including
+    more predictable and reliable work, less physical demand on masons, lower costs
+    and more design flexibility for the use of brick.  By reducing the physical demands
+    on the mason and increasing the use of technology, it will provide significant
+    health benefits, effectively increasing the work life of older masons and attracting
+    younger masons to the industry.  Brick-based construction represents a significant
+    portion of the global and U.S. economies, with over $20 billion spent on all domestic
+    masonry work, and over $5 billion spent on commercial brick masonry alone.  The
+    significant increase in efficiency provided by this SAM system will make brick
+    masonry more affordable.  This could potentially lead to growth of the brick industry,
+    resulting in many environmental and customer benefits such as energy and resource
+    conservation.  Through commercialization of the world's first robotic Semi-Automated
+    masonry system, this project will help to expand the capability of an industry
+    and revitalize the masonry trade."
+  awardeeAddress: 3966 Kinder Lane
+  awardeeCity: Jamesville
+  awardeeCountryCode: US
+  awardeeName: Construction Robotics, LLC
+  awardeeStateCode: NY
+  awardeeZipCode: '130789664'
+  fundsObligatedAmt: '1455234'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1330154'
+  piEmail: speters@construction-robotics.com
+  piFirstName: Scott
+  piLastName: Peters
+  piPhone: '5857501437'
+  poName: Ben Schrag
+  date: 07/29/2013
+  startDate: 08/01/2013
+  expDate: 04/30/2017
+  title: 'SBIR Phase II:  Semi-Automated Masonry (SAM) Robotic System'
 - abstractText: "This Small Business Innovation Research Phase I project will address
     the challenge of retrofit cleaning and pretreatment of steam condenser tubes prior
     to the deposition of a performance-enhancing coating. By eliminating the buildup
@@ -1892,6 +1995,108 @@
   expDate: 12/31/2019
   title: 'SBIR Phase II:  Design and Optimization of a Biocompatible Protein-Based
     Retinal Implant for the Treatment of End-Stage Retinal Degeneration'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase I project is to develop a novel, intraoperative imaging
+    technology to addresse the problem of inadvertent cuts to vasculature during minimally
+    invasive surgeries. Patients who suffer vascular injury face increased risks of
+    developing nosocomial infections and, in up to 32% of cases, mortality. These
+    patients are burdened with longer hospital stays and corrective procedures that
+    add tens of thousands of dollars to their healthcare expenses. This is compounded
+    by obesity, a risk factor that is associated with higher rates of conversion from
+    minimally invasive to open surgery due to limitations in the surgeon?s ability
+    to visualize and navigate vasculature. Hence, there is a critical need to identify
+    and assess hidden vasculature in real time. The proposed technology provides users
+    with blood vessel visualization and size metrics before a cut is made. Importantly,
+    this system will be designed for seamless integration into a suite of surgical
+    instruments for multiple applications. Long term, the company aims to provide
+    surgeons with the preeminent imaging platform to view, assess, and characterize
+    a range of vessels (i.e. arteries/veins, ureters and bile ducts) in real-time
+    for improved surgical guidance and outcomes. \n\nThe proposed project will develop
+    a novel blood vessel detection and visualization platform using low-cost optical
+    imaging sensors and light-emitting diodes (LEDs). The proposed technology will
+    provide visual and quantitative information about vessel presence and size in
+    real-time that can supplement a surgeon?s technique. This system will be simple,
+    cost-effective, easy to employ, and highly accurate, and will be based on science
+    similar to that found in pulse oximetry technology. Traditionally, the avoidance
+    of blood vessels during minimally invasive surgery is accomplished by visualization
+    or costly intraoperative imaging. The proposed technology will use pulsatile light
+    absorption characteristics of blood vessels to provide quantitative information
+    about vessel presence and size in real-time, supplementing a surgeon?s technique.
+    This project will also add significant value to the body of research conducted
+    in the areas of signal processing and image analysis. In addition, the proposed
+    technology will remove the risk of data loss due to artifacts in general and motion
+    artifacts in particular. The proposed technology will be validated ex vivo and
+    in vivo using a porcine animal model."
+  awardeeAddress: 4660 N Ravenswood Avenue
+  awardeeCity: Chicago
+  awardeeCountryCode: US
+  awardeeName: BriteSeed, LLC
+  awardeeStateCode: IL
+  awardeeZipCode: '606404510'
+  fundsObligatedAmt: '174997'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1520502'
+  piEmail: j.w.gunn@briteseed.com
+  piFirstName: Jonathan
+  piLastName: Gunn
+  piMiddeInitial: W
+  piPhone: '2063840311'
+  poName: Jesus Soriano Molla
+  date: 06/22/2015
+  startDate: 07/01/2015
+  expDate: 04/30/2016
+  title: 'SBIR Phase I:  Label-free imaging for real-time, intraoperative blood vessel
+    visualization'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase I project is to develop a novel, intraoperative imaging
+    technology to address the problem of inadvertent cuts to vasculature during minimally
+    invasive surgeries. More than 17% of patients who undergo these types of in-patient
+    surgeries suffer from an intraoperative bleeding event. When a vessel is injured,
+    there is a higher probability of hospital borne infection due to the loss of blood,
+    and the added cost of care per patient increases by thousands of dollars due to
+    corrective action and extended length of stay for the patient. The risk of vascular
+    injury is compounded by risk factors, such as obesity, which limit the surgeon's
+    ability to visualize and navigate vasculature. Therefore, there is a critical
+    need to identify and assess hidden vasculature in real time. The proposed technology
+    helps identify blood vessel before a cut is made. Importantly, this system will
+    be designed for seamless integration into a suite of surgical instruments for
+    multiple applications. Long term, the company will provide surgeons with the preeminent
+    imaging platform to view, assess, and characterize a range of vessels (i.e. arteries/veins,
+    ureters and bile ducts) in real-time for improved surgical guidance and outcomes.
+    \n\nThe proposed project will develop a novel blood vessel detection and visualization
+    platform using low-cost optical imaging sensors and light-emitting diodes (LEDs).
+    The proposed technology will provide visual and quantitative information about
+    vessel presence and size in real-time that can supplement a surgeon's technique.
+    This system will be simple, cost-effective, easy to employ, and highly accurate.
+    Traditionally, the avoidance of blood vessels during minimally invasive surgery
+    is accomplished by visualization or costly intraoperative imaging. The proposed
+    technology will use pulsatile light absorption characteristics of blood vessels
+    to provide quantitative information about vessel presence and size in real-time,
+    supplementing a surgeon's technique. This project will also add significant value
+    to the body of research conducted in the areas of signal processing and image
+    analysis. In addition, the proposed technology will remove the risk of data loss
+    due to artifacts in general and motion artifacts in particular. The proposed technology
+    will be validated ex vivo and in vivo using a porcine animal model."
+  awardeeAddress: 4660 N Ravenswood Avenue
+  awardeeCity: Chicago
+  awardeeCountryCode: US
+  awardeeName: BriteSeed, LLC
+  awardeeStateCode: IL
+  awardeeZipCode: '606404510'
+  fundsObligatedAmt: '1250969'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1660240'
+  piEmail: j.w.gunn@briteseed.com
+  piFirstName: Jonathan
+  piLastName: Gunn
+  piMiddeInitial: W
+  piPhone: '2063840311'
+  poName: Linda Molnar
+  date: 05/19/2017
+  startDate: 05/15/2017
+  expDate: 04/30/2021
+  title: 'SBIR Phase II:  Label-free imaging for real-time, intraoperative blood vessel
+    visualization'
 - abstractText: |-
     This Small Business Innovative Research Phase I project is aimed at demonstrating that acyl glycinate surfactant can be produced by a novel bacterial fermentation route. The objective of this project is to construct a bacterial strain that produces acyl glycinate, and to provide a sample of that surfactant for commercial evaluation. A successful outcome will demonstrate that acyl glycine can be produced by fermentation. Surfactants are the bubbly components of cleaning products that give them their cleansing power. Surfactants are currently manufactured from petroleum or from seed oils, such as palm oil. The use of those raw materials increases greenhouse gas pollution and also leads to deforestation of rainforests. Retailers are demanding greener products, and regulatory agencies are demanding new minimally toxic chemicals. The demand for greener chemicals creates an opportunity to replace current surfactants with greener alternatives.
 
@@ -4785,6 +4990,121 @@
   expDate: 08/31/2019
   title: 'SBIR Phase II:  Disaster Recovery and Migration Technologies for Cloud Applications
     and Data'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase I project is
+    focused on the development of novel methods for ideation and innovation through
+    the discovery of lateral connections in otherwise unconnected knowledge networks.
+    In many fields of human knowledge and activity, a common feature is that information
+    content is expanding at such a rate that finding relevant results to searches
+    for solutions is becoming increasingly difficult. A further problem is that even
+    the high quality material is expanding at such a rate that most disciplines are
+    rapidly forming sub-disciplines. As fields continue to both expand both at the
+    top levels in terms of overall amount of knowledge, and to expand at the more
+    granular levels by fragmentation into ever more numerous subfields, each of which
+    may develop its own journals, conferences and even terminology, impenetrable to
+    the outsider. It's becoming impossible to stay current. Yet much of creativity
+    occurs, and indeed a great many of the world?s great inventions have occurred,
+    precisely at the intersections between different fields. The central objective
+    of this Phase I project will be to determine the utility of a parsable ontology
+    for supporting ideation and innovation by connecting diverse knowledge domains.
+    \   \n\nThe broader impact/commercial potential of this project spans multiple
+    fields and markets, including but not limited to pharmaceuticals, medical devices,
+    materials science, semiconductor devices, chemical processing, legal discovery,
+    patent analyses, and financial analytics. In each of these fields, there is often
+    an increase in 'silo-ing' of different knowledge domains, with the development
+    of access and language barriers in between them, presenting clear challenges to
+    academia and industry. As this situation worsens, there is need of ever better
+    ways to organize, translate and present information to users, and to find solutions
+    to users' problems (their 'unmet needs'). What is needed, and not yet offered
+    by any competitor, is an exploration system giving searchers a strong serendipitous
+    element with a maximum likelihood of results having come from a diverse, unexpected,
+    and potentially provocative source. This will break down silos by providing a
+    rapid, relevant means for knowledge-transfer between different disciplines to
+    facilitate the ready spread of awareness of a potential solution from one field
+    to another, fostering interdisciplinary innovation. The initial customer focus
+    will be on particular corporate clients with a heavy investment in R&D activities
+    and a high probability of internal silo-ing of knowledge, such as pharmaceutical
+    companies."
+  awardeeAddress: 423 8th Avenue
+  awardeeCity: Menlo Park
+  awardeeCountryCode: US
+  awardeeName: Leonardo Innovations Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '940251848'
+  fundsObligatedAmt: '180000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1248901'
+  piEmail: brian_m_sager@yahoo.com
+  piFirstName: Brian
+  piLastName: Sager
+  piMiddeInitial: M
+  piPhone: '6502244508'
+  poName: Muralidharan S. Nair
+  date: 12/19/2012
+  startDate: 01/01/2013
+  expDate: 12/31/2013
+  title: 'SBIR Phase I:  Serendipitous Search System Using Lateral Analogy to Match
+    Potential Solutions to Unmet Needs:Feasibility Study Based on Screening Approved
+    Drugs for Potential Repur'
+- abstractText: |-
+    The broader impact/commercial potential of this project is to accelerate the pace
+    of research and development to enable more rapid deployment of technologies
+    into commercial / industrial contexts. In many fields, information is expanding at
+    such an exponential rate that finding relevant results to technical knowledge
+    searches is increasingly difficult. Further, content is expanding so fast that most
+    fields are rapidly forming sub-disciplines, leading to the ?silo-ing? of different
+    knowledge sub-domains, a clear challenge to both academia and industry. We
+    need ever better ways to organize and present information to users. There are
+    disadvantages of the current search engines, mostly relating to excessive
+    similarity in search results. Further, while these engines present information
+    relating to a known search target, they are less effective at presenting
+    unexpected results for information that a user has never heard of but that would
+    be useful. What is therefore needed is an exploration system giving searchers a
+    strong serendipitous element with a maximum likelihood of results from diverse,
+    unexpected, and potentially provocative sources. This will break down silos by
+    providing a rapid, relevant means for knowledge-transfer between different
+    disciplines, fostering interdisciplinary innovation. This system has been designed
+    to provide a means for systematic, automated discovery.
+
+    This Small Business Innovation Research (SBIR) Phase 2 project is focused on
+    optimizing and scaling a serendipitous document search system for repurposing
+    technologies by analogy into lateral fields. Both by sub-parsing discrete content
+    into ontologically separable entities, such as capability, characteristic, and
+    composition, and by comparatively assessing certain of these attributes between
+    such entities, the attribute relatedness of these entities can be used to drive their
+    self-assembly into related attribute networks. This approach provides a
+    significant value proposition for drug repurposing, which is the current focus of
+    this project. To scale the pair-wise comparison and network assembly of millions
+    of documents, a map-reduce based text-processing framework will be developed
+    so that massively parallel computations can be carried out in a time- and costefficient
+    manner. A distributed search engine technology will be deployed to
+    enable rapid querying of the emerging document relationship network. A series of
+    machine learning algorithms will then be used to determine potentially hidden
+    structural architectural features within the document relationship network.
+    Machine learning will elucidate the nature of the relationships in drug networks
+    through analyses of inter-node relationships and sub-graph motifs (termed
+    ?innovation motifs?). Documents including U.S. patents and scientific papers will
+    be processed in the system.
+  awardeeAddress: 423 8th Avenue
+  awardeeCity: Menlo Park
+  awardeeCountryCode: US
+  awardeeName: Leonardo Innovations Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '940251848'
+  fundsObligatedAmt: '1310747'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1430780'
+  piEmail: brian_m_sager@yahoo.com
+  piFirstName: Brian
+  piLastName: Sager
+  piMiddeInitial: M
+  piPhone: '6502244508'
+  poName: Muralidharan S. Nair
+  date: 12/22/2014
+  startDate: 12/01/2014
+  expDate: 01/31/2019
+  title: 'SBIR Phase II:  Serendipitous Search System Using Lateral Analogy to Match
+    Potential Solutions to Unmet Needs:Feasibility Study Based on Screening Approved
+    Drugs for Repurposing'
 - abstractText: "This Small Business Innovation Research Phase I project will support
     commercialization of a portable instrument capable of probing the hardness, strength
     and ductility of existing infrastructure without service interruption. Catastrophic
@@ -5055,6 +5375,217 @@
   expDate: 08/31/2020
   title: 'SBIR Phase II:  Total Holographic Characterization of Colloids Through Holographic
     Video Microscopy'
+- abstractText: "This Small Business Innovation Research Phase I project proposes
+    the development of an ultrasonic three-dimensional (3D) rangefinder system for
+    mobile gesture recognition. Optical gesture recognition has been introduced for
+    gaming and will soon be launched for personal computer (PC) interaction, but optical
+    gesture sensors are too large and power-hungry to be incorporated into tablets,
+    smartphones, and smaller devices. The proposed 3D rangefinder uses an array of
+    tiny piezoelectric ultrasound transducers which are built on a silicon wafer using
+    microfabrication techniques. Custom electronics are used to control the transducers.
+    \ In operation, the system emits sound into the air and receives echoes from objects
+    in front of the transducer array. The system infers the location of the objects
+    by measuring the time delay between transmission of the sound wave and reception
+    of the echo. The system will be designed for incorporation into smartphones, tablets,
+    and other mobile devices.\n \nThe broader impact/commercial potential of this
+    project is to bring contextual awareness to everyday devices, which currently
+    have very little idea about what is going on in the space around them. The proposed
+    ultrasonic 3D rangefinder has the potential to be small and low-power enough to
+    be left on continuously, giving the device a way to sense the physical objects
+    surrounding it in the environment. While today's optical 3D ranging systems work
+    across a small room and are capable of sufficient resolution, they are too large
+    and power hungry to be integrated into battery-powered devices. Mobile contextual
+    awareness will enable 3D interaction with smartphones and tablets, facilitating
+    rich user interfaces for applications such as gaming and hands-free control in
+    automobiles. Looking beyond the smartphone and tablet market, the proposed rangefinder
+    would be well-suited for wearable devices that are too small or simply don't allow
+    for a full-function touchscreen, such as head mounted displays and smart watches.
+    These products currently have limited input options since the area available for
+    buttons and touch-sensor inputs is only slightly larger than a finger. Ultrasonic
+    contextual awareness has the potential to revolutionize the user interface for
+    tiny consumer electronics."
+  awardeeAddress: 1452 Portland Ave.
+  awardeeCity: Albany
+  awardeeCountryCode: US
+  awardeeName: Chirp Microsystems
+  awardeeStateCode: CA
+  awardeeZipCode: '947061453'
+  fundsObligatedAmt: '150000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1346158'
+  piEmail: richard.przybyla@chirpmicro.com
+  piFirstName: Richard
+  piLastName: Przybyla
+  piPhone: '5417401779'
+  poName: Ben Schrag
+  date: 12/27/2013
+  startDate: 01/01/2014
+  expDate: 06/30/2014
+  title: 'SBIR Phase I:  Ultrasonic 3D Rangefinding for Mobile Gesture Recognition'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase II project proposes
+    the development of an ultralow-power ultrasonic three-dimensional (3D) rangefinder
+    system for mobile gesture recognition. The proposed 3D rangefinder uses an array
+    of tiny piezoelectric ultrasound transducers which are built on a silicon wafer
+    using microfabrication techniques. Custom electronics are used to control the
+    transducers and the system emits sound into the air and receives echoes from objects
+    in front of the transducer array. The proposed ultrasonic 3D rangefinder has the
+    potential to be small and low-power enough to be left on continuously, giving
+    devices such as smartphones, tablets, and wearable electronic devices a way to
+    sense physical objects in the surrounding environment. Based on the smartphone
+    market alone, the potential market size for this device is over one billion units
+    per year.  Mobile contextual awareness will enable 3D interaction with smartphones
+    and tablets, facilitating rich user interfaces for applications such as gaming
+    and hands-free control in automobiles. Looking beyond the smartphone and tablet
+    market, the proposed rangefinder will feature size and power advantages that will
+    permit integration into centimeter-sized devices which are too small to support
+    a touchscreen. \n\nDuring Phase II, the major technical goals of this project
+    are to transfer the ultrasound transducer manufacturing from a university laboratory
+    to a commercial production facility, to develop a custom integrated circuit for
+    signal processing, and to develop engineering prototypes. In Phase I, micromachined
+    ultrasound transducers having a novel structure designed to improve manufacturability
+    were developed and a demonstration prototype was built using signal processing
+    algorithms running on a personal computer. In Phase II, the ultrasound transducers
+    will be manufactured in a commercial facility for the first time and signal processing
+    algorithms will be realized on a custom mixed-signal integrated circuit. A prototype
+    package for the transducer and integrated circuit chips will be developed and
+    detailed acoustic testing of the packaged prototypes will be conducted."
+  awardeeAddress: 1452 Portland Ave.
+  awardeeCity: Albany
+  awardeeCountryCode: US
+  awardeeName: Chirp Microsystems
+  awardeeStateCode: CA
+  awardeeZipCode: '947061453'
+  fundsObligatedAmt: '1470999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1456376'
+  piEmail: richard.przybyla@chirpmicro.com
+  piFirstName: Richard
+  piLastName: Przybyla
+  piPhone: '5417401779'
+  poName: Richard Schwerdtfeger
+  date: 04/01/2015
+  startDate: 04/01/2015
+  expDate: 09/30/2018
+  title: 'SBIR Phase II:  Ultrasonic 3D Rangefinding for Mobile Gesture Recognition'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase I project will prove the feasibility of a low-dose 4D cone beam tomosynthesis reconstruction algorithm for use in medical image-guided interventions. Despite the availability of highly accurate 3D guidance systems, most image-guided interventions are still performed under 2D fluoroscopy. 3D guidance is significantly more complex and expensive, as it requires the combination of 3D imaging (like CT) with surgical navigation, both expensive and complex technologies. A system capable of reconstructing a 4D scene would provide accurate and easy to use guidance for the medical professional, at lower costs. This research will develop a 3D reconstruction algorithm with quasi real-time performance (4D) that does not increase exposure to x-rays when compared to 2D fluoroscopy. The proposed technology will combine the most recent advancements in tomosynthesis, iterative reconstruction and compressed sensing and fundamentally change image-guided interventions.
+
+    The broader impact/commercial potential of this project is that advanced medical procedures, like minimally invasive surgery, will be significantly improved in workflow and accessibility, reducing healthcare costs, improving outcomes and improving quality of life for patients. In the U.S. alone, a 10% shift to minimally invasive spine surgeries can reduce healthcare costs by $180M while reducing patient trauma and providing faster recoveries to 45,000 patients. This technology could be applied in other clinical areas like oncology and interventional radiology, improving a broad array of procedures and bringing a new level of excellence in medical interventions. 4D systems would compete in the intra-operative x-ray medical imaging market, a $1B market that is growing 6% annually, and in the Surgical Navigation market, a $400M market that is growing 9% annually. The proposed concept has the potential to disrupt both these markets by replacing pairs of intra-operative 3D imaging and surgical navigation systems with one 4D system that is more cost effective and easier to use.
+  awardeeAddress: 1350 S Colonial Dr
+  awardeeCity: Salt Lake City
+  awardeeCountryCode: US
+  awardeeName: nView medical Inc.
+  awardeeStateCode: UT
+  awardeeZipCode: '841082204'
+  fundsObligatedAmt: '179969'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1345401'
+  piEmail: cristian.atria@nviewmed.com
+  piFirstName: Cristian
+  piLastName: Atria
+  piPhone: '9787128742'
+  poName: Muralidharan S. Nair
+  date: 12/05/2013
+  startDate: 01/01/2014
+  expDate: 12/31/2014
+  title: 'SBIR Phase I:  4D reconstruction algorithm for image guided interventions'
+- abstractText: |-
+    The broader impact/commercial potential of this project is the significant improvement of
+    surgical accuracy, which will dramatically reduce surgical errors, improve outcomes and
+    reduce healthcare costs. In spine surgery alone, there are more than 500,000
+    procedures every year in the US utilizing implants such as screws. In 4% to 11% of
+    these surgeries, the implant placement is inaccurate. For the patient this translates into
+    longer recoveries - from days to weeks - and in many cases into a second revision
+    surgery. The patient is non-productive, unable to carry out their daily routines for weeks,
+    while the healthcare system has to absorb the costs of the longer recovery as well as
+    the revision surgeries. For both the healthcare and economic systems these are
+    avoidable costs. The medical imaging technology being developed in this project has
+    the potential to eliminate surgical inaccuracies across the $2.4B market of image
+    guidance, improving clinical applications that range from orthopedic surgery to minimally
+    invasive vascular interventions, to cancer diagnosis and treatments.
+
+    This Small Business Innovation Research (SBIR) Phase 2 project will demonstrate a
+    novel imaging modality, which provides near-real-time 3D live imaging - 4D - during
+    surgery. This novel system will provide surgical imaging at a lower x-ray dose than
+    fluoroscopy (current standard), with a geometry that allows concurrent imaging with
+    surgery. This 4D technology has the potential to significantly reduce surgical
+    inaccuracies, improve outcomes and reduce costs. Phase 1 successfully demonstrated
+    the feasibility of the reconstruction algorithm used by the proposed imaging modality by
+    showing its potential of higher surgical accuracy in a single spinal screw insertion. This
+    Phase 2 project will I) prove the robustness of the reconstruction algorithm across a
+    variety of use-cases, II) demonstrate the clinical usability of the 4D scanner, and III)
+    confirm the clinical utility of the scanner. The clinical usability will be studied with an
+    ergonomic model in a surgical setting. The clinical utility will be proven by building a
+    system prototype and performing image quality and x-ray dose comparisons versus
+    fluoroscopy and 3D in a realistic surgical setting. Preliminary results show that these
+    objectives are achievable. This research is readying the technology for clinical research,
+    regulatory clearance and commercialization.
+  awardeeAddress: 1350 S Colonial Dr
+  awardeeCity: Salt Lake City
+  awardeeCountryCode: US
+  awardeeName: nView medical Inc.
+  awardeeStateCode: UT
+  awardeeZipCode: '841082204'
+  fundsObligatedAmt: '1615512'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1456352'
+  piEmail: cristian.atria@nviewmed.com
+  piFirstName: Cristian
+  piLastName: Atria
+  piPhone: '9787128742'
+  poName: Muralidharan S. Nair
+  date: 04/02/2015
+  startDate: 04/15/2015
+  expDate: 09/30/2020
+  title: 'SBIR Phase II:  4D scanner for image guided interventions'
+- abstractText: |-
+    This Small Innovation Research Phase I project aims to demonstrate the feasibility of the Raman Force Microscope (RFM) to provide a new metrology tool for in situ topographic, strain, and chemical analysis with nanometer spatial resolution.  Feature size reduction in the semiconductor industry requires that metrology methods must routinely measure properties down to the atomic scale.  Novel materials and geometries add to the complexity of measurements. RFM technology is a combination of Raman microscopy and atomic force microscopy (AFM), where an AFM tip provides a nanometer scale light source to generate stimulated Raman scattering, and at the same time measures the force gradient arising from the Raman scattering. The use of the AFM tip as the Raman scattering detector significantly simplifies Raman signal acquisition and system configuration.  By combining a high-speed AFM scheme, this technology allows for in-line characterization of physical and chemical properties of nanoscale materials and structures in the manufacturing environment, i.e. stress in the channel layer and chemical characterization defects. The objectives of the proposed Phase I study are (1) to demonstrate reflection mode RFM for Raman signal measurement of Si wafers and (2) to demonstrate measurement of stress-induced Raman shifts in nanometer-sized features.
+
+    The broader impact/commercial potential of this project will be felt not only in the semiconductor industry but across many disciplines and industries, both in academia and industry.  RFM can be used to measure and characterize a wide variety of nanoscale materials and structures, e.g. high- and low-k dielectric films and other emerging materials (such as graphene) used in advanced semiconductor processes. It can be also widely used across disciplines, e.g. for the measurement of nanoparticle homogeneity or optimization of self-assembled monolayers in surface chemistry. The RFM technique also has the capability to image individual biomolecules in situ, such as for the real-time monitoring of membrane protein dynamics on cells, which will provide unprecedented utility in biomedical and clinical research.  A reliable label-free imaging tool with the capability to identify chemical bond information at the molecular level will potentially bring about revolutionary advances in many fields of basic and applied biological science, including drug discovery, proteomics, structural biology, and personalized medicine.  The RFM technique will be simpler to implement as compared to other hybrid instruments involving high resolution microscopy, resulting in an affordable instrument for academic and research institutions.
+  awardeeAddress: '100 Great Oaks Blvd. #140'
+  awardeeCity: San Jose
+  awardeeCountryCode: US
+  awardeeName: Molecular Vista, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '951191456'
+  fundsObligatedAmt: '179998'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1247448'
+  piEmail: sung@molecularvista.com
+  piFirstName: Sung
+  piLastName: Park
+  piMiddeInitial: I
+  piPhone: '4089152595'
+  poName: Ben Schrag
+  date: 10/26/2012
+  startDate: 01/01/2013
+  expDate: 12/31/2013
+  title: 'SBIR Phase I:  Nanometer Scale Raman Force Microscopy for Topographic, Strain,
+    and Chemical Analysis'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project aims to develop a production prototype of an automated nanoscale manufacturing process monitoring tool based on the resonance force microscope (RFM).  The tool will combine image force microscopy (IFM, a version of RFM that measures the linear part of the susceptibility) and scattering near-field optical microscopy (sSNOM) with atomic force microscope for use in the hard disk drive (HDD) and semiconductor industries.  sSNOM measures the dipole-dipole interaction force while IFM measures the dipole-dipole force gradient, both with nanometer spatial resolution.  These techniques allow direct imaging of resonances associated with electrons, phonons, and plasmons.  The capability to image plasmon resonances is well suited to probe the near-field (NF) profile associated with a plasmonic structure called near-field transducer (NFT) utilized in heat-assisted magnetic recording (HAMR).  With HAMR universally viewed as the next generation technology for HDD industry, the need for a monitoring tool for mass production of HAMR head is acute since there is currently no simple way to probe the NF profile of NFTs.  The objectives of the proposed project are (1) to successfully prototype an automated NFT characterization tool and (2) to field test it with one or more HDD manufacturers.
+
+    The broader impact/commercial potential of this project will be felt not only in the HDD industry but across many industries.  While the monitoring of NFT production is the near-term niche application for the automated tool, the same tool will have longer-term value for in-line characterization of physical and chemical properties of nanoscale materials and structures in the manufacturing environment of diverse industries, including, for example, the measurement of stress in the channel layer and chemical characterization of defects in semiconductor industry and monitoring of protein-based pharmaceuticals.  In R&D and academic settings, the RFM technique provides the capability to image individual biomolecules in situ, such as for the real-time monitoring of membrane protein dynamics on cells, which will provide unprecedented utility in biomedical and clinical research.  A reliable label-free imaging tool with the capability to identify chemical bond information at the molecular level will potentially bring about revolutionary advances in many fields of basic and applied biological science, including drug discovery, proteomics, structural biology, and personalized medicine.  The RFM technique will be simpler to implement as compared to other hybrid instruments involving high resolution microscopy, resulting in an affordable instrument for academic and research institutions.
+  awardeeAddress: '100 Great Oaks Blvd. #140'
+  awardeeCity: San Jose
+  awardeeCountryCode: US
+  awardeeName: Molecular Vista, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '951191456'
+  fundsObligatedAmt: '1409994'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1353524'
+  piEmail: sung@molecularvista.com
+  piFirstName: Sung
+  piLastName: Park
+  piMiddeInitial: I
+  piPhone: '4089152595'
+  poName: Ben Schrag
+  date: 04/04/2014
+  startDate: 04/15/2014
+  expDate: 05/31/2018
+  title: 'SBIR Phase II:  Resonance Force Microscopy for Nanoscale Manufacturing Process
+    Monitoring'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is in creating a market for financially sustained and accountable water services in developing countries. The impact of improved water, sanitation, and hygiene on public health is significant, and has the potential to prevent at least 9.1% of the global disease burden and 6.3% of all deaths. Present-day approaches for delivering water services in developing countries typically focus on deploying, maintaining, and monitoring aid-projects for only a few years. Impact is nominally evaluated by implementers (non-profit, private and government alike) directly. However, even when a positive impact is measured, the majority of these environmental service and monitoring interventions are short-term, and measurements may be misleading. For example, a multi-decade project apparently increased access to clean water supplies in rural areas from 58% in 1990 to 91% in 2015. Improved services may be realized through preventative and "just in time" maintenance activities, enabled through instrumentation and predictive failure data analysis algorithms. This may, critically, enable zero-interruption in water supply. Intermediate access to water, caused by water point failure, to clean water is known to increase health risks.
 
@@ -5430,6 +5961,74 @@
   title: 'SBIR Phase II:  Integrated Nano-Electro-Mechanical Scanning Probes for Failure
     Analysis of the 10-Nanometer Node and Beyond'
 - abstractText: |-
+    This SBIR Phase I project will reduce health costs and increase accessibility to diagnostics by reducing the cost of manufacture, and increasing manufacturing volume of superior quality microfluidic devices. The proposal seeks to develop a platform technology that produces the same manufacturing benefits as rapid prototyping and rapid manufacturing, though the resolution and surface finish will be optical grade on the micro scale. This may enable a variety of things including less expensive drug making, to faster disease diagnosis, to health benefits to the third world, to eliminating the backlog of rape-kits awaiting analysis. The end results - the lowering of medical expenses, faster diagnosis of disease, a boost in research, lowered pharmaceutical costs - are likely to be broadly beneficial. The technical innovation is a leap forward in the conceptual basis of Small Form Factor designs. The novelty of the idea opens and enables new research areas in engineering and chemical disciplines.
+
+    The project will address manufacture of very low cost (~1/10th the current market price) capillary electrophoresis (CE) chips by developing a platform technology for fast prototyping microfluidic chip layouts. The technology allows the formation of a three dimensional ?shell? of micron sized scale parts. The research will take a two-pronged approach: developing an improved understanding of interactions of the prototyping components and combining it with experimental development of a prototype ?T-shaped? CE chip. The theoretical aspect of the microfluidic molding, which has been demonstrated by a laboratory proof-of-concept experiment, will focus on understanding the feasible operating range and defining the performance limitations of the system. The experimental aspect will be dedicated to manipulation of the system to reveal the configuration required for the ?T-shaped? CE chip.
+  awardeeAddress: '1500 Bull Lea Rd. #9'
+  awardeeCity: Lexington
+  awardeeCountryCode: US
+  awardeeName: Hummingbird Nano, Inc.
+  awardeeStateCode: KY
+  awardeeZipCode: '405111268'
+  fundsObligatedAmt: '149265'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1415497'
+  piEmail: hawes@hummingbirdnano.com
+  piFirstName: Eleanor
+  piLastName: Hawes
+  piPhone: '8592254521'
+  poName: Rajesh Mehta
+  date: 05/20/2014
+  startDate: 07/01/2014
+  expDate: 06/30/2015
+  title: 'SBIR Phase I:  Innovative Platform Technology for Rapid Three Dimensional
+    Micro Fabrication'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project is in developing a novel method of manufacturing
+    micro sized parts in three-dimensions without layers at high volume.  With no
+    parting lines, the technology represents a significant advancement over current
+    state of the art molding and 3D technologies for certain applications.  As this
+    represents an entirely new field of research, not merely an extension of solid
+    freeform fabrication (SFF) techniques, it opens and enables wide research areas
+    in engineering and chemical disciplines.  More imminent is using the technology
+    to create capillary electrophoresis (CE) chips that vastly reduce the amount of
+    reagents, provide previously unattainable properties, and at a significantly lower
+    price.  By doing so, the technology will accelerate and broaden the adoption of
+    microfluidics which are currently used in applications such as forensics, genomics,
+    drug making, drug analysis, clinical diagnostics, biosensors, and environmental
+    testing, among countless others. \n \n\nThis project automates and expands a novel
+    platform technology to manufacture high resolution micro parts. The technology
+    is focused on a unique and inexpensive method to fabricate microfluidic channels
+    and wells, which form the basis of all microfluidic chips. The objectives for
+    Phase II are to: 1) Expand the versatility of the system by inclusion to the platform
+    system of fiber optic cables, temperature control capillaries, microfluidic design
+    of static mixer and expansion of molding materials, 2) Design and construct a
+    pilot automation system to increase control and reduce variability, 3) Test the
+    automation system, 4) Test chips produced via the automated system and test additional
+    versatility components from (1), and 5) Continue to commercialize the products.
+    The technological outcome is an automated system with expanded versatility that
+    will center on the construction of capillary electrophoresis chips, with the objective
+    of making the system on that can manufacture a wide variety of microfluidic chips."
+  awardeeAddress: '1500 Bull Lea Rd. #9'
+  awardeeCity: Lexington
+  awardeeCountryCode: US
+  awardeeName: Hummingbird Nano, Inc.
+  awardeeStateCode: KY
+  awardeeZipCode: '405111268'
+  fundsObligatedAmt: '1406123'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1555996'
+  piEmail: hawes@hummingbirdnano.com
+  piFirstName: Eleanor
+  piLastName: Hawes
+  piPhone: '8592254521'
+  poName: Linda Molnar
+  date: 03/18/2016
+  startDate: 04/01/2016
+  expDate: 09/30/2018
+  title: 'SBIR Phase II:  Innovative Platform Technology for Rapid Three Dimensional
+    Fabrication of Capillary Electrophoresis Chips: Phase II Proposal'
+- abstractText: |-
     This Small Business Technology Transfer (STTR) Phase I project enables the development of laser-induced refractive index change (LIRIC) for non-invasive vision correction in cornea and hydrogel materials.  In the United States, 150 million adults use some form of vision correction, and this number is projected to increase steadily with the aging population. LIRIC has the potential to transform how laser refractive surgery is performed and how hydrogel-based solutions (e.g., contact lenses, intraocular lenses) are produced.  For use in the cornea, LIRIC is a process that can alter the optical quality of the cornea without cutting, ablating or removing tissue. Also, only a thin layer of the cornea is treated, which allows a patient to continuously adjust their optics as their prescription changes over their lifetime. This is vastly different from current laser refractive surgery techniques, which are highly invasive and do not allow for future adjustment. In hydrogel materials, traditional manufacturing techniques use diamond-turned molds to achieve desired lens shape. LIRIC can change the production paradigm by enabling just-in-time manufacturing, reducing inventory costs. Additionally, because arbitrary refractive corrections are achievable with LIRIC, patients will be able to receive prescriptions with customized corrections.  This capability is unavailable using today's typical manufacturing methods.
 
     The intellectual merit of this project resides in operating an ultrafast femtosecond laser below the damage threshold to modify the refractive index of corneal or hydrogel material. By dynamically changing laser parameters (power and/or scan velocity), it is possible to create arbitrary refractive-index profiles in cornea or hydrogel, enabling the optical correction of myopia, hyperopia, astigmatism, presbyopia and higher order aberrations. Research objectives for this proposal are centered around the optimization of the LIRIC process. By investigating the impact of laser parameters and optical design of the laser delivery system, it will be possible to enhance the efficacy and safety of in-vivo LIRIC. In addition, visual performance will also be assessed in eyes wearing LIRIC contact lenses. By correcting the eye's wavefront aberrations, LIRIC optical devices are expected to significantly improve visual quality in patients beyond the capacity of currently available techniques.
@@ -5502,6 +6101,53 @@
   expDate: 08/31/2021
   title: 'STTR Phase II:  Refractive correction using non-invasive laser-induced refractive
     index change'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to bring a disruptive neutron detector technology to market, filling an urgent need for real-time, portable and wearable radiation detectors. Successful commercialization of this innovative technology will serve a broad customer base in the nuclear detection and verification industry. This includes nuclear power industry workers, national lab staff, and homeland security personnel, all of whom need to detect the presence of neutron-emitting radioactive materials and assess the health physics risks in real time.  This multi-billion dollar market is currently well served with gamma ray and x-ray detection devices, but the capabilities for wearable neutron dosimeters and detectors are currently less well developed.  The proposed technology closes this gap and thus addresses new commercial opportunities across a targeted array of markets: in addition to supporting U.S. technology leadership and safer low-carbon nuclear energy generation, this project will explore new kinds of directional arrays for neutron imaging and portal detectors, helping to make the nation's borders more secure against illicit nuclear materials and providing improved tools for nuclear safeguards and verification.
+
+    This Small Business Innovation Research (SBIR) Phase I project will evaluate the feasibility of a novel compact, wearable neutron detector/dosimeter based solely on solid-state technology. Research objectives include a thorough quantitative assessment of the detector front-end material response to neutron radiation, evaluation of its optoelectronic characteristics, and gamma discrimination. This will be the first detector of its kind, enabling portability, low cost, real time signal capability and complete integration with semiconductor microdevice technology.  The novel device concept combines a directional optical converter (neutrons to secondary electrons to light) with state-of-the-art optoelectronic detection to provide a digital output which is compatible with wireless reporting protocols and internet integration.  The proposed device can therefore be reconfigured for many radiation detection tasks that are currently not feasible with larger, bulky devices using conventional gas proportional and scintillator detector technology.  The anticipated result is a novel disruptive neutron detection approach.   The research to be performed at the forefront of neutron detection science includes a thorough evaluation of the neutron-capture process, and aims for the first time to better understand the radiation response of a high density of large capture cross-section nuclei in a high-purity optical medium.
+  awardeeAddress: U-M Venture Accelerator
+  awardeeCity: Ann Arbor
+  awardeeCountryCode: US
+  awardeeName: Endectra, LLC
+  awardeeStateCode: MI
+  awardeeZipCode: '481095001'
+  fundsObligatedAmt: '165000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1448519'
+  piEmail: roy@endectra.com
+  piFirstName: Roy
+  piLastName: Clarke
+  piPhone: '7347644466'
+  poName: Steven Konsek
+  date: 12/03/2014
+  startDate: 01/01/2015
+  expDate: 12/31/2015
+  title: 'SBIR Phase I:  Novel Solid-State Cerenkov Detector for Portable and Wearable
+    Neutron Radiation Sensors'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is the potential to bring a disruptive neutron detector technology to market, filling an urgent demonstrated need for real time, portable and wearable radiation detectors. Successful commercialization of the innovative Cerenkov BoroSilicate Glass (CBSG) technology will serve a broad customer base in the nuclear detection and verification industry. Market research indicates large scale potential, in the billions of dollars. This market is currently well served with gamma ray and x-ray detection devices, but the capabilities for portable and wearable neutron detectors are not as well established. The proposed technology will close this gap and is anticipated to have a very broad impact. The Cerenkov detector technology can also be transformative in enabling new kinds of directional arrays for neutron imaging and portal detectors, helping to make the nation's borders more secure against illicit nuclear materials and providing improved tools for nuclear safeguards and verification.
+
+    This Small Business Innovation Research (SBIR) Phase II project aims to commercialize an innovative neutron detector module based 100% on solid-state technology. The overall objective of the project is to build on the successful Cerenkov BoroSilicate Glass (CBSG) detector prototyping in Phase I/IB to develop a small, low cost, modular neutron detector which can be integrated with existing gamma detector technologies to 1) form a comprehensive, scalable, networked solution to the problem of Special Nuclear Material detection; 2) enable inexpensive in-house and third party integration of neutron detection technology into radioisotope identification devices and personal radiation dosimeters; and 3) allow for  further testing and advanced product development relating to directional neutron detector networks, direct fast neutron detectors, and neutron spectroscopy. The research objectives include a thorough quantitative assessment of the detector front-end material response to neutron radiation and evaluation of its optoelectronic characteristics. In particular, in collaboration with a specialty glass manufacturer, the isotopic composition of glass front-end will be optimized for fast neutron detection. The anticipated result is a novel and disruptive neutron detection approach.
+  awardeeAddress: U-M Venture Accelerator
+  awardeeCity: Ann Arbor
+  awardeeCountryCode: US
+  awardeeName: Endectra, LLC
+  awardeeStateCode: MI
+  awardeeZipCode: '481095001'
+  fundsObligatedAmt: '899658'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1632467'
+  piEmail: sam@endectra.com
+  piFirstName: Samuel
+  piLastName: DeBruin
+  piMiddeInitial: G
+  piPhone: '2406722451'
+  poName: Richard Schwerdtfeger
+  date: 08/09/2016
+  startDate: 08/15/2016
+  expDate: 01/31/2019
+  title: 'SBIR Phase II:  Novel Solid-State Cerenkov Detector for Portable and Wearable
+    Neutron Radiation Sensors'
 - abstractText: |-
     The broader impact/commercial potential of this project is to create a suite of consumer hardware and software products that provide realistic tactile feedback to users who are touching objects in virtual reality (VR) and augmented reality (AR). As evidenced by the current proliferation of low-cost head-mounted displays and motion tracking systems, three-dimensional interaction technologies are revolutionizing how people interact with computers, media, and each other. Since they are currently limited to vision and audio, endowing consumer-level human-computer interfaces with high-fidelity tactile feedback will vastly increase user immersion, making games more fun, online interactions more effective, and tools more efficient. Consequently, this project has the potential to expand the commercial reach of the burgeoning VR/AR market, opening up myriad opportunities for companies particularly in the gaming, entertainment, and e-commerce sectors. The innovation of this project also promises to enhance scientific and technological understanding of haptic human-computer interaction by establishing a new paradigm that blends minimal wearable hardware with sophisticated software algorithms. Finally, commercializing novel interactive technology also has the potential to help inspire a diverse array of young people to pursue a career in the critical areas of science, technology, engineering, and math.
 
@@ -5733,6 +6379,52 @@
   expDate: 11/30/2017
   title: 'SBIR Phase II:  Computer-Aided Mosaic Design and Construction'
 - abstractText: |-
+    The broader impact/commercial potential of this project is clear from the size of the market in warehousing and logistics. The Bureau of Labor Statistics estimates that the annual cost of moving inventory by hand in warehouses is 5 billion dollars. Industry is eager to adopt new robotic technology, and it has already made a significant impact in many aspects of this problem, speeding shipments and lowering costs. However, handling individual items has not yet proven viable when the range of objects is large. The grasping robot developed in this project will meet this need, and reduce the cost of logistics for manufacturers, distributors, and customers. Additionally, the creation of robot grasping systems that can automatically grasp a wide range of objects will open up the benefits of robotic technology to workers in other industries. This is critical to making robots accessible to small manufacturing shops, and will significantly improve the performance of telepresence systems used for military, rescue, and consumer applications such as home assistance for the elderly.
+
+    This Small Business Technology Transfer Research (STTR) Phase I project is based on a decade of university research on the design and construction of robots for grasping using passive mechanisms. Through the carefully tuned structural compliance of the fingers, robot hands can be designed to compensate for variation in the size, shape and location of grasped objects to obtain reliable grasps. During the course of this project, a commercial product will be developed capable of picking and placing a wide range of items at extremely low error rates, something that has hitherto been considered a hard problem in sensing and planning. The new compliant grippers, combined with breakthroughs in low-cost tactile sensing and simplified grasp planning, will enable a level of performance that meets the needs of real-world customers. The new picking robot will be validated against a set of realistic items picked from bins in a simulated warehouse environment.
+  awardeeAddress: 21 Wendell St Apt 20
+  awardeeCity: Cambridge
+  awardeeCountryCode: US
+  awardeeName: RightHand Robotics, LLC
+  awardeeStateCode: MA
+  awardeeZipCode: 021381850
+  fundsObligatedAmt: '224977'
+  fundProgramName: STTR PHASE I
+  id: '1448975'
+  piEmail: lael@righthandrobotics.com
+  piFirstName: Lael
+  piLastName: Odhner
+  piMiddeInitial: U
+  piPhone: '6175010085'
+  poName: Muralidharan S. Nair
+  date: 12/19/2014
+  startDate: 01/01/2015
+  expDate: 12/31/2015
+  title: 'STTR Phase I:  Versatile Robot Hands for Warehouse Automation'
+- abstractText: |-
+    The broader impact/commercial potential of this project affects one of the fastest-growing sectors of the US economy. E-commerce sales in 2015 accounted for 7.4% of total U.S. retail and are expected to rapidly rise. The potential for the commercial impact of general each-picking systems is high, as current manual labor methods are pain points for distribution centers; human picking is unpleasant, expensive and inefficient due to high absenteeism, high turnover and human error. The success of the proposed technology will also contribute to American competitiveness in the robotics industry. Of the top 20 distribution system integrators, only three are currently based in the U.S. Robotics is going to be the key driver of progress in this area, where each-picking, our core product capability, is a key component of future automated distribution systems. Beyond warehousing logistics, applications that our technology can benefit include: broad applications of industrial automation and manufacturing; military applications (e.g., IED disposal, where robots can perform tasks that are dangerous for humans to perform); and assistive healthcare (e.g., where robots must be compliant enough to be safe around humans while interacting successfully with unknown environments).
+
+    This Small Business Innovation Research Phase II project will focus on the development of a state-of-the-art each-picking robotic system and its deployment, initially targeted at the order fulfillment industry. To date, robotic systems have enabled significant progress on transporting inventory on shelves or in totes. However, there has not yet been a deployed system that can perform the task of picking individual items from inventory bins and placing them in boxes for shipment. During Phase I of this project, RightHand Robotics developed a picking system far in advance of the research literature on robotic grasping, picking tens of thousands of items previously unseen objects, with error rates of less than 0.1%. During Phase II, the project will focus on advancing the state of the art in data-driven refinement of grasp planning using machine learning techniques, and will develop methods for box-packing that exploit the company?s advanced compliant grippers. These improvements will result in an average pick-and-place time of 6 seconds or less and an undetected placement failure rate of fewer one in ten thousand.
+  awardeeAddress: 21 Wendell St Apt 20
+  awardeeCity: Cambridge
+  awardeeCountryCode: US
+  awardeeName: RightHand Robotics, LLC
+  awardeeStateCode: MA
+  awardeeZipCode: 021381850
+  fundsObligatedAmt: '750000'
+  fundProgramName: STTR PHASE II
+  id: '1632460'
+  piEmail: lael@righthandrobotics.com
+  piFirstName: Lael
+  piLastName: Odhner
+  piMiddeInitial: U
+  piPhone: '6175010085'
+  poName: Muralidharan S. Nair
+  date: 08/22/2016
+  startDate: 09/01/2016
+  expDate: 12/31/2018
+  title: 'SBIR Phase II:  Versatile Robot Hands for Warehouse Automation'
+- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is that it will offer the automotive industry higher reliability from the software systems powering automobiles, by enabling runtime monitoring while providing the maximum possible correctness guarantees for the generated monitors.  Cars will be safer and more rigorously assured.  This project will address a slew of recent problems with software failures, security compromises, and other unintentional software behaviors that occur inevitably as systems become more complex, potentially saving lives and making millions of vehicles safer, easier to upgrade, and better tested.  The commercial value follows the need of manufacturers to retain the basic vehicle safety guarantees while pursuing the commercial necessities of competing on complex software-driven features, ultimately minimizing software development costs and expensive car recalls.  The enhanced scientific and technological understanding from this technology will come as it is deployed in the field, giving manufacturers an impetus to formalize and standardize existing requirements, bolstering their understanding of the software systems in the car.  The technology will also foster the formalization of both open and proprietary specifications, further increasing the understanding of complex automotive systems by facilitating complete analysis.
 
     This Small Business Innovation Research (SBIR) Phase I project will for the first time explore the application of provably correct runtime verification software to real-time systems.  An efficient and certifying framework allowing for the expression of a diverse range of specifications will enable applications of runtime verification in automobiles, aeronautics, and beyond.  One research objective is to develop a system that can monitor any safety property, generating high-performance C code capable of running on virtually any hardware.  This will combine efficient monitoring with maximal formal guarantees in terms of correctness.  Formal verification was previously realized only for mathematical models of monitors, or in systems with very low expressiveness.  A second research objective is to study the applicability of runtime verification by collecting properties from automotive industry standards, evaluating the complexity of specifying the properties, the possibility of recovering from detected violations, and the performance requirements of the resulting monitors. It is anticipated that hundreds or even thousands of such properties will be monitored simultaneously.
@@ -5822,6 +6514,127 @@
   expDate: 08/31/2019
   title: 'SBIR Phase II:  A hardware FPGA implementation of H.265/HEVC low latency
     video encoder algorithms for professional applications'
+- abstractText: "This Small Business Innovation Research (SBIR) Phase I project aims
+    to evaluate the feasibility of customized next generation nanoscale technology
+    which enables high volume manufacture of integrated circuits, leading to faster
+    computing power and performance. Current progress in reaching next generation
+    performance is limited by significant technical challenges in meeting high volume
+    manufacturing requirements driving up the cost of electronics. These problems
+    have plagued the industry for over 10 years. The research activity here considers
+    alternative approaches in addressing   the production rate issues which ultimately
+    reduce cost to chipmakers and reduce energy consumption in the semiconductor industry,
+    thereby providing greener high performance electronics at lower cost. \n\nThe
+    broader impact/commercial potential of this project are firstly to accelerate
+    the arrival of next generation computing technology creating faster, smaller more
+    powerful mobile devices and providing evolutionary advances in quality of life
+    for a globally-social electronic community, and secondly to develop electronics
+    which meet the world?s demand at reasonable cost and without substantial adverse
+    impact on the environment, and thirdly to maintain the competitiveness in global
+    supply and accessibility of next generation electronics."
+  awardeeAddress: 4225 Executive Sq Ste 490
+  awardeeCity: La Jolla
+  awardeeCountryCode: US
+  awardeeName: Astrileux Corporation
+  awardeeStateCode: CA
+  awardeeZipCode: '920378411'
+  fundsObligatedAmt: '150000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1343877'
+  piEmail: supriya@astrileux.com
+  piFirstName: Supriya
+  piLastName: Jaiswal
+  piPhone: '8585312432'
+  poName: Steven Konsek
+  date: 12/19/2013
+  startDate: 01/01/2014
+  expDate: 06/30/2014
+  title: 'SBIR Phase I:  Novel Technologies to Enable High Volume EUV Manufacturing
+    of Integrated Circuits'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to drive the next generation of advanced computing power and performance, by manufacturing integrated circuits, the fundamental units of electronic systems, at length scales of 7 nm and smaller. Today?s central processing units (CPUs) each contain 7.2 Bn chips and over 1.2 sextillion chips are manufactured per year to meet computing demands. Next generation technology is expected to enable artificial intelligence and machine learning through both conventional computing and potentially neuromorphic paradigms, bringing to reality transformative applications such as self-driving cars and smart buildings. As Moore?s law continues to set the pace of technological advancement, chipmakers will deploy new EUV (Extreme Ultraviolet) lithography tools, using light of 13.5 nm to pattern integrated circuits or chip architecture into silicon wafers, for the next three generations of technology. Chipmakers strive to bring about the readiness of EUV technology in 2019. The global demand for next generation electronics is forever increasing as the population grows above 7 Bn. However, the global supply of electronics constantly faces challenges to reduce costs and deliver technology beyond Moore?s Law.
+
+    The proposed project addresses the challenges related to high volume manufacturing at the 7 nm node for lithography tools and its components. For example, an EUV photomask, a high commodity component, patterns and replicates integrated circuit design into silicon wafers. Current EUV photomasks have a sub-optimal manufacturing yield of ~60% and suffer from defectivity which arises during fabrication of its architecture. During operational use the photomask sustains damage from the debris generated by the EUV plasma light source that implants in the mask and inevitably replicates in the wafer, destroying the integrated chip pattern. In high volume manufacturing, these issues manifest in the wafer yield, the reusability of a mask, and drive the need for high cost real-time inspection and metrology. A new EUV photomask which promises greater robustness to defects, a higher manufacturing yield, more reusability of masks in operations and a longer lifetime is presented. The goals of the project are to evaluate new integrated architecture for the EUV mask design, develop a higher yield fabrication process and characterize the EUV performance. More robust photomasks reduce the capital outlay required for in-situ metrology and inspection and ultimately bring down the cost of next generation electronics.
+  awardeeAddress: 4225 Executive Sq Ste 490
+  awardeeCity: La Jolla
+  awardeeCountryCode: US
+  awardeeName: Astrileux Corporation
+  awardeeStateCode: CA
+  awardeeZipCode: '920378411'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1747341'
+  piEmail: supriya@astrileux.com
+  piFirstName: Supriya
+  piLastName: Jaiswal
+  piPhone: '8585312432'
+  poName: Richard Schwerdtfeger
+  date: 12/18/2017
+  startDate: 01/01/2018
+  expDate: 12/31/2018
+  title: 'SBIR Phase I:  High Fidelity EUV PhotoMasks'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project are to accelerate the arrival of next generation
+    computing technology creating faster, smaller more powerful mobile devices, renewing
+    the expected technological pace of development set by Moore's law, and to enable
+    global access to next generation electronics. The technology developed here will
+    enable new extreme ultraviolet lithography in semiconductor manufacturing.  The
+    developments will promote learning, understanding and capability in commercialization
+    and scalability of nanotechnology engineering. \n\nThis Small Business Innovation
+    Research (SBIR) Phase II project aims to evaluate the feasibility of new extreme
+    ultraviolet (EUV) technologies which enable high volume manufacture of Integrated
+    Circuits at 14nm and smaller. Currently capital equipment manufacturers are facing
+    significant challenges in meeting the International Technology Roadmap for Semiconductors
+    requirements for high volume manufacturing of integrated circuit chips.  This
+    has caused severe ramifications to chipmakers on the success of next generation
+    IC manufacturing and fabrication facility costs. Successful results from the work
+    proposed would represent notable progress in high volume manufacturing using EUV
+    capital equipment. The intellectual merit of this proposed work forms the basis
+    of new state of the art industry architecture designed for volume manufacturing;
+    a pursuit that would subsequently encourage new markets and applications using
+    next generation technology overcoming cost challenges in high volume manufacturing
+    processes."
+  awardeeAddress: 4225 Executive Sq Ste 490
+  awardeeCity: La Jolla
+  awardeeCountryCode: US
+  awardeeName: Astrileux Corporation
+  awardeeStateCode: CA
+  awardeeZipCode: '920378411'
+  fundsObligatedAmt: '1048654'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1457418'
+  piEmail: supriya@astrileux.com
+  piFirstName: Supriya
+  piLastName: Jaiswal
+  piPhone: '8585312432'
+  poName: Linda Molnar
+  date: 02/18/2015
+  startDate: 03/01/2015
+  expDate: 08/31/2018
+  title: 'SBIR Phase II:  Novel Technologies to Enable High Volume, Extreme Ultraviolet
+    Manufacturing of Integrated Circuits'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be high performance error correction for flash memory. Error correction plays a critical row in making digital devices reliable. Shrinking semiconductor geometries results in more errors. This has created a special problem for flash memory where the need for more rigorous error correction is approaching a practical limit with the widely used Bose Chaudhuri Hocquengham error correction. Low Density Parity Check (LDPC) is a recognized solution that  can approach the theoretical limits of what is possible. This LDPC based technology can improve lifetime of flash by without the added cost of the existing BCH solution. This technology helps Flash Memory enterprises to use higher density flash to improve storage capacity and cut the storage product costs. Without the superior performance, small size and low power consumption of the LDPC technology, the migration to low cost high capacity flash memories will be seriously slowed. In the absence of a comparable alternative approach, there will be serious limitations on the performance of a vast array of products that depend on highly reliable and economical flash storage.
+
+    This Small Business Innovation Research (SBIR) Phase II project will use a variety of  techniques to minimize the area and power requirements and enhance the performance of Low Density Parity Check (LDPC) error correction codes for flash memory. Many of these techniques are applicable to a wide range of error correction applications in digital communication and storage from WiFi to hard disk drives. The need for better error correction is crucial for flash memory but there is a widening demand for improved error correction. For example larger memories require better error correction to insure the system failure rate is low. In the next two years the company expects to develop a Verilog version of the LDPC decoder that is easily integrated with a flash controller. The project will work with potential customers/partners to ensure the code works with controllers. In the long run these techniques can be adapted to a wide range of applications as the need for more reliable data continues to rapidly expand.
+  awardeeAddress: 1920 W Villa Maria Rd, Ste 301
+  awardeeCity: Bryan
+  awardeeCountryCode: US
+  awardeeName: TexasLDPC Inc., dba Symbyon Systems
+  awardeeStateCode: TX
+  awardeeZipCode: '778074864'
+  fundsObligatedAmt: '909999'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1632562'
+  piEmail: paul@texasldpc.com
+  piFirstName: Paul
+  piLastName: Budnik
+  piPhone: '4083533824'
+  poName: Richard Schwerdtfeger
+  date: 08/15/2016
+  startDate: 09/01/2016
+  expDate: 02/28/2019
+  title: 'SBIR Phase II:  Area and Energy Efficient Error Floor Free Low-Density Parity-Check
+    Codes Decoder Architecture for Flash Based Storage'
 - abstractText: "The broader impact/commercial potential of this Small Business Innovation
     Research (SBIR) Phase I project will be the enhanced ability to monitor Nitrogen
     Oxides (NOx) optically using a novel approach that is fundamentally different
