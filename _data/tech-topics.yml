@@ -421,7 +421,17 @@
   subtopics:
     - Quantum Information Technologies (IT3)
   companies: 
-
+    - name: QC Ware Corp.
+    - name: DeepScale, Inc
+    - name: Openspace
+    - name: Stateless, Inc
+    - name: KANDRA LABS INC
+    - name: Intentionet, Inc.
+    - name: GrokStyle Inc.
+    - name: Bay Labs, Inc.
+    - name: Mental Canvas, LLC
+    - name: InsightFinder Inc.
+    
 - topic: Robotics (EW)
   permalink: /topics/robotics/
   topic_code: r-ew
