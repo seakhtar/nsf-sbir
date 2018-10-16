@@ -2,7 +2,7 @@
 - month: Jan
   events:
     - eventname: Consumer Electronics Show (CES)
-      href: https://ces.tech/Register-Plan.aspx
+      href: https://www.ces.tech/
       desc: Find program staff in Eureka Park.
     - eventname: J.P. Morgan Healthcare Conference
       href: https://www.jpmorgan.com/global/healthcareconference
@@ -34,9 +34,6 @@
       href: https://www.mitenergyconference.org/
 - month: May
   events:
-    - eventname: National SBIR Conference
-      href: https://www.techconnectworld.com/
-      desc: Join NSF and other government agencies with similar programs for the annual conference.
     - eventname: Collision Conference
       href: https://collisionconf.com/
 - month: Jun
@@ -51,7 +48,10 @@
     - eventname: Forbes Women's Conference
       href: https://www.forbes.com/forbes-live/event/womens-summit-2018/
     - eventname: Women in Technology Summit
-      href: https://www.witi.com/conferences/2018/summit/business-and-technology-expo.php 
+      href: https://www.witi.com/conferences/2018/summit/business-and-technology-expo.php
+    - eventname: National SBIR Conference
+      href: https://www.techconnectworld.com/SBIRSpring2019/
+      desc: Join NSF and other government agencies with similar programs for the annual conference.
     - eventname: Kauffman's ESHIP Summit
       href: http://www.kauffman.org/what-we-do/events/the-eship-summit 
     - eventname: WEAR Conference
@@ -62,7 +62,7 @@
       href: http://www.sbirroadtour.com/
       desc: NSF program directors join other funding agencies on a bus tour to speak about funding opportunities.
     - eventname: New York Venture Summit
-      href: https://www.youngstartup.com/events/
+      href: https://www.youngstartup.com/events.php
       desc: NSF staff introduces investors and startups to the program.
     - eventname: ARPA-E's Tech Showcase
       href: https://arpa-e.energy.gov//
