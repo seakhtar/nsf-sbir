@@ -104,7 +104,7 @@ Follow the instructions on the below screen, then click **"Upload File"** to upl
 **Reference the current solicitation for restrictions and explanations of what NSF requires and what NSF allows in the Supplementary Documents. Items beyond those  specifically requested and permitted should not be included.** You are encouraged to compile and convert all of your Supplementary Documents into a single PDF file and  upload using the "Transfer File" button below.
 
 Type/Upload your necessary information in the below text box. When this section is completed, click **"Go Back"**" to return to the "Proposal Actions" screen.
-![Other Supplementary Docs file upload screen]({{ site.baseurl }}/assets/img/fastlane/Sep-otherSupplementaryDocs2.png)
+![Other Supplementary Docs file upload screen]({{ site.baseurl }}/assets/img/fastlane/Sep-otherSupplementaryDoc2.png)
 
 Follow the instructions on the below screen, then click "Upload File" to upload document. Click "Go Back" until you return to the "Proposal Actions" screen.
 ![Other Supplementary Docs file upload screen 2]({{ site.baseurl }}/assets/img/fastlane/43-other-supplementary-docs2.jpg)
