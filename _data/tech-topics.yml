@@ -17,7 +17,7 @@
     - Personalized Manufacturing / Maker Manufacturing / Maker to Manufacturer (M6)
     - Transportation Technologies (M7)
     - Human-Centric Industrial Technologies (M8)
-    - Sustainable Manufacturing Technolog (M9)
+    - Sustainable Manufacturing Technology (M9)
   companies:
     - name: 3DEO, Inc.
     - name: XPEED Turbine Technology LLC
@@ -126,7 +126,7 @@
   subtopics:
     - Advanced Chemical Processes and Products (CT1)
     - Catalytic Products and Processes (CT2)
-    - Novel Catalysts and Processes (CT3)
+    - Power Generation and Advanced Infrastructure (CT3)
     - Advanced Hydrocarbons, Petrochemicals and Natural Resources(CT4)
     - Advanced Energy Technologies (CT5)
     - Data Technologies, Sensing and Analytics for Chemicals, and/or Energy (CT6)
@@ -173,14 +173,14 @@
       photo: Anna-compressed.jpg
       bio: "joined the National Science Foundation as SBIR/STTR Program Director leading Chemical and Environmental Technologies. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous start-ups having worked as: an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of ~30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning: nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the US Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a BS in Chemical Engineering and BA in Spanish from The Johns Hopkins University."
   subtopics:
+    - Advanced Protocols - Blockchain, DAGs, and Next Gen Protocols (DL1)
     - Cryptography and Security, Identity and Anonymity Solutions, Trusted Devices (DL2)  
-    - Advanced Protocols- Blockchain, DAGs, and Next Gen Protocols (DL1)
     - Smart Contracts, Next-Generation Financial Technologies (DL3)
     - Scalability Solutions, Enhanced Consensus Methods, Organizational Structures (DL4)
     - Human to Technology Interface Innovations, Disruptive Business Model Innovations for Distributed Ledger Technologies (DL5)
-    - Distributed Ledger Convergence with Sensing, Big Data, AI, and IoT (DL6)
+    - Distributed Ledger Convergence with Sensing, Big Data, AI, and IoT(DL6)
     - Autonomous Systems and Economies (DL7)
-    - Other Technologies and Approaches Potentially Relevant to Distributed Ledger (DL8)
+    - Other Technologies and Approaches Potentially Relevant to Distributed Ledge (DL8)
   companies:
     
 - topic: Educational Technologies and Applications (EA)
@@ -201,7 +201,7 @@
     - Social and Behavioral Education (EA5)
     - Entrepreneurial, Informal and Maker Education (EA6)
     - Computer Science, Computer Engineering, and Information Technology Education (EA7)
-    - Learning Assessments(EA8)
+    - Learning Assessments (EA8)
     - Language Applications (EA9)
     - Capacity Building, Education, and Training for the Emerging Fourth Sector Eco-system (EA10)
     - Other Education-Related Topics (EA11)
@@ -246,9 +246,9 @@
       photo: Anna-compressed.jpg
       bio: "joined the National Science Foundation as SBIR/STTR Program Director leading Chemical and Environmental Technologies. In this role she brings breadth of background across entrepreneurship and venture capital, innovative research, and direction of corporate strategy and investments. Anna has served as a collaborator with numerous start-ups having worked as: an inventor for an early stage venture-backed start-up providing low-cost, low-energy portable water treatment, and a Principal Investor for an early stage venture firm. Anna’s contributions were recognized in 2009 when she was selected as one of ~30 Kauffman Fellows from around the globe, for leadership in innovation and venture capital. She served as Director of Corporate Strategy for leading multinationals including The AES Corporation and Cummins Inc., and advised numerous clients while serving as a management consultant for The Boston Consulting Group. Anna’s work in these roles resulted in over $6B of infrastructure investments with enhanced returns, identification of $B+ cost reduction opportunities, contributing to a core transformation team of a $T+ entity in oil & gas, and the implementation of several new technologies spanning: nanotechnology, advanced manufacturing, Big Data and Internet of Things, along with new equipment that enabled transforming energy economics. Earlier in her career, she performed research at the intersection of innovation and international relations with the Office of Naval Research at the US Embassy in Chile. Anna holds a PhD from Yale University in Chemical and Environmental Engineering, where she held a National Science Foundation Graduate Research Fellowship; and a BS in Chemical Engineering and BA in Spanish from The Johns Hopkins University."
   subtopics:
-    - CT7. Water Treatment (CT17)
+    - Water Treatment (CT7)
     - Agricultural and Food Technologies (CT8)
-    - Environmental Health, Green Chemistry (C19)
+    - Environmental Health, Green Chemistry (C9)
     - Resource Efficiency, Renewable Resources (CT10)
     - Technologies for Extreme Environments (CT11)
     - Environmental Security and Defense (CT12)
@@ -272,17 +272,16 @@
   subtopics:
   - Artificial Intelligence, Machine Learning, and Natural Language Processing (IT1)
   - Image and Video (IT2)
-  - Quantum Information Technologies (IT3)
-  - Cybersecurity, Authentication, and Privacy (IT4)
-  - Cybersecurity for the Internet of Things (IT5)
-  - Networking Technology (IT6)
-  - Mobile Computing and Internet of Things (IT7)
-  - Cloud Computing and High-performance Computing (IT8)
-  - Cloud-based IT Services (IT9)
-  - Big Data and Advanced Analytics (IT10)
-  - Human-Computer Interaction, Virtual Reality, and Augmented Reality (IT11)
-  - Social Media and Collaborative Networking (IT12)
-  - Software (IT13)
+  - Cybersecurity, Authentication, and Privacy (IT3)
+  - Cybersecurity for the Internet of Things (IT4)
+  - Networking Technology (IT5)
+  - Mobile Computing and Internet of Things (IT6)
+  - Cloud Computing and High-performance Computing (IT7)
+  - Cloud-based IT Services (IT8)
+  - Big Data and Advanced Analytics (IT9)
+  - Human-Computer Interaction, Virtual Reality, and Augmented Reality (IT10)
+  - Social Media and Collaborative Networking (IT11)
+  - Software (IT12)
   companies:
     - name: QC Ware Corp.
     - name: DeepScale, Inc
