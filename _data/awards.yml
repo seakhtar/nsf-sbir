@@ -1294,7 +1294,7 @@
   poName: Richard Schwerdtfeger
   date: 01/05/2018
   startDate: 01/01/2018
-  expDate: 12/31/2018
+  expDate: 04/30/2019
   title: 'SBIR Phase I:  Enhanced solar-thermal vapor generation for salt mining and
     stilled clean water'
 - abstractText: |-
@@ -6287,6 +6287,31 @@
   expDate: 05/31/2019
   title: 'SBIR Phase I:  Ultra-sensitive Detection of Lipoarabinomannan (LAM) and
     Interferon-Gamma (IFN-g) as Biomarkers for Detection of Tuberculosis (TB)'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to develop protein purification technology that will provide access to inexpensive, purified proteins for biological and life science applications by removing the purification bottleneck in biopharmaceutical production, and leveraging the innovative breakthroughs in protein engineering and gene editing.  Scale-up of this technology will transform the large-scale purification of biopharmaceuticals and lower prescription drug costs - the most important factor contributing to rising healthcare costs.  The major factor influencing the rising cost of healthcare is the skyrocketing costs of pharmaceuticals - up to 40% of the medical plan cost will be drugs by 2025.  Prescription drug costs are the fastest rising component of healthcare and are contributing to the dramatic increase in healthcare costs.  The worldwide focus of pharmacy and biotechnology is now on biopharmaceutical development and production to address this issue.  Direct benefits of this project include low-cost, use of green reagents, and the absence of heavy metal impurities in the purified protein.  In addition, the development of immobilized enzymes using this technology will open new frontiers in biocatalysis, biosensors, diagnostics and protein delivery.
+
+    This SBIR Phase I project proposes to develop protein purification kits for small-scale and research-scale research. Bringing these kits to market will enable researchers to further validate the technology on a broader range of proteins in preparation for scale-up for biopharmaceutical production.  Synthetic biology has quickly begun to revolutionize drug discovery and design by providing a better overall molecular understanding of disease.  However, this potential has yet to be fully realized due to the challenges associated with purifying the target recombinant protein from the thousands of naturally-occurring proteins produced by the expression system.  The three specific aims of the project are: 1) validation of protein tag performance for multiple protein classes and expression systems, 2) development of low-cost methods for protein tag removal from purified proteins, and 3) development of solutions for the purification of low-expressing proteins and the parallel purification of small amounts of proteins.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 580 Wilderness Peak Dr. NW
+  awardeeCity: Issaquah
+  awardeeCountryCode: US
+  awardeeName: Proteios, LLC
+  awardeeStateCode: WA
+  awardeeZipCode: '980275621'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1820325'
+  piEmail: bob@proteios.com
+  piFirstName: Bob
+  piLastName: Snyder
+  piPhone: '5037133339'
+  poName: Ruth M. Shuman
+  date: 05/24/2018
+  startDate: 07/01/2018
+  expDate: 12/31/2018
+  title: 'SBIR Phase I: Removing the Purification Bottleneck in Biopharmaceutical
+    Production'
 - abstractText: "This SBIR Phase I project proposes to develop a minimally-invasive
     device that can be used to treat gastroesophageal reflux disease (GERD) by safely
     injecting a proprietary substance into the base of the esophagus.  GERD is the
@@ -6340,31 +6365,6 @@
   expDate: 11/30/2018
   title: 'SBIR Phase I:  Endoscopic injection device for submucosal esophageal injection
     of bulking agents in the treatment of gastroesophageal reflux disease'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to develop protein purification technology that will provide access to inexpensive, purified proteins for biological and life science applications by removing the purification bottleneck in biopharmaceutical production, and leveraging the innovative breakthroughs in protein engineering and gene editing.  Scale-up of this technology will transform the large-scale purification of biopharmaceuticals and lower prescription drug costs - the most important factor contributing to rising healthcare costs.  The major factor influencing the rising cost of healthcare is the skyrocketing costs of pharmaceuticals - up to 40% of the medical plan cost will be drugs by 2025.  Prescription drug costs are the fastest rising component of healthcare and are contributing to the dramatic increase in healthcare costs.  The worldwide focus of pharmacy and biotechnology is now on biopharmaceutical development and production to address this issue.  Direct benefits of this project include low-cost, use of green reagents, and the absence of heavy metal impurities in the purified protein.  In addition, the development of immobilized enzymes using this technology will open new frontiers in biocatalysis, biosensors, diagnostics and protein delivery.
-
-    This SBIR Phase I project proposes to develop protein purification kits for small-scale and research-scale research. Bringing these kits to market will enable researchers to further validate the technology on a broader range of proteins in preparation for scale-up for biopharmaceutical production.  Synthetic biology has quickly begun to revolutionize drug discovery and design by providing a better overall molecular understanding of disease.  However, this potential has yet to be fully realized due to the challenges associated with purifying the target recombinant protein from the thousands of naturally-occurring proteins produced by the expression system.  The three specific aims of the project are: 1) validation of protein tag performance for multiple protein classes and expression systems, 2) development of low-cost methods for protein tag removal from purified proteins, and 3) development of solutions for the purification of low-expressing proteins and the parallel purification of small amounts of proteins.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 580 Wilderness Peak Dr. NW
-  awardeeCity: Issaquah
-  awardeeCountryCode: US
-  awardeeName: Proteios, LLC
-  awardeeStateCode: WA
-  awardeeZipCode: '980275621'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820325'
-  piEmail: bob@proteios.com
-  piFirstName: Bob
-  piLastName: Snyder
-  piPhone: '5037133339'
-  poName: Ruth M. Shuman
-  date: 05/24/2018
-  startDate: 07/01/2018
-  expDate: 12/31/2018
-  title: 'SBIR Phase I: Removing the Purification Bottleneck in Biopharmaceutical
-    Production'
 - abstractText: |-
     This Small Business Innovation Research Phase I project will develop the process to 3D print continuous fiber reinforced ceramic matrix composite (CMC) components for turbine and combustion engines, hypersonic vehicles, and satellites. CMCs are currently a $2.5b market that is expected to triple over the next decade. The ability to produce CMCs with 3D printing will enable superior designs in current applications, as well as enabling their use in a greater number of components that are currently limited by the higher density and lower temperature capabilities of superalloys such as Inconel and Invar. Developing this manufacturing process will enable more basic materials research by serving as a lower cost testbed for new CMC compositions since a mold is not required and turnaround times are much faster. This will also allow engineers to develop more optimized systems with a faster design cycle. This capability will result in efficiency increases in turbine and combustion engines for substantial improvements in fuel efficiency, reducing costs and environmental impact. Finally, the ability to 3D print CMCs will vastly improve geometric complexity of high temperature components, which will enable the next generation of hypersonic vehicles, supporting national defense.
 
@@ -6932,6 +6932,56 @@
   expDate: 12/31/2018
   title: 'STTR Phase I:  Intelligent Planning and Control Software for EV Charging
     Infrastructure'
+- abstractText: "The broader impact of this Small Business Innovation Research (SBIR)
+    Phase I project is the improved identification of young children who may be at
+    risk for Autism Spectrum Disorder (ASD). Autism is a growing concern as rates
+    continue to increase, however many experts in child development are hopeful that
+    early intervention can help reduce many of the challenges of living with autism.
+    \ As the brain undergoes important critical periods of development in the first
+    year of life, it is important to try and identify opportunities for intervention
+    as early as infancy. However, infants have limited means to express themselves
+    and it can be difficult for parents and even pediatricians to track the subtle
+    behavioral cues that can be indicative of autism at this early age.  The goal
+    of this proposal is to improve access to tools that help make infants developing
+    thinking and social skills more observable to pediatricians and parents. By creating
+    a consumer version of an old technique used by psychologists to understand infant
+    development, this work will increase access to tools to track infants' behaviors
+    related to autism.  \n\nThe proposed project is novel in its repurposing of an
+    established laboratory psychology tool, the nonnutritive sucking paradigm. Basically,
+    psychologists long ago learned that infants will alter their rate of sucking on
+    a pacifier when they are interested in something. Psychologists recorded from
+    a pacifier to gauge what an infant was interested in as well as an infant's growing
+    understanding of language, social interaction, math, and a wide variety of cognitive
+    and social skills. They also allowed infants to control the presentation of sounds
+    or images through their sucking patterns. This SBIR project is creating a more
+    accessible version of this established smart pacifier technique to allow parents
+    and pediatricians to also better track an infant?s interest, preferences, and
+    social and cognitive development. This effort will develop a consumer friendly
+    smart pacifier that can control sounds or images on software or mobile applications.
+    By designing software that replicates the social and cognitive assessment paradigms
+    in psychology laboratories, the smart pacifier system can increase access to objective
+    behavioral assessment tools. Similar to growing evidence in eye-tracking behavior,
+    this behavioral assessment tool can be used to better assess behaviors that have
+    been linked to the future development of autism."
+  awardeeAddress: 19 S Bentz St
+  awardeeCity: Frederick
+  awardeeCountryCode: US
+  awardeeName: Brainchild Technologies L.L.C.
+  awardeeStateCode: MD
+  awardeeZipCode: '217015505'
+  fundsObligatedAmt: '224911'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1746528'
+  piEmail: carly@brainchildtech.org
+  piFirstName: Carly
+  piLastName: Kiselycznyk
+  piPhone: '4109293439'
+  poName: Nancy Kamei
+  date: 12/29/2017
+  startDate: 01/01/2018
+  expDate: 12/31/2018
+  title: 'SBIR Phase I:  Development of a Smart Pacifier to help parents and pediatricians
+    track early signs of Autism Spectrum Disorder'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to ultimately increase the number of women in STEM careers, thus allowing women to secure higher paying jobs and to expand global innovation by increasing the number of women who are inventing future technologies. Research demonstrates a direct connection between play and academic pursuits, yet few STEM products appeal to the 10MM+ pre-adolescent U.S. girls.  Our hypothesis is that by designing an Internet of Things (IoT) platform of interactive decor building kits with motion and lighting features, we can engage girls in hands-on STEM learning during a formative time in their emotional and intellectual development. The kits will offer educational and exploratory opportunities including spatial and sequential thinking, mechanical engineering, electrical engineering, and programming. The user guides and on-line learning modules will be authored and designed to create and build a STEM identity in girls. Our theory is that this hands-on experience will create attitudinal and identity shifts in girls to motivate them to pursue additional STEM academic opportunities and further their exploration with other STEM activities.
 
@@ -7090,56 +7140,6 @@
   expDate: 12/31/2018
   title: 'SBIR Phase I:  Digital Media Synchronization, Performance and Urban Education
     Enhancement'
-- abstractText: "The broader impact of this Small Business Innovation Research (SBIR)
-    Phase I project is the improved identification of young children who may be at
-    risk for Autism Spectrum Disorder (ASD). Autism is a growing concern as rates
-    continue to increase, however many experts in child development are hopeful that
-    early intervention can help reduce many of the challenges of living with autism.
-    \ As the brain undergoes important critical periods of development in the first
-    year of life, it is important to try and identify opportunities for intervention
-    as early as infancy. However, infants have limited means to express themselves
-    and it can be difficult for parents and even pediatricians to track the subtle
-    behavioral cues that can be indicative of autism at this early age.  The goal
-    of this proposal is to improve access to tools that help make infants developing
-    thinking and social skills more observable to pediatricians and parents. By creating
-    a consumer version of an old technique used by psychologists to understand infant
-    development, this work will increase access to tools to track infants' behaviors
-    related to autism.  \n\nThe proposed project is novel in its repurposing of an
-    established laboratory psychology tool, the nonnutritive sucking paradigm. Basically,
-    psychologists long ago learned that infants will alter their rate of sucking on
-    a pacifier when they are interested in something. Psychologists recorded from
-    a pacifier to gauge what an infant was interested in as well as an infant's growing
-    understanding of language, social interaction, math, and a wide variety of cognitive
-    and social skills. They also allowed infants to control the presentation of sounds
-    or images through their sucking patterns. This SBIR project is creating a more
-    accessible version of this established smart pacifier technique to allow parents
-    and pediatricians to also better track an infant?s interest, preferences, and
-    social and cognitive development. This effort will develop a consumer friendly
-    smart pacifier that can control sounds or images on software or mobile applications.
-    By designing software that replicates the social and cognitive assessment paradigms
-    in psychology laboratories, the smart pacifier system can increase access to objective
-    behavioral assessment tools. Similar to growing evidence in eye-tracking behavior,
-    this behavioral assessment tool can be used to better assess behaviors that have
-    been linked to the future development of autism."
-  awardeeAddress: 19 S Bentz St
-  awardeeCity: Frederick
-  awardeeCountryCode: US
-  awardeeName: Brainchild Technologies L.L.C.
-  awardeeStateCode: MD
-  awardeeZipCode: '217015505'
-  fundsObligatedAmt: '224911'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746528'
-  piEmail: carly@brainchildtech.org
-  piFirstName: Carly
-  piLastName: Kiselycznyk
-  piPhone: '4109293439'
-  poName: Nancy Kamei
-  date: 12/29/2017
-  startDate: 01/01/2018
-  expDate: 11/30/2018
-  title: 'SBIR Phase I:  Development of a Smart Pacifier to help parents and pediatricians
-    track early signs of Autism Spectrum Disorder'
 - abstractText: "This Small Business Innovation Research Phase I project will build
     children's motivation to read and help them access books best suited to their
     individual interests, purposes, and abilities. Even though robust research demonstrates
@@ -7186,7 +7186,7 @@
   poName: Rajesh Mehta
   date: 12/27/2017
   startDate: 01/01/2018
-  expDate: 10/31/2018
+  expDate: 01/31/2019
   title: 'SBIR Phase I:  Mia Learning Independent Reading Choice Support System'
 - abstractText: |-
     This SBIR phase I project will develop new reagents to enable cell separation and analysis. Cell separation is a $3.9 billion/yr market with applications in medicine, pharmaceutical, and biological research industries. However, many current schemes perform cell separation and analysis in separate steps. A single reagent that could perform both functions would save time and money, enhancing these industries. The nanoparticle reagent developed by this research possesses magnetic properties to enable cell separation, and fluorescent properties that allow properties of separated cells to be quantified. This research will optimize this product and demonstrate proof-of-concept against the current standard approaches. The proposed product is the result of basic research previously funded by the NSF into methods to combine magnetic and fluorescent reagents, and optimization of this reagent will yield basic knowledge in manufacture and scale-up of these nanomaterials. Successful completion of these goals will lead to a new product that will enable cell separation and analysis with a single reagent, enabling cell separation with high purity and increasing signal used for quantification. These benefits could translate into reduced laboratory healthcare costs with increased diagnostic efficiency, improved pharmaceutical purity, and high tech nanomanufacturing jobs in this burgeoning industry.
@@ -9929,7 +9929,7 @@
   poName: Ruth M. Shuman
   date: 06/21/2017
   startDate: 06/15/2017
-  expDate: 11/30/2018
+  expDate: 02/28/2019
   title: 'STTR Phase I:  De Novo Production of Aroma Compounds by Nonconventional
     Recombinant Yeast'
 - abstractText: "This STTR Phase I project aims to develop a novel microfluidic sensor
@@ -11140,7 +11140,7 @@
   piLastName: Arrasmith
   piMiddeInitial: L
   piPhone: '4065700147'
-  poName: Ben Schrag
+  poName: Steven Konsek
   date: 09/14/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -13351,7 +13351,7 @@
   piLastName: King
   piMiddeInitial: E
   piPhone: '5039393571'
-  poName: Ben Schrag
+  poName: Steven Konsek
   date: 09/17/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -13495,7 +13495,7 @@
   piLastName: Moldovan
   piMiddeInitial: A
   piPhone: '6308658291'
-  poName: Ben Schrag
+  poName: Steven Konsek
   date: 09/14/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -19540,6 +19540,32 @@
   expDate: 05/31/2019
   title: 'SBIR Phase II:  Real-Time Rehab to Improve Gait Symmetry in Amputees'
 - abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project aims to develop a suite of screen-printed receive coils for Magnetic Resonance Imaging (MRI), that are flexible, lightweight, low-cost and adapted to the entire population from infants to adults. MRI is widely used to establish a broad variety of clinical diagnosis, but suffers from long examination times and a high rate of failure, resulting in a yearly loss of more than $4 billion in the United States alone. Printed receive coils are extremely flexible, lightweight, and conform well to the human body. With this technology, coils can be designed and manufactured inexpensively to fit all patient sizes, thus improving image quality and enabling robust acceleration of the method. These benefits can contribute to increase the success rate of MRI exams, speed up procedure time, enhance the clinical workflow, and reduce equipment costs. Printed coils will improve the quality of care offered by MRI suites and increase the availability and use of MRI to a wider patient population. Overall, this project will develop a clinical-ready system capable of delivering the full economic and clinical benefits of printed coils, which will contribute to a reduction of the healthcare costs associated with MRI.
+
+    This project aims to fully realize a clinical-ready system consisting of a collection of printed, flexible lightweight MRI coil arrays, and connecting to a single universal cable to interface with the MRI scanner. A first part of the project will focus on the design of the cable and the associated connection scheme allowing interchange of multiple printed coil arrays of different sizes. Different strategies will be examined with the intent of maintaining high performance and safety while maximizing the advantages brought by printing. A second project goal will focus on the development of a collection of printed coil arrays for patient sizes ranging from newborn to adult, that are compatible with the universal cable and for both 3T and 1.5T scanners. The arrays will be designed for body imaging and will consist of 32-channel devices divided into 16-channel posterior and anterior portions. Their performance will be compared to a commercial 32-channel product. The final system will meet all the safety requirements for medical use and will be ready to be manufactured at scale.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 279 Rheem Boulevard
+  awardeeCity: Moraga
+  awardeeCountryCode: US
+  awardeeName: InkSpace Imaging, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '945561540'
+  fundsObligatedAmt: '750000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1831253'
+  piEmail: b.lechene@inkspaceimaging.com
+  piFirstName: Pierre
+  piLastName: Lechene
+  piMiddeInitial: B
+  piPhone: '6268079276'
+  poName: Steven Konsek
+  date: 09/19/2018
+  startDate: 09/15/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  A suite of flexible printed MRI coils for newborn to adult
+    patients'
+- abstractText: |-
     This Small Business Technology Transfer (STTR) Phase II project will develop a new tool for the analysis of in situ indican precursor in indigo plants, which when combined with genomic analysis and genetic linkage mapping in selectively bred indigo crops, will lead to high indican yielding breeding parental lines and ultimately competitively price natural indigo dye.  Additionally, characterization of genetic markers will accelerate further crop improvement by understanding and harnessing the genes crucial to indican synthesis and other aspects of significance to overall indigo yield. These advancements will benefit customers, denim mills, by leading to a more reliable, lower cost plant-derived indigo supply. The success of this multiphase STTR project will enable a cost-competitive, cleaner, and more sustainable denim dyeing process, while greatly expanding the market for domestically produced natural indigo.  Commercialization of a more consistent and higher yielding US-grown indigo plant that produces high purity indigo powder can replace the current standard of synthetic, imported indigo powder. While in demand by the marketplace today, plant-derived indigo is currently only used in premium denim products due to the high cost per pound resulting from low yields per plant per acre. The direct result of this research will be to open new market segments and expand existing market penetration for US-grown and manufactured biobased indigo for the textile industry, an addressable market of $1.86B. The methods and technology developed through this project have a direct path to the commercial marketplace and the industry is ready to support biobased textile dyes such as plant-derived indigo.
 
     During this project, reference genome resources will be constructed for indigo feedstock crops, F1 mapping populations will be constructed for P. tinctoria, I. tinctoria, and I. suffruticosa varieties, and design of the handheld rapid assay device will be validated through laboratory analysis. The reference genome for I. suffruticosa will be built using Pacific Biosciences SMRT sequencing and assembly.  In addition to this reference genome, whole-genome resequencing will be performed on available I. suffruticosa and I. tinctoria varieties.  Nucleotide variation and variant effect prediction will be made between the Indigofera-based indigo varieties.  This variation will be used to develop markers to evaluate intervarietal crosses. Controlled greenhouse crosses of three species will be made to create F1 mapping populations for use in constructing a genetic map and linkage mapping, in combination with the resources developed.  Intraspecies varieties exhibiting distinct phenotypic traits of commercial interest or notable dye yield differences will be selected for crossing to generate the F1 populations. Results from laboratory-based fluorometry equipment will be evaluated for efficacy and then compared against extractive indigo dye analysis from the leaf biomass.  A final prototype will be constructed based on these findings and validated through use in the laboratory and in the field.
@@ -19564,32 +19590,6 @@
   expDate: 08/31/2020
   title: 'STTR Phase II:  Novel Analysis Tools for Production of Higher Indican Yielding
     Plants for Bio-based Indigo'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project aims to develop a suite of screen-printed receive coils for Magnetic Resonance Imaging (MRI), that are flexible, lightweight, low-cost and adapted to the entire population from infants to adults. MRI is widely used to establish a broad variety of clinical diagnosis, but suffers from long examination times and a high rate of failure, resulting in a yearly loss of more than $4 billion in the United States alone. Printed receive coils are extremely flexible, lightweight, and conform well to the human body. With this technology, coils can be designed and manufactured inexpensively to fit all patient sizes, thus improving image quality and enabling robust acceleration of the method. These benefits can contribute to increase the success rate of MRI exams, speed up procedure time, enhance the clinical workflow, and reduce equipment costs. Printed coils will improve the quality of care offered by MRI suites and increase the availability and use of MRI to a wider patient population. Overall, this project will develop a clinical-ready system capable of delivering the full economic and clinical benefits of printed coils, which will contribute to a reduction of the healthcare costs associated with MRI.
-
-    This project aims to fully realize a clinical-ready system consisting of a collection of printed, flexible lightweight MRI coil arrays, and connecting to a single universal cable to interface with the MRI scanner. A first part of the project will focus on the design of the cable and the associated connection scheme allowing interchange of multiple printed coil arrays of different sizes. Different strategies will be examined with the intent of maintaining high performance and safety while maximizing the advantages brought by printing. A second project goal will focus on the development of a collection of printed coil arrays for patient sizes ranging from newborn to adult, that are compatible with the universal cable and for both 3T and 1.5T scanners. The arrays will be designed for body imaging and will consist of 32-channel devices divided into 16-channel posterior and anterior portions. Their performance will be compared to a commercial 32-channel product. The final system will meet all the safety requirements for medical use and will be ready to be manufactured at scale.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 279 Rheem Boulevard
-  awardeeCity: Moraga
-  awardeeCountryCode: US
-  awardeeName: InkSpace Imaging, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '945561540'
-  fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831253'
-  piEmail: b.lechene@inkspaceimaging.com
-  piFirstName: Pierre
-  piLastName: Lechene
-  piMiddeInitial: B
-  piPhone: '6268079276'
-  poName: Ben Schrag
-  date: 09/19/2018
-  startDate: 09/15/2018
-  expDate: 08/31/2020
-  title: 'SBIR Phase II:  A suite of flexible printed MRI coils for newborn to adult
-    patients'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project can lead to a revolution in 3D microgeometry and reflectance properties measurement of object surfaces at the micron-scale range. The proposed technology will significantly improve photorealistic rendering in digital prototyping, and therefore reduce the waste from using physical material samples during design, engineering, and manufacturing. This technology will help reduce product development time and cost, and lead to a greater sustainability.
 
@@ -25635,7 +25635,7 @@
   poName: Anita J. LaSalle
   date: 01/13/2016
   startDate: 01/15/2016
-  expDate: 12/31/2018
+  expDate: 12/31/2019
   title: 'I-Corps Sites:  Tennessee Technological University'
 - abstractText: "This is a project from Howard University that establishes an I-Corps
     Site with Hampton University. NSF Innovation Corps (I-Corps) Sites are NSF-funded
@@ -27269,7 +27269,7 @@
   poName: Anita J. LaSalle
   date: 03/11/2015
   startDate: 03/15/2015
-  expDate: 02/28/2019
+  expDate: 02/29/2020
   title: 'I-Corps Site:  Oregon State University Advantage Accelerator Program Enhancements
     Toward an NSF I-Corps Site'
 - abstractText: |-
@@ -27585,7 +27585,7 @@
   poName: Anita J. LaSalle
   date: 02/03/2016
   startDate: 02/01/2016
-  expDate: 01/31/2019
+  expDate: 01/31/2020
   title: 'I-Corps Sites:  Jackson State University Center for Innovation and Entrepreneurship'
 - abstractText: "This project, from Washington State University (WSU) creates an I-Corps
     Site at this institution.\n\nNSF Innovation Corps (I-Corps) Sites are NSF-funded
@@ -32821,6 +32821,78 @@
   expDate: 12/31/2018
   title: 'I-Corps: Nanomembranes for Cancer Detection and Surveillance'
 - abstractText: |-
+    The broader impact/commercial potential of this I-Corps project includes the development of an imaging system which addresses the current clinical need for a non-invasive imaging methodology that could image the skin over its depth with high resolutions while offering large histopathological contrasts between malignant and normal tissues. This will provide invaluable assistance to dermatologists with respect to improving tumor detection accuracies. The target market for this device would be the global dermatology diagnostic devices market which is expected to reach a value of USD 5.3 billion by the year 2025. Medical professionals who practice dermatology in clinics, established equipment manufacturers, and product distributors are the main stakeholders of this market. The proposed system will be ultimately integrated in a single framework, resulting in a compact (handheld) and real-time imaging device at very low manufacturing costs. By diagnosing tumors at an early stage, the proposed device will save tremendous amounts of time, effort, and patient discomfort and provide significant cost reductions for both the individual patient and the nation?s healthcare system.
+
+    This I-Corps project investigates potential commercial markets for a new skin cancer imaging device developed based on the "Synthetic Ultra-Wideband Millimeter-wave Imaging" approach. In this approach, an ultra-wide imaging bandwidth in the millimeter-wave regime that cannot be realized by any conventional design method is assembled synthetically, resulting in significant improvements in the resolution of the acquired images. This approach is expected to enable the millimeter-wave imaging technology to be applied to skin imaging and skin cancer detection. The proposed technology has proven to be effective through proof-of-concept experiments. Firstly, statistically significant contrasts have been observed between the millimeter-wave dielectric properties of normal skin and two of the most common types of skin cancer, basal cell carcinoma and squamous cell carcinoma. These results verify the potential of the proposed system to provide histopathological-contrast-based evaluations of skin lesions. Furthermore, the feasibility of employing the proposed imaging method for skin cancer detection has been confirmed using realistic skin-mimicking phantoms containing spherical tumor models. The final developed product will be a hand-held, point-of-care millimeter-wave imaging device which provides significantly higher image resolutions compared to the state-of-the-art technology.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: CASTLE POINT ON HUDSON
+  awardeeCity: HOBOKEN
+  awardeeCountryCode: US
+  awardeeName: Stevens Institute of Technology
+  awardeeStateCode: NJ
+  awardeeZipCode: 070305991
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1834928'
+  piEmail: negar.tavassolian@stevens.edu
+  piFirstName: Negar
+  piLastName: Tavassolian
+  piPhone: '6787913478'
+  poName: Nancy Kamei
+  date: 05/31/2018
+  startDate: 07/01/2018
+  expDate: 06/30/2019
+  title: 'I-Corps: Point-of-Care Skin Cancer Imaging Device'
+- abstractText: "The broader impact/commercial potential of this I-Corps project is
+    to bring more usable technology to elderly populations to help them age with greater
+    independence.  Specifically, existing in-home robots could assist a broader cohort
+    of elderly users if the robots were easier to understand and use.  This is an
+    especially timely opportunity as the elderly population is quickly growing in
+    the United States. Elderly users need a robot that can express many internal states
+    through external features, especially in an intuitive and interactive way. Choreographers
+    and theater artists recognize how to convey narrative through context (set), movement
+    (choreography), and commands (dialogue), therefore bringing a special expertise
+    beyond typical product design processes.  Marrying this expertise with robotic
+    hardware development has the potential to produce a significant transformation
+    in how aging adults relate to and take advantage of technology in their homes.
+    \ \n\nThis I-Corps project aims to explore the commercial potential of a three-part
+    design methodology that has been developed to layer robotic systems with greater
+    expressiveness and understandable features. This method 1) creates systems with
+    appropriate expressive bandwidth to communicate internal state to human viewers
+    through motion profiles, 2) helps users understand how to interact with robotic
+    systems through character-driven narrative, and 3) predicts affective responses
+    to these systems, across multiple contexts. Initial results indicate that trust
+    and acceptance of in-home technology can be facilitated with low-cost, simple
+    hardware like LEDs, off-the-shelf servo motors, improved how-to literature, and
+    context-based behavior, with existing, low-cost robot hardware. For example, something
+    as simple as a heart rate monitor has opaque, hard to interpret monitors, confusing
+    multiple-step procedures, and an ominous beeping. This novel approach adds a customizable
+    expressive layer to an existing device like this, creates a character-driven narrative
+    about how the device works, and uses theatrical context which may improve user
+    adoption via priming.\n\nThis award reflects NSF's statutory mission and has been
+    deemed worthy of support through evaluation using the Foundation's intellectual
+    merit and broader impacts review criteria."
+  awardeeAddress: 1901 South First Street
+  awardeeCity: Champaign
+  awardeeCountryCode: US
+  awardeeName: University of Illinois at Urbana-Champaign
+  awardeeStateCode: IL
+  awardeeZipCode: '618207406'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1834893'
+  piEmail: alaviers@gmail.com
+  piFirstName: Amy
+  piLastName: LaViers
+  piMiddeInitial: E
+  piPhone: '8655489232'
+  poName: Nancy Kamei
+  date: 05/31/2018
+  startDate: 07/01/2018
+  expDate: 12/31/2019
+  title: 'I-Corps: Context-Aware Interactive (CAI) Robotic Platform'
+- abstractText: |-
     The broader impact/commercial potential of this I-Corps project is to increase the availability of cost-effective automated 3D bioprinting platforms capable of reconstructing biological tissue in situ. Existing bioprinting technology is limited and only available to institutions with vast amounts of resources, therefore limiting the potential it can bring to both academic and non-academic sectors. In industry, industry, many late stage trials can fail due to inaccurate drug testing and errors in the translational gap when using animal models. As an alternative, testing on 3D printed human tissue models could reduce costs as a valuable intermediate step before proceeding to animal model testing. Second, 3D bioprinting applications in pharmaceutical companies will increase throughput in drug screening. Third, researchers in academia can further advances in 3D biomaterial engineering. Fourth, with the education sector moving towards a Next Generation Science Standards curriculum, bioprinters have immense potential as an innovative tool for hands-on learning in the classroom. Educators can utilize 3D bioprinting as a powerful teaching tool to train and empower the next generation of scientists in pursuing their research. Ultimately, this project aims to create a positive impact and improve technological access worldwide for researchers and students alike.
 
     This I-Corps project is based on a core technology that allows researchers to print various tissue constructs. This bioprinter is able to reconstruct a viable skin construct using human fibroblasts and keratinocytes. The project?s minimum viable product (MVP) is a bioprinter with a multi-modular system using three different technologies. The technologies used in this product enable on-demand biomaterial customization during the construction of a 3D high-fidelity scaffold and precision placement of cells down to the micron level. Together, the combination of these modules creates a versatile product that has broad applications. This development will improve accessibility of the bioprinting technology and will further advancements in tissue engineering.
@@ -33057,78 +33129,6 @@
   startDate: 07/01/2018
   expDate: 12/31/2018
   title: 'I-Corps: Music in the Numbers'
-- abstractText: |-
-    The broader impact/commercial potential of this I-Corps project includes the development of an imaging system which addresses the current clinical need for a non-invasive imaging methodology that could image the skin over its depth with high resolutions while offering large histopathological contrasts between malignant and normal tissues. This will provide invaluable assistance to dermatologists with respect to improving tumor detection accuracies. The target market for this device would be the global dermatology diagnostic devices market which is expected to reach a value of USD 5.3 billion by the year 2025. Medical professionals who practice dermatology in clinics, established equipment manufacturers, and product distributors are the main stakeholders of this market. The proposed system will be ultimately integrated in a single framework, resulting in a compact (handheld) and real-time imaging device at very low manufacturing costs. By diagnosing tumors at an early stage, the proposed device will save tremendous amounts of time, effort, and patient discomfort and provide significant cost reductions for both the individual patient and the nation?s healthcare system.
-
-    This I-Corps project investigates potential commercial markets for a new skin cancer imaging device developed based on the "Synthetic Ultra-Wideband Millimeter-wave Imaging" approach. In this approach, an ultra-wide imaging bandwidth in the millimeter-wave regime that cannot be realized by any conventional design method is assembled synthetically, resulting in significant improvements in the resolution of the acquired images. This approach is expected to enable the millimeter-wave imaging technology to be applied to skin imaging and skin cancer detection. The proposed technology has proven to be effective through proof-of-concept experiments. Firstly, statistically significant contrasts have been observed between the millimeter-wave dielectric properties of normal skin and two of the most common types of skin cancer, basal cell carcinoma and squamous cell carcinoma. These results verify the potential of the proposed system to provide histopathological-contrast-based evaluations of skin lesions. Furthermore, the feasibility of employing the proposed imaging method for skin cancer detection has been confirmed using realistic skin-mimicking phantoms containing spherical tumor models. The final developed product will be a hand-held, point-of-care millimeter-wave imaging device which provides significantly higher image resolutions compared to the state-of-the-art technology.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: CASTLE POINT ON HUDSON
-  awardeeCity: HOBOKEN
-  awardeeCountryCode: US
-  awardeeName: Stevens Institute of Technology
-  awardeeStateCode: NJ
-  awardeeZipCode: 070305991
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1834928'
-  piEmail: negar.tavassolian@stevens.edu
-  piFirstName: Negar
-  piLastName: Tavassolian
-  piPhone: '6787913478'
-  poName: Nancy Kamei
-  date: 05/31/2018
-  startDate: 07/01/2018
-  expDate: 12/31/2018
-  title: 'I-Corps: Point-of-Care Skin Cancer Imaging Device'
-- abstractText: "The broader impact/commercial potential of this I-Corps project is
-    to bring more usable technology to elderly populations to help them age with greater
-    independence.  Specifically, existing in-home robots could assist a broader cohort
-    of elderly users if the robots were easier to understand and use.  This is an
-    especially timely opportunity as the elderly population is quickly growing in
-    the United States. Elderly users need a robot that can express many internal states
-    through external features, especially in an intuitive and interactive way. Choreographers
-    and theater artists recognize how to convey narrative through context (set), movement
-    (choreography), and commands (dialogue), therefore bringing a special expertise
-    beyond typical product design processes.  Marrying this expertise with robotic
-    hardware development has the potential to produce a significant transformation
-    in how aging adults relate to and take advantage of technology in their homes.
-    \ \n\nThis I-Corps project aims to explore the commercial potential of a three-part
-    design methodology that has been developed to layer robotic systems with greater
-    expressiveness and understandable features. This method 1) creates systems with
-    appropriate expressive bandwidth to communicate internal state to human viewers
-    through motion profiles, 2) helps users understand how to interact with robotic
-    systems through character-driven narrative, and 3) predicts affective responses
-    to these systems, across multiple contexts. Initial results indicate that trust
-    and acceptance of in-home technology can be facilitated with low-cost, simple
-    hardware like LEDs, off-the-shelf servo motors, improved how-to literature, and
-    context-based behavior, with existing, low-cost robot hardware. For example, something
-    as simple as a heart rate monitor has opaque, hard to interpret monitors, confusing
-    multiple-step procedures, and an ominous beeping. This novel approach adds a customizable
-    expressive layer to an existing device like this, creates a character-driven narrative
-    about how the device works, and uses theatrical context which may improve user
-    adoption via priming.\n\nThis award reflects NSF's statutory mission and has been
-    deemed worthy of support through evaluation using the Foundation's intellectual
-    merit and broader impacts review criteria."
-  awardeeAddress: 1901 South First Street
-  awardeeCity: Champaign
-  awardeeCountryCode: US
-  awardeeName: University of Illinois at Urbana-Champaign
-  awardeeStateCode: IL
-  awardeeZipCode: '618207406'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1834893'
-  piEmail: alaviers@gmail.com
-  piFirstName: Amy
-  piLastName: LaViers
-  piMiddeInitial: E
-  piPhone: '8655489232'
-  poName: Nancy Kamei
-  date: 05/31/2018
-  startDate: 07/01/2018
-  expDate: 12/31/2018
-  title: 'I-Corps: Context-Aware Interactive (CAI) Robotic Platform'
 - abstractText: |-
     The broader impact/commercial potential of this I-Corps project are two-fold.  First, by combining virtual assistants as facilitators, an integrated system of scaffolds through the Design Notebook, and support for collaborative interactions both within a learning environment as well as virtually, the platform has the potential to provide a self-contained, self-paced, stand-alone online platform focused on culturally- and socially-relevant game design that has the potential to expose and support hundreds of thousands of learners who do not currently have access to these types of opportunities, programs, or platforms within their communities in the United States.  Second, the platform has the potential to support global collaborations between groups of learners through its ability to showcase work and its virtual play-testing capabilities that will allow users to give and receive substantive feedback about the design of a game, and thus inform its iterative design, from anywhere.
 
@@ -35730,6 +35730,29 @@
   expDate: 11/30/2018
   title: 'I-Corps: Nanomaterial-Enhanced Lithium Ion Batteries'
 - abstractText: |-
+    The broader impact/ commercial potential of this I-Corps project is wide reaching with potential applications for the naocomposites that range from active anode material for advanced batteries to electronic ink. Advanced batteries for electric vehicles can offer the opportunity to achieve longer range (reduce range anxiety), higher power solutions (for nimble acceleration and handling), increased range of operating temperatures (increased utility in colder climates). Similar improvements will impact portable electronics and power tools.  In all cases, but particularly in military and aerospace applications, low weight and longer lasting portable energy sources are critical, and batteries using materials with these characteristics will support important technological advances in these wide-ranging applications.  The batteries based on these technologies will likely have lower manufacturing cost compared to current technology.
+
+    This I-Corps project further develops and explores the commercialization potential of a carbon and oxygen-based two-dimensional nanocomposite that has novel electronic properties (ranging from semi-conducting to conducting) and morphology (1:1-Carbon:oxygen ratio, layered structure, flexible).  This combination of properties can benefit applications where materials development is critical for future technological advances. In particular, these materials are made from non-toxic, abundant materials with controllable electronic properties and nanocomposite structure. Recent efforts in the lab have focused on scaling up the production quantity of these materials. This supports the idea that determining strategies for manufacturing scale-up can be achieved once the specific required properties, application and required quantities have been identified.
+  awardeeAddress: P O BOX 340
+  awardeeCity: Milwaukee
+  awardeeCountryCode: US
+  awardeeName: University of Wisconsin-Milwaukee
+  awardeeStateCode: WI
+  awardeeZipCode: '532010340'
+  fundsObligatedAmt: '50000'
+  fundProgramName: I-Corps
+  id: '1742997'
+  piEmail: cjhirsch@uwm.edu
+  piFirstName: Carol
+  piLastName: Hirschmugl
+  piMiddeInitial: J
+  piPhone: '4142295748'
+  poName: Pamular Mccauley
+  date: 05/03/2017
+  startDate: 06/15/2017
+  expDate: 11/30/2018
+  title: 'I-Corps: Advanced Anodes For Lithium Ion Batteries'
+- abstractText: |-
     The broader impact/commercial potential of this I-Corps project includes developing an analytical platform is capable of empowering customers with big-data analytical capacity, allow them to design and test clean energy ideas on their own terms at a fast pace using evidence-based machine-learning-enabled algorithms, and to enhance their capability to communicate with stakeholders. By adopting the proposed technology, its users could reduce energy consumption, save financial and physical resources, and minimize environmental impact. The predictive feature of the technology could also allow its users to develop a long-term view about their individual purchasing behavior as well as collective planning actions, and make financially wise and environmentally friendly decisions regarding home appliance purchases, commercial technology deployment, as well as city and regional planning.
 
     This I-Corps project aims to explore the commercial viability of an energy analytics platform that combines big-data management platforms, electricity financial models, machine-learning-enabled data-driven analytical tools, and a 3D visualization interface. The platform is pre-loaded with historical data that allows customers to benchmark their past electricity use patterns. The historical data will also serve as an input to customizable machine-learning algorithms that provide customers the power and flexibility to design evidence-driven actions that fit their electricity consumption needs and forecast the economic, environmental, and social impacts related to the actions in the mid- to long-term. Users of the technology will be able to track and assess their electricity use and expenditures, and any associated capital investments. The technology will also allow its users to see the social and macro-economic impact of their energy-related action by producing outputs on public health, job creation and local GDP growth.
@@ -35753,29 +35776,6 @@
   expDate: 11/30/2018
   title: 'I-Corps: Advanced Energy Data Analytics, Visualization, and Forecasting
     Platform for Energy Decision-Makers'
-- abstractText: |-
-    The broader impact/ commercial potential of this I-Corps project is wide reaching with potential applications for the naocomposites that range from active anode material for advanced batteries to electronic ink. Advanced batteries for electric vehicles can offer the opportunity to achieve longer range (reduce range anxiety), higher power solutions (for nimble acceleration and handling), increased range of operating temperatures (increased utility in colder climates). Similar improvements will impact portable electronics and power tools.  In all cases, but particularly in military and aerospace applications, low weight and longer lasting portable energy sources are critical, and batteries using materials with these characteristics will support important technological advances in these wide-ranging applications.  The batteries based on these technologies will likely have lower manufacturing cost compared to current technology.
-
-    This I-Corps project further develops and explores the commercialization potential of a carbon and oxygen-based two-dimensional nanocomposite that has novel electronic properties (ranging from semi-conducting to conducting) and morphology (1:1-Carbon:oxygen ratio, layered structure, flexible).  This combination of properties can benefit applications where materials development is critical for future technological advances. In particular, these materials are made from non-toxic, abundant materials with controllable electronic properties and nanocomposite structure. Recent efforts in the lab have focused on scaling up the production quantity of these materials. This supports the idea that determining strategies for manufacturing scale-up can be achieved once the specific required properties, application and required quantities have been identified.
-  awardeeAddress: P O BOX 340
-  awardeeCity: Milwaukee
-  awardeeCountryCode: US
-  awardeeName: University of Wisconsin-Milwaukee
-  awardeeStateCode: WI
-  awardeeZipCode: '532010340'
-  fundsObligatedAmt: '50000'
-  fundProgramName: I-Corps
-  id: '1742997'
-  piEmail: cjhirsch@uwm.edu
-  piFirstName: Carol
-  piLastName: Hirschmugl
-  piMiddeInitial: J
-  piPhone: '4142295748'
-  poName: Pamular Mccauley
-  date: 05/03/2017
-  startDate: 06/15/2017
-  expDate: 11/30/2018
-  title: 'I-Corps: Advanced Anodes For Lithium Ion Batteries'
 - abstractText: |-
     The broader impact/commercial potential of this I-Corps project is to provide an effective and low-cost means for inhibiting the growth of pathogenic or problematic bacteria in the environment. There is growing concern that the widespread use of antibiotics and biocides has promoted the evolution of resistant bacterial strains for which there exist few effective treatments. The proposed technology is being developed as a safer and more environmentally sustainable alternative to antibiotics and biocides, or may be used as part of a combination treatment to enhance their effects. Additionally, the proposed technology is selective, and can target specific bacteria within a population, thus preserving the function of beneficial species. Successful implementation of this project will lead to the development of a wide range of products useful for controlling bacteria in both built and natural environments. Specific applications are expected to include the control of agricultural pathogens, mitigation of petroleum reservoir souring, optimization of wastewater treatment processes, and microbiome engineering.
 
@@ -37998,6 +37998,53 @@
     tools to measure student learning.\n\nThis award reflects NSF's statutory mission
     and has been deemed worthy of support through evaluation using the Foundation's
     intellectual merit and broader impacts review criteria."
+  awardeeAddress: 615 McCallie Avenue
+  awardeeCity: Chattanooga
+  awardeeCountryCode: US
+  awardeeName: University of Tennessee Chattanooga
+  awardeeStateCode: TN
+  awardeeZipCode: '374032504'
+  fundsObligatedAmt: '549888'
+  fundProgramName: BD Spokes -Big Data Regional I
+  id: '1761839'
+  piEmail: hong-qin@utc.edu
+  piFirstName: Hong
+  piLastName: Qin
+  poName: Earnestine P. Easter
+  date: 09/14/2018
+  startDate: 10/01/2018
+  expDate: 09/30/2021
+  title: 'Spokes: MEDIUM: SOUTH: Collaborative: Integrating Biological Big Data Research
+    into Student Training and Education'
+- abstractText: "The project is a collaborative effort among the University of Tennessee
+    Chattanooga, Tuskegee University, Spelman College, and West Virginia University
+    to integrate and automate biological big data into student training and education.
+    Leveraging the team's expertise in computer science and ecology, the project will
+    offer training workshops on using network models to integrate heterogeneous genomic
+    big data and heterogeneous ecological big data to address life sciences questions.
+    The team will engage faculty and students in developing a protocol to automate
+    field data collection. The team also will prototype automated methods to enhance
+    plant digitization, leveraging the collection of digitized plant images and meta-information
+    at the Southeast Regional Network of Expertise and Collections, as well as the
+    ecological datasets in collaboration with the Encyclopedia of Life.\n\nThe project
+    objectives are to (1) enhance faculty expertise in big biological data through
+    summer workshops; (2) catalyze interdisciplinary collaboration on big biological
+    data research and education through hackathons, working groups, and community-building
+    via a Video Education Faculty Network; and (3) develop hands-on, constructively
+    peer-evaluated learning modules incorporating high-quality video tutorials. The
+    proposed activities will address challenges surrounding the integration and automation
+    of big biological data into education and training at predominantly undergraduate
+    institutions and Historically Black Colleges and Universities. The project will
+    help bridge the gaps between big biological data and the fields of systems biology,
+    ecology and evolution, and environmental sciences. Overall, the project will catalyze
+    collaborations among diverse institutions and disciplines while increasing diversity
+    in big data. \n\nThis award is co-funded by the Improving Undergraduate STEM Education:
+    Education and Human Resources (IUSE): EHR Program (NSF 17-590). IUSE supports
+    projects that are designed to improve student learning through development of
+    new curricular materials and methods of instruction and development of new assessment
+    tools to measure student learning.\n\nThis award reflects NSF's statutory mission
+    and has been deemed worthy of support through evaluation using the Foundation's
+    intellectual merit and broader impacts review criteria."
   awardeeAddress: 350 Spelman Lane SW
   awardeeCity: Atlanta
   awardeeCountryCode: US
@@ -38061,53 +38108,6 @@
   startDate: 09/01/2018
   expDate: 08/31/2021
   title: Core Support for the Federal Demonstration Partnership
-- abstractText: "The project is a collaborative effort among the University of Tennessee
-    Chattanooga, Tuskegee University, Spelman College, and West Virginia University
-    to integrate and automate biological big data into student training and education.
-    Leveraging the team's expertise in computer science and ecology, the project will
-    offer training workshops on using network models to integrate heterogeneous genomic
-    big data and heterogeneous ecological big data to address life sciences questions.
-    The team will engage faculty and students in developing a protocol to automate
-    field data collection. The team also will prototype automated methods to enhance
-    plant digitization, leveraging the collection of digitized plant images and meta-information
-    at the Southeast Regional Network of Expertise and Collections, as well as the
-    ecological datasets in collaboration with the Encyclopedia of Life.\n\nThe project
-    objectives are to (1) enhance faculty expertise in big biological data through
-    summer workshops; (2) catalyze interdisciplinary collaboration on big biological
-    data research and education through hackathons, working groups, and community-building
-    via a Video Education Faculty Network; and (3) develop hands-on, constructively
-    peer-evaluated learning modules incorporating high-quality video tutorials. The
-    proposed activities will address challenges surrounding the integration and automation
-    of big biological data into education and training at predominantly undergraduate
-    institutions and Historically Black Colleges and Universities. The project will
-    help bridge the gaps between big biological data and the fields of systems biology,
-    ecology and evolution, and environmental sciences. Overall, the project will catalyze
-    collaborations among diverse institutions and disciplines while increasing diversity
-    in big data. \n\nThis award is co-funded by the Improving Undergraduate STEM Education:
-    Education and Human Resources (IUSE): EHR Program (NSF 17-590). IUSE supports
-    projects that are designed to improve student learning through development of
-    new curricular materials and methods of instruction and development of new assessment
-    tools to measure student learning.\n\nThis award reflects NSF's statutory mission
-    and has been deemed worthy of support through evaluation using the Foundation's
-    intellectual merit and broader impacts review criteria."
-  awardeeAddress: 615 McCallie Avenue
-  awardeeCity: Chattanooga
-  awardeeCountryCode: US
-  awardeeName: University of Tennessee Chattanooga
-  awardeeStateCode: TN
-  awardeeZipCode: '374032504'
-  fundsObligatedAmt: '549888'
-  fundProgramName: BD Spokes -Big Data Regional I
-  id: '1761839'
-  piEmail: hong-qin@utc.edu
-  piFirstName: Hong
-  piLastName: Qin
-  poName: Earnestine P. Easter
-  date: 09/14/2018
-  startDate: 10/01/2018
-  expDate: 09/30/2021
-  title: 'Spokes: MEDIUM: SOUTH: Collaborative: Integrating Biological Big Data Research
-    into Student Training and Education'
 - abstractText: "The project is a collaborative effort among the University of Tennessee
     Chattanooga, Tuskegee University, Spelman College, and West Virginia University
     to integrate and automate biological big data into student training and education.

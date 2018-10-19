@@ -485,7 +485,7 @@
   piLastName: Arrasmith
   piMiddeInitial: L
   piPhone: '4065700147'
-  poName: Ben Schrag
+  poName: Steven Konsek
   date: 09/14/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -2696,7 +2696,7 @@
   piLastName: King
   piMiddeInitial: E
   piPhone: '5039393571'
-  poName: Ben Schrag
+  poName: Steven Konsek
   date: 09/17/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -2840,7 +2840,7 @@
   piLastName: Moldovan
   piMiddeInitial: A
   piPhone: '6308658291'
-  poName: Ben Schrag
+  poName: Steven Konsek
   date: 09/14/2018
   startDate: 09/15/2018
   expDate: 08/31/2020
@@ -8885,6 +8885,32 @@
   expDate: 05/31/2019
   title: 'SBIR Phase II:  Real-Time Rehab to Improve Gait Symmetry in Amputees'
 - abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project aims to develop a suite of screen-printed receive coils for Magnetic Resonance Imaging (MRI), that are flexible, lightweight, low-cost and adapted to the entire population from infants to adults. MRI is widely used to establish a broad variety of clinical diagnosis, but suffers from long examination times and a high rate of failure, resulting in a yearly loss of more than $4 billion in the United States alone. Printed receive coils are extremely flexible, lightweight, and conform well to the human body. With this technology, coils can be designed and manufactured inexpensively to fit all patient sizes, thus improving image quality and enabling robust acceleration of the method. These benefits can contribute to increase the success rate of MRI exams, speed up procedure time, enhance the clinical workflow, and reduce equipment costs. Printed coils will improve the quality of care offered by MRI suites and increase the availability and use of MRI to a wider patient population. Overall, this project will develop a clinical-ready system capable of delivering the full economic and clinical benefits of printed coils, which will contribute to a reduction of the healthcare costs associated with MRI.
+
+    This project aims to fully realize a clinical-ready system consisting of a collection of printed, flexible lightweight MRI coil arrays, and connecting to a single universal cable to interface with the MRI scanner. A first part of the project will focus on the design of the cable and the associated connection scheme allowing interchange of multiple printed coil arrays of different sizes. Different strategies will be examined with the intent of maintaining high performance and safety while maximizing the advantages brought by printing. A second project goal will focus on the development of a collection of printed coil arrays for patient sizes ranging from newborn to adult, that are compatible with the universal cable and for both 3T and 1.5T scanners. The arrays will be designed for body imaging and will consist of 32-channel devices divided into 16-channel posterior and anterior portions. Their performance will be compared to a commercial 32-channel product. The final system will meet all the safety requirements for medical use and will be ready to be manufactured at scale.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 279 Rheem Boulevard
+  awardeeCity: Moraga
+  awardeeCountryCode: US
+  awardeeName: InkSpace Imaging, Inc.
+  awardeeStateCode: CA
+  awardeeZipCode: '945561540'
+  fundsObligatedAmt: '750000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1831253'
+  piEmail: b.lechene@inkspaceimaging.com
+  piFirstName: Pierre
+  piLastName: Lechene
+  piMiddeInitial: B
+  piPhone: '6268079276'
+  poName: Steven Konsek
+  date: 09/19/2018
+  startDate: 09/15/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  A suite of flexible printed MRI coils for newborn to adult
+    patients'
+- abstractText: |-
     This Small Business Technology Transfer (STTR) Phase II project will develop a new tool for the analysis of in situ indican precursor in indigo plants, which when combined with genomic analysis and genetic linkage mapping in selectively bred indigo crops, will lead to high indican yielding breeding parental lines and ultimately competitively price natural indigo dye.  Additionally, characterization of genetic markers will accelerate further crop improvement by understanding and harnessing the genes crucial to indican synthesis and other aspects of significance to overall indigo yield. These advancements will benefit customers, denim mills, by leading to a more reliable, lower cost plant-derived indigo supply. The success of this multiphase STTR project will enable a cost-competitive, cleaner, and more sustainable denim dyeing process, while greatly expanding the market for domestically produced natural indigo.  Commercialization of a more consistent and higher yielding US-grown indigo plant that produces high purity indigo powder can replace the current standard of synthetic, imported indigo powder. While in demand by the marketplace today, plant-derived indigo is currently only used in premium denim products due to the high cost per pound resulting from low yields per plant per acre. The direct result of this research will be to open new market segments and expand existing market penetration for US-grown and manufactured biobased indigo for the textile industry, an addressable market of $1.86B. The methods and technology developed through this project have a direct path to the commercial marketplace and the industry is ready to support biobased textile dyes such as plant-derived indigo.
 
     During this project, reference genome resources will be constructed for indigo feedstock crops, F1 mapping populations will be constructed for P. tinctoria, I. tinctoria, and I. suffruticosa varieties, and design of the handheld rapid assay device will be validated through laboratory analysis. The reference genome for I. suffruticosa will be built using Pacific Biosciences SMRT sequencing and assembly.  In addition to this reference genome, whole-genome resequencing will be performed on available I. suffruticosa and I. tinctoria varieties.  Nucleotide variation and variant effect prediction will be made between the Indigofera-based indigo varieties.  This variation will be used to develop markers to evaluate intervarietal crosses. Controlled greenhouse crosses of three species will be made to create F1 mapping populations for use in constructing a genetic map and linkage mapping, in combination with the resources developed.  Intraspecies varieties exhibiting distinct phenotypic traits of commercial interest or notable dye yield differences will be selected for crossing to generate the F1 populations. Results from laboratory-based fluorometry equipment will be evaluated for efficacy and then compared against extractive indigo dye analysis from the leaf biomass.  A final prototype will be constructed based on these findings and validated through use in the laboratory and in the field.
@@ -8909,32 +8935,6 @@
   expDate: 08/31/2020
   title: 'STTR Phase II:  Novel Analysis Tools for Production of Higher Indican Yielding
     Plants for Bio-based Indigo'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project aims to develop a suite of screen-printed receive coils for Magnetic Resonance Imaging (MRI), that are flexible, lightweight, low-cost and adapted to the entire population from infants to adults. MRI is widely used to establish a broad variety of clinical diagnosis, but suffers from long examination times and a high rate of failure, resulting in a yearly loss of more than $4 billion in the United States alone. Printed receive coils are extremely flexible, lightweight, and conform well to the human body. With this technology, coils can be designed and manufactured inexpensively to fit all patient sizes, thus improving image quality and enabling robust acceleration of the method. These benefits can contribute to increase the success rate of MRI exams, speed up procedure time, enhance the clinical workflow, and reduce equipment costs. Printed coils will improve the quality of care offered by MRI suites and increase the availability and use of MRI to a wider patient population. Overall, this project will develop a clinical-ready system capable of delivering the full economic and clinical benefits of printed coils, which will contribute to a reduction of the healthcare costs associated with MRI.
-
-    This project aims to fully realize a clinical-ready system consisting of a collection of printed, flexible lightweight MRI coil arrays, and connecting to a single universal cable to interface with the MRI scanner. A first part of the project will focus on the design of the cable and the associated connection scheme allowing interchange of multiple printed coil arrays of different sizes. Different strategies will be examined with the intent of maintaining high performance and safety while maximizing the advantages brought by printing. A second project goal will focus on the development of a collection of printed coil arrays for patient sizes ranging from newborn to adult, that are compatible with the universal cable and for both 3T and 1.5T scanners. The arrays will be designed for body imaging and will consist of 32-channel devices divided into 16-channel posterior and anterior portions. Their performance will be compared to a commercial 32-channel product. The final system will meet all the safety requirements for medical use and will be ready to be manufactured at scale.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 279 Rheem Boulevard
-  awardeeCity: Moraga
-  awardeeCountryCode: US
-  awardeeName: InkSpace Imaging, Inc.
-  awardeeStateCode: CA
-  awardeeZipCode: '945561540'
-  fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1831253'
-  piEmail: b.lechene@inkspaceimaging.com
-  piFirstName: Pierre
-  piLastName: Lechene
-  piMiddeInitial: B
-  piPhone: '6268079276'
-  poName: Ben Schrag
-  date: 09/19/2018
-  startDate: 09/15/2018
-  expDate: 08/31/2020
-  title: 'SBIR Phase II:  A suite of flexible printed MRI coils for newborn to adult
-    patients'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project can lead to a revolution in 3D microgeometry and reflectance properties measurement of object surfaces at the micron-scale range. The proposed technology will significantly improve photorealistic rendering in digital prototyping, and therefore reduce the waste from using physical material samples during design, engineering, and manufacturing. This technology will help reduce product development time and cost, and lead to a greater sustainability.
 

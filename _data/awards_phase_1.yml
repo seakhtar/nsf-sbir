@@ -1294,7 +1294,7 @@
   poName: Richard Schwerdtfeger
   date: 01/05/2018
   startDate: 01/01/2018
-  expDate: 12/31/2018
+  expDate: 04/30/2019
   title: 'SBIR Phase I:  Enhanced solar-thermal vapor generation for salt mining and
     stilled clean water'
 - abstractText: |-
@@ -6287,6 +6287,31 @@
   expDate: 05/31/2019
   title: 'SBIR Phase I:  Ultra-sensitive Detection of Lipoarabinomannan (LAM) and
     Interferon-Gamma (IFN-g) as Biomarkers for Detection of Tuberculosis (TB)'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to develop protein purification technology that will provide access to inexpensive, purified proteins for biological and life science applications by removing the purification bottleneck in biopharmaceutical production, and leveraging the innovative breakthroughs in protein engineering and gene editing.  Scale-up of this technology will transform the large-scale purification of biopharmaceuticals and lower prescription drug costs - the most important factor contributing to rising healthcare costs.  The major factor influencing the rising cost of healthcare is the skyrocketing costs of pharmaceuticals - up to 40% of the medical plan cost will be drugs by 2025.  Prescription drug costs are the fastest rising component of healthcare and are contributing to the dramatic increase in healthcare costs.  The worldwide focus of pharmacy and biotechnology is now on biopharmaceutical development and production to address this issue.  Direct benefits of this project include low-cost, use of green reagents, and the absence of heavy metal impurities in the purified protein.  In addition, the development of immobilized enzymes using this technology will open new frontiers in biocatalysis, biosensors, diagnostics and protein delivery.
+
+    This SBIR Phase I project proposes to develop protein purification kits for small-scale and research-scale research. Bringing these kits to market will enable researchers to further validate the technology on a broader range of proteins in preparation for scale-up for biopharmaceutical production.  Synthetic biology has quickly begun to revolutionize drug discovery and design by providing a better overall molecular understanding of disease.  However, this potential has yet to be fully realized due to the challenges associated with purifying the target recombinant protein from the thousands of naturally-occurring proteins produced by the expression system.  The three specific aims of the project are: 1) validation of protein tag performance for multiple protein classes and expression systems, 2) development of low-cost methods for protein tag removal from purified proteins, and 3) development of solutions for the purification of low-expressing proteins and the parallel purification of small amounts of proteins.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 580 Wilderness Peak Dr. NW
+  awardeeCity: Issaquah
+  awardeeCountryCode: US
+  awardeeName: Proteios, LLC
+  awardeeStateCode: WA
+  awardeeZipCode: '980275621'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1820325'
+  piEmail: bob@proteios.com
+  piFirstName: Bob
+  piLastName: Snyder
+  piPhone: '5037133339'
+  poName: Ruth M. Shuman
+  date: 05/24/2018
+  startDate: 07/01/2018
+  expDate: 12/31/2018
+  title: 'SBIR Phase I: Removing the Purification Bottleneck in Biopharmaceutical
+    Production'
 - abstractText: "This SBIR Phase I project proposes to develop a minimally-invasive
     device that can be used to treat gastroesophageal reflux disease (GERD) by safely
     injecting a proprietary substance into the base of the esophagus.  GERD is the
@@ -6340,31 +6365,6 @@
   expDate: 11/30/2018
   title: 'SBIR Phase I:  Endoscopic injection device for submucosal esophageal injection
     of bulking agents in the treatment of gastroesophageal reflux disease'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to develop protein purification technology that will provide access to inexpensive, purified proteins for biological and life science applications by removing the purification bottleneck in biopharmaceutical production, and leveraging the innovative breakthroughs in protein engineering and gene editing.  Scale-up of this technology will transform the large-scale purification of biopharmaceuticals and lower prescription drug costs - the most important factor contributing to rising healthcare costs.  The major factor influencing the rising cost of healthcare is the skyrocketing costs of pharmaceuticals - up to 40% of the medical plan cost will be drugs by 2025.  Prescription drug costs are the fastest rising component of healthcare and are contributing to the dramatic increase in healthcare costs.  The worldwide focus of pharmacy and biotechnology is now on biopharmaceutical development and production to address this issue.  Direct benefits of this project include low-cost, use of green reagents, and the absence of heavy metal impurities in the purified protein.  In addition, the development of immobilized enzymes using this technology will open new frontiers in biocatalysis, biosensors, diagnostics and protein delivery.
-
-    This SBIR Phase I project proposes to develop protein purification kits for small-scale and research-scale research. Bringing these kits to market will enable researchers to further validate the technology on a broader range of proteins in preparation for scale-up for biopharmaceutical production.  Synthetic biology has quickly begun to revolutionize drug discovery and design by providing a better overall molecular understanding of disease.  However, this potential has yet to be fully realized due to the challenges associated with purifying the target recombinant protein from the thousands of naturally-occurring proteins produced by the expression system.  The three specific aims of the project are: 1) validation of protein tag performance for multiple protein classes and expression systems, 2) development of low-cost methods for protein tag removal from purified proteins, and 3) development of solutions for the purification of low-expressing proteins and the parallel purification of small amounts of proteins.
-
-    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
-  awardeeAddress: 580 Wilderness Peak Dr. NW
-  awardeeCity: Issaquah
-  awardeeCountryCode: US
-  awardeeName: Proteios, LLC
-  awardeeStateCode: WA
-  awardeeZipCode: '980275621'
-  fundsObligatedAmt: '225000'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1820325'
-  piEmail: bob@proteios.com
-  piFirstName: Bob
-  piLastName: Snyder
-  piPhone: '5037133339'
-  poName: Ruth M. Shuman
-  date: 05/24/2018
-  startDate: 07/01/2018
-  expDate: 12/31/2018
-  title: 'SBIR Phase I: Removing the Purification Bottleneck in Biopharmaceutical
-    Production'
 - abstractText: |-
     This Small Business Innovation Research Phase I project will develop the process to 3D print continuous fiber reinforced ceramic matrix composite (CMC) components for turbine and combustion engines, hypersonic vehicles, and satellites. CMCs are currently a $2.5b market that is expected to triple over the next decade. The ability to produce CMCs with 3D printing will enable superior designs in current applications, as well as enabling their use in a greater number of components that are currently limited by the higher density and lower temperature capabilities of superalloys such as Inconel and Invar. Developing this manufacturing process will enable more basic materials research by serving as a lower cost testbed for new CMC compositions since a mold is not required and turnaround times are much faster. This will also allow engineers to develop more optimized systems with a faster design cycle. This capability will result in efficiency increases in turbine and combustion engines for substantial improvements in fuel efficiency, reducing costs and environmental impact. Finally, the ability to 3D print CMCs will vastly improve geometric complexity of high temperature components, which will enable the next generation of hypersonic vehicles, supporting national defense.
 
@@ -6932,6 +6932,56 @@
   expDate: 12/31/2018
   title: 'STTR Phase I:  Intelligent Planning and Control Software for EV Charging
     Infrastructure'
+- abstractText: "The broader impact of this Small Business Innovation Research (SBIR)
+    Phase I project is the improved identification of young children who may be at
+    risk for Autism Spectrum Disorder (ASD). Autism is a growing concern as rates
+    continue to increase, however many experts in child development are hopeful that
+    early intervention can help reduce many of the challenges of living with autism.
+    \ As the brain undergoes important critical periods of development in the first
+    year of life, it is important to try and identify opportunities for intervention
+    as early as infancy. However, infants have limited means to express themselves
+    and it can be difficult for parents and even pediatricians to track the subtle
+    behavioral cues that can be indicative of autism at this early age.  The goal
+    of this proposal is to improve access to tools that help make infants developing
+    thinking and social skills more observable to pediatricians and parents. By creating
+    a consumer version of an old technique used by psychologists to understand infant
+    development, this work will increase access to tools to track infants' behaviors
+    related to autism.  \n\nThe proposed project is novel in its repurposing of an
+    established laboratory psychology tool, the nonnutritive sucking paradigm. Basically,
+    psychologists long ago learned that infants will alter their rate of sucking on
+    a pacifier when they are interested in something. Psychologists recorded from
+    a pacifier to gauge what an infant was interested in as well as an infant's growing
+    understanding of language, social interaction, math, and a wide variety of cognitive
+    and social skills. They also allowed infants to control the presentation of sounds
+    or images through their sucking patterns. This SBIR project is creating a more
+    accessible version of this established smart pacifier technique to allow parents
+    and pediatricians to also better track an infant?s interest, preferences, and
+    social and cognitive development. This effort will develop a consumer friendly
+    smart pacifier that can control sounds or images on software or mobile applications.
+    By designing software that replicates the social and cognitive assessment paradigms
+    in psychology laboratories, the smart pacifier system can increase access to objective
+    behavioral assessment tools. Similar to growing evidence in eye-tracking behavior,
+    this behavioral assessment tool can be used to better assess behaviors that have
+    been linked to the future development of autism."
+  awardeeAddress: 19 S Bentz St
+  awardeeCity: Frederick
+  awardeeCountryCode: US
+  awardeeName: Brainchild Technologies L.L.C.
+  awardeeStateCode: MD
+  awardeeZipCode: '217015505'
+  fundsObligatedAmt: '224911'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1746528'
+  piEmail: carly@brainchildtech.org
+  piFirstName: Carly
+  piLastName: Kiselycznyk
+  piPhone: '4109293439'
+  poName: Nancy Kamei
+  date: 12/29/2017
+  startDate: 01/01/2018
+  expDate: 12/31/2018
+  title: 'SBIR Phase I:  Development of a Smart Pacifier to help parents and pediatricians
+    track early signs of Autism Spectrum Disorder'
 - abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to ultimately increase the number of women in STEM careers, thus allowing women to secure higher paying jobs and to expand global innovation by increasing the number of women who are inventing future technologies. Research demonstrates a direct connection between play and academic pursuits, yet few STEM products appeal to the 10MM+ pre-adolescent U.S. girls.  Our hypothesis is that by designing an Internet of Things (IoT) platform of interactive decor building kits with motion and lighting features, we can engage girls in hands-on STEM learning during a formative time in their emotional and intellectual development. The kits will offer educational and exploratory opportunities including spatial and sequential thinking, mechanical engineering, electrical engineering, and programming. The user guides and on-line learning modules will be authored and designed to create and build a STEM identity in girls. Our theory is that this hands-on experience will create attitudinal and identity shifts in girls to motivate them to pursue additional STEM academic opportunities and further their exploration with other STEM activities.
 
@@ -7090,56 +7140,6 @@
   expDate: 12/31/2018
   title: 'SBIR Phase I:  Digital Media Synchronization, Performance and Urban Education
     Enhancement'
-- abstractText: "The broader impact of this Small Business Innovation Research (SBIR)
-    Phase I project is the improved identification of young children who may be at
-    risk for Autism Spectrum Disorder (ASD). Autism is a growing concern as rates
-    continue to increase, however many experts in child development are hopeful that
-    early intervention can help reduce many of the challenges of living with autism.
-    \ As the brain undergoes important critical periods of development in the first
-    year of life, it is important to try and identify opportunities for intervention
-    as early as infancy. However, infants have limited means to express themselves
-    and it can be difficult for parents and even pediatricians to track the subtle
-    behavioral cues that can be indicative of autism at this early age.  The goal
-    of this proposal is to improve access to tools that help make infants developing
-    thinking and social skills more observable to pediatricians and parents. By creating
-    a consumer version of an old technique used by psychologists to understand infant
-    development, this work will increase access to tools to track infants' behaviors
-    related to autism.  \n\nThe proposed project is novel in its repurposing of an
-    established laboratory psychology tool, the nonnutritive sucking paradigm. Basically,
-    psychologists long ago learned that infants will alter their rate of sucking on
-    a pacifier when they are interested in something. Psychologists recorded from
-    a pacifier to gauge what an infant was interested in as well as an infant's growing
-    understanding of language, social interaction, math, and a wide variety of cognitive
-    and social skills. They also allowed infants to control the presentation of sounds
-    or images through their sucking patterns. This SBIR project is creating a more
-    accessible version of this established smart pacifier technique to allow parents
-    and pediatricians to also better track an infant?s interest, preferences, and
-    social and cognitive development. This effort will develop a consumer friendly
-    smart pacifier that can control sounds or images on software or mobile applications.
-    By designing software that replicates the social and cognitive assessment paradigms
-    in psychology laboratories, the smart pacifier system can increase access to objective
-    behavioral assessment tools. Similar to growing evidence in eye-tracking behavior,
-    this behavioral assessment tool can be used to better assess behaviors that have
-    been linked to the future development of autism."
-  awardeeAddress: 19 S Bentz St
-  awardeeCity: Frederick
-  awardeeCountryCode: US
-  awardeeName: Brainchild Technologies L.L.C.
-  awardeeStateCode: MD
-  awardeeZipCode: '217015505'
-  fundsObligatedAmt: '224911'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1746528'
-  piEmail: carly@brainchildtech.org
-  piFirstName: Carly
-  piLastName: Kiselycznyk
-  piPhone: '4109293439'
-  poName: Nancy Kamei
-  date: 12/29/2017
-  startDate: 01/01/2018
-  expDate: 11/30/2018
-  title: 'SBIR Phase I:  Development of a Smart Pacifier to help parents and pediatricians
-    track early signs of Autism Spectrum Disorder'
 - abstractText: "This Small Business Innovation Research Phase I project will build
     children's motivation to read and help them access books best suited to their
     individual interests, purposes, and abilities. Even though robust research demonstrates
@@ -7186,7 +7186,7 @@
   poName: Rajesh Mehta
   date: 12/27/2017
   startDate: 01/01/2018
-  expDate: 10/31/2018
+  expDate: 01/31/2019
   title: 'SBIR Phase I:  Mia Learning Independent Reading Choice Support System'
 - abstractText: |-
     This SBIR phase I project will develop new reagents to enable cell separation and analysis. Cell separation is a $3.9 billion/yr market with applications in medicine, pharmaceutical, and biological research industries. However, many current schemes perform cell separation and analysis in separate steps. A single reagent that could perform both functions would save time and money, enhancing these industries. The nanoparticle reagent developed by this research possesses magnetic properties to enable cell separation, and fluorescent properties that allow properties of separated cells to be quantified. This research will optimize this product and demonstrate proof-of-concept against the current standard approaches. The proposed product is the result of basic research previously funded by the NSF into methods to combine magnetic and fluorescent reagents, and optimization of this reagent will yield basic knowledge in manufacture and scale-up of these nanomaterials. Successful completion of these goals will lead to a new product that will enable cell separation and analysis with a single reagent, enabling cell separation with high purity and increasing signal used for quantification. These benefits could translate into reduced laboratory healthcare costs with increased diagnostic efficiency, improved pharmaceutical purity, and high tech nanomanufacturing jobs in this burgeoning industry.
@@ -9929,7 +9929,7 @@
   poName: Ruth M. Shuman
   date: 06/21/2017
   startDate: 06/15/2017
-  expDate: 11/30/2018
+  expDate: 02/28/2019
   title: 'STTR Phase I:  De Novo Production of Aroma Compounds by Nonconventional
     Recombinant Yeast'
 - abstractText: "This STTR Phase I project aims to develop a novel microfluidic sensor
