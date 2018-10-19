@@ -216,6 +216,13 @@
     - name: Edify Technologies, Inc.
     - name: Triad Interactive Media
     - name: starMobile, Inc.
+    - name: CueThink
+    - name: Alchemie Solutions, Inc.
+    - name: Couragion Corporation
+    - name: Speak Agent, Inc.
+    - name: Zyrobotics LLC
+    - name: ThoughtSTEM, LLC
+    - name: Looking Glass Ventures, LLC
     
 - topic: Energy and Power Systems (EW)
   permalink: /topics/energy-power/
@@ -283,7 +290,6 @@
   - Social Media and Collaborative Networking (IT11)
   - Software (IT12)
   companies:
-    - name: QC Ware Corp.
     - name: DeepScale, Inc
     - name: Openspace
     - name: Stateless, Inc
@@ -407,6 +413,8 @@
   companies:
     - name: Clerio Vision, Inc.
     - name: Endectra, LLC
+    - name: UbiQD, Inc.
+    - name: TG Companies, LLC
     
 - topic: Quantum Information Technologies (IT)
   permalink: /topics/quantum-information/
@@ -421,6 +429,7 @@
   subtopics:
     - Quantum Information Technologies (IT3)
   companies: 
+    - name: QC Ware Corp.
     
 - topic: Robotics (EW)
   permalink: /topics/robotics/
