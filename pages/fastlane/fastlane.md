@@ -28,6 +28,8 @@ PDF version is available for [download]({{ site.baseurl }}/assets/files/applican
 * [Small Business Administration (SBA) Company Registry](https://www.sbir.gov/registration)
 * [NSF Research.gov](https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_home_page) - register your company and Principal Investigator (PI) and Authorized Organizational Representative (AOR)
 
+For SBIR applicants with subawardees and all STTR applicants, the subawardee should be registered in SAM. If the sub awardee organization is NOT registered in SAM, the principal investigator (PI) or a representative at the subawardee organization can call the [research.gov](http://research.gov/) or FastLane Help Desk. NSF will manually register them as an institution in the NSF system.
+
 ### Register a New Organization
 
 Organizations must be registered with the National Science Foundation (NSF) to submit proposals using NSF’s systems. Before a new organization can register with NSF, it must first be registered in the System for Award Management <span markdown="0">(SAM - <a href="https://www.sam.gov"> https://www.sam.gov </a>)</span> and have a DUNS number. Note that completion of the SAM registration process may take up to one month.
