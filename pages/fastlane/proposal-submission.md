@@ -57,6 +57,7 @@ At this point, the Sponsored Project Officer (SPO) has to take the following ste
  ![Fastlane Desktop]({{ site.baseurl }}/assets/img/fastlane/Sep-fastlaneDesktop.png)
 3\. Click **"Proposals/File Updates/Withdrawals"**. The screen displays on the **Documents in Progress** tab.
 
+
  ![Research Admin]({{ site.baseurl }}/assets/img/fastlane/proposalSupplementsRA.png)
 4\. Click **"Submit"** in the row for the proposal you want to submit.
 
