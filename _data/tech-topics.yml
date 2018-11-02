@@ -271,18 +271,17 @@
   subtopics:
   - Artificial Intelligence, Machine Learning, and Natural Language Processing (IT1)
   - Image and Video (IT2)
-  - Cybersecurity, Authentication, and Privacy (IT3)
-  - Cybersecurity for the Internet of Things (IT4)
-  - Networking Technology (IT5)
-  - Mobile Computing and Internet of Things (IT6)
-  - Cloud Computing and High-performance Computing (IT7)
-  - Cloud-based IT Services (IT8)
-  - Big Data and Advanced Analytics (IT9)
-  - Human-Computer Interaction, Virtual Reality, and Augmented Reality (IT10)
-  - Social Media and Collaborative Networking (IT11)
-  - Software (IT12)
+  - Cybersecurity, Authentication, and Privacy (IT4)
+  - Cybersecurity for the Internet of Things (IT5)
+  - Networking Technology (IT6)
+  - Mobile Computing and Internet of Things (IT7)
+  - Cloud Computing and High-performance Computing (IT8)
+  - Cloud-based IT Services (IT9)
+  - Big Data and Advanced Analytics (IT10)
+  - Human-Computer Interaction, Virtual Reality, and Augmented Reality (IT11)
+  - Social Media and Collaborative Networking (IT12)
+  - Software (IT13)
   companies:
-    - name: QC Ware Corp.
     - name: DeepScale, Inc
     - name: Openspace
     - name: Stateless, Inc
@@ -420,6 +419,7 @@
   subtopics:
     - Quantum Information Technologies (IT3)
   companies: 
+    - name: QC Ware Corp.
     
 - topic: Robotics (EW)
   permalink: /topics/robotics/
