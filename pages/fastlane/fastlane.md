@@ -24,7 +24,7 @@ PDF version is available for [download]({{ site.baseurl }}/assets/files/applican
 *Companies submitting SBIR or STTR proposals to the Federal government must also register with the Small Business Administration’s Company Registry.*
 
 * [Dun and Bradstreet Data Universal Numbering System (DUNS)](https://www.nsf.gov/cgi-bin/good-bye?https://iupdate.dnb.com/iUpdate/viewiUpdateHome.htm)
-* [System for Award Management (SAM)](https://www.sam.gov/portal/public/SAM)
+* [System for Award Management (SAM)](https://www.sam.gov/SAM/)
 * [Small Business Administration (SBA) Company Registry](https://www.sbir.gov/registration)
 * [NSF Research.gov](https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_home_page) - register your company and Principal Investigator (PI) and Authorized Organizational Representative (AOR)
 
