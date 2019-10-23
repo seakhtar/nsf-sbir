@@ -26,7 +26,7 @@ For 40 years, America’s Seed Fund powered by NSF has helped startups and small
 
 <div class="usa-content usa-grid">
 <div class="usa-width-one-whole" markdown="1">
-<p>When you join our innovators:</p>
+<p>When you join our innovators: </p>
 </div>
 </div>
 
